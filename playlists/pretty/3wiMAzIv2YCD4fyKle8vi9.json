@@ -6,23 +6,39 @@
     "name": "Joaquin Lobato",
     "url": "https://open.spotify.com/user/11100497949"
   },
-  "snapshot_id": "AAAAtfSMUqbNhfGPWi3VYQ/D/zTtc3zb",
+  "snapshot_id": "AAAAwZAmOxSoEpJfHtZ4S7bSzemrahTG",
   "tracks": [
     {
-      "added_at": "2024-12-22 23:13:09",
+      "added_at": "2025-01-03 05:58:04",
       "album": {
-        "name": "Periphery",
-        "url": "https://open.spotify.com/album/4awtJRbmWdI7Ow8Ss0rKqK"
+        "name": "Songs Before Bed (2022)",
+        "url": "https://open.spotify.com/album/7pnz4Fyzrk0dD1HMg3NILk"
       },
       "artists": [
         {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+          "name": "Otto Benson",
+          "url": "https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Lake Feet",
-      "url": "https://open.spotify.com/track/3f29KBlVXjU5XS8PmRkIVx"
+      "duration_ms": 105263,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/026TzS0EZlfYFnbIvPcxDy"
+    },
+    {
+      "added_at": "2025-01-03 05:58:49",
+      "album": {
+        "name": "Falling Through a Field",
+        "url": "https://open.spotify.com/album/0sUco7PNEiKc5pjx3IFQea"
+      },
+      "artists": [
+        {
+          "name": "Black Moth Super Rainbow",
+          "url": "https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Boatfriend",
+      "url": "https://open.spotify.com/track/2o9gq1WwGKe80wds6Yn6Gh"
     },
     {
       "added_at": "2024-12-23 01:27:10",
@@ -55,6 +71,110 @@
       "duration_ms": 533163,
       "name": "Canned Forever",
       "url": "https://open.spotify.com/track/1TnsQQAqEl6AIUiGFTYOA3"
+    },
+    {
+      "added_at": "2024-12-23 00:59:28",
+      "album": {
+        "name": "The Nature of Resonance",
+        "url": "https://open.spotify.com/album/4XdTsQp7YhNz408O7cqUDl"
+      },
+      "artists": [
+        {
+          "name": "Gemini Horror",
+          "url": "https://open.spotify.com/artist/0z0aWfGyBRMAjqV3euHZ1f"
+        }
+      ],
+      "duration_ms": 507866,
+      "name": "Last Halloween",
+      "url": "https://open.spotify.com/track/0hPB3ZqmoHJ3dfsZNqzsTO"
+    },
+    {
+      "added_at": "2024-12-23 01:17:47",
+      "album": {
+        "name": "A Colour For Autumn",
+        "url": "https://open.spotify.com/album/3m8WKUe7KimObwrr8VLsMn"
+      },
+      "artists": [
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Watching It Unfold",
+      "url": "https://open.spotify.com/track/7uWVu34XKqTFbQOmnRkver"
+    },
+    {
+      "added_at": "2024-12-23 01:18:07",
+      "album": {
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+      },
+      "artists": [
+        {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 293626,
+      "name": "Don't Go Where I Can't Find You",
+      "url": "https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba"
+    },
+    {
+      "added_at": "2024-12-23 01:22:24",
+      "album": {
+        "name": "Pear & Biscuits Classical",
+        "url": "https://open.spotify.com/album/78jctDLSbWxdxIGyeDyp7A"
+      },
+      "artists": [
+        {
+          "name": "Parish Council",
+          "url": "https://open.spotify.com/artist/33ybNzLBurfWiyuNvpml4C"
+        }
+      ],
+      "duration_ms": 220852,
+      "name": "New Apt.",
+      "url": "https://open.spotify.com/track/5XzTNzMYXP6zl6Kaadp2UH"
+    },
+    {
+      "added_at": "2024-12-23 01:00:41",
+      "album": {
+        "name": "La Ni\u00f1a Junco",
+        "url": "https://open.spotify.com/album/0GuhJnRErjBiJUYuo0nRZY"
+      },
+      "artists": [
+        {
+          "name": "Federico Durand",
+          "url": "https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW"
+        }
+      ],
+      "duration_ms": 452613,
+      "name": "Lluvia de estrellas",
+      "url": "https://open.spotify.com/track/6sWDkTpxivmsjmBCMms1O2"
+    },
+    {
+      "added_at": "2024-12-22 23:13:09",
+      "album": {
+        "name": "Periphery",
+        "url": "https://open.spotify.com/album/4awtJRbmWdI7Ow8Ss0rKqK"
+      },
+      "artists": [
+        {
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Lake Feet",
+      "url": "https://open.spotify.com/track/3f29KBlVXjU5XS8PmRkIVx"
     },
     {
       "added_at": "2024-12-23 00:17:06",
@@ -225,22 +345,6 @@
       "url": "https://open.spotify.com/track/6M8d1XLfxTw3eerdVSBeB7"
     },
     {
-      "added_at": "2024-12-23 00:59:28",
-      "album": {
-        "name": "The Nature of Resonance",
-        "url": "https://open.spotify.com/album/4XdTsQp7YhNz408O7cqUDl"
-      },
-      "artists": [
-        {
-          "name": "Gemini Horror",
-          "url": "https://open.spotify.com/artist/0z0aWfGyBRMAjqV3euHZ1f"
-        }
-      ],
-      "duration_ms": 507866,
-      "name": "Last Halloween",
-      "url": "https://open.spotify.com/track/0hPB3ZqmoHJ3dfsZNqzsTO"
-    },
-    {
       "added_at": "2024-12-23 00:59:45",
       "album": {
         "name": "SMM: Context",
@@ -303,22 +407,6 @@
       "duration_ms": 350053,
       "name": "_Sealevel.3",
       "url": "https://open.spotify.com/track/6vbPE8yVqFg38p1sSoKBWn"
-    },
-    {
-      "added_at": "2024-12-23 01:00:41",
-      "album": {
-        "name": "La Ni\u00f1a Junco",
-        "url": "https://open.spotify.com/album/0GuhJnRErjBiJUYuo0nRZY"
-      },
-      "artists": [
-        {
-          "name": "Federico Durand",
-          "url": "https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW"
-        }
-      ],
-      "duration_ms": 452613,
-      "name": "Lluvia de estrellas",
-      "url": "https://open.spotify.com/track/6sWDkTpxivmsjmBCMms1O2"
     },
     {
       "added_at": "2024-12-23 01:00:55",
@@ -529,46 +617,6 @@
       "url": "https://open.spotify.com/track/1zNLZ6IRhPumXswKsN6huu"
     },
     {
-      "added_at": "2024-12-23 01:17:47",
-      "album": {
-        "name": "A Colour For Autumn",
-        "url": "https://open.spotify.com/album/3m8WKUe7KimObwrr8VLsMn"
-      },
-      "artists": [
-        {
-          "name": "Lawrence English",
-          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Watching It Unfold",
-      "url": "https://open.spotify.com/track/7uWVu34XKqTFbQOmnRkver"
-    },
-    {
-      "added_at": "2024-12-23 01:18:07",
-      "album": {
-        "name": "Winter Garden",
-        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
-      },
-      "artists": [
-        {
-          "name": "Eraldo Bernocchi",
-          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 293626,
-      "name": "Don't Go Where I Can't Find You",
-      "url": "https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba"
-    },
-    {
       "added_at": "2024-12-23 01:18:23",
       "album": {
         "name": "For Those Of You Who Have Never (And Also Those Who Have)",
@@ -725,22 +773,6 @@
       "url": "https://open.spotify.com/track/0kjSAztjFSghBdDWzKi2XO"
     },
     {
-      "added_at": "2024-12-23 01:22:24",
-      "album": {
-        "name": "Pear & Biscuits Classical",
-        "url": "https://open.spotify.com/album/78jctDLSbWxdxIGyeDyp7A"
-      },
-      "artists": [
-        {
-          "name": "Parish Council",
-          "url": "https://open.spotify.com/artist/33ybNzLBurfWiyuNvpml4C"
-        }
-      ],
-      "duration_ms": 220852,
-      "name": "New Apt.",
-      "url": "https://open.spotify.com/track/5XzTNzMYXP6zl6Kaadp2UH"
-    },
-    {
       "added_at": "2024-12-23 01:22:37",
       "album": {
         "name": "Haunt Me",
@@ -819,6 +851,22 @@
       "duration_ms": 244973,
       "name": "Una plaza junto a las v\u00edas del tren",
       "url": "https://open.spotify.com/track/62dvhQmeIl04KkG2R2olsJ"
+    },
+    {
+      "added_at": "2024-12-23 01:26:36",
+      "album": {
+        "name": "fragmentos",
+        "url": "https://open.spotify.com/album/6G1AMBQppT2Tz9uyngIM90"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rica Anal\u00f3gica",
+          "url": "https://open.spotify.com/artist/17avFZg8bvFrQA2rIJZTkO"
+        }
+      ],
+      "duration_ms": 144978,
+      "name": "ruido, viene del agua",
+      "url": "https://open.spotify.com/track/4rWZktrwTSafC1eZgt1OMH"
     },
     {
       "added_at": "2024-12-23 01:23:29",
@@ -999,22 +1047,6 @@
       "duration_ms": 309320,
       "name": "Iceblink",
       "url": "https://open.spotify.com/track/73lw9cCA322X83dsK5obJM"
-    },
-    {
-      "added_at": "2024-12-23 01:26:36",
-      "album": {
-        "name": "fragmentos",
-        "url": "https://open.spotify.com/album/6G1AMBQppT2Tz9uyngIM90"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rica Anal\u00f3gica",
-          "url": "https://open.spotify.com/artist/17avFZg8bvFrQA2rIJZTkO"
-        }
-      ],
-      "duration_ms": 144978,
-      "name": "ruido, viene del agua",
-      "url": "https://open.spotify.com/track/4rWZktrwTSafC1eZgt1OMH"
     },
     {
       "added_at": "2024-12-23 01:26:59",

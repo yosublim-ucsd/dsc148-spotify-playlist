@@ -4,7 +4,7 @@
 
 > The best of right now\. Cover: Bleachers
 
-2,558 songs - 6 day 10 hr 12 min
+2,559 songs - 6 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1313,7 +1313,7 @@
 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 | 2023-08-01 | 2024-01-06 |
 | [Lone Dancer](https://open.spotify.com/track/7lzG8qK8BmHEDXQchwXszI) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Moonlit Breakers](https://open.spotify.com/album/7cy4sOmZTsFZMRLHvlBCSf) | 3:44 | 2024-04-11 | 2024-04-26 |
 | [Loneliness](https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loneliness](https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx) | 3:27 | 2022-06-30 | 2022-07-03 |
-| [Lonely](https://open.spotify.com/track/32ULqlnRCPQcqNaZc2eIs1) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Lonely / Sweet Devil](https://open.spotify.com/album/0MGsHtaGy3Co8i09Kn5vgV) | 3:46 | 2024-09-05 |  |
+| [Lonely](https://open.spotify.com/track/32ULqlnRCPQcqNaZc2eIs1) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Lonely / Sweet Devil](https://open.spotify.com/album/0MGsHtaGy3Co8i09Kn5vgV) | 3:46 | 2024-09-05 | 2025-01-04 |
 | [LONELY DEZIRES](https://open.spotify.com/track/3Cur9MCOsXQkY8KRVdkFpL) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:43 | 2021-09-04 | 2021-10-13 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-23 | 2024-12-07 |
 | [Loner](https://open.spotify.com/track/7fLb22ZSPkgPOCsOksCwtg) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Loner](https://open.spotify.com/album/5znBaBjG7vMjRdSdKcNV6Q) | 2:23 | 2022-05-19 | 2022-07-01 |
@@ -1342,6 +1342,7 @@
 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-29 | 2022-09-03 |
 | [Love Me Like You Used To](https://open.spotify.com/track/6V5eKHRdQLaYLH7XPbtbOo) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:40 | 2021-05-28 | 2022-04-30 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-21 | 2022-07-13 |
+| [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2025-01-03 |  |
 | [Love On The Run](https://open.spotify.com/track/4VXabjbReCUzFHbrzLaTzf) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Love On The Run](https://open.spotify.com/album/6aVblMt9BkzGxjEhx3Ul8g) | 7:03 | 2022-10-11 | 2022-10-14 |
 | [Love On The Run](https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 7:03 | 2022-11-04 | 2023-01-06 |
 | [Love Will Get You There](https://open.spotify.com/track/4ycaDB5s90BpUyaS5nZwcI) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 4:10 | 2023-02-24 | 2023-04-29 |

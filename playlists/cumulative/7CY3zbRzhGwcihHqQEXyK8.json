@@ -6187,6 +6187,28 @@
     },
     {
       "album": {
+        "name": "little spoon anthem",
+        "url": "https://open.spotify.com/album/6NUPw3K9mFmGPG1nlPAaas"
+      },
+      "artists": [
+        {
+          "name": "MouSa",
+          "url": "https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn"
+        },
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151872,
+      "name": "little spoon anthem",
+      "url": "https://open.spotify.com/track/0NcAkc4ruSbLh6QKh9m8N9"
+    },
+    {
+      "album": {
         "name": "KNOWITALL",
         "url": "https://open.spotify.com/album/3taqQGM1QEr2Mb5zKdfFHI"
       },

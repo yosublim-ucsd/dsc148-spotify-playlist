@@ -6,7 +6,7 @@
     "name": "Rookii",
     "url": "https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb"
   },
-  "snapshot_id": "AAABfvn0wNOerttsla3Idf9jU8fmQjWO",
+  "snapshot_id": "AAABfzF/A5UCJwAPfuXvz7abBpFKCoXE",
   "tracks": [
     {
       "added_at": "2024-12-15 03:47:51",
@@ -10383,6 +10383,26 @@
       "duration_ms": 132260,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/0ODdK5xGQqUpU3gDoagBFk"
+    },
+    {
+      "added_at": "2025-01-03 08:58:24",
+      "album": {
+        "name": "little spoon anthem",
+        "url": "https://open.spotify.com/album/6NUPw3K9mFmGPG1nlPAaas"
+      },
+      "artists": [
+        {
+          "name": "MouSa",
+          "url": "https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn"
+        },
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "duration_ms": 151872,
+      "name": "little spoon anthem",
+      "url": "https://open.spotify.com/track/0NcAkc4ruSbLh6QKh9m8N9"
     }
   ],
   "unique_name": "Rook's Collection of Withdrawn Songs",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,560 likes - 67 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,631 likes - 67 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

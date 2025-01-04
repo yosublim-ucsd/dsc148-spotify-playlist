@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  D.O.D
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,162 likes - 159 songs - 8 hr 7 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,153 likes - 159 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 158 | [Too Cee](https://open.spotify.com/track/2JEyk2eB4wX12jAfmSvPTn) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [El Blaack](https://open.spotify.com/artist/0aZttgWBVSqOsek6AL56xC) | [Sola presents South America](https://open.spotify.com/album/7I7OhybLvijPsAkiJSBeTS) | 2:47 |
 | 159 | [Burn This City](https://open.spotify.com/track/5NeeU7IPXNRtpxFGKIoHf1) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [JOSEFINA](https://open.spotify.com/artist/3jBxJe3QHScYuEPo86Zeu5) | [Burn This City](https://open.spotify.com/album/7u2KDsylqBH7oGhHdWLxZ9) | 4:00 |
 
-Snapshot ID: `AADTJFbOMLyufsbSuYwEk5SlvQ6q1c7t`
+Snapshot ID: `AADTJQAsMsGBfnHbNJk07Qx/jWWRd8YP`

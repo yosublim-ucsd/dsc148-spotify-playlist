@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14807,
+  "num_followers": 14808,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Music We Like To Dance To",
-        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Chy\u0142a Quintet",
-          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
-        }
-      ],
-      "duration_ms": 458733,
-      "name": "Thousand Yard Stare",
-      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "De Joe",
         "url": "https://open.spotify.com/album/2KgKvBhZtJqFQfWxR8Nnjt"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Music We Like To Dance To",
+        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Chy\u0142a Quintet",
+          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
+        }
+      ],
+      "duration_ms": 458733,
+      "name": "Thousand Yard Stare",
+      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Flying Lion",
         "url": "https://open.spotify.com/album/0M7FwXBXw3WRrlwlzPTKLR"
       },
@@ -1507,26 +1507,6 @@
       "duration_ms": 364149,
       "name": "Hi 5",
       "url": "https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "AtomoGenus",
-        "url": "https://open.spotify.com/album/3luSKB2QW6RRtE6mqVk0kS"
-      },
-      "artists": [
-        {
-          "name": "W\u0142adys\u0142aw Komendarek",
-          "url": "https://open.spotify.com/artist/5AsOXs9X5NwLxaApulRvV6"
-        },
-        {
-          "name": "Krzysztof Komendarek-Tymendorf",
-          "url": "https://open.spotify.com/artist/4n27D11U5l7SCihU7ymVts"
-        }
-      ],
-      "duration_ms": 379681,
-      "name": "Toksyczny my\u015bliciel / Toxic thinker",
-      "url": "https://open.spotify.com/track/1XiDMJtKPIUF1ymKhVlQKg"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1563,6 +1543,26 @@
       "duration_ms": 563000,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/2ZFOwLuqCZmzC2khHhRQc3"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "AtomoGenus",
+        "url": "https://open.spotify.com/album/3luSKB2QW6RRtE6mqVk0kS"
+      },
+      "artists": [
+        {
+          "name": "W\u0142adys\u0142aw Komendarek",
+          "url": "https://open.spotify.com/artist/5AsOXs9X5NwLxaApulRvV6"
+        },
+        {
+          "name": "Krzysztof Komendarek-Tymendorf",
+          "url": "https://open.spotify.com/artist/4n27D11U5l7SCihU7ymVts"
+        }
+      ],
+      "duration_ms": 379681,
+      "name": "Toksyczny my\u015bliciel / Toxic thinker",
+      "url": "https://open.spotify.com/track/1XiDMJtKPIUF1ymKhVlQKg"
     },
     {
       "added_at": "2024-03-25 08:52:09",

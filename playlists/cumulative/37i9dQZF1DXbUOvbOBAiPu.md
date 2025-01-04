@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: DJ Licious
 
-3,037 songs - 6 day 17 hr 21 min
+3,039 songs - 6 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,6 +753,7 @@
 | [Drummer](https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Drummer](https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp) | 3:32 | 2024-09-05 | 2024-09-13 |
 | [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 | 2024-05-02 | 2024-05-10 |
 | [Dull](https://open.spotify.com/track/2bHiEYY2sn0FnLJW1acm2r) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull](https://open.spotify.com/album/5CbmuaAeWbQRpCAtkoQo1E) | 3:15 | 2024-08-08 | 2024-08-17 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-03 |  |
 | [Dumb](https://open.spotify.com/track/4P2zJK8QUbY1rc8kjHgXwh) | [Daan](https://open.spotify.com/artist/5rytKg8dlNhhb2nZ47y9IW) | [Dumb](https://open.spotify.com/album/4WFFBZlAN7jkXKsK5S0fRx) | 3:39 | 2024-06-06 | 2024-06-14 |
 | [Dunne Lijn \(Live uit Doornroosje\)](https://open.spotify.com/track/6ZKh3nF1PdaYnRCY3tDJYU) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Per Ongeluk Live](https://open.spotify.com/album/0aqnTgARhS47vBvEctrNwQ) | 3:35 | 2024-06-20 | 2024-06-28 |
 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 | 2024-10-31 | 2024-11-08 |
@@ -1399,7 +1400,8 @@
 | [Kaleidoscope](https://open.spotify.com/track/39sR7JrYqrJwrlzXQWlDYN) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Kaleidoscope](https://open.spotify.com/album/3EQEzX8FHQuZ7TTKSJr2jQ) | 3:17 | 2024-05-31 | 2024-06-07 |
 | [Karma \(feat\. KATNUF\)](https://open.spotify.com/track/39hZZQRaxUn11PPtzPYFt7) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Karma \(feat\. KATNUF\)](https://open.spotify.com/album/57BGUO6m66CHAy3GUQCZBD) | 2:51 | 2024-12-19 | 2025-01-03 |
 | [Katmandou](https://open.spotify.com/track/69NuoZuh4PXHTxDdJUxFSR) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Katmandou](https://open.spotify.com/album/05y5TBR67v4rT7gI1RokIB) | 3:03 | 2024-09-05 | 2024-09-13 |
-| [Kayo \- Muted Guitar Solo](https://open.spotify.com/track/2kUSEOvJofy61OiVTf71Mn) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 | 2025-01-02 |  |
+| [Kayo](https://open.spotify.com/track/4lfjBWQ0tE9hvejQ0LtT4k) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 | 2025-01-03 |  |
+| [Kayo \- Muted Guitar Solo](https://open.spotify.com/track/2kUSEOvJofy61OiVTf71Mn) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 | 2025-01-02 | 2025-01-04 |
 | [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 | 2024-12-12 | 2024-12-20 |
 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 | 2024-08-16 | 2024-08-23 |
 | [Keep It Exciting](https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Qobra](https://open.spotify.com/artist/1bjS3iRdJCgf410FMDVKGE), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Keep It Exciting](https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL) | 2:19 | 2024-11-21 | 2024-11-29 |

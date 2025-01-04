@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: The Castellows
 
-2,665 songs - 5 day 23 hr 16 min
+2,670 songs - 5 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Carolina Blue](https://open.spotify.com/track/5SdAUf7GU8qtAMLoGcmorW) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Carolina Blue](https://open.spotify.com/album/55EvnthTq7gB7l0jn8gRqW) | 3:09 | 2022-03-11 | 2022-06-11 |
 | [Cash](https://open.spotify.com/track/5Uz1eBCyt1Ijb3FCBh0w7v) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Cash](https://open.spotify.com/album/5Sagimc3ekfkELpt4lFFQx) | 3:18 | 2024-08-09 | 2024-10-26 |
 | [Casual](https://open.spotify.com/track/782ZzWLrCziHo3uVpgJ8qk) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Anything But Casual](https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s) | 3:27 | 2022-01-21 | 2022-03-12 |
+| [Casual Drinking](https://open.spotify.com/track/3EhY1r5U4CCa9YBQPiOo6X) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Casual Drinking](https://open.spotify.com/album/1EUaMvM3WIJQt17IT6ceKF) | 3:32 | 2025-01-03 |  |
 | [Catch](https://open.spotify.com/track/03BIDOprMvzsHDQAnpaq3i) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH), [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Catch](https://open.spotify.com/album/50j1vlm6cLWobRka7hsXqJ) | 2:50 | 2023-09-01 | 2024-01-06 |
 | [Catch a Red](https://open.spotify.com/track/7BhS6iscwWqMOOEqcPnvNO) | [Mike Whiteside](https://open.spotify.com/artist/3gx8Jy5EhQET99sstT90bk) | [Catch a Red](https://open.spotify.com/album/3hCqZvL8t5RkLljHBFq4h9) | 3:03 | 2023-04-28 | 2023-07-29 |
 | [Catching Fire](https://open.spotify.com/track/2jDMfJiwAzJKl1a1X4anEg) | [Lost Saints](https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy) | [Catching Fire](https://open.spotify.com/album/0I3SV9aqIY2kNOHEdgEG2Q) | 2:55 | 2022-08-05 | 2022-09-24 |
@@ -1772,6 +1773,7 @@
 | [Placeholder](https://open.spotify.com/track/3aoa7CcYtxfOPlpQXYgEni) | [Kaylin Roberson](https://open.spotify.com/artist/0AywuUmKBjTTsU4ZrVf7JS) | [Placeholder](https://open.spotify.com/album/3yGAGNTHVCEND1cNiIPZZr) | 3:44 | 2022-09-30 | 2023-02-25 |
 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 | 2022-09-30 | 2023-01-06 |
 | [Plead](https://open.spotify.com/track/39QJZuilsv6YdkaQv7VR0e) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Plead](https://open.spotify.com/album/4J4RCPMjZDFySB3dS5qvfx) | 3:44 | 2024-08-23 | 2024-09-21 |
+| [Plead The Fifth](https://open.spotify.com/track/0HbUoacpRsjfDNpWUUd03k) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Plead The Fifth](https://open.spotify.com/album/2jnHiIYs1mo7Vbad1OIMO4) | 3:26 | 2025-01-03 |  |
 | [Pocketful of 90's Country](https://open.spotify.com/track/2TUSnW3SSVbthqC1bCBH8D) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY) | 3:38 | 2023-02-24 | 2023-04-29 |
 | [Poison In The Well](https://open.spotify.com/track/5pSfiXd4qhv6kRG6UOTL70) | [Taylor Austin Dye](https://open.spotify.com/artist/25fKXUc8KaT2o17A094b15) | [Poison In The Well](https://open.spotify.com/album/5wFnyRN2FsfYrVzbMnxFQX) | 3:16 | 2024-02-23 | 2024-05-18 |
 | [Polaroid Picture](https://open.spotify.com/track/5L7v7InVZ4KPcgYLPJb0u8) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Polaroid Picture](https://open.spotify.com/album/05vIRY7DR4ksrEhMMYd3W6) | 3:25 | 2024-08-23 | 2024-10-05 |
@@ -1858,6 +1860,7 @@
 | [Religion and Politics](https://open.spotify.com/track/0an93wG6ltDZNDdtupLNJR) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Religion and Politics](https://open.spotify.com/album/0C5UnX7L5TlrY5LIYNeL4U) | 3:11 | 2024-10-18 |  |
 | [Remedy](https://open.spotify.com/track/26rGgi4v1UTIV08sZldfFT) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Remedy](https://open.spotify.com/album/2jkZo2Jf3BSjDbaOeikQUd) | 3:11 | 2023-06-16 | 2023-08-26 |
 | [Remembered I Forgot](https://open.spotify.com/track/6gp8XkIaTfdci4uSVKIPwL) | [Brian Fuller](https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo) | [Room to Talk](https://open.spotify.com/album/13b8lfSzB5XcJhRLzsmGA7) | 3:03 | 2024-09-20 |  |
+| [Remembering It Wrong](https://open.spotify.com/track/34inFX4MT0ApBrTwlv9ZXB) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Remembering It Wrong](https://open.spotify.com/album/7zM0tEai0e66F7GQwmJvY4) | 3:42 | 2025-01-03 |  |
 | [Rent Free](https://open.spotify.com/track/751InILCnZIhwrBvg5SKAW) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Rent Free](https://open.spotify.com/album/2RufGkiBvHUKjQur4VAG5i) | 2:47 | 2023-02-17 | 2023-06-03 |
 | [Rest of Your Life](https://open.spotify.com/track/1bB7sNIQG3yBhlP9XSIccf) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Rest of Your Life](https://open.spotify.com/album/0RYIEgUnNfz1DaTETsrmVs) | 3:10 | 2024-01-19 | 2024-03-23 |
 | [Reverse](https://open.spotify.com/track/6MNZfNhi2LWFuzgDIqthPE) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Reverse](https://open.spotify.com/album/2xP0omB0n36TyI6w2eZysm) | 2:53 | 2023-03-10 | 2023-06-24 |
@@ -1889,6 +1892,7 @@
 | [Roll On](https://open.spotify.com/track/1spm426YWlmX9gXqYyj0Lz) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside](https://open.spotify.com/album/4XCB0jpyFMEqwKFK1mWopJ) | 3:45 | 2024-08-16 | 2024-12-14 |
 | [Roll Tide Roll](https://open.spotify.com/track/1UNVGJyi799W10YMHtzrQk) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Roll Tide Roll](https://open.spotify.com/album/3CUHIhHSYnIMPadnzYWiU3) | 2:51 | 2023-08-18 | 2023-10-14 |
 | [Rollin' Stone \(feat\. Drew Parker & Tyler Booth\)](https://open.spotify.com/track/1tBFgkJH0DM0HhqIEbVwyB) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ), [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Rollin' Stone \(feat\. Drew Parker & Tyler Booth\)](https://open.spotify.com/album/0HogCSJVwQMcWMnjErvsjL) | 3:01 | 2022-05-06 | 2022-08-06 |
+| [Rough Spot](https://open.spotify.com/track/4WlZf0WuKoyfjYk50COZzz) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Rough Spot](https://open.spotify.com/album/6MczkkH2zRYEP4GmOR32eJ) | 3:42 | 2025-01-03 |  |
 | [Round Here No More](https://open.spotify.com/track/0WXFicFJtKlGWgCGoZgQYZ) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Round Here No More](https://open.spotify.com/album/14yj5RVPueaa6Y8qPynqha) | 3:26 | 2022-12-02 | 2023-03-04 |
 | [RSVP](https://open.spotify.com/track/0OsNG7uCcM23PfxOcJqwKx) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [RSVP](https://open.spotify.com/album/08QbTZ27CNzIGQZOg3gJAK) | 2:42 | 2022-10-28 | 2023-02-18 |
 | [Rub A Little Dirt On It](https://open.spotify.com/track/5bY9b9fpvjI0qxFaBbY59Q) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Rub A Little Dirt On It](https://open.spotify.com/album/2YrqT4unDLB3Pu1ytCoEHV) | 2:44 | 2022-09-09 | 2022-11-05 |
@@ -2309,6 +2313,7 @@
 | [This One's For You](https://open.spotify.com/track/2Sy30uclY0g7wuPLihdwR9) | [Robbie Mortimer](https://open.spotify.com/artist/3oa0tGFnDuTzsk7dP2qoDj) | [This One's For You](https://open.spotify.com/album/38WtxvJ8sv2haZWntVoqZ6) | 2:38 | 2024-09-27 |  |
 | [This Side of the Dirt](https://open.spotify.com/track/22LVem8Gdqh4bsTVFzViOY) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [This Side of the Dirt](https://open.spotify.com/album/6r4KN48PptEHXRdfcMlsJr) | 3:14 | 2023-08-25 | 2024-03-23 |
 | [This Town](https://open.spotify.com/track/0oxG4U6ZrtWrZmOqomMsk2) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [This Town](https://open.spotify.com/album/6qqwWjnosaYwkf0J2QOkEO) | 3:29 | 2023-05-19 | 2023-09-16 |
+| [This Town](https://open.spotify.com/track/7eJqfWJ1VVPxIaRtjNi6gg) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [This Town](https://open.spotify.com/album/66pxCo7rYb6pKCh6xejGEI) | 2:47 | 2025-01-03 |  |
 | [This Town](https://open.spotify.com/track/2v9W4Jg1qeUGcemNEaAJuQ) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [Ryan and Rory](https://open.spotify.com/album/3DH6c7NN0MFMn30AyrHhGA) | 3:34 | 2024-08-02 | 2024-10-26 |
 | [This Town Is A Ghost](https://open.spotify.com/track/1IXVqGFTcrAAriHrGrNxMq) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [This Town Is A Ghost](https://open.spotify.com/album/5YrxejmZDna1Kc0lRaFflF) | 3:44 | 2023-03-31 | 2023-07-29 |
 | [THIS\-A\-WAY](https://open.spotify.com/track/2FUUpD0GpelJ2QSr4cL2Sc) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [THIS\-A\-WAY](https://open.spotify.com/album/1TrPFb93ycBnCPBMlZmLxj) | 2:45 | 2022-07-01 | 2022-09-10 |

@@ -3083,6 +3083,28 @@
     },
     {
       "album": {
+        "name": "Lejos De M\u00e1s",
+        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "Lejos De M\u00e1s",
+      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
@@ -4354,7 +4376,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 202546,
       "name": "par d ni\u00f1os",
       "url": "https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28"

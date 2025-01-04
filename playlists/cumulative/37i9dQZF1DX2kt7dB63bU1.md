@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-794 songs - 2 day 7 hr 22 min
+795 songs - 2 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,7 +762,7 @@
 | [When This Is Over](https://open.spotify.com/track/38BnDGZBonpPyxxkyXYiZU) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [When This Is Over](https://open.spotify.com/album/29aHc10ynKgXVPkpcoTQGz) | 4:41 | 2022-01-21 | 2022-01-24 |
 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 | 2023-09-15 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0iI9HTGMjtoFmaN1ODwo4y) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Allison Young](https://open.spotify.com/artist/1Irw7KGshB5ZOMQJryKzU3) | [Where Is My Mind?](https://open.spotify.com/album/5mCKRevIS8lw1NtSqBJjZT) | 3:56 | 2021-10-15 | 2022-08-03 |
-| [Where or When](https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Where or When](https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1) | 4:17 | 2024-09-13 |  |
+| [Where or When](https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Where or When](https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1) | 4:17 | 2024-09-13 | 2025-01-04 |
 | [Where or When](https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Where or When](https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR) | 3:23 | 2024-07-19 |  |
 | [Where Will I Be?](https://open.spotify.com/track/66xrFr0ap2a807yw6qqmAD) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Where Will I Be?](https://open.spotify.com/album/5UKySePl9G3Dq910vjPO3r) | 4:29 | 2023-03-17 | 2023-04-01 |
 | [Who Are You Dreaming Of](https://open.spotify.com/track/1NmjyMJ8V0vJyKnqujBvCT) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 | 2023-08-18 |  |
@@ -779,6 +779,7 @@
 | [Woman's Reach](https://open.spotify.com/track/5b4LwXqmIpgYmwIMsXor45) | [KerenDun](https://open.spotify.com/artist/2TlOOJAaDba5S9tmsFyCWj), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN) | [Woman's Reach](https://open.spotify.com/album/62fZHDlJIDiFQbCFqgE13S) | 3:37 | 2021-02-05 | 2022-02-12 |
 | [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 | 2024-02-16 |  |
 | [Wonderful Words](https://open.spotify.com/track/53GtzwyXwm4ucKVJ5KZu4X) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Jesse Rivest](https://open.spotify.com/artist/1AaY7NYQidTReRR6t1l9OF), [Misael Barros](https://open.spotify.com/artist/1hJLJF3t74lnmceuXeCJsO), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Wonderful Words](https://open.spotify.com/album/7ivBZYLmSa4YnlFJVElIWr) | 4:11 | 2022-04-04 | 2022-06-23 |
+| [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 | 2025-01-03 |  |
 | [Wuthering Heights](https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 2:43 | 2022-03-04 | 2023-02-25 |
 | [Yellow Rose](https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z) | [Alex Tremblay](https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [Yellow Rose](https://open.spotify.com/album/5DLSXBQx09pE2XbMdB6yVn) | 5:07 | 2022-07-18 | 2023-07-29 |
 | [Yes, I'm Ready](https://open.spotify.com/track/5XlhFiWDin9FrGrwIrmDtp) | [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [Memphis ...Yes, I'm Ready](https://open.spotify.com/album/6TrRBe7HiJgwarc3NxRRuh) | 4:57 | 2020-10-09 | 2022-02-19 |

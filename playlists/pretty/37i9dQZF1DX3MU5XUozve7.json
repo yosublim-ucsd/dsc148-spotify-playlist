@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1009067,
+  "num_followers": 1009342,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Fast Times At Barrington High",
+        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
+      },
+      "artists": [
+        {
+          "name": "The Academy Is...",
+          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 124191,
       "name": "SIDEWAYS (with Travis Barker)",
       "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Fast Times At Barrington High",
-        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
-      },
-      "artists": [
-        {
-          "name": "The Academy Is...",
-          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "About a Girl",
-      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "So Long, Astoria",
-        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
-      },
-      "artists": [
-        {
-          "name": "The Ataris",
-          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "In This Diary",
-      "url": "https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 189333,
       "name": "Sonic Reducer",
       "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "So Long, Astoria",
+        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
+      },
+      "artists": [
+        {
+          "name": "The Ataris",
+          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "In This Diary",
+      "url": "https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Lars Frederiksen And The Bastards",
-        "url": "https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP"
-      },
-      "artists": [
-        {
-          "name": "Lars Frederiksen and the Bastards",
-          "url": "https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "To Have And To Have Not",
-      "url": "https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 171066,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/5nkYHBWXu7KCgcdwP6jcB1"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Lars Frederiksen And The Bastards",
+        "url": "https://open.spotify.com/album/4NnKPdKvKmfX4b8OgPf9uP"
+      },
+      "artists": [
+        {
+          "name": "Lars Frederiksen and the Bastards",
+          "url": "https://open.spotify.com/artist/64HBI5GPR0TqM0TyAKu0nG"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "To Have And To Have Not",
+      "url": "https://open.spotify.com/track/2KeEzXxpADVpW1gbUj0rS7"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 178449,
-      "name": "My Sanity",
-      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "The Living End",
         "url": "https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 229066,
       "name": "Prisoner of Society",
       "url": "https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 178449,
+      "name": "My Sanity",
+      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Exile in Oblivion",
-        "url": "https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j"
+        "name": "Good For Me",
+        "url": "https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA"
       },
       "artists": [
         {
-          "name": "Strung Out",
-          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
+          "name": "The Swellers",
+          "url": "https://open.spotify.com/artist/1xpkFcz84H5OVOgbDGcYxw"
         }
       ],
-      "duration_ms": 175826,
-      "name": "Analog",
-      "url": "https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9"
+      "duration_ms": 239560,
+      "name": "The Best I Ever Had",
+      "url": "https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Good For Me",
-        "url": "https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA"
+        "name": "Exile in Oblivion",
+        "url": "https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j"
       },
       "artists": [
         {
-          "name": "The Swellers",
-          "url": "https://open.spotify.com/artist/1xpkFcz84H5OVOgbDGcYxw"
+          "name": "Strung Out",
+          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
         }
       ],
-      "duration_ms": 239560,
-      "name": "The Best I Ever Had",
-      "url": "https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z"
+      "duration_ms": 175826,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9"
     },
     {
       "added_at": "2022-07-26 16:46:12",

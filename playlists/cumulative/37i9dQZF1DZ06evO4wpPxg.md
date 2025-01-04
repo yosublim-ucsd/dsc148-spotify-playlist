@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-323 songs - 20 hr 16 min
+324 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Little Boy, Little Boy, Who Made Your Britches](https://open.spotify.com/track/5V99JwsYIdxNqpqxahXYzr) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 8:53 | 2023-12-20 | 2023-12-22 |
 | [Little Ragtime](https://open.spotify.com/track/5uxznpI2NUYQ43TVSZ46IM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 2:43 | 2022-08-30 | 2022-09-01 |
 | [Lo, I Be With You Always](https://open.spotify.com/track/3ris8TaqMl6ZwmlClJ59VG) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 4:18 | 2022-05-25 | 2024-07-20 |
+| [Lo, I'll Be with You Always](https://open.spotify.com/track/1iYzz9zvrjYXA4UyKEioeM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Worried Blues](https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz) | 5:41 | 2025-01-04 |  |
 | [Lord I Won't Go Back in Sin](https://open.spotify.com/track/5isAD9KR95KdFd8lDcDOTt) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 3:55 | 2024-07-11 | 2024-08-24 |
 | [Lord Let Me Live Longer](https://open.spotify.com/track/6Pg6p75UwEF5y2QXWjFhKv) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:25 | 2023-05-29 | 2024-10-11 |
 | [Lord Lord](https://open.spotify.com/track/34WKCQr7SUqUBKPG5ltpbl) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 3:10 | 2022-11-12 | 2024-04-24 |
@@ -172,7 +173,7 @@
 | [Lord, I Wish I Could See](https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 3:03 | 2022-05-27 | 2024-12-25 |
 | [Lord, On Your Word](https://open.spotify.com/track/4JYOVH3S0ueN5Ri3I9zc5i) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 4:23 | 2024-11-01 | 2024-11-12 |
 | [Lord, On Your Word](https://open.spotify.com/track/02AsEgJMRZ6AI5yVxyf7Px) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 4:24 | 2022-10-12 | 2022-12-31 |
-| [Lord, Search My Heart](https://open.spotify.com/track/2nXkGzpGGUQuRtI2pXkfxg) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:55 | 2024-10-28 |  |
+| [Lord, Search My Heart](https://open.spotify.com/track/2nXkGzpGGUQuRtI2pXkfxg) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:55 | 2024-10-28 | 2025-01-04 |
 | [Lord, Stand By Me](https://open.spotify.com/track/43YFUTTItto66K15U3PdIi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-27 | 2024-11-20 |
 | [Lost Boy In The Wilderness](https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:59 | 2022-05-31 |  |
 | [Lovin' Spoonful](https://open.spotify.com/track/0ip6BefXd5LbaNsSwTLRZj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 4:34 | 2022-05-25 | 2024-09-05 |

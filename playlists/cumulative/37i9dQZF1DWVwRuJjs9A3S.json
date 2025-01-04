@@ -8375,6 +8375,24 @@
     },
     {
       "album": {
+        "name": "You and your eyes",
+        "url": "https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156942,
+      "name": "You and your eyes",
+      "url": "https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u"
+    },
+    {
+      "album": {
         "name": "You Are Impossible",
         "url": "https://open.spotify.com/album/21GdZbfKEYzUdkN4K7uLOa"
       },

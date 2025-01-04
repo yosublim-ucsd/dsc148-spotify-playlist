@@ -990,7 +990,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 147866,
       "name": "Kinderszenen opus 15: VII. Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/6niy47JlyU2BbXRyvahTNm"
@@ -1725,6 +1725,32 @@
     },
     {
       "album": {
+        "name": "Belli: Pr\u00e9lude (Arr. Lewin for 2 Guitars)",
+        "url": "https://open.spotify.com/album/77OPjqpO1A6tMzZDm4vIfG"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172696,
+      "name": "Pr\u00e9lude (Arr. Lewin for 2 Guitars)",
+      "url": "https://open.spotify.com/track/68w10aJE4wFoUrC25uvooY"
+    },
+    {
+      "album": {
         "name": "Respiro 5",
         "url": "https://open.spotify.com/album/34y2HYWG7ISiYQoa1hJU1W"
       },
@@ -2351,6 +2377,28 @@
     },
     {
       "album": {
+        "name": "Vladimir Horowitz the Romantic Era",
+        "url": "https://open.spotify.com/album/5DFz3vQ1P5nAMuPTfflXoR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/1kof0mlRSrLyGP4vdS2hjh"
+    },
+    {
+      "album": {
         "name": "Six Evolutions - Bach: Cello Suites",
         "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
       },
@@ -2403,6 +2451,32 @@
     },
     {
       "album": {
+        "name": "Gjeilo: Winter Light (Version for Saxophone & Ensemble)",
+        "url": "https://open.spotify.com/album/385YudCNpN3BO1RgM3xBRL"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170872,
+      "name": "Winter Light (Version for Saxophone & Ensemble)",
+      "url": "https://open.spotify.com/track/4Fb69m7ImDBFq43qquzfuy"
+    },
+    {
+      "album": {
         "name": "Gurdjieff, Tsabropoulos: Chants, Hymns And Dances",
         "url": "https://open.spotify.com/album/5mN8Qqmggnwy5Pab13bthF"
       },
@@ -2452,6 +2526,28 @@
       "duration_ms": 118853,
       "name": "Woman\u00b4s Prayer",
       "url": "https://open.spotify.com/track/6a3LTwG4gwiC62EUNff5AD"
+    },
+    {
+      "album": {
+        "name": "Zelda's Lullaby (Arr. Clements for Vocal Ensemble & Harp)",
+        "url": "https://open.spotify.com/album/0y54gIwJbHdScbz7dJWAWh"
+      },
+      "artists": [
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Lise Vandersmissen",
+          "url": "https://open.spotify.com/artist/0iMnYfFwxNUFp45FxlSpuC"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179720,
+      "name": "Zelda's Lullaby (Arr. Clements for Vocal Ensemble & Harp)",
+      "url": "https://open.spotify.com/track/3EljV7yUSuuVcUQAzZSCtE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7cBprxbt1Fn"

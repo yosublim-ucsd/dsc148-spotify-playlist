@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 414340,
+  "num_followers": 414383,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "CLAIM",
+        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+      },
+      "artists": [
+        {
+          "name": "Jesper Munk",
+          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "CLAIM",
-        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
-      },
-      "artists": [
-        {
-          "name": "Jesper Munk",
-          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -647,8 +647,8 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 169120,
-      "name": "Quit You",
-      "url": "https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke"
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "The Criminal Record",
-        "url": "https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV"
-      },
-      "artists": [
-        {
-          "name": "Bandits on the Run",
-          "url": "https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Funky Ghost",
-      "url": "https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Wait Til I Get Over",
         "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "The Criminal Record",
+        "url": "https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV"
+      },
+      "artists": [
+        {
+          "name": "Bandits on the Run",
+          "url": "https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Funky Ghost",
+      "url": "https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -807,8 +807,8 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Madelyn",
-        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 195413,
-      "name": "Madelyn",
-      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+      "duration_ms": 169120,
+      "name": "Quit You",
+      "url": "https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Grace Love and the True Loves",
-        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
-      },
-      "artists": [
-        {
-          "name": "Grace Love and the True Loves",
-          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Nobody Sweeter",
-      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 192066,
       "name": "Blown Away",
       "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Grace Love and the True Loves",
+        "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
+      },
+      "artists": [
+        {
+          "name": "Grace Love and the True Loves",
+          "url": "https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Nobody Sweeter",
+      "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Who's Gonna Love You When I'm Gone",
-        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Who's Gonna Love You When I'm Gone",
-      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 193066,
       "name": "Lost on the Young",
       "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Who's Gonna Love You When I'm Gone",
+        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Who's Gonna Love You When I'm Gone",
+      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Theosophy",
-        "url": "https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs"
+        "name": "Painted Image",
+        "url": "https://open.spotify.com/album/7hpHTYklBroOzIjIwXs4CI"
       },
       "artists": [
         {
-          "name": "Pete Molinari",
-          "url": "https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57"
-        },
-        {
-          "name": "Barrie Cadogan",
-          "url": "https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy"
+          "name": "Liz Brasher",
+          "url": "https://open.spotify.com/artist/4IkjxZEL41t30RVaxrnoab"
         }
       ],
-      "duration_ms": 225098,
-      "name": "Hang My Head in Shame",
-      "url": "https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy"
+      "duration_ms": 179506,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/4o0PuOz0SpXuZXQCiwJz2j"
     }
   ],
   "unique_name": "the new retro",

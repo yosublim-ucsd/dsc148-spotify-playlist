@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Libre, Solterito y Sin Nadie",
+        "url": "https://open.spotify.com/album/0JVFs21ZIaGdDZQZ6TVFs9"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140426,
+      "name": "Libre, Solterito y Sin Nadie",
+      "url": "https://open.spotify.com/track/02olBmYmVrodR2C6xroOzO"
+    },
+    {
+      "album": {
         "name": "Rock, Balada y Sentimiento, Vol. I",
         "url": "https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA"
       },

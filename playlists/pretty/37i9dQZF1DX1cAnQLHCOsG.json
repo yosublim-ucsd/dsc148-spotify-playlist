@@ -1,6 +1,6 @@
 {
   "description": "Pa' las posadas y las fiestas, canciones navide\u00f1as con saz\u00f3n mexa. Banda MS en portada. ",
-  "num_followers": 22800,
+  "num_followers": 22793,
   "original_name": "Navidad M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Un Vaquero En Navidad (Spotify Singles Holiday)",
-        "url": "https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 233337,
-      "name": "Un Vaquero En Navidad - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "La \u00faltima canci\u00f3n",
         "url": "https://open.spotify.com/album/1dn55Gp93D5VmsFCeEJ279"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 156499,
       "name": "Amarga navidad (Ranchera)",
       "url": "https://open.spotify.com/track/0OrGmIMphBPEGj786A1RVO"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "Un Vaquero En Navidad (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 233337,
+      "name": "Un Vaquero En Navidad - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Navidad Rock",
-        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 127373,
-      "name": "Navidad Rock",
-      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "En Esta Navidad",
         "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 253000,
       "name": "Oye Santa Claus",
       "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "Navidad Rock",
+        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 127373,
+      "name": "Navidad Rock",
+      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Blanca Navidad (Spotify Sad Sierre\u00f1o Holiday Singles)",
-        "url": "https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 196352,
-      "name": "Blanca Navidad (Spotify Sad Sierre\u00f1o Holiday Singles)",
-      "url": "https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "Tristes Navidades",
         "url": "https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 239547,
       "name": "Tristes Navidades",
       "url": "https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "Blanca Navidad (Spotify Sad Sierre\u00f1o Holiday Singles)",
+        "url": "https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 196352,
+      "name": "Blanca Navidad (Spotify Sad Sierre\u00f1o Holiday Singles)",
+      "url": "https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
+        "name": "En Esta Navidad",
+        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 250015,
+      "name": "En Esta Navidad",
+      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
         "name": "Esta Navidad",
         "url": "https://open.spotify.com/album/3vmbZ0rnrXXdv5mhJLfGgQ"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 181026,
       "name": "En Esta Navidad",
       "url": "https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 250015,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
     },
     {
       "added_at": "2024-12-09 17:47:59",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-12-09 17:47:59",
       "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet"
-    },
-    {
-      "added_at": "2024-12-09 17:47:59",
-      "album": {
         "name": "Acar\u00edciame El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/27OwCoZRPIe0xL44eTAlx4"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 189253,
       "name": "Feliz Navidad Amor",
       "url": "https://open.spotify.com/track/0BhCnEKHwnwNtIuWwHyMiY"
+    },
+    {
+      "added_at": "2024-12-09 17:47:59",
+      "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet"
     },
     {
       "added_at": "2024-12-09 17:47:59",

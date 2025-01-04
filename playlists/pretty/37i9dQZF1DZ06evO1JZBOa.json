@@ -1,12 +1,12 @@
 {
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
-  "num_followers": 9537,
+  "num_followers": 9540,
   "original_name": "This Is Manu Dibango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3M0AAAAAACPEUEMg7MhBWOKNGM/mtTJ",
+  "snapshot_id": "Z3XXAAAAAABNaFbp7ObyFfRTb6EtJJhW",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africadelic",
-        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 114093,
-      "name": "Percussion Storm",
-      "url": "https://open.spotify.com/track/2eTftYReNs4X7x40zMUEDP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
       },
@@ -495,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Clear (The Complete Kingston Sessions)",
-        "url": "https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt"
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 420893,
-      "name": "Tek Time",
-      "url": "https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE"
+      "duration_ms": 114093,
+      "name": "Percussion Storm",
+      "url": "https://open.spotify.com/track/2eTftYReNs4X7x40zMUEDP"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 276173,
       "name": "Night In Zeralda",
       "url": "https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone Clear (The Complete Kingston Sessions)",
+        "url": "https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 420893,
+      "name": "Tek Time",
+      "url": "https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
       "duration_ms": 232946,
       "name": "Salvamm' o munno - 2024 Remaster",
       "url": "https://open.spotify.com/track/07nEudDeniMFVGWSmjTx8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taciturne",
-        "url": "https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC"
-      },
-      "artists": [
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Les gar\u00e7ons ne pleurent pas",
-      "url": "https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY"
     },
     {
       "added_at": null,
@@ -603,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Taciturne",
+        "url": "https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Les gar\u00e7ons ne pleurent pas",
+      "url": "https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 264106,
       "name": "Cerisiers Roses Et Pommiers Blancs",
       "url": "https://open.spotify.com/track/4k3YTY6Oyaux2UdaZM9NUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c0 La Jama\u00efque",
-        "url": "https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 514000,
-      "name": "Goro City",
-      "url": "https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c0 La Jama\u00efque",
+        "url": "https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 514000,
+      "name": "Goro City",
+      "url": "https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
       },
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Psychedelic Classics: Love's A Real Thing",
-        "url": "https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 309800,
-      "name": "Ceddo End Title",
-      "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
+      "duration_ms": 196240,
+      "name": "Wouri",
+      "url": "https://open.spotify.com/track/69WLiFnG9CHtdh2ngmzNpE"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
+        "name": "World Psychedelic Classics: Love's A Real Thing",
+        "url": "https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 196240,
-      "name": "Wouri",
-      "url": "https://open.spotify.com/track/69WLiFnG9CHtdh2ngmzNpE"
+      "duration_ms": 309800,
+      "name": "Ceddo End Title",
+      "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
     },
     {
       "added_at": null,
@@ -771,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moko",
-        "url": "https://open.spotify.com/album/4x5VH28M3MDs2bXMIYrYN7"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
       },
       "artists": [
-        {
-          "name": "Lokua Kanza",
-          "url": "https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk"
-        },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 252706,
-      "name": "Nobody Cares",
-      "url": "https://open.spotify.com/track/6FsJMw1nJYwGTw58c6LynS"
+      "duration_ms": 247626,
+      "name": "Dikalo - Remix 97",
+      "url": "https://open.spotify.com/track/7pynF3ZjAJZfUQhmS4bpk2"
     },
     {
       "added_at": null,
@@ -811,38 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
+        "name": "Moko",
+        "url": "https://open.spotify.com/album/4x5VH28M3MDs2bXMIYrYN7"
       },
       "artists": [
         {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "Dikalo - Remix 97",
-      "url": "https://open.spotify.com/track/7pynF3ZjAJZfUQhmS4bpk2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lambi golo",
-        "url": "https://open.spotify.com/album/4ApIXEgwb3XSlYPWZZjlvN"
-      },
-      "artists": [
-        {
-          "name": "Tour\u00e9 Kunda",
-          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
+          "name": "Lokua Kanza",
+          "url": "https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk"
         },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 238054,
-      "name": "Demaro",
-      "url": "https://open.spotify.com/track/5bC9bkQtFbphrRo8LbRvbn"
+      "duration_ms": 252706,
+      "name": "Nobody Cares",
+      "url": "https://open.spotify.com/track/6FsJMw1nJYwGTw58c6LynS"
     },
     {
       "added_at": null,
@@ -859,6 +839,22 @@
       "duration_ms": 256293,
       "name": "Africa Boogie",
       "url": "https://open.spotify.com/track/2G7bPzKZl4pQjn1OalcIuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Woodoo",
+        "url": "https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Lagos Go Slow",
+      "url": "https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl"
     },
     {
       "added_at": null,
@@ -883,46 +879,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Woodoo",
-        "url": "https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv"
+        "name": "Lambi golo",
+        "url": "https://open.spotify.com/album/4ApIXEgwb3XSlYPWZZjlvN"
       },
       "artists": [
+        {
+          "name": "Tour\u00e9 Kunda",
+          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
+        },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 230106,
-      "name": "Lagos Go Slow",
-      "url": "https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl"
+      "duration_ms": 238054,
+      "name": "Demaro",
+      "url": "https://open.spotify.com/track/5bC9bkQtFbphrRo8LbRvbn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Simm' Tutt'Uno (feat. Jovanotti, Manu Dibango & Bottari Di Portico)",
-        "url": "https://open.spotify.com/album/1M4apnNZGhzyfTTrDADfIV"
+        "name": "Merci ! Thank You !, Vol. 1",
+        "url": "https://open.spotify.com/album/2YcPmYfonftIokdUZu2e0Y"
       },
       "artists": [
         {
-          "name": "Enzo Avitabile",
-          "url": "https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO"
-        },
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        },
-        {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
-          "name": "Bottari di Portico",
-          "url": "https://open.spotify.com/artist/4eNK0Rn3bc2mUhIhLtLFmy"
         }
       ],
-      "duration_ms": 188202,
-      "name": "Simm' Tutt'Uno",
-      "url": "https://open.spotify.com/track/57fT5UTogxchiaQvjubZnh"
+      "duration_ms": 161440,
+      "name": "Kamulango",
+      "url": "https://open.spotify.com/track/1s8XzRjnsigutXYDvRsdcI"
     }
   ],
   "unique_name": "This Is Manu Dibango",

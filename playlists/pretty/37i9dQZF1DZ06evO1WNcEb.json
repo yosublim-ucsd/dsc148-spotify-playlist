@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66906,
+  "num_followers": 66904,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAAAzKNKtr0hCGLePttcALbgN",
+  "snapshot_id": "Z3XXAAAAAABzLVnCilH443TbuSqBJlcP",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
+        "name": "Eyshila Collection ao Vivo 10 Anos",
+        "url": "https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 335946,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
+      "duration_ms": 334878,
+      "name": "Posso Clamar",
+      "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyshila Collection ao Vivo 10 Anos",
-        "url": "https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6"
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 334878,
-      "name": "Posso Clamar",
-      "url": "https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI"
+      "duration_ms": 335946,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Nome Santo de Jesus / Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/44SugMMq21GWWpPkgP7c60"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 330521,
-      "name": "O Nome Santo de Jesus / Jesus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2mqBuUEOPI9dq3jkhPJbvk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 266826,
       "name": "Quanto Amor (feat. Eyshila)",
       "url": "https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Nome Santo de Jesus / Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/44SugMMq21GWWpPkgP7c60"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 330521,
+      "name": "O Nome Santo de Jesus / Jesus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2mqBuUEOPI9dq3jkhPJbvk"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quero Aprender a Orar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 326264,
-      "name": "Existe Um Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marina de Oliveira - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 182508,
       "name": "Unidos Pelo Amor",
       "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quero Aprender a Orar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 326264,
+      "name": "Existe Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF"
     },
     {
       "added_at": null,

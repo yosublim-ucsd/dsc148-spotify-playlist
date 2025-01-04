@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-657 songs - 1 day 3 hr 58 min
+658 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Let Me Sing Along](https://open.spotify.com/track/2LcHFQP3wIo3qKk9JYOCSg) | [Konshens the MC](https://open.spotify.com/artist/0EnMtr4oPQrGZelXq96IBB), [The Earth Band](https://open.spotify.com/artist/04VXEEv7kTvvWlpp3MUoi8), [Lonnie Park](https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N), [Doctor Noize](https://open.spotify.com/artist/2LWUw8CUOG9nCSlCQJXSX4), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Funk The Earth](https://open.spotify.com/album/3Yxv92kSQjYLLIuUtHNJfV) | 2:57 | 2022-04-15 | 2024-01-05 |
 | [Let's Blow a Bubble](https://open.spotify.com/track/6ZuQHIyKxQZ3SUxwMqNpyN) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Let's Blow a Bubble](https://open.spotify.com/album/41suiiS3sQlTokya3iNbMT) | 2:29 | 2024-05-03 |  |
 | [Let's Decorate the House for Halloween](https://open.spotify.com/track/4iwPcKfDmsGXkoYMa8Cm7g) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Let's Decorate the House for Halloween](https://open.spotify.com/album/6WNhjObUhy1pimzih4sr6g) | 2:15 | 2024-10-18 | 2024-11-07 |
+| [Let's Go Fly a Kite](https://open.spotify.com/track/6INp5m6Ppde1EN22XXeZjy) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Let's Go Fly a Kite](https://open.spotify.com/album/1ECsmmVic7JtILMS6HW4Cy) | 2:35 | 2025-01-03 |  |
 | [Let's Grow Together](https://open.spotify.com/track/3yCLPmnVfHTkBNKMKL2j5Q) | [Zoe](https://open.spotify.com/artist/7fwvBtJJavkIB34vf73p8V), [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street’s Tamir](https://open.spotify.com/artist/0mPoJFAaRIZhq9QkQEqXcn), [Sesame Street’s Charlie](https://open.spotify.com/artist/4bfEr94LI5n6CTxlWRA6fX), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Let's Grow Together](https://open.spotify.com/album/1l734c5LwoQbTVRUjIEh3J) | 1:21 | 2024-08-02 |  |
 | [Let's Make A Shape](https://open.spotify.com/track/0gPFZhvPSZHvmmQplLwlcf) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Let's Make A Shape](https://open.spotify.com/album/6yVa1Xeq2ZYMiSq6t5omyn) | 2:01 | 2024-04-26 |  |
 | [Let's Move! Dance Party](https://open.spotify.com/track/1xpYDiirwCbQfqlpFloIFE) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Let's Move! Dance Party](https://open.spotify.com/album/1dyyEdnXHY9aqWafR6JqiV) | 3:22 | 2024-03-22 | 2024-08-24 |

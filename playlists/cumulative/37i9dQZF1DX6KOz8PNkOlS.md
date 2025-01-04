@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-195 songs - 11 hr 52 min
+196 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Blue Hour](https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:31 | 2022-09-03 | 2024-04-19 |
 | [Can't Fight](https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:10 | 2021-10-15 | 2024-04-19 |
 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 | 2021-10-15 |  |
+| [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2025-01-03 |  |
 | [Cashmere](https://open.spotify.com/track/5rvQNMTYBMarC8ed6KUPvg) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH) | 3:03 | 2021-10-15 | 2024-07-10 |
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-01-21 | 2024-04-19 |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-04-05 |  |
@@ -152,7 +153,7 @@
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-04-14 |  |
 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 | 2021-10-15 |  |
 | [Run A Red Light](https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Fuse](https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx) | 3:39 | 2023-12-20 |  |
-| [Run Away](https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Run Away](https://open.spotify.com/album/5m9teu8TOkn7BTglKeUdO4) | 3:39 | 2021-10-15 |  |
+| [Run Away](https://open.spotify.com/track/6TG6lpCX4tz0Bg2WUIh8Y3) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Run Away](https://open.spotify.com/album/5m9teu8TOkn7BTglKeUdO4) | 3:39 | 2021-10-15 | 2025-01-04 |
 | [Satellite](https://open.spotify.com/track/38N4yGHfwByW1BjKBp6FMk) | [Midnight Sister](https://open.spotify.com/artist/79CshY6jZ3VzduOOSCRhm4) | [Painting the Roses](https://open.spotify.com/album/08QA8Et6U6Gv6oq94Bq9co) | 4:06 | 2021-10-15 | 2024-04-19 |
 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 | 2022-01-26 |  |
 | [say your way](https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx) | [Mohsin Zaman](https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs) | [say your way](https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7) | 2:50 | 2023-11-23 |  |

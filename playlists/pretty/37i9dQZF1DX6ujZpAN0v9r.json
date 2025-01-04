@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 645103,
+  "num_followers": 645295,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Blue Line Baby",
         "url": "https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 301866,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
     },
     {
       "added_at": "2021-06-03 02:39:04",

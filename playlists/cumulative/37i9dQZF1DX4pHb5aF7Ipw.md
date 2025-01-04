@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-309 songs - 14 hr 25 min
+310 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Cash/Clash](https://open.spotify.com/track/3gSfDI7AfANo5xInuGO6s4) | [Bobby Singh](https://open.spotify.com/artist/5JmMagrV8JJMqVgBCWNzn8), [Biswal Rohan](https://open.spotify.com/artist/3ETKCgeBum5KI3SR9zcnbY) | [Cash/Clash](https://open.spotify.com/album/3I8g4Zl2CAC08Mn6DqW15j) | 3:36 | 2024-11-19 |  |
 | [Cee](https://open.spotify.com/track/1fFlCCS4QhAbKWJ7K5xqWn) | [Prince Jadon](https://open.spotify.com/artist/3O3Ql9NcdVu82xHnvhAyK5) | [Cee](https://open.spotify.com/album/4cqJW94fx8iFSuSdIibWU0) | 2:26 | 2024-11-18 |  |
 | [Chakkar](https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Chakkar](https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3) | 2:36 | 2024-05-15 | 2024-07-30 |
-| [Challa](https://open.spotify.com/track/02CNhdsx0gHla9gNpuMc3E) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [King Love](https://open.spotify.com/artist/2DsVv0ixEl72QgRhMGAB1P), [Sukh Knight](https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM) | [Challa](https://open.spotify.com/album/4gg6yNLDRY3NUo4lsIK0hB) | 2:48 | 2024-10-23 |  |
+| [Challa](https://open.spotify.com/track/02CNhdsx0gHla9gNpuMc3E) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [King Love](https://open.spotify.com/artist/2DsVv0ixEl72QgRhMGAB1P), [Sukh Knight](https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM) | [Challa](https://open.spotify.com/album/4gg6yNLDRY3NUo4lsIK0hB) | 2:48 | 2024-10-23 | 2025-01-04 |
 | [Chase](https://open.spotify.com/track/2Du6igdtpo8uRtRgs9zg0S) | [JP Gill](https://open.spotify.com/artist/6Tw7QSFeKCsziRPkLvzlup) | [Chase](https://open.spotify.com/album/2oD59l8aV0NkxaVKpLKMMS) | 2:50 | 2024-12-23 |  |
 | [Check Out](https://open.spotify.com/track/7tKj33kIZYAEsuStiBwMo6) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa) | [Check Out](https://open.spotify.com/album/4l6upDKFQtHS5PTwEYAiiu) | 2:26 | 2024-11-14 |  |
 | [Chhalla](https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 6](https://open.spotify.com/album/1IbAnKLZjXigERXiukqkiq) | 3:31 | 2023-11-08 | 2023-11-16 |
@@ -315,6 +315,7 @@
 | [What They Doin'](https://open.spotify.com/track/4xo2p5SZnutl5uG2ExZi6b) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Indrr Bajwa](https://open.spotify.com/artist/1VmoJx8138LFsA5XiRjQ01), [Irman](https://open.spotify.com/artist/6PekRKJMJZzbPCcFhjUyH1) | [If the Sun Had a Dark Side](https://open.spotify.com/album/4jAKk2fxLBXxHnaXs6oLwx) | 2:27 | 2024-10-18 | 2024-11-28 |
 | [What's Beef](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 | 2023-10-13 | 2024-09-03 |
 | [Winnipeg](https://open.spotify.com/track/1PqSnvUmy74RbtwG1LwD2K) | [Yugam Lamba](https://open.spotify.com/artist/32tYPVSCcu2SUIt3Frdc5R) | [Winnipeg](https://open.spotify.com/album/0e1aZCF5iwO3r9HoFygeET) | 2:49 | 2024-10-10 | 2024-11-09 |
+| [Wrong Life](https://open.spotify.com/track/7F4c5Xio4eQLI1VuzPAOaO) | [HeartBeat](https://open.spotify.com/artist/6eHl2vIWYGa9wSeWzlUlpd), [Mehmaan shakur](https://open.spotify.com/artist/3w0xq8M9o0j8UxQ06zLcbR), [Doctor Shoeb](https://open.spotify.com/artist/7wiiudGKJ8qhnHnPz8HyqO), [Gyaana Hassan](https://open.spotify.com/artist/1FnmchLxliYxYdGpRxaQhs) | [Wrong Life](https://open.spotify.com/album/1WueoOL4Hu6L8A4eSw6Q13) | 5:13 | 2025-01-03 |  |
 | [Yes/No](https://open.spotify.com/track/3zTsQC9xZzTSrNXRW8ij1b) | [Uday Bath](https://open.spotify.com/artist/248BJTjfR3ElYcIKa32FqX) | [Yes/No](https://open.spotify.com/album/0qng4ZG4ooOVSjZIHhS4Mu) | 2:35 | 2024-09-11 | 2024-11-05 |
 | [Zigana](https://open.spotify.com/track/3rZz7HlIyWHjKRbV9U2bpP) | [Hero](https://open.spotify.com/artist/6a4fKtYAZd9jqREIlWdlZK) | [Six Tape](https://open.spotify.com/album/0LP3NKwgyM2pzxSpEZCRIP) | 2:26 | 2024-12-06 | 2024-12-24 |
 

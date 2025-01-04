@@ -1,13 +1,29 @@
 {
   "description": "New releases for the kids. Cover: Laurie Berkner",
-  "num_followers": 38997,
+  "num_followers": 39048,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z240egAAAACz/K3RM/DD1x9M5aPIJp05",
+  "snapshot_id": "Z3du5gAAAAC0ypWs9un0lntY/9vMqFJk",
   "tracks": [
+    {
+      "added_at": "2025-01-03 05:00:22",
+      "album": {
+        "name": "Let's Go Fly a Kite",
+        "url": "https://open.spotify.com/album/1ECsmmVic7JtILMS6HW4Cy"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Let's Go Fly a Kite",
+      "url": "https://open.spotify.com/track/6INp5m6Ppde1EN22XXeZjy"
+    },
     {
       "added_at": "2024-12-13 05:00:12",
       "album": {

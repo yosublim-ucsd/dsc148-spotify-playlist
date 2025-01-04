@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-640 songs - 1 day 9 hr 9 min
+641 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Like We're Nearing The End](https://open.spotify.com/track/46p73lwSnJJbEyelCc6bJ4) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Vol\. 3 Dispersed Thinking](https://open.spotify.com/album/57K4XaNkJo4LschM3ufPXd) | 2:30 | 2024-12-15 |  |
 | [LIL DISCORD CRUSH](https://open.spotify.com/track/0vYVoOPXjtRA7x4vX7vWN8) | [444pluto](https://open.spotify.com/artist/3BdIZttBTECpglqzqNjrJO), [Maestro The Dab Hand](https://open.spotify.com/artist/5KFUvuwu73Gl1fBlP4QdGI), [44clover](https://open.spotify.com/artist/2KHtBq3w8NQbzhS77kzGne) | [LIL DISCORD CRUSH](https://open.spotify.com/album/1rmT9dHiJgJn5H1jNVVj7a) | 2:15 | 2024-12-16 |  |
 | [Listen To Me](https://open.spotify.com/track/411UOol2TkyTuDa2J1c2T1) | [Meelz](https://open.spotify.com/artist/4qrRBmCt3wuj3We5Xhidet) | [EP For Twilight](https://open.spotify.com/album/6L8iA30PfGsz2xuNZkajlq) | 3:22 | 2024-12-15 |  |
+| [little spoon anthem](https://open.spotify.com/track/0NcAkc4ruSbLh6QKh9m8N9) | [MouSa](https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [little spoon anthem](https://open.spotify.com/album/6NUPw3K9mFmGPG1nlPAaas) | 2:31 | 2025-01-03 |  |
 | [little spoon anthem](https://open.spotify.com/track/7Dc51QR5YN5fNBIaMqEhTs) | [MouSa](https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [KNOWITALL](https://open.spotify.com/album/3taqQGM1QEr2Mb5zKdfFHI) | 2:33 | 2024-12-15 |  |
 | [live leak star](https://open.spotify.com/track/7M8QhENhrbJE6RMquxjnIc) | [KidSnorlax](https://open.spotify.com/artist/1dK4UZ6zuHSPzkWpCCQEIL) | [live leak star](https://open.spotify.com/album/2jlaav1AxTF2bMmqu45eeb) | 2:12 | 2024-12-16 |  |
 | [Llama](https://open.spotify.com/track/4iRyGHcRpXGM1Hgw55f0Cp) | [Pipeline Punch](https://open.spotify.com/artist/5tf4EAePh9Adk00WnydfnY) | [Llama](https://open.spotify.com/album/0irXiPV1LtGfOcyyrSC4d6) | 3:25 | 2024-12-15 |  |

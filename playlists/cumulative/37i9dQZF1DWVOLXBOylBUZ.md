@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de El High, Zaider, Rafa Pabön y Key Key.
 
-1,163 songs - 2 day 12 hr 51 min
+1,164 songs - 2 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,6 +862,7 @@
 | [Porsche](https://open.spotify.com/track/1HfgxilGdoMGuSr85ID0mX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:25 | 2023-08-25 | 2023-11-25 |
 | [Pose](https://open.spotify.com/track/6D8Le9ZPBINcm0laSrKMJt) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 2:54 | 2022-06-17 | 2022-10-08 |
 | [Prendia](https://open.spotify.com/track/03iBIMSrjsCsAwMbHGkCtq) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Prendia](https://open.spotify.com/album/4pSJTxJZ2ip8ojTqi3sFtT) | 3:18 | 2022-06-10 | 2022-10-08 |
+| [Primos \(feat\. Dj Kiire\)](https://open.spotify.com/track/4udwfvT8bOZ8lfbgGRLp68) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Primos \(feat\. Dj Kiire\)](https://open.spotify.com/album/7Lf4SMPBrEJL21n8LFnuWu) | 2:46 | 2025-01-03 |  |
 | [Princesa](https://open.spotify.com/track/6x0M4beh4yucLesragBKdz) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Princesa](https://open.spotify.com/album/64tvhE3xiu9npvqF3Pq4bN) | 2:56 | 2022-01-07 | 2022-04-09 |
 | [Procura](https://open.spotify.com/track/2RXrX4BuyEPmmRCNzIJsYQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:05 | 2023-08-25 | 2023-12-16 |
 | [Protagonista](https://open.spotify.com/track/1kmeChA8VINeDprVkTHRhW) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Protagonista](https://open.spotify.com/album/5zQtriA0zv9RW1UbFUIHM3) | 2:39 | 2024-11-22 |  |
@@ -1131,7 +1132,7 @@
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-19 | 2023-08-26 |
 | [Whiskey y Coco](https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Whiskey y Coco](https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP) | 3:06 | 2023-01-13 | 2023-04-22 |
 | [Whiskey y Coco \- Remix](https://open.spotify.com/track/3pUqOFuXETdcGRh8E587BE) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Whiskey y Coco \(Remix\)](https://open.spotify.com/album/4g71V57SAYujhaE1QcJUCF) | 3:41 | 2023-04-21 | 2023-07-29 |
-| [Whisky & Marihuana](https://open.spotify.com/track/3rWLsCRyPp2XZBIqL14Sox) | [EL VALLE DE LOS REYES](https://open.spotify.com/artist/4Dzk3OGILq6bUpGc5L7qdQ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Whisky & Marihuana](https://open.spotify.com/album/35zj1AVgNIuzhmyDQ4yX9s) | 3:23 | 2024-11-22 |  |
+| [Whisky & Marihuana](https://open.spotify.com/track/3rWLsCRyPp2XZBIqL14Sox) | [EL VALLE DE LOS REYES](https://open.spotify.com/artist/4Dzk3OGILq6bUpGc5L7qdQ), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Whisky & Marihuana](https://open.spotify.com/album/35zj1AVgNIuzhmyDQ4yX9s) | 3:23 | 2024-11-22 | 2025-01-04 |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-07-21 | 2023-10-14 |
 | [WILLY WONKA](https://open.spotify.com/track/2qCL05QJtrUeuRE7oEklLV) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [WILLY WONKA](https://open.spotify.com/album/2Os3QmxdbApg0ejnSeF8pY) | 2:23 | 2023-11-17 | 2024-03-02 |
 | [Winnie Pooh](https://open.spotify.com/track/0QupfeRNFEdNatL4gkcZUp) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Winnie Pooh](https://open.spotify.com/album/0oDpw4EOFV53oC23SU5jJT) | 3:00 | 2022-04-29 | 2022-09-20 |

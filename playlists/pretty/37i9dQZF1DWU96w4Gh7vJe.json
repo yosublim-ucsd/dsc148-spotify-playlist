@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 576626,
+  "num_followers": 576648,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -63,46 +63,6 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
-        "name": "homebdy (feat. Madman Stan)",
-        "url": "https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ"
-      },
-      "artists": [
-        {
-          "name": "DEMI",
-          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
-        },
-        {
-          "name": "slimedemidemislime",
-          "url": "https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E"
-        },
-        {
-          "name": "Madman Stan",
-          "url": "https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs"
-        }
-      ],
-      "duration_ms": 141762,
-      "name": "homebdy (feat. Madman Stan)",
-      "url": "https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y"
-    },
-    {
-      "added_at": "2024-12-16 05:11:53",
-      "album": {
-        "name": "perfect view",
-        "url": "https://open.spotify.com/album/69DN81jxjmGZBhLC44esKh"
-      },
-      "artists": [
-        {
-          "name": "Yana and Yna",
-          "url": "https://open.spotify.com/artist/44MCDYvpFe8ugUCmSznxKM"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "perfect view",
-      "url": "https://open.spotify.com/track/0GEvhEoA1jY1PB7JAoGICF"
-    },
-    {
-      "added_at": "2024-12-16 05:11:53",
-      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -123,6 +83,46 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2024-12-16 05:11:53",
+      "album": {
+        "name": "perfect view",
+        "url": "https://open.spotify.com/album/69DN81jxjmGZBhLC44esKh"
+      },
+      "artists": [
+        {
+          "name": "Yana and Yna",
+          "url": "https://open.spotify.com/artist/44MCDYvpFe8ugUCmSznxKM"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "perfect view",
+      "url": "https://open.spotify.com/track/0GEvhEoA1jY1PB7JAoGICF"
+    },
+    {
+      "added_at": "2024-12-16 05:11:53",
+      "album": {
+        "name": "homebdy (feat. Madman Stan)",
+        "url": "https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "slimedemidemislime",
+          "url": "https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E"
+        },
+        {
+          "name": "Madman Stan",
+          "url": "https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs"
+        }
+      ],
+      "duration_ms": 141762,
+      "name": "homebdy (feat. Madman Stan)",
+      "url": "https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y"
     },
     {
       "added_at": "2024-12-16 05:11:53",
@@ -159,26 +159,6 @@
       "duration_ms": 326813,
       "name": "Magbalik",
       "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2024-12-16 05:11:53",
-      "album": {
-        "name": "Pakundangan (feat. Hev Abi)",
-        "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
-      },
-      "artists": [
-        {
-          "name": "DEMI",
-          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
-        },
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Pakundangan (feat. Hev Abi)",
-      "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
     },
     {
       "added_at": "2024-12-16 05:11:53",
@@ -243,6 +223,26 @@
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "added_at": "2024-12-16 05:11:53",
+      "album": {
+        "name": "Pakundangan (feat. Hev Abi)",
+        "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Pakundangan (feat. Hev Abi)",
+      "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
     },
     {
       "added_at": "2024-12-16 05:11:53",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-12-16 05:11:53",
       "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+    },
+    {
+      "added_at": "2024-12-16 05:11:53",
+      "album": {
         "name": "balik",
         "url": "https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 200274,
       "name": "balik",
       "url": "https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX"
-    },
-    {
-      "added_at": "2024-12-16 05:11:53",
-      "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2024-12-16 05:11:53",

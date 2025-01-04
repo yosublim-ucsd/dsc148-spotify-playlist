@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 107505,
+  "num_followers": 107522,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAABFJZiS15H+yGclAhyD+vfZ",
+  "snapshot_id": "Z3XXAAAAAAAcW8QWKFV48XtCe14hYh1y",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Dreams of Surf",
-      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
+      "duration_ms": 164133,
+      "name": "Hymne - Remastered",
+      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opera sauvage (Remastered)",
-        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 164133,
-      "name": "Hymne - Remastered",
-      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
+      "duration_ms": 163333,
+      "name": "Dreams of Surf",
+      "url": "https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Across the Mountains",
-      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 212680,
       "name": "Early Years",
       "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Across the Mountains",
+      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Titans",
-      "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -511,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
       },
       "artists": [
         {
@@ -520,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 546106,
-      "name": "To the Unknown Man",
-      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+      "duration_ms": 239133,
+      "name": "Titans",
+      "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
       "duration_ms": 127106,
       "name": "In the magic of Cosmos",
       "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 340426,
-      "name": "Memories of Blue",
-      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
+      "duration_ms": 151408,
+      "name": "Celestial Whispers",
+      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosetta",
-        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 151408,
-      "name": "Celestial Whispers",
-      "url": "https://open.spotify.com/track/21TaTdMjtqEYQag9OWyloc"
+      "duration_ms": 340426,
+      "name": "Memories of Blue",
+      "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
     },
     {
       "added_at": null,

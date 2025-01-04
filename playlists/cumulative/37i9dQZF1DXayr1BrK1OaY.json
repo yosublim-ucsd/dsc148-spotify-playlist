@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 202786,
       "name": "Ghost Of What Could Be",
       "url": "https://open.spotify.com/track/5fyrHkSghTUzUwg4tNjlHL"
@@ -2814,6 +2814,28 @@
       "duration_ms": 189636,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ"
+    },
+    {
+      "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273442,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
     },
     {
       "album": {
@@ -5587,6 +5609,24 @@
     },
     {
       "album": {
+        "name": "ONANON",
+        "url": "https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195638,
+      "name": "ONANON",
+      "url": "https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"
+    },
+    {
+      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
@@ -7420,7 +7460,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 221538,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"

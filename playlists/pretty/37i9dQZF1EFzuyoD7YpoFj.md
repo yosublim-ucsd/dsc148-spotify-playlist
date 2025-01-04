@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 406 songs - 21 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 366 likes - 406 songs - 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,8 +299,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 289 | [She's Got That Thing Performed By Uncle Willie](https://open.spotify.com/track/1sWUsrYbmriB1CBgIQguJO) | [John Mcmartin](https://open.spotify.com/artist/6lpPLbDpXX20IEZyluDqxY) | [High Society](https://open.spotify.com/album/2nh5ATNbVtwED4BUVUo9L9) | 2:24 |
 | 290 | [Throwing A Ball Tonight Performed By Margaret Lord](https://open.spotify.com/track/5xyh0ZMywaBToAcVXHZIOk) | [Lisa Banes](https://open.spotify.com/artist/0zZeVtohXBLMAqao1y4AeM) | [High Society](https://open.spotify.com/album/2nh5ATNbVtwED4BUVUo9L9) | 2:22 |
 | 291 | [The King\-king Bird On The Divi\-divi Tree](https://open.spotify.com/track/7AWtBjITpQ8wu6hxe9ocNj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 3:44 |
-| 292 | [Sunday Morning Breakfast Time](https://open.spotify.com/track/59v86y4EBb3vlEDkJZBQW9) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 2:02 |
-| 293 | [Primitive Man](https://open.spotify.com/track/4mKLfhEp4chd7ZajVR3v68) | [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944) | [Lady With The Torch..\. Still Burning](https://open.spotify.com/album/3hJakDQQBY6moLXfWLVsZa) | 2:47 |
+| 292 | [Primitive Man](https://open.spotify.com/track/4mKLfhEp4chd7ZajVR3v68) | [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944) | [Lady With The Torch..\. Still Burning](https://open.spotify.com/album/3hJakDQQBY6moLXfWLVsZa) | 2:47 |
+| 293 | [Sunday Morning Breakfast Time](https://open.spotify.com/track/59v86y4EBb3vlEDkJZBQW9) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 2:02 |
 | 294 | [Why Am I So Gone About That Gal](https://open.spotify.com/track/2GQWbSdThi6IkHsFty3w4T) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [Gene](https://open.spotify.com/album/0OOIgQ1Eq97p2QNoS8TMSB) | 4:37 |
 | 295 | [Soft As Spring](https://open.spotify.com/track/4XvZLaEaVoiLXf8Sty1HO2) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:14 |
 | 296 | [Träume heißen du \- I Concentrate on You \- Remastered](https://open.spotify.com/track/5NWgSeLUcp4jDlj2wWMlDO) | [Hildegard Knef](https://open.spotify.com/artist/66aVJ4ocSmKcdrRUCXR8j0) | [Hildegard Knef singt Cole Porter \(Remastered\)](https://open.spotify.com/album/33AGapq36esdBwQwgbFFoL) | 3:28 |
@@ -415,4 +415,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 405 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 406 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Abl0ngAAAABNVgKhHQl5flYRJlbyEIEQ`
+Snapshot ID: `Abl6NAAAAAAqJV9G3HPlg3TgNqNJhf3Z`

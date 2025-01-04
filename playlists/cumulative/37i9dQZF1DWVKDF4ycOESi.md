@@ -4,7 +4,7 @@
 
 > LIBERATO in cover + tutte le migliori uscite delle ultime due settimane!
 
-3,048 songs - 6 day 10 hr 1 min
+3,049 songs - 6 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -779,6 +779,7 @@
 | [Due città](https://open.spotify.com/track/0pKGqyTeOU8X1yWas2fysJ) | [Lucy](https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P) | [Due città](https://open.spotify.com/album/28miBXg5kOFeEOxHOXKKVY) | 2:18 | 2024-06-27 | 2024-07-05 |
 | [due per tre](https://open.spotify.com/track/3RQkF7Dg8NOVWXgPOaJKkG) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [senza preavviso](https://open.spotify.com/album/5bPm9ErEFE4PbR5PGYsVcM) | 1:37 | 2024-10-10 | 2024-10-18 |
 | [Due sassi](https://open.spotify.com/track/1kHYTEB6yDG8kyQigjGw0m) | [Manitoba](https://open.spotify.com/artist/5F3k6dasqoyURq6DxItmAZ) | [Due sassi](https://open.spotify.com/album/7vm3QzKfv0brd1NakSi5QM) | 2:48 | 2024-05-23 | 2024-06-01 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-02 |  |
 | [Dunya](https://open.spotify.com/track/27F9f441wbYV8nk2GjjdY6) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Dunya](https://open.spotify.com/album/2sfEGogJNUUtPHvoQDHuiI) | 3:05 | 2024-12-05 | 2024-12-13 |
 | [DURA \(feat\. Guè\)](https://open.spotify.com/track/0unNN8xZYLyJzColKJWxIz) | [Tami Tsunami](https://open.spotify.com/artist/2NGJmRzX3dfDD2sEC3M2GI), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [DURA \(feat\. Guè\)](https://open.spotify.com/album/1Vj92cNjkMep27HpgOC700) | 2:52 | 2024-07-25 | 2024-08-02 |
 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 | 2024-10-31 | 2024-11-08 |

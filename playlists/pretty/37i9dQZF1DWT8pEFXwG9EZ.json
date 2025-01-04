@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 170366,
+  "num_followers": 170402,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
-        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Linus And Lucy",
-      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Allied (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/4LxkwLRaq7FU1GC9LtvWj3"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 249946,
       "name": "Sing Sing Sing",
       "url": "https://open.spotify.com/track/5mafZQ6qbYrzvU90vFUpNg"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
+        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -879,30 +879,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Manhattan: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/71aKU2RUyaBJLslyH0WEAA"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Zubin Mehta",
-          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/1V43BO81I2LLHjy25en933"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Jazz in Film",
         "url": "https://open.spotify.com/album/3Ki6oezrFANfgKHfaG6AJs"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 503066,
       "name": "Love Theme (From \"Chinatown\")",
       "url": "https://open.spotify.com/track/66tYxA2RBooo0Y6kBj7W7F"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Manhattan: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/71aKU2RUyaBJLslyH0WEAA"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1V43BO81I2LLHjy25en933"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Blow-Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "The Bed",
-      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 584760,
       "name": "Alfie's Theme - From \"Alfie\" Score",
       "url": "https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Blow-Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "The Bed",
+      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "duration_ms": 344226,
+      "name": "Blues / La Dolce Vita Dei Nobili",
+      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
         "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 197333,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        }
-      ],
-      "duration_ms": 344226,
-      "name": "Blues / La Dolce Vita Dei Nobili",
-      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "The Thomas Crown Affair",
         "url": "https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 141240,
       "name": "Theme From The Thomas Crown Affair (The Windmills Of Your Mind)",
       "url": "https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Who Framed Roger Rabbit",
         "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 152333,
       "name": "Lonely at the Top",
       "url": "https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 364613,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Monsters Inc Original Soundtrack",
-        "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Walk To Work",
-      "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Johnny Cool (Original Movie Soundtrack)",
         "url": "https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 198034,
       "name": "Green Tables Blues",
       "url": "https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Monsters Inc Original Soundtrack",
+        "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Walk To Work",
+      "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
     },
     {
       "added_at": "2024-06-14 07:09:21",

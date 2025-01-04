@@ -736,10 +736,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 255132,
       "name": "Jimmy Neutron",
       "url": "https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr"
+    },
+    {
+      "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Jorge Gamboa",
+          "url": "https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226283,
+      "name": "Jose Rocha Avenda\u00f1o",
+      "url": "https://open.spotify.com/track/4D29C1f6S2g6BjL2Ra13PH"
     },
     {
       "album": {

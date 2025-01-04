@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Pheelz",
-  "num_followers": 77432,
+  "num_followers": 77522,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,18 @@
     {
       "added_at": "2024-12-16 09:20:22",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+        "name": "Giddem",
+        "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+      "duration_ms": 178000,
+      "name": "Giddem",
+      "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
     },
     {
       "added_at": "2024-12-16 09:20:22",
@@ -467,18 +463,22 @@
     {
       "added_at": "2024-12-16 09:20:22",
       "album": {
-        "name": "Giddem",
-        "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
       "artists": [
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Giddem",
-      "url": "https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN"
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2024-12-16 09:20:22",

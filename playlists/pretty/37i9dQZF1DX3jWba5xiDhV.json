@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 270542,
+  "num_followers": 270778,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "Disco Modernism (1983 - 2008)",
-        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
-      },
-      "artists": [
-        {
-          "name": "Fred Ventura",
-          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
-    },
-    {
-      "added_at": "2024-08-12 13:13:15",
-      "album": {
         "name": "What Do You Live For? (feat. David Blank & Saturnino)",
         "url": "https://open.spotify.com/album/00uw3T85RTvuXDX4QnUem4"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 257250,
       "name": "What Do You Live For? (feat. David Blank & Saturnino)",
       "url": "https://open.spotify.com/track/4XW2RdSCHDF67glmTN3CCQ"
+    },
+    {
+      "added_at": "2024-08-12 13:13:15",
+      "album": {
+        "name": "Disco Modernism (1983 - 2008)",
+        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
+      },
+      "artists": [
+        {
+          "name": "Fred Ventura",
+          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
+        }
+      ],
+      "duration_ms": 371920,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
     },
     {
       "added_at": "2024-08-12 13:13:15",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-08-12 13:13:15",
       "album": {
-        "name": "When I Let You Down / Boogie Tonight",
-        "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
+        "name": "Give me a Break (Original) - Single",
+        "url": "https://open.spotify.com/album/2RElM88tFDv38lDi1nUcA6"
       },
       "artists": [
         {
-          "name": "M & G",
-          "url": "https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe"
+          "name": "Vivien Vee",
+          "url": "https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d"
         }
       ],
-      "duration_ms": 366076,
-      "name": "When I Let You Down - Extended Mix",
-      "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
+      "duration_ms": 531120,
+      "name": "Give me a Break",
+      "url": "https://open.spotify.com/track/21ebxv3xeNEJbmdwBhfwQ5"
     }
   ],
   "unique_name": "Italo Disco",

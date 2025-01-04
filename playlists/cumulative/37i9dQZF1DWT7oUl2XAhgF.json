@@ -2709,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Heal Me Good",
+        "url": "https://open.spotify.com/album/6DjI2Od6U3WvvRmpD7gsiH"
+      },
+      "artists": [
+        {
+          "name": "Yufu",
+          "url": "https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "Heal Me Good",
+      "url": "https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U"
+    },
+    {
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv"
       },
@@ -3414,7 +3432,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 261773,
       "name": "I'm Leaving",
       "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
@@ -6494,7 +6512,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
@@ -8238,7 +8256,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 258104,
       "name": "Untitled Visions",
       "url": "https://open.spotify.com/track/3j2pDRd8tiJiMgZ7RknuXu"
@@ -8393,6 +8411,24 @@
     },
     {
       "album": {
+        "name": "We Got This",
+        "url": "https://open.spotify.com/album/79Utq6WQvxX0OkODgZEfDO"
+      },
+      "artists": [
+        {
+          "name": "Beatchild",
+          "url": "https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "We Got This - 7'' Version",
+      "url": "https://open.spotify.com/track/4OQMZBaOgEvAcXI8NMWEz7"
+    },
+    {
+      "album": {
         "name": "THE SOUTHWESTERN COMMUNION",
         "url": "https://open.spotify.com/album/0HZ86tsiLEjdDxvlH2nqhz"
       },
@@ -8444,6 +8480,24 @@
       "duration_ms": 137920,
       "name": "What More Can I Do",
       "url": "https://open.spotify.com/track/5Dp7CfpvcRYCamP1MTXxN1"
+    },
+    {
+      "album": {
+        "name": "What You Chose",
+        "url": "https://open.spotify.com/album/3wFPt6l1djsbjGxFIMCjnJ"
+      },
+      "artists": [
+        {
+          "name": "James Tutson",
+          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197418,
+      "name": "What You Chose",
+      "url": "https://open.spotify.com/track/3XkPTlF8G89tA3m0xv7Rmd"
     },
     {
       "album": {

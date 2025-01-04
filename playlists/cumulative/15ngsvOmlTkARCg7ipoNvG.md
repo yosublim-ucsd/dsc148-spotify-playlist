@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,859 songs - 1 day 14 hr 5 min
+1,861 songs - 1 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [Forever Sky](https://open.spotify.com/track/2ySaDmOwCZkOjVz345Wbzi) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Forever Sky](https://open.spotify.com/album/0z3tgLaEp1TvUVIjibQ1Ay) | 1:01 | 2022-09-12 |  |
 | [Forgiven Again](https://open.spotify.com/track/4EzIy19Gp3jPWefuMhWXGI) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Deep Inspiration](https://open.spotify.com/album/7LzslyJIxxDQ0Nqg0rGOaG) | 1:02 | 2022-05-11 |  |
 | [Forgiven Once Again](https://open.spotify.com/track/1JTzvJtq9MhtZsN1I0poJ7) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Waves Of Love](https://open.spotify.com/album/5ChteC7FRIuqgnbgb1NbxM) | 1:01 | 2022-05-14 |  |
+| [Forgiveness](https://open.spotify.com/track/09uQF9RWUllpPDiF4Upgsa) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Forgiveness](https://open.spotify.com/album/75WpOAkddPAgJch33JH5XJ) | 1:00 | 2025-01-03 |  |
 | [Forgiving Time](https://open.spotify.com/track/3iPkJtUr8qDIhTljuiJtEM) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ethereal Presence](https://open.spotify.com/album/28yGYpPzxYD1uN1cLKYxqL) | 1:06 | 2022-01-21 |  |
 | [Forgiving Times \- Cello Version](https://open.spotify.com/track/7uHyHMpe7bx11leH8f0PPc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Forgiving Times](https://open.spotify.com/album/2n0vBsVAWzmbwuM4YsYBK4) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Forgiving Times Arr\. For Strings](https://open.spotify.com/track/6YDWylhDSKTsMuUz7TLsum) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Forgiving Times Arr\. For Strings](https://open.spotify.com/album/3wUFg8a9aYgpZUUrkYshEv) | 1:00 | 2023-09-27 |  |
@@ -1348,6 +1349,7 @@
 | [Rise](https://open.spotify.com/track/6uu59jUqnnPRTh3XRKOx52) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rise](https://open.spotify.com/album/2SNwuvlaNKQrDqdZzJI3kL) | 1:00 | 2024-04-08 |  |
 | [Rising of the Moon](https://open.spotify.com/track/7G1ytuw9UNt317srYJqRYc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Beautiful Dreams](https://open.spotify.com/album/6Q8Qv4dPI9s1Fe5uKIbz3T) | 1:39 | 2022-01-20 |  |
 | [River Dreaming Again](https://open.spotify.com/track/1jumcuQob1Gj4zziQpYvDM) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Constant Glow](https://open.spotify.com/album/1GJvpTYe3wv4ZpjXwH1oUP) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Riverbank](https://open.spotify.com/track/3FmcR0kCYJWxTpgaUOnTsQ) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Riverbank](https://open.spotify.com/album/0QZ3N49jEk7A09ybz5iW6n) | 1:00 | 2025-01-03 |  |
 | [Rivers](https://open.spotify.com/track/46S417G0xvadkFYteZQvpj) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |
 | [Rivers Flow](https://open.spotify.com/track/6nD2yoVVGKocPg301QNkww) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Rivers Flow](https://open.spotify.com/album/4T1fij8tkq5WJfFeQTkDqj) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Rivers Flow \- Strings Version](https://open.spotify.com/track/791QINqCiJ9BoIAxsvxkIh) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Rivers Flow \(Strings Version\)](https://open.spotify.com/album/0ykI0ftLM0OCtyAqMQvhZK) | 1:02 | 2024-02-09 | 2024-02-13 |

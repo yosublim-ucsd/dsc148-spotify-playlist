@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,927 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,949 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 33 | [Roll 'Em Pete](https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:10 |
 | 34 | [Don't Leave Me Baby](https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Aladdin Records Story](https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM) | 3:00 |
 | 35 | [Red Hot](https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:24 |
-| 36 | [Caldonia](https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:43 |
+| 36 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 5:24 |
 | 37 | [Jump, Jive, An' Wail \- Remastered 1996](https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt) | [Louis Prima & Keely Smith](https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [Jump, Jive An' Wail: The Essential](https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w) | 3:29 |
 | 38 | [King Kong](https://open.spotify.com/track/2eVCMrIn3sIPX7TRHuBsdy) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Real R'n'B and Soul \(Lost and Found 2\)](https://open.spotify.com/album/6bThGExgy1Y415PO9esT13) | 1:59 |
 | 39 | [Shake That Thing](https://open.spotify.com/track/2XacJ1d8YqhSrxxUFykEOY) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [More Greatest Hits \- Good Rockin' Tonight](https://open.spotify.com/album/1d0AzcPC6aD8jmDmhCYRuP) | 2:16 |
 | 40 | [I'm Going To Have Myself A Ball](https://open.spotify.com/track/1959fuoNuBSXULOrA4xJi5) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [Walk That Mess!](https://open.spotify.com/album/5YK3ihvqFAPUDhsv6fcMTR) | 2:44 |
 | 41 | [Oh Babe!](https://open.spotify.com/track/5rjGP2an1PW03auZnOexz0) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Boogie Woogie! Legends Of Jump Blues](https://open.spotify.com/album/5K0TKBc20U2Wc4Wu2cgRMZ) | 2:30 |
-| 42 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 5:24 |
+| 42 | [Caldonia](https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:43 |
 | 43 | [Real Fine Daddy](https://open.spotify.com/track/1IEjfCPwrQU942xOp8Wa6B) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Dootone Rock 'n' Rhythm & Blues](https://open.spotify.com/album/0qt4mC8NS8SOZGjsJoXulh) | 2:16 |
 | 44 | [All Night Long](https://open.spotify.com/track/6fNlsbMIQh1794kBZ4bavY) | [Joe Houston Orchestra](https://open.spotify.com/artist/7dhUARf3tXiAm57gKqhi2o) | [Great R&B Instrumentals](https://open.spotify.com/album/0zq9zlmuv2FcOOwmNqh7cL) | 2:39 |
 | 45 | [Teenage Baby](https://open.spotify.com/track/0W3NQBKaw2ncqUefnqCq8a) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings: 1950\-1954](https://open.spotify.com/album/2aFmMoshdIDguX9ds0mMe2) | 2:04 |

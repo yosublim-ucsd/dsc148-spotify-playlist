@@ -2,7 +2,7 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Rauw Alejandro, Bad Bunny, Blessd, KAROL G, and more\. 🔥🍑
+> Reggaeton hits from Neton Vega, Rauw Alejandro, Blessd, KAROL G, and more\. 🔥🍑
 
 569 songs - 1 day 7 hr 30 min
 

@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 280100,
+  "num_followers": 280301,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
+        "name": "Mujer Que Mal Me Pagas",
+        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 218720,
+      "name": "Mujer Que Mal Me Pagas",
+      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
         "name": "S\u00f3lo Dios Puede Juzgarme",
         "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 235280,
       "name": "Si Me Ves Llorar por Ti",
       "url": "https://open.spotify.com/track/0XFn0YkjPrKMSLLU4jsLAS"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
-        "name": "Mujer Que Mal Me Pagas",
-        "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 218720,
-      "name": "Mujer Que Mal Me Pagas",
-      "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+        "name": "S\u00f3lo Dios Puede Juzgarme",
+        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
       },
       "artists": [
         {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
+      "duration_ms": 155360,
+      "name": "El Chancho Come Caviar",
+      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "S\u00f3lo Dios Puede Juzgarme",
-        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
+        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
       },
       "artists": [
         {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
         }
       ],
-      "duration_ms": 155360,
-      "name": "El Chancho Come Caviar",
-      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
+      "duration_ms": 137786,
+      "name": "Hasta el Sol de Hoy (En Vivo)",
+      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
         "name": "Mil preguntas",
         "url": "https://open.spotify.com/album/7lza5ZZmSVr77GQhfiSgjs"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 189286,
       "name": "Mil preguntas",
       "url": "https://open.spotify.com/track/1sWSkjycfa70S1zcn0zWA3"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
-        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
-      },
-      "artists": [
-        {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
-        }
-      ],
-      "duration_ms": 137786,
-      "name": "Hasta el Sol de Hoy (En Vivo)",
-      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "No se va",
-        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "No se va",
-      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
         "name": "Cicatrices (Con Buenos Aires)",
         "url": "https://open.spotify.com/album/2QmW2CJutIAyU1JupHb7le"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 245864,
       "name": "Se Enamor\u00f3 de Mi la Soledad",
       "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
+        "name": "No se va",
+        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "No se va",
+      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "Mensajes del Corazon",
-        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 262803,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
         "name": "La Segunda del Hombre del Acorde\u00f3n",
         "url": "https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
+        "name": "Mensajes del Corazon",
+        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 262803,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
+        "name": "El Secreto",
+        "url": "https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC"
       },
       "artists": [
         {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Kaniche",
+          "url": "https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk"
         }
       ],
-      "duration_ms": 219434,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
+      "duration_ms": 190560,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -1095,22 +1095,6 @@
       "duration_ms": 203812,
       "name": "Y Hoy Volvimos A Vernos",
       "url": "https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
-        "name": "El Secreto",
-        "url": "https://open.spotify.com/album/5u9ztgTHFrPoyGsXwysaSC"
-      },
-      "artists": [
-        {
-          "name": "Kaniche",
-          "url": "https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Te Propongo",
-      "url": "https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -1187,22 +1171,6 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
         "name": "No Fue Culpa Mia",
         "url": "https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 219434,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Castell\u00f3 Kaniche",
-          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "No Me Doli\u00f3",
-      "url": "https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
         "name": "Dime Quien",
         "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
       },
@@ -1299,6 +1283,38 @@
       "duration_ms": 163800,
       "name": "Dime Quien",
       "url": "https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
+        "name": "Te Llevas Mi Vida",
+        "url": "https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 232248,
+      "name": "Te Llevas Mi Vida",
+      "url": "https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIRBo7Uvkxfo6qYASWBcw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Castell\u00f3 Kaniche",
+          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "No Me Doli\u00f3",
+      "url": "https://open.spotify.com/track/0CsuYDjeRALnsoncHcqt16"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -1339,34 +1355,18 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "Te Llevas Mi Vida",
-        "url": "https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR"
+        "name": "Adicto a Tu Piel",
+        "url": "https://open.spotify.com/album/0GaQEVzKdGyzwbw6gzVltM"
       },
       "artists": [
         {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
         }
       ],
-      "duration_ms": 232248,
-      "name": "Te Llevas Mi Vida",
-      "url": "https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
-        "name": "La Gota Fr\u00eda",
-        "url": "https://open.spotify.com/album/2ZdyoocjXdF42aKsqNe0DW"
-      },
-      "artists": [
-        {
-          "name": "Los Lirios De Santa Fe",
-          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
-        }
-      ],
-      "duration_ms": 209790,
-      "name": "La Gota Fria",
-      "url": "https://open.spotify.com/track/1S1nhRVfpipVA1rr8zmYKk"
+      "duration_ms": 239796,
+      "name": "Adicto a Tu Piel",
+      "url": "https://open.spotify.com/track/0br8d63wjkqKph7c7YZeTV"
     }
   ],
   "unique_name": "Cumbia Santafesina",

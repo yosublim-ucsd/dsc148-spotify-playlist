@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256863,
+  "num_followers": 256885,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "CUANDO HACEMOS EL AMOR",
+      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Somos 3",
         "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 165545,
       "name": "Somos 3",
       "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "CUANDO HACEMOS EL AMOR",
-      "url": "https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "KD",
-        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
-      },
-      "artists": [
-        {
-          "name": "Melej",
-          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "KD",
-      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 220000,
       "name": "real valor",
       "url": "https://open.spotify.com/track/7gbYxnKsftWLFaZoDAxxPr"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+      },
+      "artists": [
+        {
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "Helado De Vainilla",
+        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 209100,
+      "name": "Helado De Vainilla",
+      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Siguiendo Tu Voz",
         "url": "https://open.spotify.com/album/3aMx835NabvoX55u65N42y"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 190685,
       "name": "Siguiendo Tu Voz",
       "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "Helado De Vainilla",
-        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 209100,
-      "name": "Helado De Vainilla",
-      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Hablas",
-        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "Hablas",
-      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "1UNAMORSUPREMO",
         "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "Hablas",
+        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "Hablas",
+      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Mamma Mia",
-        "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
-      },
-      "artists": [
-        {
-          "name": "The Limba",
-          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
-        },
-        {
-          "name": "Dyce",
-          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
-        }
-      ],
-      "duration_ms": 89791,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Puede que no",
         "url": "https://open.spotify.com/album/7mgjdbLuh9tPpscJFvSkAf"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 213818,
       "name": "Puede que no",
       "url": "https://open.spotify.com/track/1yIXKELSBgirC0T3BlY206"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "Mamma Mia",
+        "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
+      },
+      "artists": [
+        {
+          "name": "The Limba",
+          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
+        },
+        {
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
+        }
+      ],
+      "duration_ms": 89791,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "LA PRIMERA VEZ",
-        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "LA PRIMERA VEZ",
-      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "DAYDRMN / MOTION",
         "url": "https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 202400,
       "name": "Mi Piscis",
       "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Trufas",
-        "url": "https://open.spotify.com/album/56hMOKXiLHdMflideKYIRq"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        },
-        {
-          "name": "Shroom",
-          "url": "https://open.spotify.com/artist/4AebNgJr677DWj5kaqLReG"
-        }
-      ],
-      "duration_ms": 149999,
-      "name": "Tinta de Tu Piel",
-      "url": "https://open.spotify.com/track/3D0WYRsBpOZG4ScrthWnY1"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Tus Ojos Me Hablaron",
         "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
       },
@@ -1875,6 +1855,38 @@
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
+        "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Lucauy",
+          "url": "https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4"
+        },
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        },
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
+      "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
     }
   ],
   "unique_name": "R&B Latino",

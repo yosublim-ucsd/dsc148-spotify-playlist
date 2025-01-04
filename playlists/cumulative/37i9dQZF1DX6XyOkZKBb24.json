@@ -3919,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "Spring Water",
+        "url": "https://open.spotify.com/album/01XWyMc6wqRzhX71i6XPLR"
+      },
+      "artists": [
+        {
+          "name": "Henki Skidu",
+          "url": "https://open.spotify.com/artist/65fPcZydVqjSto0yPURIFU"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/5KEWQJNashVmCdGZZZdc4a"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -3984,7 +4002,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 225017,
       "name": "Warm Foothills",
       "url": "https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0"

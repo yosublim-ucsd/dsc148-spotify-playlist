@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 133090,
       "name": "911",
       "url": "https://open.spotify.com/track/6VrsZccqIQGoNd3JZODnLW"
@@ -456,6 +456,24 @@
       "duration_ms": 187643,
       "name": "ABLOH",
       "url": "https://open.spotify.com/track/5b5qsm7AO27JZ6osmKTshX"
+    },
+    {
+      "album": {
+        "name": "ABRIENDO EL A\u00d1O",
+        "url": "https://open.spotify.com/album/6LqW0iO2JUrjTnK7qjanLO"
+      },
+      "artists": [
+        {
+          "name": "Dowel King",
+          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170890,
+      "name": "ABRIENDO EL A\u00d1O",
+      "url": "https://open.spotify.com/track/2zblIbquNsfr8S3wFJ5UWV"
     },
     {
       "album": {
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 150280,
       "name": "B2B",
       "url": "https://open.spotify.com/track/1oglkR9kIXl23lYFEpL20P"
@@ -4218,7 +4236,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 102322,
       "name": "El Castillo",
       "url": "https://open.spotify.com/track/4GQH2UCDW2c5cyZ4db8snL"
@@ -6590,7 +6608,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 147014,
       "name": "La Calle",
       "url": "https://open.spotify.com/track/6oLUR0U5p3UoxfJsFjRD4v"
@@ -6630,7 +6648,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 200000,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/40zeK71MrP2P6Lkd3WESTO"
@@ -6890,6 +6908,32 @@
       "duration_ms": 164882,
       "name": "La Necesidad",
       "url": "https://open.spotify.com/track/4PyrE1y2BplalrcrAvOzRT"
+    },
+    {
+      "album": {
+        "name": "La Popi",
+        "url": "https://open.spotify.com/album/0lFgpX3E2V5Mm7NdwLTulj"
+      },
+      "artists": [
+        {
+          "name": "Kele",
+          "url": "https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Secreto \"El Famoso Biberon\"",
+          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "La Popi",
+      "url": "https://open.spotify.com/track/1jVNxdHWnRix5fw5DrZKfN"
     },
     {
       "album": {
@@ -8320,7 +8364,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 100704,
       "name": "Me la Subi\u00f3",
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
@@ -8442,7 +8486,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 203722,
       "name": "Meno Amigo, Meno Bobo",
       "url": "https://open.spotify.com/track/0A6JyumWTG0YA5HONcsgUw"
@@ -9744,7 +9788,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 178301,
       "name": "No Pueden",
       "url": "https://open.spotify.com/track/6yORtt58G26qw6RFXRKAEj"
@@ -9944,6 +9988,28 @@
       "duration_ms": 150508,
       "name": "Noche De Terror",
       "url": "https://open.spotify.com/track/0oGdRVrP3sJZlOIH1alZOG"
+    },
+    {
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/1kKf3q1hZEx93UI2TVSf9a"
+      },
+      "artists": [
+        {
+          "name": "Poeta Callejero",
+          "url": "https://open.spotify.com/artist/1m82A2YUjBaQnLAFi9vjJv"
+        },
+        {
+          "name": "Boca 3030",
+          "url": "https://open.spotify.com/artist/3oGukj8mAxcyifezfSmSQl"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/7KG62b2YjY8Qu10uThQD92"
     },
     {
       "album": {
@@ -11942,7 +12008,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 151327,
       "name": "Su Bandido",
       "url": "https://open.spotify.com/track/1ysNBAWRs8EtZUry2OXrZP"
@@ -13248,7 +13314,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 180535,
       "name": "Tu Retrato",
       "url": "https://open.spotify.com/track/2790hPY7QphXqA7eygMy6t"
@@ -13628,6 +13694,36 @@
       "duration_ms": 182278,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/71wH2jpfkQRbLDOznDgVq1"
+    },
+    {
+      "album": {
+        "name": "Una mala",
+        "url": "https://open.spotify.com/album/6RgyfqSHiEtIhBZQAckoew"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        },
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173465,
+      "name": "Una mala",
+      "url": "https://open.spotify.com/track/5C4sUjH9D65b4wfqguh1O6"
     },
     {
       "album": {

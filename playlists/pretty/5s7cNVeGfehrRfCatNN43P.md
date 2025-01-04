@@ -4,17 +4,19 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,847 likes - 8 songs - 27 min 55 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,848 likes - 10 songs - 26 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dancing in love](https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Dancing in love](https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx) | 2:36 |
-| 2 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 |
-| 3 | [Coming On Strong](https://open.spotify.com/track/3OxO5qycdP6Rg6dFgefWFZ) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [Coming On Strong](https://open.spotify.com/album/6qqZ1VQ8VV1FtG7aZThEG4) | 4:03 |
-| 4 | [Somethin' Stupid](https://open.spotify.com/track/0rgP63NBfy6DZgmbna6cT8) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C), [Oilly Wallace](https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F) | [Somethin' Stupid](https://open.spotify.com/album/6jycv1pDnBLplDsOyCtKkv) | 3:12 |
-| 5 | [Oluwa](https://open.spotify.com/track/3RJBYazhkBCCkZQaXV6p4Y) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [Oluwa](https://open.spotify.com/album/0iE8ZM7DXD4vgoHP2FQfWw) | 3:29 |
-| 6 | [Real Talk \- Original Mix](https://open.spotify.com/track/3ZlcwK8L6FYgCszPE2EfCl) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Real Talk](https://open.spotify.com/album/2fWm61rJu9In4lJ69FB2WB) | 5:51 |
-| 7 | [Stay Baby](https://open.spotify.com/track/2Ho4QtGcGgxwpti7N8Zsuw) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Stay Baby](https://open.spotify.com/album/6uhWPNR9ImsvLAbMGQG0fn) | 4:19 |
-| 8 | [FLY](https://open.spotify.com/track/3PIpDjERPi4oA7v1zupEG5) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi), [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [FLY](https://open.spotify.com/album/4xJZUFauLJGWWDwbCoEnOt) | 2:15 |
+| 1 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
+| 2 | [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 |
+| 3 | [Lonely Heat](https://open.spotify.com/track/2tKTgFfzIdGrByiAYjNXR1) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Lonely Heat](https://open.spotify.com/album/2jAZy4xV7QXhX7zD9DeTS2) | 3:10 |
+| 4 | [Till The Summer Fades \- VIP Mix](https://open.spotify.com/track/2dr6c3lc4AMqSIWHi3Z0LE) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [Till The Summer Fades \(VIP Mix\)](https://open.spotify.com/album/0R7fb9M63ipiaO99u4Hz1S) | 2:34 |
+| 5 | [Campari Lips & Soda](https://open.spotify.com/track/3yAhzZ6E6eg4Sv2uurvA8J) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Campari Lips & Soda](https://open.spotify.com/album/0dgYBTTQJzGhN4jJD4QYdf) | 2:56 |
+| 6 | [AH AH AH](https://open.spotify.com/track/3hZfphgOX7x5nJibyHiEY0) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [AH AH AH](https://open.spotify.com/album/3veXH87Ab3CYcaFLO7NoY0) | 2:05 |
+| 7 | [Yellow](https://open.spotify.com/track/6JJ9HK6ZHRVQEDH4o00s4E) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Yellow](https://open.spotify.com/album/3TFpA1ShVs3S4cD1iodrhL) | 2:22 |
+| 8 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 |
+| 9 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 |
+| 10 | [Candy Shop](https://open.spotify.com/track/2wTx5ik0CCnQPTXXfiYwAM) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Mareels](https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd) | [Candy Shop](https://open.spotify.com/album/031m6izON5ItyxLETIWo8T) | 1:48 |
 
-Snapshot ID: `AAALEdnsPJpx+zHpXTXxhKhEili6Vnd1`
+Snapshot ID: `AAALE10jkpH8BL8AiRQ2dfRcDowhq7wJ`

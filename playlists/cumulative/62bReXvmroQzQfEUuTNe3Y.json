@@ -1167,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Chihiro",
+        "url": "https://open.spotify.com/album/3g94R3KoZVDaYwiM0KQFyN"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128575,
+      "name": "Chihiro",
+      "url": "https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C"
+    },
+    {
+      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/6AWy4WgqAZQF4BaObQRQwS"
       },
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 220680,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/15vNoLXoliW2XdTUDlNlWk"
@@ -4868,7 +4886,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 150450,
       "name": "Love Is Just a Game",
       "url": "https://open.spotify.com/track/718NV3Ob8ZQNOytQfwYKSc"
@@ -6814,7 +6832,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 208810,
       "name": "Revelations",
       "url": "https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS"
@@ -9034,6 +9052,32 @@
       "duration_ms": 186386,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/14Qgz11mmNGbIQ57IZlAUF"
+    },
+    {
+      "album": {
+        "name": "Weightless (jamesjamesjames Remix)",
+        "url": "https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249779,
+      "name": "Weightless (jamesjamesjames Remix)",
+      "url": "https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC"
     },
     {
       "album": {

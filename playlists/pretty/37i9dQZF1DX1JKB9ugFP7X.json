@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del electropop latino. Foto: Javiera Mena",
-  "num_followers": 24351,
+  "num_followers": 24354,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Autosabotear (Uffie & Lokoy Remix)",
         "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 196641,
       "name": "Autosabotear (Uffie & Lokoy Remix)",
       "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -955,26 +955,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/6CJlsg416F8vi0YWIMGE2x"
+        "name": "En el Palacio (REMIX)",
+        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
       },
       "artists": [
         {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        },
-        {
-          "name": "Sof Tot",
-          "url": "https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj"
-        },
-        {
-          "name": "Zucker",
-          "url": "https://open.spotify.com/artist/2ARej2X8wUv5o72p5K5p6B"
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
         }
       ],
-      "duration_ms": 205238,
-      "name": "Entender la luz",
-      "url": "https://open.spotify.com/track/6BF2d8f9xm8ws6orycS1cZ"
+      "duration_ms": 246144,
+      "name": "En la Torre - AV Remix",
+      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -995,18 +987,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "En el Palacio (REMIX)",
-        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/6CJlsg416F8vi0YWIMGE2x"
       },
       "artists": [
         {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "Sof Tot",
+          "url": "https://open.spotify.com/artist/0QLkVX5UDeJyKxSA8z8mtj"
+        },
+        {
+          "name": "Zucker",
+          "url": "https://open.spotify.com/artist/2ARej2X8wUv5o72p5K5p6B"
         }
       ],
-      "duration_ms": 246144,
-      "name": "En la Torre - AV Remix",
-      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
+      "duration_ms": 205238,
+      "name": "Entender la luz",
+      "url": "https://open.spotify.com/track/6BF2d8f9xm8ws6orycS1cZ"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
-      },
-      "artists": [
-        {
-          "name": "Jazm\u00edn Mazzuchelli",
-          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Quemo la Estrella",
         "url": "https://open.spotify.com/album/0x0EqxJq11eOJey3L3ShiI"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 213652,
       "name": "Quemo la Estrella",
       "url": "https://open.spotify.com/track/2x2sn2NCMhrsE9mIzJPtek"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
+      },
+      "artists": [
+        {
+          "name": "Jazm\u00edn Mazzuchelli",
+          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
     },
     {
       "added_at": "2024-11-15 03:00:00",

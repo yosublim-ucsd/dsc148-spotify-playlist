@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1048690,
+  "num_followers": 1048907,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAADqmw8yy/K1oj3oIxe36+xA",
+  "snapshot_id": "Z3XXAAAAAADSpgYKSey4Chjj5u9zBZMP",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celebrando a una Leyenda (En Vivo)",
+        "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        },
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Esa Pared (feat. Vicente Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/2h9MKyF7PmWr99TeuoI8Xt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Idolo De Mexico",
         "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 160866,
       "name": "El Hijo del Pueblo",
       "url": "https://open.spotify.com/track/6ElbF1uBCYlazCH6jAoF5s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebrando a una Leyenda (En Vivo)",
-        "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        },
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Esa Pared (feat. Vicente Fern\u00e1ndez)",
-      "url": "https://open.spotify.com/track/2h9MKyF7PmWr99TeuoI8Xt"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Quisiera",
-        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "La Misma",
-      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estatua De Marfil",
         "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
       },
@@ -627,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Amigo El Tordillo",
-        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vicente Fern\u00e1ndez Con Banda",
         "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
       },
@@ -655,6 +623,38 @@
       "duration_ms": 214258,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7rY1SSgMIoXIXHH0EVjBPI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si No Te Quisiera",
+        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "La Misma",
+      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Amigo El Tordillo",
+        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre El Amor Y Yo",
-        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Bohemio de Afici\u00f3n",
-      "url": "https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mexicano en la M\u00e9xico",
         "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 154733,
       "name": "Ella",
       "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre El Amor Y Yo",
+        "url": "https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Bohemio de Afici\u00f3n",
+      "url": "https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd"
     },
     {
       "added_at": null,

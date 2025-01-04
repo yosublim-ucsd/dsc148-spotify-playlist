@@ -4,7 +4,7 @@
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-242 songs - 14 hr 34 min
+243 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cicatrice](https://open.spotify.com/track/4ijVcIJQmQJsMM79kQ6axU) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Cicatrice](https://open.spotify.com/album/4xRldT6DB8MdQp60tBVwgq) | 4:03 | 2022-11-07 | 2023-03-21 |
 | [Darou Bina](https://open.spotify.com/track/4Z1SY1cNKNQF7OJ7xjcN2y) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Darou Bina](https://open.spotify.com/album/0hQXPEP6DmJTNxth8jmgSc) | 3:30 | 2023-05-30 | 2023-12-13 |
 | [Demi\-tour](https://open.spotify.com/track/3ZqeaCp6xjjOKGt1KOEyXQ) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Demi\-tour](https://open.spotify.com/album/7r9DuONoCBCEhVHXpSzUTH) | 2:58 | 2022-02-22 | 2022-12-24 |
+| [DENYA](https://open.spotify.com/track/4qBJW3bFQDC66V6cKWNJw6) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [DENYA](https://open.spotify.com/album/6nCnj3uo4a3GB7ctQeqVbV) | 6:00 | 2025-01-03 |  |
 | [Denya Bkhout \- دنيا بخوت](https://open.spotify.com/track/7vA7XKOXZcVVAwYw9d1ZYc) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Khaled L'artiste](https://open.spotify.com/artist/6nUgQSUscZW4aFAg3C2ZPu) | [Denya Bkhout \(دنيا بخوت\)](https://open.spotify.com/album/5TA7rpDHWi2M9RWYOScgNn) | 3:25 | 2023-01-19 | 2024-06-15 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-07 | 2024-11-07 |
 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 | 2023-06-04 | 2024-09-08 |
@@ -131,7 +132,7 @@
 | [Ma3Likesh Elloum](https://open.spotify.com/track/2BDStFDyWmfAKYw1Vz0LTA) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:12 | 2022-11-26 | 2023-05-02 |
 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 | 2023-01-06 | 2024-06-15 |
 | [Maghrebins](https://open.spotify.com/track/75Nob0UozvGENGUaaMkbgi) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Maghrebins](https://open.spotify.com/album/1etFNKjDP2lFtXd6NGTzwF) | 3:23 | 2021-12-10 | 2022-07-12 |
-| [mahoumch ashabi](https://open.spotify.com/track/3GROMA9uMz9d5qaCG1HyS0) | [Aymen Ghzel](https://open.spotify.com/artist/0X6ml3Vhkfxz86Njojnnk8) | [mahoumch ashabi](https://open.spotify.com/album/79WrGdFAu7qD1XD7Sv9Au0) | 3:38 | 2024-12-18 |  |
+| [mahoumch ashabi](https://open.spotify.com/track/3GROMA9uMz9d5qaCG1HyS0) | [Aymen Ghzel](https://open.spotify.com/artist/0X6ml3Vhkfxz86Njojnnk8) | [mahoumch ashabi](https://open.spotify.com/album/79WrGdFAu7qD1XD7Sv9Au0) | 3:38 | 2024-12-18 | 2025-01-04 |
 | [Makhsernech \- مخسرناش](https://open.spotify.com/track/2uz35vUhSIZXhfrwYwTKaI) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Makhsernech \(مخسرناش\)](https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ) | 2:58 | 2023-10-23 | 2024-08-03 |
 | [Manansech \- مننساش](https://open.spotify.com/track/0ZHftCnY8Dlvpo8CFF2SBn) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Manansech \(مننساش\)](https://open.spotify.com/album/1uTvUDzsXMJlFuIbeNyvKp) | 2:56 | 2023-09-25 | 2023-12-13 |
 | [Manetfergou](https://open.spotify.com/track/36DuVeAj8R4TFkKD1sFbEN) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Manetfergou](https://open.spotify.com/album/0eKyvzuJJpTtAYBEflLox8) | 3:17 | 2023-08-15 | 2024-07-10 |

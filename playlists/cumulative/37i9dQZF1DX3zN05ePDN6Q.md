@@ -2,9 +2,9 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Febem, Sain
+> boom bap renasce todo dia\. Foto: Parteum
 
-595 songs - 1 day 7 hr 17 min
+596 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Mesma Confecção](https://open.spotify.com/track/7tc73pstdmItIt7ZpNyUDc) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mesma Confecção](https://open.spotify.com/album/2Ljbm8oTvrklyWsGRfdVXa) | 3:54 | 2022-12-16 | 2022-12-31 |
 | [Mesmo Que Demore](https://open.spotify.com/track/6o3Zp5Khl1zGD2pd8ba5Xf) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Mesmo Que Demore](https://open.spotify.com/album/6XG1oTFNh8dbvAFniA6ll1) | 2:28 | 2022-05-27 | 2022-07-09 |
 | [Metástase](https://open.spotify.com/track/6j0OYPUv0LOtxCjxuUVzgJ) | [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof) | [Metástase](https://open.spotify.com/album/7qmmR3mm8ZehGEjsrZgK84) | 2:54 | 2024-01-26 | 2024-06-22 |
-| [Meu Amigo É...](https://open.spotify.com/track/4uO7EBksUx74YIEYHxSOEK) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Meu Amigo É...](https://open.spotify.com/album/53PoWQp2SEdMvINUBrJNRu) | 5:26 | 2024-12-20 |  |
+| [Meu Amigo É...](https://open.spotify.com/track/4uO7EBksUx74YIEYHxSOEK) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Meu Amigo É...](https://open.spotify.com/album/53PoWQp2SEdMvINUBrJNRu) | 5:26 | 2024-12-20 | 2025-01-04 |
 | [Meu Mundo](https://open.spotify.com/track/3d5frcLx9xmqL5Lhz1pbhl) | [Arnaldo Tifu](https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx), [Jonas Pheer](https://open.spotify.com/artist/2sraMeyJ8p9hSo2gXo4Rd8) | [Meu Mundo](https://open.spotify.com/album/2y8oKmdHzge4JD7zPB9ueG) | 1:54 | 2024-05-10 | 2024-05-21 |
 | [Meu Normal](https://open.spotify.com/track/5WCYEL0xxj1qP9sYHoeRaw) | [Dourado](https://open.spotify.com/artist/6A4I0Mwth99UqrnvGQs7W8), [Drôga](https://open.spotify.com/artist/1QjdvG6BWkOEtkmsFbeClR) | [Meu Normal](https://open.spotify.com/album/2weeGPBIiW9SumEt3V3IIC) | 2:28 | 2023-02-03 | 2023-03-11 |
 | [Meu Último Boombap](https://open.spotify.com/track/204EWfjXiAJ6AWY3TAe20K) | [ZinLeo](https://open.spotify.com/artist/5boubF3ivRCuuuXJpTPF8M), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Meu Último Boombap](https://open.spotify.com/album/2b8byzuuzVcnzgSPd9pFP5) | 2:27 | 2024-02-23 | 2024-06-01 |
@@ -448,6 +448,7 @@
 | [QUOTIDIANO](https://open.spotify.com/track/3s9OCHTLhDUKDbILzGyQVa) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [QUOTIDIANO](https://open.spotify.com/album/06OqaTB5yk6C9NGmw5yKQa) | 3:13 | 2024-09-27 |  |
 | [R.U.A 12 Batalha de Vida](https://open.spotify.com/track/1E8nSsB4EKkKlOQOfUA9mV) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Max Bo](https://open.spotify.com/artist/5XXPhWP74GdoaxLyoljzsS), [Alves](https://open.spotify.com/artist/2zS9YaAB6eGPZYhHdFeMvN), [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [R.U.A 12 Batalha de Vida](https://open.spotify.com/album/1UwM49xZkncbw3Rsqkq2l7) | 10:18 | 2022-04-15 | 2023-07-29 |
 | [R10](https://open.spotify.com/track/02IIav2VTu7SKWT2TwA3FI) | [Mc LK](https://open.spotify.com/artist/0RjXuf7WYcmw1gHzPBM2JZ), [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr) | [R10](https://open.spotify.com/album/79z3EHOMwua2KjuOBwRAC4) | 2:33 | 2023-02-24 | 2023-04-15 |
+| [Raciocínio Inteiro](https://open.spotify.com/track/5YiIHRcQibMfZZOKSOXvAF) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Raciocínio Inteiro](https://open.spotify.com/album/6TUdBUTrHj8xabT8fDVzjU) | 4:30 | 2025-01-03 |  |
 | [Rainy Days](https://open.spotify.com/track/51wC8nffM3vHtxhXEjvmFJ) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Rainy Days](https://open.spotify.com/album/6LvIGvYiqk8c3oTQqsBfkg) | 3:00 | 2024-08-23 | 2024-09-28 |
 | [Rap Bom](https://open.spotify.com/track/1rAIZVMq28d5xTvbAKjHJR) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161) | [Rap Bom](https://open.spotify.com/album/0Jw1xflA7TBugdF0BQZ9dQ) | 3:16 | 2024-07-26 |  |
 | [Rap Game](https://open.spotify.com/track/2TMwWzOsMbn1QvJDTVVRpC) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Denielz Beats](https://open.spotify.com/artist/5qZzjADaukO5c8BNR2FzaV), [CHVZ](https://open.spotify.com/artist/0QDzVfcWOORMVfARERXe33), [DJ Cinara](https://open.spotify.com/artist/4k74AKJV0MWbYr99Wxamed) | [Rap Game](https://open.spotify.com/album/3wG3e3OAMMCZcvablfEtx1) | 3:47 | 2024-05-20 | 2024-06-08 |

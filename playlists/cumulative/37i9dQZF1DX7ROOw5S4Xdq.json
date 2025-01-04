@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: Aline Barros, Julliany Souza",
+  "description": "Ou\u00e7a os \u00faltimos lan\u00e7amentos da m\u00fasica Crist\u00e3. Foto: fhop music ",
   "name": "Novidades Religiosas",
   "tracks": [
     {
@@ -380,6 +380,32 @@
       "duration_ms": 284745,
       "name": "A Dor Vai Passar",
       "url": "https://open.spotify.com/track/4qVKVjxmBhEu3LmE8WD85k"
+    },
+    {
+      "album": {
+        "name": "A Ele A Gloria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6mdL5D4X87DfPsgQWfZcde"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Okada",
+          "url": "https://open.spotify.com/artist/3bABcAKmSBAiVKbVyC2ohi"
+        },
+        {
+          "name": "Daniel Braga",
+          "url": "https://open.spotify.com/artist/13GKhsZ8IylQk0JE1cuEZA"
+        },
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549000,
+      "name": "A Ele a Gloria - Ao Vivo",
+      "url": "https://open.spotify.com/track/2zszfTzM9fh6cA43G8fBLD"
     },
     {
       "album": {
@@ -3044,7 +3070,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 359941,
       "name": "Amor Furioso (No secreto: Volume 2)",
       "url": "https://open.spotify.com/track/6YJm9nEe7kYSbdBsHTscQ3"
@@ -4495,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/4D4BhRqS1KUt4TgP4jLV3Z"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/71H3zmNClZKNUbZZxuDUDZ"
+    },
+    {
+      "album": {
         "name": "Bom Mestre",
         "url": "https://open.spotify.com/album/2zg5BHNqVBf17MpZYXSLA2"
       },
@@ -5050,6 +5094,24 @@
       "duration_ms": 220753,
       "name": "Calma",
       "url": "https://open.spotify.com/track/50Gp5YWpRz8Qo0BxmO7okA"
+    },
+    {
+      "album": {
+        "name": "Calma (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6NgAPS7Mc1XOjPXrz12vC6"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230157,
+      "name": "Calma - Ao Vivo",
+      "url": "https://open.spotify.com/track/3M2YaIaRhCQn7IcYuBn0Az"
     },
     {
       "album": {
@@ -7274,7 +7336,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 305218,
       "name": "Cristo Seja Exaltado",
       "url": "https://open.spotify.com/track/3DIO1rJrwI2kMxHVdPdsTd"
@@ -14791,6 +14853,24 @@
     },
     {
       "album": {
+        "name": "F\u00e9",
+        "url": "https://open.spotify.com/album/4ovhZ2TBLsuFbrv1dOD3Np"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/7F5v31wV7pyVWzvW818sQf"
+    },
+    {
+      "album": {
         "name": "F\u00e9 e Atitude - One Take",
         "url": "https://open.spotify.com/album/0bAjPBZizK6OI0LLBvn9eE"
       },
@@ -15772,7 +15852,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 145333,
       "name": "Homenzinho Torto",
       "url": "https://open.spotify.com/track/0HPBBepTP6AvAkEfXJ07R3"
@@ -16102,7 +16182,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 241070,
       "name": "Imputa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6FxglSMZ9tKsCEkfjZ0pFu"
@@ -16352,7 +16432,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 576682,
       "name": "Isaias 9 - Ao Vivo em Florian\u00f3polis",
       "url": "https://open.spotify.com/track/68EXQVZ1awR51KrRamWmDk"
@@ -16400,6 +16480,24 @@
       "duration_ms": 163548,
       "name": "Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/6wd95nWKSGZMbnzfiPuYLr"
+    },
+    {
+      "album": {
+        "name": "Cristo \u00e9 meu (Na Cena Sessions)",
+        "url": "https://open.spotify.com/album/7nBjBUTk7rqquOFkXHyDS5"
+      },
+      "artists": [
+        {
+          "name": "Gerson Borges",
+          "url": "https://open.spotify.com/artist/5oVAfxApcM67olFFGpQGEe"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293728,
+      "name": "Janelas",
+      "url": "https://open.spotify.com/track/1mOa3hD9a1pzhuat3F0vjP"
     },
     {
       "album": {
@@ -16844,7 +16942,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 226764,
       "name": "Jesus Teu Nome Tem Poder",
       "url": "https://open.spotify.com/track/0RoUh3YsQM0fNFQBEvUtq1"
@@ -16932,7 +17030,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 179200,
       "name": "Jireh",
       "url": "https://open.spotify.com/track/6dIgkmEtKw71Y4dpBgugR7"
@@ -17530,7 +17628,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 280157,
       "name": "Louve",
       "url": "https://open.spotify.com/track/0VqbPKHZqjpNVddVpOKAET"
@@ -18264,7 +18362,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 253333,
       "name": "Maranata",
       "url": "https://open.spotify.com/track/2SRdnh4F3mfjbnimyaLj5g"
@@ -18450,7 +18548,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 368400,
       "name": "Marcas da Dor - Ao Vivo",
       "url": "https://open.spotify.com/track/6MsUnHm2xE4bMPbU3pi0QX"
@@ -19128,6 +19226,24 @@
       "duration_ms": 267029,
       "name": "Medley: O Altar T\u00e1 Fumegando / Sapato de Fogo / Cad\u00ea o Vaso / Mestre / Fara\u00f3 ou Deus",
       "url": "https://open.spotify.com/track/7i4wMYUxicJCdvNltYYFTk"
+    },
+    {
+      "album": {
+        "name": "Meia Noite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5I1Bi88WAhYCIksYcVWszq"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223469,
+      "name": "Meia Noite - Ao Vivo",
+      "url": "https://open.spotify.com/track/1CJmhl3D2xcWhEC4nTslPD"
     },
     {
       "album": {
@@ -20259,6 +20375,24 @@
     },
     {
       "album": {
+        "name": "Minha Calmaria (Piano e Voz)",
+        "url": "https://open.spotify.com/album/2wYd1ShZo7eswe4zccBI63"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223389,
+      "name": "Minha Calmaria - Piano e Voz",
+      "url": "https://open.spotify.com/track/4LHrWDGo47PNVqvtuj8GXQ"
+    },
+    {
+      "album": {
         "name": "Minha Cura (The Healing)",
         "url": "https://open.spotify.com/album/424928PBVycQwfKKhk2oPj"
       },
@@ -20798,6 +20932,28 @@
       "duration_ms": 284693,
       "name": "Na Corte do Egito - Ao Vivo",
       "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+    },
+    {
+      "album": {
+        "name": "Na Imensid\u00e3o",
+        "url": "https://open.spotify.com/album/2wcPf5ECMaSOEASihfFTbd"
+      },
+      "artists": [
+        {
+          "name": "William Bromold",
+          "url": "https://open.spotify.com/artist/5FyClKwMEqkO5eMrdf4uNp"
+        },
+        {
+          "name": "Louvor Maranata",
+          "url": "https://open.spotify.com/artist/5moCGXzAAGnH7DAPC0MsRp"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246461,
+      "name": "Na Imensid\u00e3o",
+      "url": "https://open.spotify.com/track/3lKwUELqimjssekRabaBHO"
     },
     {
       "album": {
@@ -25917,6 +26073,24 @@
     },
     {
       "album": {
+        "name": "Pal\u00e1cios",
+        "url": "https://open.spotify.com/album/7GHDLSMp5iTpdymQpqhxCV"
+      },
+      "artists": [
+        {
+          "name": "Stone Band",
+          "url": "https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200875,
+      "name": "Pal\u00e1cios",
+      "url": "https://open.spotify.com/track/0w9Quz5QiPWcrFXz9HTqva"
+    },
+    {
+      "album": {
         "name": "Papai",
         "url": "https://open.spotify.com/album/3tHNupR85scGjwFBDoUUpC"
       },
@@ -29102,7 +29276,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 286813,
       "name": "Quero Que Valorize / Ele \u00c9 A Solu\u00e7\u00e3o - De Gera\u00e7\u00e3o em Gera\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5rizW66n4ZnovzjaoG1mOZ"
@@ -35106,6 +35280,32 @@
       "duration_ms": 313124,
       "name": "Tu \u00c9s Deus",
       "url": "https://open.spotify.com/track/00OmdEHRlkPyUr50noD3bA"
+    },
+    {
+      "album": {
+        "name": "Tu \u00c9s Deus (A Ele)",
+        "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
+      },
+      "artists": [
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        },
+        {
+          "name": "Lucas & Evelyn Cortazio",
+          "url": "https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304391,
+      "name": "Tu \u00c9s Deus - A Ele",
+      "url": "https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy"
     },
     {
       "album": {

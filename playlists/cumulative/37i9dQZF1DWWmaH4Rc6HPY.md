@@ -4,7 +4,7 @@
 
 > ¡Rock para cantar en todos lados! Javier Blake en portada.
 
-190 songs - 10 hr 32 min
+191 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ansiedad](https://open.spotify.com/track/6HMvXSoGDvH7bdodbanNRI) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Ansiedad](https://open.spotify.com/album/3CcGC27xjlj7Tav8aPffog) | 2:41 | 2023-10-06 | 2024-05-07 |
 | [Antes de que apague el sol](https://open.spotify.com/track/0tzIXA7B2NkhASmE7r06vC) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Antes de que apague el sol](https://open.spotify.com/album/5JIWBd8fxFUALqYyJw6ltf) | 3:49 | 2024-11-08 |  |
 | [As I Lay Chillin](https://open.spotify.com/track/4ot97CRpxPgUMvmUf2v6Bd) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [As I Lay Chillin](https://open.spotify.com/album/454tTDruADdrGZ5rYHZqfr) | 3:40 | 2023-10-06 | 2024-05-07 |
-| [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 | 2023-10-06 |  |
+| [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 | 2023-10-06 | 2025-01-04 |
 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 | 2024-07-29 | 2024-11-12 |
 | [Bacardí](https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu) | [Pet Friendly](https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW) | [Bacardí](https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G) | 2:31 | 2023-10-06 | 2024-05-07 |
 | [Bailemos un bis](https://open.spotify.com/track/2l0cmTxCNQB6H5bMjraOD6) | [Dani Flaco](https://open.spotify.com/artist/0V1hK2bPPkbrjrnZC549V0), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Bailemos un bis](https://open.spotify.com/album/5cHpjRL41zTf5KJUsN3OFJ) | 3:30 | 2024-10-14 | 2024-10-19 |
@@ -152,6 +152,7 @@
 | [Que Somos \- Remix](https://open.spotify.com/track/57gyk5Nu81GRzC55glFN95) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Que Somos \(Remix\)](https://open.spotify.com/album/6VOLzbfFo0ZvTtywKLRqDZ) | 3:05 | 2023-10-06 |  |
 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 | 2024-05-17 |  |
 | [Quédate](https://open.spotify.com/track/62Oodz3V4Ziyvt5AEb4jd3) | [MANTRA](https://open.spotify.com/artist/2qRuaDWwIPdxIrICW9RYhi), [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [Epicentro](https://open.spotify.com/album/7JBJDWk6JfBcBIhW2o2D0I) | 2:43 | 2023-10-06 | 2024-05-07 |
+| [Rayo de Luz](https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Campeones del Mundo / Rayo de Luz](https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF) | 5:41 | 2025-01-03 |  |
 | [Recuerdos Que Torturan](https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Recuerdos Que Torturan](https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L) | 3:30 | 2023-10-06 | 2024-10-15 |
 | [Repetir El Plan](https://open.spotify.com/track/6yOXAz0AgapJN9YaHeBtNQ) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Repetir El Plan](https://open.spotify.com/album/2hbctIpiqxmeKCwMU3Qamu) | 2:23 | 2023-10-06 | 2024-05-07 |
 | [Rey Ahogado](https://open.spotify.com/track/4WbiwknJbbUMa0UEhoVL4Q) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Sarajevo](https://open.spotify.com/album/2DLDsug1Bbwp2UH6ZGbyMP) | 4:05 | 2024-05-06 | 2024-05-15 |

@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 125087,
       "name": "Ante",
       "url": "https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn"
@@ -2186,7 +2186,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -4564,7 +4564,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
@@ -5092,7 +5092,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 129334,
       "name": "Cierra La Puerta",
       "url": "https://open.spotify.com/track/4jz9oKHdzwfNZAJXGN3GuZ"
@@ -6288,7 +6288,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 158241,
       "name": "Cuero Caro",
       "url": "https://open.spotify.com/track/7axxLnHLlcHeXkc4Si82zN"
@@ -6640,7 +6640,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 215000,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2FFr0vdtqPBTK3RW0c7T5C"
@@ -8270,7 +8270,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -9020,6 +9020,24 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc"
+    },
+    {
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
     },
     {
       "album": {
@@ -10458,7 +10476,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 250640,
       "name": "Eres M\u00eda",
       "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
@@ -14368,6 +14386,28 @@
     {
       "album": {
         "name": "Juguete",
+        "url": "https://open.spotify.com/album/4DPeS9ttivsTffSYPmBLGv"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Juguete",
+      "url": "https://open.spotify.com/track/3vuElNsrvp6f7XzrF6HqyT"
+    },
+    {
+      "album": {
+        "name": "Juguete",
         "url": "https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv"
       },
       "artists": [
@@ -14636,7 +14676,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 170084,
       "name": "Kikito",
       "url": "https://open.spotify.com/track/5N7WygWmT8oIz5PqtLYFYz"
@@ -15096,7 +15136,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -16072,7 +16112,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 171826,
       "name": "LA PRIMERA VEZ (feat. NTG)",
       "url": "https://open.spotify.com/track/1nlE7HodTsB0IHA3HkR6gd"
@@ -18038,7 +18078,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -19600,7 +19640,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 148750,
       "name": "Mejor",
       "url": "https://open.spotify.com/track/2VyQdvvOsNifCt5DrT0NS1"
@@ -21432,7 +21472,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 165433,
       "name": "No Cap",
       "url": "https://open.spotify.com/track/1eOjepEdokoqSzrmFqCPd7"
@@ -23358,7 +23398,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 102592,
       "name": "Party Prendio",
       "url": "https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av"
@@ -23792,7 +23832,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 245620,
       "name": "Pero Dime",
       "url": "https://open.spotify.com/track/4L2LYBPs8jkXrcIxfRMhJm"
@@ -25732,7 +25772,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 137760,
       "name": "Que linda",
       "url": "https://open.spotify.com/track/1FExEHMPs4J1qLZTPFOuaX"
@@ -25842,7 +25882,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 210333,
       "name": "Quedate - Live",
       "url": "https://open.spotify.com/track/73CWEtik68Te87lTeI7AJS"
@@ -25900,7 +25940,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 249627,
       "name": "Quien",
       "url": "https://open.spotify.com/track/4x5cpW3coyQFtbJJ1wMFfo"
@@ -27490,7 +27530,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -28486,7 +28526,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 156521,
       "name": "Sense",
       "url": "https://open.spotify.com/track/62wrOBZ9EBSiLZCIG5buXj"
@@ -29892,7 +29932,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 230076,
       "name": "Sobrio - En Vivo",
       "url": "https://open.spotify.com/track/3OT8mMdzOWB0MVPHKOgww0"
@@ -33868,7 +33908,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
@@ -34128,7 +34168,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 186666,
       "name": "Vibrador",
       "url": "https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ"
@@ -34146,7 +34186,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 263200,
       "name": "Viejo A\u00f1o",
       "url": "https://open.spotify.com/track/3pvVeJFCJO5N8gPhHjF268"
@@ -34864,7 +34904,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

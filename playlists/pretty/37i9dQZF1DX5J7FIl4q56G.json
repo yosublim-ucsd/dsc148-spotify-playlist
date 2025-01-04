@@ -1,28 +1,28 @@
 {
-  "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: King Diamond",
-  "num_followers": 733415,
+  "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Paleface Swiss",
+  "num_followers": 733978,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z240eAAAAACj0NvNNcROVCB+rEflig6u",
+  "snapshot_id": "Z3du5QAAAADQ2+kgIY3vSCmt3qob/v/k",
   "tracks": [
     {
-      "added_at": "2024-12-27 05:00:40",
+      "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "Spider Lilly",
-        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
+        "name": "CURSED",
+        "url": "https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q"
       },
       "artists": [
         {
-          "name": "King Diamond",
-          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 274243,
-      "name": "Spider Lilly",
-      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
+      "duration_ms": 242984,
+      "name": "River Of Sorrows",
+      "url": "https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -59,18 +59,18 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Coda",
-        "url": "https://open.spotify.com/album/5GaHWICFVGzEGg8ndmQmsP"
+        "name": "Spider Lilly",
+        "url": "https://open.spotify.com/album/0PQ6bjvXCXtLHgDxNGwBxK"
       },
       "artists": [
         {
-          "name": "NOVELISTS",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+          "name": "King Diamond",
+          "url": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
         }
       ],
-      "duration_ms": 249952,
-      "name": "Coda",
-      "url": "https://open.spotify.com/track/4zBtXmFDYbMUW40yF7VV3H"
+      "duration_ms": 274243,
+      "name": "Spider Lilly",
+      "url": "https://open.spotify.com/track/3oElmGvpqVbknoVioijD4v"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -107,66 +107,18 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Apathy / 31.10",
-        "url": "https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0"
+        "name": "Coda",
+        "url": "https://open.spotify.com/album/5GaHWICFVGzEGg8ndmQmsP"
       },
       "artists": [
         {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
         }
       ],
-      "duration_ms": 211230,
-      "name": "Apathy",
-      "url": "https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Crown of Thorns",
-        "url": "https://open.spotify.com/album/2CiQA0a5b8sqi1mXPml2zN"
-      },
-      "artists": [
-        {
-          "name": "VILT",
-          "url": "https://open.spotify.com/artist/1XXNLj17d3wBoKtFWkik8a"
-        }
-      ],
-      "duration_ms": 321272,
-      "name": "Crown of Thorns",
-      "url": "https://open.spotify.com/track/76VZlgtlUONT09msg7ryeh"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "MESO",
-        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Prison Of My Mind",
-        "url": "https://open.spotify.com/album/7KjcExgKkHZu4O370P7Ujq"
-      },
-      "artists": [
-        {
-          "name": "Horizon Ignited",
-          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
-        }
-      ],
-      "duration_ms": 263093,
-      "name": "Prison Of My Mind",
-      "url": "https://open.spotify.com/track/2GEpjJUAoYyzjwwF1DnFfF"
+      "duration_ms": 249952,
+      "name": "Coda",
+      "url": "https://open.spotify.com/track/4zBtXmFDYbMUW40yF7VV3H"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -187,58 +139,50 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "pain processing.",
-        "url": "https://open.spotify.com/album/2DlActoZpMMasAJ0kNaZ6t"
+        "name": "Crown of Thorns",
+        "url": "https://open.spotify.com/album/2CiQA0a5b8sqi1mXPml2zN"
       },
       "artists": [
         {
-          "name": "VCTMS",
-          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
+          "name": "VILT",
+          "url": "https://open.spotify.com/artist/1XXNLj17d3wBoKtFWkik8a"
         }
       ],
-      "duration_ms": 178500,
-      "name": "numb to it all.",
-      "url": "https://open.spotify.com/track/0YWcaouNfusogaADdXa6wc"
+      "duration_ms": 321272,
+      "name": "Crown of Thorns",
+      "url": "https://open.spotify.com/track/76VZlgtlUONT09msg7ryeh"
     },
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Ultimate Penalty",
-        "url": "https://open.spotify.com/album/1y8SHY1WOjjsHD3INbQfUb"
+        "name": "Apathy / 31.10",
+        "url": "https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0"
       },
       "artists": [
         {
-          "name": "Grove Street",
-          "url": "https://open.spotify.com/artist/41hQlpi3r8ljXeRYbHbUBD"
-        },
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
         }
       ],
-      "duration_ms": 171154,
-      "name": "Ultimate Penalty",
-      "url": "https://open.spotify.com/track/2IgbVGleKzMBPwEZ9yW8I1"
+      "duration_ms": 211230,
+      "name": "Apathy",
+      "url": "https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z"
     },
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Out Of Breath",
-        "url": "https://open.spotify.com/album/2w66mOqciizStW7KqE1Xyp"
+        "name": "Prison Of My Mind",
+        "url": "https://open.spotify.com/album/7KjcExgKkHZu4O370P7Ujq"
       },
       "artists": [
         {
-          "name": "Savage Lands",
-          "url": "https://open.spotify.com/artist/5fft5SyNYhNar3PdYtKQSF"
-        },
-        {
-          "name": "Lord Of The Lost",
-          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
         }
       ],
-      "duration_ms": 288913,
-      "name": "Out Of Breath",
-      "url": "https://open.spotify.com/track/3yR7117c2uAkAtAKUpoxNb"
+      "duration_ms": 263093,
+      "name": "Prison Of My Mind",
+      "url": "https://open.spotify.com/track/2GEpjJUAoYyzjwwF1DnFfF"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -255,6 +199,106 @@
       "duration_ms": 210093,
       "name": "Damnation Flame - Orchestral Version",
       "url": "https://open.spotify.com/track/1lTXjiyHmgdle4Or49xGTI"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "WIERSZALIN VII",
+        "url": "https://open.spotify.com/album/4EKXivoDRkCByJB7ffl8Rs"
+      },
+      "artists": [
+        {
+          "name": "PATRIARKH",
+          "url": "https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J"
+        }
+      ],
+      "duration_ms": 390293,
+      "name": "WIERSZALIN VII",
+      "url": "https://open.spotify.com/track/7euQLhjmVADz5eFsUpHV1r"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "Bright Eyes",
+        "url": "https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "pain processing.",
+        "url": "https://open.spotify.com/album/2DlActoZpMMasAJ0kNaZ6t"
+      },
+      "artists": [
+        {
+          "name": "VCTMS",
+          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "numb to it all.",
+      "url": "https://open.spotify.com/track/0YWcaouNfusogaADdXa6wc"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "MESO",
+        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "WELCOME TO DYSTOPIA",
+        "url": "https://open.spotify.com/album/3cQEL8acg9zNlxAuCoM69I"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "NO EXCUSE",
+      "url": "https://open.spotify.com/track/4xWuFzxGZNjy4aLHslvajP"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "The Deviant Era",
+        "url": "https://open.spotify.com/album/5d1pDYWn1ZLFfQdrN6ZGwm"
+      },
+      "artists": [
+        {
+          "name": "Acacia Ridge",
+          "url": "https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj"
+        },
+        {
+          "name": "Cera Gibson",
+          "url": "https://open.spotify.com/artist/1Hiacf7uM6oGW5uXHDFYae"
+        }
+      ],
+      "duration_ms": 257862,
+      "name": "Negative Space",
+      "url": "https://open.spotify.com/track/7utgzokeoOeslAvdcogAKy"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -291,74 +335,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Just to Lose It All",
-        "url": "https://open.spotify.com/album/6cM49NdbF0vTIcMGMjYR1d"
-      },
-      "artists": [
-        {
-          "name": "Balance Breach",
-          "url": "https://open.spotify.com/artist/2sy77oZSFj4hGs76OQIsgK"
-        }
-      ],
-      "duration_ms": 255092,
-      "name": "Just to Lose It All",
-      "url": "https://open.spotify.com/track/4cyKCN9SOD7pPhGIyP8T8r"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Syntax Terror",
-        "url": "https://open.spotify.com/album/73KDPxgX2Inc5ixUP1j8bd"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Syntax Terror",
-      "url": "https://open.spotify.com/track/502EEHwLnYY3oGlBKvAPIt"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Herz in der Rinde",
-        "url": "https://open.spotify.com/album/2sXmGzf5TMV2acIVfkcwRR"
-      },
-      "artists": [
-        {
-          "name": "Subway To Sally",
-          "url": "https://open.spotify.com/artist/544X9aDcwFDSon8HevRcqg"
-        }
-      ],
-      "duration_ms": 298173,
-      "name": "Herz in der Rinde",
-      "url": "https://open.spotify.com/track/0HcFUq37uEpMT8Aj7zrzMP"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Yom-Ma-Lok",
-        "url": "https://open.spotify.com/album/59I4dPbZKdtq5d4jBWeSxK"
-      },
-      "artists": [
-        {
-          "name": "Whispers",
-          "url": "https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R"
-        },
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 245932,
-      "name": "A Choice To Survive",
-      "url": "https://open.spotify.com/track/4QdrntAYyH7fOm41BjgxmU"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "Purge",
         "url": "https://open.spotify.com/album/0smlu2kRC9IKRVLZguDcT5"
       },
@@ -379,18 +355,34 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "CHASE THE SKY -RedLine Title Song-",
-        "url": "https://open.spotify.com/album/1xhvBGbtXAuTK2E50cRqEu"
+        "name": "let me go",
+        "url": "https://open.spotify.com/album/3yo5jIJkFWGdRgYpoyDYx4"
       },
       "artists": [
         {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+          "name": "Twiztid",
+          "url": "https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7"
         }
       ],
-      "duration_ms": 143152,
-      "name": "CHASE THE SKY -RedLine Title Song-",
-      "url": "https://open.spotify.com/track/6aqz8DMLznpWEE3Ef91Ykx"
+      "duration_ms": 296293,
+      "name": "let me go",
+      "url": "https://open.spotify.com/track/2u5Ci6n855ARF9NMGfn2qD"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Just to Lose It All",
+        "url": "https://open.spotify.com/album/6cM49NdbF0vTIcMGMjYR1d"
+      },
+      "artists": [
+        {
+          "name": "Balance Breach",
+          "url": "https://open.spotify.com/artist/2sy77oZSFj4hGs76OQIsgK"
+        }
+      ],
+      "duration_ms": 255092,
+      "name": "Just to Lose It All",
+      "url": "https://open.spotify.com/track/4cyKCN9SOD7pPhGIyP8T8r"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -415,22 +407,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "WELCOME TO DYSTOPIA",
-        "url": "https://open.spotify.com/album/3cQEL8acg9zNlxAuCoM69I"
-      },
-      "artists": [
-        {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "NO EXCUSE",
-      "url": "https://open.spotify.com/track/4xWuFzxGZNjy4aLHslvajP"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "SNO",
         "url": "https://open.spotify.com/album/63kkyZzO8cICAPTiXT8TMc"
       },
@@ -447,66 +423,22 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "let me go",
-        "url": "https://open.spotify.com/album/3yo5jIJkFWGdRgYpoyDYx4"
+        "name": "Yom-Ma-Lok",
+        "url": "https://open.spotify.com/album/59I4dPbZKdtq5d4jBWeSxK"
       },
       "artists": [
         {
-          "name": "Twiztid",
-          "url": "https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7"
-        }
-      ],
-      "duration_ms": 296293,
-      "name": "let me go",
-      "url": "https://open.spotify.com/track/2u5Ci6n855ARF9NMGfn2qD"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/0xCbPCGiBgmSDGXpBAWGmn"
-      },
-      "artists": [
+          "name": "Whispers",
+          "url": "https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R"
+        },
         {
-          "name": "Softspoken",
-          "url": "https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk"
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/4yJkj4NtcUYA4T09oEaAcK"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Salt and Ash",
-        "url": "https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m"
-      },
-      "artists": [
-        {
-          "name": "God Complex",
-          "url": "https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Salt and Ash",
-      "url": "https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "WIERSZALIN II",
-        "url": "https://open.spotify.com/album/1R9eieU654k8iuUOxuIU7p"
-      },
-      "artists": [
-        {
-          "name": "PATRIARKH",
-          "url": "https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "WIERSZALIN II",
-      "url": "https://open.spotify.com/track/1YEuEDn3n8jN2TDB20xOfR"
+      "duration_ms": 245932,
+      "name": "A Choice To Survive",
+      "url": "https://open.spotify.com/track/4QdrntAYyH7fOm41BjgxmU"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -527,34 +459,58 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "The Golden Tower",
-        "url": "https://open.spotify.com/album/2SsbhYFLj5aCz5qO5afGEc"
+        "name": "Ultimate Penalty",
+        "url": "https://open.spotify.com/album/1y8SHY1WOjjsHD3INbQfUb"
       },
       "artists": [
         {
-          "name": "Molotov Solution",
-          "url": "https://open.spotify.com/artist/0XwUuXb2vhFXXBMtQ3SJPa"
+          "name": "Grove Street",
+          "url": "https://open.spotify.com/artist/41hQlpi3r8ljXeRYbHbUBD"
+        },
+        {
+          "name": "Sylosis",
+          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
         }
       ],
-      "duration_ms": 312954,
-      "name": "The Golden Tower",
-      "url": "https://open.spotify.com/track/1TRkzP5QJ7tfSiwO6kVuYF"
+      "duration_ms": 171154,
+      "name": "Ultimate Penalty",
+      "url": "https://open.spotify.com/track/2IgbVGleKzMBPwEZ9yW8I1"
     },
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "THE SKULL BURNED WEARING HELL LIKE A LIFE VEST AS THE NIGHT WEPT",
-        "url": "https://open.spotify.com/album/7gv0kXB89QEgn7qa8HAZAS"
+        "name": "Stare Into the Sun // Stare Into the Void",
+        "url": "https://open.spotify.com/album/1A46mWryYMyjs5deknifDa"
       },
       "artists": [
         {
-          "name": "Frontierer",
-          "url": "https://open.spotify.com/artist/6AMqkTWbhukzRS5je3Q5qt"
+          "name": "Left Empty",
+          "url": "https://open.spotify.com/artist/5BItJP9mmR4fPk2UfMrFcw"
         }
       ],
-      "duration_ms": 218373,
-      "name": "As The Night Wept",
-      "url": "https://open.spotify.com/track/2yR0nvMQI1w5TTEa17j8HI"
+      "duration_ms": 212000,
+      "name": "Detached",
+      "url": "https://open.spotify.com/track/1ZFm1FHO7Y9L3cwtF7JoEL"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Out Of Breath",
+        "url": "https://open.spotify.com/album/2w66mOqciizStW7KqE1Xyp"
+      },
+      "artists": [
+        {
+          "name": "Savage Lands",
+          "url": "https://open.spotify.com/artist/5fft5SyNYhNar3PdYtKQSF"
+        },
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        }
+      ],
+      "duration_ms": 288913,
+      "name": "Out Of Breath",
+      "url": "https://open.spotify.com/track/3yR7117c2uAkAtAKUpoxNb"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -571,6 +527,86 @@
       "duration_ms": 260239,
       "name": "Azalia",
       "url": "https://open.spotify.com/track/0KgEnjUYzM9tdkrqocGKbU"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/0xCbPCGiBgmSDGXpBAWGmn"
+      },
+      "artists": [
+        {
+          "name": "Softspoken",
+          "url": "https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/4yJkj4NtcUYA4T09oEaAcK"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Herz in der Rinde",
+        "url": "https://open.spotify.com/album/2sXmGzf5TMV2acIVfkcwRR"
+      },
+      "artists": [
+        {
+          "name": "Subway To Sally",
+          "url": "https://open.spotify.com/artist/544X9aDcwFDSon8HevRcqg"
+        }
+      ],
+      "duration_ms": 298173,
+      "name": "Herz in der Rinde",
+      "url": "https://open.spotify.com/track/0HcFUq37uEpMT8Aj7zrzMP"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Syntax Terror",
+        "url": "https://open.spotify.com/album/73KDPxgX2Inc5ixUP1j8bd"
+      },
+      "artists": [
+        {
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Syntax Terror",
+      "url": "https://open.spotify.com/track/502EEHwLnYY3oGlBKvAPIt"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "BODYBAG",
+        "url": "https://open.spotify.com/album/4wJeTlbjOU4VyrpSjANl5k"
+      },
+      "artists": [
+        {
+          "name": "Body Prison",
+          "url": "https://open.spotify.com/artist/4OW2g2KiFJtqvdwxCemioL"
+        }
+      ],
+      "duration_ms": 131300,
+      "name": "BODYBAG",
+      "url": "https://open.spotify.com/track/3syH5ZF3aHoiazII5T8rFA"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "WIERSZALIN II",
+        "url": "https://open.spotify.com/album/1R9eieU654k8iuUOxuIU7p"
+      },
+      "artists": [
+        {
+          "name": "PATRIARKH",
+          "url": "https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "WIERSZALIN II",
+      "url": "https://open.spotify.com/track/1YEuEDn3n8jN2TDB20xOfR"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -595,70 +631,6 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Under the Sign of Koth",
-        "url": "https://open.spotify.com/album/4HwS5MWMzUvYKXGD1o6oEl"
-      },
-      "artists": [
-        {
-          "name": "The Great Old Ones",
-          "url": "https://open.spotify.com/artist/1U6VZQrgQ4CNXbS6FpP0QC"
-        }
-      ],
-      "duration_ms": 525880,
-      "name": "Under the Sign of Koth",
-      "url": "https://open.spotify.com/track/62PW14dRxZBpqiTdGv94Lu"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "BODYBAG",
-        "url": "https://open.spotify.com/album/4wJeTlbjOU4VyrpSjANl5k"
-      },
-      "artists": [
-        {
-          "name": "Body Prison",
-          "url": "https://open.spotify.com/artist/4OW2g2KiFJtqvdwxCemioL"
-        }
-      ],
-      "duration_ms": 131300,
-      "name": "BODYBAG",
-      "url": "https://open.spotify.com/track/3syH5ZF3aHoiazII5T8rFA"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Stare Into the Sun // Stare Into the Void",
-        "url": "https://open.spotify.com/album/1A46mWryYMyjs5deknifDa"
-      },
-      "artists": [
-        {
-          "name": "Left Empty",
-          "url": "https://open.spotify.com/artist/5BItJP9mmR4fPk2UfMrFcw"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Detached",
-      "url": "https://open.spotify.com/track/1ZFm1FHO7Y9L3cwtF7JoEL"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "river",
-        "url": "https://open.spotify.com/album/3IOCUJIoEqIDstaLs4oooD"
-      },
-      "artists": [
-        {
-          "name": "Awake Again",
-          "url": "https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m"
-        }
-      ],
-      "duration_ms": 181241,
-      "name": "river",
-      "url": "https://open.spotify.com/track/1N4hZ1KkuCoY3GHdwhJJR7"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/7yBM7pwSfmSdS0pjywrq4r"
       },
@@ -671,54 +643,6 @@
       "duration_ms": 237272,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/5WHOmYg1NWhKPkCpv8pFqT"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Head of the Snake",
-        "url": "https://open.spotify.com/album/0zwAQb4B5lbvu2lRdoEVGC"
-      },
-      "artists": [
-        {
-          "name": "The Dark",
-          "url": "https://open.spotify.com/artist/4w9QOKrn9Rzx8KiYgjIhZ6"
-        }
-      ],
-      "duration_ms": 171171,
-      "name": "Head of the Snake",
-      "url": "https://open.spotify.com/track/6qgCRUAkRZErSxWZC0A6zE"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Can You Feel It?",
-        "url": "https://open.spotify.com/album/0iQ8c6fjNO1LzNtX78KcMt"
-      },
-      "artists": [
-        {
-          "name": "TheCityIsOurs",
-          "url": "https://open.spotify.com/artist/5Zsmx4eGounUJ1Hqq6tIQs"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Can You Feel It?",
-      "url": "https://open.spotify.com/track/4nbk4dosWr4zRTs0nzcYcP"
-    },
-    {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "\u041a\u0440\u0438\u043a",
-        "url": "https://open.spotify.com/album/5o6IKR86das9Qhy1AJyDAh"
-      },
-      "artists": [
-        {
-          "name": "Grayshapes",
-          "url": "https://open.spotify.com/artist/29desk9buPskbWLOtUjpic"
-        }
-      ],
-      "duration_ms": 150428,
-      "name": "\u041a\u0440\u0438\u043a",
-      "url": "https://open.spotify.com/track/33CZRByqRr3IYwOYP3lD6E"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -739,18 +663,114 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Garuda (Eater Of Snakes)",
-        "url": "https://open.spotify.com/album/1pxyHTi9091gVa46DUjatJ"
+        "name": "Head of the Snake",
+        "url": "https://open.spotify.com/album/0zwAQb4B5lbvu2lRdoEVGC"
       },
       "artists": [
         {
-          "name": "Brainstorm",
-          "url": "https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO"
+          "name": "The Dark",
+          "url": "https://open.spotify.com/artist/4w9QOKrn9Rzx8KiYgjIhZ6"
         }
       ],
-      "duration_ms": 257453,
-      "name": "Garuda (Eater Of Snakes)",
-      "url": "https://open.spotify.com/track/1BnkhZiepKB6mtMM8ihZQP"
+      "duration_ms": 171171,
+      "name": "Head of the Snake",
+      "url": "https://open.spotify.com/track/6qgCRUAkRZErSxWZC0A6zE"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "The Golden Tower",
+        "url": "https://open.spotify.com/album/2SsbhYFLj5aCz5qO5afGEc"
+      },
+      "artists": [
+        {
+          "name": "Molotov Solution",
+          "url": "https://open.spotify.com/artist/0XwUuXb2vhFXXBMtQ3SJPa"
+        }
+      ],
+      "duration_ms": 312954,
+      "name": "The Golden Tower",
+      "url": "https://open.spotify.com/track/1TRkzP5QJ7tfSiwO6kVuYF"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Salt and Ash",
+        "url": "https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m"
+      },
+      "artists": [
+        {
+          "name": "God Complex",
+          "url": "https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Salt and Ash",
+      "url": "https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Zhikarta",
+        "url": "https://open.spotify.com/album/0LWXHynZHuOBIXhEnOKWOf"
+      },
+      "artists": [
+        {
+          "name": "Pothamus",
+          "url": "https://open.spotify.com/artist/3oKgJ6083BjtllXxDN3TD5"
+        }
+      ],
+      "duration_ms": 446106,
+      "name": "Zhikarta",
+      "url": "https://open.spotify.com/track/15lWMuebOWAVJCUqorXKi1"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Can You Feel It?",
+        "url": "https://open.spotify.com/album/0iQ8c6fjNO1LzNtX78KcMt"
+      },
+      "artists": [
+        {
+          "name": "TheCityIsOurs",
+          "url": "https://open.spotify.com/artist/5Zsmx4eGounUJ1Hqq6tIQs"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Can You Feel It?",
+      "url": "https://open.spotify.com/track/4nbk4dosWr4zRTs0nzcYcP"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "river",
+        "url": "https://open.spotify.com/album/3IOCUJIoEqIDstaLs4oooD"
+      },
+      "artists": [
+        {
+          "name": "Awake Again",
+          "url": "https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m"
+        }
+      ],
+      "duration_ms": 181241,
+      "name": "river",
+      "url": "https://open.spotify.com/track/1N4hZ1KkuCoY3GHdwhJJR7"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "CHASE THE SKY -RedLine Title Song-",
+        "url": "https://open.spotify.com/album/1xhvBGbtXAuTK2E50cRqEu"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        }
+      ],
+      "duration_ms": 143152,
+      "name": "CHASE THE SKY -RedLine Title Song-",
+      "url": "https://open.spotify.com/track/6aqz8DMLznpWEE3Ef91Ykx"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -767,6 +787,54 @@
       "duration_ms": 421453,
       "name": "Where the Void Begins",
       "url": "https://open.spotify.com/track/7hYwuiDgHoIXONMjwj1sYf"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "\u041a\u0440\u0438\u043a",
+        "url": "https://open.spotify.com/album/5o6IKR86das9Qhy1AJyDAh"
+      },
+      "artists": [
+        {
+          "name": "Grayshapes",
+          "url": "https://open.spotify.com/artist/29desk9buPskbWLOtUjpic"
+        }
+      ],
+      "duration_ms": 150428,
+      "name": "\u041a\u0440\u0438\u043a",
+      "url": "https://open.spotify.com/track/33CZRByqRr3IYwOYP3lD6E"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Under the Sign of Koth",
+        "url": "https://open.spotify.com/album/4HwS5MWMzUvYKXGD1o6oEl"
+      },
+      "artists": [
+        {
+          "name": "The Great Old Ones",
+          "url": "https://open.spotify.com/artist/1U6VZQrgQ4CNXbS6FpP0QC"
+        }
+      ],
+      "duration_ms": 525880,
+      "name": "Under the Sign of Koth",
+      "url": "https://open.spotify.com/track/62PW14dRxZBpqiTdGv94Lu"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "THE SKULL BURNED WEARING HELL LIKE A LIFE VEST AS THE NIGHT WEPT",
+        "url": "https://open.spotify.com/album/7gv0kXB89QEgn7qa8HAZAS"
+      },
+      "artists": [
+        {
+          "name": "Frontierer",
+          "url": "https://open.spotify.com/artist/6AMqkTWbhukzRS5je3Q5qt"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "As The Night Wept",
+      "url": "https://open.spotify.com/track/2yR0nvMQI1w5TTEa17j8HI"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -789,20 +857,36 @@
       "url": "https://open.spotify.com/track/1B0GEJ25HWmVXeT2m3Y3Pn"
     },
     {
-      "added_at": "2024-12-27 05:00:40",
+      "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "Zhikarta",
-        "url": "https://open.spotify.com/album/0LWXHynZHuOBIXhEnOKWOf"
+        "name": "Nails of Fate",
+        "url": "https://open.spotify.com/album/3ybmTnQSqOdS1aZ0xjTAzs"
       },
       "artists": [
         {
-          "name": "Pothamus",
-          "url": "https://open.spotify.com/artist/3oKgJ6083BjtllXxDN3TD5"
+          "name": "Crawling Chaos",
+          "url": "https://open.spotify.com/artist/3BS255gKs1c6yOZYPilM6H"
         }
       ],
-      "duration_ms": 446106,
-      "name": "Zhikarta",
-      "url": "https://open.spotify.com/track/15lWMuebOWAVJCUqorXKi1"
+      "duration_ms": 252971,
+      "name": "Nails of Fate",
+      "url": "https://open.spotify.com/track/5OBg8TqAyiVCOq13z2CZul"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Sea Of Ardora",
+        "url": "https://open.spotify.com/album/1cGHErXXNdv6cRtne1Fqj6"
+      },
+      "artists": [
+        {
+          "name": "Ciconia",
+          "url": "https://open.spotify.com/artist/5kvvBH4RXDE84Xuu7y2BgN"
+        }
+      ],
+      "duration_ms": 194210,
+      "name": "Sea Of Ardora",
+      "url": "https://open.spotify.com/track/1qhjeGAoIJGLA02lclpTb6"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -823,18 +907,18 @@
     {
       "added_at": "2024-12-27 05:00:40",
       "album": {
-        "name": "Sea Of Ardora",
-        "url": "https://open.spotify.com/album/1cGHErXXNdv6cRtne1Fqj6"
+        "name": "Garuda (Eater Of Snakes)",
+        "url": "https://open.spotify.com/album/1pxyHTi9091gVa46DUjatJ"
       },
       "artists": [
         {
-          "name": "Ciconia",
-          "url": "https://open.spotify.com/artist/5kvvBH4RXDE84Xuu7y2BgN"
+          "name": "Brainstorm",
+          "url": "https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO"
         }
       ],
-      "duration_ms": 194210,
-      "name": "Sea Of Ardora",
-      "url": "https://open.spotify.com/track/1qhjeGAoIJGLA02lclpTb6"
+      "duration_ms": 257453,
+      "name": "Garuda (Eater Of Snakes)",
+      "url": "https://open.spotify.com/track/1BnkhZiepKB6mtMM8ihZQP"
     }
   ],
   "unique_name": "All New Metal",

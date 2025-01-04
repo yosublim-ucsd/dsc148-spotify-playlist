@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Pol Nada",
-  "num_followers": 59169,
+  "num_followers": 59175,
   "original_name": "folk & primavera",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Quemarropa",
+        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
+      },
+      "artists": [
+        {
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        }
+      ],
+      "duration_ms": 180891,
+      "name": "Porque",
+      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "Velocidad Crucero",
         "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 232947,
       "name": "Velocidad Crucero",
       "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Quemarropa",
-        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
-      },
-      "artists": [
-        {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        }
-      ],
-      "duration_ms": 180891,
-      "name": "Porque",
-      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "Comida China",
-        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 162993,
-      "name": "Comida China",
-      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
         "name": "Carretera Austral",
         "url": "https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 264582,
       "name": "Carretera Austral",
       "url": "https://open.spotify.com/track/5xtCrCYy7q5od2jx0GHkdg"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
+        "name": "Comida China",
+        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 162993,
+      "name": "Comida China",
+      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "Trance",
-        "url": "https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        },
-        {
-          "name": "Sofia Macchi",
-          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
-        }
-      ],
-      "duration_ms": 241810,
-      "name": "Trance",
-      "url": "https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 224000,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
+        "name": "Trance",
+        "url": "https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        },
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "duration_ms": 241810,
+      "name": "Trance",
+      "url": "https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "Las Mareas",
-        "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
-      },
-      "artists": [
-        {
-          "name": "Clara Presta",
-          "url": "https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX"
-        },
-        {
-          "name": "Matias Cella",
-          "url": "https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC"
-        }
-      ],
-      "duration_ms": 194085,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
         "name": "Lesbiandrama",
         "url": "https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR"
       },
@@ -827,6 +807,26 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Las Mareas",
+        "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
+      },
+      "artists": [
+        {
+          "name": "Clara Presta",
+          "url": "https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX"
+        },
+        {
+          "name": "Matias Cella",
+          "url": "https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC"
+        }
+      ],
+      "duration_ms": 194085,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "Locomotora",
         "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
       },
@@ -839,6 +839,26 @@
       "duration_ms": 185296,
       "name": "Que Placer",
       "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
+        "name": "Tampoco Poco",
+        "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 180534,
+      "name": "Tampoco Poco",
+      "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -875,26 +895,6 @@
       "duration_ms": 171388,
       "name": "2:42",
       "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Tampoco Poco",
-        "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 180534,
-      "name": "Tampoco Poco",
-      "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 244689,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "Caparaz\u00f3n",
         "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
       },
       "artists": [
         {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
         }
       ],
-      "duration_ms": 244689,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
+      "duration_ms": 221620,
+      "name": "Bailar en la Cuerda Floja",
+      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -999,22 +1015,6 @@
       "duration_ms": 170353,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Bailar en la Cuerda Floja",
-        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 221620,
-      "name": "Bailar en la Cuerda Floja",
-      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "D\u00eda tras d\u00eda",
-        "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
-      },
-      "artists": [
-        {
-          "name": "El Tio Valen",
-          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "D\u00eda tras d\u00eda",
-      "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
         "name": "Simona a Guitarra y Voz (Lado A)",
         "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 109000,
       "name": "La Melancol\u00eda",
       "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
+        "name": "D\u00eda tras d\u00eda",
+        "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
+      },
+      "artists": [
+        {
+          "name": "El Tio Valen",
+          "url": "https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "D\u00eda tras d\u00eda",
+      "url": "https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "agridulce",
-        "url": "https://open.spotify.com/album/23lJAT0ZkOKltkb2bFxovo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Macchi",
-          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
-        }
-      ],
-      "duration_ms": 180177,
-      "name": "agridulce",
-      "url": "https://open.spotify.com/track/35U9ETMmcj32t9fymTtB8E"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
         "name": "Disfon\u00eda",
         "url": "https://open.spotify.com/album/6O1TAFDVgBj9d04MltQQ9b"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 149364,
       "name": "Disfon\u00eda",
       "url": "https://open.spotify.com/track/0uJDoMbRcfmojaIOqOOMs7"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
+        "name": "agridulce",
+        "url": "https://open.spotify.com/album/23lJAT0ZkOKltkb2bFxovo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "duration_ms": 180177,
+      "name": "agridulce",
+      "url": "https://open.spotify.com/track/35U9ETMmcj32t9fymTtB8E"
     },
     {
       "added_at": "2024-11-14 17:43:11",

@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-281 songs - 15 hr 54 min
+282 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ney Matogrosso Interpreta Cartola](https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z) | 4:10 | 2022-04-01 | 2022-07-17 |
 | [Olha Só, Moreno](https://open.spotify.com/track/4asPMA0CIoAntrgzIusmSx) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Pitanga](https://open.spotify.com/album/2IUVCuvyfKf3W4emTGExqs) | 3:13 | 2022-04-01 | 2022-04-19 |
 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 | 2022-02-18 | 2024-09-21 |
+| [PALCO](https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [PALCO](https://open.spotify.com/album/11D3RPdsEaovaCBPks0908) | 4:38 | 2025-01-02 |  |
 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 | 2022-02-18 |  |
 | [Pedir Clareza](https://open.spotify.com/track/4DB37KtXBEVfn5AgZB9IDP) | [Bia Gullo](https://open.spotify.com/artist/6HYA0DTA1u3csAMBMouN5F) | [Pedir Clareza](https://open.spotify.com/album/0TRqYrYlgjIXhYVPxcm4Ke) | 3:03 | 2022-04-01 | 2022-07-03 |
 | [Perdoa](https://open.spotify.com/track/7HZKPjrStKgnQSigwWEvia) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Perdoa](https://open.spotify.com/album/3xe8Wut7JdhvJEgOQ9V0n6) | 3:42 | 2022-04-01 | 2022-04-18 |
@@ -281,7 +282,7 @@
 | [Várias Queixas](https://open.spotify.com/track/18TXfDzDZptWGoim29fDry) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Gilsons](https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ) | 2:50 | 2022-02-18 | 2022-07-29 |
 | [Várias Queixas](https://open.spotify.com/track/5HFvMPiNjclAq8DbEAPWMw) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:50 | 2022-06-24 | 2024-04-19 |
 | [Xícara](https://open.spotify.com/track/5089QL4ZmWBLyHdL4YWOra) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Xícara](https://open.spotify.com/album/3Oy0KAhfLaKzJGQeNVtmhX) | 2:31 | 2023-08-04 | 2023-09-23 |
-| [Zen](https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:45 | 2022-02-18 |  |
+| [Zen](https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:45 | 2022-02-18 | 2025-01-04 |
 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 | 2022-04-01 |  |
 | [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2023-09-26 |  |
 | [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 | 2022-04-01 | 2022-04-20 |

@@ -35007,6 +35007,24 @@
     },
     {
       "album": {
+        "name": "This Is Spoontech",
+        "url": "https://open.spotify.com/album/4S97H9cvhRbU1Gd0iMtlww"
+      },
+      "artists": [
+        {
+          "name": "Vasto",
+          "url": "https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108990,
+      "name": "This Is Spoontech",
+      "url": "https://open.spotify.com/track/2RX11b5lagRNM6VKaFs9EF"
+    },
+    {
+      "album": {
         "name": "This Is The Future",
         "url": "https://open.spotify.com/album/4hkhJ7fbx5uKndWJytVlPT"
       },
@@ -37396,6 +37414,24 @@
       "duration_ms": 250615,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/1jcOxgWlGlvSkyOzf854el"
+    },
+    {
+      "album": {
+        "name": "Vroom",
+        "url": "https://open.spotify.com/album/6AcyJGG8i9jMes66FuGtLU"
+      },
+      "artists": [
+        {
+          "name": "RAYZEN",
+          "url": "https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127547,
+      "name": "Vroom",
+      "url": "https://open.spotify.com/track/2ozrCA50jj84miZPH7xLeB"
     },
     {
       "album": {

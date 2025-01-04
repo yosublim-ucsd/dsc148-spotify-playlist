@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 136796,
+  "num_followers": 136841,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Pensamiento",
-        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
-      },
-      "artists": [
-        {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Pensamiento",
-      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 195000,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Pensamiento",
+        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Pensamiento",
+      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
-      },
-      "artists": [
-        {
-          "name": "Silvertre Pinedo",
-          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Siempre Te Amare",
         "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 149750,
       "name": "Siempre Te Amare",
       "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
+      },
+      "artists": [
+        {
+          "name": "Silvertre Pinedo",
+          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1176,13 +1176,13 @@
       },
       "artists": [
         {
-          "name": "Ramon Dona-Dio",
-          "url": "https://open.spotify.com/artist/2onS1woeVK5STw8eKF6x5V"
+          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
+          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/7JIBbAj2BQrg08JGoMoEf4"
+      "duration_ms": 174626,
+      "name": "Tico-Tico",
+      "url": "https://open.spotify.com/track/4Bz4Gaqu67YmZpZphOor6Q"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1308,29 +1308,29 @@
       },
       "artists": [
         {
-          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
-          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
+          "name": "Ramon Dona-Dio",
+          "url": "https://open.spotify.com/artist/2onS1woeVK5STw8eKF6x5V"
         }
       ],
-      "duration_ms": 174626,
-      "name": "Tico-Tico",
-      "url": "https://open.spotify.com/track/4Bz4Gaqu67YmZpZphOor6Q"
+      "duration_ms": 158040,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/7JIBbAj2BQrg08JGoMoEf4"
     },
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
-        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
+        "name": "Las Guitarras M\u00e1gicas",
+        "url": "https://open.spotify.com/album/2ggdAZc20qXocFuZ7AQOx3"
       },
       "artists": [
         {
-          "name": "Claudio Estrada",
-          "url": "https://open.spotify.com/artist/0LPTWTGEL7owKrYVeu50iJ"
+          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
+          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
         }
       ],
-      "duration_ms": 166773,
-      "name": "El Mar - Beyond the Sea [Resmasterizado]",
-      "url": "https://open.spotify.com/track/4tyI1kQ3MIx58NDRIJY7oB"
+      "duration_ms": 205760,
+      "name": "Mal de Amores",
+      "url": "https://open.spotify.com/track/1BHvnYtflVAjzydeEZ00iy"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Las Guitarras M\u00e1gicas",
-        "url": "https://open.spotify.com/album/2ggdAZc20qXocFuZ7AQOx3"
+        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
+        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
       },
       "artists": [
         {
-          "name": "Ramon Dona-Dio Y Sus Guitarras Mexicanas",
-          "url": "https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip"
+          "name": "Claudio Estrada",
+          "url": "https://open.spotify.com/artist/0LPTWTGEL7owKrYVeu50iJ"
         }
       ],
-      "duration_ms": 205760,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/1BHvnYtflVAjzydeEZ00iy"
+      "duration_ms": 166773,
+      "name": "El Mar - Beyond the Sea [Resmasterizado]",
+      "url": "https://open.spotify.com/track/4tyI1kQ3MIx58NDRIJY7oB"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
+        "name": "Guitarras, Lloren ... Guitarras",
+        "url": "https://open.spotify.com/album/0OaejbGdGCWKoMp5MguB2t"
       },
       "artists": [
         {
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
         }
       ],
-      "duration_ms": 158200,
-      "name": "Albur de Amor",
-      "url": "https://open.spotify.com/track/1uzuuJJCtum6UrOR4nF7aI"
+      "duration_ms": 137773,
+      "name": "\u00bfqu\u00e9 Te Ha Dado Esa Mujer?",
+      "url": "https://open.spotify.com/track/0oe5qmHCmTgbRfMdB1a5Os"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1639,8 +1639,8 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Guitarras, Lloren ... Guitarras",
-        "url": "https://open.spotify.com/album/0OaejbGdGCWKoMp5MguB2t"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
       },
       "artists": [
         {
@@ -1648,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
         }
       ],
-      "duration_ms": 137773,
-      "name": "\u00bfqu\u00e9 Te Ha Dado Esa Mujer?",
-      "url": "https://open.spotify.com/track/0oe5qmHCmTgbRfMdB1a5Os"
+      "duration_ms": 158200,
+      "name": "Albur de Amor",
+      "url": "https://open.spotify.com/track/1uzuuJJCtum6UrOR4nF7aI"
     }
   ],
   "unique_name": "Guitarra Mexicana",

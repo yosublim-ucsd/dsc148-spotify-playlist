@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17505,
+  "num_followers": 17509,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAACmWSLv9qUnXuI+6aRhzvwt",
+  "snapshot_id": "Z3XXAAAAAACwHJ3xHsN7mgnH3wsyG3cf",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 230130,
-      "name": "Wine",
-      "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Kitchen EP",
         "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 205746,
       "name": "Lost Child",
       "url": "https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 230130,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
     },
     {
       "added_at": null,
@@ -511,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOUS ART : Masterpiece",
-        "url": "https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe"
+        "name": "Rien \u00e0 prouver",
+        "url": "https://open.spotify.com/album/4GRz2ygP3fWDvzVvsUPDH5"
       },
       "artists": [
-        {
-          "name": "Le Juiice",
-          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
-        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 214285,
-      "name": "LVMH",
-      "url": "https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG"
+      "duration_ms": 242908,
+      "name": "Rien \u00e0 prouver",
+      "url": "https://open.spotify.com/track/4I7bxhw4Lx0BM7BASksily"
     },
     {
       "added_at": null,
@@ -547,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rien \u00e0 prouver",
-        "url": "https://open.spotify.com/album/4GRz2ygP3fWDvzVvsUPDH5"
+        "name": "NOUS ART : Masterpiece",
+        "url": "https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe"
       },
       "artists": [
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 242908,
-      "name": "Rien \u00e0 prouver",
-      "url": "https://open.spotify.com/track/4I7bxhw4Lx0BM7BASksily"
+      "duration_ms": 214285,
+      "name": "LVMH",
+      "url": "https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG"
     },
     {
       "added_at": null,
@@ -663,22 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cour des Miracles",
-        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
+        "name": "Encore + pour de vrai",
+        "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
       },
       "artists": [
         {
-          "name": "S.Pri Noir",
-          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
+          "name": "Ichon",
+          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
+      "duration_ms": 183666,
+      "name": "+ M\u00e9lange",
+      "url": "https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y"
     },
     {
       "added_at": null,
@@ -699,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encore + pour de vrai",
-        "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
+        "name": "La Cour des Miracles",
+        "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
       "artists": [
         {
-          "name": "Ichon",
-          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
+          "name": "S.Pri Noir",
+          "url": "https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 183666,
-      "name": "+ M\u00e9lange",
-      "url": "https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y"
+      "duration_ms": 196600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
     },
     {
       "added_at": null,
@@ -803,22 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ouvre",
-        "url": "https://open.spotify.com/album/29vu2ZfGbER9AnVw1kFMiU"
+        "name": "Le gang des antillais",
+        "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
       },
       "artists": [
         {
-          "name": "Maurane",
-          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
+          "name": "Lino",
+          "url": "https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 278173,
-      "name": "A part \u00eatre",
-      "url": "https://open.spotify.com/track/41TvlfUIwDD0WwTujjtIi1"
+      "duration_ms": 218467,
+      "name": "Meilleur homme",
+      "url": "https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW"
     },
     {
       "added_at": null,
@@ -839,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le gang des antillais",
-        "url": "https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF"
+        "name": "Ouvre",
+        "url": "https://open.spotify.com/album/29vu2ZfGbER9AnVw1kFMiU"
       },
       "artists": [
         {
-          "name": "Lino",
-          "url": "https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8"
+          "name": "Maurane",
+          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 218467,
-      "name": "Meilleur homme",
-      "url": "https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW"
+      "duration_ms": 278173,
+      "name": "A part \u00eatre",
+      "url": "https://open.spotify.com/track/41TvlfUIwDD0WwTujjtIi1"
     },
     {
       "added_at": null,

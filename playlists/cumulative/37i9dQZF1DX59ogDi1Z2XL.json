@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: TOBi",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -2710,6 +2710,24 @@
       "duration_ms": 136313,
       "name": "Back On Road",
       "url": "https://open.spotify.com/track/1Bcze9Eq6qwoisc9FMwNRB"
+    },
+    {
+      "album": {
+        "name": "Back on Tour",
+        "url": "https://open.spotify.com/album/0SK9qmZmYSpPU2VPlJko4e"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172116,
+      "name": "Back on Tour",
+      "url": "https://open.spotify.com/track/3Y2X5eIL9N5C0gu9Q2iB4w"
     },
     {
       "album": {
@@ -7980,7 +7998,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 179210,
       "name": "Do It",
       "url": "https://open.spotify.com/track/2RxCj6up4ip2iKgkbD9XVX"
@@ -15511,6 +15529,28 @@
     },
     {
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/5OP4oIiKtSCTG7DfPyTE4u"
+      },
+      "artists": [
+        {
+          "name": "Teon Gibbs",
+          "url": "https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm"
+        },
+        {
+          "name": "Cameron James",
+          "url": "https://open.spotify.com/artist/4L2lMQeDAR8VxA0ZiMR9hT"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166768,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/501cL8qcMxy2FWpZqQz5F1"
+    },
+    {
+      "album": {
         "name": "JEEZ",
         "url": "https://open.spotify.com/album/7pN5us7k7Apm4CgW86wL4M"
       },
@@ -16008,7 +16048,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 137142,
       "name": "Kelowna",
       "url": "https://open.spotify.com/track/4qQXyneWW84vaXPQwQ6ctt"
@@ -18370,7 +18410,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 208608,
       "name": "Maktub",
       "url": "https://open.spotify.com/track/5TtFmWqvNyf8PzYZWd8zmQ"
@@ -21908,6 +21948,24 @@
       "duration_ms": 163463,
       "name": "Omarion",
       "url": "https://open.spotify.com/track/3o1sXTPmwxrsHUXgnbsdug"
+    },
+    {
+      "album": {
+        "name": "OMW (Radio Edit)",
+        "url": "https://open.spotify.com/album/0ktprtFBtTv6XF1Og7xrOo"
+      },
+      "artists": [
+        {
+          "name": "Jon Kabongo",
+          "url": "https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "OMW (Radio Edit)",
+      "url": "https://open.spotify.com/track/16Islu4Ap73lqiKRa5bXmx"
     },
     {
       "album": {

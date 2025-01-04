@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 730836,
+  "num_followers": 730822,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAYKr58DtJT6RCy4EFekSajrffvJRjT",
+  "snapshot_id": "AAAYN7kmwbF8QeRbzLtzJpOoxlaaDDSS",
   "tracks": [
     {
       "added_at": "2024-12-08 07:24:49",
@@ -87,6 +87,34 @@
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU"
+    },
+    {
+      "added_at": "2025-01-03 14:22:29",
+      "album": {
+        "name": "On The Break Of Dawn",
+        "url": "https://open.spotify.com/album/4yaQYU1MLmgD2JA2eSFdbc"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "Kristjan J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7"
+        },
+        {
+          "name": "Kitty Florentine",
+          "url": "https://open.spotify.com/artist/5BPp30SFC0L3Du31wBuF4X"
+        },
+        {
+          "name": "Nordic Pulse",
+          "url": "https://open.spotify.com/artist/1kmYLIvqkvkVJMy1KeHG4l"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "On The Break Of Dawn",
+      "url": "https://open.spotify.com/track/3f0YBcNbcnm6KPbAgQfMP5"
     },
     {
       "added_at": "2024-12-08 07:24:49",
@@ -381,6 +409,26 @@
       "url": "https://open.spotify.com/track/5X9Sq58J7nOn5HWSD1cPuz"
     },
     {
+      "added_at": "2025-01-03 10:50:00",
+      "album": {
+        "name": "Backstreet Boy",
+        "url": "https://open.spotify.com/album/2pHO3gJwfCCnB9xcHJkJQA"
+      },
+      "artists": [
+        {
+          "name": "Netrum",
+          "url": "https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG"
+        },
+        {
+          "name": "Halvorsen",
+          "url": "https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH"
+        }
+      ],
+      "duration_ms": 208536,
+      "name": "Backstreet Boy",
+      "url": "https://open.spotify.com/track/6j3JSY4y4r4yMyoE3vBiYo"
+    },
+    {
       "added_at": "2024-12-08 07:24:49",
       "album": {
         "name": "Obsession",
@@ -453,6 +501,22 @@
       "url": "https://open.spotify.com/track/0EXrVB7WHXOnVjegjcgIPu"
     },
     {
+      "added_at": "2025-01-03 10:50:54",
+      "album": {
+        "name": "Doxx My Heart",
+        "url": "https://open.spotify.com/album/4TB8aCbNY0pGi9nDfASDP0"
+      },
+      "artists": [
+        {
+          "name": "Diamond Eyes",
+          "url": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Doxx My Heart",
+      "url": "https://open.spotify.com/track/0NdgJpwrH0FJRCeNUu5dJp"
+    },
+    {
       "added_at": "2024-12-08 07:24:49",
       "album": {
         "name": "Second Wind",
@@ -483,6 +547,74 @@
       "duration_ms": 193242,
       "name": "Faster",
       "url": "https://open.spotify.com/track/14IblDOnC45Iu0Ad9Qc5M7"
+    },
+    {
+      "added_at": "2025-01-03 10:48:46",
+      "album": {
+        "name": "After The End",
+        "url": "https://open.spotify.com/album/6ylRW2MYVHPJjP94U6ftn2"
+      },
+      "artists": [
+        {
+          "name": "Rex Hooligan",
+          "url": "https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "After The End",
+      "url": "https://open.spotify.com/track/1STIii62ufTfUgSuWrOe3F"
+    },
+    {
+      "added_at": "2025-01-03 10:49:18",
+      "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/2T4mX78WqynJQEvGq8SzrH"
+      },
+      "artists": [
+        {
+          "name": "Ripple",
+          "url": "https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/3tSDzr4I0uDaf8jHhq1mCN"
+    },
+    {
+      "added_at": "2025-01-03 10:51:39",
+      "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/4blg6OOSjjWU2bQO0G1zFg"
+      },
+      "artists": [
+        {
+          "name": "RIENK",
+          "url": "https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo"
+        },
+        {
+          "name": "NCT",
+          "url": "https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/4uAfbFWPDw2D2PwnYwusXH"
+    },
+    {
+      "added_at": "2025-01-03 10:50:31",
+      "album": {
+        "name": "Noel Electra",
+        "url": "https://open.spotify.com/album/3MVENgkbmVLkocrojKcyhY"
+      },
+      "artists": [
+        {
+          "name": "Everen Maxwell",
+          "url": "https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB"
+        }
+      ],
+      "duration_ms": 203448,
+      "name": "Noel Electra",
+      "url": "https://open.spotify.com/track/6flK1gDXbyzpNGXlhIwDTe"
     },
     {
       "added_at": "2024-12-08 07:24:49",

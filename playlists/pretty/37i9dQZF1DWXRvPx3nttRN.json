@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 553600,
+  "num_followers": 553741,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -315,8 +315,8 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Lavender Haze (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Lavender Haze - Acoustic Version",
-      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -487,8 +487,8 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+        "name": "Lavender Haze (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
+      "duration_ms": 174375,
+      "name": "Lavender Haze - Acoustic Version",
+      "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "Rescue Me (Acoustic)",
         "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
       },
@@ -752,17 +768,17 @@
       "added_at": "2024-07-01 15:02:12",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 214586,
-      "name": "Lost In Japan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
+      "duration_ms": 228506,
+      "name": "Love Me Now - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -779,22 +795,6 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 228506,
-      "name": "Love Me Now - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "Poison (Acoustic)",
         "url": "https://open.spotify.com/album/16KGNmwzTUr81fFTrFBqac"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 242000,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/3JH3oqHNVUYFVr1JyVlRsC"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "First Impressions",
-        "url": "https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "There's Nothing Holdin' Me Back (Acoustic)",
+        "url": "https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "There's Nothing Holdin' Me Back - Acoustic",
+      "url": "https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "Rely On Me",
         "url": "https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 221484,
       "name": "leading me on - acoustic",
       "url": "https://open.spotify.com/track/1ABFvT2I5TSJC0gjfyfpfx"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "There's Nothing Holdin' Me Back (Acoustic)",
-        "url": "https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "There's Nothing Holdin' Me Back - Acoustic",
-      "url": "https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3"
     },
     {
       "added_at": "2024-07-01 15:02:12",

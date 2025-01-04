@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 293322,
+  "num_followers": 293351,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3M0AAAAAACXmdcaLg/EejDo8cf/fJwk",
+  "snapshot_id": "Z3XXAAAAAAAidd8nqdyyLvxLUk/dnVhr",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 391533,
-      "name": "Anya",
-      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
+      "duration_ms": 287906,
+      "name": "You Fool No One - Remastered 2004",
+      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 287906,
-      "name": "You Fool No One - Remastered 2004",
-      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
+      "duration_ms": 391533,
+      "name": "Anya",
+      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like this. cover: d4vd",
+  "description": "heartbreak feels good in a place like this. cover: Rosie Darling",
   "name": "sad hour",
   "tracks": [
     {
@@ -5338,7 +5338,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 186898,
       "name": "Hearts Get Broken",
       "url": "https://open.spotify.com/track/2RfhtA4okIMdaWAo1JOzyu"
@@ -11438,6 +11438,28 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "album": {
+        "name": "Roomful Of People",
+        "url": "https://open.spotify.com/album/1LsDcdZEYyt2D53RKz5wl2"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        },
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195920,
+      "name": "Roomful Of People",
+      "url": "https://open.spotify.com/track/1a2p23baptozv8eFRwTPf8"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Amythyst Kiah
+> Keep your finger on the pulse of Americana\. Cover: Sierra Ferrell
 
-741 songs - 1 day 21 hr 41 min
+742 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Diamond Studded Shoes](https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Diamond Studded Shoes](https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5) | 3:24 | 2021-12-17 | 2022-02-23 |
 | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/track/60rT7xqMegRkR2Sq4JIfHw) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj), [Andrea Kukuly Uriarte](https://open.spotify.com/artist/5RBnd1QU744YvLMRf458SS) | [Dirt Bike \(feat\. Andrea Kukuly Uriarte\)](https://open.spotify.com/album/1nSFYhxHnBvrwrUHwANAXW) | 3:32 | 2023-10-13 | 2024-09-21 |
 | [Dogs Run On](https://open.spotify.com/track/0s7aoxrKBPvqc0SptaSm35) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Dogs Run On](https://open.spotify.com/album/0XxzYBvtUBUdoqw6VrqhvK) | 3:36 | 2021-12-17 | 2022-04-02 |
-| [Dollar Bill Bar](https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Dollar Bill Bar](https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47) | 3:29 | 2024-01-19 |  |
+| [Dollar Bill Bar](https://open.spotify.com/track/3yYD3H6AdEdSqXrgxgktOU) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Dollar Bill Bar](https://open.spotify.com/album/1ODhUIkZ35LOCKQ65sWc47) | 3:29 | 2024-01-19 | 2025-01-04 |
 | [Domino](https://open.spotify.com/track/5OhOcsBmC5Buaz0Z3gGFTa) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Domino](https://open.spotify.com/album/1lWgeVavytenPpClYpxyDI) | 2:48 | 2021-12-17 | 2022-04-02 |
 | [Don't Bother Me](https://open.spotify.com/track/0qXhEpz1OnQzxovxnYCG9l) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Don't Bother Me](https://open.spotify.com/album/3XZIH8fWJIWug0oiVjGVWE) | 3:29 | 2022-04-15 | 2022-07-23 |
 | [Don't Let Me Go](https://open.spotify.com/track/60nFcqDHiuyvhkqA74rGtI) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Don't Let Me Go](https://open.spotify.com/album/1yJaFfWN0fAAdA2azfxbzD) | 2:18 | 2024-08-16 | 2024-09-14 |
@@ -621,6 +621,7 @@
 | [The Downward Road](https://open.spotify.com/track/5C9y3R4oWlShFgvNqr6egt) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1), [Demeanor](https://open.spotify.com/artist/4HlLzCWkEJQvvWRkjt5J0r) | [The Downward Road](https://open.spotify.com/album/0v9Fn7MgEKL8tfprlJX5Ld) | 3:36 | 2022-09-09 | 2023-10-21 |
 | [The Exception](https://open.spotify.com/track/2JSEqnS5EhLBV0uJXls29I) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Exception](https://open.spotify.com/album/5K0ymB1V7VUBydptTtplUX) | 4:07 | 2021-12-17 | 2022-06-18 |
 | [The Fight Song \(feat\. Caitlin Rose\)](https://open.spotify.com/track/37yOe37MGecnwyReOjmr8O) | [The Kernal](https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu), [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [The Fight Song \(feat\. Caitlin Rose\)](https://open.spotify.com/album/59iB9eRGpm0UhGRrSiJX6D) | 4:31 | 2021-12-17 | 2022-04-02 |
+| [The Garden](https://open.spotify.com/track/77HnJ7WqBRx6N9P6F3yv1r) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Garden](https://open.spotify.com/album/3w6GdKSGz9S6JXPOfs1I6T) | 3:45 | 2025-01-03 |  |
 | [The Garden \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/57mPJPpQCVS7bisURsmrJZ) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:42 | 2023-11-17 | 2024-01-13 |
 | [The Good Old Days](https://open.spotify.com/track/1svbMmmtcEyriimgAew0Xj) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [It's Gonna Be a Long Night](https://open.spotify.com/album/4xeuhyLufa4YRXhkCxhY19) | 3:38 | 2022-07-22 | 2022-08-06 |
 | [The Good Old Days](https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [The Good Old Days](https://open.spotify.com/album/6tTzQ8mUIFbzftZkdXYZHF) | 3:38 | 2022-01-21 | 2022-07-29 |

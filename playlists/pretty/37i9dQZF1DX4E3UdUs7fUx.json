@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2170145,
+  "num_followers": 2170029,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "You And I (Moon And Stars / Acoustic)",
+        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "You And I - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 232866,
       "name": "Time Stands",
       "url": "https://open.spotify.com/track/1U2ahyThq23V2R7rgfOSRr"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "You And I (Moon And Stars / Acoustic)",
-        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "You And I - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Sail on the Water",
-        "url": "https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 261140,
-      "name": "Sail on the Water",
-      "url": "https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Seeds (Acoustic Version)",
         "url": "https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy"
       },
@@ -971,6 +955,38 @@
       "duration_ms": 274808,
       "name": "Seeds (feat. Carsen Gray) - Acoustic Version",
       "url": "https://open.spotify.com/track/3PT90fscllcTN8qiY2gsO0"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Sail on the Water",
+        "url": "https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 261140,
+      "name": "Sail on the Water",
+      "url": "https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/0DiF82zYoCeSsbB0b87Ra9"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 196083,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/2rD0cCKHYENel8ydSu6niR"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -995,22 +1011,6 @@
       "duration_ms": 265573,
       "name": "Tin Man",
       "url": "https://open.spotify.com/track/6YgnWdREQM4gDccOYY1WpP"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/0DiF82zYoCeSsbB0b87Ra9"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 196083,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/2rD0cCKHYENel8ydSu6niR"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Our Endless Numbered Days",
         "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 232400,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Goodnight (Go Home) - CC010",
-        "url": "https://open.spotify.com/album/6n3RGLF30GoCCubzH6WtVQ"
-      },
-      "artists": [
-        {
-          "name": "Craig Cardiff",
-          "url": "https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Dirty Old Town",
-      "url": "https://open.spotify.com/track/567EmmCbOtpEuaVC2zznU6"
     }
   ],
   "unique_name": "Afternoon Acoustic",

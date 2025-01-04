@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: Rex Orange County
 
-457 songs - 1 day 2 hr 28 min
+458 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Yesterday's World](https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Fauxllennium](https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1) | 4:06 | 2024-12-05 |  |
 | [Yesterdays](https://open.spotify.com/track/7y4TtTnqAQnYprtUFzj0yX) | [Nothing In Common](https://open.spotify.com/artist/7a8QU2xPgOH1ly5JDbkeM5) | [Yesterdays](https://open.spotify.com/album/5TEyVFRjLXhtXNp7amcoPy) | 3:07 | 2024-08-15 | 2024-09-06 |
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-06-27 | 2024-07-27 |
+| [You and your eyes](https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [You and your eyes](https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ) | 2:36 | 2025-01-02 |  |
 | [You Are Impossible](https://open.spotify.com/track/37TIE3H9WMMpeFK4P2vpui) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [You Are Impossible](https://open.spotify.com/album/21GdZbfKEYzUdkN4K7uLOa) | 4:22 | 2024-06-27 | 2024-08-09 |
 | [You're the Best](https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [You're the Best](https://open.spotify.com/album/69jGwOCfLDLfps1E7nXMPg) | 2:01 | 2024-06-27 | 2024-08-16 |
 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 | 2024-09-26 |  |

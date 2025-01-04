@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Darkoo (pictured), Little Simz, SAULT and more!",
-  "num_followers": 869676,
+  "num_followers": 870265,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,30 @@
       "duration_ms": 178932,
       "name": "Drama",
       "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
+    },
+    {
+      "added_at": "2025-01-03 00:00:20",
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
     },
     {
       "added_at": "2025-01-03 00:00:20",

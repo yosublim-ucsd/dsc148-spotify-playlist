@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 32791,
+  "num_followers": 32810,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAABZW4AnGcgE5DEAc4kUsiHS",
+  "snapshot_id": "Z3XXAAAAAAAZvZIntjgxPqHNwxwZ2rEZ",
   "tracks": [
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasa 2",
-        "url": "https://open.spotify.com/album/3oYRwdyQKn5nTccm3LODnF"
-      },
-      "artists": [
-        {
-          "name": "Outta Space",
-          "url": "https://open.spotify.com/artist/21j9HxFstMjB7DzXWujBnB"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 178956,
-      "name": "TouchDown",
-      "url": "https://open.spotify.com/track/7oqhhfWAQiUUUijb9FSsVG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 129662,
       "name": "Freaky As Me (feat. latto)",
       "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasa 2",
+        "url": "https://open.spotify.com/album/3oYRwdyQKn5nTccm3LODnF"
+      },
+      "artists": [
+        {
+          "name": "Outta Space",
+          "url": "https://open.spotify.com/artist/21j9HxFstMjB7DzXWujBnB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 178956,
+      "name": "TouchDown",
+      "url": "https://open.spotify.com/track/7oqhhfWAQiUUUijb9FSsVG"
     }
   ],
   "unique_name": "This Is Latto",

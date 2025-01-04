@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: AUDREY NUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,268 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,319 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 2 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 |
 | 3 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
 | 4 | [007 \(Jersey Mix\)](https://open.spotify.com/track/1qLBZLeGS6FEHgVKWqhuVv) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull DLX](https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm) | 2:40 |
-| 5 | [Freekish](https://open.spotify.com/track/62UwqCyhu8Hnf68xTGnDBG) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE](https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ) | 2:41 |
-| 6 | [GO DO IT \#jerseyclub](https://open.spotify.com/track/1nKVRhOSBIeRzR30ECSesC) | [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl), [sjmadeit](https://open.spotify.com/artist/2ROAxUxN9VhocaTPWvGE7a) | [GO DO IT \#jerseyclub](https://open.spotify.com/album/1AbVgInMI3xMZJ6omI7usy) | 2:17 |
-| 7 | [Get Motivated ft\. jstlbby](https://open.spotify.com/track/3Z2Fv9bPjtEdKpxVUzAToD) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN), [jstlbby](https://open.spotify.com/artist/5BLDZvqf1kjdGL4jwFhAk5) | [Get Motivated ft\. jstlbby](https://open.spotify.com/album/72i0l28kBTOIaYKC84tMGG) | 2:24 |
-| 8 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
+| 5 | [GO DO IT \#jerseyclub](https://open.spotify.com/track/1nKVRhOSBIeRzR30ECSesC) | [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl), [sjmadeit](https://open.spotify.com/artist/2ROAxUxN9VhocaTPWvGE7a) | [GO DO IT \#jerseyclub](https://open.spotify.com/album/1AbVgInMI3xMZJ6omI7usy) | 2:17 |
+| 6 | [Get Motivated ft\. jstlbby](https://open.spotify.com/track/3Z2Fv9bPjtEdKpxVUzAToD) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN), [jstlbby](https://open.spotify.com/artist/5BLDZvqf1kjdGL4jwFhAk5) | [Get Motivated ft\. jstlbby](https://open.spotify.com/album/72i0l28kBTOIaYKC84tMGG) | 2:24 |
+| 7 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
+| 8 | [Freekish](https://open.spotify.com/track/62UwqCyhu8Hnf68xTGnDBG) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE](https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ) | 2:41 |
 | 9 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 |
 | 10 | [Gag](https://open.spotify.com/track/3U3ZX37PA3AUzR9t7aUzbq) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Gag](https://open.spotify.com/album/1v0c2ccfvC1Us2yHkkyvaR) | 3:15 |
 | 11 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 64 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 65 | [Nasty \(Match My Chic Remix\)](https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 3:02 |
 
-Snapshot ID: `Z3cF9wAAAADeowLZ9VbbLxPLyxQ6+QKr`
+Snapshot ID: `Z3gDJAAAAABlELF14WaXKi3Z/uIxq0Eo`

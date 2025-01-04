@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: MOROHA",
-  "num_followers": 59977,
+  "num_followers": 59999,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
+        "name": "Unbalanced Blend",
+        "url": "https://open.spotify.com/album/6j3FsUUi3dVuIalzgUCAFz"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 319623,
+      "name": "Unbalanced Blend",
+      "url": "https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
         "name": "Summer Days",
         "url": "https://open.spotify.com/album/5MLq5dpMMTL0F1RDDmfleu"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 229031,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/2efC256b9fQBjpxJDHP2me"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
-        "name": "Wan!",
-        "url": "https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW"
-      },
-      "artists": [
-        {
-          "name": "Cwondo",
-          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Wan!",
-      "url": "https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -919,34 +919,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
+        "name": "Wan!",
+        "url": "https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW"
       },
       "artists": [
         {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
         }
       ],
-      "duration_ms": 157889,
-      "name": "Ebi Fry",
-      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
-        "name": "Unbalanced Blend",
-        "url": "https://open.spotify.com/album/6j3FsUUi3dVuIalzgUCAFz"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 319623,
-      "name": "Unbalanced Blend",
-      "url": "https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY"
+      "duration_ms": 155520,
+      "name": "Wan!",
+      "url": "https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 157889,
+      "name": "Ebi Fry",
+      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
         "name": "Slow Motion Perception",
         "url": "https://open.spotify.com/album/3y1yDShK721iCzxjmDCiTk"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 216783,
       "name": "Slow Motion Perception",
       "url": "https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
+        "name": "HAPPY BIRTHDAY",
+        "url": "https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj"
+      },
+      "artists": [
+        {
+          "name": "LAYRUS LOOP",
+          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+        }
+      ],
+      "duration_ms": 186766,
+      "name": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308a\u305f\u304f\u3066",
+      "url": "https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "HAPPY BIRTHDAY",
-        "url": "https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj"
+        "name": "Blue Inside You",
+        "url": "https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA"
       },
       "artists": [
         {
-          "name": "LAYRUS LOOP",
-          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+          "name": "luvis",
+          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
         }
       ],
-      "duration_ms": 186766,
-      "name": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308a\u305f\u304f\u3066",
-      "url": "https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab"
+      "duration_ms": 206931,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1083,22 +1099,6 @@
       "duration_ms": 235000,
       "name": "slowboat",
       "url": "https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
-        "name": "Blue Inside You",
-        "url": "https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA"
-      },
-      "artists": [
-        {
-          "name": "luvis",
-          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
-        }
-      ],
-      "duration_ms": 206931,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
+        "name": "\u751f\u6d3b (re-recording)",
+        "url": "https://open.spotify.com/album/5ToRSlA1uamWEJC382q0G5"
+      },
+      "artists": [
+        {
+          "name": "polly",
+          "url": "https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "\u751f\u6d3b - re-recording",
+      "url": "https://open.spotify.com/track/0cqnVkquugRkIAcFPsk2DG"
+    },
+    {
+      "added_at": "2024-12-24 15:00:32",
+      "album": {
         "name": "\u305f\u3060\u3088\u3046\u3060\u3051 (Side A)",
         "url": "https://open.spotify.com/album/3c6q1M9lq78uOPZSx1ua0G"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 220279,
       "name": "\u306c\u3051\u304c\u3089\u306e\u6d77",
       "url": "https://open.spotify.com/track/3I8kQW6EOVEbmODNbv5Mbh"
-    },
-    {
-      "added_at": "2024-12-24 15:00:32",
-      "album": {
-        "name": "\u6148\u611bequal\u81ea\u611b",
-        "url": "https://open.spotify.com/album/66QgofGJtkPlUTXEz3iYjA"
-      },
-      "artists": [
-        {
-          "name": "4s4ki",
-          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "\u81ea\u6211\u8b83\u6b4c",
-      "url": "https://open.spotify.com/track/6fbQH4mvJma1OnnwpvZ4k2"
     },
     {
       "added_at": "2024-12-24 15:00:32",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2024-12-24 15:00:32",
       "album": {
-        "name": "KissKissKiss (feat.Maika Loubt\u00e9)",
-        "url": "https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4"
+        "name": "\u3042\u3051\u306a\u3044\u3072\u307f\u3064",
+        "url": "https://open.spotify.com/album/608QksoNbIViwjp15kbj1q"
       },
       "artists": [
         {
-          "name": "TENDOUJI",
-          "url": "https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX"
-        },
-        {
-          "name": "Maika Loubt\u00e9",
-          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
+          "name": "Special Favorite Music",
+          "url": "https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM"
         }
       ],
-      "duration_ms": 200376,
-      "name": "KissKissKiss (feat.Maika Loubt\u00e9)",
-      "url": "https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk"
+      "duration_ms": 277010,
+      "name": "\u3042\u3051\u306a\u3044\u3072\u307f\u3064",
+      "url": "https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X"
     },
     {
       "added_at": "2024-12-24 15:00:32",

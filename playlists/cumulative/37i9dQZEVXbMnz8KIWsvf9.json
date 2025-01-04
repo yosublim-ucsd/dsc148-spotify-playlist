@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 242181,
       "name": "9 \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32",
       "url": "https://open.spotify.com/track/1RIcNj56JKuH0WB9AyNARB"
@@ -4544,7 +4544,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-08",
+      "date_removed": null,
       "duration_ms": 220059,
       "name": "Her",
       "url": "https://open.spotify.com/track/24KtV9epEPcolK3Cctm2ni"
@@ -11095,6 +11095,24 @@
     },
     {
       "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228786,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
+    },
+    {
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz"
       },
@@ -16478,7 +16496,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 251538,
       "name": "\u0e27\u0e34\u0e07\u0e27\u0e2d\u0e19 (ex-change)",
       "url": "https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH"
@@ -16684,7 +16702,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 197746,
       "name": "\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e48\u0e32\u0e07 (do it without me)",
       "url": "https://open.spotify.com/track/3DhUCW79UtTVIAeZJQxlge"
@@ -18060,7 +18078,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 238392,
       "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"

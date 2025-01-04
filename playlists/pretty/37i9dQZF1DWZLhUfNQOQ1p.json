@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano. \ud83c\udf79",
-  "num_followers": 250583,
+  "num_followers": 250576,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Music For Girls Night Out",
-        "url": "https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
+        "name": "Music For Girls Night Out",
+        "url": "https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -767,26 +767,18 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Ask Me / Mesmerize",
-        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
       },
       "artists": [
         {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 193795,
-      "name": "Ask Me",
-      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -827,18 +819,26 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+        "name": "Ask Me / Mesmerize",
+        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
       },
       "artists": [
         {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
+      "duration_ms": 193795,
+      "name": "Ask Me",
+      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
         "name": "The Big Easy",
         "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
       },
@@ -1419,26 +1439,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Bar Mediterraneo",
-      "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "Jazz Club After Hours",
         "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Bar Mediterraneo",
+      "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
+        "name": "Dance of the Crab",
+        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 144479,
+      "name": "Dance of the Crab - Edit",
+      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 215768,
       "name": "Blackpool Boulevard - Edit",
       "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
-        "name": "Dance of the Crab",
-        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 144479,
-      "name": "Dance of the Crab - Edit",
-      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Coroa",
-        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
+        "name": "Da Fonk (feat. Joni)",
+        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
       "artists": [
         {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
         },
         {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
         }
       ],
-      "duration_ms": 136088,
-      "name": "Coroa",
-      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
+      "duration_ms": 351496,
+      "name": "Da Fonk (feat. Joni) - [Dub]",
+      "url": "https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Da Fonk (feat. Joni)",
-        "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
+        "name": "Coroa",
+        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
       },
       "artists": [
         {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
-          "name": "Joni",
-          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
         }
       ],
-      "duration_ms": 351496,
-      "name": "Da Fonk (feat. Joni) - [Dub]",
-      "url": "https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp"
+      "duration_ms": 136088,
+      "name": "Coroa",
+      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
     },
     {
       "added_at": "2024-12-19 23:01:25",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-12-19 23:01:25",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 398150,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
-    },
-    {
-      "added_at": "2024-12-19 23:01:25",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 222400,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/08vpHPtXSGh3gerjxKKMz4"
+    },
+    {
+      "added_at": "2024-12-19 23:01:25",
+      "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 398150,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
     },
     {
       "added_at": "2024-12-19 23:01:25",

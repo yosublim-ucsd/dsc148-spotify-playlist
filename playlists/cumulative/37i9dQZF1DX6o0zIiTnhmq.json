@@ -621,6 +621,32 @@
     },
     {
       "album": {
+        "name": "Hanuman Mantra-Om Han Hanumate Namah-Chanting",
+        "url": "https://open.spotify.com/album/0wp1yOIKLzrzIOMAzTb5RV"
+      },
+      "artists": [
+        {
+          "name": "Sanatana Bharat",
+          "url": "https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW"
+        },
+        {
+          "name": "Upadhyay",
+          "url": "https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6"
+        },
+        {
+          "name": "Amrita Chaturvedi",
+          "url": "https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415771,
+      "name": "Hanuman Mantra-Om Han Hanumate Namah-Chanting",
+      "url": "https://open.spotify.com/track/63X9mOwaxcxtgFLUFY8nzj"
+    },
+    {
+      "album": {
         "name": "Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga",
         "url": "https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M"
       },
@@ -1994,7 +2020,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 1081463,
       "name": "Ram Naam Chanting",
       "url": "https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2"

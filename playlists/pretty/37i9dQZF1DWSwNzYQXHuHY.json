@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10441,
+  "num_followers": 10450,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
-        "name": "Ordinary Confession",
-        "url": "https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Ordinary Confession",
-      "url": "https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 280000,
       "name": "Good Person (2022)",
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
+        "name": "Ordinary Confession",
+        "url": "https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Ordinary Confession",
+      "url": "https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9"
     },
     {
       "added_at": "2024-11-29 09:47:19",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
+        "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
+        "url": "https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
+      "url": "https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
         "name": "Nerdy Love",
         "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 196373,
       "name": "Nerdy Love",
       "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
-        "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
-        "url": "https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
-      "url": "https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR"
     },
     {
       "added_at": "2024-11-29 09:47:19",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
-        "name": "Winter Dance",
-        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
-      },
-      "artists": [
-        {
-          "name": "Wynn",
-          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
-        }
-      ],
-      "duration_ms": 165504,
-      "name": "Winter Dance",
-      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
         "name": "I Am Yours",
         "url": "https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 211640,
       "name": "I Am Yours",
       "url": "https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
+        "name": "Winter Dance",
+        "url": "https://open.spotify.com/album/1hQYl7k6EHentNVr0xtOCR"
+      },
+      "artists": [
+        {
+          "name": "Wynn",
+          "url": "https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI"
+        }
+      ],
+      "duration_ms": 165504,
+      "name": "Winter Dance",
+      "url": "https://open.spotify.com/track/5rxDVckgeq3uFGyxGfzjMo"
     },
     {
       "added_at": "2024-11-29 09:47:19",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-11-29 09:47:19",
       "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e"
+      },
+      "artists": [
+        {
+          "name": "Choi Cello",
+          "url": "https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5"
+        }
+      ],
+      "duration_ms": 187083,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC"
+    },
+    {
+      "added_at": "2024-11-29 09:47:19",
+      "album": {
         "name": "Unintentional Love Story Original Televion Soundtrack Pt. 3",
         "url": "https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 201238,
       "name": "Traffic Accident",
       "url": "https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf"
-    },
-    {
-      "added_at": "2024-11-29 09:47:19",
-      "album": {
-        "name": "Domino",
-        "url": "https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e"
-      },
-      "artists": [
-        {
-          "name": "Choi Cello",
-          "url": "https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5"
-        }
-      ],
-      "duration_ms": 187083,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC"
     },
     {
       "added_at": "2024-11-29 09:47:19",

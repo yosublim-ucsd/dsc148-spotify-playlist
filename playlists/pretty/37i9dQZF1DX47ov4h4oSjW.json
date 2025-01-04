@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 101244,
+  "num_followers": 101240,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amalfi Moon",
-        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
-      },
-      "artists": [
-        {
-          "name": "Ana Olgica",
-          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "Amalfi Moon",
-      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 146000,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/43z2LSP0180NFwr720P3xk"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Amalfi Moon",
+        "url": "https://open.spotify.com/album/1DuAYHyITCrrQVGGVMt8Fz"
+      },
+      "artists": [
+        {
+          "name": "Ana Olgica",
+          "url": "https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "Amalfi Moon",
+      "url": "https://open.spotify.com/track/3qE1HsdBOfXyZmCfRfT8Jc"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Box of Memories",
+        "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Kramer",
+          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "Box of Memories",
+      "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Szymanowski: Piano Works, Vol. 2",
         "url": "https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 76933,
       "name": "Variations on a Polish Theme, Op. 10: No. 5 Andantino",
       "url": "https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Box of Memories",
-        "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "Box of Memories",
-      "url": "https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Home full of solipsism",
-        "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
-      },
-      "artists": [
-        {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "Home full of solipsism",
-      "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Nocturnes op.3",
         "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 154714,
       "name": "Nocturnes op.3",
       "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Home full of solipsism",
+        "url": "https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "Home full of solipsism",
+      "url": "https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Midnight Musette",
-        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
-      },
-      "artists": [
-        {
-          "name": "De Maynes",
-          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
-        }
-      ],
-      "duration_ms": 197084,
-      "name": "Midnight Musette",
-      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Silentium",
         "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 141342,
       "name": "Silentium",
       "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Midnight Musette",
+        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
+      },
+      "artists": [
+        {
+          "name": "De Maynes",
+          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
+        }
+      ],
+      "duration_ms": 197084,
+      "name": "Midnight Musette",
+      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -883,38 +883,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Isonzo",
-        "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
-      },
-      "artists": [
-        {
-          "name": "Davorka Poljak",
-          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
-        }
-      ],
-      "duration_ms": 107500,
-      "name": "Isonzo",
-      "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Lizards play",
-        "url": "https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p"
-      },
-      "artists": [
-        {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
-        }
-      ],
-      "duration_ms": 146569,
-      "name": "Lizards play",
-      "url": "https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Kardelen",
         "url": "https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8"
       },
@@ -947,6 +915,38 @@
       "duration_ms": 122883,
       "name": "Slowdance",
       "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Isonzo",
+        "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
+      },
+      "artists": [
+        {
+          "name": "Davorka Poljak",
+          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
+        }
+      ],
+      "duration_ms": 107500,
+      "name": "Isonzo",
+      "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Lizards play",
+        "url": "https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "duration_ms": 146569,
+      "name": "Lizards play",
+      "url": "https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Exhibitions",
-      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 135261,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Exhibitions",
+      "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Adesso",
+        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Adesso",
+      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Tient qu'\u00e0 un fil",
         "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 167700,
       "name": "Tient qu'\u00e0 un fil",
       "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Way Back Home",
-        "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
-      },
-      "artists": [
-        {
-          "name": "Algoth Holmes",
-          "url": "https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Winter Birds",
-      "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Adesso",
-        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
+        "name": "Way Back Home",
+        "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
       },
       "artists": [
         {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+          "name": "Algoth Holmes",
+          "url": "https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Adesso",
-      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+      "duration_ms": 170000,
+      "name": "Winter Birds",
+      "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Sacred Self",
-        "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
-      },
-      "artists": [
-        {
-          "name": "Louise Lennehan",
-          "url": "https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Inner Child",
-      "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Piano Inside",
         "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 216333,
       "name": "Spirit of the Hill",
       "url": "https://open.spotify.com/track/3Py9uoEHphIm11nxj3oC22"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Sacred Self",
+        "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
+      },
+      "artists": [
+        {
+          "name": "Louise Lennehan",
+          "url": "https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Inner Child",
+      "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
-      },
-      "artists": [
-        {
-          "name": "Nelson Haynes",
-          "url": "https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 148132,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
+      },
+      "artists": [
+        {
+          "name": "Nelson Haynes",
+          "url": "https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Maiestas",
-        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
-      },
-      "artists": [
-        {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
-        }
-      ],
-      "duration_ms": 171452,
-      "name": "Maiestas",
-      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Blue Hour",
         "url": "https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx"
       },
@@ -1523,34 +1507,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Floating Dreams",
-        "url": "https://open.spotify.com/album/6c0Bj4Qzvjww0AR3GXWoaG"
+        "name": "Maiestas",
+        "url": "https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok"
       },
       "artists": [
         {
-          "name": "Kacienn",
-          "url": "https://open.spotify.com/artist/5UIkDKjkkvoRukwsTc4hh7"
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
         }
       ],
-      "duration_ms": 171440,
-      "name": "Floating Dreams",
-      "url": "https://open.spotify.com/track/3muPbNvaD8Vl4cMCHRZzpE"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "The Piano Inside",
-        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
-      },
-      "artists": [
-        {
-          "name": "Milo Edale",
-          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
-        }
-      ],
-      "duration_ms": 191370,
-      "name": "The Piano Inside",
-      "url": "https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB"
+      "duration_ms": 171452,
+      "name": "Maiestas",
+      "url": "https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1571,6 +1539,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Floating Dreams",
+        "url": "https://open.spotify.com/album/6c0Bj4Qzvjww0AR3GXWoaG"
+      },
+      "artists": [
+        {
+          "name": "Kacienn",
+          "url": "https://open.spotify.com/artist/5UIkDKjkkvoRukwsTc4hh7"
+        }
+      ],
+      "duration_ms": 171440,
+      "name": "Floating Dreams",
+      "url": "https://open.spotify.com/track/3muPbNvaD8Vl4cMCHRZzpE"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 165902,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Piano Inside",
+        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
+      },
+      "artists": [
+        {
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+        }
+      ],
+      "duration_ms": 191370,
+      "name": "The Piano Inside",
+      "url": "https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB"
     },
     {
       "added_at": "2023-03-12 10:18:38",

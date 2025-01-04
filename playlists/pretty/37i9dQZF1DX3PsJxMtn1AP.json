@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of the latest mesmerizing tunes...",
-  "num_followers": 75179,
+  "num_followers": 75230,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2slNAAAAAAsk/FeO3d+BRIam/bkgzwr",
+  "snapshot_id": "Z3dW0wAAAACQm8EaUcRJzrNcaUaJWIdd",
   "tracks": [
     {
       "added_at": "2024-12-20 06:00:08",
@@ -23,6 +23,22 @@
       "duration_ms": 434758,
       "name": "Pray for Me",
       "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
+    },
+    {
+      "added_at": "2025-01-03 03:17:39",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 220183,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
     },
     {
       "added_at": "2024-12-23 16:37:03",
@@ -149,6 +165,42 @@
       "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
     },
     {
+      "added_at": "2025-01-03 02:53:41",
+      "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 179370,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "added_at": "2025-01-03 02:53:41",
+      "album": {
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Tim Ayre",
+          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
+    },
+    {
       "added_at": "2024-12-24 21:18:44",
       "album": {
         "name": "Baggy$$",
@@ -231,6 +283,30 @@
       "duration_ms": 283066,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+    },
+    {
+      "added_at": "2025-01-03 02:53:41",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 246836,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -341,22 +417,6 @@
       "url": "https://open.spotify.com/track/3qoUZtR9H0TSdbqoeUsfs4"
     },
     {
-      "added_at": "2024-10-24 20:20:58",
-      "album": {
-        "name": "Bodhiria",
-        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 164771,
-      "name": "BRUJERIA!",
-      "url": "https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9"
-    },
-    {
       "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Todos Nacen Gritando",
@@ -371,38 +431,6 @@
       "duration_ms": 201533,
       "name": "Hombre Roto",
       "url": "https://open.spotify.com/track/3HqxsWtp2KEEt6v1dEKJZF"
-    },
-    {
-      "added_at": "2024-10-24 20:37:14",
-      "album": {
-        "name": "Rose Main Reading Room",
-        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 166228,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
-    },
-    {
-      "added_at": "2024-10-24 20:48:18",
-      "album": {
-        "name": "Give it Back",
-        "url": "https://open.spotify.com/album/3qkkYie1eINh4qk4XJUzEW"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
-        }
-      ],
-      "duration_ms": 401125,
-      "name": "Give it Back",
-      "url": "https://open.spotify.com/track/7y7GePCjc1mqoLAvbjmAvK"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -547,6 +575,22 @@
       "duration_ms": 172338,
       "name": "Let Me Cook",
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
+    },
+    {
+      "added_at": "2025-01-03 02:53:41",
+      "album": {
+        "name": "Squared Roots",
+        "url": "https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "So Shall You Be",
+      "url": "https://open.spotify.com/track/0iPesoyRa6yQ3SiGVOnea3"
     }
   ],
   "unique_name": "Kaleidoscope",

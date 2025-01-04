@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8135,
+  "num_followers": 8134,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3M0AAAAAAAM0BxeWNQ7fwwCGQVlpegP",
+  "snapshot_id": "Z3XXAAAAAABrfQLy18Zg6DdXd9eS8gR0",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 133193,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
         "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 171500,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
     },
     {
       "added_at": null,
@@ -823,54 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELAS",
-        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
-      },
-      "artists": [
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 167519,
-      "name": "Mesmo Lugar",
-      "url": "https://open.spotify.com/track/2lxCUkBMyicBlsnxTpSxM6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milhas",
-        "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
-      },
-      "artists": [
-        {
-          "name": "A Banca Records",
-          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Da Paz",
-          "url": "https://open.spotify.com/artist/3Hj3HTvPzKS8Q3c1PhDgn0"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Milhas",
-      "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tormento",
         "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
       },
@@ -919,6 +871,54 @@
       "duration_ms": 205717,
       "name": "V\u00cdBORA",
       "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milhas",
+        "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
+      },
+      "artists": [
+        {
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Da Paz",
+          "url": "https://open.spotify.com/artist/3Hj3HTvPzKS8Q3c1PhDgn0"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Milhas",
+      "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ELAS",
+        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 167519,
+      "name": "Mesmo Lugar",
+      "url": "https://open.spotify.com/track/2lxCUkBMyicBlsnxTpSxM6"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Patroa",
+        "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+        }
+      ],
+      "duration_ms": 181389,
+      "name": "Patroa",
+      "url": "https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1 Influ\u00eancia",
         "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 177253,
       "name": "As Ruas Sabem Meu Nome",
       "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patroa",
-        "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
-        }
-      ],
-      "duration_ms": 181389,
-      "name": "Patroa",
-      "url": "https://open.spotify.com/track/1Uw33plA0I6BzsjBb9AI3f"
     },
     {
       "added_at": null,

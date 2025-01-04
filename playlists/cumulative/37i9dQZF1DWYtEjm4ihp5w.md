@@ -4,7 +4,7 @@
 
 > Bo9al f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-344 songs - 18 hr 26 min
+345 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Pepete](https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:45 | 2023-07-11 | 2024-01-14 |
 | [Pharmacie 2](https://open.spotify.com/track/3oeS7Fx2DMathnP2qSztJi) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Pharmacie 2](https://open.spotify.com/album/66C2VxOUAuM5ldmVPPGAvh) | 3:40 | 2023-12-15 | 2024-01-24 |
 | [PHENOMENAL](https://open.spotify.com/track/5IZCHvhMEmurDfbQ6NqaKA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [PHENOMENAL](https://open.spotify.com/album/3r3AokuvjoimEMWYrHRnnO) | 3:16 | 2024-12-05 |  |
+| [Piola](https://open.spotify.com/track/1GekDYBKy3TqF5vCB327yW) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Piola](https://open.spotify.com/album/5QXw3kjegiNMALyarSZC8Q) | 2:57 | 2025-01-03 |  |
 | [Plainte](https://open.spotify.com/track/7yh3z0Ly5uTIrnLQvbg59X) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Plainte](https://open.spotify.com/album/5NxEKY0xegcPpCduoPiOf1) | 3:07 | 2023-06-22 | 2023-11-14 |
 | [Plainte Alliées](https://open.spotify.com/track/4qtL0WwVpxaYAyiAP29Lfb) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Plainte Alliées](https://open.spotify.com/album/0Rgg3wqSlTQX4FldyilNF5) | 4:12 | 2023-06-22 | 2023-06-30 |
 | [Plainte Alliées](https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 4:12 | 2023-05-25 | 2023-11-24 |

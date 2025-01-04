@@ -1,29 +1,13 @@
 {
   "description": "Listen to all her biggest hits, in one place.",
-  "num_followers": 1739107,
+  "num_followers": 1739300,
   "original_name": "This Is Lady Gaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsYMgAAAADT8Y5Cqg8X33ZqocmRNWid",
+  "snapshot_id": "Z3dyQgAAAADA5O92wUGlArgyQcJT5K1v",
   "tracks": [
-    {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
-    },
     {
       "added_at": "2024-10-25 04:01:54",
       "album": {
@@ -79,6 +63,38 @@
     {
       "added_at": "2024-10-25 04:01:54",
       "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
+    },
+    {
+      "added_at": "2024-10-25 04:01:54",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "added_at": "2024-10-25 04:01:54",
+      "album": {
         "name": "The Fame Monster (UK Deluxe)",
         "url": "https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 220626,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/6nCDnzErqalOaIY3EJM8NK"
-    },
-    {
-      "added_at": "2024-10-25 04:01:54",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg"
     },
     {
       "added_at": "2024-10-25 04:01:54",

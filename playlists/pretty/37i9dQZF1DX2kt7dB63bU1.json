@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 152173,
+  "num_followers": 152214,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAACzwkOyVKhWhOb9hehttdM7",
+  "snapshot_id": "Z3du5gAAAADNScODvSB+wnyfVHoT83Qf",
   "tracks": [
+    {
+      "added_at": "2025-01-03 05:00:22",
+      "album": {
+        "name": "Wrong Side of Midnight",
+        "url": "https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 220561,
+      "name": "Wrong Side of Midnight",
+      "url": "https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA"
+    },
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
@@ -415,22 +431,6 @@
       "duration_ms": 201186,
       "name": "My Future",
       "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 257811,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
     },
     {
       "added_at": "2024-09-06 17:43:45",

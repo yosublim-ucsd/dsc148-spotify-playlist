@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Martin Garrix & Jex",
+  "description": "The hottest new pop with all the drops. Cover: Rose Gray",
   "name": "New Dance Pop",
   "tracks": [
     {
@@ -6763,6 +6763,28 @@
     },
     {
       "album": {
+        "name": "Drunk Wishing",
+        "url": "https://open.spotify.com/album/6l7qOqH85I3zA3n26Fyw4n"
+      },
+      "artists": [
+        {
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184644,
+      "name": "Drunk Wishing",
+      "url": "https://open.spotify.com/track/4RwHzzXa5q8TO4jqORWgUi"
+    },
+    {
+      "album": {
         "name": "Dumb",
         "url": "https://open.spotify.com/album/6kTbD89ZP1Tg9yj14QgvR1"
       },
@@ -7248,6 +7270,36 @@
       "duration_ms": 169466,
       "name": "ESTILAZO",
       "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
+    },
+    {
+      "album": {
+        "name": "Euphoria (with Alok)",
+        "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151818,
+      "name": "Euphoria (with Alok)",
+      "url": "https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc"
     },
     {
       "album": {
@@ -8315,6 +8367,28 @@
     },
     {
       "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Janet Planet",
+          "url": "https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198483,
+      "name": "Forever Baby",
+      "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
+    },
+    {
+      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/2nIILijPseV82khGLCFiIX"
       },
@@ -8632,7 +8706,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 192466,
       "name": "Freedom Of The Night",
       "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
@@ -9548,7 +9622,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 223120,
       "name": "Hand of God",
       "url": "https://open.spotify.com/track/3lI8PleSazRFGIKkKazytf"
@@ -14265,6 +14339,32 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+    },
+    {
+      "album": {
         "name": "Locked In Your Love",
         "url": "https://open.spotify.com/album/3BipOxC6qIGHbO9RjQmGV3"
       },
@@ -16983,6 +17083,24 @@
     },
     {
       "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "New Energy",
+      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
+    },
+    {
+      "album": {
         "name": "New Kinda Feeling",
         "url": "https://open.spotify.com/album/1T2PAYRH784EM2Xg39Q1aZ"
       },
@@ -18846,6 +18964,24 @@
       "duration_ms": 183213,
       "name": "party in my head (ur not invited)",
       "url": "https://open.spotify.com/track/5EPBBxuMALRFTMimsm1OsX"
+    },
+    {
+      "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194475,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66"
     },
     {
       "album": {
@@ -23902,6 +24038,28 @@
       "duration_ms": 240000,
       "name": "temporary love",
       "url": "https://open.spotify.com/track/3hHZBwB95RV9Ghg6Y7VjSQ"
+    },
+    {
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/0iIC693yA29mHcT8j08osB"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "TEN",
+      "url": "https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8"
     },
     {
       "album": {

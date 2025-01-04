@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 357858,
+  "num_followers": 357929,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Deafened (feat. Family Habits)",
-        "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
         },
         {
-          "name": "Family Habits",
-          "url": "https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y"
+          "name": "Bad Honey",
+          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Deafened (feat. Family Habits)",
-      "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+      "duration_ms": 222496,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "touch",
-        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
+        "name": "Deafened (feat. Family Habits)",
+        "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
       },
       "artists": [
         {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         },
         {
-          "name": "Bad Honey",
-          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
+          "name": "Family Habits",
+          "url": "https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y"
         }
       ],
-      "duration_ms": 222496,
-      "name": "touch",
-      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
+      "duration_ms": 201626,
+      "name": "Deafened (feat. Family Habits)",
+      "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1151,6 +1151,30 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
+        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        },
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 230064,
+      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
+      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "Click Bait",
         "url": "https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1"
       },
@@ -1187,30 +1211,6 @@
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
-        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
-        },
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 230064,
-      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
-      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
     },
     {
       "added_at": "2024-10-25 15:55:35",

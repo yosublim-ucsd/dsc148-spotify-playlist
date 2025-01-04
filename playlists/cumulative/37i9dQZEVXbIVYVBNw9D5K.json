@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Ho\u015f\u00e7akal",
+        "url": "https://open.spotify.com/album/5GtVQ7Akf89tLbeO4VkcjN"
+      },
+      "artists": [
+        {
+          "name": "Ferdi Tayfur",
+          "url": "https://open.spotify.com/artist/6WLkcqDXHgfe80TNMH1C5z"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361666,
+      "name": "Bana Sor",
+      "url": "https://open.spotify.com/track/0P9nLef6NAjgDJAbgYFHbg"
+    },
+    {
+      "album": {
         "name": "Bana Sorma",
         "url": "https://open.spotify.com/album/5qmPZh2dhkvsXrVRZCXwV7"
       },
@@ -9874,7 +9892,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 158241,
       "name": "H\u00fczn\u00fc Hecem",
       "url": "https://open.spotify.com/track/3OKCljxHDet7MaQ83o6l6s"
@@ -9950,7 +9968,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 110400,
       "name": "I WANNA DANCE",
       "url": "https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k"
@@ -10934,7 +10952,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 258466,
       "name": "\u0130\u00e7im Yanar",
       "url": "https://open.spotify.com/track/2iJSm2qKRujRjBeMAHUbKn"
@@ -10952,7 +10970,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 190612,
       "name": "\u0130\u00e7im Yanar Yanar - Gassal Dizi M\u00fczikleri",
       "url": "https://open.spotify.com/track/4HbXjPLnC4ptf6Pnv8jYAV"
@@ -11312,7 +11330,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 166736,
       "name": "Kalbim Yan\u0131mda",
       "url": "https://open.spotify.com/track/3Lpeu0zbUXY1WfoGy1vEuh"

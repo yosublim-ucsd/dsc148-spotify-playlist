@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Rap from the hoods of Dilli featuring Paradox
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,992 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,050 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 21 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 |
 | 22 | [Dooriyaan](https://open.spotify.com/track/6X7v8svA1VDvf2moH1ak4T) | [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [Rum, Racks & Roses](https://open.spotify.com/album/3245DFN5KDH97r6PbUznuu) | 3:46 |
 | 23 | [Joota Japani](https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Joota Japani](https://open.spotify.com/album/4wGScOi2a1xEpmHNaOii3D) | 2:35 |
-| 24 | [Brahamachari](https://open.spotify.com/track/71Rp11WbiT4jNFsvsVTULU) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [GhAatak](https://open.spotify.com/artist/27OuoF6QLsNbENNBDLyvQt), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 3:34 |
+| 24 | [Brahamachari](https://open.spotify.com/track/71Rp11WbiT4jNFsvsVTULU) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [GhAatak](https://open.spotify.com/artist/27OuoF6QLsNbENNBDLyvQt) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 3:34 |
 | 25 | [Karta Kya Hai](https://open.spotify.com/track/55rsHTpDenL0DajypexEI6) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [How Much a Rhyme Costs?](https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G) | 3:24 |
 | 26 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 |
 | 27 | [Asal G](https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 3:41 |

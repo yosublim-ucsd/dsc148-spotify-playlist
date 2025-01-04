@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "Aaj Bhi",
+        "url": "https://open.spotify.com/album/1y9DiLSl3NACA8ttjc16oR"
+      },
+      "artists": [
+        {
+          "name": "Sanjay S Yadav",
+          "url": "https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU"
+        },
+        {
+          "name": "Sanjay-Aditya",
+          "url": "https://open.spotify.com/artist/6mwBx00BmtwLeHQeDMXOj1"
+        },
+        {
+          "name": "Abhishek T",
+          "url": "https://open.spotify.com/artist/17UDlf4LCPZdWnS6QPZRvf"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "Aaj Bhi",
+      "url": "https://open.spotify.com/track/2w9KJ4hHUJZq2kqcQt5CPb"
+    },
+    {
+      "album": {
         "name": "Sapne",
         "url": "https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy"
       },
@@ -1918,7 +1944,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 148374,
       "name": "Dil Se Jo Poocha",
       "url": "https://open.spotify.com/track/6L0bMBsrawngv4HxOYpouu"
@@ -4882,7 +4908,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 183744,
       "name": "Kya Baat Hai",
       "url": "https://open.spotify.com/track/0AoTbQHafGuszt8hxNBWma"
@@ -6182,6 +6208,28 @@
       "duration_ms": 220500,
       "name": "Nindiya",
       "url": "https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP"
+    },
+    {
+      "album": {
+        "name": "noor",
+        "url": "https://open.spotify.com/album/38RR075DZB1HF4B7sqN2fP"
+      },
+      "artists": [
+        {
+          "name": "Dev Raiyani",
+          "url": "https://open.spotify.com/artist/6qrB13mmk7jADWqdYUXvRB"
+        },
+        {
+          "name": "SCayos",
+          "url": "https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158506,
+      "name": "noor",
+      "url": "https://open.spotify.com/track/0cZPLO12oRuVQUGQqgkCPn"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Addison Rae",
-  "num_followers": 4090900,
+  "num_followers": 4090866,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Love Again (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Love Again - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
         "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 229586,
       "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1411,22 +1411,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Skin and Bones (MEDUZA REMIX)",
-        "url": "https://open.spotify.com/album/1aeYa1dEoya8dCrS3vMNrV"
+        "name": "Whatever (The Remixes)",
+        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 160975,
-      "name": "Skin and Bones - MEDUZA REMIX",
-      "url": "https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO"
+      "duration_ms": 165714,
+      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1451,22 +1451,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Whatever (The Remixes)",
-        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
+        "name": "Skin and Bones (MEDUZA REMIX)",
+        "url": "https://open.spotify.com/album/1aeYa1dEoya8dCrS3vMNrV"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 165714,
-      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
+      "duration_ms": 160975,
+      "name": "Skin and Bones - MEDUZA REMIX",
+      "url": "https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO"
     },
     {
       "added_at": "2024-07-26 04:00:00",

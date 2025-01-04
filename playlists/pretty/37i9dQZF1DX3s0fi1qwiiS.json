@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 3683,
+  "num_followers": 3734,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -375,30 +375,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Finally Famous Too",
-        "url": "https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9"
-      },
-      "artists": [
-        {
-          "name": "Dlala Thukzin",
-          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
-        },
-        {
-          "name": "Zeh McGeba",
-          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
-        },
-        {
-          "name": "MK Productions",
-          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
-        }
-      ],
-      "duration_ms": 327457,
-      "name": "Sohlala Sisonke",
-      "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Skuta Baba (Remix)",
         "url": "https://open.spotify.com/album/1SlgRO1XkPI0FpgftHrbun"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 372710,
       "name": "Skuta Baba - Remix",
       "url": "https://open.spotify.com/track/2NUL19ktYaXmes18Cz7HPn"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Finally Famous Too",
+        "url": "https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Zeh McGeba",
+          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
+        },
+        {
+          "name": "MK Productions",
+          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
+        }
+      ],
+      "duration_ms": 327457,
+      "name": "Sohlala Sisonke",
+      "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -587,6 +587,62 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Ntsako",
+        "url": "https://open.spotify.com/album/7tqEXec8u8dGBRYhk5m4LU"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        }
+      ],
+      "duration_ms": 578932,
+      "name": "Waze Wamuhle (feat. Mashudu)",
+      "url": "https://open.spotify.com/track/2xXwT5A5sbPXJLtXasPSIY"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
+        "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
+      },
+      "artists": [
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        }
+      ],
+      "duration_ms": 390873,
+      "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
+      "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
         "url": "https://open.spotify.com/album/4R1FZeemDJyD4yQitaniIk"
       },
@@ -623,62 +679,6 @@
       "duration_ms": 407804,
       "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
       "url": "https://open.spotify.com/track/3E1PwVodPiDbBHOI85CO9M"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
-        "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
-      },
-      "artists": [
-        {
-          "name": "Khalil Harrison",
-          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
-        },
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
-        }
-      ],
-      "duration_ms": 390873,
-      "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
-      "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Ntsako",
-        "url": "https://open.spotify.com/album/7tqEXec8u8dGBRYhk5m4LU"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        },
-        {
-          "name": "Stixx",
-          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
-        },
-        {
-          "name": "Mashudu",
-          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
-        }
-      ],
-      "duration_ms": 578932,
-      "name": "Waze Wamuhle (feat. Mashudu)",
-      "url": "https://open.spotify.com/track/2xXwT5A5sbPXJLtXasPSIY"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -803,26 +803,30 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "Oblee (Remix)",
+        "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Dj Yk Mule",
+          "url": "https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u"
         },
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Slimcase",
+          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
         }
       ],
-      "duration_ms": 180530,
-      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
-      "url": "https://open.spotify.com/track/0ww0GM0f5USzNZidkcoCVX"
+      "duration_ms": 160653,
+      "name": "Oblee (Remix)",
+      "url": "https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -867,30 +871,26 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Oblee (Remix)",
-        "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
       "artists": [
         {
-          "name": "Dj Yk Mule",
-          "url": "https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         },
         {
-          "name": "Slimcase",
-          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 160653,
-      "name": "Oblee (Remix)",
-      "url": "https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU"
+      "duration_ms": 180530,
+      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+      "url": "https://open.spotify.com/track/0ww0GM0f5USzNZidkcoCVX"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "NO SIR",
-        "url": "https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "NO SIR",
-      "url": "https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Disko",
         "url": "https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 233400,
       "name": "Disko",
       "url": "https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "NO SIR",
+        "url": "https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "NO SIR",
+      "url": "https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6"
     },
     {
       "added_at": "2024-12-19 13:12:01",

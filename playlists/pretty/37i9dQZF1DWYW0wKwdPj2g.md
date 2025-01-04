@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Uche Agu
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,234 likes - 105 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,261 likes - 105 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

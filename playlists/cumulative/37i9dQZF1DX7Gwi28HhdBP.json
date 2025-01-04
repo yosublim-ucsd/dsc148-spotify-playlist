@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Ya Chedda Shokran",
+        "url": "https://open.spotify.com/album/52uugAug1IGmMpOtdjCHJD"
+      },
+      "artists": [
+        {
+          "name": "Essam Karika",
+          "url": "https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Ya Chedda Shokran",
+      "url": "https://open.spotify.com/track/3trbju41081pF8BuAueGcP"
+    },
+    {
+      "album": {
         "name": "Ya Dmaghy",
         "url": "https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6"
       },

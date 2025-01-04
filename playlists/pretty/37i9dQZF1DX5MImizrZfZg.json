@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 71752,
+  "num_followers": 71777,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Kickin' It",
-        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "Chopsticks",
-      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Soul Express",
         "url": "https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 282506,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Kickin' It",
+        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Chopsticks",
+      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -531,6 +531,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Saxophonic",
+        "url": "https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Honey-Dipped",
+      "url": "https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 255773,
       "name": "Tale of Two Cities",
       "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "Saxophonic",
-        "url": "https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Honey-Dipped",
-      "url": "https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr"
     },
     {
       "added_at": "2020-08-19 19:15:51",

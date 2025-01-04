@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 NYE takeover: All tracks picked by Marlon Hoffstadt aka DJ Daddy Trance 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,754 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,916 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 61 | [Freak The Funk](https://open.spotify.com/track/0JsEw39KJQUZ6gDQBbiwve) | [Linds](https://open.spotify.com/artist/6ZGqNbBtVrSU2EgalYQksc), [Edvvin](https://open.spotify.com/artist/73rVEJASouJSuSvcXR2YyI) | [Freak The Funk](https://open.spotify.com/album/24D05CeYz42rDf1W42a3y5) | 4:08 |
 | 62 | [MOVE IT](https://open.spotify.com/track/6cONtKwkzZM9dXjRn9KxHh) | [Ollie Lishman](https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0) | [WATCH YO STEP](https://open.spotify.com/album/6tl4o9o6XIIXwz95fGYRLQ) | 4:58 |
 | 63 | [Take Care of You](https://open.spotify.com/track/7AeN1ihkjZeNE2XiCL5YQI) | [Dangerous Dreaming](https://open.spotify.com/artist/0vWXZcuwvJKsjqzpunhy4i) | [Feel It](https://open.spotify.com/album/6IZ2x8Yhy8SoUHMMq1kpY7) | 3:37 |
-| 64 | [WHISTLE TOOL](https://open.spotify.com/track/0cFtnEsoorifLEDjrDZVRb) | [Luke Hovey](https://open.spotify.com/artist/3gd2jHvnYcd20gXy8jzaXf) | [WHISTLE TOOL](https://open.spotify.com/album/7tDm86k732HXLWEgBLm3kZ) | 4:27 |
-| 65 | [Roll With Ice](https://open.spotify.com/track/2SHfyEsNnoGtAKyYKXj4rg) | [Arman John](https://open.spotify.com/artist/4cWhaaPUsxFe3z7fPNfzwL) | [Phased Records VA\. 001](https://open.spotify.com/album/45b8OKp9Jw9iRp6H3GFQ4p) | 5:06 |
+| 64 | [Roll With Ice](https://open.spotify.com/track/2SHfyEsNnoGtAKyYKXj4rg) | [Arman John](https://open.spotify.com/artist/4cWhaaPUsxFe3z7fPNfzwL) | [Phased Records VA\. 001](https://open.spotify.com/album/45b8OKp9Jw9iRp6H3GFQ4p) | 5:06 |
+| 65 | [WHISTLE TOOL](https://open.spotify.com/track/0cFtnEsoorifLEDjrDZVRb) | [Luke Hovey](https://open.spotify.com/artist/3gd2jHvnYcd20gXy8jzaXf) | [WHISTLE TOOL](https://open.spotify.com/album/7tDm86k732HXLWEgBLm3kZ) | 4:27 |
 | 66 | [Small Steps](https://open.spotify.com/track/4zYLzlHjNsAylibEcKq9RK) | [D S D](https://open.spotify.com/artist/4g8BjUgv4gbpeOdJmlosh5) | [Small Steps](https://open.spotify.com/album/3J9RFPDX3NfQeiq0VoA3Rq) | 4:27 |
 | 67 | [Lalala \- 4am Club Mix](https://open.spotify.com/track/2BrjxcaFVwTVyObNix7d5W) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz), [Zinda Reinhardt](https://open.spotify.com/artist/5UwjmM9lYXJ4RIyabSSE8s) | [Lalala](https://open.spotify.com/album/78tFhBC20K9FouxalWWWAK) | 5:36 |
 | 68 | [In The Mood](https://open.spotify.com/track/5L9LzNk2rVAyjslVAyqmfo) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [In The Mood](https://open.spotify.com/album/2p6XaDhfre1bm3oQ50RFFl) | 4:12 |

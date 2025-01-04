@@ -4,7 +4,7 @@
 
 > pearl of the week: SZA
 
-1,634 songs - 3 day 16 hr 46 min
+1,635 songs - 3 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2023-09-21 | 2024-02-16 |
 | [Hell No](https://open.spotify.com/track/34JLZtNXw2pxMa0KX5e45R) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I) | [Hell No](https://open.spotify.com/album/3LgWpcJ7vjf1ZcQo8T5HNb) | 2:43 | 2023-02-09 | 2023-04-14 |
 | [Hello](https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello](https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S) | 3:16 | 2023-10-19 | 2023-12-01 |
+| [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 | 2025-01-03 |  |
 | [Help \- Remake](https://open.spotify.com/track/2NKMJODGFZhAJKBlNL87Cf) | [Dim Spirit](https://open.spotify.com/artist/2aj9XsYmJ9O4uNF50MhuQn) | [Help \(Remake\)](https://open.spotify.com/album/6ipy4A3mwRxIPWB5ZDgBcE) | 4:25 | 2023-03-30 | 2023-04-07 |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-01-12 | 2023-04-07 |
 | [Here It Goes Again](https://open.spotify.com/track/5ENmrKNn9IH3cAXR9EFe4j) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 3:50 | 2022-11-03 | 2023-01-27 |

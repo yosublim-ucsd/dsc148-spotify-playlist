@@ -1,48 +1,36 @@
 {
-  "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Myke Towers, L-Gante",
-  "num_followers": 887256,
+  "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Yami Safdie, Lasso, Carin Le\u00f3n",
+  "num_followers": 887566,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3YGpAAAAACG58D6PoqR2AHKrHiv3Mcn",
+  "snapshot_id": "Z3du6AAAAAB8VoWb8+hK6vIjC4djhdO9",
   "tracks": [
     {
-      "added_at": "2024-12-27 05:00:42",
+      "added_at": "2025-01-03 05:00:24",
       "album": {
-        "name": "PIToRRO DE COCO",
-        "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
+        "name": "En Otra Vida - Con Carin Leon",
+        "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 206627,
-      "name": "PIToRRO DE COCO",
-      "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
-    },
-    {
-      "added_at": "2024-12-27 05:00:42",
-      "album": {
-        "name": "LYKE MIIKE",
-        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 190432,
-      "name": "LOS DEPURO (feat. L-Gante)",
-      "url": "https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3"
+      "duration_ms": 150974,
+      "name": "En Otra Vida - Con Carin Leon",
+      "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
     },
     {
       "added_at": "2025-01-02 03:23:16",
@@ -63,6 +51,266 @@
       "duration_ms": 170953,
       "name": "Luck Ra: Bzrp Music Sessions, Vol. 61",
       "url": "https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "PIToRRO DE COCO",
+        "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206627,
+      "name": "PIToRRO DE COCO",
+      "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "Contacto",
+        "url": "https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 162807,
+      "name": "Contacto",
+      "url": "https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "Primos (feat. Dj Kiire)",
+        "url": "https://open.spotify.com/album/7Lf4SMPBrEJL21n8LFnuWu"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "Primos (feat. Dj Kiire)",
+      "url": "https://open.spotify.com/track/4udwfvT8bOZ8lfbgGRLp68"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "Disco Verde",
+        "url": "https://open.spotify.com/album/55wYGqHcnr43rL5O63KYJQ"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Qui\u00e9n Ser\u00e1?",
+      "url": "https://open.spotify.com/track/2xBEGklsyGkh0PTLTAdne4"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "nube gris (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
+        "url": "https://open.spotify.com/album/1xkyebwNr8p3IZutNtI2EB"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "nube gris - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
+      "url": "https://open.spotify.com/track/4PnzsGGqOq5iCkyn5Oa5yS"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "Una mala",
+        "url": "https://open.spotify.com/album/6RgyfqSHiEtIhBZQAckoew"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        },
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Una mala",
+      "url": "https://open.spotify.com/track/5C4sUjH9D65b4wfqguh1O6"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "TAPOUN",
+        "url": "https://open.spotify.com/album/6mAKRZIFNGYRz4ggpkn6iK"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Mc Tota",
+          "url": "https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "duration_ms": 156305,
+      "name": "TAPOUN",
+      "url": "https://open.spotify.com/track/5Ht6WQPJ7V6yeyubWa2U7D"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "Peines de 30",
+        "url": "https://open.spotify.com/album/5UakqvT8uVtF9DENseHm4f"
+      },
+      "artists": [
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 189277,
+      "name": "Peines de 30",
+      "url": "https://open.spotify.com/track/4iCSAjVvdkEpg0GoIYmrLa"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "Ah\u00ed Est\u00e1s T\u00fa",
+        "url": "https://open.spotify.com/album/6vHSpPp5CebjTkgdWgoECJ"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 174650,
+      "name": "Ah\u00ed Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/6sRorW2tentMfhDyFzU9OO"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "La Conga",
+        "url": "https://open.spotify.com/album/71OEHDLQeYh3wz2LP40Cu7"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 151675,
+      "name": "La Conga",
+      "url": "https://open.spotify.com/track/7fIi5nRlYhIMnTshYVD8NF"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "Gas Gas",
+        "url": "https://open.spotify.com/album/4A6oBgOVEeMBSCZyIbpID3"
+      },
+      "artists": [
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Gas Gas",
+      "url": "https://open.spotify.com/track/5pwypqvaS8HOtMoNOY40Eb"
+    },
+    {
+      "added_at": "2025-01-03 05:00:24",
+      "album": {
+        "name": "Hay Un Tirano Que Es para Vos",
+        "url": "https://open.spotify.com/album/6iQsETOWDbUaRrvnoIKXL9"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 243769,
+      "name": "Hay Un Tirano Que Es para Vos",
+      "url": "https://open.spotify.com/track/0ohAzwHz8iAtqu2QFUfnwG"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
+        "name": "LYKE MIIKE",
+        "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 190432,
+      "name": "LOS DEPURO (feat. L-Gante)",
+      "url": "https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3"
     },
     {
       "added_at": "2024-12-27 05:00:42",
@@ -146,10 +394,6 @@
         {
           "name": "Hamilton",
           "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "ANDY ALASKA",
-          "url": "https://open.spotify.com/artist/4Khd0aexSTIiryfokru56l"
         }
       ],
       "duration_ms": 142960,
@@ -1107,6 +1351,30 @@
     {
       "added_at": "2024-12-20 06:00:08",
       "album": {
+        "name": "\u00a1QUE VUELVAN LOS MATIN\u00c9!",
+        "url": "https://open.spotify.com/album/3ndtm6oN9U4wWUjkBioc23"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Dj Babatr",
+          "url": "https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD"
+        }
+      ],
+      "duration_ms": 266211,
+      "name": "Veneka - DJ Babatr Mix",
+      "url": "https://open.spotify.com/track/0VEv44H37oFd6mX2vsVlUo"
+    },
+    {
+      "added_at": "2024-12-20 06:00:08",
+      "album": {
         "name": "MAS LOCO QUE TU",
         "url": "https://open.spotify.com/album/4FwoHjtqk0VAt4eJaW0prH"
       },
@@ -1207,246 +1475,6 @@
       "duration_ms": 138260,
       "name": "Papelito",
       "url": "https://open.spotify.com/track/4do9SGv2DQ1irWpwqxXANJ"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/2yUitHKO0gAujSNkCHT9ry"
-      },
-      "artists": [
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/5H5pVq8yNelXXMtoM895Sw"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Con Los Nudillos",
-        "url": "https://open.spotify.com/album/3dCNCYpXb0oKR7op1iHKs8"
-      },
-      "artists": [
-        {
-          "name": "Sole\u00e1 Morente",
-          "url": "https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu"
-        }
-      ],
-      "duration_ms": 176922,
-      "name": "Con Los Nudillos",
-      "url": "https://open.spotify.com/track/7yrbIk2guPk6fGoy9oOD22"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "NAVIDAD ES HOY",
-        "url": "https://open.spotify.com/album/3DBlltRxtYGW7FsdxUyqrz"
-      },
-      "artists": [
-        {
-          "name": "Pollo Bruxo",
-          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
-        },
-        {
-          "name": "LaPeste",
-          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
-        }
-      ],
-      "duration_ms": 110210,
-      "name": "NAVIDAD ES HOY",
-      "url": "https://open.spotify.com/track/5kefBeaBbTu96F0GvOZ19f"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Solo Me Queda",
-        "url": "https://open.spotify.com/album/4p9YQsRlQZkkNgYCn35yvC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 241909,
-      "name": "Solo Me Queda",
-      "url": "https://open.spotify.com/track/4KzMohkt67gQvsuXDCLDR1"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "La Fresa",
-        "url": "https://open.spotify.com/album/21nh3eXKglDhbqgPugbt7l"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "La Fresa",
-      "url": "https://open.spotify.com/track/3mXQ4FbW8Dsb2YleDxg4ws"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Hismat",
-        "url": "https://open.spotify.com/album/7fptEMHRSHj89lvH1Hxtow"
-      },
-      "artists": [
-        {
-          "name": "Reis Belico",
-          "url": "https://open.spotify.com/artist/6T8S4zSY1ICYEG50Hgs3QJ"
-        }
-      ],
-      "duration_ms": 221590,
-      "name": "Hismat",
-      "url": "https://open.spotify.com/track/6BQv7HuDLoqCUtK4bNoFUC"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "BILBOR",
-        "url": "https://open.spotify.com/album/30hZBWm1YVXeEC5iyvq3zA"
-      },
-      "artists": [
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
-        },
-        {
-          "name": "FineSound Music",
-          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
-        }
-      ],
-      "duration_ms": 207222,
-      "name": "BILBOR",
-      "url": "https://open.spotify.com/track/01xLacaMPChcF3E4Fozrbz"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "pantera rosa (Remix)",
-        "url": "https://open.spotify.com/album/15rMUABC4EcSjl7BKnlvWE"
-      },
-      "artists": [
-        {
-          "name": "Baskiat",
-          "url": "https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU"
-        },
-        {
-          "name": "fedesttar",
-          "url": "https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy"
-        },
-        {
-          "name": "Angelo Reeves",
-          "url": "https://open.spotify.com/artist/69PtiuIXUHBwxTaRDLsli7"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "pantera rosa - Remix",
-      "url": "https://open.spotify.com/track/6Plc1SeGJxXPy1zk7P61c7"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "COBARDE",
-        "url": "https://open.spotify.com/album/2YYjBCeGnOLk8pZ0gkxfNg"
-      },
-      "artists": [
-        {
-          "name": "Natalia Natalia",
-          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
-        }
-      ],
-      "duration_ms": 159961,
-      "name": "COBARDE",
-      "url": "https://open.spotify.com/track/44PbqMWf1vLVnZFXEzjKEw"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Lo So\u00f1aste",
-        "url": "https://open.spotify.com/album/4mUC53Imf0yohu2OsUxesz"
-      },
-      "artists": [
-        {
-          "name": "Catherine",
-          "url": "https://open.spotify.com/artist/2lNRCtmmIZlt25KbxtElKV"
-        },
-        {
-          "name": "ROKO",
-          "url": "https://open.spotify.com/artist/07unNaWsepm5osLAwl2K8a"
-        },
-        {
-          "name": "Toni Drums",
-          "url": "https://open.spotify.com/artist/6kTWk8Ye6ujMTyzihZ3x3f"
-        }
-      ],
-      "duration_ms": 166060,
-      "name": "Lo So\u00f1aste",
-      "url": "https://open.spotify.com/track/4J52fN8fzvSpVPzlU07GYf"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Tu Ausencia :(",
-        "url": "https://open.spotify.com/album/6Qs9lw87P6TmcCSgRZRsT7"
-      },
-      "artists": [
-        {
-          "name": "Wendy Sulca",
-          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Tu Ausencia :(",
-      "url": "https://open.spotify.com/track/64IFCF3VzDxnXMrrWIRCFs"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "24",
-        "url": "https://open.spotify.com/album/4N7weuortyMp5OTwwfbWvK"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 155246,
-      "name": "24",
-      "url": "https://open.spotify.com/track/2ZJtRsJjRgzTAat3bStWx5"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "\u00a1QUE VUELVAN LOS MATIN\u00c9!",
-        "url": "https://open.spotify.com/album/3ndtm6oN9U4wWUjkBioc23"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Dj Babatr",
-          "url": "https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD"
-        }
-      ],
-      "duration_ms": 266211,
-      "name": "Veneka - DJ Babatr Mix",
-      "url": "https://open.spotify.com/track/0VEv44H37oFd6mX2vsVlUo"
     }
   ],
   "unique_name": "Novedades Viernes Latinoam\u00e9rica",

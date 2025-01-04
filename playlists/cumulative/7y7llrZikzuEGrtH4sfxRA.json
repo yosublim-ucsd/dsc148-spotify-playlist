@@ -7741,6 +7741,24 @@
     },
     {
       "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/02vdJvt0pOPBd7AnJXMi8v"
+      },
+      "artists": [
+        {
+          "name": "ESSE",
+          "url": "https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153779,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/7Ga3eawAui0Ocf06y25sH2"
+    },
+    {
+      "album": {
         "name": "Hustlin'",
         "url": "https://open.spotify.com/album/4xHL13vhsW8TZ6EQcjVgJJ"
       },

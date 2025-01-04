@@ -1,6 +1,6 @@
 {
   "description": "Highlighting the best of EQUAL GSA 2024. Cover: Esther Graf",
-  "num_followers": 36575,
+  "num_followers": 36578,
   "original_name": "Best of EQUAL GSA 2024",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Wenn es sich gut anf\u00fchlt",
-        "url": "https://open.spotify.com/album/3saWrjGMn6svJsgW4j4tXR"
-      },
-      "artists": [
-        {
-          "name": "SOPHIA",
-          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Wenn es sich gut anf\u00fchlt",
-      "url": "https://open.spotify.com/track/4WZDb8H8qoMV83MXMhXC3L"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Am I Enough",
         "url": "https://open.spotify.com/album/07IrU6rEh8La5R8GSJwoQ8"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 167920,
       "name": "Am I Enough",
       "url": "https://open.spotify.com/track/3Rk34rntbN3CdrBodGA9CY"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Wenn es sich gut anf\u00fchlt",
+        "url": "https://open.spotify.com/album/3saWrjGMn6svJsgW4j4tXR"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Wenn es sich gut anf\u00fchlt",
+      "url": "https://open.spotify.com/track/4WZDb8H8qoMV83MXMhXC3L"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Schweinegeld",
-        "url": "https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby"
-      },
-      "artists": [
-        {
-          "name": "SHOKI",
-          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
-        }
-      ],
-      "duration_ms": 128514,
-      "name": "Schweinegeld",
-      "url": "https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Chaos im Kopf",
         "url": "https://open.spotify.com/album/3ChVHWhOm3QGmYXGxNWZiO"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 125548,
       "name": "Chaos im Kopf",
       "url": "https://open.spotify.com/track/1uv4wwbrfidYZxAr3tWuNL"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Schweinegeld",
+        "url": "https://open.spotify.com/album/1AF3bWodopzYqXwFINNGby"
+      },
+      "artists": [
+        {
+          "name": "SHOKI",
+          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
+        }
+      ],
+      "duration_ms": 128514,
+      "name": "Schweinegeld",
+      "url": "https://open.spotify.com/track/2AvOT3yTdqJes1voUb33AE"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Der Moment archiviert",
-        "url": "https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1"
-      },
-      "artists": [
-        {
-          "name": "Carla Ahad",
-          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
-        }
-      ],
-      "duration_ms": 156387,
-      "name": "Der Moment archiviert",
-      "url": "https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Extra",
         "url": "https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 186376,
       "name": "Es zieht im Paradies",
       "url": "https://open.spotify.com/track/12FETuFeRi2BwCa3L1R2rY"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Der Moment archiviert",
+        "url": "https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "Der Moment archiviert",
+      "url": "https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Auszeit",
-        "url": "https://open.spotify.com/album/0jjRLSkPAyPAqLEkhtfJj1"
-      },
-      "artists": [
-        {
-          "name": "Ami Warning",
-          "url": "https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9"
-        }
-      ],
-      "duration_ms": 154411,
-      "name": "Gleichgewicht",
-      "url": "https://open.spotify.com/track/4h9j2wJyX7DbhXOao5453j"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Also was jetzt?",
         "url": "https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 160082,
       "name": "Mond",
       "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Auszeit",
+        "url": "https://open.spotify.com/album/0jjRLSkPAyPAqLEkhtfJj1"
+      },
+      "artists": [
+        {
+          "name": "Ami Warning",
+          "url": "https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Gleichgewicht",
+      "url": "https://open.spotify.com/track/4h9j2wJyX7DbhXOao5453j"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 426867,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Innenhof",
         "url": "https://open.spotify.com/album/4Re5MEQNMz5tP327a4WU1C"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 350083,
       "name": "Rebel Heart",
       "url": "https://open.spotify.com/track/6IaKW0IDdGtaUNf3NfgObi"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 426867,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Stadt Gespr\u00e4ch",
+        "url": "https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI"
+      },
+      "artists": [
+        {
+          "name": "BOUNTY & COCOA",
+          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Stadt Gespr\u00e4ch",
+      "url": "https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/6lEHNyY4httWsP9VxMkTRs"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 300000,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/04UvKMFnAgvQZmA0Edwd7f"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Stadt Gespr\u00e4ch",
-        "url": "https://open.spotify.com/album/0JoN7Y54v0EJDkc1xcVMzI"
-      },
-      "artists": [
-        {
-          "name": "BOUNTY & COCOA",
-          "url": "https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Stadt Gespr\u00e4ch",
-      "url": "https://open.spotify.com/track/7eGCz9wupqm8pz5nNkOGSH"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Eine Frau ein Wort",
+        "url": "https://open.spotify.com/album/2N5t2vxotfTBrt7ogj4f8f"
+      },
+      "artists": [
+        {
+          "name": "Kitty Kat",
+          "url": "https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd"
+        }
+      ],
+      "duration_ms": 147143,
+      "name": "Wuz poppin",
+      "url": "https://open.spotify.com/track/7hlPXPgSSRbogNtMBqE8z0"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "An Ode To ?",
         "url": "https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 168773,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/04BrgQbbdn1Avy6HYtf5UL"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Eine Frau ein Wort",
-        "url": "https://open.spotify.com/album/2N5t2vxotfTBrt7ogj4f8f"
-      },
-      "artists": [
-        {
-          "name": "Kitty Kat",
-          "url": "https://open.spotify.com/artist/2YkKzgHa7xT6aW8QaSsQMd"
-        }
-      ],
-      "duration_ms": 147143,
-      "name": "Wuz poppin",
-      "url": "https://open.spotify.com/track/7hlPXPgSSRbogNtMBqE8z0"
     },
     {
       "added_at": "2024-12-04 12:15:00",

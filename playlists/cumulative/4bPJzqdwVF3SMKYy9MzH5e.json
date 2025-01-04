@@ -24153,6 +24153,24 @@
     },
     {
       "album": {
+        "name": "Pt. One",
+        "url": "https://open.spotify.com/album/7xNgPrxoV7XX4mNRsoLp0c"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211322,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU"
+    },
+    {
+      "album": {
         "name": "Who Really Cares",
         "url": "https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U"
       },
@@ -32346,6 +32364,28 @@
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "album": {
+        "name": "sweet rally",
+        "url": "https://open.spotify.com/album/11vUnFryU2pTqfBGaAU7kc"
+      },
+      "artists": [
+        {
+          "name": "ilysam",
+          "url": "https://open.spotify.com/artist/3rmIPOsNb2ngQAQEK8Fow8"
+        },
+        {
+          "name": "Mc Ster",
+          "url": "https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69201,
+      "name": "sweet rally",
+      "url": "https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 6384,
+  "num_followers": 6394,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
-    },
-    {
-      "added_at": "2024-11-29 09:47:11",
-      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 201151,
       "name": "Do You Know My Heart (Feat. NUITNUIT)",
       "url": "https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC"
+    },
+    {
+      "added_at": "2024-11-29 09:47:11",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     },
     {
       "added_at": "2024-11-29 09:47:11",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 274304,
-      "name": "\uadf8 \ubc24",
-      "url": "https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd"
-    },
-    {
-      "added_at": "2024-11-29 09:47:11",
-      "album": {
         "name": "Night you went away",
         "url": "https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 218637,
       "name": "Night you went away (Korean Ver.) (Vocal. Kim gyeol)",
       "url": "https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA"
+    },
+    {
+      "added_at": "2024-11-29 09:47:11",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 274304,
+      "name": "\uadf8 \ubc24",
+      "url": "https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd"
     },
     {
       "added_at": "2024-11-29 09:47:11",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-11-29 09:47:11",
       "album": {
+        "name": "Zero gravity",
+        "url": "https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW"
+      },
+      "artists": [
+        {
+          "name": "Jo SoJeong",
+          "url": "https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Zero gravity",
+      "url": "https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5"
+    },
+    {
+      "added_at": "2024-11-29 09:47:11",
+      "album": {
         "name": "in the distant future",
         "url": "https://open.spotify.com/album/2Ll8eOUs9BGFmiGJA1g2ct"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 195989,
       "name": "in the distant future (feat. \uae40\uc218\uc5f0)",
       "url": "https://open.spotify.com/track/58QzsbkjVv7wLTGObf93X4"
-    },
-    {
-      "added_at": "2024-11-29 09:47:11",
-      "album": {
-        "name": "Zero gravity",
-        "url": "https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW"
-      },
-      "artists": [
-        {
-          "name": "Jo SoJeong",
-          "url": "https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Zero gravity",
-      "url": "https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5"
     },
     {
       "added_at": "2024-11-29 09:47:11",

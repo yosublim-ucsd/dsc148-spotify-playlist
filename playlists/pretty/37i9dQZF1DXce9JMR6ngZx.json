@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 220551,
+  "num_followers": 220587,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Rocky IV",
-        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Colour By Numbers (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "The Head On The Door",
-        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Inbetween Days",
-      "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "O Passo Do Lui",
         "url": "https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 208626,
       "name": "Meu Erro",
       "url": "https://open.spotify.com/track/7pn5QXr2LTeGsgHyCaJxDo"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Inbetween Days",
+      "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Lanterna Dos Afogados",
+      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
         "name": "V\u00f4o de Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 280853,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Lanterna Dos Afogados",
-      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Ideologia",
-        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Ideologia",
-      "url": "https://open.spotify.com/track/4s6qyTWg5r4EyOi2QIwM9g"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Ocean Rain (Expanded; 2007 Remaster)",
         "url": "https://open.spotify.com/album/3V4j1tMdQqpq8nwW02UOiW"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 348293,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/35E2eKIEXXnP5q9L51iOAk"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Ideologia",
+        "url": "https://open.spotify.com/album/0EeQ43GyKU8pVTULAlx5be"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Ideologia",
+      "url": "https://open.spotify.com/track/4s6qyTWg5r4EyOi2QIwM9g"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "S\u00f3 Se For A Dois",
-        "url": "https://open.spotify.com/album/3oDvGnTi4xDQujcc8v8mrs"
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
       },
       "artists": [
         {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
         }
       ],
-      "duration_ms": 212586,
-      "name": "O Nosso Amor A Gente Inventa (Est\u00f3ria Rom\u00e2ntica)",
-      "url": "https://open.spotify.com/track/4OQCnf6Jx0cZzzTh7fU0TF"
+      "duration_ms": 310760,
+      "name": "Lan\u00e7a Perfume",
+      "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
     }
   ],
   "unique_name": "Faxina Nostalgia",

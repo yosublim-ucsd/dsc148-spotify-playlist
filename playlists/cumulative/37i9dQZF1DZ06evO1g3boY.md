@@ -4,7 +4,7 @@
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 22 min
+70 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [O Pequeno Burguês/ Canta Canta Minha Gente \- Ao Vivo](https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:09 | 2023-09-18 |  |
 | [Oi Compadre \- Ao Vivo](https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:06 | 2023-11-10 |  |
 | [Ooorra \- Ao Vivo](https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 4:44 | 2023-09-18 |  |
-| [Oyá \- Sorriso Negro \- Ao Vivo](https://open.spotify.com/track/7rrlAo0OyWwpaRbDDSe9BB) | [Prettos](https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB), [Magnu Sousá](https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP), [Maurilio de Oliveira](https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal dos Prettos \(Ao Vivo\)](https://open.spotify.com/album/159BRsin1LHfEaJAcvcLnc) | 4:37 | 2023-09-18 |  |
+| [Oyá \- Sorriso Negro \- Ao Vivo](https://open.spotify.com/track/72h3iFRtmZSxvY2pAuIkaC) | [Prettos](https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB), [Magnu Sousá](https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP), [Maurilio de Oliveira](https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal dos Prettos \(Ao Vivo\)](https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv) | 4:37 | 2025-01-04 |  |
+| [Oyá \- Sorriso Negro \- Ao Vivo](https://open.spotify.com/track/7rrlAo0OyWwpaRbDDSe9BB) | [Prettos](https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB), [Magnu Sousá](https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP), [Maurilio de Oliveira](https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal dos Prettos \(Ao Vivo\)](https://open.spotify.com/album/159BRsin1LHfEaJAcvcLnc) | 4:37 | 2023-09-18 | 2025-01-04 |
 | [Oásis \(feat\. Rael\) \- Ao Vivo](https://open.spotify.com/track/5hNjHU5ZE4m0ykAEYLYsQH) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 3:54 | 2023-09-18 |  |
 | [Paisagem](https://open.spotify.com/track/5mvd9zBoRstEcAJC2VwEOi) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 3:09 | 2023-09-18 |  |
 | [Pantera Negra](https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj) | 3:19 | 2023-09-18 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 185456,
+  "num_followers": 185493,
   "original_name": "Flow Tranqui",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,26 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Mi Cuarto",
-        "url": "https://open.spotify.com/album/39C9ZNrQFcQr0OGf5mx19P"
+        "name": "Hm Hm Hm (Remix)",
+        "url": "https://open.spotify.com/album/58YECjRGpoSEDxc3hexWwJ"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         },
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Wesh Music",
+          "url": "https://open.spotify.com/artist/47ssTqJe23pPbwPpQ4sYHB"
         }
       ],
-      "duration_ms": 131688,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/1LDBWjh2YlVOHgttPUCmuh"
+      "duration_ms": 181052,
+      "name": "Hm Hm Hm - Remix",
+      "url": "https://open.spotify.com/track/53OKRnaKKAT3bCkF8WIY8C"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -531,26 +535,22 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Hm Hm Hm (Remix)",
-        "url": "https://open.spotify.com/album/58YECjRGpoSEDxc3hexWwJ"
+        "name": "Mi Cuarto",
+        "url": "https://open.spotify.com/album/39C9ZNrQFcQr0OGf5mx19P"
       },
       "artists": [
         {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         },
         {
-          "name": "Youka",
-          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
-        },
-        {
-          "name": "Wesh Music",
-          "url": "https://open.spotify.com/artist/47ssTqJe23pPbwPpQ4sYHB"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 181052,
-      "name": "Hm Hm Hm - Remix",
-      "url": "https://open.spotify.com/track/53OKRnaKKAT3bCkF8WIY8C"
+      "duration_ms": 131688,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/1LDBWjh2YlVOHgttPUCmuh"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "Me Gustas Natural",
-      "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Kilerito",
         "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 225270,
       "name": "Kilerito",
       "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "Me Gustas Natural",
+      "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 139576,
       "name": "TE DESEO LO MEJOR",
       "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1623,22 +1623,18 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "A POCA LUZ",
-        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 194181,
-      "name": "A POCA LUZ",
-      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
+      "duration_ms": 151428,
+      "name": "Par\u00eds",
+      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Par\u00eds",
-        "url": "https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD"
+        "name": "A POCA LUZ",
+        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
       },
       "artists": [
         {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         }
       ],
-      "duration_ms": 151428,
-      "name": "Par\u00eds",
-      "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+      "duration_ms": 194181,
+      "name": "A POCA LUZ",
+      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
     },
     {
       "added_at": "2024-12-20 06:00:07",

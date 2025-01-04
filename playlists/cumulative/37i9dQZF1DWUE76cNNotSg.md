@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-536 songs - 1 day 9 hr 40 min
+537 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Infield \(Young & Sick Remix\)](https://open.spotify.com/track/3xkMBk1wMJ3aEnWO0sSOW7) | [Arthur Moon](https://open.spotify.com/artist/5iDcZ7vN17Cq55AbEqy0aC), [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Infield \(Young & Sick Remix\)](https://open.spotify.com/album/1kTRU2NEv60y4JYGUwuvNt) | 4:58 | 2020-12-22 | 2022-07-29 |
 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 | 2020-12-22 | 2024-01-09 |
 | [It All Feels Right](https://open.spotify.com/track/3sc34Y2D580EC86tnBA1PQ) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/3ffs5CFhPJVjtaZurIrJOo) | 4:05 | 2020-12-22 | 2022-04-16 |
-| [It Feels Much Better](https://open.spotify.com/track/1GsEyWzxbT2rz8tpDgm0h6) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [It Feels Much Better](https://open.spotify.com/album/2Tf7vWXv36w3W4RZ6Yncsb) | 3:01 | 2024-11-15 |  |
+| [It Feels Much Better](https://open.spotify.com/track/1GsEyWzxbT2rz8tpDgm0h6) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [It Feels Much Better](https://open.spotify.com/album/2Tf7vWXv36w3W4RZ6Yncsb) | 3:01 | 2024-11-15 | 2025-01-04 |
 | [IT HURTS ME](https://open.spotify.com/track/2EQZLTvGiXOPePeHVtSp2H) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE](https://open.spotify.com/album/7tIK8SgNtyAzhl4cuC43Ki) | 3:00 | 2024-01-26 |  |
 | [It Never Rains](https://open.spotify.com/track/67URyvNo0ymOlShJB9JclN) | [GEO](https://open.spotify.com/artist/0U1xtc0gukCZNjTf9mY5a1) | [It Never Rains](https://open.spotify.com/album/5S7KTMA8maUeDLgFuXzOn8) | 2:29 | 2020-12-22 | 2022-07-29 |
 | [It's All About You](https://open.spotify.com/track/3hLhotLW0PaS9E1SAh0xQ7) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [It's All About You](https://open.spotify.com/album/6BBZ2IRU3iMx3zSOPpmVVg) | 3:20 | 2020-12-22 | 2022-07-24 |
@@ -389,6 +389,7 @@
 | [Reckless Desires](https://open.spotify.com/track/3YOF6HtXEj91j2SRYXoSEi) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/0gkOhkjdFwKUtz9YXbp22L) | 4:24 | 2020-12-22 | 2022-07-29 |
 | [Rehearsal](https://open.spotify.com/track/6HUlgmxTiwmTxQN1tVMT9y) | [Klubbhuset](https://open.spotify.com/artist/4A9Wj9aRvLGGuNqsd3ak5v) | [Rehearsal](https://open.spotify.com/album/6GMt3lGcFyWHuI5REHHdjc) | 4:41 | 2020-12-22 | 2022-04-21 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-05-16 | 2024-02-14 |
+| [REMEMBER](https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [REMEMBER](https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY) | 3:39 | 2025-01-03 |  |
 | [Reservations](https://open.spotify.com/track/2Jn5B2ewyH4YfCWKKJEhF9) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Julia Lostrom](https://open.spotify.com/artist/6LhvyFKJgz8TdcwOkmPnv0), [Keelan Mak](https://open.spotify.com/artist/4xSveO2Pb18Jyl2f7xW8SW) | [Good Time Hotel](https://open.spotify.com/album/1rc72kgv4W11vCUHfbEEym) | 4:13 | 2024-05-10 |  |
 | [Rhythm Is Right](https://open.spotify.com/track/40WdPDahbul3yexvSiGTf0) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq), [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Rhythm Is Right](https://open.spotify.com/album/19x81guzMDRaOV5byARIxj) | 4:05 | 2024-11-22 |  |
 | [Ride With You](https://open.spotify.com/track/45A9rZ2Q6cyNBIZ0ZHgRZF) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Ben Browning](https://open.spotify.com/artist/497VSHqaZA32b7tgCETFEH) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 4:14 | 2024-01-12 |  |

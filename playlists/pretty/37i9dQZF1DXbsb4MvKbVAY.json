@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa Pihlaja.",
-  "num_followers": 24304,
+  "num_followers": 24310,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,30 @@
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -779,38 +803,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
-        "name": "Sinilev\u00e4",
-        "url": "https://open.spotify.com/album/755dC9Fq9chBrDlJ9QvpvC"
-      },
-      "artists": [
-        {
-          "name": "LAVAREDO",
-          "url": "https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD"
-        }
-      ],
-      "duration_ms": 137375,
-      "name": "Sinilev\u00e4",
-      "url": "https://open.spotify.com/track/2x7jDG4VYwbNDr0Yyvho1P"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J"
       },
@@ -831,6 +823,38 @@
       "duration_ms": 156923,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Sinilev\u00e4",
+        "url": "https://open.spotify.com/album/755dC9Fq9chBrDlJ9QvpvC"
+      },
+      "artists": [
+        {
+          "name": "LAVAREDO",
+          "url": "https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD"
+        }
+      ],
+      "duration_ms": 137375,
+      "name": "Sinilev\u00e4",
+      "url": "https://open.spotify.com/track/2x7jDG4VYwbNDr0Yyvho1P"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1215,6 +1239,22 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
+        "name": "Wild Long Lie",
+        "url": "https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 364533,
+      "name": "Wild Long Lie",
+      "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
         "name": "Missionary",
         "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
       },
@@ -1231,22 +1271,6 @@
       "duration_ms": 163722,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
-        "name": "Wild Long Lie",
-        "url": "https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 364533,
-      "name": "Wild Long Lie",
-      "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1315,22 +1339,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "ADHD",
-        "url": "https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 228860,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
       },
@@ -1347,6 +1355,22 @@
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 228860,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1427,22 +1451,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 139830,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap"
       },
@@ -1459,6 +1467,22 @@
       "duration_ms": 170021,
       "name": "Ne oli v\u00e4\u00e4r\u00e4s (feat. Turisti)",
       "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 139830,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1551,6 +1575,22 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
+        "name": "Cats on the Ceiling",
+        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Cats on the Ceiling",
+      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
         "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
       },
@@ -1571,22 +1611,6 @@
       "duration_ms": 176034,
       "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
-        "name": "Cats on the Ceiling",
-        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Cats on the Ceiling",
-      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1711,22 +1735,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/4MH3D8angFt2z5B8yO3xnG"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "Freedom Of The Night",
         "url": "https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk"
       },
@@ -1739,6 +1747,22 @@
       "duration_ms": 192466,
       "name": "Freedom Of The Night",
       "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/4MH3D8angFt2z5B8yO3xnG"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1763,6 +1787,22 @@
       "duration_ms": 110810,
       "name": "Jeesus",
       "url": "https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Mr Lover",
+        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "Mr Lover",
+      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1799,22 +1839,6 @@
       "duration_ms": 139171,
       "name": "Maa ilman vett\u00e4",
       "url": "https://open.spotify.com/track/5gFVdvBQ0wVIZPYqrMSM8m"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
-        "name": "Mr Lover",
-        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "Mr Lover",
-      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
     }
   ],
   "unique_name": "Ensisoitossa",

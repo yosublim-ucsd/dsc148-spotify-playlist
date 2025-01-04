@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2019-09-29",
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Obama&#x27;s Favorite Music of 2024.",
-  "name": "Obama\u2019s Summer Playlist 2024",
+  "name": "Obama\u2019s Summer Playlist 2025",
   "tracks": [
     {
       "album": {
@@ -11831,6 +11831,24 @@
     },
     {
       "album": {
+        "name": "Demonstrous, Vol. 2 (Acoustified)",
+        "url": "https://open.spotify.com/album/6NhrkTjgWoKtZIru4h55Vc"
+      },
+      "artists": [
+        {
+          "name": "JV Altharas",
+          "url": "https://open.spotify.com/artist/6eBEjfPn9jZAIjhOlh2E7F"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260340,
+      "name": "Can't Stop Wanting You (Acoustified)",
+      "url": "https://open.spotify.com/track/3WjWCA4BQvj1phCByGKZCe"
+    },
+    {
+      "album": {
         "name": "SPLIT 2",
         "url": "https://open.spotify.com/album/2Lftl97zv6UtI2ZbsGra1a"
       },
@@ -19390,7 +19408,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 173856,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5L2jBYCrHvxFLVVYq6CQEt"
@@ -20459,6 +20477,24 @@
     },
     {
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/46YjmtyJkwVGMjTqDo09ZE"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156375,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/6ra4QCibGRwecj33rpqTIo"
+    },
+    {
+      "album": {
         "name": "Sleeper",
         "url": "https://open.spotify.com/album/0ETXjHepV53KXR1uT9AVgB"
       },
@@ -21264,7 +21300,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 251300,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/6rJvhx5erQPu7mogQIfqeC"
@@ -28095,6 +28131,24 @@
     },
     {
       "album": {
+        "name": "Glisten",
+        "url": "https://open.spotify.com/album/6pIDTXeY8gilcDtQeTwOn7"
+      },
+      "artists": [
+        {
+          "name": "Azora\u00ea",
+          "url": "https://open.spotify.com/artist/6zHcQu3DMruPjgDUvcO1mK"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136870,
+      "name": "Glisten",
+      "url": "https://open.spotify.com/track/3TOqtuy7L6LiMokG289AXD"
+    },
+    {
+      "album": {
         "name": "Glo",
         "url": "https://open.spotify.com/album/2FQHwQN4R9M4AOiQp3QCvm"
       },
@@ -31859,6 +31913,24 @@
     },
     {
       "album": {
+        "name": "Safe in Sound",
+        "url": "https://open.spotify.com/album/0bRaQBUCxI5nq0OTOfQJqc"
+      },
+      "artists": [
+        {
+          "name": "Josh Holtzclaw",
+          "url": "https://open.spotify.com/artist/51kchU3EMNfo0dfbqQddPZ"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187420,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2qeqd6zsYPgJY7HUcQiWmH"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0cLxZPKM7QjIItprbOw2E4"
       },
@@ -33481,6 +33553,24 @@
     },
     {
       "album": {
+        "name": "I Cry At Night When I'm Alone",
+        "url": "https://open.spotify.com/album/4xGZqqJJb7LndKt7U6smBn"
+      },
+      "artists": [
+        {
+          "name": "Erik Frank",
+          "url": "https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "I Cry At Night When I'm Alone",
+      "url": "https://open.spotify.com/track/4FOgGcXrhNFy4qtgbqD6Ju"
+    },
+    {
+      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/2Lf6NEgxl4Dx2XsWvGi1wg"
       },
@@ -34576,6 +34666,24 @@
       "duration_ms": 145909,
       "name": "I wish I could let you know",
       "url": "https://open.spotify.com/track/1zPnDcOxx00dli9WUJ4pHf"
+    },
+    {
+      "album": {
+        "name": "I Wish I Forgot",
+        "url": "https://open.spotify.com/album/4QlnFr07fUdAsGvM2DKbwX"
+      },
+      "artists": [
+        {
+          "name": "Justin Versluis",
+          "url": "https://open.spotify.com/artist/7JOTs5hljkkE7rSdm0mPSU"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113068,
+      "name": "I Wish I Forgot",
+      "url": "https://open.spotify.com/track/1RpzHNoqYPvnpuGOYYPPgy"
     },
     {
       "album": {
@@ -39264,7 +39372,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 132048,
       "name": "LA CALLE",
       "url": "https://open.spotify.com/track/1JNN66HwuRmKCCVCXMmo09"
@@ -45096,7 +45204,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 169898,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/7vp0Dpp8uwfGr1gHGrsrRP"
@@ -46352,7 +46460,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 188159,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/02eqqkTcPZhY38FSC27o2U"
@@ -49656,7 +49764,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 259596,
       "name": "Nena Buena",
       "url": "https://open.spotify.com/track/30Qrmdv990RJPB8iA1V5CE"
@@ -52322,7 +52430,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 198112,
       "name": "Ojos Marrones - Cover",
       "url": "https://open.spotify.com/track/5j2Z0KfI0Ta4jKPLKd1pBI"
@@ -60171,6 +60279,44 @@
     },
     {
       "album": {
+        "name": "Roots Reggae Vibration",
+        "url": "https://open.spotify.com/album/34JgbeIw8ebZLZ7rnR17Js"
+      },
+      "artists": [
+        {
+          "name": "Tropical Dubwise",
+          "url": "https://open.spotify.com/artist/4xzXm4Rw2m1IrkECwD1IOp"
+        },
+        {
+          "name": "Robbie Lyn",
+          "url": "https://open.spotify.com/artist/4qsWdxjfbquNlTZF1kF0nt"
+        },
+        {
+          "name": "Sly Dunbar",
+          "url": "https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8"
+        },
+        {
+          "name": "Earl \"Chinna\" Smith",
+          "url": "https://open.spotify.com/artist/7qe5mAZ8x1nggNd4JiyMCj"
+        },
+        {
+          "name": "Lloyd Parks",
+          "url": "https://open.spotify.com/artist/5zMTlxel5De0bMLNXRjZH8"
+        },
+        {
+          "name": "The Disciples",
+          "url": "https://open.spotify.com/artist/7L2y8SR4LabyPFmPQf3HPr"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276671,
+      "name": "Roots Reggae Vibration",
+      "url": "https://open.spotify.com/track/32QfLFqJjeqA4xl0r5MVLz"
+    },
+    {
+      "album": {
         "name": "rope bunny",
         "url": "https://open.spotify.com/album/2Xjj3nrxxyxR65W6guHQvY"
       },
@@ -62905,6 +63051,24 @@
     },
     {
       "album": {
+        "name": "She A City Girl",
+        "url": "https://open.spotify.com/album/0jWI7I4VNB6hbdTAdbrzky"
+      },
+      "artists": [
+        {
+          "name": "aboutlastnight",
+          "url": "https://open.spotify.com/artist/6rU78y3Kzm9puAIUznTd5e"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "She A City Girl",
+      "url": "https://open.spotify.com/track/1lWhSpYcuXsmBwg4Z0MgDb"
+    },
+    {
+      "album": {
         "name": "She Drives Me Crazy",
         "url": "https://open.spotify.com/album/2Ca28DdAUWugKuSklGjY20"
       },
@@ -63018,6 +63182,24 @@
       "duration_ms": 219948,
       "name": "She's Got The Moves",
       "url": "https://open.spotify.com/track/3mNzr2JxuRD1ELCGyCgALv"
+    },
+    {
+      "album": {
+        "name": "Sheesh (Radio Edit)",
+        "url": "https://open.spotify.com/album/38ihYW9v5OdKNpeQUDgkZT"
+      },
+      "artists": [
+        {
+          "name": "Adam Ford",
+          "url": "https://open.spotify.com/artist/7ynSCUXRlL5Wq7lED2D19n"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Sheesh - Radio Edit",
+      "url": "https://open.spotify.com/track/3UayrrhZabQopysb16raI8"
     },
     {
       "album": {

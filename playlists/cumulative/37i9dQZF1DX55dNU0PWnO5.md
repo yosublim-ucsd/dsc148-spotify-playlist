@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-424 songs - 1 day 1 hr 33 min
+425 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Buckle Up](https://open.spotify.com/track/6B1TQPyyswTiskhWurN1Rs) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Soweto Kinch](https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk) | [Buckle Up](https://open.spotify.com/album/4mBCq5MffoxUYKJFx4aU1U) | 5:02 | 2021-01-29 | 2022-03-26 |
 | [Builder](https://open.spotify.com/track/10227FHuo66ztQWglQEGTp) | [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Builder](https://open.spotify.com/album/2I39kyieeQPEshJZmxMdmh) | 2:31 | 2023-12-08 |  |
 | [By Your Side](https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0) | [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [By Your Side](https://open.spotify.com/album/2EBRJxHs4JLRM2iWovRTmX) | 2:50 | 2022-07-05 |  |
-| [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 | 2022-02-11 |  |
+| [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 | 2022-02-11 | 2025-01-04 |
 | [CANDLELIGHT](https://open.spotify.com/track/6IPuOgW2UAKFc7YCKrSjER) | [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [CANDLELIGHT](https://open.spotify.com/album/4oWfpdMUmJJ0DKe8qiP9uC) | 7:03 | 2021-08-20 |  |
 | [Carla Croix](https://open.spotify.com/track/3ycQmciE5erUchLQUpWQDt) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ), [Sam.ro.chelle](https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw) | [Carla Croix](https://open.spotify.com/album/6bqh0GMIA3oGMedMXPnAE7) | 3:28 | 2024-01-19 |  |
 | [Carlyle Clyde](https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Mind Racing](https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR) | 5:47 | 2022-08-26 |  |
@@ -126,6 +126,7 @@
 | [dshirtcannon](https://open.spotify.com/track/1LQH51LwNdTa6LOWDnKbNE) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng) | [dshirtcannon](https://open.spotify.com/album/0YzCRSXSTiTWqt2utdYk2R) | 2:46 | 2022-09-23 | 2022-11-02 |
 | [Dust](https://open.spotify.com/track/5XtMBGpr7LFDaNAgaLjYJZ) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dust](https://open.spotify.com/album/5luYEHn75FMUQUMUzqZnd5) | 2:59 | 2024-01-12 | 2024-02-10 |
 | [DustyRhodes](https://open.spotify.com/track/0p86NW8fZx444PaWFtFiQz) | [Robot Orchestra](https://open.spotify.com/artist/69CjG40nknFw4W8vrmdgHV) | [Beats on Road Vol\. 1](https://open.spotify.com/album/3NDzzMLYecGbgFY4TRRgBX) | 2:51 | 2021-01-29 | 2022-02-27 |
+| [Earth Showers](https://open.spotify.com/track/7xxD9V5MQ7O9zQzMfqhJ32) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Earth Showers](https://open.spotify.com/album/62FXIvjLMGISBVZmxcFc4P) | 2:15 | 2025-01-03 |  |
 | [Earthbound](https://open.spotify.com/track/7BxU2TjXBu8vsj8b65pZOx) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [9](https://open.spotify.com/album/0tFXAGYveNW9bQYRBXOwKO) | 6:49 | 2022-03-25 |  |
 | [Eating Stars](https://open.spotify.com/track/7euExgLs6Biwgay4LgXmAd) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Eating Stars](https://open.spotify.com/album/4HWYpLapCz4IrxJqq3wvgW) | 2:55 | 2024-09-20 |  |
 | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/track/6NEr5gRrW3lD2o5Oi1yigG) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1), [Elia Bishara](https://open.spotify.com/artist/3xZoTrvQZKGDJERzVcjW5q) | [EAV \(Elia Bishara Remix\)](https://open.spotify.com/album/5eG9SYzeKrnU0TjwGMQgcR) | 3:14 | 2021-08-06 |  |

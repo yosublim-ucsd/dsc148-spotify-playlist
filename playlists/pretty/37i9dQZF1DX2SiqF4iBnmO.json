@@ -1,6 +1,6 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 132941,
+  "num_followers": 133021,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,18 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "...But Seriously (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
+        "name": "The Good Times",
+        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Afroman",
+          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
         }
       ],
-      "duration_ms": 275986,
-      "name": "Do You Remember? - 2016 Remaster",
-      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
+      "duration_ms": 197760,
+      "name": "Because I Got High",
+      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "The Good Times",
-        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
+        "name": "...But Seriously (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8"
       },
       "artists": [
         {
-          "name": "Afroman",
-          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 197760,
-      "name": "Because I Got High",
-      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
+      "duration_ms": 275986,
+      "name": "Do You Remember? - 2016 Remaster",
+      "url": "https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Sweet And Short",
-        "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        },
-        {
-          "name": "DJ Sumbody",
-          "url": "https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "Remote Control",
-      "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/3l5ahNH1dS4casarZMH3GR"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 212586,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/5ZlGmiT0YSMUrHP6P7rEVB"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Sweet And Short",
+        "url": "https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "DJ Sumbody",
+          "url": "https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U"
     },
     {
       "added_at": "2024-07-10 08:31:19",

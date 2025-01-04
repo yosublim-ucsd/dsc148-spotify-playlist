@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. ERRE en portada. ",
-  "num_followers": 1022,
+  "num_followers": 1023,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-10-10 16:11:08",
       "album": {
-        "name": "Noche Y Dia",
-        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 152601,
-      "name": "Noche Y Dia",
-      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
-    },
-    {
-      "added_at": "2024-10-10 16:11:08",
-      "album": {
         "name": "cuida",
         "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 166866,
       "name": "cuida",
       "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
+    },
+    {
+      "added_at": "2024-10-10 16:11:08",
+      "album": {
+        "name": "Noche Y Dia",
+        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 152601,
+      "name": "Noche Y Dia",
+      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
     },
     {
       "added_at": "2024-10-10 16:11:08",

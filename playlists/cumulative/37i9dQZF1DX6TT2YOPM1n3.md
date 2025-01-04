@@ -4,7 +4,7 @@
 
 > Home to Pakistani Hits\. Cover: Bayaan
 
-198 songs - 13 hr 36 min
+199 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Pardesi](https://open.spotify.com/track/6Cc4aWnRuCBUWK320qu21z) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Pardesi](https://open.spotify.com/album/4pa9j1sjBWANSmeRGrO1qS) | 3:54 | 2023-06-20 | 2023-06-27 |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2023-05-04 | 2024-12-20 |
 | [Peechay Hutt](https://open.spotify.com/track/6ePcfMCQ7uUKwAamUiVtXL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Peechay Hutt](https://open.spotify.com/album/3rkEv4z7rgqYXgP0aLsBm0) | 3:45 | 2023-05-04 | 2023-12-22 |
+| [Peeran](https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Peeran](https://open.spotify.com/album/6IcfYrEbYRXh4ojDNc6O0L) | 4:14 | 2025-01-03 |  |
 | [Pehli Dafa](https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Pehli Dafa](https://open.spotify.com/album/5pAPEuGi48iywzO2NT5Ddt) | 4:58 | 2023-12-21 |  |
 | [Pehli Nazar Mein](https://open.spotify.com/track/17opN752ZQpNuoptelsNQ1) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Race \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZA52EwvGmwTQvHaLujhry) | 5:12 | 2023-05-04 | 2023-06-13 |
 | [Phir Milenge](https://open.spotify.com/track/3yBbbbZNbo4ymn99Y2zoCj) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR), [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC) | [Phir Milenge](https://open.spotify.com/album/0X4pR3UTMp4MRiGWuHrvtv) | 5:51 | 2023-11-29 | 2023-12-22 |

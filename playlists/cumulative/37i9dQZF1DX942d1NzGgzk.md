@@ -4,7 +4,7 @@
 
 > 100% British \- 100% R&B\. Cover: Dayo Bello
 
-345 songs - 17 hr 59 min
+346 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-15 | 2024-09-13 |
 | [long stay \(feat\. Bakar\)](https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:35 | 2023-07-21 | 2024-08-06 |
 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 | 2024-06-14 |  |
+| [Lost Myself \(23\)](https://open.spotify.com/track/7E3Sty398iN8VTg8EEGf17) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Emotional Gangster](https://open.spotify.com/album/78yO2AOVjrtvfFf8dvHrGE) | 4:01 | 2024-12-20 |  |
 | [Love is Dumb](https://open.spotify.com/track/2Tn4scYjomvUsu816idWe6) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq) | [DEAD ENDS AND DIVERSIONS](https://open.spotify.com/album/0IfdqTtCqqwBmrzriRFYiQ) | 3:32 | 2024-09-20 | 2024-09-23 |
 | [LOVE ME](https://open.spotify.com/track/43h59Oj9bIoAEf0cY2EMx0) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:48 | 2024-10-03 | 2024-12-31 |
 | [LYTM](https://open.spotify.com/track/5uV05m9GmsbSyUinuiV1Z3) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:29 | 2024-10-03 |  |
@@ -288,7 +289,7 @@
 | [Stay](https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Stay](https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB) | 3:05 | 2024-04-26 |  |
 | [Still Broke \(feat\. Keyon Harrold\)](https://open.spotify.com/track/6jeP9JMozdxrVzvVXp6FKj) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:25 | 2022-07-17 | 2023-05-15 |
 | [Stolen](https://open.spotify.com/track/0btt9Gjani8H6MnUAMtEsm) | [Collard](https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH), [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Stolen](https://open.spotify.com/album/2sVtn85VLn8JhH9Lsw4QWD) | 4:20 | 2023-11-17 | 2024-01-26 |
-| [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 | 2024-08-06 |  |
+| [Stone \(feat\. Bakar\)](https://open.spotify.com/track/75L5a5FbDcSKOZMwTNrZW6) | [Lilah Pi](https://open.spotify.com/artist/3qVWjgrCJKbbtPwfpnmwKo), [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Stone \(feat\. Bakar\)](https://open.spotify.com/album/6vIEgwWLHseO0HD5OwmbDQ) | 3:20 | 2024-08-06 | 2025-01-04 |
 | [Strange How Good Things Change](https://open.spotify.com/track/0zS1iD37gmxzffMH11vqf7) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB) | [Strange How Good Things Change](https://open.spotify.com/album/431GIE38nppu1zGX5EXJUj) | 3:21 | 2022-07-17 | 2023-05-23 |
 | [Strawberry Skies](https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Strawberry Skies](https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09) | 3:06 | 2023-07-21 | 2023-09-15 |
 | [Stupid People](https://open.spotify.com/track/5g80aGSWaxJJk9DhAQvthJ) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Stupid People](https://open.spotify.com/album/4wb5WR7sbsDkDJ8hlefgGG) | 3:09 | 2022-07-17 | 2023-01-11 |

@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers",
-  "num_followers": 468572,
+  "num_followers": 468583,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Beg For More",
-        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
-      },
-      "artists": [
-        {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Beg For More",
-      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 135541,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Beg For More",
+        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Beg For More",
+      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 164773,
       "name": "Isaac Is Typing\u2026",
       "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Waiting Room",
-        "url": "https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 194833,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 172687,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Waiting Room",
+        "url": "https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 194833,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "duration_ms": 145973,
+      "name": "International Hide and Seek Champions",
+      "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Undefeated",
-        "url": "https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9"
-      },
-      "artists": [
-        {
-          "name": "Frank Turner",
-          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
-        }
-      ],
-      "duration_ms": 145973,
-      "name": "International Hide and Seek Champions",
-      "url": "https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "3 DAY HEADACHE",
         "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "GET A JOB!",
-        "url": "https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 154564,
-      "name": "GET A JOB!",
-      "url": "https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "No Backbone",
         "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 137076,
       "name": "No Backbone",
       "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "GET A JOB!",
+        "url": "https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 154564,
+      "name": "GET A JOB!",
+      "url": "https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
     },
     {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "The Twits",
-        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 174521,
-      "name": "worlds greatest emoter",
-      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
-    },
-    {
       "added_at": "2024-11-15 10:05:02",
       "album": {
         "name": "Sentiment Valley",
@@ -1271,6 +1255,22 @@
       "duration_ms": 186795,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "The Twits",
+        "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 174521,
+      "name": "worlds greatest emoter",
+      "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
     },
     {
       "added_at": "2024-10-10 17:06:38",

@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-723 songs - 1 day 12 hr 3 min
+724 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Hanging On](https://open.spotify.com/track/4Bk9XgBiO13Ba3mRjXBq0Z) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [The Silence in Between](https://open.spotify.com/album/0qC7OBo3dCONK0fgHbySdU) | 3:55 | 2022-03-25 | 2022-04-18 |
 | [Happy Hour](https://open.spotify.com/track/6OFxiLfnMwOodCdV7x2yXC) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Expensive Sounds For Nice People](https://open.spotify.com/album/35yhWb1e6S2W3q9S5y0dQZ) | 2:48 | 2021-12-17 | 2022-02-12 |
 | [Harder \(feat\. MKLA\)](https://open.spotify.com/track/5ZQ0zCWgF03SBcVxkYFzb2) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Harder \(feat\. MKLA\)](https://open.spotify.com/album/3pMj69m6cyBhZnAQkcsADn) | 2:51 | 2022-03-25 | 2022-04-18 |
-| [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-11-10 |  |
+| [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 | 2023-11-10 | 2025-01-04 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ) | 2:46 | 2021-12-17 | 2022-03-19 |
 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 | 2022-03-25 | 2023-03-11 |
 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 | 2021-12-17 | 2023-07-30 |
@@ -577,6 +577,7 @@
 | [Some Say \- Felix Jaehn Remix](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Some Say \(Felix Jaehn Remix\)](https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr) | 3:06 | 2021-12-31 | 2022-04-20 |
 | [Somebody Like You](https://open.spotify.com/track/3d5sy82qemYO5B5TljeoBs) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:28 | 2021-12-17 | 2022-06-11 |
 | [Somebody To Use](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Somebody To Use](https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo) | 2:34 | 2021-12-17 | 2022-01-01 |
+| [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 | 2025-01-03 |  |
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-15 | 2024-04-19 |
 | [Something Strange](https://open.spotify.com/track/2YNVpj4AfBb3HN1QTqEcVB) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Something Strange](https://open.spotify.com/album/69PiWD9iYJa6pK8qMt44CF) | 3:09 | 2022-04-01 | 2022-04-17 |
 | [Something’s Coming](https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [One Night in Nashville](https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep) | 2:53 | 2023-02-03 | 2023-03-02 |

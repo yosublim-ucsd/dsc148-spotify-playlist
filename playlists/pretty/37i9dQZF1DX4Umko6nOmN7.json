@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 620774,
+  "num_followers": 620766,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "The Parting Glass",
         "url": "https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 251000,
       "name": "The Parting Glass",
       "url": "https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "TRUSTFALL (Tour Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "All Out Of Fight",
-      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/79y56tQjNRUextz6CReVXg"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 210070,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "the rest",
         "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 168263,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/79y56tQjNRUextz6CReVXg"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 210070,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/1SyR4ORpw6aRFDp1he87T2"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 161437,
-      "name": "December",
-      "url": "https://open.spotify.com/track/0kKvbqHRVym1ht7016wFK3"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Hard To Be Human",
         "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Wish (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+        "name": "December",
+        "url": "https://open.spotify.com/album/1SyR4ORpw6aRFDp1he87T2"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
         }
       ],
-      "duration_ms": 173306,
-      "name": "A Wish Worth Making",
-      "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
+      "duration_ms": 161437,
+      "name": "December",
+      "url": "https://open.spotify.com/track/0kKvbqHRVym1ht7016wFK3"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 149996,
       "name": "Kite - Acoustic",
       "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "A Wish Worth Making",
+      "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "And The Story Goes",
+        "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 275326,
+      "name": "H\u00e4nderna Mot Himlen - Acoustic",
+      "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
@@ -1527,22 +1547,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "And The Story Goes",
-        "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
+        "name": "Superlativ 97",
+        "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
       },
       "artists": [
         {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        },
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 275326,
-      "name": "H\u00e4nderna Mot Himlen - Acoustic",
-      "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
+      "duration_ms": 186586,
+      "name": "Dina l\u00e4ppar",
+      "url": "https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 181000,
       "name": "f\u00f6r oss",
       "url": "https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Superlativ 97",
-        "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Dina l\u00e4ppar",
-      "url": "https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Oh love",
-        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
-      },
-      "artists": [
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
-        }
-      ],
-      "duration_ms": 256047,
-      "name": "Oh love",
-      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Penny (Akustisk)",
         "url": "https://open.spotify.com/album/20vhMkNyxzPhctrCYeMGzE"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "\u00c4nnu mer",
-        "url": "https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O"
+        "name": "Oh love",
+        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
       },
       "artists": [
         {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
         }
       ],
-      "duration_ms": 184482,
-      "name": "\u00c4nnu mer",
-      "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
+      "duration_ms": 256047,
+      "name": "Oh love",
+      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1675,6 +1659,22 @@
       "duration_ms": 159226,
       "name": "We Were in Love",
       "url": "https://open.spotify.com/track/4SMtpUBSxWUHshY4KTs2ck"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "L\u00e5ngsamt (Piano Version)",
+        "url": "https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "L\u00e5ngsamt - Piano Version",
+      "url": "https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

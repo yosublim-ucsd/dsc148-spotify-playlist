@@ -1,12 +1,12 @@
 {
   "description": "The best new music every Friday. Cover: Tom Misch",
-  "num_followers": 1285375,
+  "num_followers": 1285721,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z240eAAAAAAn+WXtC7Cmcq5RKnKGE31L",
+  "snapshot_id": "Z3du4QAAAACqp0YqZ3PR2Yp39L0uJXu0",
   "tracks": [
     {
       "added_at": "2024-12-23 16:37:29",
@@ -23,22 +23,6 @@
       "duration_ms": 178932,
       "name": "Drama",
       "url": "https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Six Songs",
-        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -59,6 +43,154 @@
       "duration_ms": 264566,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n"
+    },
+    {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 133003,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
+    },
+    {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "Shandy in the Graveyard",
+        "url": "https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        }
+      ],
+      "duration_ms": 177708,
+      "name": "Shandy in the Graveyard",
+      "url": "https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ"
+    },
+    {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 220183,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
+    },
+    {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1"
+    },
+    {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "JRJRJR",
+        "url": "https://open.spotify.com/album/1rknl8JliYRRZJjs6yhsDF"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 268803,
+      "name": "JRJRJR",
+      "url": "https://open.spotify.com/track/1mW9XrT9XdnsDPuthSgusZ"
+    },
+    {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "i just want next year to be better",
+        "url": "https://open.spotify.com/album/0kRjwojrO13TouynamNnac"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 195518,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/1hwjsnf6pG8q20oLH5ihSI"
+    },
+    {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "Still Young",
+        "url": "https://open.spotify.com/album/6rrFkvxymdBSoeJZsYfLcg"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 191551,
+      "name": "Still Young",
+      "url": "https://open.spotify.com/track/7fezOJX0vwzGYoUvdbBVLn"
+    },
+    {
+      "added_at": "2024-12-20 05:00:36",
+      "album": {
+        "name": "Six Songs",
+        "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
+    },
+    {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "soft light",
+        "url": "https://open.spotify.com/album/5yRJS7SXnpMUjoysxWII4x"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "duration_ms": 155387,
+      "name": "soft light",
+      "url": "https://open.spotify.com/track/2BgBE2sl7r2vcLeC6vxCfl"
     },
     {
       "added_at": "2024-12-27 05:00:40",
@@ -93,6 +225,22 @@
       "url": "https://open.spotify.com/track/1dnmBmlyBF1v7UYlAgJWEp"
     },
     {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK"
+    },
+    {
       "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Body Moves",
@@ -109,6 +257,22 @@
       "url": "https://open.spotify.com/track/22W7cxdI8GqHLZflKp0HQp"
     },
     {
+      "added_at": "2025-01-03 05:00:17",
+      "album": {
+        "name": "Not Falling In Love Tonight",
+        "url": "https://open.spotify.com/album/089sbXLyJF1aGY6Zd9Uf5v"
+      },
+      "artists": [
+        {
+          "name": "Coyote Theory",
+          "url": "https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn"
+        }
+      ],
+      "duration_ms": 250383,
+      "name": "Not Falling In Love Tonight",
+      "url": "https://open.spotify.com/track/3qTGbpFvScfyPA17YMbtBh"
+    },
+    {
       "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Earth Mama (Original Soundtrack)",
@@ -123,6 +287,22 @@
       "duration_ms": 315914,
       "name": "I'll Always Be",
       "url": "https://open.spotify.com/track/3noZQ8g6LMYN7pBsFSzHKy"
+    },
+    {
+      "added_at": "2024-12-20 21:01:27",
+      "album": {
+        "name": "Pray for Me",
+        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 434758,
+      "name": "Pray for Me",
+      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
     },
     {
       "added_at": "2024-12-20 05:00:36",
@@ -227,22 +407,6 @@
       "duration_ms": 245101,
       "name": "Happy",
       "url": "https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD"
-    },
-    {
-      "added_at": "2024-12-20 21:01:27",
-      "album": {
-        "name": "Pray for Me",
-        "url": "https://open.spotify.com/album/7xHpIKl1QLALz0i8vE66uR"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 434758,
-      "name": "Pray for Me",
-      "url": "https://open.spotify.com/track/1S6gu4i6gcetXwUxoaVp7p"
     },
     {
       "added_at": "2024-12-20 05:00:36",
@@ -2591,38 +2755,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "The Jester",
-        "url": "https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 226770,
-      "name": "Flash In The Pan",
-      "url": "https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Marietta",
-        "url": "https://open.spotify.com/album/4fUn2vlTjbsJ4SGdTaQYYh"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 147938,
-      "name": "Dad's 4Runner",
-      "url": "https://open.spotify.com/track/0gjf55z02NUzGV3SzDokTn"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
       },
@@ -2719,146 +2851,6 @@
       "duration_ms": 147280,
       "name": "To trust you",
       "url": "https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv"
-    },
-    {
-      "added_at": "2024-11-15 20:36:44",
-      "album": {
-        "name": "Ensatina",
-        "url": "https://open.spotify.com/album/2EvxK6NN9lsxwUL2GoM1ez"
-      },
-      "artists": [
-        {
-          "name": "Homer",
-          "url": "https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb"
-        },
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 209877,
-      "name": "Forever and Ever and Ever and Ever",
-      "url": "https://open.spotify.com/track/74RK4QDxJXDUqkAH2ts9bf"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 208654,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/3bT5QXdb2v749mHriSXs7g"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/2tN9oaZZPlCcJRnchNBqdf"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Like The End",
-        "url": "https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 319561,
-      "name": "Like The End",
-      "url": "https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 239769,
-      "name": "Love at First Sight - Spotify Singles",
-      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Found You Again",
-        "url": "https://open.spotify.com/album/1frGfIwa0RGCzgkOeqXukj"
-      },
-      "artists": [
-        {
-          "name": "fantasy of a broken heart",
-          "url": "https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Found You Again",
-      "url": "https://open.spotify.com/track/3lMLS8UAUrT2PiMqrL0qGR"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "My Favorite Drug",
-        "url": "https://open.spotify.com/album/2bwXf8iGZAzb1NmFr2F6tK"
-      },
-      "artists": [
-        {
-          "name": "Vlad Holiday",
-          "url": "https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Long Long Gone",
-      "url": "https://open.spotify.com/track/6GtcN88MYxVK2IBKgSL5LC"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Spark (feat. yun\u00e8 pinku)",
-        "url": "https://open.spotify.com/album/6CwKC0ah5gXomOFlfDwSK2"
-      },
-      "artists": [
-        {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
-        },
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 194117,
-      "name": "Spark (feat. yun\u00e8 pinku)",
-      "url": "https://open.spotify.com/track/35YrJW6b48c7KIZltQGVk0"
     }
   ],
   "unique_name": "All New Indie",

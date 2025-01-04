@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 36236,
+  "num_followers": 36246,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAAD97yeBdNWaXq+K0PI/SU1v",
+  "snapshot_id": "Z3XXAAAAAABSTpLtfikiZZqocqgLtZ0W",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
-          "name": "BILL SCHNEE",
-          "url": "https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Stay with Me",
-      "url": "https://open.spotify.com/track/7xpbm90BavlclOx7AiCprp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teddy (Expanded Edition)",
         "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 267173,
       "name": "The Whole Town's Laughing at Me",
       "url": "https://open.spotify.com/track/2LXiYNPKSYtppqaH1JBob3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "BILL SCHNEE",
+          "url": "https://open.spotify.com/artist/2DTaaPWVlfdDlB8NvpAajq"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/7xpbm90BavlclOx7AiCprp"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe In Love",
         "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 258680,
       "name": "Believe In Love - Phat Phili Mix",
       "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 292560,
-      "name": "Easy, Easy, Got To Take It Easy",
-      "url": "https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 292560,
+      "name": "Easy, Easy, Got To Take It Easy",
+      "url": "https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 326853,
       "name": "It's All Because of a Woman (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0xhrVgS6P9jXvi38FiTWFq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "You Can't Hide from Yourself",
-      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
     },
     {
       "added_at": null,

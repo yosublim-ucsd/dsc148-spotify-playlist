@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 91664,
+  "num_followers": 91674,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Soak It Up",
+        "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+        },
+        {
+          "name": "Bob the Drag Queen",
+          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
+        }
+      ],
+      "duration_ms": 256298,
+      "name": "Soak It Up (Remix)",
+      "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
         "url": "https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 248973,
       "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
       "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Soak It Up",
-        "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
-        },
-        {
-          "name": "Bob the Drag Queen",
-          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
-        }
-      ],
-      "duration_ms": 256298,
-      "name": "Soak It Up (Remix)",
-      "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
     },
     {
       "added_at": "2024-05-31 17:55:47",

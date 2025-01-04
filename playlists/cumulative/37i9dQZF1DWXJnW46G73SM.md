@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي جمال
 
-1,294 songs - 3 day 0 hr 5 min
+1,295 songs - 3 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [BALALA](https://open.spotify.com/track/1NJeSBBghUyNjT1ehBWJTe) | [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7), [Mared](https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV) | [BALALA](https://open.spotify.com/album/3SJe8YpLuzHOPCkWXYmWS9) | 1:52 | 2023-12-07 | 2024-01-19 |
 | [BALALEEN](https://open.spotify.com/track/1K6ekZzDLpket1RXwLb7t4) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [shendy](https://open.spotify.com/artist/7ANuJkzC0NE6lAK5itx0Dx) | [Balaleen](https://open.spotify.com/album/37UynY0uK4f0M9tRKcfubi) | 2:48 | 2022-06-02 | 2022-08-24 |
 | [Balbata](https://open.spotify.com/track/5NHOHEmOIGysPGy895thVt) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Balbata](https://open.spotify.com/album/6peahsqt5fShCKRvSqm6U7) | 2:46 | 2023-06-29 | 2023-08-02 |
+| [Ballerina](https://open.spotify.com/track/78fs5ektDphjXmEjZy99Do) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [Ballerina](https://open.spotify.com/album/4RsqLNot8uxTQGH0FBoQTZ) | 3:08 | 2025-01-02 |  |
 | [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 | 2022-06-29 |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 | 2022-08-24 |
 | [Baseeta](https://open.spotify.com/track/0SL61SAE5LKt2ktmG3tdWA) | [Samo Zaen](https://open.spotify.com/artist/4s7xsFTPsZZcIzKv0Ryg22) | [Baseeta](https://open.spotify.com/album/0BNmZqLzCnwrmi44w72Hqd) | 3:08 | 2022-02-24 | 2022-06-07 |

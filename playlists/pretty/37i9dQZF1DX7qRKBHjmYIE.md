@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Cardellino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,328 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,314 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 45 | [Pienso En Vos](https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Pienso En Vos](https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX) | 2:26 |
 | 46 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
 | 47 | [Solo](https://open.spotify.com/track/2Lj4dI2K20wDCkuDhr9wIh) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Solo](https://open.spotify.com/album/3WMdbObO7i6o0FlLt3oMqn) | 3:21 |
-| 48 | [MUY FINITO](https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [MUY FINITO](https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj) | 2:45 |
-| 49 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
+| 48 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 |
+| 49 | [MUY FINITO](https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [MUY FINITO](https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj) | 2:45 |
 | 50 | [CONFÍO](https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [CONFÍO](https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp) | 2:59 |
 | 51 | [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 |
 | 52 | [OBSSD](https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [OBSSD](https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy) | 2:40 |

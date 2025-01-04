@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 32468,
+  "num_followers": 32474,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -255,18 +255,26 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+        "name": "La Diabla (lofi edit)",
+        "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "The Remix Station",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+        },
+        {
+          "name": "LatinoFi",
+          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
+        },
+        {
+          "name": "lofi.remixes",
+          "url": "https://open.spotify.com/artist/1p1HSX8hrWa7vUAhKW76W0"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+      "duration_ms": 98630,
+      "name": "La Diabla - lofi edit",
+      "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -303,26 +311,18 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "La Diabla (lofi edit)",
-        "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
       },
       "artists": [
         {
-          "name": "The Remix Station",
-          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
-        },
-        {
-          "name": "LatinoFi",
-          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
-        },
-        {
-          "name": "lofi.remixes",
-          "url": "https://open.spotify.com/artist/1p1HSX8hrWa7vUAhKW76W0"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 98630,
-      "name": "La Diabla - lofi edit",
-      "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "LOFI CHRISTMAS VI",
-        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
-      },
-      "artists": [
-        {
-          "name": "Akira The Don",
-          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "THE CHRISTMAS SONG LOFI",
-      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "Good things take time",
         "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 99428,
       "name": "Good things take time",
       "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "LOFI CHRISTMAS VI",
+        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
+      },
+      "artists": [
+        {
+          "name": "Akira The Don",
+          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "THE CHRISTMAS SONG LOFI",
+      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "Caviar taco",
         "url": "https://open.spotify.com/album/7mznARvXF4h8chwDkA6uts"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 134794,
       "name": "Caviar taco",
       "url": "https://open.spotify.com/track/7bDQVlFhmCYo7qunQzG7nI"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/10LXAGvBjlrqePC37zQ3kc"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 157735,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/5FT43yC4o55EyXvxLP7hGj"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "Saguaro",
         "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "como los ni\u00f1os",
-        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/10LXAGvBjlrqePC37zQ3kc"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
         }
       ],
-      "duration_ms": 150956,
-      "name": "como los ni\u00f1os",
-      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
+      "duration_ms": 157735,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5FT43yC4o55EyXvxLP7hGj"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -671,22 +655,6 @@
       "duration_ms": 97931,
       "name": "Ay Cabr\u00f3n",
       "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "azalea",
-        "url": "https://open.spotify.com/album/4WgN0vxLs4IGLx70wggG9X"
-      },
-      "artists": [
-        {
-          "name": "tres islas",
-          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "azalea",
-      "url": "https://open.spotify.com/track/3U2KW4N2oeEewEXKWobekS"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -711,6 +679,38 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "La Villa",
+        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 144363,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "como los ni\u00f1os",
+        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 150956,
+      "name": "como los ni\u00f1os",
+      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "Abr\u00e1zame mucho estos d\u00edas",
         "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
       },
@@ -727,34 +727,18 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
+        "name": "azalea",
+        "url": "https://open.spotify.com/album/4WgN0vxLs4IGLx70wggG9X"
       },
       "artists": [
         {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+          "name": "tres islas",
+          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "La Villa",
-        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 144363,
-      "name": "La Villa",
-      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
+      "duration_ms": 240000,
+      "name": "azalea",
+      "url": "https://open.spotify.com/track/3U2KW4N2oeEewEXKWobekS"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -775,6 +759,38 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "duration_ms": 141742,
+      "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+      "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 121258,
       "name": "Flores",
       "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "jazz y cdmx",
-        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        }
-      ],
-      "duration_ms": 121213,
-      "name": "jazz y cdmx",
-      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "Nostalgia en Ruta",
+        "url": "https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 115052,
+      "name": "Nostalgia en Ruta",
+      "url": "https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
       },
@@ -871,6 +887,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "jazz y cdmx",
+        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "duration_ms": 121213,
+      "name": "jazz y cdmx",
+      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
       },
@@ -891,22 +923,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        }
-      ],
-      "duration_ms": 141742,
-      "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-      "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 179000,
       "name": "22 Hrs.",
       "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "Nostalgia en Ruta",
-        "url": "https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 115052,
-      "name": "Nostalgia en Ruta",
-      "url": "https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "Coctel de Camaron",
         "url": "https://open.spotify.com/album/5hp6kiu1ZtOVboYVKQYHj8"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
       },
       "artists": [
         {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
         "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
       },
@@ -1043,6 +1043,26 @@
       "duration_ms": 154500,
       "name": "Michoacansiedad",
       "url": "https://open.spotify.com/track/0hiVmFhNCdxkF3mGF8bHpL"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 89044,
+      "name": "Lofi Recuerdame",
+      "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1067,38 +1087,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "El Tambor",
-        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
-      },
-      "artists": [
-        {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        }
-      ],
-      "duration_ms": 106357,
-      "name": "El Tambor",
-      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "un cigarro, una coca y tus recuerdos",
-        "url": "https://open.spotify.com/album/1YefrZBuO9zUwacRMBcn4i"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 103179,
-      "name": "un cigarro, una coca y tus recuerdos",
-      "url": "https://open.spotify.com/track/6v8R326HXWLxOh6kzdW7jq"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "woozy",
         "url": "https://open.spotify.com/album/76lS2gqtVbaRUMedAAzKN1"
       },
@@ -1115,6 +1103,22 @@
       "duration_ms": 77846,
       "name": "woozy",
       "url": "https://open.spotify.com/track/0Cb6pz4XaDphvSDpJXHNWI"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "El Tambor",
+        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        }
+      ],
+      "duration_ms": 106357,
+      "name": "El Tambor",
+      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1231,6 +1235,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "alone alone",
+        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
+      },
+      "artists": [
+        {
+          "name": "Thragg",
+          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
+        }
+      ],
+      "duration_ms": 90933,
+      "name": "alone alone",
+      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "loops",
         "url": "https://open.spotify.com/album/2Uvp5ZnXyGccIYToYWZFw9"
       },
@@ -1251,18 +1271,18 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "alone alone",
-        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
+        "name": "Dreaming of summer",
+        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
       },
       "artists": [
         {
-          "name": "Thragg",
-          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 90933,
-      "name": "alone alone",
-      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
+      "duration_ms": 95040,
+      "name": "Dreaming of summer",
+      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1279,22 +1299,6 @@
       "duration_ms": 164117,
       "name": "Canci\u00f3n en Forma de Elefante",
       "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "Dreaming of summer",
-        "url": "https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0"
-      },
-      "artists": [
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
-        }
-      ],
-      "duration_ms": 95040,
-      "name": "Dreaming of summer",
-      "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1323,22 +1327,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Soulmate",
-        "url": "https://open.spotify.com/album/3b3ooSI0DHq4cf3kaeLlLB"
-      },
-      "artists": [
-        {
-          "name": "ELEWAKA",
-          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/4hXemqmQ2ng8VJcU8e3CIj"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "Lluvia de Oro",
         "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
       },
@@ -1363,22 +1351,18 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "van life",
-        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/3b3ooSI0DHq4cf3kaeLlLB"
       },
       "artists": [
         {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+          "name": "ELEWAKA",
+          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
         }
       ],
-      "duration_ms": 135714,
-      "name": "van life",
-      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
+      "duration_ms": 162857,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/4hXemqmQ2ng8VJcU8e3CIj"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1399,54 +1383,54 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Just A Cool Day",
-        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
+        "name": "iced coffee",
+        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 115500,
-      "name": "Just A Cool Day",
-      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
+      "duration_ms": 116824,
+      "name": "iced coffee",
+      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
     },
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Pepe's Tacos",
-        "url": "https://open.spotify.com/album/4XKjJzpTibGI3SybkSOO4k"
+        "name": "van life",
+        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
       },
       "artists": [
         {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
         },
         {
-          "name": "Suerte Lo-Fi",
-          "url": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Pepe's Tacos",
-      "url": "https://open.spotify.com/track/2raVbTBg7w2uXn4nhpmE00"
+      "duration_ms": 135714,
+      "name": "van life",
+      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
     },
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "find me",
-        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
       },
       "artists": [
         {
-          "name": "Shy Guy",
-          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
+          "name": "Muerto A Puntapi\u00e9s",
+          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
         }
       ],
-      "duration_ms": 128118,
-      "name": "find me",
-      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
+      "duration_ms": 118166,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1467,34 +1451,34 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "iced coffee",
-        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
+        "name": "Just A Cool Day",
+        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
       },
       "artists": [
         {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 116824,
-      "name": "iced coffee",
-      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
+      "duration_ms": 115500,
+      "name": "Just A Cool Day",
+      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
     },
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Call me",
-        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+        "name": "find me",
+        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
       },
       "artists": [
         {
-          "name": "Muerto A Puntapi\u00e9s",
-          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
         }
       ],
-      "duration_ms": 118166,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+      "duration_ms": 128118,
+      "name": "find me",
+      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1543,6 +1527,42 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "Pepe's Tacos",
+        "url": "https://open.spotify.com/album/4XKjJzpTibGI3SybkSOO4k"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        },
+        {
+          "name": "Suerte Lo-Fi",
+          "url": "https://open.spotify.com/artist/2XZY2dx8EPrdxOXfNj1tfX"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Pepe's Tacos",
+      "url": "https://open.spotify.com/track/2raVbTBg7w2uXn4nhpmE00"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
+      },
+      "artists": [
+        {
+          "name": "slider beats",
+          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "making out",
         "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
       },
@@ -1575,22 +1595,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
-      },
-      "artists": [
-        {
-          "name": "slider beats",
-          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "Bluewerks Vol 13: Midnight Melodies",
         "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
       },
@@ -1607,22 +1611,6 @@
       "duration_ms": 153658,
       "name": "Looking for the Stars",
       "url": "https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "To My Past Self",
-        "url": "https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8"
-      },
-      "artists": [
-        {
-          "name": "Donovan's Playground",
-          "url": "https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ"
-        }
-      ],
-      "duration_ms": 111303,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1647,6 +1635,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "To My Past Self",
+        "url": "https://open.spotify.com/album/79uB85KjOZFusOJhjHRvb8"
+      },
+      "artists": [
+        {
+          "name": "Donovan's Playground",
+          "url": "https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ"
+        }
+      ],
+      "duration_ms": 111303,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/4OVsPzhFDQExjFCc0UneHt"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "Dusk Jazz Delight",
         "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
       },
@@ -1663,22 +1667,18 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "bumpz",
-        "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
+        "name": "Llamar La Atenci\u00f3n",
+        "url": "https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg"
       },
       "artists": [
         {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 121734,
-      "name": "bumpz",
-      "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
+      "duration_ms": 141813,
+      "name": "Llamar La Atenci\u00f3n",
+      "url": "https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Llamar La Atenci\u00f3n",
-        "url": "https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg"
+        "name": "bumpz",
+        "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
         }
       ],
-      "duration_ms": 141813,
-      "name": "Llamar La Atenci\u00f3n",
-      "url": "https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc"
+      "duration_ms": 121734,
+      "name": "bumpz",
+      "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1787,22 +1791,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "The Sparkle",
-        "url": "https://open.spotify.com/album/6UtFReEMBvLfWl60ypdETH"
+        "name": "Sleepy Suburbs",
+        "url": "https://open.spotify.com/album/7aRJBLnUsOAc7Gzaz9e3TV"
       },
       "artists": [
         {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+          "name": "Dormilon",
+          "url": "https://open.spotify.com/artist/5h6fEVz6nTxEzv5JXJKa1P"
         },
         {
-          "name": "Ajvsco",
-          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
+          "name": "J. Lorenzo",
+          "url": "https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN"
         }
       ],
-      "duration_ms": 140307,
-      "name": "The Sparkle",
-      "url": "https://open.spotify.com/track/46fuglHiG9HoQ5k3vmoFT0"
+      "duration_ms": 147000,
+      "name": "Sleepy Suburbs",
+      "url": "https://open.spotify.com/track/0UEqYDmve0snOYnJ0qOXP8"
     }
   ],
   "unique_name": "lofi mexa",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62006,
+  "num_followers": 62028,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3YjUQAAAADkVG8jLKDyccrV9a8615g6",
+  "snapshot_id": "Z3eQtAAAAAAUrV67+M0RQ/0980p3Yox+",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -95,6 +95,30 @@
       "duration_ms": 208557,
       "name": "Shiva Shiva (From \"KD\") [Kannada]",
       "url": "https://open.spotify.com/track/7yblzAmaLZs9ATf8SQAPTx"
+    },
+    {
+      "added_at": "2025-01-03 07:24:13",
+      "album": {
+        "name": "Hoo Dumbi (From \"Manada Kadalu\")",
+        "url": "https://open.spotify.com/album/6LhoqkdQ9EIR0c525uFGdp"
+      },
+      "artists": [
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 252941,
+      "name": "Hoo Dumbi (From \"Manada Kadalu\")",
+      "url": "https://open.spotify.com/track/5zqb5RrXhjFvtIBPaWmasb"
     },
     {
       "added_at": "2025-01-02 05:25:37",
@@ -1441,30 +1465,6 @@
       "url": "https://open.spotify.com/track/3d9VjlZi0M6DMhy0yahXaZ"
     },
     {
-      "added_at": "2024-11-12 10:08:46",
-      "album": {
-        "name": "Himada Hoovina (From \"Dvija\")",
-        "url": "https://open.spotify.com/album/780xjHNHVeN30hAzZSfKy8"
-      },
-      "artists": [
-        {
-          "name": "Manojavvam Aatreya",
-          "url": "https://open.spotify.com/artist/1WVNxpYnjVGKkrnurJrBCY"
-        },
-        {
-          "name": "Prabodh Shyam",
-          "url": "https://open.spotify.com/artist/0zz9ZvcHxm0jX0QfN00Kwc"
-        },
-        {
-          "name": "Hemadri Srinivas",
-          "url": "https://open.spotify.com/artist/6aQdaiSZVQn4Eq1cKtNR8F"
-        }
-      ],
-      "duration_ms": 315491,
-      "name": "Himada Hoovina (From \"Dvija\")",
-      "url": "https://open.spotify.com/track/31DI27HDjWbRW89NuXDsPZ"
-    },
-    {
       "added_at": "2024-11-07 13:03:35",
       "album": {
         "name": "Mannisu (From \"Kanguva\") (Kannada)",
@@ -1555,30 +1555,6 @@
       "duration_ms": 204631,
       "name": "Hudukutha Hode (From \"Aaram Aravinda Swamy\")",
       "url": "https://open.spotify.com/track/5PNZvmaCf1eEZIBbOiPQzW"
-    },
-    {
-      "added_at": "2024-11-07 05:52:25",
-      "album": {
-        "name": "Nijavaa Idoo (From \"Lucky Baskhar\")(Kannada)",
-        "url": "https://open.spotify.com/album/45GzIiGfnR8atWLnqnjR96"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Sujatha Dutt",
-          "url": "https://open.spotify.com/artist/40VWCTZWMx12YUQxBZCJrR"
-        },
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        }
-      ],
-      "duration_ms": 227085,
-      "name": "Nijavaa Idoo (From \"Lucky Baskhar\")(Kannada)",
-      "url": "https://open.spotify.com/track/6K24Qy0Zm1JoEDtHAUSSej"
     },
     {
       "added_at": "2024-11-07 05:56:47",

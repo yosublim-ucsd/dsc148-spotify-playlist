@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 47 | [Je suis dégoûté\(e\)](https://open.spotify.com/track/4fSolIPapbSByj1hUch5Zf) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:07 |
 | 48 | [J'm'aime pas comme papa](https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6) | [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Le modèle réduit de nos pensées](https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3) | 3:09 |
 | 49 | [La Flemme](https://open.spotify.com/track/0A1GHh2ct5yKUsEqjThQBN) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [La Flemme](https://open.spotify.com/album/0R34JLS5vnqUsWx7ejh3SX) | 3:30 |
-| 50 | [Non oui](https://open.spotify.com/track/2bNp29G1UCFD1PcctgsBgy) | [LAFREUX](https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr) | [Chansons polies pour enfants énervés](https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM) | 2:32 |
+| 50 | [Fétouskiteplé](https://open.spotify.com/track/1u5mogwxDa9cDDeuJwLqLu) | [Monstre Moche](https://open.spotify.com/artist/1xQ8hZYPyB9gQ4JxVxIIgV) | [Monstrueux et mocheu](https://open.spotify.com/album/3oOukafeNkqyXLr8olKbJV) | 0:45 |
 
 Snapshot ID: `ZsNT8QAAAADaR+4qoZ5OiCVfUyLs71gN`

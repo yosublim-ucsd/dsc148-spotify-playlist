@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb">salv the dog</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-125 songs - 6 hr 41 min
+126 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dumbb](https://open.spotify.com/track/0jDBriwCIAbVt7XC8PeNME) | [ELMUR](https://open.spotify.com/artist/1wiPtax5queGP5dSz5vviY) | [Elmur Energy](https://open.spotify.com/album/4xI0VPdsEgLRpwojQcJzu3) | 1:01 | 2024-05-19 |  |
 | [Ecstasy](https://open.spotify.com/track/7vpLsbJ74y5xg2PPe97WHm) | [ZephyrInTheWind](https://open.spotify.com/artist/2lqQ3jGN37e45ZjxAvRT1E), [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Ecstasy EP](https://open.spotify.com/album/5XEMVlHCDPSOTud8oIDwPh) | 3:52 | 2024-11-21 |  |
 | [edge of time](https://open.spotify.com/track/6gB9Aawe3IJG17x1gjONev) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:26 | 2024-12-10 |  |
+| [Eight Hundred Miles](https://open.spotify.com/track/0n0u5eWNOg9KTgRwCj7qrm) | [Final Messenger](https://open.spotify.com/artist/2DjeuaCtAeA58tkOQVlNoh) | [Ideation](https://open.spotify.com/album/4p4hhSKUzls8z9kLGkcoh0) | 3:51 | 2025-01-03 |  |
 | [ELEMENTS](https://open.spotify.com/track/6zEF9hbtbsEkPlDwEgZMDp) | [wolfears](https://open.spotify.com/artist/0KH2J9H1plokYrluA5UJRi) | [ELEMENTS](https://open.spotify.com/album/5kvZxkcL25X7FEZsIOlw47) | 3:27 | 2024-09-06 |  |
 | [Embrace My Sin](https://open.spotify.com/track/4JQ66ezm9aUMd4eG6rWhMO) | [Fly To The Night](https://open.spotify.com/artist/0iy9HnsI5Dalerbz1Vr5AV) | [Embrace My Sin](https://open.spotify.com/album/0WUKvIFzldF7XoQmFDdPel) | 3:19 | 2024-07-12 |  |
 | [enby](https://open.spotify.com/track/7hqHsQlwymS7BIT53hzi9L) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [enby](https://open.spotify.com/album/708Sdmpbu2yG1BmXiEX2Yu) | 2:17 | 2024-07-12 |  |
@@ -72,7 +73,7 @@
 | [in hindsight](https://open.spotify.com/track/7ek0SJOe1Abud8p9WGynE2) | [daryl dee](https://open.spotify.com/artist/22QtRMzqI4jfkA4rrxybFY) | [in hindsight](https://open.spotify.com/album/22HAd6MwLpLBp5hL0t7lcj) | 2:17 | 2024-04-04 |  |
 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 | 2024-05-19 |  |
 | [john doe](https://open.spotify.com/track/3dZnXWPQpH9n46psALfiSt) | [deer in headlights](https://open.spotify.com/artist/6zqpo5a4WG5BM5sTMs38k3) | [event horizon](https://open.spotify.com/album/7EEZxaDOCB8S7Nyux8UklI) | 3:17 | 2024-04-20 |  |
-| [kutna hora](https://open.spotify.com/track/312w1yQem0YU0WBDn8RR4q) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [kutna hora](https://open.spotify.com/album/1CgVNjezGLgBw2wg9Le5fK) | 3:02 | 2024-11-23 |  |
+| [kutna hora](https://open.spotify.com/track/312w1yQem0YU0WBDn8RR4q) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [kutna hora](https://open.spotify.com/album/1CgVNjezGLgBw2wg9Le5fK) | 3:02 | 2024-11-23 | 2025-01-04 |
 | [Laika](https://open.spotify.com/track/0rvkXcufid9KbwCnCyywPq) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6) | [Go Out In Gold](https://open.spotify.com/album/4bStQojX5J4S0ntkmEMxsN) | 3:12 | 2024-12-09 |  |
 | [Last Knight \(Final Girl\)](https://open.spotify.com/track/4KgcyoJSoDq8FuQsewrvNi) | [Sergeant Hare Apollo](https://open.spotify.com/artist/0KsMGLqXgzIqQp9QWg1PRQ) | [Last Knight \(Final Girl\)](https://open.spotify.com/album/53IpGt3nY72iJFneRIdpJB) | 3:52 | 2024-11-12 |  |
 | [Late Night TV](https://open.spotify.com/track/5p4SJDLLPGnIxtU5vhAZKB) | [Keep it Together](https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8) | [Gate 23](https://open.spotify.com/album/1WFn2vTUYu1nfOnV5dhPUE) | 2:28 | 2024-02-23 |  |

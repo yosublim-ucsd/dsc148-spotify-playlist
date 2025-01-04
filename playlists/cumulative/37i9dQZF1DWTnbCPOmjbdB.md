@@ -2,9 +2,9 @@
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Filipek, NEL
+> Najlepsze polskie piosenki na czasie\. Cover: Daria Zawiałow
 
-285 songs - 13 hr 46 min
+286 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 | 2024-07-25 | 2024-08-23 |
 | [Aż Będziesz Wiedzieć](https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Tylko Lepiej EP](https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC) | 2:27 | 2024-09-19 | 2024-10-18 |
 | [B012](https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [B012](https://open.spotify.com/album/6pN3zmswspYqyY1ztZHKsK) | 2:18 | 2024-07-01 | 2024-10-11 |
+| [Ballada o Niej](https://open.spotify.com/track/2A4d6vp3I61jSEv8Ty9c8x) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Dziewczyna Pop](https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB) | 4:22 | 2025-01-03 |  |
 | [BEBECITA](https://open.spotify.com/track/1qDwZiPNwUfIAw7EoaAxw4) | [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [Hellfield](https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q), [Divix](https://open.spotify.com/artist/4epWIBkEMw64xoaz1rXAs3) | [BEBECITA](https://open.spotify.com/album/5t1hDA3BrI2yIgEim8l97Z) | 2:19 | 2024-07-01 | 2024-10-11 |
 | [Bez kontaktu](https://open.spotify.com/track/0cXARNiffujbAjlJ6K2zER) | [Natalia Kukulska](https://open.spotify.com/artist/71ADVpJx1rN662ENAJIcUZ) | [Bez kontaktu](https://open.spotify.com/album/5QzaoHFlQIY0lmIMytCdBR) | 4:30 | 2024-10-24 | 2024-11-08 |
 | [Beze mnie](https://open.spotify.com/track/3Et7ioYSx63lA5mzLqeo4R) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Beze mnie](https://open.spotify.com/album/6iJVtJ2PuA4uvk3YT5vjp7) | 2:41 | 2024-07-11 | 2024-11-22 |
@@ -158,7 +159,7 @@
 | [Nie musisz się bać](https://open.spotify.com/track/09fqIgOZRn3ZbwbQB2r2u2) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Nie musisz się bać](https://open.spotify.com/album/0MHl2tY6jrbEbssuR7nxdM) | 2:25 | 2024-09-19 |  |
 | [Nie mów](https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [eryq](https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6) | [Nie mów](https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF) | 2:42 | 2024-08-22 | 2024-09-20 |
 | [NIE MÓWIŁA NIC](https://open.spotify.com/track/5RFe2B5H3E3ZNYL0gn04JU) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [NIE MÓWIŁA NIC](https://open.spotify.com/album/3Bb29LKGzT3DfKyvB4QR4l) | 2:28 | 2024-07-01 | 2024-08-16 |
-| [Nie Szkodzi](https://open.spotify.com/track/73f2sCPvdMu9eWrbA0Eu56) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Nie Szkodzi](https://open.spotify.com/album/71VoAa4uW9aVsgFifebH62) | 2:31 | 2024-07-01 |  |
+| [Nie Szkodzi](https://open.spotify.com/track/73f2sCPvdMu9eWrbA0Eu56) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [Nie Szkodzi](https://open.spotify.com/album/71VoAa4uW9aVsgFifebH62) | 2:31 | 2024-07-01 | 2025-01-04 |
 | [Nie trzeba mi nic](https://open.spotify.com/track/6fFsWZDzd2Hdw48ZYkxLz6) | [Anna Iwanek](https://open.spotify.com/artist/6nDN2jmwSvfjDqtzhUhhmS) | [Nie trzeba mi nic](https://open.spotify.com/album/2vdEJg7gNZUzQ6b6W6YQ6e) | 2:13 | 2024-12-05 |  |
 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 | 2024-10-10 | 2024-11-22 |
 | [Nie żałuję \- Radio Edit](https://open.spotify.com/track/0i1CwpX1PPbyCv7clD8nTq) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A), [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP) | [Nie żałuję](https://open.spotify.com/album/2G6rrgjKycvXtA3wK9hTi2) | 2:38 | 2024-07-01 | 2024-07-27 |

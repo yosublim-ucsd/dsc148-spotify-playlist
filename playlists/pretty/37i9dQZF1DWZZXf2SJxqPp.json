@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 141812,
+  "num_followers": 141826,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -257,6 +257,22 @@
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
+      "added_at": "2024-07-01 18:06:28",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/165OxgFnUaeMTJnYndej77"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 250085,
+      "name": "Technicolor Dream",
+      "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
+    },
+    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Marechi\u00e0",
@@ -275,22 +291,6 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2024-07-01 18:06:28",
-      "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/165OxgFnUaeMTJnYndej77"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        }
-      ],
-      "duration_ms": 250085,
-      "name": "Technicolor Dream",
-      "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
     },
     {
       "added_at": "2024-07-19 20:42:14",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
       "artists": [
         {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
+      "duration_ms": 289720,
+      "name": "Pays imaginaire",
+      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
         }
       ],
-      "duration_ms": 289720,
-      "name": "Pays imaginaire",
-      "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "First Landing",
         "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 286726,
       "name": "I Want Your Attention",
       "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj"
     },
     {
+      "added_at": "2024-08-16 15:21:45",
+      "album": {
+        "name": "Que Bien Te Queda El Caribe",
+        "url": "https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Canela",
+      "url": "https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb"
+    },
+    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "\u00c7a fait 2x plus de bien",
@@ -879,22 +895,6 @@
       "duration_ms": 181106,
       "name": "\u00c7a fait du bien - Polo & Pan Remix",
       "url": "https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs"
-    },
-    {
-      "added_at": "2024-08-16 15:21:45",
-      "album": {
-        "name": "Que Bien Te Queda El Caribe",
-        "url": "https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Canela",
-      "url": "https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "El Sabor del Viejo Mar",
         "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Lindstrom & Prins Thomas",
         "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 229386,
       "name": "Boney M Down",
       "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Aguado",
-          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Through The Night",
-      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
-      "added_at": "2024-06-26 19:12:18",
-      "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Purple Horizon",
-      "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Discoman",
@@ -1487,6 +1471,22 @@
       "duration_ms": 220420,
       "name": "Discoman",
       "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
+    },
+    {
+      "added_at": "2024-06-26 19:12:18",
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Purple Horizon",
+      "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Looking for the Sea",
-        "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
-      },
-      "artists": [
-        {
-          "name": "Pupkulies & Rebecca",
-          "url": "https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Fou de toi",
-      "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Station Romance",
         "url": "https://open.spotify.com/album/4x5EIKMMxPIHVrRT2HfPAV"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 459560,
       "name": "Station Romance",
       "url": "https://open.spotify.com/track/5sh4Ro1zrlpTrh07dVDTIn"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Looking for the Sea",
+        "url": "https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z"
+      },
+      "artists": [
+        {
+          "name": "Pupkulies & Rebecca",
+          "url": "https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Fou de toi",
+      "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+        "name": "Candle Flame",
+        "url": "https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH"
       },
       "artists": [
         {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
         }
       ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+      "duration_ms": 174020,
+      "name": "Candle Flame",
+      "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
     },
     {
       "added_at": "2024-07-01 18:08:26",
@@ -1759,6 +1763,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Last Dream",
         "url": "https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 242123,
       "name": "Shut Down",
       "url": "https://open.spotify.com/track/4voScCHrWmAGe5iAHrFMmk"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Candle Flame",
-        "url": "https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 174020,
-      "name": "Candle Flame",
-      "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
     },
     {
       "added_at": "2023-08-14 14:58:41",

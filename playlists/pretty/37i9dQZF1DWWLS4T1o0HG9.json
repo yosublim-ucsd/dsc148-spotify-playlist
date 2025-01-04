@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 383613,
+  "num_followers": 383887,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 201693,
       "name": "Any Way You Want It",
       "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
-        "name": "Heartbeat City (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234332,
-      "name": "Drive - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Working Class Dog",
-        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
+        "name": "Heartbeat City (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
       },
       "artists": [
         {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
         }
       ],
-      "duration_ms": 194120,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+      "duration_ms": 234332,
+      "name": "Drive - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 280000,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
       },
       "artists": [
         {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -991,34 +991,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Around the World in a Day",
-        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Raspberry Beret",
-      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 351506,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         }
       ],
-      "duration_ms": 217693,
-      "name": "A View to a Kill",
-      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
+      "duration_ms": 351506,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Tommy Tutone - 2",
         "url": "https://open.spotify.com/album/7aks5lgwJAdiZLN51UjkU1"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 226200,
       "name": "867-5309 / Jenny",
       "url": "https://open.spotify.com/track/6iX1f3r7oUJnMbGgQ2gx1j"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Fore!",
-        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Hip To Be Square",
-      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "The Cars",
         "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 223253,
       "name": "My Best Friend's Girl",
       "url": "https://open.spotify.com/track/1SRkKyJ2JjMZgyDWC30zKv"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Fore!",
+        "url": "https://open.spotify.com/album/5L0vaNLbzgP8RIJqs1zamE"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hip To Be Square",
+      "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "The Cars",
-        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 225853,
-      "name": "Good Times Roll",
-      "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 219813,
       "name": "New Sensation",
       "url": "https://open.spotify.com/track/2bxY1baYlyXNzmjOkFvqId"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Beauty And The Beat",
+        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "We Got The Beat",
+      "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Beauty And The Beat",
-        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
+        "name": "The Cars",
+        "url": "https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq"
       },
       "artists": [
         {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
         }
       ],
-      "duration_ms": 153133,
-      "name": "We Got The Beat",
-      "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF"
+      "duration_ms": 225853,
+      "name": "Good Times Roll",
+      "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/7qSxcMI3rTQaD1oTi1vel0"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/0oc7YoWV783fGr2GbdcIrz"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
         "name": "The Best of Mr. Mister",
         "url": "https://open.spotify.com/album/0qCccU99b8JabM1xPpWJKh"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Little Red Corvette",
-      "url": "https://open.spotify.com/track/4iozhXt27eMl39W5z7R8H6"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Tango in the Night (2017 Remaster)",
         "url": "https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5"
       },
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Vacation",
-        "url": "https://open.spotify.com/album/7qSxcMI3rTQaD1oTi1vel0"
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
       },
       "artists": [
         {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 179826,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/0oc7YoWV783fGr2GbdcIrz"
+      "duration_ms": 296906,
+      "name": "Little Red Corvette",
+      "url": "https://open.spotify.com/track/4iozhXt27eMl39W5z7R8H6"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Face Value (Deluxe Editon)",
-        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
+        "name": "Friend Or Foe",
+        "url": "https://open.spotify.com/album/2GAvEhQNAUpsx1DF2SfyNA"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Adam Ant",
+          "url": "https://open.spotify.com/artist/3QP0XPDwbvGivqDAaJ5f5G"
         }
       ],
-      "duration_ms": 226226,
-      "name": "I Missed Again - 2015 Remastered",
-      "url": "https://open.spotify.com/track/3VNzK4gTzkWwMn8CGPbhXj"
+      "duration_ms": 209213,
+      "name": "Goody Two Shoes",
+      "url": "https://open.spotify.com/track/760xFXFj5Fksa3jawSCn5g"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Friend Or Foe",
-        "url": "https://open.spotify.com/album/2GAvEhQNAUpsx1DF2SfyNA"
+        "name": "Face Value (Deluxe Editon)",
+        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
       },
       "artists": [
         {
-          "name": "Adam Ant",
-          "url": "https://open.spotify.com/artist/3QP0XPDwbvGivqDAaJ5f5G"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 209213,
-      "name": "Goody Two Shoes",
-      "url": "https://open.spotify.com/track/760xFXFj5Fksa3jawSCn5g"
+      "duration_ms": 226226,
+      "name": "I Missed Again - 2015 Remastered",
+      "url": "https://open.spotify.com/track/3VNzK4gTzkWwMn8CGPbhXj"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "The Joshua Tree (Deluxe)",
-        "url": "https://open.spotify.com/album/2t4UTpa53ALkISHhiKrEtv"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/6qDHT0nQqu8GhK2jFa5LNp"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
         }
       ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/4ha9ajL4Kz98uldAfuos6p"
+      "duration_ms": 216960,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/1p46bniF6fC9kT1v5yjJOI"
     }
   ],
   "unique_name": "80s Pop Rock",

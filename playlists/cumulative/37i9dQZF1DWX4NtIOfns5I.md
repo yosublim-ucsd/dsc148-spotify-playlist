@@ -4,7 +4,7 @@
 
 > hunter metts on 🔁
 
-399 songs - 23 hr 23 min
+400 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 | 2024-03-16 |
 | [Deer Trails](https://open.spotify.com/track/3RxaSwZCpxIGPkYFDRGavH) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Deer Trails](https://open.spotify.com/album/0po2XDf905nK8SJ4IbxF0e) | 3:12 | 2024-04-05 |  |
 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 | 2023-10-06 | 2023-12-02 |
+| [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2025-01-03 |  |
 | [Didn't You](https://open.spotify.com/track/79yJPBXQYjLIcU7lxrDkC6) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Canyon](https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7) | 4:03 | 2023-10-06 | 2024-04-06 |
 | [Die Slower](https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr) | [Brendan Abernathy](https://open.spotify.com/artist/39ETOzAilLp4bcJAUU8mmW), [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [die slower](https://open.spotify.com/album/2fGiVuDMhTGQNSjhKjc0zE) | 3:15 | 2024-01-05 | 2024-04-13 |
 | [Dig Myself Out](https://open.spotify.com/track/70JmaiNir097KCH7yInIC1) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Live From Mother Earth](https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g) | 2:56 | 2024-10-18 |  |

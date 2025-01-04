@@ -1,6 +1,6 @@
 {
   "description": "warm and cozy beats to watch the leaves fall, focus, study or chill to.",
-  "num_followers": 10143,
+  "num_followers": 10151,
   "original_name": "lofi autumn beats \ud83c\udf41\ud83c\udf42",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
+        "name": "machine",
+        "url": "https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz"
+      },
+      "artists": [
+        {
+          "name": "aroramo",
+          "url": "https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "machine",
+      "url": "https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
         "name": "Drizzle",
         "url": "https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 124931,
       "name": "Drizzle",
       "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
-        "name": "still images",
-        "url": "https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg"
-      },
-      "artists": [
-        {
-          "name": "slowburn",
-          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
-        }
-      ],
-      "duration_ms": 127146,
-      "name": "still images",
-      "url": "https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "machine",
-        "url": "https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz"
+        "name": "still images",
+        "url": "https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg"
       },
       "artists": [
         {
-          "name": "aroramo",
-          "url": "https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr"
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
         }
       ],
-      "duration_ms": 128000,
-      "name": "machine",
-      "url": "https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng"
+      "duration_ms": 127146,
+      "name": "still images",
+      "url": "https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "fragile",
-        "url": "https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd"
-      },
-      "artists": [
-        {
-          "name": "frid",
-          "url": "https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "fragile",
-      "url": "https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "Beam Me Up",
         "url": "https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 123750,
       "name": "Beam Me Up",
       "url": "https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "fragile",
+        "url": "https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd"
+      },
+      "artists": [
+        {
+          "name": "frid",
+          "url": "https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "fragile",
+      "url": "https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Northern Lights",
-        "url": "https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY"
-      },
-      "artists": [
-        {
-          "name": "Fuzzy Donut",
-          "url": "https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Cherry Orchards",
-      "url": "https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "First Things First",
         "url": "https://open.spotify.com/album/26GxtM80uLUiS82C069HQm"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Ocean Ride",
-        "url": "https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq"
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY"
       },
       "artists": [
         {
-          "name": "aunt",
-          "url": "https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB"
+          "name": "Fuzzy Donut",
+          "url": "https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY"
         }
       ],
-      "duration_ms": 129037,
-      "name": "Ocean Ride",
-      "url": "https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP"
+      "duration_ms": 149333,
+      "name": "Cherry Orchards",
+      "url": "https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -407,6 +391,22 @@
       "duration_ms": 118153,
       "name": "Make It",
       "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "Ocean Ride",
+        "url": "https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq"
+      },
+      "artists": [
+        {
+          "name": "aunt",
+          "url": "https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB"
+        }
+      ],
+      "duration_ms": 129037,
+      "name": "Ocean Ride",
+      "url": "https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "triple sun",
-        "url": "https://open.spotify.com/album/4mG00rSaqK95YPPnA4ZmQV"
-      },
-      "artists": [
-        {
-          "name": "May-Flowa",
-          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "triple sun",
-      "url": "https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "Days to Come",
         "url": "https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 138987,
       "name": "Paper Kites",
       "url": "https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "triple sun",
+        "url": "https://open.spotify.com/album/4mG00rSaqK95YPPnA4ZmQV"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "triple sun",
+      "url": "https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "fika",
-        "url": "https://open.spotify.com/album/0DqHffRxIV0AoPVIl6uZJq"
-      },
-      "artists": [
-        {
-          "name": "mellow fox",
-          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
-        }
-      ],
-      "duration_ms": 104385,
-      "name": "fika",
-      "url": "https://open.spotify.com/track/3HcQcCDKDa5a1rRhH7fsPn"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "In The Clouds",
         "url": "https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Autumn Briefs",
-        "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
+        "name": "fika",
+        "url": "https://open.spotify.com/album/0DqHffRxIV0AoPVIl6uZJq"
       },
       "artists": [
         {
-          "name": "Dasunny",
-          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
         }
       ],
-      "duration_ms": 145242,
-      "name": "Autumn Briefs",
-      "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
+      "duration_ms": 104385,
+      "name": "fika",
+      "url": "https://open.spotify.com/track/3HcQcCDKDa5a1rRhH7fsPn"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -771,6 +755,22 @@
       "duration_ms": 125624,
       "name": "So Very Much",
       "url": "https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "Autumn Briefs",
+        "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "duration_ms": 145242,
+      "name": "Autumn Briefs",
+      "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
+        "name": "Lack Of Emotions",
+        "url": "https://open.spotify.com/album/74zbpMColLiKgUjufUIFJr"
+      },
+      "artists": [
+        {
+          "name": "thea harbor",
+          "url": "https://open.spotify.com/artist/2fsFJWtDekOjJEBGAZlFTg"
+        }
+      ],
+      "duration_ms": 147073,
+      "name": "Lack Of Emotions",
+      "url": "https://open.spotify.com/track/1WR0dswbkp0ZH6ml4i9Uzl"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Lack Of Emotions",
-        "url": "https://open.spotify.com/album/74zbpMColLiKgUjufUIFJr"
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG"
       },
       "artists": [
         {
-          "name": "thea harbor",
-          "url": "https://open.spotify.com/artist/2fsFJWtDekOjJEBGAZlFTg"
+          "name": "Touristique",
+          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
         }
       ],
-      "duration_ms": 147073,
-      "name": "Lack Of Emotions",
-      "url": "https://open.spotify.com/track/1WR0dswbkp0ZH6ml4i9Uzl"
+      "duration_ms": 127624,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -907,22 +923,6 @@
       "duration_ms": 103783,
       "name": "lohmar",
       "url": "https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG"
-      },
-      "artists": [
-        {
-          "name": "Touristique",
-          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
-        }
-      ],
-      "duration_ms": 127624,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Marupe Blues",
-        "url": "https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32"
+        "name": "On The Surface",
+        "url": "https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3"
       },
       "artists": [
         {
-          "name": "Gooee",
-          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
+          "name": "Shayla Sereno",
+          "url": "https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Marupe Blues",
-      "url": "https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm"
+      "duration_ms": 125320,
+      "name": "On The Surface",
+      "url": "https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
+        "name": "routine",
+        "url": "https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP"
+      },
+      "artists": [
+        {
+          "name": "Gaccio",
+          "url": "https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy"
+        }
+      ],
+      "duration_ms": 122357,
+      "name": "routine",
+      "url": "https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
         "name": "autumn morning",
         "url": "https://open.spotify.com/album/3hkpAm6vcGbjn9smI79zyi"
       },
@@ -1027,34 +1043,18 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "On The Surface",
-        "url": "https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3"
+        "name": "Marupe Blues",
+        "url": "https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32"
       },
       "artists": [
         {
-          "name": "Shayla Sereno",
-          "url": "https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb"
+          "name": "Gooee",
+          "url": "https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf"
         }
       ],
-      "duration_ms": 125320,
-      "name": "On The Surface",
-      "url": "https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
-        "name": "routine",
-        "url": "https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP"
-      },
-      "artists": [
-        {
-          "name": "Gaccio",
-          "url": "https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy"
-        }
-      ],
-      "duration_ms": 122357,
-      "name": "routine",
-      "url": "https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg"
+      "duration_ms": 132000,
+      "name": "Marupe Blues",
+      "url": "https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Maple Sunsets",
-        "url": "https://open.spotify.com/album/2iV1rlCaAVV88O8zyUSls2"
+        "name": "Short of Breath",
+        "url": "https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc"
       },
       "artists": [
         {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+          "name": "eun",
+          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
         }
       ],
-      "duration_ms": 118153,
-      "name": "Maple Sunsets",
-      "url": "https://open.spotify.com/track/42OVQFMwtsVVgND9Pl9RXm"
+      "duration_ms": 152737,
+      "name": "Short of Breath",
+      "url": "https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Short of Breath",
-        "url": "https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc"
+        "name": "Maple Sunsets",
+        "url": "https://open.spotify.com/album/2iV1rlCaAVV88O8zyUSls2"
       },
       "artists": [
         {
-          "name": "eun",
-          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         }
       ],
-      "duration_ms": 152737,
-      "name": "Short of Breath",
-      "url": "https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj"
+      "duration_ms": 118153,
+      "name": "Maple Sunsets",
+      "url": "https://open.spotify.com/track/42OVQFMwtsVVgND9Pl9RXm"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -1143,22 +1143,6 @@
       "duration_ms": 138196,
       "name": "Leaves Fallin'",
       "url": "https://open.spotify.com/track/5UcQZ8I3N17Yx8SkeHMcUG"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
-        "name": "Long Road Home",
-        "url": "https://open.spotify.com/album/6xJA1S3vUfAmujzyk8Ayx9"
-      },
-      "artists": [
-        {
-          "name": "Nova Night",
-          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Long Road Home",
-      "url": "https://open.spotify.com/track/0AiFPymAPPa9wt5Lzw8GHM"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -1191,6 +1175,22 @@
       "duration_ms": 126153,
       "name": "Natsumi",
       "url": "https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "Long Road Home",
+        "url": "https://open.spotify.com/album/6xJA1S3vUfAmujzyk8Ayx9"
+      },
+      "artists": [
+        {
+          "name": "Nova Night",
+          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Long Road Home",
+      "url": "https://open.spotify.com/track/0AiFPymAPPa9wt5Lzw8GHM"
     },
     {
       "added_at": "2024-12-11 13:44:52",

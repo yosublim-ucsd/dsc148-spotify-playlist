@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana! Cover - W.i.S.H",
-  "num_followers": 73183,
+  "num_followers": 73193,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
+        "name": "Dhali Re",
+        "url": "https://open.spotify.com/album/7DpW6P1BGpyKmvjWTA5gqH"
+      },
+      "artists": [
+        {
+          "name": "Ashish Zachariah",
+          "url": "https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT"
+        },
+        {
+          "name": "Aditi Raj",
+          "url": "https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Dhali Re",
+      "url": "https://open.spotify.com/track/0APwJPpVTYZ179MQ2OiIL2"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
         "name": "Rozana",
         "url": "https://open.spotify.com/album/60oSlQMsD8VdJLgv8UiVvi"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 164411,
       "name": "Rozana",
       "url": "https://open.spotify.com/track/1C2V2Y06UX5V0UQfTWmmcc"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
-        "name": "Dhali Re",
-        "url": "https://open.spotify.com/album/7DpW6P1BGpyKmvjWTA5gqH"
-      },
-      "artists": [
-        {
-          "name": "Ashish Zachariah",
-          "url": "https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT"
-        },
-        {
-          "name": "Aditi Raj",
-          "url": "https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Dhali Re",
-      "url": "https://open.spotify.com/track/0APwJPpVTYZ179MQ2OiIL2"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Sandook",
-        "url": "https://open.spotify.com/album/1PRh7blZxOcmG7LSgHQ2I1"
-      },
-      "artists": [
-        {
-          "name": "Ramil Ganjoo",
-          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Sandook",
-      "url": "https://open.spotify.com/track/6p9MlK7EEj9D5eiwrXhld4"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "Dil Hi Hai Tu",
         "url": "https://open.spotify.com/album/7rJEC3UuNNcJnCQNKKPAS6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 190285,
       "name": "Dil Hi Hai Tu",
       "url": "https://open.spotify.com/track/30soAEn42xylI7qSql7GKU"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Sandook",
+        "url": "https://open.spotify.com/album/1PRh7blZxOcmG7LSgHQ2I1"
+      },
+      "artists": [
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Sandook",
+      "url": "https://open.spotify.com/track/6p9MlK7EEj9D5eiwrXhld4"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
+        "name": "OK OK",
+        "url": "https://open.spotify.com/album/42fzffNNEa541vAI61KFSA"
+      },
+      "artists": [
+        {
+          "name": "citimall",
+          "url": "https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU"
+        }
+      ],
+      "duration_ms": 232511,
+      "name": "OK OK",
+      "url": "https://open.spotify.com/track/6nIltvsyOnT9wBLoC5XdWM"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
         "name": "Daayre",
         "url": "https://open.spotify.com/album/6LgM6XY041WDIP0LixD4OY"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 182117,
       "name": "Meri Kya Khata",
       "url": "https://open.spotify.com/track/6SGrGVVWXclsz51sBRdOcJ"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
-        "name": "OK OK",
-        "url": "https://open.spotify.com/album/42fzffNNEa541vAI61KFSA"
-      },
-      "artists": [
-        {
-          "name": "citimall",
-          "url": "https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU"
-        }
-      ],
-      "duration_ms": 232511,
-      "name": "OK OK",
-      "url": "https://open.spotify.com/track/6nIltvsyOnT9wBLoC5XdWM"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
+        "name": "Shayad",
+        "url": "https://open.spotify.com/album/0X5YBAiMJCvkaIxAI5pdRA"
+      },
+      "artists": [
+        {
+          "name": "Arham Fulfagar",
+          "url": "https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "Shayad",
+      "url": "https://open.spotify.com/track/1YuyJ8rzlfBCnlCi4NIowp"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
         "name": "BEKHUDI",
         "url": "https://open.spotify.com/album/3wFgSXcKLtQtoDX3j8rZlw"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Shayad",
-        "url": "https://open.spotify.com/album/0X5YBAiMJCvkaIxAI5pdRA"
-      },
-      "artists": [
-        {
-          "name": "Arham Fulfagar",
-          "url": "https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "Shayad",
-      "url": "https://open.spotify.com/track/1YuyJ8rzlfBCnlCi4NIowp"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "Jabse Tum Sang",
         "url": "https://open.spotify.com/album/5OKSe194rdRgGe9iFxlkuq"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 190000,
       "name": "Jabse Tum Sang",
       "url": "https://open.spotify.com/track/3cJ5hZLay3f4l2ABtWsu9N"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
-        "name": "Kho Jaun",
-        "url": "https://open.spotify.com/album/6H9IuvaOYAoxBPykDz7WHJ"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Kho Jaun",
-      "url": "https://open.spotify.com/track/2mJKQI674JrUbK7IyrWtXV"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -1027,6 +1011,22 @@
       "duration_ms": 252194,
       "name": "Bhayankar Piya",
       "url": "https://open.spotify.com/track/0IaJjF4NDTr0RZMCUIZKvh"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Kho Jaun",
+        "url": "https://open.spotify.com/album/6H9IuvaOYAoxBPykDz7WHJ"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Kho Jaun",
+      "url": "https://open.spotify.com/track/2mJKQI674JrUbK7IyrWtXV"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Reply",
-        "url": "https://open.spotify.com/album/1Zsy8P4YKy66M0at0VVmwG"
-      },
-      "artists": [
-        {
-          "name": "Anami",
-          "url": "https://open.spotify.com/artist/47YNJp3c0vE0WGNq42Wd8p"
-        }
-      ],
-      "duration_ms": 178448,
-      "name": "Reply",
-      "url": "https://open.spotify.com/track/4s4aRzq3XGJdMa7ifENl0a"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "Talaash",
         "url": "https://open.spotify.com/album/63TzFz5UF1wlQsLCWPKKnu"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 209797,
       "name": "Talaash",
       "url": "https://open.spotify.com/track/7rOlksKyOXRJrYHRdpTt6U"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Reply",
+        "url": "https://open.spotify.com/album/1Zsy8P4YKy66M0at0VVmwG"
+      },
+      "artists": [
+        {
+          "name": "Anami",
+          "url": "https://open.spotify.com/artist/47YNJp3c0vE0WGNq42Wd8p"
+        }
+      ],
+      "duration_ms": 178448,
+      "name": "Reply",
+      "url": "https://open.spotify.com/track/4s4aRzq3XGJdMa7ifENl0a"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Zia",
-        "url": "https://open.spotify.com/album/499mgoSqPN4ZAdiY0GHbUA"
-      },
-      "artists": [
-        {
-          "name": "Yunan",
-          "url": "https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ"
-        },
-        {
-          "name": "Young Seaz",
-          "url": "https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Zia",
-      "url": "https://open.spotify.com/track/2S7p4KavTGc40XMSr3QTRU"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "Haseena",
         "url": "https://open.spotify.com/album/0WCqZTtq0hYwfswGTyNoKq"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 141333,
       "name": "Sapno Ki Nagri",
       "url": "https://open.spotify.com/track/3EVc6oZcFFFSr0hnuatPRk"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Zia",
+        "url": "https://open.spotify.com/album/499mgoSqPN4ZAdiY0GHbUA"
+      },
+      "artists": [
+        {
+          "name": "Yunan",
+          "url": "https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ"
+        },
+        {
+          "name": "Young Seaz",
+          "url": "https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Zia",
+      "url": "https://open.spotify.com/track/2S7p4KavTGc40XMSr3QTRU"
     },
     {
       "added_at": "2024-12-20 06:53:31",

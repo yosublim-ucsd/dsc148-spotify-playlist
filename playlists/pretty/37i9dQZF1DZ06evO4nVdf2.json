@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 61776,
+  "num_followers": 61787,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAACBgSAwX9hmRYRKJ4puxsrN",
+  "snapshot_id": "Z3XXAAAAAACL2JW8i1Zzy9lKoT9KEPYn",
   "tracks": [
     {
       "added_at": null,
@@ -383,30 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conexi\u00f3n (En Vivo)",
-        "url": "https://open.spotify.com/album/5NxW0Aim29Q9jWXoqA2WYB"
-      },
-      "artists": [
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Un A\u00f1o M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/2qz2TwDrWbDKK4rdHkV66V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lucky (feat. Ximena Sari\u00f1ana)",
         "url": "https://open.spotify.com/album/71rd7bVayawEfo4pf58Kyt"
       },
@@ -443,6 +419,30 @@
       "duration_ms": 219086,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/51Qn4E2abqNQzL5XMzWEHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conexi\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/5NxW0Aim29Q9jWXoqA2WYB"
+      },
+      "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Un A\u00f1o M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/2qz2TwDrWbDKK4rdHkV66V"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojos Diamante",
-        "url": "https://open.spotify.com/album/2Xt25pQkjDzqiPMRMs4uol"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/0DiDWvm0wS3kGncKLVlHbE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realismo M\u00e1gico",
         "url": "https://open.spotify.com/album/0MUX7s8aRLGMdu5A7Yoe7P"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/7fTZpxKHt6bltWZcZvEB1g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ojos Diamante",
+        "url": "https://open.spotify.com/album/2Xt25pQkjDzqiPMRMs4uol"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/0DiDWvm0wS3kGncKLVlHbE"
     },
     {
       "added_at": null,
@@ -979,46 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un A\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/3WM326tepD4WNnaiFNnHXO"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        },
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        },
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        },
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        },
-        {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
-        },
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Un A\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/2udlQqrYr53x9gF1Nh7hPc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -1071,6 +1031,26 @@
       "duration_ms": 228640,
       "name": "La Vida No Es F\u00e1cil",
       "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

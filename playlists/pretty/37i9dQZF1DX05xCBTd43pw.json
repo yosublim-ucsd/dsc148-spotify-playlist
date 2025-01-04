@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36907,
+  "num_followers": 36917,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Watergun",
-        "url": "https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 172555,
-      "name": "Watergun",
-      "url": "https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
         "name": "House On Fire",
         "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 179561,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
+        "name": "Watergun",
+        "url": "https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 172555,
+      "name": "Watergun",
+      "url": "https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
+        "name": "Russian Blue",
+        "url": "https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL"
+      },
+      "artists": [
+        {
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
+        }
+      ],
+      "duration_ms": 209070,
+      "name": "Russian Blue",
+      "url": "https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
         "name": "No Time to Cry",
         "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Russian Blue",
-        "url": "https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL"
+        "name": "fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
       "artists": [
         {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 209070,
-      "name": "Russian Blue",
-      "url": "https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8"
+      "duration_ms": 135866,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -439,22 +455,6 @@
       "duration_ms": 150648,
       "name": "Rollen in den Norden",
       "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Warrior",
-        "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 148720,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
         "name": "Ready For It All",
         "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+      "duration_ms": 148720,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -555,6 +539,22 @@
       "duration_ms": 187854,
       "name": "Heaven or Hell",
       "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
         "name": "Softly Speaking",
         "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 179617,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
+        "name": "Tribut",
+        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
+      },
+      "artists": [
+        {
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+        }
+      ],
+      "duration_ms": 197992,
+      "name": "Tribut",
+      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -663,18 +679,34 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Tribut",
-        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
       },
       "artists": [
         {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 197992,
-      "name": "Tribut",
-      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+      "duration_ms": 184192,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
+        "name": "No Good For Me",
+        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
+      },
+      "artists": [
+        {
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
+        }
+      ],
+      "duration_ms": 193271,
+      "name": "No Good For Me",
+      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -711,22 +743,6 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162929,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
         "name": "Stories of the XXI",
         "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
@@ -743,34 +759,18 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "oxygen",
-        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 184192,
-      "name": "oxygen",
-      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
-        "name": "As Long as You Stay Here",
-        "url": "https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 115920,
-      "name": "As Long as You Stay Here",
-      "url": "https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo"
+      "duration_ms": 162929,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "No Good For Me",
-        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
-      },
-      "artists": [
-        {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
-        }
-      ],
-      "duration_ms": 193271,
-      "name": "No Good For Me",
-      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
         "name": "Julia?",
         "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 224464,
       "name": "Julia?",
       "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
+        "name": "As Long as You Stay Here",
+        "url": "https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "duration_ms": 115920,
+      "name": "As Long as You Stay Here",
+      "url": "https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo"
     },
     {
       "added_at": "2025-01-02 23:00:02",

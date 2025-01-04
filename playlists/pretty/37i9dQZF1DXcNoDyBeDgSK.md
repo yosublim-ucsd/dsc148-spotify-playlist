@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNoDyBeDgSK.md) - [plain]
 
 > Music from "Blue Exorcist" /アニメ「青の祓魔師」シリーズの楽曲を1つのプレイリストで。<br/>©加藤和恵／集英社・「青の祓魔師」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,935 likes - 53 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945 likes - 53 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

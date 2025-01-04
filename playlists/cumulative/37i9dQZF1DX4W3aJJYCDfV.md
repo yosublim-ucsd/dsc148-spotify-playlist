@@ -4,7 +4,7 @@
 
 > Brand new music from Darkoo \(pictured\), Little Simz, SAULT and more!
 
-14,015 songs - 31 day 12 hr 27 min
+14,016 songs - 31 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3383,6 +3383,7 @@
 | [ducks ina row](https://open.spotify.com/track/3tL6edhbIjtp8C8nmbZ7k3) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [ducks ina row](https://open.spotify.com/album/2hifLHOF3K333Xps2wweDF) | 2:33 | 2023-05-04 | 2023-05-12 |
 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-06 | 2023-04-14 |
 | [Dull Colour](https://open.spotify.com/track/2dyOTCYmyt2lhh9acGWbXA) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Dull Colour](https://open.spotify.com/album/4NR9QACJ9PDX5Y0mktdZWg) | 2:29 | 2023-07-13 | 2023-07-21 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-03 |  |
 | [Dumb](https://open.spotify.com/track/3WDyQV8e7Jo8ADMDIUZEqT) | [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Dumb](https://open.spotify.com/album/5Xc7SZi7EuNczZ1TU0gvfd) | 2:18 | 2022-10-28 | 2022-11-04 |
 | [Dumb](https://open.spotify.com/track/5GEzH6WcUZTtCYWebUQul0) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Dumb](https://open.spotify.com/album/0WkxDkNFIf6Ei5FkESfD30) | 2:52 | 2024-05-30 | 2024-06-07 |
 | [Dumb](https://open.spotify.com/track/6tTrpy3NlrMEZ46iRR5gtq) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Dumb](https://open.spotify.com/album/5t1AAq5lG28GLpRYjyvUym) | 2:23 | 2023-08-03 | 2023-08-11 |

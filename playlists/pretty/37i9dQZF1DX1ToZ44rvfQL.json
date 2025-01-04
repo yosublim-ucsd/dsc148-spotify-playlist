@@ -1,6 +1,6 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 497850,
+  "num_followers": 498045,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Arde la Ciudad",
-      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 262000,
       "name": "Zafar",
       "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
+      },
+      "artists": [
+        {
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Arde la Ciudad",
+      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 261545,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 261971,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
         "name": "Loco Por Volverla a Ver",
         "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 272189,
       "name": "Loco Por Volverla a Ver",
       "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 261971,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
+        "name": "Abre",
+        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 326213,
+      "name": "Al lado del camino",
+      "url": "https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
         "name": "11",
         "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 221080,
       "name": "Oncemil",
       "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
-      "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Abre",
-        "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 326213,
-      "name": "Al lado del camino",
-      "url": "https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl"
+      "duration_ms": 259592,
+      "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
+      "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Caminar\u00e1s Caminos",
-        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 248466,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Arruinarse (feat. Airbag) [En Vivo En River Plate]",
         "url": "https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+        "name": "Caminar\u00e1s Caminos",
+        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
       },
       "artists": [
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Creo Que Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
+      "duration_ms": 248466,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1095,6 +1079,22 @@
       "duration_ms": 174626,
       "name": "Descontrolado",
       "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Vicentico 5",
+        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Creo Que Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
         "name": "Mago",
         "url": "https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 214853,
       "name": "Mago",
       "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
-        "name": "25 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
-      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
     },
     {
       "added_at": "2024-11-14 17:07:34",

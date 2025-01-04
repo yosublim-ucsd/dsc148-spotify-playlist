@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Ian Lucas, La T y La M Fede Vigevani & Marama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,167,775 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,167,814 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 92 | [Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera](https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 7:55 |
 | 93 | [OTRA COPA MÁS](https://open.spotify.com/track/0F5FCL8GDttbCy97UusxHx) | [AGUI](https://open.spotify.com/artist/1VjZe744ub9n8wqpe1CuzS), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [OTRA COPA MÁS](https://open.spotify.com/album/3vCusuv3lCOWNDm80NF9gm) | 2:38 |
 | 94 | [Bonita](https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Bonita](https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU) | 2:34 |
-| 95 | [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 |
-| 96 | [Pechito Partido](https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Pechito Partido](https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7) | 2:27 |
+| 95 | [Pechito Partido](https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Pechito Partido](https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7) | 2:27 |
+| 96 | [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 |
 | 97 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 |
 | 98 | [Me Voy](https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Me Voy](https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN) | 2:57 |
 | 99 | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 |
-| 100 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 100 | [Quedamos solo amigos](https://open.spotify.com/track/29ImtnW7jPW3JsnF9RtUrX) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Quedamos solo amigos](https://open.spotify.com/album/7jC8V0VtNvueGqLMvYwFtj) | 2:40 |
 
 Snapshot ID: `Z2XTXQAAAACE/WKhIENXnVi0l8RirCOL`

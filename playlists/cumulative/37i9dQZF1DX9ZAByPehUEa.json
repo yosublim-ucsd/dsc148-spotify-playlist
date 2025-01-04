@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 174222,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0qJyAFX66MbbB8sHT4PYAM"
@@ -3706,6 +3706,28 @@
       "duration_ms": 390640,
       "name": "Hold Me Up (feat. Jocelyn Brown) - Riva Starr Tangerine Funk Extended Vocal Mix",
       "url": "https://open.spotify.com/track/7z9zF6nzKLwoz9QZI9qpxa"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6O5pGehe9S18QRaVp4Yl05"
+      },
+      "artists": [
+        {
+          "name": "Boogietraxx",
+          "url": "https://open.spotify.com/artist/2CMUIHJ41MQbfrEoG6Jsof"
+        },
+        {
+          "name": "SCHROEDS",
+          "url": "https://open.spotify.com/artist/6nzLqJhQSGwQkExfjapL3o"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194783,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1ckErKs5lbSIe4B4gQcqHC"
     },
     {
       "album": {

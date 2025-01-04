@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 67105,
+  "num_followers": 67129,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,18 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
-        "name": "Phantasm",
-        "url": "https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx"
+        "name": "Bounce EP",
+        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
       },
       "artists": [
         {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
         }
       ],
-      "duration_ms": 269655,
-      "name": "Phantasm",
-      "url": "https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY"
+      "duration_ms": 181028,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
     },
     {
       "added_at": "2024-12-06 00:00:00",
@@ -923,18 +919,22 @@
     {
       "added_at": "2024-12-06 00:00:00",
       "album": {
-        "name": "Bounce EP",
-        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
+        "name": "Phantasm",
+        "url": "https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx"
       },
       "artists": [
         {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
         }
       ],
-      "duration_ms": 181028,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
+      "duration_ms": 269655,
+      "name": "Phantasm",
+      "url": "https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY"
     },
     {
       "added_at": "2024-12-06 00:00:00",

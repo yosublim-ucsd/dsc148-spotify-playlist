@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 196152,
+  "num_followers": 196207,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
+      },
+      "artists": [
+        {
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
+        }
+      ],
+      "duration_ms": 162153,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 180682,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
-      },
-      "artists": [
-        {
-          "name": "Jakob",
-          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
-        }
-      ],
-      "duration_ms": 162153,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Trouble In Paradise",
-        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 152768,
-      "name": "Favorite (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "Moon Shoes EP",
         "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Favorite (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Liz",
-        "url": "https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Liz",
-      "url": "https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "For You (Many Selves Version)",
         "url": "https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 221525,
       "name": "For You - Many Selves Version",
       "url": "https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "Liz",
+        "url": "https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Liz",
+      "url": "https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa"
     },
     {
       "added_at": "2024-12-14 02:53:15",

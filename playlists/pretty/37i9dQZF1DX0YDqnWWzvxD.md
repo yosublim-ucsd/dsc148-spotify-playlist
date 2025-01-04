@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,779 likes - 100 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,007 likes - 100 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 6 | [Atman](https://open.spotify.com/track/4VxBlGryb8qI5X3x2FfOW5) | [Shaanti Dhvani](https://open.spotify.com/artist/1dT771je9qOYSwruMXIkn7) | [Atman](https://open.spotify.com/album/6p4iQ4XzoXSBbZXsQvqiVA) | 3:06 |
 | 7 | [The Southern Sea](https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE) | [Garth Stevenson](https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka) | [Flying](https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P) | 8:59 |
 | 8 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
-| 9 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 |
+| 9 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 |
 | 10 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 |
-| 11 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 |
+| 11 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 |
 | 12 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
 | 13 | [Gratitude at 432 Hz](https://open.spotify.com/track/210uN31E64RF58k4j6Gh4f) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:56 |
 | 14 | [Forest Temple](https://open.spotify.com/track/4wuuxCsLLcEqaZtof12vwt) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Forest Temple](https://open.spotify.com/album/7Eq90GfM3AIlwQnrzCCOPR) | 3:54 |
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 21 | [Land of the Medicine Buddha \(Instrumental Meditation With Bamboo Flute, Singing Bowls & Nature Sounds\)](https://open.spotify.com/track/4JSl7jspo0pnnh4iy3z2NQ) | [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Call Within](https://open.spotify.com/album/3hWS8n1PFg2GUGScBKvjQU) | 7:13 |
 | 22 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
 | 23 | [Endless Nights](https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/39G4Sh25irfylUiwli0abu) | 2:58 |
-| 24 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
-| 25 | [Yoga Dream](https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Yoga Dream](https://open.spotify.com/album/2YwRSxhluGFUDhU6YFO2Sq) | 3:29 |
-| 26 | [Savasana](https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ) | [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Meditations for Transformation: Cycle of Life](https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0) | 6:06 |
-| 27 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
+| 24 | [Yoga Dream](https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Yoga Dream](https://open.spotify.com/album/2YwRSxhluGFUDhU6YFO2Sq) | 3:29 |
+| 25 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
+| 26 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 |
+| 27 | [Savasana](https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ) | [Mirabai Ceiba](https://open.spotify.com/artist/2qBg3GRK1U9XCkJ9JabBt3) | [Meditations for Transformation: Cycle of Life](https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0) | 6:06 |
 | 28 | [Breathing In](https://open.spotify.com/track/3JdKepSqQszC0g7NIDDcFl) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr), [Lydia Munchinsky](https://open.spotify.com/artist/4tgCwwHq7yPk3LIXjqfI7U) | [Breathing In](https://open.spotify.com/album/1WuIBoOzsSprBaSAz04bkz) | 2:30 |
 | 29 | [Fountain Of Calmness](https://open.spotify.com/track/1BcSsY73b8jCwC57mpu1Xk) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Fountain Of Calmness](https://open.spotify.com/album/5Q87MNpqzebIdfCoWTSSOS) | 3:26 |
 | 30 | [Resonant Wave](https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Scott Huckabay](https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg), [Phil Heaven](https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ) | [Harmonic Way](https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0) | 5:35 |

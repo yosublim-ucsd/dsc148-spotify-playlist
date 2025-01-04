@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,880 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,036 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 62 | [NASSY](https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp) | [NASSY](https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo) | 2:22 |
 | 63 | [Allergy](https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Allergy](https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr) | 2:32 |
 | 64 | [MIKOTO \~SUN NO KUNI\~ \(feat\. Tsubaki & Awich\)](https://open.spotify.com/track/7iykur6YUL7GvccjTt4g3e) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [SUN NO KUNI](https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu) | 3:58 |
-| 65 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 |
-| 66 | [Nightmares](https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9) | [Alex Spencer](https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y) | [Nightmares](https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG) | 2:16 |
+| 65 | [Nightmares](https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9) | [Alex Spencer](https://open.spotify.com/artist/4ADThfXsqaIKW9IV8GqN9Y) | [Nightmares](https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG) | 2:16 |
+| 66 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 |
 | 67 | [Gangsta](https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/0200qF0LcG1Sr2f9aVfdsG) | 3:14 |
 | 68 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
 | 69 | [Black&Blue](https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3) | 3:18 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 71 | [My Reason](https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [My Reason](https://open.spotify.com/album/2S4dyF1yekWz8irV4OrzlK) | 3:09 |
 | 72 | [On Sight](https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Oh Hi Ali](https://open.spotify.com/artist/6RaQB0xEzhoYx6mk0ADvwZ) | [The Flower That Knew](https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC) | 2:37 |
 | 73 | [NOBODY // ME](https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [NOBODY // ME](https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4) | 3:35 |
-| 74 | [Wikidest DJ](https://open.spotify.com/track/23Vzz30Kuo6mvtC08pTBX0) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Wikidest DJ](https://open.spotify.com/album/0kbT9bsuLwT17rK9zp3Gzr) | 2:56 |
-| 75 | [U Want More](https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [U Want More](https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV) | 3:33 |
+| 74 | [U Want More](https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [U Want More](https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV) | 3:33 |
+| 75 | [Wikidest DJ](https://open.spotify.com/track/23Vzz30Kuo6mvtC08pTBX0) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Wikidest DJ](https://open.spotify.com/album/0kbT9bsuLwT17rK9zp3Gzr) | 2:56 |
 | 76 | [Uptight](https://open.spotify.com/track/5kDsYTx4hn1nmeUP633hGD) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [Exactly As It Seems](https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4) | 4:39 |
 | 77 | [Villains](https://open.spotify.com/track/3xFjz2vlzkyty4vUCs6HFo) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Villains](https://open.spotify.com/album/6P5bTg5CNgTGdECjcdUZfU) | 3:12 |
 | 78 | [What Type Of Girl Am I?](https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 2:33 |

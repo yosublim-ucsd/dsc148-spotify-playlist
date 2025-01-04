@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-775 songs - 2 day 13 hr 22 min
+776 songs - 2 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [Polka Dots And Moonbeams \- 1994 Remaster](https://open.spotify.com/track/3Wadbk42UtsJOT5mCx9Bb0) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell, Vol\. 2 \(1989 Version\)](https://open.spotify.com/album/49urA9QFIqnlG3XufhHhfH) | 4:03 | 2024-03-20 |  |
 | [Polka Dots And Moonbeams \- Remastered](https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell, Vol\. 2 \(2001 RVG Edition\)](https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM) | 4:04 | 2023-01-03 | 2024-04-19 |
 | [Ponta De Areia](https://open.spotify.com/track/2m4AKjV0OBfSft7YYh8y5x) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 5:36 | 2023-05-24 | 2024-10-01 |
-| [Porgy \(I Loves You Porgy\) \- Outtake](https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:00 | 2022-10-27 |  |
+| [Porgy \(I Loves You Porgy\) \- Outtake](https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:00 | 2022-10-27 | 2025-01-04 |
 | [Portrait Of Jenny](https://open.spotify.com/track/1C5HpiqUgOY7v5audtXeXa) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 4:35 | 2024-03-06 |  |
 | [Portrait of Tracy](https://open.spotify.com/track/5NBAy2oiS9OIWyAZhklsH2) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m) | 2:22 | 2022-10-27 |  |
 | [Precious](https://open.spotify.com/track/2CS0RcwxuawBHEs8n7gS3i) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 4:23 | 2023-05-30 | 2024-09-07 |
@@ -580,6 +580,7 @@
 | [Solar \- Rudy Van Gelder Remaster](https://open.spotify.com/track/16KZuJfRKqMZQvmOibsVqX) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Walkin'](https://open.spotify.com/album/7nFwdPkEbfMUb1c5xuHGR6) | 4:42 | 2022-10-27 | 2023-07-16 |
 | [Solitude](https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2022-10-27 |  |
 | [Solitude](https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(OJC Remaster\)](https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC) | 7:51 | 2023-08-30 | 2024-04-19 |
+| [Some Other Time](https://open.spotify.com/track/0oEIrVWpLj01XtFtDitQyR) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:59 | 2024-07-17 |  |
 | [Some Other Time](https://open.spotify.com/track/4HH32eyROgSGiay7IGiGSJ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC) | 5:36 | 2022-10-27 | 2023-08-28 |
 | [Someone to Watch Over Me](https://open.spotify.com/track/18iF9PLIbNvy01JS5zLkDT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:30 | 2023-01-03 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/4SfFKA89wG1ZibFLpkwFw7) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 5:57 | 2024-07-17 |  |

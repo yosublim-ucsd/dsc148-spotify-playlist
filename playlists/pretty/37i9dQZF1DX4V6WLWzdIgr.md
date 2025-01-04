@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,801 likes - 85 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,887 likes - 85 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 38 | [Pelanggaran](https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pelanggaran](https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK) | 4:57 |
 | 39 | [Aku Sing Lungo](https://open.spotify.com/track/2xk7P9Y2bzsCblzrXnOkBa) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Aku Sing Lungo](https://open.spotify.com/album/2yTxYLV1Z4QMZYjEX6ctHO) | 5:56 |
 | 40 | [Kisinan](https://open.spotify.com/track/4l0MtxkfzsugEBHSsdhae6) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS), [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [Kisinan](https://open.spotify.com/album/5RW3jMVUCN5eCkuhSkJcZv) | 4:22 |
-| 41 | [Takdire Pisah](https://open.spotify.com/track/5jMO4LPNKOkhgqxiknYMwa) | [Diorama](https://open.spotify.com/artist/3H35hbJajNwRxBykmwBcuj) | [Takdire Pisah](https://open.spotify.com/album/4fbDMnj1IJfMESBKFdvVLa) | 5:16 |
+| 41 | [Takdire Pisah](https://open.spotify.com/track/5jMO4LPNKOkhgqxiknYMwa) | [Diorama](https://open.spotify.com/artist/1fUKdAlQVtR3mZmdiFTzrq) | [Takdire Pisah](https://open.spotify.com/album/4fbDMnj1IJfMESBKFdvVLa) | 5:16 |
 | 42 | [Nemen](https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Nemen](https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t) | 4:48 |
 | 43 | [Dalan Liyane](https://open.spotify.com/track/30xujBi9kPi3YWEbgzv8gH) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Dalan Liyane](https://open.spotify.com/album/6LFJ0rjfUWeddBZbgCDIPU) | 4:18 |
 | 44 | [Sewates Konco](https://open.spotify.com/track/3ZsxUx6uEUq2JaaJZHpY8J) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Destya Eka](https://open.spotify.com/artist/2tm1IWxQUHQJNbqZRIH49s) | [Sewates Konco](https://open.spotify.com/album/6X6IZWFp4R4ViCcXrJIXqs) | 5:03 |

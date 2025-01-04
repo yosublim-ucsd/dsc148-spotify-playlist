@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 217723,
+  "num_followers": 217859,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,30 @@
       "duration_ms": 135996,
       "name": "Hello, Hi",
       "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
+    },
+    {
+      "added_at": "2025-01-02 23:00:03",
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
     },
     {
       "added_at": "2025-01-02 23:00:03",
@@ -1043,6 +1067,26 @@
     {
       "added_at": "2025-01-02 23:00:03",
       "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Outfit (with 21 Savage)",
+      "url": "https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr"
+    },
+    {
+      "added_at": "2025-01-02 23:00:03",
+      "album": {
         "name": "Du \u00e4r f\u00f6r S\u00f6dermalm",
         "url": "https://open.spotify.com/album/21U5rhOJ1TWaBFH3844zwd"
       },
@@ -1723,7 +1767,7 @@
     {
       "added_at": "2025-01-02 23:00:03",
       "album": {
-        "name": "we\u00b4re just little angels",
+        "name": "we're just little angels",
         "url": "https://open.spotify.com/album/44bTM42HHBqjjK2UxoABJe"
       },
       "artists": [

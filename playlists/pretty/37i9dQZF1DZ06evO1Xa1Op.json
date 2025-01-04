@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20896,
+  "num_followers": 20906,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAADUNqo2MHF26WkGCzH7xDEk",
+  "snapshot_id": "Z3XXAAAAAABZ7yBh2UKEK1jfUrZmFCJ7",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 253226,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
+      "duration_ms": 197880,
+      "name": "Ali's Here",
+      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 197880,
-      "name": "Ali's Here",
-      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
+      "duration_ms": 253226,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
     },
     {
       "added_at": null,

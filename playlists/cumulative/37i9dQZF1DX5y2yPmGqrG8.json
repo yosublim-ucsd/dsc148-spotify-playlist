@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 483180,
       "name": "be a",
       "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 290250,
       "name": "Big Majestic",
       "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 339493,
       "name": "Fear of Flying",
       "url": "https://open.spotify.com/track/4i1RRMLpGEDqT5vInUvwX7"
@@ -4342,7 +4342,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 291002,
       "name": "Gurek",
       "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
@@ -4578,7 +4578,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 200378,
       "name": "Hooked Paw",
       "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
@@ -5985,6 +5985,24 @@
     },
     {
       "album": {
+        "name": "Harmonies from Betelgeuse",
+        "url": "https://open.spotify.com/album/71RPcOUXLacUGpvWzbhx7r"
+      },
+      "artists": [
+        {
+          "name": "Concepci\u00f3n Huerta",
+          "url": "https://open.spotify.com/artist/4LLGTNLQEH0XNPAQSa36Sa"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Melancholy In Time",
+      "url": "https://open.spotify.com/track/2elhMSdgXrZsMkKEGVcAIq"
+    },
+    {
+      "album": {
         "name": "Calming Signals",
         "url": "https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR"
       },
@@ -6646,7 +6664,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
@@ -7450,7 +7468,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 268327,
       "name": "Que llueva ```",
       "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
@@ -8254,7 +8272,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 363483,
       "name": "Sky Hooks",
       "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
@@ -8356,6 +8374,24 @@
       "duration_ms": 307882,
       "name": "Snow and Pollen",
       "url": "https://open.spotify.com/track/25Mrqz38ZMSVseXiILwtl5"
+    },
+    {
+      "album": {
+        "name": "Squared Roots",
+        "url": "https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "So Shall You Be",
+      "url": "https://open.spotify.com/track/0iPesoyRa6yQ3SiGVOnea3"
     },
     {
       "album": {
@@ -9468,7 +9504,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 151248,
       "name": "The Theme",
       "url": "https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo"
@@ -10400,7 +10436,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 302190,
       "name": "Virtual U",
       "url": "https://open.spotify.com/track/39nTI9fKd7tB0AUuQObLf1"
@@ -10520,7 +10556,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-03",
+      "date_removed": null,
       "duration_ms": 232742,
       "name": "Waende",
       "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
@@ -11058,7 +11094,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 238003,
       "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
       "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"

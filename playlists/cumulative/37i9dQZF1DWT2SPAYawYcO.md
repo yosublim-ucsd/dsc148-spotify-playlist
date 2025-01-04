@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Morgan Wallen
 
-6,874 songs - 15 day 12 hr 6 min
+6,875 songs - 15 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1750,6 +1750,7 @@
 | [Dubai Shit](https://open.spotify.com/track/4A1PTVtszgXnwA6YRXMHQv) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Omada](https://open.spotify.com/artist/53fC8PxrmSh5HQEyzyzlz4) | [Dubai Shit](https://open.spotify.com/album/6VfNPu3ZMLn10HKFA68qWI) | 2:32 | 2024-10-11 | 2024-10-18 |
 | [Dud](https://open.spotify.com/track/1Iv2ymj0AJBkzy6f0LaA8o) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Dud](https://open.spotify.com/album/1dDSIj9FR0TWceBZkJhYIc) | 3:47 | 2024-06-13 | 2024-06-21 |
 | [Dull \(feat\. Softcult\)](https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull \(feat\. Softcult\)](https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8) | 3:15 | 2024-08-08 | 2024-08-16 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-02 |  |
 | [Dumb](https://open.spotify.com/track/3aYNByMwUHzFjLD2XpjP7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Nighthawks](https://open.spotify.com/album/6fvPCH09RdjrTF56T9fZfu) | 3:04 | 2023-08-31 | 2023-09-08 |
 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 | 2024-01-18 | 2024-01-26 |
 | [Dun Dun](https://open.spotify.com/track/48XuAKxSzr3nJBeU1yf0KM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Dun Dun](https://open.spotify.com/album/4Ycyp1cQVW9VPOzlEdSk83) | 3:29 | 2024-08-01 | 2024-08-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: MOROHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,977 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,999 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,30 +58,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 48 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
 | 49 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 |
 | 50 | [逆らう羽](https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [逆らう羽](https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU) | 3:15 |
-| 51 | [Summer Days](https://open.spotify.com/track/2efC256b9fQBjpxJDHP2me) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Summer Days](https://open.spotify.com/album/5MLq5dpMMTL0F1RDDmfleu) | 3:49 |
-| 52 | [Wan!](https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Wan!](https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW) | 2:35 |
+| 51 | [Unbalanced Blend](https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Unbalanced Blend](https://open.spotify.com/album/6j3FsUUi3dVuIalzgUCAFz) | 5:19 |
+| 52 | [Summer Days](https://open.spotify.com/track/2efC256b9fQBjpxJDHP2me) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Summer Days](https://open.spotify.com/album/5MLq5dpMMTL0F1RDDmfleu) | 3:49 |
 | 53 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 |
-| 54 | [Ebi Fry](https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [EUPHORIA](https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz) | 2:37 |
-| 55 | [Unbalanced Blend](https://open.spotify.com/track/06pT8zW7GZ90rR2YQy8ebY) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Unbalanced Blend](https://open.spotify.com/album/6j3FsUUi3dVuIalzgUCAFz) | 5:19 |
-| 56 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 |
+| 54 | [Wan!](https://open.spotify.com/track/3wn7SKn3NbyicqUxwHJGR5) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Wan!](https://open.spotify.com/album/6rC4G8tBWgyMgwbncVr7nW) | 2:35 |
+| 55 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 |
+| 56 | [Ebi Fry](https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [EUPHORIA](https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz) | 2:37 |
 | 57 | [Slow Motion Perception](https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Slow Motion Perception](https://open.spotify.com/album/3y1yDShK721iCzxjmDCiTk) | 3:36 |
-| 58 | [出自](https://open.spotify.com/track/6PXF0QH95WswIgisUOzMUL) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [出自](https://open.spotify.com/album/7sfdg5SSdJy29Apk96bW2M) | 5:47 |
-| 59 | [チャーミー](https://open.spotify.com/track/2uYVZuH5I0V7ttt6K1joAY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [チャーミー](https://open.spotify.com/album/4be8Zrc2bh0nwNx8ylHlp5) | 3:57 |
-| 60 | [トーキョーリバー](https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki) | [ALBATROSS](https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47) | [トーキョーリバー](https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd) | 3:44 |
-| 61 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
-| 62 | [魔法使いになりたくて](https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [HAPPY BIRTHDAY](https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj) | 3:06 |
-| 63 | [slowboat](https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [see you, frail angel\. sea adore you.](https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba) | 3:55 |
-| 64 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 |
+| 58 | [魔法使いになりたくて](https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [HAPPY BIRTHDAY](https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj) | 3:06 |
+| 59 | [出自](https://open.spotify.com/track/6PXF0QH95WswIgisUOzMUL) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [出自](https://open.spotify.com/album/7sfdg5SSdJy29Apk96bW2M) | 5:47 |
+| 60 | [チャーミー](https://open.spotify.com/track/2uYVZuH5I0V7ttt6K1joAY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [チャーミー](https://open.spotify.com/album/4be8Zrc2bh0nwNx8ylHlp5) | 3:57 |
+| 61 | [トーキョーリバー](https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki) | [ALBATROSS](https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47) | [トーキョーリバー](https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd) | 3:44 |
+| 62 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
+| 63 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 |
+| 64 | [slowboat](https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [see you, frail angel\. sea adore you.](https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba) | 3:55 |
 | 65 | [ふしぎ](https://open.spotify.com/track/5m3RAoGt9RB77MhNCBju1s) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [Chance](https://open.spotify.com/album/2rq5oAmQDU2qoqyd9Ljntp) | 2:57 |
 | 66 | [Nobody Like きゅん](https://open.spotify.com/track/7LTPXAVsRUJgxoM00zZLLf) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [Nobody Like きゅん](https://open.spotify.com/album/7jHlxjXwVtTQjWRN6euVPq) | 2:31 |
 | 67 | [キリコ](https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [キリコ](https://open.spotify.com/album/5oTBl4jE0kOqmrZefDnjOC) | 3:44 |
 | 68 | [Jusho Futei Mushoku Tei Shunyu](https://open.spotify.com/track/47tXtqlDHBM6uCLyuK1lvd) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Hosono House Revisited](https://open.spotify.com/album/0YbvbjeWwBhgeGfaiuEbAj) | 3:23 |
 | 69 | [美化](https://open.spotify.com/track/6dcKUjWtsBHnd2aDE4OZpF) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [美化](https://open.spotify.com/album/4wjK345il8zPqTWnOV7wFR) | 4:36 |
 | 70 | [幽体離脱](https://open.spotify.com/track/6taQL5v1zYP8CSQxGmscEJ) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [Trooper Salute](https://open.spotify.com/album/4tWPQG4iw4sSp6LxSdnsYG) | 4:59 |
-| 71 | [ぬけがらの海](https://open.spotify.com/track/3I8kQW6EOVEbmODNbv5Mbh) | [Jacob Tanaka](https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG) | [ただようだけ \(Side A\)](https://open.spotify.com/album/3c6q1M9lq78uOPZSx1ua0G) | 3:40 |
-| 72 | [自我讃歌](https://open.spotify.com/track/6fbQH4mvJma1OnnwpvZ4k2) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [慈愛equal自愛](https://open.spotify.com/album/66QgofGJtkPlUTXEz3iYjA) | 3:41 |
+| 71 | [生活 \- re\-recording](https://open.spotify.com/track/0cqnVkquugRkIAcFPsk2DG) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [生活 \(re\-recording\)](https://open.spotify.com/album/5ToRSlA1uamWEJC382q0G5) | 4:12 |
+| 72 | [ぬけがらの海](https://open.spotify.com/track/3I8kQW6EOVEbmODNbv5Mbh) | [Jacob Tanaka](https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG) | [ただようだけ \(Side A\)](https://open.spotify.com/album/3c6q1M9lq78uOPZSx1ua0G) | 3:40 |
 | 73 | [hito](https://open.spotify.com/track/0rgwOh6kTpmOYXFbGNJ3vx) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [hito](https://open.spotify.com/album/3O0r7QHLFBxNuoWDNGhceT) | 3:51 |
-| 74 | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 |
+| 74 | [あけないひみつ](https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM) | [あけないひみつ](https://open.spotify.com/album/608QksoNbIViwjp15kbj1q) | 4:37 |
 | 75 | [クズアンドピース](https://open.spotify.com/track/4JnZyGMjxj9f7AK74y6Cbu) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [クズアンドピース/ポメラニアン](https://open.spotify.com/album/0GomZFVLvII7BCJoufCwl4) | 3:23 |
 
 Snapshot ID: `Z2rMkAAAAAD35MK/GY6cTI4M0Md9fJV1`

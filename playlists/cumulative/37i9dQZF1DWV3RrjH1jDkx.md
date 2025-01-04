@@ -4,7 +4,7 @@
 
 > Endelig fredag 🎵
 
-3,722 songs - 8 day 0 hr 49 min
+3,725 songs - 8 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -865,6 +865,7 @@
 | [Dum](https://open.spotify.com/track/4kadw7GlPL8BZYk9yzWqLx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Dum](https://open.spotify.com/album/5N7hT3FpW2SiFNz7iqrtpY) | 2:34 | 2024-06-13 | 2024-06-21 |
 | [Dum & Deilig](https://open.spotify.com/track/5FStk7omJkKPRaW8YngDto) | [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [Dum & Deilig](https://open.spotify.com/album/4TBA0VgTjBpVyDTKpciMUm) | 2:48 | 2024-09-12 | 2024-09-20 |
 | [Dum Og Deilig \(Manhunt\)](https://open.spotify.com/track/3HzOL1oLeAxP7REwFBIjgn) | [Hauken](https://open.spotify.com/artist/7q7c5aIku0tSFgRBYrmCYN), [Heux](https://open.spotify.com/artist/7IuE8jJQzeifyrcFYdrIWt) | [Dum Og Deilig \(Manhunt\)](https://open.spotify.com/album/3rmTTPOim9meA8fQvQttX5) | 2:21 | 2024-09-19 | 2024-09-27 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-02 |  |
 | [Dumb](https://open.spotify.com/track/1nzucJgdbte8RptIORkiRM) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Dumb](https://open.spotify.com/album/7KHJ0yUs08PQWPeu7qfGaW) | 3:26 | 2024-04-26 | 2024-05-03 |
 | [Dumme hjerte](https://open.spotify.com/track/0lTTXHUlqrvshL7HLGXgbs) | [Lembo](https://open.spotify.com/artist/1sMXTrR4hdGRdvyA8uIX0Z), [Oral Bee](https://open.spotify.com/artist/4QawfzCb5NbFRNn4BySXb1), [Sportsalleen](https://open.spotify.com/artist/7fOtaGYi9Mrft9xjRXqRAA) | [Dumme hjerte](https://open.spotify.com/album/4VBhB4HdAirW675tWSE0nA) | 2:13 | 2024-05-02 | 2024-05-10 |
 | [Dump den fyren](https://open.spotify.com/track/07U8plbydZvCOs6T2I05gJ) | [Synne Sørgjerd](https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF) | [Dump den fyren](https://open.spotify.com/album/2CbDwMbIsxHOUtVlCCmp3z) | 2:17 | 2024-05-31 | 2024-06-07 |
@@ -2485,6 +2486,7 @@
 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-04-26 | 2024-05-03 |
 | [OUT OF MY HANDS](https://open.spotify.com/track/7i4ltqLigNXp5IkcUCcYEC) | [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [OUT OF MY HANDS](https://open.spotify.com/album/4QNyKdjigJCaFXmg9ay8sV) | 2:46 | 2024-04-26 | 2024-05-03 |
 | [Out of my league](https://open.spotify.com/track/2tKk6XkpIwddIx9NaYKVXe) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z), [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Out of my league](https://open.spotify.com/album/4ifUM3xBfL2WzFqWvO5YJ9) | 3:39 | 2024-05-02 | 2024-05-10 |
+| [Outfit \(with 21 Savage\)](https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:57 | 2025-01-02 |  |
 | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib) | 2:39 | 2024-11-21 | 2024-11-29 |
 | [Outta Here](https://open.spotify.com/track/2mcnza8Cwx05ZBnkT39QDQ) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Outta Here](https://open.spotify.com/album/7EFEOFpZfcvkHODOCCSUF3) | 2:35 | 2024-08-29 | 2024-09-06 |
 | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/track/1NWaYdISmPkmGaWCIEz6kb) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Outta My Mind pt\. 2 \(ft\. Lola Young\)](https://open.spotify.com/album/2xMIyNXGHO2RJLtcZqnMVn) | 2:44 | 2024-04-26 | 2024-05-03 |
@@ -3692,6 +3694,7 @@
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-05-23 | 2024-06-01 |
 | [You Ain’t For Me](https://open.spotify.com/track/7hd8IUeTsLnyEr9b2RquoG) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [You Ain’t For Me](https://open.spotify.com/album/6Psiq5uxpznB6jNgwGiKfK) | 2:37 | 2024-08-09 | 2024-08-16 |
 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 | 2024-09-12 | 2024-09-20 |
+| [You and your eyes](https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [You and your eyes](https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ) | 2:36 | 2025-01-02 |  |
 | [You Are Impossible](https://open.spotify.com/track/37TIE3H9WMMpeFK4P2vpui) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [You Are Impossible](https://open.spotify.com/album/21GdZbfKEYzUdkN4K7uLOa) | 4:22 | 2024-06-13 | 2024-06-21 |
 | [You Belong To No\-One](https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 3:38 | 2024-09-12 | 2024-09-20 |
 | [YOU CAN'T HAVE IT](https://open.spotify.com/track/3J6v27Xcqk6r9NSXBXpDMf) | [Emma Håård](https://open.spotify.com/artist/7efUZcMGY04yOrQbW7fpRI) | [DADDY'S MONEY](https://open.spotify.com/album/25T3Lv0ZKaj4dvskLJkfRz) | 3:49 | 2024-11-28 | 2024-12-06 |

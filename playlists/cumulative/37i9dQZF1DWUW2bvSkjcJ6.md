@@ -4,7 +4,7 @@
 
 > Die besten Neuerscheinungen der letzten beiden Wochen in einer Playlist\. Cover: Zerb, Ty Dolla $ign, Wiz Khalifa
 
-3,160 songs - 6 day 11 hr 0 min
+3,161 songs - 6 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [Dubai Shit](https://open.spotify.com/track/4A1PTVtszgXnwA6YRXMHQv) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Omada](https://open.spotify.com/artist/53fC8PxrmSh5HQEyzyzlz4) | [Dubai Shit](https://open.spotify.com/album/6VfNPu3ZMLn10HKFA68qWI) | 2:32 | 2024-10-10 | 2024-10-18 |
 | [Duftkerzen](https://open.spotify.com/track/6vGei0kn5k3Z5kwDugLNvi) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Duftkerzen](https://open.spotify.com/album/1TXnb2mZNQKnlwIhPSQJ8J) | 2:30 | 2024-08-22 | 2024-08-30 |
 | [Dum Dum](https://open.spotify.com/track/5YHNNhgvpJYPlxyrx7UNjd) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Dum Dum](https://open.spotify.com/album/3jzcoZusqtkQUZlLza3FLR) | 2:41 | 2024-06-13 | 2024-06-21 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-02 |  |
 | [dunkelblau](https://open.spotify.com/track/6ycvSaEKJHGXZeQpJ4LM1H) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [dunkelblau](https://open.spotify.com/album/6zDZIqezaQ7QB6dos1WLpm) | 3:20 | 2024-05-30 | 2024-06-07 |
 | [Durch den Monsun](https://open.spotify.com/track/6h0YGk9uOGKp7mcqs7mtkX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [Durch den Monsun](https://open.spotify.com/album/55SC7ryefIZm4fsusRiSvE) | 2:35 | 2024-07-26 | 2024-08-02 |
 | [Durch die Nacht](https://open.spotify.com/track/2SOJytsIuNLOG49osyWLRd) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Durch die Nacht](https://open.spotify.com/album/1p8BJWQQDUAwSkUA38lwuU) | 2:39 | 2024-09-05 | 2024-09-13 |
@@ -2939,7 +2940,7 @@
 | [Warum immer Ich](https://open.spotify.com/track/7xHsXJT7x3RW94zamTR1Kb) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Warum immer Ich](https://open.spotify.com/album/4iSIgn73eRebx4H55o3phD) | 2:48 | 2024-04-26 | 2024-05-03 |
 | [Was du Liebe nennst](https://open.spotify.com/track/0SGn2JKcnyIL5aAahmt19k) | [Mila](https://open.spotify.com/artist/4NRdSJJGAVKkyQgmRyn6dk) | [Was du Liebe nennst](https://open.spotify.com/album/3UbPiRwpQGhftYiqyLGCOv) | 2:45 | 2024-06-27 | 2024-07-05 |
 | [WAS DU NICHT FÜHLST](https://open.spotify.com/track/3C2ssdymDaL6H8w0dl2LT6) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [WAS DU NICHT FÜHLST](https://open.spotify.com/album/0vblqzFL8O2KjJhuDTGBuS) | 2:23 | 2024-06-06 | 2024-06-14 |
-| [Was du nicht siehst](https://open.spotify.com/track/7zrs1TP73ItZiFDqVkV0NR) | [Laurenz](https://open.spotify.com/artist/2SxLNXXcBhIYkH8EkSfJm5) | [Was du nicht siehst](https://open.spotify.com/album/4fpmxOoo49SVr3pdpCmZI3) | 2:34 | 2025-01-02 |  |
+| [Was du nicht siehst](https://open.spotify.com/track/7zrs1TP73ItZiFDqVkV0NR) | [Laurenz](https://open.spotify.com/artist/2SxLNXXcBhIYkH8EkSfJm5) | [Was du nicht siehst](https://open.spotify.com/album/4fpmxOoo49SVr3pdpCmZI3) | 2:34 | 2025-01-02 | 2025-01-04 |
 | [Was Es Braucht](https://open.spotify.com/track/6hDWXSeWkjGiWW4qC94UKB) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Was Es Braucht](https://open.spotify.com/album/0iRjf9T50CSIzm4yLrOfCk) | 2:47 | 2024-10-31 | 2024-11-08 |
 | [WAS IST DA LOS ?!](https://open.spotify.com/track/6WFdu4LIuTVrD2O1Z1bJdW) | [NOAH](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [WAS IST DA LOS ?!](https://open.spotify.com/album/36ASREHRtD2mbiifWWpc3j) | 2:08 | 2024-07-04 | 2024-07-12 |
 | [Was Liebe Heisst](https://open.spotify.com/track/768KiUh8wwX9lNc7g5luUp) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Was Liebe Heisst](https://open.spotify.com/album/5tupnvfnbb1GIzg7UGHrJ6) | 2:18 | 2024-06-20 | 2024-06-28 |

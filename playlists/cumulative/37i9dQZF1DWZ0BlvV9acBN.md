@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rodolfo Abrantes
 
-177 songs - 13 hr 42 min
+178 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Cadê o Amor](https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y) | [Rozeniltton](https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Cadê o Amor](https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3) | 4:33 | 2022-10-14 | 2022-11-26 |
 | [Caminho Sem Volta](https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh) | [Stone Band](https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc) | [Caminho Sem Volta](https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR) | 3:35 | 2022-09-02 |  |
 | [Canta Minha'alma \(Behold\) \- Live Session](https://open.spotify.com/track/6xFNwNFUyHRMb74AB9kPDj) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro Henrique: Live Session {Lado B}](https://open.spotify.com/album/2Y8CQnkB62SbJenuBxurcu) | 6:42 | 2022-09-02 | 2023-04-16 |
-| [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 | 2023-05-05 |  |
+| [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 | 2023-05-05 | 2025-01-04 |
 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 | 2023-11-03 |  |
 | [Celebre \- Ao Vivo](https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Celebre \(Ao Vivo\)](https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY) | 4:09 | 2024-08-09 |  |
 | [Chega](https://open.spotify.com/track/34Ibxcbi3VvdgkJT6fDIA6) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Chega](https://open.spotify.com/album/4L3ZfTeBbooQhaYvG36rmQ) | 3:05 | 2022-09-02 | 2022-11-26 |
@@ -105,6 +105,7 @@
 | [Medley Corinhos de Fogo \- Ao Vivo](https://open.spotify.com/track/6f4FTnfOe8EJjbskXRnBHj) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Jedson Aguiar](https://open.spotify.com/artist/0CPfWYNtRHXEU2SnIZKNDg) | [Medley Corinhos de Fogo \(Ao Vivo\)](https://open.spotify.com/album/3E46QWTq6mddhz4o67GAjH) | 2:44 | 2024-08-23 |  |
 | [Medley Leão de Judá](https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 4:56 | 2022-09-02 | 2024-04-19 |
 | [Medley Leão de Judá \- Ao Vivo](https://open.spotify.com/track/2JgFmY60kpblVPw7uHChSz) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Medley Leão de Judá \(Ao Vivo\)](https://open.spotify.com/album/6992k2JHeyVKHqAbzyT0A0) | 4:56 | 2024-04-19 | 2024-07-31 |
+| [Meia Noite \- Ao Vivo](https://open.spotify.com/track/1CJmhl3D2xcWhEC4nTslPD) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Meia Noite \(Ao Vivo\)](https://open.spotify.com/album/5I1Bi88WAhYCIksYcVWszq) | 3:43 | 2025-01-03 |  |
 | [Mente Brilhante](https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Mente Brilhante](https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy) | 5:07 | 2022-09-02 | 2023-09-05 |
 | [Meu Mundo](https://open.spotify.com/track/712wkFgYgi6i6xJfFtBoNL) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK) | [Meu Acampamento](https://open.spotify.com/album/7nFGxAkZ9iz7h5cho5xIqm) | 5:56 | 2022-09-02 | 2023-03-12 |
 | [Meu Valor](https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Meu Valor](https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu) | 2:53 | 2022-09-02 | 2023-02-12 |

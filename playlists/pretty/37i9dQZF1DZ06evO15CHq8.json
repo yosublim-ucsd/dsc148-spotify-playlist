@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 628076,
+  "num_followers": 628222,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAADRnhPLHZ4s9wQGQZ17E9c7",
+  "snapshot_id": "Z3XXAAAAAAA35s1Q/agf84wwIP10gXUC",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Grey",
+        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 128417,
+      "name": "O Pana!",
+      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KILL YOURSELF Part XIV: The Vulture Saga",
         "url": "https://open.spotify.com/album/4shih0Tkjmn2JWJHSHlF2s"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 123285,
       "name": "Venom",
       "url": "https://open.spotify.com/track/4RYhSQFFlquCTb8XRMJgFU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Grey",
-        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 128417,
-      "name": "O Pana!",
-      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
     },
     {
       "added_at": null,

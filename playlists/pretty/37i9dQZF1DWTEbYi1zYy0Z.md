@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,322 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,370 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Bounce](https://open.spotify.com/track/6RUIN0IIPm13Bt3RhPto02) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Slow Burn](https://open.spotify.com/album/1Iuzwy5Dra6ntbmJ2v4j9n) | 4:16 |
-| 2 | [Living A Dream](https://open.spotify.com/track/0TW2qtoPj7KQ3k0dgNnNKG) | [Phillip Doc Martin](https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Living A Dream](https://open.spotify.com/album/2DRHGRo7PrjMGecrxFA3Km) | 4:22 |
-| 3 | [Freedom \- radio single](https://open.spotify.com/track/3VrSSFKulCr9Vdex6X4JHP) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Freedom](https://open.spotify.com/album/2hv17EL1v430aN9E0sbFZM) | 3:49 |
-| 4 | [Where Do We Go From Here?](https://open.spotify.com/track/6b0rAouRVovuUi1s4x6BiT) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Where Do We Go From Here?](https://open.spotify.com/album/1QaWrySFaSvXxrFWyUaYfg) | 3:39 |
-| 5 | [Automatic](https://open.spotify.com/track/6d4PdhxDEF9bJFZ74EVwTc) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Automatic](https://open.spotify.com/album/54td2WbTNgtvvnOUY7CGdF) | 4:23 |
-| 6 | [Twenty \(feat\. Michael Broening\)](https://open.spotify.com/track/1U3hZGaKKOsJzCJikh2v6A) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Twenty](https://open.spotify.com/album/70SDL3x5FCRVLJXQJPCVe6) | 4:12 |
-| 7 | [Impulse](https://open.spotify.com/track/0nV7T8aDzUGJ0RQ417uAMJ) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Impulse](https://open.spotify.com/album/5LazfoIN28eaJqAy2Bi03s) | 4:03 |
-| 8 | [Seaside Story](https://open.spotify.com/track/5XlpBi3GwS2HaOCwfePIDs) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm) | [Seaside Story](https://open.spotify.com/album/5NPaHe3MUibgOmV5bRakwj) | 4:19 |
-| 9 | [The Way You Sway \- radio single](https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Way You Sway](https://open.spotify.com/album/0UFcEb8TeFUf08KlyxNyWX) | 4:18 |
+| 1 | [Let's Get Lost](https://open.spotify.com/track/7CMTV4ETCs5mX0kOToof9w) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Let's Get Lost](https://open.spotify.com/album/0qzKCFdmGVeygq4y5JVxz3) | 4:25 |
+| 2 | [The Bounce](https://open.spotify.com/track/6RUIN0IIPm13Bt3RhPto02) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Slow Burn](https://open.spotify.com/album/1Iuzwy5Dra6ntbmJ2v4j9n) | 4:16 |
+| 3 | [Living A Dream](https://open.spotify.com/track/0TW2qtoPj7KQ3k0dgNnNKG) | [Phillip Doc Martin](https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Living A Dream](https://open.spotify.com/album/2DRHGRo7PrjMGecrxFA3Km) | 4:22 |
+| 4 | [Freedom \- radio single](https://open.spotify.com/track/3VrSSFKulCr9Vdex6X4JHP) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Freedom](https://open.spotify.com/album/2hv17EL1v430aN9E0sbFZM) | 3:49 |
+| 5 | [Where Do We Go From Here?](https://open.spotify.com/track/6b0rAouRVovuUi1s4x6BiT) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Where Do We Go From Here?](https://open.spotify.com/album/1QaWrySFaSvXxrFWyUaYfg) | 3:39 |
+| 6 | [Automatic](https://open.spotify.com/track/6d4PdhxDEF9bJFZ74EVwTc) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Automatic](https://open.spotify.com/album/54td2WbTNgtvvnOUY7CGdF) | 4:23 |
+| 7 | [Twenty \(feat\. Michael Broening\)](https://open.spotify.com/track/1U3hZGaKKOsJzCJikh2v6A) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Twenty](https://open.spotify.com/album/70SDL3x5FCRVLJXQJPCVe6) | 4:12 |
+| 8 | [Impulse](https://open.spotify.com/track/0nV7T8aDzUGJ0RQ417uAMJ) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Impulse](https://open.spotify.com/album/5LazfoIN28eaJqAy2Bi03s) | 4:03 |
+| 9 | [Seaside Story](https://open.spotify.com/track/5XlpBi3GwS2HaOCwfePIDs) | [Carol Albert](https://open.spotify.com/artist/3o1J5y4sY6jg1sOvF69qnm) | [Seaside Story](https://open.spotify.com/album/5NPaHe3MUibgOmV5bRakwj) | 4:19 |
 | 10 | [The Girl From Cagayan De Oro](https://open.spotify.com/track/7hpy2vrgp2duIotpoYPxSl) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Jonathan Wesley](https://open.spotify.com/artist/4PzdAdVyRd6Un66vHOD6st), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [The Girl From Cagayan De Oro](https://open.spotify.com/album/7qU0xAK2XDVk4Qiq2sNzBt) | 4:27 |
 | 11 | [Love Duet](https://open.spotify.com/track/6rlmSOzLzpwj6OD75vMnSm) | [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Love Duet](https://open.spotify.com/album/12m1GvcFY7Tzt5GVik0fl6) | 2:56 |
 | 12 | [Happy Hour](https://open.spotify.com/track/3iZDt8tUUKq5KblXWZGXiL) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Happy Hour](https://open.spotify.com/album/0OVp7l61NtLRuQauGUSoLJ) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [On Cue](https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [On Cue](https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI) | 3:49 |
 | 100 | [Reasons](https://open.spotify.com/track/3wo1wi09snMqZ9T3KQu3VT) | [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [Reasons](https://open.spotify.com/album/5VxTgmfCEn2I9YmuoCEuqt) | 2:57 |
 
-Snapshot ID: `ZxHdQAAAAACMMi3Cig3BAbR2jhCyN1oh`
+Snapshot ID: `Z3du5AAAAAAc3PpC79pUyigTiJ62NpzR`

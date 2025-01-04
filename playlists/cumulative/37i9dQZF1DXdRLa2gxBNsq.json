@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 196235,
       "name": "Arcano",
       "url": "https://open.spotify.com/track/343upm20E1tcXBoSlHaVuX"
@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 157482,
       "name": "Mundo Muerto",
       "url": "https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1"
@@ -3077,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "PEPITO",
+        "url": "https://open.spotify.com/album/3FghMs4vRuGqMa1757v0vT"
+      },
+      "artists": [
+        {
+          "name": "Daft Kant",
+          "url": "https://open.spotify.com/artist/5AE2o4ABrSjsKkN0WVWUWy"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "PEPITO",
+      "url": "https://open.spotify.com/track/4TfEpPa1FSfM265JCtqPB6"
+    },
+    {
+      "album": {
         "name": "Perder la Voz",
         "url": "https://open.spotify.com/album/6Gqq9IvF4LRV6AL9eW5a6j"
       },
@@ -3438,7 +3456,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 199832,
       "name": "Sabor a Plomo",
       "url": "https://open.spotify.com/track/4hc7wJtn6lWgD6eAmcfjq0"
@@ -3576,6 +3594,28 @@
       "duration_ms": 211453,
       "name": "Se\u00f1oras y Se\u00f1ores",
       "url": "https://open.spotify.com/track/0xyhHET6yRf0GQyEH6yexU"
+    },
+    {
+      "album": {
+        "name": "Silencio roto",
+        "url": "https://open.spotify.com/album/3ReN6Vb64V2JW7TdANiV87"
+      },
+      "artists": [
+        {
+          "name": "Los Saneadores",
+          "url": "https://open.spotify.com/artist/162c4R164YBZ6blxEr6oFx"
+        },
+        {
+          "name": "Helga Pataki",
+          "url": "https://open.spotify.com/artist/1xFwIdpA7KoZKFoib8H6rX"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166453,
+      "name": "Silencio roto",
+      "url": "https://open.spotify.com/track/4Tj1XMpVCn07xKWkNjk5C5"
     },
     {
       "album": {
@@ -3818,6 +3858,24 @@
       "duration_ms": 150813,
       "name": "Tributo por la Pasta",
       "url": "https://open.spotify.com/track/0EUrfc9xoOpBgGBvD5F0et"
+    },
+    {
+      "album": {
+        "name": "Trinki-Trinki",
+        "url": "https://open.spotify.com/album/3O2mDJMd2LW5aO93WOsWpZ"
+      },
+      "artists": [
+        {
+          "name": "Sota Kaballo Rey",
+          "url": "https://open.spotify.com/artist/3kWQrRrRENZFLfbZt9j8Hu"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157406,
+      "name": "Trinki-Trinki",
+      "url": "https://open.spotify.com/track/4N2sxv16DIDG91FUOVDBtp"
     },
     {
       "album": {

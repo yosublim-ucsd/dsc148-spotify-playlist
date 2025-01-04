@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 341938,
+  "num_followers": 342004,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Anima Inferna",
-        "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 179733,
       "name": "After the Flesh",
       "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Anima Inferna",
+        "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
+        "name": "Confessions of a Knife",
+        "url": "https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT"
+      },
+      "artists": [
+        {
+          "name": "My Life With The Thrill Kill Kult",
+          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
+        }
+      ],
+      "duration_ms": 331437,
+      "name": "A Daisy Chain 4 Satan - Acid & Flowers Mix",
+      "url": "https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
         "name": "Lakes of Flame",
         "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 314000,
       "name": "TILL THE END",
       "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
-        "name": "Confessions of a Knife",
-        "url": "https://open.spotify.com/album/07qAwgxJzZYQCPTQc157eT"
-      },
-      "artists": [
-        {
-          "name": "My Life With The Thrill Kill Kult",
-          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
-        }
-      ],
-      "duration_ms": 331437,
-      "name": "A Daisy Chain 4 Satan - Acid & Flowers Mix",
-      "url": "https://open.spotify.com/track/5FwLDsdAgRVc3lZjam3euf"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Don't Question Me",
-        "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
+        "name": "Prototype 6:17",
+        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
       },
       "artists": [
         {
-          "name": "Boom Kitty",
-          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
-        },
-        {
-          "name": "Waylon Reavis",
-          "url": "https://open.spotify.com/artist/6FZbPTKqSEYCRDuZfzn2ww"
+          "name": "The Silverblack",
+          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
         }
       ],
-      "duration_ms": 201184,
-      "name": "Don't Question Me",
-      "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
+      "duration_ms": 208470,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Prototype 6:17",
-        "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
+        "name": "Don't Question Me",
+        "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
       },
       "artists": [
         {
-          "name": "The Silverblack",
-          "url": "https://open.spotify.com/artist/0ckgPY5JROBCK0hB6tAG5r"
+          "name": "Boom Kitty",
+          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
+        },
+        {
+          "name": "Waylon Reavis",
+          "url": "https://open.spotify.com/artist/6FZbPTKqSEYCRDuZfzn2ww"
         }
       ],
-      "duration_ms": 208470,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
+      "duration_ms": 201184,
+      "name": "Don't Question Me",
+      "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
     },
     {
       "added_at": "2024-10-17 23:31:08",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-10-17 23:31:08",
       "album": {
-        "name": "Incubus",
-        "url": "https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5"
-      },
-      "artists": [
-        {
-          "name": "Munro",
-          "url": "https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg"
-        }
-      ],
-      "duration_ms": 334968,
-      "name": "Incubus",
-      "url": "https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS"
-    },
-    {
-      "added_at": "2024-10-17 23:31:08",
-      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 219809,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm"
+    },
+    {
+      "added_at": "2024-10-17 23:31:08",
+      "album": {
+        "name": "Incubus",
+        "url": "https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5"
+      },
+      "artists": [
+        {
+          "name": "Munro",
+          "url": "https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg"
+        }
+      ],
+      "duration_ms": 334968,
+      "name": "Incubus",
+      "url": "https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS"
     },
     {
       "added_at": "2024-10-17 23:31:08",

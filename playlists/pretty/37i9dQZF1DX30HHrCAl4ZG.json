@@ -1,13 +1,45 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Amen Dunes",
-  "num_followers": 833872,
+  "description": "Explore all things indie rock right now. Featuring music from girlpuppy",
+  "num_followers": 833900,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2T59QAAAAAS8nu9H+nwSCfLR8wIDyDO",
+  "snapshot_id": "Z3du5wAAAAA/gG1ke/kvHdDFObqnaK73",
   "tracks": [
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 133003,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
+    },
     {
       "added_at": "2024-12-17 16:51:24",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 247190,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
+    },
+    {
+      "added_at": "2025-01-03 05:00:23",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 220183,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
     },
     {
       "added_at": "2024-12-13 05:00:42",

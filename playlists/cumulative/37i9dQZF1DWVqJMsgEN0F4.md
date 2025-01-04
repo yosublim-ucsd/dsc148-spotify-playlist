@@ -2,7 +2,7 @@
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> beabadoobee along with the hottest alternative songs right now.
+> Glass Animals along with the hottest alternative songs right now.
 
 759 songs - 1 day 18 hr 50 min
 

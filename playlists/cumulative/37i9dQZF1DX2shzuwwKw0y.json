@@ -2231,6 +2231,28 @@
     },
     {
       "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Nivel C",
+          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212160,
+      "name": "El 27 (En Vivo)",
+      "url": "https://open.spotify.com/track/5MHRP8hSluWqUor7WpzzOL"
+    },
+    {
+      "album": {
         "name": "El ABL",
         "url": "https://open.spotify.com/album/56MTChSy899m0jYs8fwX2f"
       },
@@ -2788,6 +2810,28 @@
       "duration_ms": 235328,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/4Eki5zNlMHuBg2IDzNUw5C"
+    },
+    {
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205901,
+      "name": "El Due\u00f1o Del Palenque (En Vivo)",
+      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
     },
     {
       "album": {
@@ -3408,7 +3452,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 160603,
       "name": "El Panu",
       "url": "https://open.spotify.com/track/4y2MJEEIbcX0dyZcj0ht9f"
@@ -4636,6 +4680,24 @@
       "duration_ms": 158093,
       "name": "JGL",
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
+    },
+    {
+      "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Joven Bragado",
+      "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
     },
     {
       "album": {
@@ -6980,7 +7042,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 160000,
       "name": "Por Si Se Les Olvidaba",
       "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
@@ -7146,6 +7208,24 @@
       "duration_ms": 164991,
       "name": "PRIMO",
       "url": "https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf"
+    },
+    {
+      "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338511,
+      "name": "Promesa Cumplida",
+      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
     },
     {
       "album": {
@@ -8412,7 +8492,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 149962,
       "name": "Tenis Jordan",
       "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
@@ -8914,7 +8994,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 147500,
       "name": "Voy Enfierrado",
       "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"

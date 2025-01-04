@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,135 likes - 97 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,165 likes - 97 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

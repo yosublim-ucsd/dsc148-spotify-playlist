@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 64799,
+  "num_followers": 64825,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "Cuz I Really Feel It",
-        "url": "https://open.spotify.com/album/2fn3Ud9RQECGPUZ8Oc5BHd"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        },
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        }
-      ],
-      "duration_ms": 167088,
-      "name": "Tudo O Que Eu Posso Te Dar",
-      "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "Dava Praia",
         "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "Cuz I Really Feel It",
+        "url": "https://open.spotify.com/album/2fn3Ud9RQECGPUZ8Oc5BHd"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        },
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        }
+      ],
+      "duration_ms": 167088,
+      "name": "Tudo O Que Eu Posso Te Dar",
+      "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
     },
     {
       "added_at": "2024-12-13 16:47:52",

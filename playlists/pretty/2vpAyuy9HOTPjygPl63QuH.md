@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,763 likes - 46 songs - 2 hr 25 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,767 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,10 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 44 | [Jump N Twist](https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Jump N Twist](https://open.spotify.com/album/60khhaK9jNfEcIPnzZB8oI) | 2:58 |
 | 45 | [Out Of My Head](https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Out Of My Head](https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz) | 3:24 |
 | 46 | [Play Dice](https://open.spotify.com/track/5AgIfwIrpkcWc9YSFASIId) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Play Dice EP](https://open.spotify.com/album/6KSjbYIVmWCGaMxIiRWEr4) | 2:55 |
+| 47 | [Hustler](https://open.spotify.com/track/7Ga3eawAui0Ocf06y25sH2) | [ESSE](https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19) | [Hustler](https://open.spotify.com/album/02vdJvt0pOPBd7AnJXMi8v) | 2:33 |
+| 48 | [Watch Out](https://open.spotify.com/track/18ng775wzcQl4pwvfqPQ2C) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Watch Out](https://open.spotify.com/album/4uWCyY8Q9giKJd01bb9w73) | 2:22 |
+| 49 | [Trust Me](https://open.spotify.com/track/7qcBWoReOG59Pan9UFXW7v) | [Julio Bravo](https://open.spotify.com/artist/2xENmdo7oEaFrxPWFin702), [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [The Factory VA, Vol\. 1](https://open.spotify.com/album/3V0XYNqYIDbu6JoGeG0oiL) | 5:57 |
+| 50 | [1995](https://open.spotify.com/track/3HpiT9riJsYC9JvyZSzLlE) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA), [Bishop Snow](https://open.spotify.com/artist/2JKfOLsYxleweelfbQgZzF) | [CHICAGO ON TOP](https://open.spotify.com/album/0LQdMCHd0k90pNhrwtDW0C) | 2:19 |
+| 51 | [Call Me Up](https://open.spotify.com/track/4GeZ56YAbi5Zn5kBqcASdC) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [ANATTA](https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6) | [Call Me Up](https://open.spotify.com/album/2ZrCdI8gu5ZhOFkM7m8CeI) | 3:02 |
 
-Snapshot ID: `AAAkL1GN/WvTet5sTKyFk1n+HI8nrcR9`
+Snapshot ID: `AAAkNH6dHMiG/ihzOI10GKULDu/qwg55`

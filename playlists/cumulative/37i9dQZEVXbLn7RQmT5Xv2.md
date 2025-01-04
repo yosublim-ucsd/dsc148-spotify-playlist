@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-939 songs - 2 day 6 hr 35 min
+940 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2021-11-09 | 2021-12-31 |
 | [Law Kan](https://open.spotify.com/track/75mZKR14B0oKPdpWNVhbYx) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Law Kan](https://open.spotify.com/album/6FtU7VDfDmKUrS5sxf6V4e) | 4:16 | 2023-07-24 | 2023-07-27 |
 | [Law Kont](https://open.spotify.com/track/1CSK54xG8dPzihikUOtrle) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Law Kont](https://open.spotify.com/album/2mZZauOoioNXEuZtNBl0yk) | 3:10 | 2021-06-25 | 2021-09-07 |
-| [LAYALINA](https://open.spotify.com/track/1yiJHrunZu2fov7OhC7vM9) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [TESH SHABAB](https://open.spotify.com/album/72kwga9yphmifAq4pErvlr) | 3:38 | 2024-06-04 |  |
+| [LAYALINA](https://open.spotify.com/track/1yiJHrunZu2fov7OhC7vM9) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [TESH SHABAB](https://open.spotify.com/album/72kwga9yphmifAq4pErvlr) | 3:38 | 2024-06-04 | 2025-01-04 |
 | [Le3btek](https://open.spotify.com/track/4639bUl0D2CTpXDBKUdSRQ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Le3btek](https://open.spotify.com/album/4hnF2534JU5IlbhiLFjAzC) | 3:48 | 2022-02-02 | 2022-03-18 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-25 | 2022-08-30 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2022-11-21 | 2022-11-23 |
@@ -530,7 +530,7 @@
 | [Ray'a](https://open.spotify.com/track/5OqP6CKUFRyoeVQnOU37ds) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ray'a](https://open.spotify.com/album/70QFgfmKKOBw8ZNrwvfM8w) | 4:06 | 2021-11-17 | 2022-01-25 |
 | [Raye2](https://open.spotify.com/track/5FG5OwMxg6fUSW8cD3W6M0) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Raye2](https://open.spotify.com/album/2czAtFBjF4awl68FiZQxUE) | 3:47 | 2023-07-23 | 2023-08-27 |
 | [Ra’sa Slow](https://open.spotify.com/track/0VTA7UNm4ploUs884YAz9w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ra’sa Slow](https://open.spotify.com/album/7fzgWkatGkQaotzwJo6tTp) | 3:12 | 2022-03-02 | 2022-03-15 |
-| [Rehla](https://open.spotify.com/track/78veJTXWwR5FxpZ7dW0Plr) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/0iSk85tbMn33Sao5E3UHtZ) | 3:44 | 2024-08-03 |  |
+| [Rehla](https://open.spotify.com/track/78veJTXWwR5FxpZ7dW0Plr) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/0iSk85tbMn33Sao5E3UHtZ) | 3:44 | 2024-08-03 | 2025-01-04 |
 | [Rehla](https://open.spotify.com/track/61krPxyIuTV8tpzMxHEWJh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:44 | 2023-03-24 | 2024-07-19 |
 | [Reyah El Hayah](https://open.spotify.com/track/08yqfVX2AXNzrq6xlaGB3h) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Raye2](https://open.spotify.com/album/1pSEP1POnPOIDGaNol4mOs) | 3:49 | 2023-09-29 |  |
 | [Reyah El Hayah](https://open.spotify.com/track/1ZuHXbFUhAb3SHOn4TzQbW) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Reyah El Hayah](https://open.spotify.com/album/0pyY1M7TsYkpXll7BpjI4i) | 3:49 | 2023-08-05 | 2023-09-30 |
@@ -775,7 +775,7 @@
 | [بونجور هلعب جولة وطفو النور](https://open.spotify.com/track/2X6nInxASivyRpPPNToiD0) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [بونجور هلعب جولة وطفو النور](https://open.spotify.com/album/7HF3n8vA2aCNJH0UpZWECf) | 5:55 | 2024-01-01 | 2024-03-15 |
 | [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 | 2024-04-29 | 2024-06-06 |
 | [بيكلموني](https://open.spotify.com/track/4mFb5fW3T7DWPSTTb85Y30) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5AOlSMT6DqsUBN4tgLiikm) | 5:16 | 2024-06-05 | 2024-07-27 |
-| [بين الحيطان](https://open.spotify.com/track/0xhz4gxI1PmdUJunVUV8iv) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [النهايات اخلاق](https://open.spotify.com/album/2rNjGXX2kPVeONjCGhrgp2) | 3:12 | 2024-12-16 | 2024-12-26 |
+| [بين الحيطان](https://open.spotify.com/track/0xhz4gxI1PmdUJunVUV8iv) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [النهايات اخلاق](https://open.spotify.com/album/2rNjGXX2kPVeONjCGhrgp2) | 3:12 | 2024-12-16 |  |
 | [تامر عاشور هيجيلي موجوع](https://open.spotify.com/track/0rkDJCTNLBr97RVyi77z7S) | [Raouf Morsy](https://open.spotify.com/artist/4Me8b17cDKOf8pMkdnH0Hy) | [تامر عاشور هيجيلي موجوع](https://open.spotify.com/album/0yZqqqqkKC8lqEI6pbk3m6) | 3:29 | 2024-01-21 | 2024-01-23 |
 | [تاني](https://open.spotify.com/track/5MYvIwOpXVzWToptTJbZR4) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [تاني](https://open.spotify.com/album/0fBTcx8BchMZh0UyFqDmIn) | 2:46 | 2021-08-07 | 2022-02-23 |
 | [تراك الموسم](https://open.spotify.com/track/6ACKR9iNKxeBAc7fs52pHa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [تراك الموسم](https://open.spotify.com/album/6VHyM1P7H6Q7qzl50DZWHx) | 3:07 | 2022-02-01 | 2022-02-07 |
@@ -902,6 +902,7 @@
 | [مش شايفك](https://open.spotify.com/track/2PQ5vldtM9aQg5WpZ0Lmgl) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/3pxvDgUY0ydiEz56kOZlMg) | 3:01 | 2022-07-29 | 2022-08-14 |
 | [مش مسيكب](https://open.spotify.com/track/53YaSCGeoisD1W1BrtoIeN) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [مش مسيكب](https://open.spotify.com/album/0vhURXOomMIqrrLi0SkGCH) | 3:04 | 2021-03-27\* | 2021-05-12 |
 | [مع السلامة للي عايز يمشي](https://open.spotify.com/track/2scCDNMl7gNAhI7cLz8BRN) | [أوشا الصغير](https://open.spotify.com/artist/4GQ48kaghndBko3ZHweQSc) | [مع السلامة للي عايز يمشي](https://open.spotify.com/album/42l4J90ZqMFHc9V1tYHCP8) | 4:24 | 2021-03-27\* | 2021-04-15 |
+| [مفيش عصفور بيعادي نسور](https://open.spotify.com/track/2hP83tdgkvVWfnrAMaPLQt) | [محمد البصيلي](https://open.spotify.com/artist/3nTcVjkStfh5XOuHUFbx5m) | [مفيش عصفور بيعادي نسور](https://open.spotify.com/album/6R0Pw3UJ4hqU7gkBNxisM9) | 3:20 | 2025-01-03 |  |
 | [مفيش مانع](https://open.spotify.com/track/7KLy4f8VCsiIEYr69mC4uZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [مفيش مانع](https://open.spotify.com/album/6OVfW5ln6vTI1reXFHaiGd) | 3:40 | 2021-12-14 | 2022-05-19 |
 | [من فضل الاخصام خفو التخطير \( انا مش ع الدواق \)](https://open.spotify.com/track/2CA1VER7dNNdgDyH9iL3BE) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [من فضل الاخصام خفو التخطير \( انا مش ع الدواق \)](https://open.spotify.com/album/1vwPrjUDOb4GAZl7CJn73e) | 2:59 | 2024-04-11 | 2024-11-13 |
 | [منافقين](https://open.spotify.com/track/4GW1BcvFF9mdvmsIHmDgnG) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [منافقين](https://open.spotify.com/album/2KfyXM0bKpqXeyED3C7Je0) | 3:27 | 2021-04-06 | 2021-09-24 |

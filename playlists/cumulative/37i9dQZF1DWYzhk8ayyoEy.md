@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-148 songs - 8 hr 17 min
+149 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Stand By You](https://open.spotify.com/track/3kSXn1osC89W8JcPLozTzs) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:39 | 2023-01-04 |  |
 | [Stand Up Eight](https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stand Up Eight](https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N) | 3:07 | 2023-04-07 |  |
 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 | 2023-02-03 |  |
-| [Suddenly Okay](https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/7bezusYLfnlW1g7bz4t1Y7) | 3:03 | 2024-02-09 |  |
+| [Suddenly Okay](https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/7bezusYLfnlW1g7bz4t1Y7) | 3:03 | 2024-02-09 | 2025-01-04 |
 | [Sunrise](https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Morning / Sunrise](https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T) | 2:50 | 2024-09-06 |  |
 | [superglue](https://open.spotify.com/track/6OJ4kuBYKCdlLwCAELUFVe) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [superglue](https://open.spotify.com/album/7yJj3Xtd94isVwPtGKkIao) | 4:05 | 2023-04-24 | 2023-07-26 |
 | [Surprise](https://open.spotify.com/track/23yqxyylT3ksA2rLjk3SPC) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Surprise](https://open.spotify.com/album/5n9g4YNR0HwYounEZShI93) | 3:27 | 2023-02-10 | 2023-11-16 |
@@ -146,6 +146,7 @@
 | [What If](https://open.spotify.com/track/1ENH0YTu0OiRykq00M9Z0c) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [What If](https://open.spotify.com/album/56orzU3RLKSUDK5WFiqKhh) | 4:04 | 2023-08-11 |  |
 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 | 2023-02-24 |  |
 | [Who I Am](https://open.spotify.com/track/5rnA7GuOZvPWYHuydZ08zx) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:23 | 2024-07-01 |  |
+| [wildflower](https://open.spotify.com/track/2PtPgifaaf3zple5JmOu0m) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [wildflower](https://open.spotify.com/album/2Tbw2822fUUCPECiVspPM4) | 3:00 | 2025-01-03 |  |
 | [Winning Streak](https://open.spotify.com/track/4yAuMf5Nrp9j7CY0NOIaRh) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/0REXlSF3fDqqRrwOvlKhNd) | 3:14 | 2024-10-11 |  |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2023-01-04 | 2023-08-12 |
 | [Wonder](https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB) | 2:52 | 2023-05-05 |  |

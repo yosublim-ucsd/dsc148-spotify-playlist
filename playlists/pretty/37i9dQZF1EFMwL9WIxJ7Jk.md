@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,410 likes - 153 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,408 likes - 153 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 103 | [Christmas Party](https://open.spotify.com/track/3TiXc9kX7o4juE7ZrZS8uk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:55 |
 | 104 | [DJ Tonight](https://open.spotify.com/track/7MfjEJUoVDLgFTHFBvxjOI) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:47 |
 | 105 | [Flava](https://open.spotify.com/track/2aLb1SLgY71VyLBT8ZRcmj) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Flava](https://open.spotify.com/album/0VNwFtFuVSviiJbroZde1z) | 3:03 |
-| 106 | [Ashes](https://open.spotify.com/track/7LImynpVAFaCrQhMTCTGnf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:17 |
-| 107 | [Rollin'](https://open.spotify.com/track/3Q1eEtOuXMGdqsddQzx3Br) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
+| 106 | [Rollin'](https://open.spotify.com/track/3Q1eEtOuXMGdqsddQzx3Br) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
+| 107 | [Ashes](https://open.spotify.com/track/7LImynpVAFaCrQhMTCTGnf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:17 |
 | 108 | [Breezy \(feat\. Theron Theron\)](https://open.spotify.com/track/0gZperMfdaYprsNv7k7Pae) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Theron Theron](https://open.spotify.com/artist/3NDd4Jte97ZCYqZBEQbs23) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:04 |
 | 109 | [I Believe In Santa](https://open.spotify.com/track/1NgLQouxQqWVA2oQdr0Ze0) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:38 |
 | 110 | [Drama Queen](https://open.spotify.com/track/11QeiHjd4600PBx7n85hlA) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:08 |
@@ -136,10 +136,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 126 | [Have You Now](https://open.spotify.com/track/63y6MYLjCpnUV4EVYawZA4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:46 |
 | 127 | [Final Breath](https://open.spotify.com/track/22HxXTUuXM2jHtHMcu4V7o) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:25 |
 | 128 | [I Get It](https://open.spotify.com/track/6Uj10GHUgJ7D8QVwx9BpKI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:05 |
-| 129 | [Bring The Whole Hood](https://open.spotify.com/track/50u0dzmVfbZx55JsVSVq7O) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:20 |
-| 130 | [Forget How To Love](https://open.spotify.com/track/0bwJ9PbVbtbHXzGEEkvTmd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:18 |
-| 131 | [Touchdown Dance](https://open.spotify.com/track/45wCjjaPuE5M9BdNA4iYV2) | [IM5](https://open.spotify.com/artist/4TEgsvmXwYmqRAoxyo4Wb9) | [Touchdown Dance](https://open.spotify.com/album/3Q3RSzUE9t7eMKw2b5bwVz) | 3:31 |
-| 132 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
+| 129 | [Forget How To Love](https://open.spotify.com/track/0bwJ9PbVbtbHXzGEEkvTmd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:18 |
+| 130 | [Bring The Whole Hood](https://open.spotify.com/track/50u0dzmVfbZx55JsVSVq7O) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:20 |
+| 131 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
+| 132 | [Touchdown Dance](https://open.spotify.com/track/45wCjjaPuE5M9BdNA4iYV2) | [IM5](https://open.spotify.com/artist/4TEgsvmXwYmqRAoxyo4Wb9) | [Touchdown Dance](https://open.spotify.com/album/3Q3RSzUE9t7eMKw2b5bwVz) | 3:31 |
 | 133 | [Silent Night](https://open.spotify.com/track/6EtpTZWS3z4jpBDcJ0bmGu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |
 | 134 | [Done With Bein' Done](https://open.spotify.com/track/3VcOKyZzJfxaN8yPN4Prw6) | [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S) | [Essentials](https://open.spotify.com/album/2tAdwNPoOq0j3wgfbm5x3N) | 3:12 |
 | 135 | [Grow Up](https://open.spotify.com/track/3fj4Q3qjnZMD73xCwY5Y6T) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:56 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 152 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 153 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `Abl0lAAAAACdfe73qkjkwt5/0hgKELGE`
+Snapshot ID: `Abl6NAAAAAC7s+lmd5OnOVnjx0qlDlam`

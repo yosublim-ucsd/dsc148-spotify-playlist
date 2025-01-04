@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,941 songs - 5 day 1 hr 10 min
+1,944 songs - 5 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1744,6 +1744,9 @@
 | [Together We Stand \- Chambord Remix](https://open.spotify.com/track/6HmUobqcMJAYAZUIiUdtNF) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Together We Stand \(Chambord Remix\)](https://open.spotify.com/album/1XUl9gl3vigwmepOxjTBml) | 6:59 | 2024-01-21 | 2024-02-11 |
 | [Toki](https://open.spotify.com/track/2HjFYceu43zXqKDupQ2esM) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ), [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Toki](https://open.spotify.com/album/4sI1zYQn45vugUwIzSJCJf) | 2:21 | 2024-02-10 | 2024-04-08 |
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2024-11-21 |  |
+| [Told You So \- Brooks Remix](https://open.spotify.com/track/5IGNejaPwvIGHFulOKRvVp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Told You So \(Remixes Vol\. 1\)](https://open.spotify.com/album/3ZNDcJGZGcIge6HPMGos3X) | 3:03 | 2025-01-03 |  |
+| [Told You So \- Lavern & VisionV Remix](https://open.spotify.com/track/7sq5lP2gH7lR6EiiyhEbNt) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Told You So \(Remixes Vol\. 1\)](https://open.spotify.com/album/3ZNDcJGZGcIge6HPMGos3X) | 2:30 | 2025-01-03 |  |
+| [Told You So \- Nova Blue Remix](https://open.spotify.com/track/46aw03kRKdxGO5t5GJAtLA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Nova Blue](https://open.spotify.com/artist/2Eyzk42RxVJSgUtQeOZk4S) | [Told You So \(Remixes Vol\. 1\)](https://open.spotify.com/album/3ZNDcJGZGcIge6HPMGos3X) | 2:35 | 2025-01-03 |  |
 | [Tomorrow](https://open.spotify.com/track/1bloKdHHnhiIDCGDfI2ugN) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Us Two](https://open.spotify.com/album/53KeCWH79dIEetwOjFcupt) | 4:12 | 2024-10-12 | 2024-11-02 |
 | [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-07-12 | 2024-07-20 |
 | [Too Far](https://open.spotify.com/track/1lOIJYeoUQMPj3QtlaPl2L) | [Rezone](https://open.spotify.com/artist/0q8sqjhlYCJjlcCADGTPiP) | [Too Far](https://open.spotify.com/album/5BBdBYFqhP1hAYD8ppUirY) | 3:34 | 2022-10-31 | 2022-11-05 |

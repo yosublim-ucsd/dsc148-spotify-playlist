@@ -2,9 +2,9 @@
 
 ### [New Music Friday France](https://open.spotify.com/playlist/37i9dQZF1DX742okrrpwah)
 
-> Le meilleur des nouveautés de la semaine !
+> Lil Baby au top des nouveautés de la semaine !
 
-2,930 songs - 6 day 9 hr 29 min
+2,931 songs - 6 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [Drummer](https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Drummer](https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp) | 3:32 | 2024-09-05 | 2024-09-13 |
 | [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 | 2024-05-02 | 2024-05-10 |
 | [Dull \(feat\. Softcult\)](https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull \(feat\. Softcult\)](https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8) | 3:15 | 2024-08-08 | 2024-08-16 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-03 |  |
 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 | 2024-10-31 | 2024-11-08 |
 | [DX3 \(Dégâts X3\)](https://open.spotify.com/track/7FRniN2WWFoH77P3gFf51r) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [DX3 \(Dégâts X3\)](https://open.spotify.com/album/2Hv2DBDO4UX2AJrFsVoHkT) | 1:58 | 2024-12-19 | 2025-01-03 |
 | [Dyonysos](https://open.spotify.com/track/5B9gm49biFFkSkNfxfrx2y) | [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Dyonysos](https://open.spotify.com/album/7olzc11baB7DKtJLph5WB2) | 3:05 | 2024-12-12 | 2024-12-20 |

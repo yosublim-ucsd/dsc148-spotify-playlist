@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,990,559 likes - 100 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,990,452 likes - 100 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 57 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 |
 | 58 | [I Know \- PR1SVX Edit Sped Up](https://open.spotify.com/track/1CHGJtIsl2TcoWUR42jxjS) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:04 |
 | 59 | [Mama's Boy \- Sped up](https://open.spotify.com/track/01lTSn2mrimc9wSl2EG4F8) | [Lewis Hanton](https://open.spotify.com/artist/7C2uVXwFKLlwHteHGnMLhZ) | [Mama's Boy \(Sped up\)](https://open.spotify.com/album/1Zd2LdHbIG34x4HfhNQTGU) | 1:14 |
-| 60 | [Saturn \- Sped Up](https://open.spotify.com/track/6HCRvVvTrW0gXGOW8cbkqw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 2:39 |
-| 61 | [Strangers \(feat\. Kenya Grace\) \- Sped Up](https://open.spotify.com/track/2CFl2JZVw74jVO5LTyiim3) | [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel), [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(feat\. Kenya Grace\) \[Sped Up\]](https://open.spotify.com/album/3IJLMzgR1r29ij0cxNs5kV) | 2:35 |
+| 60 | [Strangers \(feat\. Kenya Grace\) \- Sped Up](https://open.spotify.com/track/2CFl2JZVw74jVO5LTyiim3) | [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel), [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers \(feat\. Kenya Grace\) \[Sped Up\]](https://open.spotify.com/album/3IJLMzgR1r29ij0cxNs5kV) | 2:35 |
+| 61 | [Saturn \- Sped Up](https://open.spotify.com/track/6HCRvVvTrW0gXGOW8cbkqw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 2:39 |
 | 62 | [If We Have Each Other \(Always By Her Side\) \- Sped Up Version](https://open.spotify.com/track/1B2mOfWYc7EatMwnVx1g1x) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [If We Have Each Other \(Always By Her Side\) \[Sped Up Version\]](https://open.spotify.com/album/6THJRzfxXMd5tjtt4uqFGY) | 2:36 |
 | 63 | [Džanum \- Sped Up](https://open.spotify.com/track/0MsTPYCpMwTlhq3XrtRTT1) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Džanum \- Sped up](https://open.spotify.com/album/2vuMXOH1OPzMrMxInxmnaB) | 2:17 |
 | 64 | [Teenage Dream \- Sped Up](https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:23 |

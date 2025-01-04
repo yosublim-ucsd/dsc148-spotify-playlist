@@ -133,6 +133,28 @@
     },
     {
       "album": {
+        "name": "CHICAGO ON TOP",
+        "url": "https://open.spotify.com/album/0LQdMCHd0k90pNhrwtDW0C"
+      },
+      "artists": [
+        {
+          "name": "Jake Shore",
+          "url": "https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA"
+        },
+        {
+          "name": "Bishop Snow",
+          "url": "https://open.spotify.com/artist/2JKfOLsYxleweelfbQgZzF"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139047,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/3HpiT9riJsYC9JvyZSzLlE"
+    },
+    {
+      "album": {
         "name": "2 to Go",
         "url": "https://open.spotify.com/album/0G5PVLMF8r8MidflHkemq7"
       },
@@ -2132,7 +2154,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 183779,
       "name": "Back 2 Da",
       "url": "https://open.spotify.com/track/4my7y2U3UdXTyMqK8cfZuf"
@@ -4833,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "BUSINESS",
+        "url": "https://open.spotify.com/album/3r8k36LJeZ5eONg1ftFh9a"
+      },
+      "artists": [
+        {
+          "name": "STRMY",
+          "url": "https://open.spotify.com/artist/1pCnvDFb0dWy15U9aTs8D1"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "BUSINESS",
+      "url": "https://open.spotify.com/track/6PhCDn0aAuKQZcyDSB7L3n"
+    },
+    {
+      "album": {
         "name": "Business & Pleasure",
         "url": "https://open.spotify.com/album/0eJjDTAcCvrRKJxtXlPytt"
       },
@@ -5474,6 +5514,28 @@
       "duration_ms": 332033,
       "name": "Candy - Karma Fields Dub",
       "url": "https://open.spotify.com/track/2WSpqHG5002pU8mfFADW3L"
+    },
+    {
+      "album": {
+        "name": "Candy Shop",
+        "url": "https://open.spotify.com/album/031m6izON5ItyxLETIWo8T"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Mareels",
+          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/2wTx5ik0CCnQPTXXfiYwAM"
     },
     {
       "album": {
@@ -6642,7 +6704,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 267605,
       "name": "COPY ME",
       "url": "https://open.spotify.com/track/7tpEzAYTGYdDGQJ1MQtoII"
@@ -6945,6 +7007,28 @@
     },
     {
       "album": {
+        "name": "Cuttin Shapes",
+        "url": "https://open.spotify.com/album/0aZPZeoIzolVJ5AKT1hyli"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6lus-Sun",
+          "url": "https://open.spotify.com/artist/50j4abnuV2BBK42TIC4L7T"
+        },
+        {
+          "name": "Blaze Orange",
+          "url": "https://open.spotify.com/artist/6ShdJxTd5ZhvHbi5sNcEq1"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141375,
+      "name": "Cuttin Shapes",
+      "url": "https://open.spotify.com/track/0zINyohB4TKh0U5oW95bcs"
+    },
+    {
+      "album": {
         "name": "D.A.N.C.E",
         "url": "https://open.spotify.com/album/4lT8F3ZtFCmtsiY206o13Y"
       },
@@ -6956,7 +7040,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 157142,
       "name": "D.A.N.C.E",
       "url": "https://open.spotify.com/track/2mnQZtS74Agt6mJPv5eqzY"
@@ -13132,7 +13216,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 182343,
       "name": "Girl In The Club",
       "url": "https://open.spotify.com/track/2X0I1Ky8BOxJ6a4ZC9x8QX"
@@ -14998,6 +15082,24 @@
       "duration_ms": 151681,
       "name": "Hot In Here",
       "url": "https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP"
+    },
+    {
+      "album": {
+        "name": "Hot To Handle",
+        "url": "https://open.spotify.com/album/316mpzZMJAutw24mdLTkfm"
+      },
+      "artists": [
+        {
+          "name": "Jack Orley",
+          "url": "https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166625,
+      "name": "Hot To Handle",
+      "url": "https://open.spotify.com/track/6ZXbUlFiFUH8EXwqSl0q58"
     },
     {
       "album": {
@@ -19114,7 +19216,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 148346,
       "name": "Lick It Good (feat. Vikina)",
       "url": "https://open.spotify.com/track/6TSwXrR7Hkoy713vgwtgK4"
@@ -37359,6 +37461,32 @@
     },
     {
       "album": {
+        "name": "Watch Out",
+        "url": "https://open.spotify.com/album/4uWCyY8Q9giKJd01bb9w73"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        },
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Watch Out",
+      "url": "https://open.spotify.com/track/18ng775wzcQl4pwvfqPQ2C"
+    },
+    {
+      "album": {
         "name": "Watch That Tongue",
         "url": "https://open.spotify.com/album/3CQWlc3iNFGxUb2kXP7mwe"
       },
@@ -38310,7 +38438,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 156105,
       "name": "Wild Style (feat. Aaron Veal)",
       "url": "https://open.spotify.com/track/4aPdbCnM9rUD6njBcmku9B"

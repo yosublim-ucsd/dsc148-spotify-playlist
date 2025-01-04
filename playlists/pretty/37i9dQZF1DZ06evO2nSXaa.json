@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 232825,
+  "num_followers": 233011,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAADnSWXA2xrHHOOwweuoKRXu",
+  "snapshot_id": "Z3XXAAAAAACyhTn55OG0C/4fJZyMCPnt",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 180392,
-      "name": "we're not alike",
-      "url": "https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R"
+      "duration_ms": 122416,
+      "name": "hurt my feelings",
+      "url": "https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 122416,
-      "name": "hurt my feelings",
-      "url": "https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd"
+      "duration_ms": 180392,
+      "name": "we're not alike",
+      "url": "https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Heather - Spotify Singles",
+      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "all the things i never said",
         "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Heather - Spotify Singles",
-      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10:35 (feat. Tate McRae) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/2dYGTMqlV5r52u5Os7w8Im"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "all my friends are fake",
-      "url": "https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "u love u (with Tate McRae)",
         "url": "https://open.spotify.com/album/08nlCo5zY9nE3isQgZm4yf"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 189062,
       "name": "u love u (with Tate McRae)",
       "url": "https://open.spotify.com/track/4RCpHnkhMmm67EKbI4aEO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "all my friends are fake",
+      "url": "https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT"
     },
     {
       "added_at": null,

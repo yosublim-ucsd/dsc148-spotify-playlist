@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: ABY iO
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,859 likes - 63 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,872 likes - 63 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 16 | [Killerz](https://open.spotify.com/track/22cAqPXROdMYhrXtpQm9t8) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Killerz](https://open.spotify.com/album/1BmAoJthqgOtPu4jd4ab3K) | 2:34 |
 | 17 | [Just Yours \(Your Hell\)](https://open.spotify.com/track/6IINIwPsWoF5kEwCIcsA0N) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL), [Amanda Alexander](https://open.spotify.com/artist/0up2JtB84IcFEDUa8lAhr2) | [Enemy](https://open.spotify.com/album/2JcWwmyL0gDebUT18fZLnV) | 3:24 |
 | 18 | [Shoulder](https://open.spotify.com/track/1Z8MidkV2WcP1vUxM64vpf) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Shoulder](https://open.spotify.com/album/7jjCS1RPvekWlZ6RFZ0Ni1) | 2:53 |
-| 19 | [phoebe](https://open.spotify.com/track/4WBtsA2vJihNwPJUpMFkJB) | [Hugo Branzén](https://open.spotify.com/artist/5W6jIoPLNzOm01fLSznwxX) | [we´re just little angels](https://open.spotify.com/album/44bTM42HHBqjjK2UxoABJe) | 3:54 |
+| 19 | [phoebe](https://open.spotify.com/track/4WBtsA2vJihNwPJUpMFkJB) | [Hugo Branzén](https://open.spotify.com/artist/5W6jIoPLNzOm01fLSznwxX) | [we're just little angels](https://open.spotify.com/album/44bTM42HHBqjjK2UxoABJe) | 3:54 |
 | 20 | [Can't Wait](https://open.spotify.com/track/2oFcPA6DLEULQh2rZkHlts) | [AGGi](https://open.spotify.com/artist/1Vd4zITUpdG9sIb2no0e9c) | [Can't Wait](https://open.spotify.com/album/3AHpK4dgUKnhbNPVwbCFSD) | 2:55 |
 | 21 | [Ms\. Karma](https://open.spotify.com/track/1QZauBpNTCMFOnHUkKgNsu) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Ms\. Karma](https://open.spotify.com/album/0wt0zazV5kSNgb7jDrmnAg) | 2:26 |
 | 22 | [Sometimes](https://open.spotify.com/track/356UjUL3SSitcL9jby4avR) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Sometimes](https://open.spotify.com/album/4P2SJojdRTZsBhJ41hWnWa) | 2:30 |

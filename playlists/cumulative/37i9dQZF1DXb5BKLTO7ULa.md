@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: De Poema's & Snelle
 
-9,156 songs - 19 day 23 hr 31 min
+9,158 songs - 19 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2288,6 +2288,7 @@
 | [Duizend Lichtjes \- Radio Edit](https://open.spotify.com/track/36Vn9lLTJKD8gly99Fg3w9) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Duizend Lichtjes \(Radio Edit\)](https://open.spotify.com/album/3ltI4E6dNJNlfM2gF1EUdl) | 2:31 | 2024-01-25 | 2024-02-02 |
 | [Duizenden Liedjes](https://open.spotify.com/track/5LswOlrraI1zmCIposmytK) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Duizenden Liedjes](https://open.spotify.com/album/1bSK2iRbbItUOeUAXpxx92) | 3:06 | 2024-06-06 | 2024-06-14 |
 | [Dull](https://open.spotify.com/track/2bHiEYY2sn0FnLJW1acm2r) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull](https://open.spotify.com/album/5CbmuaAeWbQRpCAtkoQo1E) | 3:15 | 2024-08-08 | 2024-08-17 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-03 |  |
 | [Dumm](https://open.spotify.com/track/3OuNeUD8M8eHmJwcQQ4C6K) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Dumm](https://open.spotify.com/album/09IPkCuUsG8WC7fGm9ay4m) | 2:34 | 2023-07-27 | 2023-08-04 |
 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-02 | 2023-03-10 |
 | [Dumpalltheguns \- Feat\. Danielle Ponder](https://open.spotify.com/track/6p3011ub8UH8gohU0cmG7K) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Dumpalltheguns \(Feat\. Danielle Ponder\)](https://open.spotify.com/album/7CIcz7JIpKAcogiVQXwPMq) | 4:53 | 2024-03-07 | 2024-03-15 |
@@ -4262,7 +4263,8 @@
 | [Kater Van De Liefde](https://open.spotify.com/track/63nNz8FdlSc5TmxZ8soTej) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [Kater Van De Liefde](https://open.spotify.com/album/4A8yq22J8ljbYLCFBkcRWo) | 3:07 | 2024-10-17 | 2024-10-25 |
 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 | 2023-11-16 | 2023-11-25 |
 | [Katsu Sunrise](https://open.spotify.com/track/4AHdwLWt6MpMrIeOVhreuL) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Katsu Sunrise](https://open.spotify.com/album/6Cyss3e5qUbarjggBphlce) | 3:02 | 2023-10-20 | 2023-10-27 |
-| [Kayo \- Muted Guitar Solo](https://open.spotify.com/track/2kUSEOvJofy61OiVTf71Mn) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 | 2025-01-02 |  |
+| [Kayo](https://open.spotify.com/track/4lfjBWQ0tE9hvejQ0LtT4k) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 | 2025-01-03 |  |
+| [Kayo \- Muted Guitar Solo](https://open.spotify.com/track/2kUSEOvJofy61OiVTf71Mn) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 | 2025-01-02 | 2025-01-04 |
 | [Kechseizoen](https://open.spotify.com/track/1XPCEPVwWCNKcXQ3uElIXC) | [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4) | [Kechseizoen](https://open.spotify.com/album/3Yxb8mvbNLePJ2GPCxKLkA) | 2:29 | 2024-05-31 | 2024-06-07 |
 | [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 | 2024-12-12 | 2024-12-20 |
 | [Keep Going On](https://open.spotify.com/track/0fZAf4lctzwn8zqMsa3RHp) | [Sarah \- Jane](https://open.spotify.com/artist/6lzX2w1Ibni9xPkGAutV7p), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Keep Going On](https://open.spotify.com/album/4BKgRM6MQuKnPv0oBYdRKI) | 3:46 | 2023-07-06 | 2023-07-14 |

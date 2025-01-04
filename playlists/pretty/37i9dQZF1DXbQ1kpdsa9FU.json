@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: MercyMe",
-  "num_followers": 626188,
+  "num_followers": 626250,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Saved",
-        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "Saved",
-      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Church Music",
         "url": "https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK"
       },
@@ -835,18 +819,34 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Double Take - Chris Tomlin",
-        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
+        "name": "Saved",
+        "url": "https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
         }
       ],
-      "duration_ms": 267066,
-      "name": "Amazing Grace (My Chains Are Gone)",
-      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
+      "duration_ms": 174285,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "We Believe",
+      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl"
+        "name": "Double Take - Chris Tomlin",
+        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
       },
       "artists": [
         {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 261693,
-      "name": "We Believe",
-      "url": "https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL"
+      "duration_ms": 267066,
+      "name": "Amazing Grace (My Chains Are Gone)",
+      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Eye On It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/31vtzv0S08tqIUnxTOcDkV"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 205080,
       "name": "Speak Life",
       "url": "https://open.spotify.com/track/7FO6QgfJRKtEwZiYO0dIO9"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        }
+      ],
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "If We're Honest (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
-      },
-      "artists": [
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 207172,
-      "name": "He Knows My Name",
-      "url": "https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 248733,
       "name": "Control (Somehow You Want Me)",
       "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "If We're Honest (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 207172,
+      "name": "He Knows My Name",
+      "url": "https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "These Simple Truths",
-        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
+        "name": "The Beginning & Everything After",
+        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
       },
       "artists": [
         {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
         }
       ],
-      "duration_ms": 260613,
-      "name": "You Love Me Anyway",
-      "url": "https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9"
+      "duration_ms": 202480,
+      "name": "I Will Fear No More",
+      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "The Beginning & Everything After",
-        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+        "name": "These Simple Truths",
+        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
       },
       "artists": [
         {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
         }
       ],
-      "duration_ms": 202480,
-      "name": "I Will Fear No More",
-      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
+      "duration_ms": 260613,
+      "name": "You Love Me Anyway",
+      "url": "https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1531,22 +1531,6 @@
       "duration_ms": 253653,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "These Simple Truths",
-        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "The Words I Would Say",
-      "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1631,6 +1615,22 @@
       "duration_ms": 238946,
       "name": "Strong Tower",
       "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "These Simple Truths",
+        "url": "https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "The Words I Would Say",
+      "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Rescuer (Good News)",
-        "url": "https://open.spotify.com/album/5mati4th5xS4GWys74MiR2"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "Rescuer (Good News)",
-      "url": "https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
         "name": "The Glorious Unfolding",
         "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 286826,
       "name": "Glorious Unfolding",
       "url": "https://open.spotify.com/track/5AyWEKs3d9PXpPkUuf5vup"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Rescuer (Good News)",
+        "url": "https://open.spotify.com/album/5mati4th5xS4GWys74MiR2"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Rescuer (Good News)",
+      "url": "https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2268,9 +2268,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Trust In You",
-      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2372,9 +2372,61 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
+      "duration_ms": 211600,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt"
+      },
+      "artists": [
+        {
+          "name": "Eric Champlin",
+          "url": "https://open.spotify.com/artist/00sjYUgXKrnRL9EajnFQTa"
+        },
+        {
+          "name": "Haylie Allcott",
+          "url": "https://open.spotify.com/artist/7JhR8iHc1tpV79FCvWFl6I"
+        }
+      ],
+      "duration_ms": 242122,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "The Comeback",
+      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
+    },
+    {
+      "added_at": "2024-12-11 10:24:02",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7IXpRlAYAxi2mIQlDldGdi"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2395,18 +2447,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 191013,
-      "name": "The Comeback",
-      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2435,54 +2487,18 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt"
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
       },
       "artists": [
         {
-          "name": "Eric Champlin",
-          "url": "https://open.spotify.com/artist/00sjYUgXKrnRL9EajnFQTa"
-        },
-        {
-          "name": "Haylie Allcott",
-          "url": "https://open.spotify.com/artist/7JhR8iHc1tpV79FCvWFl6I"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 242122,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/7IXpRlAYAxi2mIQlDldGdi"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 198986,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
     },
     {
       "added_at": "2024-12-11 10:24:02",
@@ -2503,34 +2519,22 @@
     {
       "added_at": "2024-12-11 10:24:02",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
+        "name": "God Is In This Story",
+        "url": "https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Even If",
-      "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
-    },
-    {
-      "added_at": "2024-12-11 10:24:02",
-      "album": {
-        "name": "A Way To See In The Dark",
-        "url": "https://open.spotify.com/album/3E7uWZAn35nbYiwAHuya2l"
-      },
-      "artists": [
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
         {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Remind Me Who I Am",
-      "url": "https://open.spotify.com/track/5eqz8gTDU13s7x2DZKiQA9"
+      "duration_ms": 207893,
+      "name": "God Is In This Story",
+      "url": "https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T"
     }
   ],
   "unique_name": "Christian Classics",

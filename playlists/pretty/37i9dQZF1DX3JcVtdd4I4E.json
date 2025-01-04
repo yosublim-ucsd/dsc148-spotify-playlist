@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 7117,
+  "num_followers": 7118,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Where Did You Go",
-        "url": "https://open.spotify.com/album/2KYxGcstPy9m2aE19Y3lzD"
-      },
-      "artists": [
-        {
-          "name": "Kiana",
-          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "Where Did You Go",
-      "url": "https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Hold my breath",
         "url": "https://open.spotify.com/album/0eDkEAUHSyzQTuRuh6gKtJ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 144841,
       "name": "Hold my breath",
       "url": "https://open.spotify.com/track/0hEX2JeG6jep9hVE5mXRuR"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/2KYxGcstPy9m2aE19Y3lzD"
+      },
+      "artists": [
+        {
+          "name": "Kiana",
+          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
+        }
+      ],
+      "duration_ms": 171253,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Habits (Stay High) [Stripped in France]",
-        "url": "https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 224620,
-      "name": "Habits (Stay High) [Stripped in France]",
-      "url": "https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "All My Life (Where Have You Been)",
         "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 172306,
       "name": "All My Life (Where Have You Been)",
       "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Habits (Stay High) [Stripped in France]",
+        "url": "https://open.spotify.com/album/1jskQCfh9IXZjEfZRq5H1q"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 224620,
+      "name": "Habits (Stay High) [Stripped in France]",
+      "url": "https://open.spotify.com/track/5XJ1lUHJJdOTj0PGUXZMOf"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 143081,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 172526,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 143081,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "THE ONE AFTER ME",
-        "url": "https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq"
+        "name": "maserati",
+        "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
       },
       "artists": [
         {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
         }
       ],
-      "duration_ms": 147859,
-      "name": "COFFEE REMIX",
-      "url": "https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m"
+      "duration_ms": 92133,
+      "name": "maserati",
+      "url": "https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "maserati",
-        "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
+        "name": "THE ONE AFTER ME",
+        "url": "https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq"
       },
       "artists": [
         {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 92133,
-      "name": "maserati",
-      "url": "https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB"
+      "duration_ms": 147859,
+      "name": "COFFEE REMIX",
+      "url": "https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m"
     },
     {
       "added_at": "2024-02-08 23:00:00",

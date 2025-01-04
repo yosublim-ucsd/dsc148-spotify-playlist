@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with KETTAMA and Interplanetary Criminal.",
+  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Zerb, Ty Dolla $ign, and Wiz Khalifa",
   "name": "Dance Rising",
   "tracks": [
     {
@@ -760,7 +760,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 150408,
       "name": "96 (feat. Shapes & Dada Jones)",
       "url": "https://open.spotify.com/track/492Ms38l1NRyZQgwizSs3i"
@@ -17898,7 +17898,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 384361,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/6A6mNDfIirCXtlc2LVbRS1"
@@ -21082,7 +21082,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 403226,
       "name": "Forgotten Future",
       "url": "https://open.spotify.com/track/5ukplSDAFh7nngeTBRUYrh"
@@ -22246,7 +22246,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 187086,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
@@ -27290,6 +27290,40 @@
       "duration_ms": 173950,
       "name": "I Admit It (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am"
+    },
+    {
+      "album": {
+        "name": "I Adore You (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/5kRla1xPI51kTotmC4nW6j"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270967,
+      "name": "I Adore You - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/1Zg16X9sBXpfQbs6fgVJzH"
     },
     {
       "album": {
@@ -34641,6 +34675,32 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+    },
+    {
+      "album": {
         "name": "Locco",
         "url": "https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj"
       },
@@ -38394,6 +38454,24 @@
       "duration_ms": 223098,
       "name": "Mitosis",
       "url": "https://open.spotify.com/track/1F1yF2KSilU2YLOMuYYf71"
+    },
+    {
+      "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251803,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
     },
     {
       "album": {
@@ -43201,6 +43279,24 @@
     },
     {
       "album": {
+        "name": "ONANON",
+        "url": "https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195638,
+      "name": "ONANON",
+      "url": "https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"
+    },
+    {
+      "album": {
         "name": "Once Again",
         "url": "https://open.spotify.com/album/2Vo614FBJLiGi1FOXp6L9x"
       },
@@ -46600,7 +46696,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 210000,
       "name": "Pretty Race Girl (feat. S3RL)",
       "url": "https://open.spotify.com/track/4QZGrkL8c0RjAvlQwXtYJf"
@@ -47980,7 +48076,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 187127,
       "name": "Record Deal",
       "url": "https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx"
@@ -63307,6 +63403,32 @@
     },
     {
       "album": {
+        "name": "Watch Out",
+        "url": "https://open.spotify.com/album/4uWCyY8Q9giKJd01bb9w73"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        },
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Watch Out",
+      "url": "https://open.spotify.com/track/18ng775wzcQl4pwvfqPQ2C"
+    },
+    {
+      "album": {
         "name": "Watch That Tongue",
         "url": "https://open.spotify.com/album/3CQWlc3iNFGxUb2kXP7mwe"
       },
@@ -64198,6 +64320,24 @@
       "duration_ms": 200571,
       "name": "What Chu Waiting For?",
       "url": "https://open.spotify.com/track/6FpJyIZaQiRFQliaMnJIyK"
+    },
+    {
+      "album": {
+        "name": "What Have You Done For Me Lately",
+        "url": "https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209644,
+      "name": "What Have You Done For Me Lately",
+      "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"
     },
     {
       "album": {

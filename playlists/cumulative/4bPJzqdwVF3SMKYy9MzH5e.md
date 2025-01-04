@@ -4,7 +4,7 @@
 
 > 
 
-2,049 songs - 4 day 13 hr 58 min
+2,051 songs - 4 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,6 +1282,7 @@
 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 | 2021-12-30 |  |
 | [North](https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 | 2021-08-05 |  |
 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 | 2021-08-05 |  |
+| [Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Pt\. One](https://open.spotify.com/album/7xNgPrxoV7XX4mNRsoLp0c) | 3:31 | 2025-01-03 |  |
 | [Not Allowed](https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 2:47 | 2021-08-05 |  |
 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 | 2023-12-26 |  |
 | [Not Okay \- Alone Mix](https://open.spotify.com/track/2rItExC2Ht8PcgMV0lqbf8) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/0cIIXn7HSL6zFbAsSO3Lrz) | 1:24 | 2021-11-14 |  |
@@ -1716,6 +1717,7 @@
 | [SWAMP DRAINED](https://open.spotify.com/track/4ImpsX0MAxXYdhpE1TY4xW) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [SWAMP DRAINED](https://open.spotify.com/album/5VYSXBghit2yq6pZ8lfVy1) | 2:20 | 2021-08-05 |  |
 | [Swan Lake, Op\. 20, TH 12, Act II, No\. 10: Scène \(Moderato \- Più mossoe\)](https://open.spotify.com/track/0AvCP4oj9iV9tsx9V2G5jm) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Neeme Järvi](https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps), [Bergen Philharmonic Orchestra](https://open.spotify.com/artist/7vkBnXHIvNilYcrqt9RJLD) | [Tchaikovsky: Swan Lake](https://open.spotify.com/album/3ZJP0ssd4AAe0l4Qs7A4tV) | 2:40 | 2022-11-10 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-08-05 |  |
+| [sweet rally](https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ) | [ilysam](https://open.spotify.com/artist/3rmIPOsNb2ngQAQEK8Fow8), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [sweet rally](https://open.spotify.com/album/11vUnFryU2pTqfBGaAU7kc) | 1:09 | 2025-01-03 |  |
 | [Sweet Sundae](https://open.spotify.com/track/2D1XHRAtARcC4VxiWa5yMc) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Sweet Sundae](https://open.spotify.com/album/1rvDsDYfCsbtGhVPwsFYt4) | 2:12 | 2021-09-08 |  |
 | [Sweet Tooth](https://open.spotify.com/track/3DT2cNy2Rh7O7htQrkuhtE) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 4:03 | 2021-11-14 |  |
 | [Swerve City](https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 2:44 | 2024-01-14 |  |

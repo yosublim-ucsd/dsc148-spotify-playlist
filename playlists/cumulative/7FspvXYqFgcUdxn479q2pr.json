@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: Timmy Trumpet ",
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -369,6 +369,36 @@
     },
     {
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/2aywcLkdlrtfr4BEBbbDcK"
+      },
+      "artists": [
+        {
+          "name": "AfroSalto",
+          "url": "https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3"
+        },
+        {
+          "name": "Mednas",
+          "url": "https://open.spotify.com/artist/0ifDOttuMQG7tOhatsjuoy"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146823,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/5QLyajfZXwyusqbdTxpbXP"
+    },
+    {
+      "album": {
         "name": "All My Tears",
         "url": "https://open.spotify.com/album/3SA1Lqhmx2z2ATtRKIkdAU"
       },
@@ -406,7 +436,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 161803,
       "name": "Along The Way",
       "url": "https://open.spotify.com/track/7q2DfBueHlC5uK3gdkjlx6"
@@ -2033,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "Even God",
+        "url": "https://open.spotify.com/album/2popXoMWhglWvWhw7GIsy2"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "jayover",
+          "url": "https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128100,
+      "name": "Even God",
+      "url": "https://open.spotify.com/track/1YAUcovWvgdgMXX45XjDl5"
+    },
+    {
+      "album": {
         "name": "Every Time I Touch You",
         "url": "https://open.spotify.com/album/6rvFCkF8mibsbv9LlVv7DF"
       },
@@ -2168,7 +2220,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 179516,
       "name": "Fade Till Sunrise, Pt. II (David Novacek Remix)",
       "url": "https://open.spotify.com/track/0FmuZijsrw4tzm7yNs3eqD"
@@ -2294,7 +2346,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 164545,
       "name": "Fantasie (feat. Nicko)",
       "url": "https://open.spotify.com/track/5riUHk405V2mPAxWjFbpd3"
@@ -2492,7 +2544,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 183370,
       "name": "For",
       "url": "https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG"
@@ -2730,7 +2782,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 152000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
@@ -2770,7 +2822,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 269055,
       "name": "Give To Me",
       "url": "https://open.spotify.com/track/1yekHtpDBr4YTSqyWwOOv4"
@@ -3008,7 +3060,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 153670,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5xxPpyZXfCfV7KiSKPQRs8"
@@ -3246,7 +3298,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 167040,
       "name": "Home",
       "url": "https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4"
@@ -3830,7 +3882,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 176843,
       "name": "Infinity (Bhaskar Remix)",
       "url": "https://open.spotify.com/track/4ytfVjVEXfJIe0uZj4WoTF"
@@ -3870,7 +3922,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
@@ -3988,7 +4040,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 157317,
       "name": "Just Dance (With Chacel)",
       "url": "https://open.spotify.com/track/58404MHSQ1tJ4NJpPZ61Y3"
@@ -4399,6 +4451,28 @@
     },
     {
       "album": {
+        "name": "Lethal Industry (Rose Ringed Remix)",
+        "url": "https://open.spotify.com/album/0Cqne3jR9G6Pjx1LG8VZIC"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Rose Ringed",
+          "url": "https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182380,
+      "name": "Lethal Industry (Rose Ringed Remix)",
+      "url": "https://open.spotify.com/track/7G4XrZlnEUpng7NrRXOnb8"
+    },
+    {
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht"
       },
@@ -4496,7 +4570,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 147401,
       "name": "Looking At You",
       "url": "https://open.spotify.com/track/1BAlIo2capg9xNxlNlwEHN"
@@ -5230,7 +5304,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 242073,
       "name": "More Than A Feeling",
       "url": "https://open.spotify.com/track/166TaeYHd0VzmSA7nHKDVN"
@@ -5834,7 +5908,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 188689,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3kbJSbUVKifGukOqJj6Q1F"
@@ -6234,7 +6308,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 157500,
       "name": "Put Me Up (feat. Cristian Barra)",
       "url": "https://open.spotify.com/track/4aUK8l46cLpwWSYKSwCFSv"
@@ -6894,7 +6968,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 223630,
       "name": "Somebody To Love (Arthur Miro Afro Mix)",
       "url": "https://open.spotify.com/track/1bLJDvEejwivYUlJ42Wo6H"
@@ -6946,6 +7020,28 @@
       "duration_ms": 150967,
       "name": "Soundboy Killah",
       "url": "https://open.spotify.com/track/50yWD8iOunA5nQzwe4gJ6U"
+    },
+    {
+      "album": {
+        "name": "Squid Play (Player 456 Mix)",
+        "url": "https://open.spotify.com/album/0VK7oDLIlNh8lHM9OiaTlZ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Cuebrick",
+          "url": "https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153288,
+      "name": "Squid Play (Player 456 Mix)",
+      "url": "https://open.spotify.com/track/5Fj26NGOzBIlUHhmhFBmde"
     },
     {
       "album": {
@@ -7938,7 +8034,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 193548,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6CbIPjGM6kGdksZjexDtQG"

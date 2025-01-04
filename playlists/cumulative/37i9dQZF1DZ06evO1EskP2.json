@@ -150,10 +150,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 245720,
       "name": "Come over Love",
       "url": "https://open.spotify.com/track/1SFJG4vZLzjHTmGVj7Hrm8"
+    },
+    {
+      "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "Come over Love",
+      "url": "https://open.spotify.com/track/5jA4WyzabsahYARRUAX8Gy"
     },
     {
       "album": {
@@ -346,10 +364,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 267174,
       "name": "Forever Summer",
       "url": "https://open.spotify.com/track/0KDKWUzgpKyvhxKbGo8piX"
+    },
+    {
+      "album": {
+        "name": "Butterflies: Live",
+        "url": "https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267174,
+      "name": "Forever Summer",
+      "url": "https://open.spotify.com/track/6CncbrtpabSOB378tazFvL"
     },
     {
       "album": {
@@ -1174,6 +1210,24 @@
     {
       "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187376,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV"
+    },
+    {
+      "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
       },
       "artists": [
@@ -1184,7 +1238,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 187376,
       "name": "Riddles",
       "url": "https://open.spotify.com/track/4R4UunGPUhjkokEUiQ8iCA"
@@ -1300,6 +1354,24 @@
     {
       "album": {
         "name": "For Love",
+        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Simple Love Song",
+      "url": "https://open.spotify.com/track/1dXSZklXzr4LYauwTT9ZLh"
+    },
+    {
+      "album": {
+        "name": "For Love",
         "url": "https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8"
       },
       "artists": [
@@ -1310,7 +1382,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 224986,
       "name": "Simple Love Song",
       "url": "https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB"
@@ -1480,7 +1552,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 226185,
       "name": "Walk on Water",
       "url": "https://open.spotify.com/track/4s23CQT2CMFhIxYn9MyNLw"

@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-246 songs - 9 hr 59 min
+248 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Ex Filha da Puta](https://open.spotify.com/track/2Q7p5ggGDwI7ZMP3p8iIQT) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Kil](https://open.spotify.com/artist/2CArMydvTpgVI7lzBphw0D) | [Ex Filha da Puta](https://open.spotify.com/album/1g2qNARjN38m4Erv6DOTM7) | 1:30 | 2023-11-10 | 2024-01-20 |
 | [FAKE](https://open.spotify.com/track/2iKl5tbhlajZzQFkokwp9C) | [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK), [Smile](https://open.spotify.com/artist/5qnRxQly5FwObKQHVRHRGD) | [FAKE](https://open.spotify.com/album/7q2Zl84qhSTcjSPnLq1mtC) | 2:28 | 2024-10-18 | 2024-11-30 |
 | [Fanfic](https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Fanfic](https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC) | 2:44 | 2024-01-26 | 2024-04-06 |
+| [Fases.](https://open.spotify.com/track/58zoE4LPTTiALxHndmSv99) | [guigui7](https://open.spotify.com/artist/3LRv65NCfA7mkqwPj1FJCx) | [Fases.](https://open.spotify.com/album/6DymhQeLm09JQ1na3UwfqL) | 2:44 | 2025-01-03 |  |
 | [Faturamento](https://open.spotify.com/track/0zeBg5Gcp2wNqPgtCln8JY) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Faturamento](https://open.spotify.com/album/47uTCzzTGI8R1LyhfRjcds) | 2:44 | 2023-10-06 | 2023-10-14 |
 | [Faz de Conta](https://open.spotify.com/track/50riIBiLJYmZ00jOepTzPM) | [Haki](https://open.spotify.com/artist/4Bmfvu2OCvxUnAh2OaQYMc) | [Faz de Conta](https://open.spotify.com/album/6kyDVoxxevJsTB4AcwRSzM) | 1:48 | 2024-01-12 | 2024-02-03 |
 | [Feiticeira](https://open.spotify.com/track/7hKxP5dRvcaOUvQd9Prawq) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Feiticeira](https://open.spotify.com/album/1EgymkpyNeHr7yZC167uMi) | 3:53 | 2024-04-26 | 2024-04-30 |
@@ -105,6 +106,7 @@
 | [G5](https://open.spotify.com/track/0EReA9hlAx4GmiNZzJMG1P) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Enzo from the Block](https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3) | [Zzz, Vol\. 2](https://open.spotify.com/album/5qg05BeqESDoMFCYZl3Od0) | 2:11 | 2023-11-24 | 2024-03-11 |
 | [G5](https://open.spotify.com/track/0yhMGrf0Kd0RYK3cQdptdH) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Enzo from the Block](https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3) | [Zzz, Vol\. 2](https://open.spotify.com/album/17lN5gh1Jy5IJI7gg3wbmO) | 2:11 | 2024-03-08 | 2024-04-19 |
 | [G5](https://open.spotify.com/track/3Yg4nn1ECtptmQfniWAOn2) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Enzo from the Block](https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3) | [Zzz, Vol\. 2](https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6) | 2:11 | 2023-11-17 | 2024-09-14 |
+| [Garotas Amam Anitta](https://open.spotify.com/track/4nofvvDazlnhf35cvPUBU2) | [Jovem Caio](https://open.spotify.com/artist/5uPdlHNs7tCxONifNy5AqV) | [Bem Vindo Ao Verão](https://open.spotify.com/album/6MbNnNEKfe1jjXde8YtKuk) | 2:01 | 2025-01-03 |  |
 | [Gideon](https://open.spotify.com/track/6IdWc9IXfwk3ZkGgeSNIIC) | [Prod Pedrunk](https://open.spotify.com/artist/79me07P9RVGtTW5QS8tEb9) | [Gideon](https://open.spotify.com/album/2kgFSJojiz0SE1gk7ecpRS) | 3:32 | 2023-11-17 | 2024-01-20 |
 | [GO!](https://open.spotify.com/track/3pXNplcoTZThHOyUsG01XD) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [GO!](https://open.spotify.com/album/3ZcUWAviyQBoklaNJjauq2) | 2:24 | 2024-09-13 |  |
 | [Golpe](https://open.spotify.com/track/4mdHDKWElFhvubKOmoXcX6) | [Kvel](https://open.spotify.com/artist/7l0eO47IChQIAiekqjzUjf), [Mattyahu](https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw), [APEE](https://open.spotify.com/artist/1kbmSvYaLCeWwcYffCmLrX) | [Golpe](https://open.spotify.com/album/6AwKE2CfeGzscrKS7iiFQo) | 3:11 | 2024-05-10 | 2024-11-30 |

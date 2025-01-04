@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-777 songs - 2 day 4 hr 15 min
+778 songs - 2 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Bad Touch Example](https://open.spotify.com/track/1NHnvlyOUgADYNmdJxaBIQ) | [Company Flow](https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS) | [Funcrusher Plus](https://open.spotify.com/album/3010pCoYlw3arCbTroajyB) | 3:26 | 2023-03-24 |  |
 | [Bambi](https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:37 | 2023-11-03 |  |
 | [Banana \- Skit](https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 0:36 | 2024-03-01 | 2024-09-10 |
-| [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2023-08-17 |  |
+| [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2023-08-17 | 2025-01-04 |
 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 | 2024-06-18 |  |
 | [Battery \(Remastered\)](https://open.spotify.com/track/7qRxAH7ZRB2Ita3mebXfR3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered\)](https://open.spotify.com/album/5gzLOflH95LkKYE6XSXE9k) | 5:12 | 2022-09-30 |  |
 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 | 2023-06-24 |  |
@@ -432,7 +432,7 @@
 | [Mahashmashana](https://open.spotify.com/track/1wSzyIk6YisAMGtvbDEsuU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 9:19 | 2024-11-22 | 2024-11-28 |
 | [Main Titles](https://open.spotify.com/track/5TTPUpjBOycZtQYyxjOshu) | [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Crystal Machete](https://open.spotify.com/album/6RrfC1hxrS4ANiOQPTtCs3) | 6:29 | 2024-01-18 |  |
 | [Manhattan](https://open.spotify.com/track/0dYTYyBD0j1neoklCctt1s) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Winterreise](https://open.spotify.com/album/23tjIW6fzlYMWfc55QHSAs) | 7:26 | 2024-03-25 | 2024-06-10 |
-| [Manning Fireworks](https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 2:59 | 2024-09-09 |  |
+| [Manning Fireworks](https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 2:59 | 2024-09-09 | 2025-01-04 |
 | [Margaret vs\. Pauline](https://open.spotify.com/track/7zp9Uj66my5wUpdH1FTfy9) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 2:52 | 2023-02-21 | 2023-12-14 |
 | [Mean Street \- 2015 Remaster](https://open.spotify.com/track/1eGSgC6ZhJ8D4nrZZ83LyA) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Fair Warning \(Remastered\)](https://open.spotify.com/album/4KlqAmR1tA1dERWo7MHhzO) | 5:00 | 2022-12-27 |  |
 | [Medusa](https://open.spotify.com/track/3ei0xxgl2QNKR41fKWfTMN) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Sterling Toles](https://open.spotify.com/artist/0WdhLYtPH99bhAmqPLndhO) | [Manger on McNichols](https://open.spotify.com/album/0ZUtBUG7Ya4y0p8qSYlPFj) | 3:26 | 2023-01-13 |  |
@@ -698,7 +698,7 @@
 | [The Wake](https://open.spotify.com/track/4FHhXk0JniueARdhSOInDZ) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 2:15 | 2024-02-17 |  |
 | [The World Is My Oyster \(2023 Ver.\)](https://open.spotify.com/track/2JGsTyLC4gLCWXVmvUn5Wi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 1:46 | 2024-02-23 |  |
 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 | 2024-01-01 |  |
-| [Theme From Leaving Philadelphia](https://open.spotify.com/track/4hznb8bMK38TxibW8BQRNK) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Home Constellation Study](https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw) | 3:52 | 2024-09-09 |  |
+| [Theme From Leaving Philadelphia](https://open.spotify.com/track/4hznb8bMK38TxibW8BQRNK) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Home Constellation Study](https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw) | 3:52 | 2024-09-09 | 2025-01-04 |
 | [There's a Rugged Road \- Remastered](https://open.spotify.com/track/5rIjJkNIY3sRtjPJVOctRE) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Heart Food](https://open.spotify.com/album/40epQ5uLIK1k7mGL0ESpUn) | 3:44 | 2022-12-17 | 2023-04-20 |
 | [This Is Why](https://open.spotify.com/track/1EZWqtdpu8nw0uKGmWPz5a) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 2:55 | 2024-10-10 | 2024-12-19 |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-03-11 | 2024-01-30 |
@@ -739,6 +739,7 @@
 | [Waking Up](https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 2:57 | 2023-05-18 | 2023-05-27 |
 | [Walkman](https://open.spotify.com/track/0TpwCkpINVSDS4m4M1lf6T) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Walkman](https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY) | 2:57 | 2023-06-01 | 2023-06-02 |
 | [Wall Of Eyes](https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:05 | 2024-03-26 | 2024-08-03 |
+| [Wanna](https://open.spotify.com/track/7uLBdV19ad7kAjU2oB1l6p) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 2:15 | 2025-01-04 |  |
 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 | 2023-12-13 | 2023-12-26 |
 | [War at the Door](https://open.spotify.com/track/3CK3oybt0KITkdz6F4yAMd) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:07 | 2024-03-24 |  |
 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2023-11-30 | 2024-10-24 |

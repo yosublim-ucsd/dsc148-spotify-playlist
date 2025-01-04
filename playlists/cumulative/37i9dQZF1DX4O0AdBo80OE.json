@@ -156,7 +156,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 162525,
       "name": "2022",
       "url": "https://open.spotify.com/track/2QFyOnB7styOE8IZSXCweB"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 169966,
       "name": "Caf\u00e9 Sin Ti",
       "url": "https://open.spotify.com/track/07EuPEAzZrSJ1HsmjQsiAw"
@@ -944,10 +944,28 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 283566,
       "name": "Capuccino",
       "url": "https://open.spotify.com/track/378H7UrRynW8WnLPKGeeL8"
+    },
+    {
+      "album": {
+        "name": "Cardiaca Sensacion",
+        "url": "https://open.spotify.com/album/3OaUYhYg1cWonJEcJbKUfk"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Cardiaca Sensacion",
+      "url": "https://open.spotify.com/track/0ed0tiME9M39Cq2810299j"
     },
     {
       "album": {
@@ -1105,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Contacto",
+        "url": "https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162807,
+      "name": "Contacto",
+      "url": "https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/7o1BRvcAX80d9sOrJaUAv1"
       },
@@ -1192,7 +1232,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 172650,
       "name": "CUBANA",
       "url": "https://open.spotify.com/track/5nVcpRZdrRwKosTlBZl7aX"
@@ -1885,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Grados Bajo Cero",
+        "url": "https://open.spotify.com/album/50pj6qEFTklii69YB0k2xU"
+      },
+      "artists": [
+        {
+          "name": "B.Costa",
+          "url": "https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179406,
+      "name": "inviernos",
+      "url": "https://open.spotify.com/track/5o1vK2BOk2h5SyT6c4pjMT"
+    },
+    {
+      "album": {
         "name": "JetLag",
         "url": "https://open.spotify.com/album/1mRE5D3tfO0IcMimnUOxbu"
       },
@@ -2208,7 +2266,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 210833,
       "name": "LOOP \u221e",
       "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
@@ -4275,6 +4333,28 @@
     },
     {
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/6sNtRiZlTv2j2wNN65pOxm"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205125,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/2210LR7U3nQAi33tLAM5fY"
+    },
+    {
+      "album": {
         "name": "todos los d\u00edas",
         "url": "https://open.spotify.com/album/1V60bSO7MoRte4DJ0YgL2s"
       },
@@ -4338,6 +4418,24 @@
       "duration_ms": 208050,
       "name": "Track 2 (Abrazo)",
       "url": "https://open.spotify.com/track/5ooKijzW2e21nSSComr3mI"
+    },
+    {
+      "album": {
+        "name": "Tu H\u00e9roe",
+        "url": "https://open.spotify.com/album/09zIV6A4I2sZJFJ6z3vAwn"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Tu H\u00e9roe",
+      "url": "https://open.spotify.com/track/5AKWFDSXV2edVPHPlaO9qL"
     },
     {
       "album": {

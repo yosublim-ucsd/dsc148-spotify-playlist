@@ -3202,7 +3202,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 174828,
       "name": "El mundo contra ti",
       "url": "https://open.spotify.com/track/5qU5u4zAke8VjKXZ1eFaBa"
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 200924,
       "name": "FANTASMAS",
       "url": "https://open.spotify.com/track/7B48jZzGFCgVUDt7cHvQ81"
@@ -4256,6 +4256,24 @@
       "duration_ms": 211882,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/6O7hrtBvhn0IiBNeoWzJqs"
+    },
+    {
+      "album": {
+        "name": "Ilesa",
+        "url": "https://open.spotify.com/album/5rx5g5YombLUVvt9nZb2rl"
+      },
+      "artists": [
+        {
+          "name": "Nadia Alvarez",
+          "url": "https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197307,
+      "name": "Ilesa",
+      "url": "https://open.spotify.com/track/07T150vNPTFLSDOhCDf7l2"
     },
     {
       "album": {
@@ -5653,6 +5671,24 @@
     },
     {
       "album": {
+        "name": "Luna De Plata",
+        "url": "https://open.spotify.com/album/6fVzcgA24nNkXNdHiBxaIj"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Jimenez",
+          "url": "https://open.spotify.com/artist/4zHJE9FZNZi2myB9et8TT3"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223731,
+      "name": "Luna De Plata",
+      "url": "https://open.spotify.com/track/2mVbba0qXNNxlsGr0vgbxh"
+    },
+    {
+      "album": {
         "name": "Estop\u00eda",
         "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
       },
@@ -6724,7 +6760,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 379387,
       "name": "No Te Puedes Rendir",
       "url": "https://open.spotify.com/track/0QoUv7XSiRnuKjPF7ZEapi"
@@ -7528,6 +7564,24 @@
       "duration_ms": 247401,
       "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
       "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
+    },
+    {
+      "album": {
+        "name": "Que no pare la vida",
+        "url": "https://open.spotify.com/album/3RZNHHByKuoq3P9EPvRV79"
+      },
+      "artists": [
+        {
+          "name": "Stafas",
+          "url": "https://open.spotify.com/artist/5xHAV1UViByZr5kVkXxKfW"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191289,
+      "name": "Que no pare la vida",
+      "url": "https://open.spotify.com/track/4fDKl5dajo8rZ5MPKmFGtu"
     },
     {
       "album": {

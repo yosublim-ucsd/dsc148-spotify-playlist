@@ -2,9 +2,9 @@
 
 ### [All New Metal](https://open.spotify.com/playlist/37i9dQZF1DX5J7FIl4q56G)
 
-> The best new tracks in metal, hard rock, and all things heavy\. Cover: King Diamond
+> The best new tracks in metal, hard rock, and all things heavy\. Cover: Paleface Swiss
 
-8,100 songs - 22 day 17 hr 42 min
+8,105 songs - 22 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1009,6 +1009,7 @@
 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 | 2023-01-13 | 2023-01-21 |
 | [Bride of Night](https://open.spotify.com/track/20uQSWeybn1WmDzFY9SKWw) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Bride of Night](https://open.spotify.com/album/0QLCvJgGkDxul9JZsTxQ2x) | 3:50 | 2023-03-03 | 2023-03-11 |
 | [Bridges in the Sky \- Live at Wacken 2015](https://open.spotify.com/track/10MPd79ra0DJizkVAMk3FG) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: Live at Wacken \(2015\)](https://open.spotify.com/album/55NleCFUH8QxQlpcE2dIyW) | 9:43 | 2022-12-09 | 2022-12-17 |
+| [Bright Eyes](https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Bright Eyes](https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ) | 3:31 | 2025-01-03 |  |
 | [Brighter Side](https://open.spotify.com/track/60tTgKYvCYjPCAydgXzInj) | [Destroy Rebuild Until God Shows](https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo) | [Brighter Side](https://open.spotify.com/album/3DTMlLFvOqOE3xYui8iMue) | 2:52 | 2022-04-22 | 2022-04-29 |
 | [Bring Back The Noise](https://open.spotify.com/track/0yr5ueBWdLrLj7fGQArbnd) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Bring Back The Noise](https://open.spotify.com/album/7yaFrxjzkynJH2jQ45vJs4) | 2:10 | 2023-11-24 | 2023-12-02 |
 | [Bring Me Down](https://open.spotify.com/track/5lJJvdhus9lSuIro4tlOOp) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Bring Me Down](https://open.spotify.com/album/1vaCbsZwYga27cx2tAkvXv) | 3:53 | 2024-05-03 | 2024-05-11 |
@@ -4635,6 +4636,7 @@
 | [Nail Funeral](https://open.spotify.com/track/4LUQbb45rZ0dK0WdnFPnEA) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Everything Bleeds](https://open.spotify.com/album/0K4FU1lM08akPusYYsEaBX) | 4:11 | 2023-07-14 | 2023-07-22 |
 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 | 2024-04-12 | 2024-04-19 |
 | [Nails](https://open.spotify.com/track/7uDF1PeVhwjp8aoXbibw4K) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Nails](https://open.spotify.com/album/2xiaa91dAiRcIYm6oCp8AB) | 5:05 | 2022-08-19 | 2022-08-27 |
+| [Nails of Fate](https://open.spotify.com/track/5OBg8TqAyiVCOq13z2CZul) | [Crawling Chaos](https://open.spotify.com/artist/3BS255gKs1c6yOZYPilM6H) | [Nails of Fate](https://open.spotify.com/album/3ybmTnQSqOdS1aZ0xjTAzs) | 4:12 | 2025-01-03 |  |
 | [Nameless Rites](https://open.spotify.com/track/5VikgujdfbIJRuUAMQ2zei) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [​Disharmonium \- Nahab](https://open.spotify.com/album/2spORRGVutsk0KwxPhd3eU) | 4:55 | 2023-08-25 | 2023-09-02 |
 | [Nanna's Fate](https://open.spotify.com/track/36XLmStMavCHsJzfzyWYRt) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Nanna's Fate](https://open.spotify.com/album/4vn0doSOq7GLSeOgiEzsST) | 4:46 | 2024-08-16 | 2024-08-24 |
 | [Narcissus](https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Narcissus](https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p) | 3:08 | 2021-12-17 | 2022-01-14 |
@@ -4655,6 +4657,7 @@
 | [Nefarious](https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [Nefarious](https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt) | 4:11 | 2023-05-26 | 2023-06-03 |
 | [Negative](https://open.spotify.com/track/77VOSQS7TnAd07ZtUTtHry) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Negative](https://open.spotify.com/album/0jXvfiBh58VrpCm1fy0ONH) | 3:04 | 2023-04-21 | 2023-04-29 |
 | [Negative Penance](https://open.spotify.com/track/6drkzJmwx5N4IxYznoJbTk) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Negative Penance](https://open.spotify.com/album/4Up2gLYDAl7MKRjILrWgb3) | 2:19 | 2024-08-23 | 2024-08-31 |
+| [Negative Space](https://open.spotify.com/track/7utgzokeoOeslAvdcogAKy) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj), [Cera Gibson](https://open.spotify.com/artist/1Hiacf7uM6oGW5uXHDFYae) | [The Deviant Era](https://open.spotify.com/album/5d1pDYWn1ZLFfQdrN6ZGwm) | 4:17 | 2025-01-03 |  |
 | [Nel vento](https://open.spotify.com/track/2M6CfF26ejgsMMx8Y8S2jV) | [Blaze of Sorrow](https://open.spotify.com/artist/3WdAbe7LcgPuckuALu2co5) | [Nel vento](https://open.spotify.com/album/3W36FNfBXvpl7YooeGMfkn) | 5:29 | 2023-03-03 | 2023-03-11 |
 | [Nemesis](https://open.spotify.com/track/1dVSJUkVNi36hr7VKiCWIt) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Nemesis](https://open.spotify.com/album/3FdwX7ZZirpfzXPLdKpEYq) | 2:45 | 2022-03-24 | 2022-04-08 |
 | [Nemesis](https://open.spotify.com/track/1I01ZpAJ5jd6hwkGpGydTo) | [Ovtlier](https://open.spotify.com/artist/33EsLV9XuU86eBafBHYL0G) | [Nemesis](https://open.spotify.com/album/0zLJFqQ3CRZjhBEwPLA0H0) | 3:12 | 2022-06-24 | 2022-07-01 |
@@ -5702,6 +5705,7 @@
 | [Ritual Of Death](https://open.spotify.com/track/4MfkGhiWOYrj6iYi5wV2Hc) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [Ritual Of Death](https://open.spotify.com/album/5VKPfq4e4qGfh7gH69OOtL) | 3:59 | 2024-04-26 | 2024-05-03 |
 | [river](https://open.spotify.com/track/1N4hZ1KkuCoY3GHdwhJJR7) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [river](https://open.spotify.com/album/3IOCUJIoEqIDstaLs4oooD) | 3:01 | 2024-12-13 |  |
 | [River of Bodies](https://open.spotify.com/track/0YAdDnajaREE7So3Gish5D) | [Salem Trials](https://open.spotify.com/artist/2IZXSnmq6YGFwwnDC1LjDg) | [River of Bodies](https://open.spotify.com/album/5BIEWyDxRdHuDP8eA68eud) | 4:27 | 2024-08-23 | 2024-08-31 |
+| [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 | 2025-01-03 |  |
 | [River Runs Red](https://open.spotify.com/track/0rtjmYhzj3nR9npiRH6aff) | [Psychework](https://open.spotify.com/artist/4uKphGSJb3SgI2gsAbcCPp) | [Spark of Hope](https://open.spotify.com/album/5W6SP58rpIKhulerPazImV) | 4:40 | 2023-09-29 | 2023-10-07 |
 | [RLS](https://open.spotify.com/track/1OmM8EkUb0pmDkVGCofTsk) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer, Pt.2](https://open.spotify.com/album/5t6vbGXRVuTeYLRnqaFcg1) | 2:56 | 2022-11-18 | 2022-11-26 |
 | [Ro](https://open.spotify.com/track/0PLlt8c9uwpfsvqVOvUTxO) | [Wormwood](https://open.spotify.com/artist/2CltEmcrT4ypj6WxaBej5c) | [Ro](https://open.spotify.com/album/22KkGoDnvWopgMDAficdbq) | 10:11 | 2024-04-26 | 2024-05-03 |
@@ -7881,6 +7885,7 @@
 | [WIERSZALIN II](https://open.spotify.com/track/1YEuEDn3n8jN2TDB20xOfR) | [PATRIARKH](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [WIERSZALIN II](https://open.spotify.com/album/1R9eieU654k8iuUOxuIU7p) | 4:11 | 2024-12-13 |  |
 | [WIERSZALIN III](https://open.spotify.com/track/6TsQ3SN7pVyIzZQklB7V46) | [PATRIARKH](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [WIERSZALIN III](https://open.spotify.com/album/55QYaW0w0sGqpwvv2EE3vn) | 5:59 | 2024-10-18 | 2024-10-26 |
 | [WIERSZALIN IV](https://open.spotify.com/track/3ffow0Xo092ICuUxwRpGAp) | [PATRIARKH](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [WIERSZALIN IV](https://open.spotify.com/album/6MRIksLAlqz0DDu4jV6P6R) | 5:29 | 2024-11-08 | 2024-11-16 |
+| [WIERSZALIN VII](https://open.spotify.com/track/7euQLhjmVADz5eFsUpHV1r) | [PATRIARKH](https://open.spotify.com/artist/15LsRgSmN0t8VLcsUFYW5J) | [WIERSZALIN VII](https://open.spotify.com/album/4EKXivoDRkCByJB7ffl8Rs) | 6:30 | 2025-01-03 |  |
 | [Wilde Kinder](https://open.spotify.com/track/5j9LuICwwmUbts1A4rxmhu) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Wilde Kinder](https://open.spotify.com/album/1sdmnVWndpvGblDOcjbj1D) | 4:22 | 2022-01-28 | 2022-02-18 |
 | [Wilderness](https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Wilderness](https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj) | 3:22 | 2024-07-12 | 2024-07-19 |
 | [Wildfire](https://open.spotify.com/track/5Xt5rbKCEGvWiq3lRYpmla) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Wildfire](https://open.spotify.com/album/4O0drIyvnyYUNhERu3WZA0) | 3:39 | 2024-05-24 | 2024-06-01 |

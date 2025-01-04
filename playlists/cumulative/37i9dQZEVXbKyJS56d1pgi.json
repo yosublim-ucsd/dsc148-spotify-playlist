@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/5Ta3QXRvo45oLDWUozwncl"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172820,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/0UGGLKM970ymsBBN5TKjsD"
+    },
+    {
+      "album": {
         "name": "Still Sleep?",
         "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
       },
@@ -4716,7 +4738,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 179041,
       "name": "Casa Melhor",
       "url": "https://open.spotify.com/track/0vfN1RYc1aDmf46CpE7EsC"
@@ -4866,7 +4888,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 138591,
       "name": "CAVALINHO",
       "url": "https://open.spotify.com/track/1WGmyxoPCfOrk7uT2z3Zuu"
@@ -6950,7 +6972,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 166451,
       "name": "Descer Pra BC",
       "url": "https://open.spotify.com/track/6RzcNTnS02dnqoQMdTkQwi"
@@ -11150,7 +11172,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -16086,7 +16108,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -16254,7 +16276,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 172366,
       "name": "Ma Ch\u00e9rie",
       "url": "https://open.spotify.com/track/1aIJLbvrWSW7NGLlprGhBo"
@@ -17686,7 +17708,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 232000,
       "name": "Mo Boy",
       "url": "https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9"
@@ -21604,7 +21626,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 127384,
       "name": "POCPOC",
       "url": "https://open.spotify.com/track/02iIJMe5jh7rdnTO6dcPQL"
@@ -26586,7 +26608,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 203337,
       "name": "S\u00f3 F\u00e9",
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
@@ -26836,7 +26858,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -28302,7 +28324,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"

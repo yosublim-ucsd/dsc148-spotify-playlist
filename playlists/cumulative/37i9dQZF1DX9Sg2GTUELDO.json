@@ -4293,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "\u591c\u5e55\u4e0b\u544a\u5225",
+        "url": "https://open.spotify.com/album/33xSL6feMYksWgTkgTnmJK"
+      },
+      "artists": [
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252033,
+      "name": "\u591c\u5e55\u4e0b\u544a\u5225",
+      "url": "https://open.spotify.com/track/3QaEWGHGKHmnJFxIOSE3rt"
+    },
+    {
+      "album": {
         "name": "\u591c\u98a8\u4e2d (\u96fb\u8996\u5287\u300a\u7e41\u82b1\u300b\u6b4c\u66f2)",
         "url": "https://open.spotify.com/album/0VuHTFO8gQFu81ggO0yuVP"
       },

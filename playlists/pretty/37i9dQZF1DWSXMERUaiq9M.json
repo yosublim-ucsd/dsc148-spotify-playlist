@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 NYE takeover: All tracks picked by Marlon Hoffstadt aka DJ Daddy Trance \ud83d\ude80",
-  "num_followers": 296754,
+  "num_followers": 296916,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-12-28 23:00:36",
       "album": {
-        "name": "WHISTLE TOOL",
-        "url": "https://open.spotify.com/album/7tDm86k732HXLWEgBLm3kZ"
-      },
-      "artists": [
-        {
-          "name": "Luke Hovey",
-          "url": "https://open.spotify.com/artist/3gd2jHvnYcd20gXy8jzaXf"
-        }
-      ],
-      "duration_ms": 267724,
-      "name": "WHISTLE TOOL",
-      "url": "https://open.spotify.com/track/0cFtnEsoorifLEDjrDZVRb"
-    },
-    {
-      "added_at": "2024-12-28 23:00:36",
-      "album": {
         "name": "Phased Records VA. 001",
         "url": "https://open.spotify.com/album/45b8OKp9Jw9iRp6H3GFQ4p"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 306835,
       "name": "Roll With Ice",
       "url": "https://open.spotify.com/track/2SHfyEsNnoGtAKyYKXj4rg"
+    },
+    {
+      "added_at": "2024-12-28 23:00:36",
+      "album": {
+        "name": "WHISTLE TOOL",
+        "url": "https://open.spotify.com/album/7tDm86k732HXLWEgBLm3kZ"
+      },
+      "artists": [
+        {
+          "name": "Luke Hovey",
+          "url": "https://open.spotify.com/artist/3gd2jHvnYcd20gXy8jzaXf"
+        }
+      ],
+      "duration_ms": 267724,
+      "name": "WHISTLE TOOL",
+      "url": "https://open.spotify.com/track/0cFtnEsoorifLEDjrDZVRb"
     },
     {
       "added_at": "2024-12-28 23:00:36",

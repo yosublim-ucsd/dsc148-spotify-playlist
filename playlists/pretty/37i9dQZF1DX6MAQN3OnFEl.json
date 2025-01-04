@@ -1,6 +1,6 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 509949,
+  "num_followers": 510230,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Jackpot",
-        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
-      },
-      "artists": [
-        {
-          "name": "Chingy",
-          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Right Thurr",
-      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Love. Angel. Music. Baby.",
         "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 199853,
       "name": "Hollaback Girl",
       "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+      },
+      "artists": [
+        {
+          "name": "Chingy",
+          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Right Thurr",
+      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Another Night",
-        "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
-      },
-      "artists": [
-        {
-          "name": "Real McCoy",
-          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Another Night",
-      "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "The Madding Crowd",
         "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 189333,
       "name": "Absolutely (Story of a Girl) - Radio Mix",
       "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
+      },
+      "artists": [
+        {
+          "name": "Real McCoy",
+          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "This Is The End: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 224960,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Atomic Kitten",
         "url": "https://open.spotify.com/album/340y6ZpqGxp4xW0203bOPN"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 205360,
       "name": "The Tide Is High - Radio Mix",
       "url": "https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "This Is The End: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "Stacie Orrico",
+        "url": "https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t"
+      },
+      "artists": [
+        {
+          "name": "Stacie Orrico",
+          "url": "https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "(There's Gotta Be) More To Life",
+      "url": "https://open.spotify.com/track/2x5qF66rFO6DERBMNkQAqn"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "Blaque",
         "url": "https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 218186,
       "name": "Bring It All to Me (feat. *NSYNC)",
       "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "Stacie Orrico",
-        "url": "https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t"
-      },
-      "artists": [
-        {
-          "name": "Stacie Orrico",
-          "url": "https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "(There's Gotta Be) More To Life",
-      "url": "https://open.spotify.com/track/2x5qF66rFO6DERBMNkQAqn"
     },
     {
       "added_at": "2024-07-12 21:13:59",

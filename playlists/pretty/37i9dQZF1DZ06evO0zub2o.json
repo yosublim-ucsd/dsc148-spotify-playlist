@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 297196,
+  "num_followers": 297256,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAACPO2pB32y3oCSivcP3rz0i",
+  "snapshot_id": "Z3XXAAAAAAA4N5MsGIFYr7wXe7WeQLf5",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Southern Trendkill",
-        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 293360,
-      "name": "War Nerve",
-      "url": "https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piss",
         "url": "https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 262328,
       "name": "Piss",
       "url": "https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 293360,
+      "name": "War Nerve",
+      "url": "https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Southern Trendkill",
-        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "13 Steps to Nowhere",
-      "url": "https://open.spotify.com/track/5FnIQ4H58EixgtoQQoOBjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 234733,
       "name": "The Badge",
       "url": "https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Southern Trendkill",
+        "url": "https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "13 Steps to Nowhere",
+      "url": "https://open.spotify.com/track/5FnIQ4H58EixgtoQQoOBjg"
     },
     {
       "added_at": null,

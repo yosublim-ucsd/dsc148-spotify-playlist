@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Bright Eyes",
+        "url": "https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G"
+    },
+    {
+      "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
       },
@@ -800,7 +818,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 223533,
       "name": "Dead Or Alive",
       "url": "https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo"

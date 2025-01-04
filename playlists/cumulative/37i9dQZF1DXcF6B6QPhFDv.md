@@ -2,7 +2,7 @@
 
 ### [MARROW](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> rock never dies\. Cover: Linkin Park
+> rock never dies\. Cover: Wisp
 
 805 songs - 1 day 20 hr 27 min
 

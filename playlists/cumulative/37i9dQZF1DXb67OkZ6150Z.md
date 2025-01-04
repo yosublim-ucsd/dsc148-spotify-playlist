@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Ethel Cain
 
-469 songs - 1 day 4 hr 45 min
+470 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [agora hills \- Spotify Singles](https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [Spotify Singles](https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa) | 4:54 | 2024-06-14 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/7oIr9pjTvm9FKMEQwZvEiv) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Ain't No Sunshine](https://open.spotify.com/album/6aPAue76teQzfiZTliyHIE) | 2:31 | 2021-03-12 | 2022-06-26 |
 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 | 2022-05-20 | 2024-02-06 |
-| [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-03-12 |  |
+| [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-03-12 | 2025-01-04 |
 | [Alaska](https://open.spotify.com/track/36U3x7FsoB17GsOKAJKl7b) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Alaska](https://open.spotify.com/album/3y5VfET7NXVwdcgvluZ4vV) | 3:49 | 2021-04-19 | 2022-07-29 |
 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 | 2021-03-12 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/5BfNjlCclZMXlCv6o1PSQA) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Angel](https://open.spotify.com/album/2oNUBA3KULK55FUlzDBBxm) | 2:49 | 2022-02-25 | 2022-04-21 |
@@ -225,6 +225,7 @@
 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 | 2021-10-08 | 2022-06-24 |
 | [In Your Eyes](https://open.spotify.com/track/4Xv25FegSvCe1yLo3GfVwP) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [In Your Eyes](https://open.spotify.com/album/55MleWjJoLiw7k9ruKVP7v) | 2:43 | 2024-03-08 | 2024-12-30 |
 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 | 2022-01-28 |  |
+| [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 | 2025-01-03 |  |
 | [Into My Arms](https://open.spotify.com/track/3kodZApJaGmtZxw9gEpFki) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Into My Arms](https://open.spotify.com/album/2TcUXol1xti07nGrjoxyUG) | 4:18 | 2021-03-12 | 2022-04-21 |
 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-10-28 |  |
 | [It's Okay to Cry](https://open.spotify.com/track/6H0R4ejgQbU15cyc0RYsIs) | [Sophie Blair](https://open.spotify.com/artist/66vUjZhH2eD9vWzWgQsYbT) | [It's Okay to Cry](https://open.spotify.com/album/2gcwXOGiD2el0GMxjIXl3K) | 4:10 | 2022-01-07 | 2022-04-18 |

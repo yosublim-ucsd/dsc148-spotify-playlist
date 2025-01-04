@@ -4344,7 +4344,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 174555,
       "name": "hand in hand",
       "url": "https://open.spotify.com/track/4wS1swxaWAgGOjgzhSSzto"
@@ -7737,6 +7737,24 @@
     },
     {
       "album": {
+        "name": "potrero",
+        "url": "https://open.spotify.com/album/6xBWf50ZA6EY8le7MqW3MY"
+      },
+      "artists": [
+        {
+          "name": "driving horses",
+          "url": "https://open.spotify.com/artist/3PKU3gXPPRLmChkUpOO1SU"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179185,
+      "name": "potrero",
+      "url": "https://open.spotify.com/track/3rejvt463g8aVcOnEtmezm"
+    },
+    {
+      "album": {
         "name": "Prelude",
         "url": "https://open.spotify.com/album/1kKmTZbBL1rxiwKavLd5H6"
       },
@@ -8326,7 +8344,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 153568,
       "name": "Seal Pup",
       "url": "https://open.spotify.com/track/49xXvlToTyxaibYs6rJ25V"
@@ -8404,6 +8422,24 @@
       "duration_ms": 58000,
       "name": "September Piano",
       "url": "https://open.spotify.com/track/5FGQrtYZTOiZNcs9L2uQtn"
+    },
+    {
+      "album": {
+        "name": "Sequoia",
+        "url": "https://open.spotify.com/album/7r7mDfFiJhvwP5Z15yL0Ci"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lebold",
+          "url": "https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Sequoia",
+      "url": "https://open.spotify.com/track/3KhKyRvkh4pSBZWjL0kpvz"
     },
     {
       "album": {
@@ -9162,7 +9198,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 86000,
       "name": "Starbound",
       "url": "https://open.spotify.com/track/2EVwy9oS6JqO5S0Nf6b2UD"
@@ -11154,7 +11190,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 118227,
       "name": "Where The Path Ended",
       "url": "https://open.spotify.com/track/7cafgrlVL3ECw0rIeTqFSd"

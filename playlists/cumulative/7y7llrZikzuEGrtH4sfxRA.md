@@ -4,7 +4,7 @@
 
 > 
 
-884 songs - 2 day 0 hr 59 min
+885 songs - 2 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [How We Do](https://open.spotify.com/track/51ZqM59s1tcxlBbcbTz61b) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv), [Avilo](https://open.spotify.com/artist/0vBN46VECxgdkVfeRDJc6E) | [How We Do](https://open.spotify.com/album/31sCpGaCkiUrf2giQBTWKf) | 3:22 | 2024-08-02 | 2024-08-10 |
 | [How You Feel \- Cole Knight Remix](https://open.spotify.com/track/0rS9b8F4CHfT9mQmNBHky6) | [Kino Todo](https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol), [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [How You Feel \- Cole Knight Remix](https://open.spotify.com/album/1PwCN4RsLQBHtp2IPYl6Km) | 3:17 | 2024-08-23 | 2024-08-31 |
 | [Human](https://open.spotify.com/track/4Ltrv35B8OGHkxjhnWHIig) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Human](https://open.spotify.com/album/5MAYBA5CV72lBSJPtp19rj) | 3:33 | 2024-09-13 | 2024-09-28 |
+| [Hustler](https://open.spotify.com/track/7Ga3eawAui0Ocf06y25sH2) | [ESSE](https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19) | [Hustler](https://open.spotify.com/album/02vdJvt0pOPBd7AnJXMi8v) | 2:33 | 2025-01-03 |  |
 | [Hustlin'](https://open.spotify.com/track/08j5W9R5lK3sBXo1A4zgGz) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Hustlin'](https://open.spotify.com/album/4xHL13vhsW8TZ6EQcjVgJJ) | 2:39 | 2024-05-17 | 2024-05-25 |
 | [HYPNOTIC DATA 2.0](https://open.spotify.com/track/2s6buObPT1xq2YezWxGupD) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [HYPNOTIC DATA 2.0](https://open.spotify.com/album/0FcmlZCpJVAYjPvngD36mN) | 3:09 | 2024-02-16 | 2024-02-24 |
 | [I Am The One](https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [I Am The One](https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9) | 3:20 | 2024-03-22 | 2024-03-30 |

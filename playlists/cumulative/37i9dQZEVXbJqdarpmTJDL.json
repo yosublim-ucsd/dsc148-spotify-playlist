@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 168554,
       "name": "10'",
       "url": "https://open.spotify.com/track/1XtVtRtoHFOnn8plAirGWb"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 189240,
       "name": "3000 Strofes",
       "url": "https://open.spotify.com/track/6g0I4Wja1WqnWtKeYEHs4q"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 172577,
       "name": "9ARI",
       "url": "https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I"
@@ -7666,7 +7666,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 220762,
       "name": "Cognac",
       "url": "https://open.spotify.com/track/3p0afbD420yQ9WcrmHu4as"
@@ -9030,7 +9030,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 192000,
       "name": "Den Tha Xanagapiso",
       "url": "https://open.spotify.com/track/3t36me1JNGMpDDzfOuCBVV"
@@ -10112,6 +10112,36 @@
       "duration_ms": 155300,
       "name": "DROP",
       "url": "https://open.spotify.com/track/5g5aMrMZhLmBzGrIHFccX5"
+    },
+    {
+      "album": {
+        "name": "SINALOA",
+        "url": "https://open.spotify.com/album/6uEfN3eghmQN8owe3jJrO1"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124878,
+      "name": "DRUG LORD",
+      "url": "https://open.spotify.com/track/4VrGda0RcxZR26KoOevlkj"
     },
     {
       "album": {
@@ -12172,7 +12202,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 240612,
       "name": "F.K.A.",
       "url": "https://open.spotify.com/track/2VPld4xNAVt2fRYN8KY79L"
@@ -15520,7 +15550,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 212250,
       "name": "Gyrismos",
       "url": "https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY"
@@ -29602,7 +29632,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 114624,
       "name": "PIRATES",
       "url": "https://open.spotify.com/track/65vWYKMJK4sb6HayK7OdJH"
@@ -29624,6 +29654,40 @@
       "duration_ms": 205714,
       "name": "Piso",
       "url": "https://open.spotify.com/track/2qea4t0NbZzwGQmeXf1xIf"
+    },
+    {
+      "album": {
+        "name": "SINALOA",
+        "url": "https://open.spotify.com/album/6uEfN3eghmQN8owe3jJrO1"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "PISSA",
+      "url": "https://open.spotify.com/track/2G7lPxGsVuwaO8uzQmw1BL"
     },
     {
       "album": {
@@ -35084,7 +35148,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 145788,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/4j9wksjhBvSuRq1ibXUfAK"
@@ -40180,7 +40244,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 202328,
       "name": "Xeirovomvida",
       "url": "https://open.spotify.com/track/7uCY7wvVuRPuo9i9p6ZUc7"

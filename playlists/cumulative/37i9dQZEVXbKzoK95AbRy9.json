@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/5Ta3QXRvo45oLDWUozwncl"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172820,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/0UGGLKM970ymsBBN5TKjsD"
+    },
+    {
+      "album": {
         "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA"
       },
@@ -752,7 +774,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 156150,
       "name": "Amor Na Praia",
       "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
@@ -1254,6 +1276,24 @@
       "duration_ms": 209520,
       "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim (Counting My Blessings)",
       "url": "https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1"
+    },
+    {
+      "album": {
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/7xYYUQbzFRcIMdh2UU1lNe"
+      },
+      "artists": [
+        {
+          "name": "Thiago Carvalho",
+          "url": "https://open.spotify.com/artist/5tJOBjBtoHgSp1x7iYWsPP"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130026,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/2f6GG12VL2rGMS9BGjD7rM"
     },
     {
       "album": {
@@ -3418,7 +3458,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 109571,
       "name": "Hoje o Dia T\u00e1 Bonito",
       "url": "https://open.spotify.com/track/2MHQdlPaIcD49dJXHd6MYI"
@@ -4894,7 +4934,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 162190,
       "name": "Mulher Foda - Ao Vivo",
       "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
@@ -6748,7 +6788,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 154947,
       "name": "Solteiro Iniciante",
       "url": "https://open.spotify.com/track/4Do0PK6qXYO28ifX9Y1Cle"
@@ -7010,6 +7050,32 @@
       "duration_ms": 164307,
       "name": "S\u00f3 Vou Namorar",
       "url": "https://open.spotify.com/track/4xEYeY9OSYP7c8dSwlpBFD"
+    },
+    {
+      "album": {
+        "name": "Tando",
+        "url": "https://open.spotify.com/album/1CuAuA3zQlS8y1PzvQc2Dj"
+      },
+      "artists": [
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        },
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Tando",
+      "url": "https://open.spotify.com/track/4seW5sDVICaZw34NzrHPm0"
     },
     {
       "album": {
@@ -7832,7 +7898,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 196000,
       "name": "Vida de Artista",
       "url": "https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY"

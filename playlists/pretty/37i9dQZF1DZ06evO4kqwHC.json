@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1079908,
+  "num_followers": 1079936,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAACmvkWTeNx8dF8SXPyYlBfv",
+  "snapshot_id": "Z3XXAAAAAACSvNkZXJuISelkLuwlpXF2",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 310600,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Foo Fighters",
         "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 310600,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medicine At Midnight",
         "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 255106,
-      "name": "Making A Fire",
-      "url": "https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi"
+      "duration_ms": 252293,
+      "name": "Chasing Birds",
+      "url": "https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa"
     },
     {
       "added_at": null,

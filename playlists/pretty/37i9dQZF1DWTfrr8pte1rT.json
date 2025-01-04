@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Kayzo \\m/",
-  "num_followers": 337390,
+  "num_followers": 337421,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -805,30 +805,6 @@
       "url": "https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv"
     },
     {
-      "added_at": "2024-12-20 05:00:28",
-      "album": {
-        "name": "MF Mosh Pit",
-        "url": "https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Und3rsound",
-          "url": "https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47"
-        }
-      ],
-      "duration_ms": 134812,
-      "name": "MF Mosh Pit",
-      "url": "https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF"
-    },
-    {
       "added_at": "2024-12-03 16:57:05",
       "album": {
         "name": "Hollow",
@@ -851,6 +827,30 @@
       "duration_ms": 240000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
+    },
+    {
+      "added_at": "2024-12-20 05:00:28",
+      "album": {
+        "name": "MF Mosh Pit",
+        "url": "https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Und3rsound",
+          "url": "https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47"
+        }
+      ],
+      "duration_ms": 134812,
+      "name": "MF Mosh Pit",
+      "url": "https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "BRAINDEAD",
-        "url": "https://open.spotify.com/album/4xACBGqzOhJ8A0YJzqAvEn"
-      },
-      "artists": [
-        {
-          "name": "Kill Dyll",
-          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cj6Ql1tVeHWUaNLF4K6Xy"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Ghost Story (with All Time Low)",
         "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 166971,
       "name": "Ghost Story (with All Time Low)",
       "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "BRAINDEAD",
+        "url": "https://open.spotify.com/album/4xACBGqzOhJ8A0YJzqAvEn"
+      },
+      "artists": [
+        {
+          "name": "Kill Dyll",
+          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cj6Ql1tVeHWUaNLF4K6Xy"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Dark Void EP",
-        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Dark Void - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -1987,22 +1967,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
+        "name": "Dark Void EP",
+        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
       },
       "artists": [
         {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         },
         {
-          "name": "SpaceMan Zack",
-          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         }
       ],
-      "duration_ms": 176516,
-      "name": "Only the Good Die Young",
-      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
+      "duration_ms": 189200,
+      "name": "Dark Void - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2023,6 +2003,26 @@
       "duration_ms": 220000,
       "name": "Throne",
       "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "SpaceMan Zack",
+          "url": "https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Only the Good Die Young",
+      "url": "https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2419,26 +2419,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Ohio is for Lovers",
-        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 232123,
-      "name": "Ohio is for Lovers",
-      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Kill The Machine (feat. Bad/Love)",
         "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
       },
@@ -2459,6 +2439,26 @@
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Ohio is for Lovers",
+        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 232123,
+      "name": "Ohio is for Lovers",
+      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2499,18 +2499,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5All8BvGGdApHlpnuELjmP"
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/0gU1afVwFWTspbHNot3yLa"
+      "duration_ms": 284137,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/2baHywIRnkbKD7ff5C8Cuz"
     }
   ],
   "unique_name": "Rocktronic",

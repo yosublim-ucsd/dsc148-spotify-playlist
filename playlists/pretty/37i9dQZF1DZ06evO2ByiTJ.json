@@ -1,13 +1,29 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 14918,
+  "num_followers": 14921,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAADpIYHEm7PcTDJPu6ETkNPR",
+  "snapshot_id": "Z3XXAAAAAAAHihgpVLx+B0Vp+bj8OPr5",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
+    },
     {
       "added_at": null,
       "album": {
@@ -51,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
       },
       "artists": [
         {
@@ -60,9 +76,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
+      "duration_ms": 273438,
+      "name": "Santifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/30ildQSiiB2W4CeiZ23oul"
     },
     {
       "added_at": null,
@@ -79,22 +95,6 @@
       "duration_ms": 290295,
       "name": "Sei \u00c9 Bem Assim",
       "url": "https://open.spotify.com/track/4EIQMsDFraihHLheHCZMHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 273438,
-      "name": "Santifica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/30ildQSiiB2W4CeiZ23oul"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Senha",
+        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 263613,
+      "name": "A Senha",
+      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Filho Volta (Ao Vivo)",
         "url": "https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 278517,
       "name": "Ora Um Pouco Mais",
       "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Senha",
-        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 263613,
-      "name": "A Senha",
-      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 230806,
-      "name": "O Pre\u00e7o da Chamada",
-      "url": "https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bastidores da Alma",
         "url": "https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 243760,
       "name": "Bastidores da Alma",
       "url": "https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 230806,
+      "name": "O Pre\u00e7o da Chamada",
+      "url": "https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 294846,
-      "name": "Minha Alma Canta",
-      "url": "https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mulher Realizada",
         "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 257648,
       "name": "Mulher Realizada",
       "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 294846,
+      "name": "Minha Alma Canta",
+      "url": "https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elyon",
-        "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 240976,
-      "name": "El Elyon",
-      "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santifica\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/0w3FVZ8PUX84dgKIhOBjns"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 254000,
       "name": "Santifica\u00e7\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/3Bg1HJtKZAH0sH07vY9dn9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Elyon",
+        "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 240976,
+      "name": "El Elyon",
+      "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
     },
     {
       "added_at": null,

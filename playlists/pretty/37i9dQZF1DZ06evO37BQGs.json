@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAACT1pZiN8+Insmx/VPTJRsL",
+  "snapshot_id": "Z3XXAAAAAABFmJlE9MODtK9w4Q4CPsk7",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 215960,
-      "name": "Replicate",
-      "url": "https://open.spotify.com/track/3VvWADtitcT75nZvKtfS7Q"
+      "duration_ms": 229573,
+      "name": "New Glasses",
+      "url": "https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg"
     },
     {
       "added_at": null,
@@ -348,7 +348,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 229573,
-      "name": "New Glasses",
-      "url": "https://open.spotify.com/track/2NZxVsOV6pE6xxqRKvUQlM"
+      "duration_ms": 215960,
+      "name": "Replicate",
+      "url": "https://open.spotify.com/track/3VvWADtitcT75nZvKtfS7Q"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 229266,
-      "name": "Feed The Fire",
-      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
+      "duration_ms": 202826,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/1Yv6kBTgSxICjXVQDMZYRA"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Destroy",
-      "url": "https://open.spotify.com/track/1Yv6kBTgSxICjXVQDMZYRA"
+      "duration_ms": 229266,
+      "name": "Feed The Fire",
+      "url": "https://open.spotify.com/track/1f2FDH06hxuItRz0yUnYKE"
     },
     {
       "added_at": null,

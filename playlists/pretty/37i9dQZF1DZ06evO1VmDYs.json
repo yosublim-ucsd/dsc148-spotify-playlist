@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 189063,
+  "num_followers": 189093,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3M0AAAAAAD09SxNsLWV83xnyEb+hQu4",
+  "snapshot_id": "Z3XXAAAAAAAPROtpSLBFlKEDQPraTO/K",
   "tracks": [
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 254333,
-      "name": "Perfect Situation",
-      "url": "https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge"
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 224353,
-      "name": "Island in the Sun - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+      "duration_ms": 254333,
+      "name": "Perfect Situation",
+      "url": "https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+        "name": "Cars 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 145640,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/3KxOYNt66Hj42HzO7ao0CV"
+      "duration_ms": 187266,
+      "name": "You Might Think - From \"Cars 2\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5tKlIgkTo8QZBVLGkyhEso"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cars 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 187266,
-      "name": "You Might Think - From \"Cars 2\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/5tKlIgkTo8QZBVLGkyhEso"
+      "duration_ms": 145640,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/3KxOYNt66Hj42HzO7ao0CV"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
       "duration_ms": 227733,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 195893,
       "name": "Feels Like Summer",
       "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurley (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OK Human",
         "url": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 170717,
       "name": "Grapes Of Wrath",
       "url": "https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurley (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
       },
       "artists": [
         {
@@ -716,25 +716,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 194306,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer (White Album)",
-        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Thank God for Girls",
-      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
+      "duration_ms": 193733,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
       "duration_ms": 214760,
       "name": "Sweet Dreams (Are Made of This)",
       "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer (White Album)",
+        "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Thank God for Girls",
+      "url": "https://open.spotify.com/track/5uywMR3hTeVPoWaFDSliJb"
     },
     {
       "added_at": null,

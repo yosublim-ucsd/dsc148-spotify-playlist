@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=iMXNw6ajR7CLOUWYr1j2YQ>Malcolm Rue</a>
 
-247 songs - 19 hr 59 min
+248 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,10 +77,11 @@
 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 | 2023-12-01 | 2024-03-16 |
 | [Freedom](https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Freedom](https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9) | 2:40 | 2024-06-07 |  |
 | [Freedom Dance](https://open.spotify.com/track/10SYr7IjjFWWWihmZwouRD) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Freedom Dance](https://open.spotify.com/album/3ark8OClaQKfOa8hD28ZhH) | 2:54 | 2023-12-12 | 2024-03-18 |
+| [Gbe MI Fo](https://open.spotify.com/track/2LJol4x3Js27d5giMl8Xx1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Gbe MI Fo](https://open.spotify.com/album/5mni80GkyGFuXKulEsBAj4) | 5:28 | 2024-01-05 |  |
 | [Give Me Chance](https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Give Me Chance](https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q) | 4:15 | 2024-06-07 |  |
 | [Glory On The Other Side](https://open.spotify.com/track/0V4pcOAzmN6e4t9dLPlbmw) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory On The Other Side](https://open.spotify.com/album/4cAYM1eOOFhKWgaHoWyrJo) | 4:59 | 2024-09-27 |  |
 | [God](https://open.spotify.com/track/0dUNrMbWLpbxpNkY8cUdoJ) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [God](https://open.spotify.com/album/0DNqPNVqAAcWjQmMrUMIu0) | 2:14 | 2024-03-22 | 2024-04-26 |
-| [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 | 2024-10-25 |  |
+| [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 | 2024-10-25 | 2025-01-04 |
 | [God Is Love](https://open.spotify.com/track/3a6tYOJbKV3a7gY79M8ZJU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Alafia.](https://open.spotify.com/album/3sNR85MyaE3enZGsWh0ZXk) | 2:46 | 2024-11-29 | 2024-12-24 |
 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 | 2024-10-04 |  |
 | [Good God](https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4) | [Good God](https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic) | 3:39 | 2024-03-01 | 2024-04-14 |

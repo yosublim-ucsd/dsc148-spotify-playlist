@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Celebramos a las mujeres mexicanas a todo volumen!  Belinda, Kenia OS y Danna en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,148 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,175 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

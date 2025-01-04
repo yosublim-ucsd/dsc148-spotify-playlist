@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,450 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,620 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 28 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 |
 | 29 | [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 |
 | 30 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
-| 31 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 |
-| 32 | [The Echo](https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [The Echo](https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS) | 4:30 |
+| 31 | [The Echo](https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [The Echo](https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS) | 4:30 |
+| 32 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 |
 | 33 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 |
 | 34 | [Never Enough](https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Never Enough](https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO) | 3:32 |
 | 35 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
 | 36 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 |
 | 37 | [What Are You Waiting For \- Sunrise Mix](https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\) \- EP](https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj) | 3:51 |
 | 38 | [Flora](https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Flora](https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1) | 3:22 |
-| 39 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
+| 39 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 |
 | 40 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
-| 41 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 |
+| 41 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
 | 42 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 |
 | 43 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
 | 44 | [Otherside \- Nils Hoffmann Remix](https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Otherside \(Nils Hoffmann Remix\)](https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th) | 3:38 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 57 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 58 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 |
 | 59 | [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 |
-| 60 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 |
+| 60 | [Breeze](https://open.spotify.com/track/57nxQGDHMkXUKoG3G4pQaL) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Breeze](https://open.spotify.com/album/3cqMLf9yEPsMSSOQe7e02C) | 2:26 |
 
 Snapshot ID: `Z2V7+gAAAADe6WURGpSFWPGM4ivsb3uM`

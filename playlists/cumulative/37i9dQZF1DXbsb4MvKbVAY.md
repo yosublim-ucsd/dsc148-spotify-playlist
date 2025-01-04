@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa Pihlaja.
 
-703 songs - 1 day 10 hr 55 min
+704 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Drifting Away](https://open.spotify.com/track/2qn9okkbneoPzYsTjfpnBh) | [LAU](https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4), [AKRAS](https://open.spotify.com/artist/526l83JGpr5wgOKWHVSnWN) | [Drifting Away](https://open.spotify.com/album/4TTxQdLzxpMawNg3Z374ar) | 3:25 | 2024-07-25 | 2024-08-02 |
 | [Drunk](https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Drunk](https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m) | 3:22 | 2024-10-31 | 2024-11-08 |
 | [Dum](https://open.spotify.com/track/4kadw7GlPL8BZYk9yzWqLx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Dum](https://open.spotify.com/album/5N7hT3FpW2SiFNz7iqrtpY) | 2:34 | 2024-07-02 | 2024-07-19 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-02 |  |
 | [Dyynit](https://open.spotify.com/track/101D4hj0o7355a2FEpnD3d) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL) | [Dyynit](https://open.spotify.com/album/4iEHJp1jzEvIwJcRfA6y2v) | 3:03 | 2024-12-05 | 2024-12-13 |
 | [Echoes](https://open.spotify.com/track/7hltDDKkXw4dp6zQosSGak) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [I AM](https://open.spotify.com/album/7x2wXwU5gQZ6pauIlkWIi3) | 2:50 | 2024-09-19 | 2024-09-27 |
 | [Edes Takas](https://open.spotify.com/track/76x4dvemHxni1FiI3PLHm5) | [PETRELL](https://open.spotify.com/artist/0AaCEhTBpPWnfVNK4kLiYS) | [Edes Takas](https://open.spotify.com/album/41Xmkdmt2Ta9bFH88TU0em) | 2:38 | 2024-10-25 | 2024-11-15 |

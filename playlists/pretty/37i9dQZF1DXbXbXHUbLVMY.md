@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,358 likes - 80 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,359 likes - 80 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 44 | [Veien](https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Veien](https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1) | 3:07 |
 | 45 | [Souljaboii Remixxx](https://open.spotify.com/track/4wdaPy15GosA2DVQ0P0nwp) | [Pen Gutt](https://open.spotify.com/artist/134vxVpC78AGeTmoApYQKD), [Chirag](https://open.spotify.com/artist/1Xfv0o1xU7jH7M9QYod7rj), [sa\_g](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [Souljaboii Remixxx](https://open.spotify.com/album/6zobC136l4USs0YOARFGzX) | 3:10 |
 | 46 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 |
-| 47 | [Hel/Halv](https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [MEST ELSKET & Hatet \- Deluxe](https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk) | 1:51 |
-| 48 | [Matrisen](https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Matrisen](https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj) | 3:15 |
+| 47 | [Matrisen](https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Matrisen](https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj) | 3:15 |
+| 48 | [Hel/Halv](https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [MEST ELSKET & Hatet \- Deluxe](https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk) | 1:51 |
 | 49 | [On It](https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Ung & Dum](https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx) | 2:27 |
 | 50 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 |
 | 51 | [Schnogodidougudugidoubudibow](https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 1:50 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 60 | [Bad B\*\*\*\* \(feat\. Arif Murakami\)](https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Bad B\*\*\*\* \(feat\. Arif Murakami\)](https://open.spotify.com/album/0WSyzz9ARLgAD0PSL1Gj1Q) | 2:44 |
 | 61 | [Säg Mig](https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Säg Mig](https://open.spotify.com/album/0EfLxPztOcuTi1gr2qXPXp) | 2:15 |
 | 62 | [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 |
-| 63 | [Dyra notor](https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Dyra notor](https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL) | 2:22 |
-| 64 | [Sprite](https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sprite](https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ) | 2:45 |
+| 63 | [Sprite](https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Sprite](https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ) | 2:45 |
+| 64 | [Dyra notor](https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Noxious](https://open.spotify.com/artist/3Kuu3eReA1kOwMTk1WUGOR) | [Dyra notor](https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL) | 2:22 |
 | 65 | [Ambassador](https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Ambassador](https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS) | 2:53 |
 | 66 | [Beige](https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:59 |
 | 67 | [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 |

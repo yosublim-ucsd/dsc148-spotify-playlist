@@ -3011,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Peeran",
+        "url": "https://open.spotify.com/album/6IcfYrEbYRXh4ojDNc6O0L"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254250,
+      "name": "Peeran",
+      "url": "https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi"
+    },
+    {
+      "album": {
         "name": "Pehli Dafa",
         "url": "https://open.spotify.com/album/5pAPEuGi48iywzO2NT5Ddt"
       },

@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Arjan Dhillon
 
-430 songs - 22 hr 7 min
+431 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Busy Doin Nothin](https://open.spotify.com/track/0xOblh9Op69YZkvbsHrsDW) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD) | [Busy Doin Nothin](https://open.spotify.com/album/5P7BaRLeaZ0RVj9DKUtPgx) | 3:40 | 2024-05-19 |  |
 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-05-19 | 2023-06-24 |
 | [California Love](https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [ANYWAY](https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw) | 2:55 | 2023-06-23 |  |
-| [Cartier](https://open.spotify.com/track/6KP4jjwjmJNWB6tomnF21Y) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Paper Before Money](https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC) | 2:50 | 2024-05-24 |  |
+| [Cartier](https://open.spotify.com/track/6KP4jjwjmJNWB6tomnF21Y) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Paper Before Money](https://open.spotify.com/album/1W8xXVyN2UEJWhaQAtrHcC) | 2:50 | 2024-05-24 | 2025-01-04 |
 | [Case](https://open.spotify.com/track/1kOkkEe8QdviYXBqDZpavh) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:15 | 2023-10-27 | 2023-11-17 |
 | [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 | 2023-09-29 | 2024-12-14 |
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 | 2023-05-01 |
@@ -147,6 +147,7 @@
 | [God Damn](https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:47 | 2024-03-19 |  |
 | [GODSPEED](https://open.spotify.com/track/7d4ZrG3Cer7jbqIl6wOI6D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY) | [GODSPEED](https://open.spotify.com/album/7JCjmMD0sZ2kk1oXdh83z0) | 2:07 | 2022-12-14 | 2024-10-12 |
 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 | 2024-05-09 | 2024-12-28 |
+| [Got You](https://open.spotify.com/track/7mJ2BANWY4PnWtfsQWzn6C) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Got You](https://open.spotify.com/album/6UesXENuAbvKpwjDgkWEaE) | 3:42 | 2025-01-03 |  |
 | [Guilty](https://open.spotify.com/track/2W9awzkFJzPRddvLXtCSOU) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Guilty](https://open.spotify.com/album/2VrJduggZoDkUsshnQbFi5) | 2:58 | 2022-07-28 | 2022-08-13 |
 | [Guilty](https://open.spotify.com/track/0CEZeiRvjL3iHPu1JKI9zW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Guilty](https://open.spotify.com/album/7dK05D7NqHnhkSD3N2yaE1) | 2:59 | 2022-05-29 | 2022-07-29 |
 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 | 2024-05-17 | 2024-05-25 |

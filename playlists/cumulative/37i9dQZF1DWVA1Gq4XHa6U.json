@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: Snoop Dogg",
+  "description": "Taking it way back! Cover: The Game",
   "name": "Gold School",
   "tracks": [
     {
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -2310,6 +2310,28 @@
       "duration_ms": 287546,
       "name": "How Do You Want It (ft. KC, Jojo)",
       "url": "https://open.spotify.com/track/6ZmLu4NAhMsuAXLkcLMBrb"
+    },
+    {
+      "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235533,
+      "name": "How We Do",
+      "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
     },
     {
       "album": {
@@ -4112,7 +4134,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 256133,
       "name": "On To The Next One",
       "url": "https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4"
@@ -5156,7 +5178,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 317506,
       "name": "Southernplayalisticadillacmuzik",
       "url": "https://open.spotify.com/track/2pMAmZdHfQHyqJCXJbfhK3"
@@ -6105,6 +6127,28 @@
     },
     {
       "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "Westside Story",
+      "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
+    },
+    {
+      "album": {
         "name": "40 Dayz & 40 Nightz",
         "url": "https://open.spotify.com/album/1jlbr51uTL95Vqmw2G8rpA"
       },
@@ -6538,7 +6582,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 280000,
       "name": "You Can't Stop The Reign (feat. The Notorious B.I.G.)",
       "url": "https://open.spotify.com/track/6Jd15lvi1LXBbPGhP5wlVB"

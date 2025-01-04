@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19683,
+  "num_followers": 19686,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAAD1+Sh0ykqFB5H9wJk05Nxi",
+  "snapshot_id": "Z3XXAAAAAADeBeZkR4Su/gshteMxdlYc",
   "tracks": [
     {
       "added_at": null,
@@ -495,38 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "One of Quan",
-      "url": "https://open.spotify.com/track/70SqOG5NhnhH5HJQCgqTUO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "Get TF Out My Face (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Private Room (feat. Rich Homie Quan) - Single",
         "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
       },
@@ -551,6 +519,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Get TF Out My Face (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "One of Quan",
+      "url": "https://open.spotify.com/track/70SqOG5NhnhH5HJQCgqTUO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luca Brasi 2: Gangsta Grillz",
         "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
       },
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+        "name": "Ah'chi",
+        "url": "https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
+      "duration_ms": 220952,
+      "name": "Ah'chi",
+      "url": "https://open.spotify.com/track/5suBeiydHdrdMvMV98wOQp"
     },
     {
       "added_at": null,
@@ -603,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah'chi",
-        "url": "https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5"
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Ah'chi",
-      "url": "https://open.spotify.com/track/5suBeiydHdrdMvMV98wOQp"
+      "duration_ms": 252693,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
     },
     {
       "added_at": null,
@@ -762,11 +762,15 @@
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Quicktrip",
+          "url": "https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN"
         }
       ],
-      "duration_ms": 115586,
-      "name": "Suffocating",
-      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
+      "duration_ms": 202000,
+      "name": "Wyb Quan",
+      "url": "https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ"
     },
     {
       "added_at": null,
@@ -830,15 +834,11 @@
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Quicktrip",
-          "url": "https://open.spotify.com/artist/0G4e25O0rYC7iFkzYWWzbN"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Wyb Quan",
-      "url": "https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ"
+      "duration_ms": 115586,
+      "name": "Suffocating",
+      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
     },
     {
       "added_at": null,

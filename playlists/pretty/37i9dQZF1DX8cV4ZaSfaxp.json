@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 56650,
+  "num_followers": 56655,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "BASIC",
-        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 241144,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 231294,
       "name": "Sparkling",
       "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "BASIC",
+        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 241144,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -807,22 +807,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
       "artists": [
         {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 243381,
-      "name": "Ondo (with LeeHi)",
-      "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -843,6 +839,26 @@
       "duration_ms": 226933,
       "name": "Moonset",
       "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 243381,
+      "name": "Ondo (with LeeHi)",
+      "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -883,22 +899,6 @@
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "feelight!",
-        "url": "https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj"
-      },
-      "artists": [
-        {
-          "name": "Limit",
-          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "feelight!",
-      "url": "https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 208085,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "feelight!",
+        "url": "https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj"
+      },
+      "artists": [
+        {
+          "name": "Limit",
+          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "feelight!",
+      "url": "https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 280778,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Pier",
         "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 174624,
       "name": "Pier",
       "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 280778,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
     },
     {
       "added_at": "2024-09-30 08:00:00",

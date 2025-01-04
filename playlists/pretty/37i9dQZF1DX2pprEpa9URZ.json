@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 800985,
+  "num_followers": 801149,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "Writings",
+      "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 184761,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Writings",
-      "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -555,6 +555,26 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "No Be Today",
+        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
+      },
+      "artists": [
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Os\u00e8",
+      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "No Be Today",
-        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
-      },
-      "artists": [
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Os\u00e8",
-      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+      },
+      "artists": [
+        {
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+        }
+      ],
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Sunrise Generation",
         "url": "https://open.spotify.com/album/2CEXDHvO85mc6SFRz8o43g"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 218360,
       "name": "Sunrise Generation",
       "url": "https://open.spotify.com/track/4m98UJ9M2jC3S3qUhJKy3z"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
-      },
-      "artists": [
-        {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -723,58 +723,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
-      },
-      "artists": [
-        {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
-        },
-        {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
-        }
-      ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -795,6 +743,38 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 309680,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+      },
+      "artists": [
+        {
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+        },
+        {
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+        }
+      ],
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Patika",
-        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 333818,
-      "name": "Patika",
-      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Solstice Vibes III",
         "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 403831,
       "name": "Flowers in Mind",
       "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Patika",
+        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 333818,
+      "name": "Patika",
+      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1147,42 +1147,26 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "MILLONARIO",
-        "url": "https://open.spotify.com/album/6UXi1QSobQHrBzIhhcJnC3"
+        "name": "Work For It (Club Mix)",
+        "url": "https://open.spotify.com/album/7nVhIalu5fjsdQ0BmzNlmg"
       },
       "artists": [
         {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
         },
         {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
-        }
-      ],
-      "duration_ms": 180863,
-      "name": "MILLONARIO",
-      "url": "https://open.spotify.com/track/7w1P7RrOvQf9MX7XQ2nYDF"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+          "name": "MEE\u2022KAY",
+          "url": "https://open.spotify.com/artist/7bB81EAeT6u9gmLp0gQCaB"
         },
         {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+          "name": "saint nbdy",
+          "url": "https://open.spotify.com/artist/2o5Vii2rGx7iMMC1FPbSAJ"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+      "duration_ms": 183050,
+      "name": "Work For It - Club Mix",
+      "url": "https://open.spotify.com/track/10B5Qt4RXuzZUP6nHmXMGU"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1211,26 +1195,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Work For It (Club Mix)",
-        "url": "https://open.spotify.com/album/7nVhIalu5fjsdQ0BmzNlmg"
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
       },
       "artists": [
         {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
         },
         {
-          "name": "MEE\u2022KAY",
-          "url": "https://open.spotify.com/artist/7bB81EAeT6u9gmLp0gQCaB"
-        },
-        {
-          "name": "saint nbdy",
-          "url": "https://open.spotify.com/artist/2o5Vii2rGx7iMMC1FPbSAJ"
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
         }
       ],
-      "duration_ms": 183050,
-      "name": "Work For It - Club Mix",
-      "url": "https://open.spotify.com/track/10B5Qt4RXuzZUP6nHmXMGU"
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1247,6 +1227,42 @@
       "duration_ms": 293253,
       "name": "Garawek khaos",
       "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "MILLONARIO",
+        "url": "https://open.spotify.com/album/6UXi1QSobQHrBzIhhcJnC3"
+      },
+      "artists": [
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG"
+        }
+      ],
+      "duration_ms": 180863,
+      "name": "MILLONARIO",
+      "url": "https://open.spotify.com/track/7w1P7RrOvQf9MX7XQ2nYDF"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1315,38 +1331,18 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Thierry",
-        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
       "artists": [
         {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 375652,
-      "name": "Thierry",
-      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Mogolu (Major Lazer Remix)",
-        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
-      },
-      "artists": [
-        {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        }
-      ],
-      "duration_ms": 283278,
-      "name": "Mogolu - Major Lazer Remix",
-      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1371,18 +1367,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
+        "name": "Mogolu (Major Lazer Remix)",
+        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
       },
       "artists": [
         {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+      "duration_ms": 283278,
+      "name": "Mogolu - Major Lazer Remix",
+      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Lit",
-        "url": "https://open.spotify.com/album/7J7YPXiCDdTaKHdfFSPXSP"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Lit",
-      "url": "https://open.spotify.com/track/057dSG3J2yUkg6qvCpLEWJ"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Ay vora",
         "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 273142,
       "name": "Ay vora",
       "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Lit",
+        "url": "https://open.spotify.com/album/7J7YPXiCDdTaKHdfFSPXSP"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Lit",
+      "url": "https://open.spotify.com/track/057dSG3J2yUkg6qvCpLEWJ"
     }
   ],
   "unique_name": "Org\u00e1nica",

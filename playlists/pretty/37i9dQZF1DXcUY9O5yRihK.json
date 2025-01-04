@@ -1,12 +1,12 @@
 {
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: Laufey",
-  "num_followers": 166833,
+  "num_followers": 167017,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/WQAAAADpQkfTm95UMG/jQ8tSEFJ5",
+  "snapshot_id": "Z3du6QAAAABYzQlJAP18XF5i5YCp/be7",
   "tracks": [
     {
       "added_at": "2024-08-26 15:15:02",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
     },
     {
+      "added_at": "2024-12-13 05:00:09",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+    },
+    {
+      "added_at": "2025-01-03 05:00:25",
+      "album": {
+        "name": "Wrong Side of Midnight",
+        "url": "https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 220561,
+      "name": "Wrong Side of Midnight",
+      "url": "https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA"
+    },
+    {
       "added_at": "2024-12-09 20:30:39",
       "album": {
         "name": "Lazy",
@@ -87,22 +119,6 @@
       "duration_ms": 196730,
       "name": "Billie Bossa Nova",
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
-    },
-    {
-      "added_at": "2024-12-13 05:00:09",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Sienna",
-      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -199,22 +215,6 @@
       "duration_ms": 190959,
       "name": "pretty little thing",
       "url": "https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "DIARY FOR THE LONELY HEARTS",
-        "url": "https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb"
-      },
-      "artists": [
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 230445,
-      "name": "BITE THE APPLE",
-      "url": "https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC"
     },
     {
       "added_at": "2024-08-26 15:15:02",

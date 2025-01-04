@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 鄭宜農 \(Enno Cheng\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,330 likes - 132 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,342 likes - 132 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 31 | [森と星の約束 \(森林與星星的約定\)](https://open.spotify.com/track/1gydnqDRfR9E0fiXUre5DT) | [林忠諭 Cosmos J](https://open.spotify.com/artist/6z96kF9JzUTvkwSHFbobmm) | [森と星の約束 \(森林與星星的約定\)](https://open.spotify.com/album/0xrk2Gd2ASJvXP9eKA3cv3) | 5:21 |
 | 32 | [往前飛 \- 《超棒的我們》插曲](https://open.spotify.com/track/0wlAh0qRnP2IrzeqUku7ca) | [郭嘉誼](https://open.spotify.com/artist/0H2Gv4CQTL87hhn1p08TnC), [聖恩](https://open.spotify.com/artist/0BZRJ2yVhVp9OF5N2qla9C) | [往前飛 \(《超棒的我們》插曲\)](https://open.spotify.com/album/3ktAQsdDYr4hMEitQMUMMv) | 3:07 |
 | 33 | [想一個人](https://open.spotify.com/track/1yfJ2Oc5p4KWr6kBHIYlTe) | [Lin Si Tong](https://open.spotify.com/artist/1FXhxn9AhnOPufmvvu7qGc) | [想一個人](https://open.spotify.com/album/2PiOLiIqyiTuAwVeAC9Dy2) | 4:32 |
-| 34 | [第十三個月](https://open.spotify.com/track/0CQONJ2tntH7ji3CVkfepk) | [文年 Wayne Nian](https://open.spotify.com/artist/7Cv0ZkqsFuzt56i3udK2Up) | [第十三個月](https://open.spotify.com/album/1MtUDltrFxQSt3IoqVaacG) | 2:56 |
+| 34 | [第十三月](https://open.spotify.com/track/0CQONJ2tntH7ji3CVkfepk) | [文年 Wayne Nian](https://open.spotify.com/artist/6uPJuPdYKwa1t94hTbM3vJ) | [第十三月](https://open.spotify.com/album/1MtUDltrFxQSt3IoqVaacG) | 2:56 |
 | 35 | [我可以](https://open.spotify.com/track/7FJ1eVDKKZMblOygYVTSkz) | [洪以芯](https://open.spotify.com/artist/5PMS3LPsDNAhBc3Sa5EEuO) | [我可以](https://open.spotify.com/album/5bitmU8nDk51WqYtPjohYg) | 3:23 |
 | 36 | [多一天 Another Day](https://open.spotify.com/track/4meJ5ad7qAydmPQ9FaIQ5l) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [多一天 Another Day](https://open.spotify.com/album/0UrVI2FBSXBTyxwclGJ6Lq) | 3:04 |
 | 37 | [大象的絕望](https://open.spotify.com/track/1MbTrOblKr1kseix3np6LC) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [大象的絕望](https://open.spotify.com/album/1PHhlHoCABwkZIxZehqC3z) | 2:45 |

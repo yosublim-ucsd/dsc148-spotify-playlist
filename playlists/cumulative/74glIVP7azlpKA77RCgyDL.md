@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: King Diamond.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Paleface Swiss.
 
-874 songs - 2 day 7 hr 9 min
+879 songs - 2 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Lost In The Fall](https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Lost In The Fall](https://open.spotify.com/album/2AaUKwRWLjWC01DQ8BzwwE) | 4:04 | 2023-09-01 | 2024-02-03 |
 | [Love Lighter](https://open.spotify.com/track/1PVWFyT7U3seAFROL0KT6y) | [Halo Bite](https://open.spotify.com/artist/7I18r5VZ8g2bJswX2x2tKw) | [Love Lighter](https://open.spotify.com/album/2wRLdvANfmKyzhstg8VPP5) | 2:58 | 2024-04-12 |  |
 | [Lowered](https://open.spotify.com/track/7iTdUbHzNBl5Io3AVQGtli) | [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi), [Reba Meyers](https://open.spotify.com/artist/5kIOwxQ4DBNm9ZQbbGgkIE) | [Lowered](https://open.spotify.com/album/3tfEyD1TjqTDnFqRDpzCnj) | 4:10 | 2022-02-25 | 2023-07-15 |
+| [Lowest](https://open.spotify.com/track/7xO7DaKECDqukf1cr25LJd) | [From A Second Story Window](https://open.spotify.com/artist/2BMSRmXfr41q3wsd0rq6aE) | [Lowest](https://open.spotify.com/album/2UvIITAH9Dqiz5uzvPPlUx) | 1:44 | 2025-01-03 |  |
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 | 2023-07-15 |
 | [Lysergic War Psychosis](https://open.spotify.com/track/1aegOIEWeGvUVm1Kavduz4) | [Antichrist Siege Machine](https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s) | [Vengeance of Eternal Fire](https://open.spotify.com/album/4MHngXy37mudMEn2H39sAg) | 2:35 | 2024-04-19 |  |
 | [MaBeLu](https://open.spotify.com/track/14gGfvwn3Fdb74NKTBy6Di) | [MTVoid](https://open.spotify.com/artist/18zL2Ycw9paUbgS4TiAgOP) | [MaBeLu](https://open.spotify.com/album/0WeHR1XLB4yHTKAwWOh7uM) | 3:47 | 2023-09-08 | 2024-02-03 |
@@ -594,6 +595,7 @@
 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 | 2023-10-13 | 2024-02-03 |
 | [Righteous Man](https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Righteous Man](https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI) | 3:48 | 2024-08-23 |  |
 | [Rise from the Grave](https://open.spotify.com/track/3Uo3xhqUJG9EHTtdlBbEm4) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Rise from the Grave](https://open.spotify.com/album/4rTmT4RMbmdNHid4lgighZ) | 3:35 | 2022-01-21 | 2023-07-15 |
+| [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 | 2025-01-03 |  |
 | [ROC SH!T](https://open.spotify.com/track/5vHhnLEqrFXj8Agx6JmKAD) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [ROC SH!T](https://open.spotify.com/album/1tpC1yYHkOxqRtaGlc6kbJ) | 3:05 | 2023-07-07 | 2024-02-03 |
 | [Rose Bather](https://open.spotify.com/track/0jyeo3XhHV9FlIKU3toVtZ) | [thoughtcrimes](https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop) | [Rose Bather](https://open.spotify.com/album/3pjrQzkFEVUjb4bEHnICMA) | 3:37 | 2023-12-08 | 2024-02-03 |
 | [Rot & Decay](https://open.spotify.com/track/2dwYVykmRQsVfJbRZvGGjb) | [Dead To Fall](https://open.spotify.com/artist/4fJhgb2uzeQZUtUUVqQLX3) | [Rot & Decay](https://open.spotify.com/album/34hAGVDT8f5qM9FjLyHNPz) | 3:22 | 2022-09-16 | 2023-07-15 |
@@ -664,6 +666,7 @@
 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 | 2023-05-05 | 2024-02-03 |
 | [Split](https://open.spotify.com/track/7usAeQVhpgccNHPuEPtwdQ) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Split](https://open.spotify.com/album/6Lcs7aMfN0YPYL4yUCXWZe) | 3:11 | 2024-03-22 |  |
 | [Sport of Form](https://open.spotify.com/track/60snAG6V1EmDgbHB7x5ROy) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Sport of Form](https://open.spotify.com/album/1T4LPltqYeJoJrr88P0NLq) | 3:26 | 2023-06-30 | 2024-02-03 |
+| [Standalone](https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Standalone+1](https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt) | 1:08 | 2025-01-03 |  |
 | [Starve](https://open.spotify.com/track/1tV2sOs3uIJrEdvpfblAqJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Starve](https://open.spotify.com/album/1NFAlXfwkDbedNfC2rek74) | 3:41 | 2023-03-31 | 2024-02-03 |
 | [State Of Slow Decay](https://open.spotify.com/track/4CbZ37zpHKk3FQuV7bRVHB) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [State Of Slow Decay](https://open.spotify.com/album/7FZ7l7MmBlr7RKO7UOVJmR) | 3:58 | 2022-06-17 | 2023-07-15 |
 | [State Of Unrest](https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [State Of Unrest](https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB) | 3:07 | 2023-02-10 | 2024-02-03 |
@@ -694,12 +697,14 @@
 | [Take Back Control](https://open.spotify.com/track/23dY6wUSyEHYUqeUBL0ROJ) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering \(Deluxe\)](https://open.spotify.com/album/7elmT46vGsxfDJ9vd7O1dC) | 3:09 | 2023-03-10 | 2024-02-03 |
 | [Take Me Back To Eden](https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 8:20 | 2023-05-19 | 2024-02-03 |
 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 | 2023-07-21 | 2024-02-03 |
+| [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-01-03 |  |
 | [Talk For Hours](https://open.spotify.com/track/7tpm14q61uGlBLqOS0WaOL) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Talk For Hours](https://open.spotify.com/album/3wivAGbT1Wrtg1G7jGm23W) | 4:59 | 2022-04-15 | 2023-07-15 |
 | [Tamashii No Houkai](https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Tamashii No Houkai](https://open.spotify.com/album/3ZBHu5UnXwrQrEeepL6X4B) | 5:58 | 2022-01-21 | 2023-07-15 |
 | [Tank On E](https://open.spotify.com/track/3jJ8NX2W13Kb4weZEUSvpL) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Tank On E](https://open.spotify.com/album/6s6uyJHu5uscy4snvD0LQw) | 2:39 | 2023-04-21 | 2024-02-03 |
 | [tear gas](https://open.spotify.com/track/5dmmNOi4QVrB6TbYDy2GCg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [tear gas](https://open.spotify.com/album/0lYpKR15pdTLNQuBHXNx6L) | 4:17 | 2022-07-15 | 2023-07-15 |
 | [Tearing Down Your Reality](https://open.spotify.com/track/3n7o1RgdVLrvHs6JO0Z44N) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Lucid Noise](https://open.spotify.com/album/2Bp9hBPWjMgtY1uulgkqvP) | 3:31 | 2022-10-21 | 2023-07-15 |
 | [TECHNIUM](https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx), [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [TECHNIUM](https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX) | 3:04 | 2024-07-26 |  |
+| [Tendrils](https://open.spotify.com/track/7ggzbRpEY7hHkBP7z9Oxvo) | [Saetia](https://open.spotify.com/artist/5piONaqFh85tIjxSQgZuWA) | [Tendrils](https://open.spotify.com/album/6Y7x0pwhQauG8zQdFtle1k) | 4:06 | 2025-01-03 |  |
 | [Tenkiller](https://open.spotify.com/track/1VyU3Uf8oS99scpVqRYwWO) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Tenkiller / Lake Time \(Mr\. Rodan\)](https://open.spotify.com/album/4HGSELCBT0TY9mBEiedgjB) | 5:13 | 2022-11-18 | 2023-07-15 |
 | [Terrible](https://open.spotify.com/track/17V4nI2x1EieJB88aY78ph) | [Spanaway](https://open.spotify.com/artist/5CZRAfYbDHouv7au1BdlB6) | [Terrible](https://open.spotify.com/album/2X19ucyv9Hl9LseDljVAzn) | 4:34 | 2024-10-11 |  |
 | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1) | 3:04 | 2023-09-15 | 2024-02-03 |

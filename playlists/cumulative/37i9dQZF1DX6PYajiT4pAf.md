@@ -4,7 +4,7 @@
 
 > Morad y el resto de novedades más importantes de las 2 últimas semanas.
 
-745 songs - 1 day 13 hr 54 min
+747 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,9 @@
 | [Amantes de la noche](https://open.spotify.com/track/12ByeW4Zrk21JMAKAT0w2M) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Kvinz](https://open.spotify.com/artist/19ALJ3xMGruS0w9Qc4Lvtp) | [Amantes de la noche](https://open.spotify.com/album/3OY9eUyvhV8Qvdj0LACQnU) | 3:11 | 2024-12-06 | 2024-12-13 |
 | [Amapiola](https://open.spotify.com/track/5qbQH9J0JEuihAkDeDRzBm) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [SEYSEY](https://open.spotify.com/artist/1vMCydfeqfc5BdxolssKxU), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Llanto de Secano](https://open.spotify.com/album/0FypKBYPqPO59hA4unLmGc) | 3:59 | 2024-11-01 | 2024-11-08 |
 | [AMI Paris](https://open.spotify.com/track/4EnhZsNiUgAbwTuL5Y0KlS) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [AMI Paris](https://open.spotify.com/album/4tK82nRb9RlbxXl6mHuKgm) | 3:28 | 2024-10-24 | 2024-11-01 |
-| [AMNESIA](https://open.spotify.com/track/7f7eVpiCK1MRg0WwPyi96d) | [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [HACELOS CONCHA STIFFY](https://open.spotify.com/album/0lwougoZQZE1moge7vZfv1) | 3:19 | 2025-01-02 |  |
+| [AMNESIA](https://open.spotify.com/track/7f7eVpiCK1MRg0WwPyi96d) | [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [HACELOS CONCHA STIFFY](https://open.spotify.com/album/0lwougoZQZE1moge7vZfv1) | 3:19 | 2025-01-02 | 2025-01-04 |
 | [Amorfoda \- Spotify Singles](https://open.spotify.com/track/3cio3keUESsgJJezSNhE6O) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Spotify Singles](https://open.spotify.com/album/4qWape5h2Cs3MrfvYTLBrU) | 2:26 | 2024-12-19 | 2025-01-03 |
+| [Ansiedad](https://open.spotify.com/track/5XpbAs1Rd4pet18QuiLSI0) | [El Greco](https://open.spotify.com/artist/2fe5YD0v1HzDeACkHSPAXG), [Daddy R](https://open.spotify.com/artist/4d4oqncpHhr7zhMMXX182i) | [Ansiedad](https://open.spotify.com/album/7KekXXnVVNWD3fBM4rTNoJ) | 3:06 | 2025-01-02 |  |
 | [ANTES](https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:14 | 2024-10-17 | 2024-10-25 |
 | [Antes nubes](https://open.spotify.com/track/6qdKpF4TtjaAHdhL7dwgRG) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Canciones Inestimables](https://open.spotify.com/album/08rkWDKoRJ7sGyih1sAsIO) | 3:22 | 2024-11-14 | 2024-11-22 |
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-11 | 2024-10-18 |
@@ -192,6 +193,7 @@
 | [DORMÍA](https://open.spotify.com/track/212uzbZRhHE83rLhfRjDhW) | [Salistre](https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0) | [DORMÍA](https://open.spotify.com/album/64VmUf5FG9jYrTdYah8Fz3) | 2:40 | 2024-12-19 | 2025-01-03 |
 | [Dos Almas](https://open.spotify.com/track/4lI7BJNGDnPvCqoTuxqQjj) | [Zetazen](https://open.spotify.com/artist/66BpLv7bc0OLbr50D1cnGS) | [Dos Almas](https://open.spotify.com/album/7xx8LBL7NqO1xdbHo2x4uM) | 2:18 | 2024-10-17 | 2024-10-25 |
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2025-01-02 |  |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-02 |  |
 | [DURO](https://open.spotify.com/track/1kyLInQ2qgYbK4wZxllfV2) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DURO](https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8) | 2:42 | 2024-11-01 | 2024-11-08 |
 | [Días Grises](https://open.spotify.com/track/3kYlXinu6BRiypqQxYAo0F) | [Nyno Vargas](https://open.spotify.com/artist/2dkbKcHXhN7ooFBdqAV76G) | [Días Grises](https://open.spotify.com/album/4ywUL2ZqTXnXt4oKOuwQK5) | 2:08 | 2024-11-14 | 2024-11-22 |
 | [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf) | 3:28 | 2025-01-02 |  |

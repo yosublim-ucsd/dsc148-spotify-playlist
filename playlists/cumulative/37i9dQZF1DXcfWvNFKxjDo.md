@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: LAWRENT, Alok,  Armin van Buuren, Norma Jean Martine
 
-2,839 songs - 5 day 12 hr 36 min
+2,840 songs - 5 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1158,7 +1158,7 @@
 | [I LUV U \(Sunny\)](https://open.spotify.com/track/5Zr3A0yB8p60zWiK7kwFxl) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [BLENDER](https://open.spotify.com/artist/6IwTZTN2WX3s6jmbSHoBNS), [Ragdoll](https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl) | [I LUV U \(Sunny\)](https://open.spotify.com/album/3TT7K751J6hjcElJckpc9J) | 2:44 | 2024-05-23 | 2024-06-07 |
 | [I Might](https://open.spotify.com/track/76RqGYYJgQJjI4AR8iZ2KD) | [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [I Might](https://open.spotify.com/album/4NMpGb1smUUcI7uqovgz6N) | 2:04 | 2023-12-14 | 2023-12-22 |
 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 | 2024-06-06 | 2024-06-14 |
-| [I Need Your Love](https://open.spotify.com/track/74DT4Ac2OC3lySWNNVGWeq) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [I Need Your Love](https://open.spotify.com/album/4lQDm4KB7rEiCUVzmvwcv6) | 2:16 | 2024-12-19 |  |
+| [I Need Your Love](https://open.spotify.com/track/74DT4Ac2OC3lySWNNVGWeq) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [I Need Your Love](https://open.spotify.com/album/4lQDm4KB7rEiCUVzmvwcv6) | 2:16 | 2024-12-19 | 2025-01-04 |
 | [I Need Your Lovin' \(Like the Sunshine\)](https://open.spotify.com/track/7vfZRBQD6ku2OQpuzcv1uw) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Marc Et Claude](https://open.spotify.com/artist/3oosNtuLrosqqP3OHT3UD1) | [I Need Your Lovin' \(Like the Sunshine\)](https://open.spotify.com/album/2ycCcI7Jm0NoKcgdsAkgjI) | 2:34 | 2024-04-18 | 2024-05-03 |
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-22 | 2024-08-30 |
 | [I Promised Myself \(Techno\)](https://open.spotify.com/track/4Dv1D9kl9AWGtEd4dDPYSc) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [I Promised Myself \(Techno\)](https://open.spotify.com/album/2aTANIURXgyqzbaop5W54G) | 2:32 | 2024-10-31 | 2024-11-29 |
@@ -2446,6 +2446,7 @@
 | [Temporary Highs](https://open.spotify.com/track/1eOKR97KKwzYPwIaTsqHxc) | [DAZZ](https://open.spotify.com/artist/67hggymbjwkuVTf7qrZanz), [CALVO](https://open.spotify.com/artist/3E61SnNA9oqKP7hI0K3vZv), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Temporary Highs](https://open.spotify.com/album/3E8IQs14CsLfXkWUmF8RsW) | 2:22 | 2023-10-19 | 2023-11-11 |
 | [Temptation](https://open.spotify.com/track/4y3K9KigFICOT3PwIbIRlg) | [Paolo Campidelli](https://open.spotify.com/artist/7n1rgFzOMvAfuO7Ktg7cIf), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Temptation](https://open.spotify.com/album/3nwzpc2odpqHz0rAq7y2qr) | 2:07 | 2024-12-12 | 2024-12-20 |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-12 | 2023-11-11 |
+| [TEN](https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/0iIC693yA29mHcT8j08osB) | 2:09 | 2025-01-03 |  |
 | [Ten \(Get Back Up\)](https://open.spotify.com/track/5n6gZfEkDTI6mlPHRwM2XP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Ten \(Get Back Up\)](https://open.spotify.com/album/3Plf86xJV5tvxw71cgCCr5) | 2:40 | 2024-06-06 | 2024-06-14 |
 | [Terra Titanic](https://open.spotify.com/track/5rQNItwYL4miXapRrY5fO4) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Peter Schilling](https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS) | [Terra Titanic](https://open.spotify.com/album/3pRxhX5cxuOPVEq5DRt25x) | 2:16 | 2024-08-15 | 2024-09-27 |
 | [Terrified](https://open.spotify.com/track/0g4vf6nI30G8NV2vMCOwYF) | [Myrrhe](https://open.spotify.com/artist/3SQOJGwgR1PKCa52M1W6EV), [CØRT](https://open.spotify.com/artist/72uc6BIn48ZMOwbS4hMlGU) | [Terrified](https://open.spotify.com/album/501qQ9R8AAesdIpjN5H8yI) | 2:58 | 2024-01-11 | 2024-01-19 |

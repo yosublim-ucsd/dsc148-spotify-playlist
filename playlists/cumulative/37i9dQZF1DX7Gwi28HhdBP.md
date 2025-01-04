@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
 
-278 songs - 20 hr 17 min
+279 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Ya Bay](https://open.spotify.com/track/01UNrIexMipixuxs3rsgU2) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay 2022](https://open.spotify.com/album/0p4kpGpxg5vjnvMX7ndZGp) | 3:07 | 2023-04-11 | 2023-05-13 |
 | [Ya Bay](https://open.spotify.com/track/1tIjCjZggwGIIviiOn4qkB) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay](https://open.spotify.com/album/3pLAjS8pQIbluq04CPZMVB) | 3:07 | 2021-12-16 | 2023-03-30 |
 | [Ya Bege7](https://open.spotify.com/track/6sZ0YGoIpHx2EQD8ltgFgU) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Bege7](https://open.spotify.com/album/6mPMMYLI5iKMKfE1eGAwbV) | 5:38 | 2021-12-16 | 2022-07-27 |
+| [Ya Chedda Shokran](https://open.spotify.com/track/3trbju41081pF8BuAueGcP) | [Essam Karika](https://open.spotify.com/artist/0c8w2lYzFdZkCOVtJj7QdW) | [Ya Chedda Shokran](https://open.spotify.com/album/52uugAug1IGmMpOtdjCHJD) | 2:54 | 2025-01-02 |  |
 | [Ya Dmaghy](https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Ya Dmaghy](https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6) | 4:03 | 2021-12-16 | 2023-05-12 |
 | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/track/0PosqExfBBo3NacLexwDly) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Ya Lahwy \(El Donya Mowala3a\)](https://open.spotify.com/album/1gnWrEMSr6fGOydroYscyu) | 3:16 | 2021-12-16 | 2023-07-12 |
 | [Ya Naker Kheiry](https://open.spotify.com/track/5otYW9ofdZVlXjgQVAo00B) | [Hamza El Saghier](https://open.spotify.com/artist/4Dk2CowpetfKQGv6psvWFr) | [Ya Naker Kheiry](https://open.spotify.com/album/5DeCycvx4r7sHCc1Z7kNNv) | 4:08 | 2021-12-16 | 2024-11-29 |

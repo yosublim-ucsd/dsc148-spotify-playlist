@@ -2889,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Southbound",
+        "url": "https://open.spotify.com/album/54SfJ3dPDDWrUM21I9ITsQ"
+      },
+      "artists": [
+        {
+          "name": "Maddox Batson",
+          "url": "https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/3EKJ25oo45fIxXUkWZuuwZ"
+    },
+    {
+      "album": {
         "name": "Straight and Narrow",
         "url": "https://open.spotify.com/album/38SBM2jhA27kEq2SrgfS89"
       },

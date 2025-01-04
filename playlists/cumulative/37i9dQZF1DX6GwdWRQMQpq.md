@@ -2,7 +2,7 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Ice Spice
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: SZA
 
 625 songs - 1 day 4 hr 12 min
 
@@ -11,7 +11,7 @@
 | [10 White Toes](https://open.spotify.com/track/0g6uvmCUk0GOWfB8Uo0blt) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [10 White Toes](https://open.spotify.com/album/393uGrwWrg1PqP8UAscMH1) | 1:35 | 2024-06-28 | 2024-07-06 |
 | [11:11](https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [11:11](https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS) | 1:33 | 2023-04-21 | 2023-06-24 |
 | [2016 \(feat\. Cleotrapa\)](https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 3:20 | 2024-12-06 | 2024-12-28 |
-| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-20 |  |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-20 | 2025-01-04 |
 | [50/50](https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [50/50](https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F) | 1:40 | 2024-02-09 | 2024-03-16 |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-12-09 | 2023-09-02 |
 | [8 Year Run](https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [8 Year Run](https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea) | 2:10 | 2022-06-24 | 2022-09-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,234 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,393 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 78 | [Que Te Casas](https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq) | [Ramon Massiaca Y Los Dos Plebes](https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe) | [La Sombra Del Arbol](https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax) | 2:34 |
 | 79 | [El Niño De Oro](https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:03 |
 | 80 | [Los 4 Grandes \- En Vivo](https://open.spotify.com/track/2O8ytiGfFkRzLD5CxgFS76) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [16 Éxitos \(En Vivo\)](https://open.spotify.com/album/0s82a3ioSduBeiOggJx2HA) | 3:35 |
-| 81 | [Nunca Mas Podre Olvidarte](https://open.spotify.com/track/0fpOLjg4snwR2CGMcqmUbx) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10 Anos De Exito \- 10TH Anniversary](https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6) | 2:43 |
+| 81 | [Equivocacion \(En Vivo\)](https://open.spotify.com/track/4SKz9HZareGTqMZqWO09QB) | [Los Sierrenos De Sinaloa](https://open.spotify.com/artist/4BmHA0UC7qRDgmIcSa6tEF) | [En Vivo](https://open.spotify.com/album/4lTCheLmGeDGsSEOtIHKog) | 3:22 |
 | 82 | [Mi Virgencita](https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 2](https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt) | 2:24 |
 | 83 | [A puro dolor](https://open.spotify.com/track/2ogZkQ1paxVHkOSwbEzmNv) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 3:14 |
-| 84 | [Equivocacion \(En Vivo\)](https://open.spotify.com/track/4SKz9HZareGTqMZqWO09QB) | [Los Sierrenos De Sinaloa](https://open.spotify.com/artist/4BmHA0UC7qRDgmIcSa6tEF) | [En Vivo](https://open.spotify.com/album/4lTCheLmGeDGsSEOtIHKog) | 3:22 |
+| 84 | [Nunca Mas Podre Olvidarte](https://open.spotify.com/track/0fpOLjg4snwR2CGMcqmUbx) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10 Anos De Exito \- 10TH Anniversary](https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6) | 2:43 |
 | 85 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/5HOgr1vGGin7nicfjrylP6) | [Los Gavilanes de la Sierra](https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1) | [Piel de Azúcar](https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV) | 3:23 |
 | 86 | [Los Plebes Atrevidos](https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:17 |
 | 87 | [Que Casualidad](https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Siguen los Exitos](https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa) | 2:58 |

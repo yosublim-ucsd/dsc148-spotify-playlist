@@ -4,7 +4,7 @@
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-78 songs - 6 hr 12 min
+79 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [She's a Freak](https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [She's a Freak](https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ) | 6:54 | 2020-06-03 | 2024-02-24 |
 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 | 2024-04-06 |  |
 | [Simplicité](https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 5:31 | 2020-06-03 | 2024-04-07 |
+| [SIWO](https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [SIWO](https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr) | 3:49 | 2025-01-03 |  |
 | [Sonia](https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [L'année du Kompa 2001 \(Ayiti Konpa\)](https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9) | 4:28 | 2020-06-03 | 2024-01-15 |
 | [Ti doudou](https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Option](https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz) | 4:34 | 2024-04-06 |  |
 | [Tous Ces Détails](https://open.spotify.com/track/657kb7QPOdD0Jr7DyBebyH) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/6bA6XuiUHycSDwQe2V9PXD) | 2:50 | 2024-04-06 | 2024-10-06 |
@@ -83,7 +84,7 @@
 | [Vini'm pale w](https://open.spotify.com/track/6g5RSwKEjeFPv9hbrIzje3) | [Black Parents](https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9) | [Et pourtant](https://open.spotify.com/album/5xAp6DJADF4JaqeStTnJRp) | 5:01 | 2020-06-03 | 2024-11-24 |
 | [Wet the hell map vini \- Zouk](https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Mete'm alez](https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep) | 4:53 | 2020-06-03 | 2025-01-02 |
 | [What About Tomorrow](https://open.spotify.com/track/1r3NNzzdvjnVS6UEEe6tVk) | [Nu\-Look](https://open.spotify.com/artist/3GHVlKRurzupQYaoB5x9uB) | [I Got This](https://open.spotify.com/album/3RayyqJSPC8S0YGJQUqCAl) | 6:28 | 2020-06-03 | 2023-12-11 |
-| [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 | 2020-06-03 |  |
+| [Yelé \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 5:24 | 2020-06-03 | 2025-01-04 |
 | [Ze Fele](https://open.spotify.com/track/7wXeBWKUoFHFPSwWBaID87) | [EKIP](https://open.spotify.com/artist/6Xs1C2QqjZd56EVeSomCAR) | [Back In The Game](https://open.spotify.com/album/1G5vtlKcipDCEotsG04sOZ) | 4:25 | 2024-04-06 | 2024-04-19 |
 | [Zouk\-La\-Se Sel Medikaman Nou Ni](https://open.spotify.com/track/3ioD05pNkxSjvm2WC4cNke) | [Kassav](https://open.spotify.com/artist/2vI858Cxtz915SlqYtlais) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 5:31 | 2020-06-03 | 2023-06-18 |
 

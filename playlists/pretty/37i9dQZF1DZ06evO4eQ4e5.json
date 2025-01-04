@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 82350,
+  "num_followers": 82368,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAAD/QaDME/MkMSN5aDyqcuby",
+  "snapshot_id": "Z3XXAAAAAAD0/+vZFjAq3gpHJYlj7wJi",
   "tracks": [
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amar No Es Suficiente",
-        "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 207720,
-      "name": "Arrepentida",
-      "url": "https://open.spotify.com/track/0uNH2bpQFlUku6mPcdk9up"
+      "duration_ms": 189400,
+      "name": "Extrav\u00edate",
+      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
+        "name": "Amar No Es Suficiente",
+        "url": "https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 189400,
-      "name": "Extrav\u00edate",
-      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
+      "duration_ms": 207720,
+      "name": "Arrepentida",
+      "url": "https://open.spotify.com/track/0uNH2bpQFlUku6mPcdk9up"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Ya que voy a estar sin ti",
-      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 220329,
       "name": "Llamarada (feat. Edith M\u00e1rquez) - En Vivo",
       "url": "https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Ya que voy a estar sin ti",
+      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Mejores Baladas del Pop",
-        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "Tengo todo excepto a ti",
-      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Edith M\u00e1rquez. S\u00f3lo \u00c9xitos",
         "url": "https://open.spotify.com/album/4N5kJyBmPIXTT4cCKMEzKw"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 239093,
       "name": "Hazme Olvidarlo",
       "url": "https://open.spotify.com/track/0A3VGRslEA7QHh45NRXasw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Mejores Baladas del Pop",
+        "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "Tengo todo excepto a ti",
+      "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
     },
     {
       "added_at": null,

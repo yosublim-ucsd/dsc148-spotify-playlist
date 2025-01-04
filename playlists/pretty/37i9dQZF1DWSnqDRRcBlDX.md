@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,019 likes - 53 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,075 likes - 53 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 52 | [Silver Spring](https://open.spotify.com/track/5SzK6pTHa4m1c6FCS9JV4u) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Part Time Killer](https://open.spotify.com/artist/0LAMskg8u2rGlNDYvlRZdq) | [Silver Spring](https://open.spotify.com/album/6P0IchYu7ZjH7MNJXtVFFZ) | 5:05 |
 | 53 | [Emotional \- 2023 Edit](https://open.spotify.com/track/24h4FVqzZl31rgUWd9NLZC) | [Bentech](https://open.spotify.com/artist/4tMLkoMpWu60qPkLybmNxu) | [Emotional EP](https://open.spotify.com/album/79R7xJdFybNlRzBrdELrxN) | 6:35 |
 
-Snapshot ID: `Z240dwAAAABnsPh6SmgTnZlqLh3Trqli`
+Snapshot ID: `Z3du4QAAAAACQv/v7p0K6kE7L1MJYtnB`

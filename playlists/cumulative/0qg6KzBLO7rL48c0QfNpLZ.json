@@ -3277,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/3CLJsz4phtcvadOnTkzXYv"
+      },
+      "artists": [
+        {
+          "name": "Chilled Virus",
+          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144018,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/0MwAvp1DnErZAA7VjI4Usk"
+    },
+    {
+      "album": {
         "name": "Dance The Night Away",
         "url": "https://open.spotify.com/album/0ZmtmKJbvkWeBMCN2HLQmI"
       },
@@ -5514,6 +5532,24 @@
       "duration_ms": 121200,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/4cJ8O7vr4PXIsKu32EkV4E"
+    },
+    {
+      "album": {
+        "name": "Fire In You",
+        "url": "https://open.spotify.com/album/1QNMYAysxYGAa1QqGPBJMm"
+      },
+      "artists": [
+        {
+          "name": "Fargro",
+          "url": "https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Fire In You",
+      "url": "https://open.spotify.com/track/6GpncNJ5M1OgSEKjbo02gY"
     },
     {
       "album": {
@@ -9730,7 +9766,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Lingered Love (feat. Courtney Storm)",
       "url": "https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK"
@@ -10444,7 +10480,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 143000,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7AmhrMd70FuXsn1uCd1DML"
@@ -11521,6 +11557,28 @@
     },
     {
       "album": {
+        "name": "No Limits",
+        "url": "https://open.spotify.com/album/0QMppMAvRrFuHzCaYNBIvg"
+      },
+      "artists": [
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        },
+        {
+          "name": "we love sunset",
+          "url": "https://open.spotify.com/artist/0ROeDOXEZIq0ETZL5MVHqa"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "No Limits",
+      "url": "https://open.spotify.com/track/5aUlOnQ7Elb98Nfp7gUohd"
+    },
+    {
+      "album": {
         "name": "No Other Love",
         "url": "https://open.spotify.com/album/0hFUQbYgL26iBhkqXLxk99"
       },
@@ -12552,6 +12610,24 @@
       "duration_ms": 177600,
       "name": "Paris",
       "url": "https://open.spotify.com/track/2AwK34wiXqYBYr3DCI42LT"
+    },
+    {
+      "album": {
+        "name": "Passing By",
+        "url": "https://open.spotify.com/album/2Z6YpKGZMd60oEOYBcWZYF"
+      },
+      "artists": [
+        {
+          "name": "Willow",
+          "url": "https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154133,
+      "name": "Passing By",
+      "url": "https://open.spotify.com/track/1bQfBIsDAnVfXO1ApNRa8r"
     },
     {
       "album": {
@@ -13639,6 +13715,28 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/3h0HWJMCNAFPo9ESY1SVmr"
+      },
+      "artists": [
+        {
+          "name": "Summer Dusk",
+          "url": "https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3"
+        },
+        {
+          "name": "Natasha Ghosh",
+          "url": "https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181238,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/2QQoGT4K2IDqOCl8tVHHfB"
+    },
+    {
+      "album": {
         "name": "Sad Love (feat. JAIKO)",
         "url": "https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03"
       },
@@ -14538,6 +14636,24 @@
       "duration_ms": 133000,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4a7Nlp8P52v6ehW0BxD4YL"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4P2SJojdRTZsBhJ41hWnWa"
+      },
+      "artists": [
+        {
+          "name": "Second Sun",
+          "url": "https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/356UjUL3SSitcL9jby4avR"
     },
     {
       "album": {
@@ -16254,6 +16370,32 @@
       "duration_ms": 180000,
       "name": "Tidal Waves",
       "url": "https://open.spotify.com/track/0XEu3Se2tnb8OZLIAYADLp"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/5jGVHDx323N5IIiDMfwIA2"
+      },
+      "artists": [
+        {
+          "name": "Spayds",
+          "url": "https://open.spotify.com/artist/0dGJSbhSMUOlL46QeN5vxy"
+        },
+        {
+          "name": "Jamie Scott",
+          "url": "https://open.spotify.com/artist/3GmfV6ZlTLGA669yMuLplT"
+        },
+        {
+          "name": "RMDYZ",
+          "url": "https://open.spotify.com/artist/0Py2QiGOHHOLWxwO1EpkRV"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143243,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/5OvGneUHoHe2oR5efIFXEJ"
     },
     {
       "album": {

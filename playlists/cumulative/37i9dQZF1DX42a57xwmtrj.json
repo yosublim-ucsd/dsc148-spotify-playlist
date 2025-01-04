@@ -434,7 +434,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 266160,
       "name": "Cuando t\u00fa no est\u00e1s",
       "url": "https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n"
@@ -496,6 +496,28 @@
       "duration_ms": 278666,
       "name": "De Que el Amor Apesta",
       "url": "https://open.spotify.com/track/36GyJisOpesFuVqrcoXOjk"
+    },
+    {
+      "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/6ar5rXhqDcZAjj7lR3KUUy"
+      },
+      "artists": [
+        {
+          "name": "Los Gestos de la Do\u00f1a",
+          "url": "https://open.spotify.com/artist/6Wm6zVXvOGipOVZsCtuu7F"
+        },
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/3TnfMltS2jM9js1AbnchZd"
     },
     {
       "album": {
@@ -874,7 +896,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 288360,
       "name": "Estacion Del Metro Balderas",
       "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
@@ -1505,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Mi Nueva Naci\u00f3n (Remasterizada)",
+        "url": "https://open.spotify.com/album/6CCGZhwNb2XKk7Nl2aOAFu"
+      },
+      "artists": [
+        {
+          "name": "Rebel'd Punk",
+          "url": "https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157426,
+      "name": "Mi Nueva Naci\u00f3n - Remasterizada",
+      "url": "https://open.spotify.com/track/03A23fX9P11AQQ1VHFr8Of"
+    },
+    {
+      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
       },
@@ -1838,7 +1878,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 162826,
       "name": "Oye Cantinero",
       "url": "https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129"
@@ -2170,7 +2210,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 214048,
       "name": "Somos H\u00e9roes",
       "url": "https://open.spotify.com/track/5cRwxk8vnQrINUbCnga9B3"

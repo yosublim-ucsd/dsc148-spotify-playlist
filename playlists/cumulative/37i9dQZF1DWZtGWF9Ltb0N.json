@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Floor shattering bass and dark soundscapes to dive into.",
+  "description": "Floor shattering bass and dark soundscapes \u2663\ufe0f",
   "name": "Sub Low",
   "tracks": [
     {
@@ -3873,6 +3873,28 @@
     },
     {
       "album": {
+        "name": "Fade Away / Oxygen Thief",
+        "url": "https://open.spotify.com/album/4EkdK4AiSjYER03jO9gdsi"
+      },
+      "artists": [
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        },
+        {
+          "name": "Two Swords",
+          "url": "https://open.spotify.com/artist/3Dky4rWifn4wikHCC2fFOv"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/7gKLE8IhPWpM2wGjqMiUrU"
+    },
+    {
+      "album": {
         "name": "Faded / Spear",
         "url": "https://open.spotify.com/album/5uQiS0pSr2O0hPwtzbMEl1"
       },
@@ -4306,6 +4328,24 @@
       "duration_ms": 260035,
       "name": "Forest Creature",
       "url": "https://open.spotify.com/track/24FFTMGz9qesaHsQY2N6Y9"
+    },
+    {
+      "album": {
+        "name": "French Love Poem",
+        "url": "https://open.spotify.com/album/5NhSh6tzk9V4Sv6udUMWOZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "French Love Poem",
+      "url": "https://open.spotify.com/track/527QAJEQwKLM4utnk5dwrA"
     },
     {
       "album": {
@@ -6862,7 +6902,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 192214,
       "name": "Lies",
       "url": "https://open.spotify.com/track/3XxpibWu8B2ZIRD3HFksZC"
@@ -8736,6 +8776,24 @@
       "duration_ms": 223714,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
+    },
+    {
+      "album": {
+        "name": "Fade Away / Oxygen Thief",
+        "url": "https://open.spotify.com/album/4EkdK4AiSjYER03jO9gdsi"
+      },
+      "artists": [
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Oxygen Thief",
+      "url": "https://open.spotify.com/track/4dKvLFYdo7n0zocw2V7k69"
     },
     {
       "album": {
@@ -11228,7 +11286,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 289000,
       "name": "South Street",
       "url": "https://open.spotify.com/track/0R6jR68WZTeSZYvbzOR1on"
@@ -11840,7 +11898,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 212660,
       "name": "Suspect",
       "url": "https://open.spotify.com/track/53GjC6B4KaEm4Ajxn1wSMk"

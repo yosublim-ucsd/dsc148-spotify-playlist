@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-966 songs - 2 day 4 hr 6 min
+967 songs - 2 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/album/0NpT6q3W06PVHcCnE5Ifyl) | 3:55 | 2022-09-30 |  |
 | [Jhalleya Dila](https://open.spotify.com/track/1hLZbQnKl3ElI3hS3gW21X) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Jhalleya Dila](https://open.spotify.com/album/2xn8lvOvu7wUIYqp1OIiQa) | 3:21 | 2022-01-12 | 2022-05-11 |
 | [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 | 2022-08-04 | 2023-02-02 |
+| [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 | 2025-01-03 |  |
 | [Jhooth](https://open.spotify.com/track/5fIaC4ukz4xhK7sJcZYHVk) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v), [Pratik Sehajpal](https://open.spotify.com/artist/63wPenaAPhlV2kTBrD0McP) | [Jhooth](https://open.spotify.com/album/2sVlsMB6P7B3SAXmsFtvC4) | 3:40 | 2023-02-01 | 2023-02-04 |
 | [Jigra Te Laija Gabrua \(From "Jodi"\)](https://open.spotify.com/track/6jwxRsmJwIezmZxYVQCcVa) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jigra Te Laija Gabrua \(From "Jodi"\)](https://open.spotify.com/album/67yYAM5OiNbJjQJjaSVEAv) | 2:54 | 2023-04-17 | 2023-05-06 |
 | [Jind Tere Naam](https://open.spotify.com/track/1FhvIkgpQ7XV57psmV1Doq) | [Raj Brar](https://open.spotify.com/artist/6ZBd1hRd7fSEEn7UM1UDCv) | [Jind Tere Naam](https://open.spotify.com/album/0gVTIRWykkCsotRRbtOBs0) | 3:01 | 2022-01-21 | 2022-02-05 |
@@ -900,7 +901,7 @@
 | [Tu Jo Mileya](https://open.spotify.com/track/40EeTvfmNYoXbY2iyWC542) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Tu Jo Mileya](https://open.spotify.com/album/3k6gm4SfQtgCPhunnsJTKz) | 2:38 | 2024-04-08 |  |
 | [Tu Jo Mileya](https://open.spotify.com/track/7uVpBwBqSwuhSDF8HcH9Qz) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Tu Jo Mileya](https://open.spotify.com/album/3Wi3ZqFRZwbQuIxkLm2I9u) | 2:38 | 2024-03-28 | 2024-04-19 |
 | [Tu Juliet Jatt Di \( From "Jatt & Juliet 3"\)](https://open.spotify.com/track/2FRSsjZloHsmBF60bCoPrQ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Juliet Jatt Di \( From "Jatt & Juliet 3"\)](https://open.spotify.com/album/6SgKeQDMRzq0noM0FSaPP6) | 3:25 | 2024-05-31 |  |
-| [Tu Mera](https://open.spotify.com/track/2iUIPDohv8vpGl8hTKTcnc) | [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT) | [Tu Mera](https://open.spotify.com/album/60aj1P0mY3TV7ldPrjT3rR) | 3:30 | 2024-12-09 |  |
+| [Tu Mera](https://open.spotify.com/track/2iUIPDohv8vpGl8hTKTcnc) | [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT) | [Tu Mera](https://open.spotify.com/album/60aj1P0mY3TV7ldPrjT3rR) | 3:30 | 2024-12-09 | 2025-01-04 |
 | [Tu Na Jaa](https://open.spotify.com/track/09aNHM2d7Hs6lKuCZgj4sw) | [Mansimran Sandhu](https://open.spotify.com/artist/0tt4DcVo2HdxkNOTpiUsOn) | [Tu Na Jaa](https://open.spotify.com/album/6fFZlo1ltq25MrF6GxGlKc) | 2:26 | 2022-03-14 | 2022-04-06 |
 | [Tu Ru Ruu](https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Tu Ru Ruu](https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG) | 3:05 | 2024-12-06 |  |
 | [Tu Tan Main](https://open.spotify.com/track/3HOxCKFFRSWfrMOM5DHsRn) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs) | [Tu Tan Main](https://open.spotify.com/album/4YeDFRc1N5WobsEo0A9WSk) | 3:08 | 2022-12-15 | 2022-12-17 |

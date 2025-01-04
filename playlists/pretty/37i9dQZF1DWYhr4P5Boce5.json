@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 206008,
+  "num_followers": 206017,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 226155,
       "name": "Beautiful (feat. India.Arie)",
       "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "All About Love",
-        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "We Will Dance",
-      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Slow Renaissance",
         "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 243146,
       "name": "Love In the Time of Madness",
       "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "All About Love",
+        "url": "https://open.spotify.com/album/0GtzQXs1ecJK73NsRXfXAM"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "We Will Dance",
+      "url": "https://open.spotify.com/track/1vvKpTt15DT2xWA6mNcF6o"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "NATIVE TONGUE",
-        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 125598,
-      "name": "YOU'RE THE ONE I WANT",
-      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "The Glorious Unfolding",
         "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 242746,
       "name": "Together",
       "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "NATIVE TONGUE",
+        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 125598,
+      "name": "YOU'RE THE ONE I WANT",
+      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "i do",
-        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
-      },
-      "artists": [
-        {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "i do",
-      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+        "name": "i do",
+        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
       },
       "artists": [
         {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
         }
       ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
+      "duration_ms": 151016,
+      "name": "i do",
+      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1063,6 +1047,22 @@
       "duration_ms": 199826,
       "name": "Love Will Never Fail (I Corinthians 13)",
       "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Here for You",
         "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 152600,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "What a Heart Is Beating For",
-        "url": "https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/0ntZH4kGvUW9WvCbCNTw1r"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 340200,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "What a Heart Is Beating For",
+        "url": "https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Boo",
-        "url": "https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl"
-      },
-      "artists": [
-        {
-          "name": "Bachi",
-          "url": "https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK"
-        }
-      ],
-      "duration_ms": 140539,
-      "name": "Boo",
-      "url": "https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Love You, Still",
         "url": "https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 307000,
       "name": "Love You, Still",
       "url": "https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Boo",
+        "url": "https://open.spotify.com/album/10EcjUCmjAYuZwcVrAVAgl"
+      },
+      "artists": [
+        {
+          "name": "Bachi",
+          "url": "https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK"
+        }
+      ],
+      "duration_ms": 140539,
+      "name": "Boo",
+      "url": "https://open.spotify.com/track/2VtzylTht013sVNsLS9HVv"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "FEVER / SKY",
-        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Be Yourself",
-      "url": "https://open.spotify.com/track/6P0actEG7h74NHvxqRB321"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 154020,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "FEVER / SKY",
+        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Be Yourself",
+      "url": "https://open.spotify.com/track/6P0actEG7h74NHvxqRB321"
     },
     {
       "added_at": "2024-07-17 04:46:48",

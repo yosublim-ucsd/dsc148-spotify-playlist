@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 El Bogueto y Yung Beef en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Kevin AMF y Yeri Mua en portada ",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 252244,
       "name": "Bellaqueando",
       "url": "https://open.spotify.com/track/38g57RKHaLDUFAEcF60kyV"
@@ -4240,7 +4240,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 188740,
       "name": "El Que Escoge No Coge (feat. Smi beat)",
       "url": "https://open.spotify.com/track/54BP0vRFLMnpSh8U6CXdSR"
@@ -10939,6 +10939,32 @@
     },
     {
       "album": {
+        "name": "SEX-TEX",
+        "url": "https://open.spotify.com/album/75J4zinpVSTBEi74HiUxeS"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        },
+        {
+          "name": "Tuere Chorito",
+          "url": "https://open.spotify.com/artist/1BpROzgvz44GwdGHy6Azae"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156976,
+      "name": "PONGASE DE A P",
+      "url": "https://open.spotify.com/track/38jNvkCaUrDGhlrnynFgdN"
+    },
+    {
+      "album": {
         "name": "Ponte Puti",
         "url": "https://open.spotify.com/album/1QQv0eRIX26yJKH6AijxOT"
       },
@@ -11128,6 +11154,54 @@
       "duration_ms": 163250,
       "name": "Prende y Pasa",
       "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
+    },
+    {
+      "album": {
+        "name": "Pre\u00f1ala Bailando",
+        "url": "https://open.spotify.com/album/1wVNKdRzEjiTPiju757okv"
+      },
+      "artists": [
+        {
+          "name": "Jamsha",
+          "url": "https://open.spotify.com/artist/6YIsL2oVmFhVL7EIKwKVQo"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Pre\u00f1ala Bailando",
+      "url": "https://open.spotify.com/track/3zBoRTalAPbR8VdLbTwAxm"
+    },
+    {
+      "album": {
+        "name": "Primos (feat. Dj Kiire)",
+        "url": "https://open.spotify.com/album/7Lf4SMPBrEJL21n8LFnuWu"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "Primos (feat. Dj Kiire)",
+      "url": "https://open.spotify.com/track/4udwfvT8bOZ8lfbgGRLp68"
     },
     {
       "album": {
@@ -12920,7 +12994,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 223714,
       "name": "Six 9",
       "url": "https://open.spotify.com/track/1G5GOoMiRQsol4uaZAVqFi"

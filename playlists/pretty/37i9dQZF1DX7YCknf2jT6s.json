@@ -1,13 +1,53 @@
 {
-  "description": "New jazz for open minds. Cover: Out Of/Into",
-  "num_followers": 943976,
+  "description": "New jazz for open minds. Cover: H Zettrio",
+  "num_followers": 944016,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/VAAAAAB9Tfn+s2a5bfyLEduXNRIs",
+  "snapshot_id": "Z3du5AAAAABT4fJntUkz0P4xc+q/k1AQ",
   "tracks": [
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "Keep on Going",
+        "url": "https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Keep on Going",
+      "url": "https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM"
+    },
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "No Shadows",
+        "url": "https://open.spotify.com/album/6WE0jTbsWuoTJZJQKvQcvM"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "duration_ms": 318954,
+      "name": "No Shadows",
+      "url": "https://open.spotify.com/track/4ozTTjONT3LvRdgzNuFNn0"
+    },
     {
       "added_at": "2024-12-13 05:00:04",
       "album": {
@@ -331,22 +371,6 @@
       "duration_ms": 253389,
       "name": "Give Me A Reason",
       "url": "https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Drummer is Dreamer",
-        "url": "https://open.spotify.com/album/45V0cmDFwq3DcelffosNVs"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Drummer is Dreamer",
-      "url": "https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1419,30 +1443,6 @@
       "duration_ms": 244029,
       "name": "All in your palms",
       "url": "https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/0yne7uQFneR7wftM1WrkuB"
-      },
-      "artists": [
-        {
-          "name": "Greg Spero",
-          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
-        },
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        },
-        {
-          "name": "Michael Shiono",
-          "url": "https://open.spotify.com/artist/486fu29fZ7O9PXZnHGbvKr"
-        }
-      ],
-      "duration_ms": 319108,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2CZtyy1ewF8niOUigOriZm"
     },
     {
       "added_at": "2024-10-18 04:00:00",

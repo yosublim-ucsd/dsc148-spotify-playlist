@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 194533,
       "name": "Cantem os Anjos",
       "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
@@ -1884,6 +1884,24 @@
       "duration_ms": 296500,
       "name": "Medley Le\u00e3o de Jud\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/2JgFmY60kpblVPw7uHChSz"
+    },
+    {
+      "album": {
+        "name": "Meia Noite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5I1Bi88WAhYCIksYcVWszq"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223469,
+      "name": "Meia Noite - Ao Vivo",
+      "url": "https://open.spotify.com/track/1CJmhl3D2xcWhEC4nTslPD"
     },
     {
       "album": {

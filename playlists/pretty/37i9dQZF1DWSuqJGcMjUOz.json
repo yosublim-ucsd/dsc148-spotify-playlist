@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6664,
+  "num_followers": 6668,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "medium plaisir",
+        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 292960,
+      "name": "Ce n'est pas de la chance",
+      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "QUI A VOL\u00c9 LE SOLEIL ?",
         "url": "https://open.spotify.com/album/0CNZ1e0NtRpjdf2JMSMTg9"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 161920,
       "name": "Zepe & Zada",
       "url": "https://open.spotify.com/track/5mZaPZO8w4e3dCQbtpR3Q2"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "medium plaisir",
-        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 292960,
-      "name": "Ce n'est pas de la chance",
-      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Holla",
-        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
-      },
-      "artists": [
-        {
-          "name": "Heskis",
-          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Quelqu'un quand-m\u00eame",
-      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Traits d'union",
         "url": "https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Holla",
+        "url": "https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo"
+      },
+      "artists": [
+        {
+          "name": "Heskis",
+          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Quelqu'un quand-m\u00eame",
+      "url": "https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c0 demain peut-\u00eatre",
-        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Anomie",
-      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Jour",
         "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 205855,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La fess\u00e9e",
-        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
-      },
-      "artists": [
-        {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
-        }
-      ],
-      "duration_ms": 237691,
-      "name": "La fess\u00e9e",
-      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Don't Lose The Funk",
         "url": "https://open.spotify.com/album/1OCeIkoYpv3BEJskCa7bQw"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 247687,
       "name": "Don't Lose The Funk",
       "url": "https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "La fess\u00e9e",
+        "url": "https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "duration_ms": 237691,
+      "name": "La fess\u00e9e",
+      "url": "https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Bons Times Bad Times",
-        "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
-      },
-      "artists": [
-        {
-          "name": "Miro Chino",
-          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "salades",
-      "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Le monde est fou",
         "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 244200,
       "name": "Le monde est fou",
       "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Bons Times Bad Times",
+        "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
+      },
+      "artists": [
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "salades",
+      "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
     },
     {
       "added_at": "2024-06-19 20:38:05",

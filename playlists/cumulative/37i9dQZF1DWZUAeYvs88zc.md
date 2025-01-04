@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-557 songs - 1 day 7 hr 16 min
+558 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Missing You](https://open.spotify.com/track/7eA8KIqKOYDwzDoQPp0vQ9) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Innocence Lost](https://open.spotify.com/album/7yYelxb5aBNoxduduomHlp) | 2:54 | 2019-06-26 | 2021-05-27 |
 | [Modern Loneliness](https://open.spotify.com/track/1eyek0KJEh2v5HQ9uQSybb) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 4:12 | 2020-06-02 | 2021-10-02 |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-24 | 2023-01-28 |
+| [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 | 2025-01-03 |  |
 | [Morphine](https://open.spotify.com/track/51lhPCRAIsbVYsvCwnEDNZ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Skin & Earth](https://open.spotify.com/album/6s7WpIWoAG0LiBzQuuPh9o) | 4:04 | 2019-05-26\* | 2021-09-27 |
 | [Moves](https://open.spotify.com/track/6oxdwqmjK5caz4fDMVRBoW) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Make Me Believe In Hope \(Deluxe Edition\)](https://open.spotify.com/album/72Ygwke4yhLwcRobo5K1Cf) | 4:10 | 2022-03-25 | 2022-04-21 |
 | [Murder](https://open.spotify.com/track/1BdjQ2Xd8y4FoHXLP52AhC) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Murder](https://open.spotify.com/album/08ZO3bFrpZ6q3RmiCqCqPP) | 3:09 | 2019-05-26\* | 2021-09-08 |
@@ -357,7 +358,7 @@
 | [Not Sad Anymore](https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Not Sad Anymore](https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN) | 3:15 | 2021-06-19 | 2024-08-24 |
 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 | 2023-01-18 |  |
 | [Nothing but a Heartbeat](https://open.spotify.com/track/7lwYGjS8XQnReH8D73zlnu) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Lucid Dreaming \(Deluxe Edition\)](https://open.spotify.com/album/2yCHRv9UcB0C2HSWNGmUXo) | 3:40 | 2019-07-28 | 2019-08-10 |
-| [Nothing Compares 2 U](https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Nothing Compares 2 U](https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb) | 4:13 | 2024-06-02 |  |
+| [Nothing Compares 2 U](https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Nothing Compares 2 U](https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb) | 4:13 | 2024-06-02 | 2025-01-04 |
 | [Nothing Fails](https://open.spotify.com/track/6ZUDEcfkOP6R9g6noBrIW4) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:48 | 2019-07-30 | 2019-08-10 |
 | [Nothing in My Head](https://open.spotify.com/track/1xkHYUMslytkzMxjuOPtrh) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Nothing in My Head](https://open.spotify.com/album/6IBXpvqp0tIDHPKUbOMYzF) | 3:01 | 2019-05-26\* | 2021-05-28 |
 | [Nothing Is Over](https://open.spotify.com/track/16OLYusth4IBXT8lrWK7Rr) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Earth Sick](https://open.spotify.com/album/2OM8AFHd7Tdgop6sfDGIWT) | 3:07 | 2019-07-29 | 2019-08-06 |

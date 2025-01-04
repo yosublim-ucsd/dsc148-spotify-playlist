@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover: Sica
 
-433 songs - 1 day 1 hr 51 min
+434 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [報復式浪漫](https://open.spotify.com/track/6HITvIt0YrLqYbDzyl1pbI) | [Elly艾妮](https://open.spotify.com/artist/1Qr8KvDLnY4wY8ndgYOu9S) | [TOKYO BLOOM](https://open.spotify.com/album/5bwMm6xNRjR4s55ADigscJ) | 4:09 | 2024-06-27 |  |
 | [外星人接我回去](https://open.spotify.com/track/6GeBNMn9w7i6O6fJnrUt1d) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [外星人接我回去](https://open.spotify.com/album/7m6KVg6aPZIU7Bs0xOtUcN) | 3:50 | 2024-08-15 |  |
 | [外星少女失語症](https://open.spotify.com/track/1b3RrSZo4YlfMld5CwwFez) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [外星少女失語症](https://open.spotify.com/album/2pBDOiVOij3gFzBGsE1IkS) | 3:03 | 2024-08-01 |  |
+| [夜幕下告別](https://open.spotify.com/track/3QaEWGHGKHmnJFxIOSE3rt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [夜幕下告別](https://open.spotify.com/album/33xSL6feMYksWgTkgTnmJK) | 4:12 | 2025-01-02 |  |
 | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/track/0lvs3h7idaLPhnG1eslC75) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [夜風中 \(電視劇《繁花》歌曲\)](https://open.spotify.com/album/0VuHTFO8gQFu81ggO0yuVP) | 3:40 | 2024-06-27 |  |
 | [夢想與夢](https://open.spotify.com/track/2aVETk75kz1k0xh7zxi83q) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX), [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [WE ARE TWINS](https://open.spotify.com/album/3SKJDhMkmIFrE4RQRtiMDS) | 3:11 | 2024-06-27 |  |
 | [大人國](https://open.spotify.com/track/0acD0EP6TtrvhevpY6gqcl) | [Apple 凌雪怡](https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp) | [大人國](https://open.spotify.com/album/1VQgHauEpOLjkB0ZX1maWb) | 3:29 | 2024-09-05 |  |

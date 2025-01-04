@@ -4982,7 +4982,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 180000,
       "name": "Fuma\u00e7a E Putaria",
       "url": "https://open.spotify.com/track/0m6XEupAMNIuk5Y1ujRmDq"
@@ -7984,6 +7984,40 @@
       "duration_ms": 202550,
       "name": "Nota D\u00f3",
       "url": "https://open.spotify.com/track/1ziAahgQu5yucu1ZLwwe0b"
+    },
+    {
+      "album": {
+        "name": "Notas no Plastico",
+        "url": "https://open.spotify.com/album/6b47iof8rRXcmipSuBmpCc"
+      },
+      "artists": [
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Notas no Plastico",
+      "url": "https://open.spotify.com/track/4VSddCixqajam5BOKiH0rC"
     },
     {
       "album": {

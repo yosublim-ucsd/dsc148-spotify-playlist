@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 562 likes - 224 songs - 15 hr 13 min
+[codym2011](https://open.spotify.com/user/codym2011) - 562 likes - 225 songs - 15 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,5 +232,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 222 | [Pegasus](https://open.spotify.com/track/6G0ldVNlhQf82Rf3pWjAyQ) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Pegasus](https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e) | 3:00 |
 | 223 | [Burn This House \(feat\. Little Boots\)](https://open.spotify.com/track/5FE8EbAE3ahtDj2rwnUvHm) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Burn This House \(feat\. Little Boots\)](https://open.spotify.com/album/6aZIlscl1JP9UA30f6aknv) | 3:35 |
 | 224 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 |
+| 225 | [I Got Nothing](https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [I Got Nothing](https://open.spotify.com/album/32wadIN0emxBanTLINlH08) | 3:23 |
 
-Snapshot ID: `AAAA8lN1WZzH/WEMikkWyc7CIE1IkPKP`
+Snapshot ID: `AAAA8zxalxC0tdes1ak2wMZSbDFVdjLs`

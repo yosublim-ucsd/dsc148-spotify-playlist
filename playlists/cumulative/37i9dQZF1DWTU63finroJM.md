@@ -2,9 +2,9 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Fazerdaze.
+> Meet the future of music around the world\. Cover: Yoa.
 
-1,780 songs - 4 day 0 hr 37 min
+1,782 songs - 4 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [After School Sad Session](https://open.spotify.com/track/6TXFjtfLV3HvMna0mSoGEL) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [After School Sad Session](https://open.spotify.com/album/547GIcLRF21KNd9SnoBWfQ) | 2:25 | 2023-05-30 | 2023-10-06 |
 | [Afterglow](https://open.spotify.com/track/4HqdrhdEZPxzEIdZKVBLdX) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Afterglow](https://open.spotify.com/album/6Ji3Fl8vFaadhk1ZBHUBkI) | 3:01 | 2022-02-03 | 2022-12-15 |
 | [AFTERPARTY](https://open.spotify.com/track/0NfsvBOFmD84c6qvpy3nkS) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [AFTERPARTY](https://open.spotify.com/album/5DQx0TobK6zTBz6RLcgMmS) | 3:13 | 2023-04-12 | 2023-07-08 |
+| [AH AH AH](https://open.spotify.com/track/3hZfphgOX7x5nJibyHiEY0) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [AH AH AH](https://open.spotify.com/album/3veXH87Ab3CYcaFLO7NoY0) | 2:05 | 2025-01-03 |  |
 | [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-20 | 2023-07-18 |
 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 | 2022-06-27 | 2022-08-02 |
 | [AI BIET](https://open.spotify.com/track/7oakQhQtktqkdRCY7au6xQ) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [AI BIET](https://open.spotify.com/album/3nkdUxsbC7jn2A7j27sHY2) | 2:57 | 2022-03-24 | 2022-06-20 |
@@ -849,7 +850,7 @@
 | [Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Liebe verloren](https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF) | 3:13 | 2022-03-24 | 2022-04-18 |
 | [Life Is A Bitch](https://open.spotify.com/track/0yanjH2Lz68bd9AZwhxgbo) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [Life Is A Bitch](https://open.spotify.com/album/7t4xftLwjzWSkNqD3PNC5G) | 2:22 | 2022-03-10 | 2022-03-17 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-24 | 2022-09-16 |
-| [lights on](https://open.spotify.com/track/7gpGBUeWYmB3HP7hAoS94w) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [lights on](https://open.spotify.com/album/4E9WgmKCjBxNtdYwYWJ6Vu) | 3:15 | 2024-12-13 |  |
+| [lights on](https://open.spotify.com/track/7gpGBUeWYmB3HP7hAoS94w) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [lights on](https://open.spotify.com/album/4E9WgmKCjBxNtdYwYWJ6Vu) | 3:15 | 2024-12-13 | 2025-01-04 |
 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 | 2024-03-15 | 2024-08-10 |
 | [Like a fool](https://open.spotify.com/track/1wxl4MjE6bSrq85F8ddVyC) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Like a fool](https://open.spotify.com/album/3lbswaKF1ylYuSYUqBHFdf) | 4:20 | 2023-05-30 | 2023-06-10 |
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-03-21 | 2022-05-20 |
@@ -1344,6 +1345,7 @@
 | [Standards](https://open.spotify.com/track/1XQcnIA8QsYmNuNVUzWVMQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Best Thing](https://open.spotify.com/album/7Gw93eT5wLVQfpRVizuNka) | 2:54 | 2022-04-07 | 2022-04-20 |
 | [Starlight](https://open.spotify.com/track/0gjg8NLYcdx5iSFE8HOgcR) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Starlight](https://open.spotify.com/album/4XBfn00cMvek6wfgMYfHbI) | 2:57 | 2024-05-10 | 2024-09-15 |
 | [STARR](https://open.spotify.com/track/1ZmqkrsjURvut3aRvYiWHh) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [STARR](https://open.spotify.com/album/0dIOphG17KSYr4xIUZy4bs) | 3:00 | 2022-03-24 | 2022-03-31 |
+| [start all over](https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [start all over](https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW) | 3:25 | 2025-01-03 |  |
 | [STATI MAI](https://open.spotify.com/track/4cSjpoTB6wcnwWeDic6S66) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [STATI MAI](https://open.spotify.com/album/0UAiDmMSK7SRTOrap8SBSb) | 2:42 | 2023-10-20 | 2023-11-24 |
 | [Stay](https://open.spotify.com/track/5w1iTelkA2nBmaqNf8i3cY) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Stay](https://open.spotify.com/album/1WnmijHXFebuls1KB2fVNg) | 3:05 | 2024-02-09 | 2024-03-09 |
 | [Stay Home](https://open.spotify.com/track/0tpI86VSBAGMrieSxTj4gW) | [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4), [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Dee Kosh](https://open.spotify.com/artist/5KJkjKo00neJuj78FFflE8), [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh), [Hashy](https://open.spotify.com/artist/4Jmv1DRK6zstwBwF2W91D1), [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg), [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T), [Tosh Rock](https://open.spotify.com/artist/73260xfmc9eKPFBHXy8rlZ), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Zadon](https://open.spotify.com/artist/0WsHMstGTwjQSkx7PlS50X) | [Stay Home](https://open.spotify.com/album/3kmhskl1kI3mIL7k6BzqzT) | 4:46 | 2022-03-24 | 2023-04-18 |
@@ -1370,7 +1372,7 @@
 | [Sweat](https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Sweat](https://open.spotify.com/album/5vBlJU3wNcLv9Pobuzk988) | 2:00 | 2024-05-31 | 2024-09-16 |
 | [Sweat \(Island File\)](https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Island Files](https://open.spotify.com/album/32oWDz4GWZLF0P5jSDJoLW) | 3:07 | 2024-08-23 | 2024-10-09 |
 | [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-05-31 | 2024-09-18 |
-| [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-09-23 |  |
+| [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-09-23 | 2025-01-04 |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-24 | 2024-07-27 |
 | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz) | [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN), [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX) | 4:07 | 2022-02-03 | 2022-12-15 |
 | [Słoneczniki](https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Słoneczniki](https://open.spotify.com/album/0udfrdwqGWI0kWUJ7YtxOk) | 3:31 | 2022-03-24 | 2022-12-15 |

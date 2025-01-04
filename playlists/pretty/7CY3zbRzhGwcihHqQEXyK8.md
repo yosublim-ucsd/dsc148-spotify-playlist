@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 like - 613 songs - 1 day 7 hr 16 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 like - 614 songs - 1 day 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -621,5 +621,6 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 611 | [Euphoria](https://open.spotify.com/track/0zVXBTsal8paC6ziqpLlp8) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 3:16 |
 | 612 | [\[Bonus\] Beat I Made in School](https://open.spotify.com/track/6ZelFWdwyGBc4TC8ylCkkf) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Barriers](https://open.spotify.com/album/52WnDw5InjWfDBfNoZFVhE) | 3:16 |
 | 613 | [Evolution](https://open.spotify.com/track/0ODdK5xGQqUpU3gDoagBFk) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Evolution](https://open.spotify.com/album/2IANCg2U3yAsQL1PbzWnXz) | 2:12 |
+| 614 | [little spoon anthem](https://open.spotify.com/track/0NcAkc4ruSbLh6QKh9m8N9) | [MouSa](https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [little spoon anthem](https://open.spotify.com/album/6NUPw3K9mFmGPG1nlPAaas) | 2:31 |
 
-Snapshot ID: `AAABfvn0wNOerttsla3Idf9jU8fmQjWO`
+Snapshot ID: `AAABfzF/A5UCJwAPfuXvz7abBpFKCoXE`

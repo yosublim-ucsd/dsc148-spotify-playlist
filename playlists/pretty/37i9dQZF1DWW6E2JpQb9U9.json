@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: No Te Va Gustar",
-  "num_followers": 119112,
+  "num_followers": 119144,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio II)",
-        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Homero - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 226186,
       "name": "Yo Tomo - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Otra Noche en la Luna (Episodio II)",
+        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Homero - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
-        "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 301830,
-      "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Alucinados como la primera vez",
         "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 163346,
       "name": "Carism\u00e1tico (En Vivo Luna Park 2006)",
       "url": "https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
+        "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 301830,
+      "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
+        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
+      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Vivo X la 25",
         "url": "https://open.spotify.com/album/3ALjIJVwq4AKqMaVPPSIM2"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 230693,
       "name": "De La Hoya - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Cuando el sol est\u00e1 as\u00ed (En Vivo en La Tangente)",
-        "url": "https://open.spotify.com/album/7CIFhW87WpxEqkyIYz15Pe"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        },
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Cuando el sol est\u00e1 as\u00ed - En Vivo en La Tangente",
-      "url": "https://open.spotify.com/track/70rqhJcGk6SGEaGwUtCFzd"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
+        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+      },
+      "artists": [
+        {
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+        }
+      ],
+      "duration_ms": 339026,
+      "name": "La Leyenda del Hada y el Mago - En Vivo",
+      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Barek (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
-        "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
+        "name": "Trascenlace (Vivo en Obras)",
+        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
         }
       ],
-      "duration_ms": 339026,
-      "name": "La Leyenda del Hada y el Mago - En Vivo",
-      "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+      "duration_ms": 317005,
+      "name": "El Riesgo - Vivo en Obras",
+      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1399,22 +1415,6 @@
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Trascenlace (Vivo en Obras)",
-        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 317005,
-      "name": "El Riesgo - Vivo en Obras",
-      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
     },
     {
       "added_at": "2024-12-20 03:00:01",

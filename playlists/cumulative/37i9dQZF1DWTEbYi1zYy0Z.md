@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-484 songs - 1 day 10 hr 14 min
+485 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Let's Do This \(feat\. Nils\) \- Radio Edit](https://open.spotify.com/track/062XGbLtbdC2jyvuZdrgEx) | [Johnny Britt](https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Let's Do This \(feat\. Nils\) \[Radio Edit\]](https://open.spotify.com/album/3iTgcSSsIGD7tIGFQndw53) | 3:51 | 2023-04-21 | 2024-03-23 |
 | [Let's Get Away](https://open.spotify.com/track/01KvV1QkbAbeDoIQZAhJJe) | [Marlon Boone](https://open.spotify.com/artist/4IgxDg9PHr95ljkFwBCQsN) | [Let's Get Away](https://open.spotify.com/album/2f4lnLE1UudhW93l083HXY) | 4:02 | 2020-10-30 | 2022-02-26 |
 | [Let's Get It Movin'](https://open.spotify.com/track/1KD1VylXj6Hjb71qeRQupI) | [Nelson Garcia](https://open.spotify.com/artist/2LOUd3sHzVXTNHnVv1fdIo), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Let's Get It Movin'](https://open.spotify.com/album/39YVysbUGA9AQYtAbFZLl5) | 3:43 | 2021-02-27 | 2022-03-11 |
+| [Let's Get Lost](https://open.spotify.com/track/7CMTV4ETCs5mX0kOToof9w) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Let's Get Lost](https://open.spotify.com/album/0qzKCFdmGVeygq4y5JVxz3) | 4:25 | 2025-01-03 |  |
 | [Let's Have a Good Time](https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Let's Have a Good Time](https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv) | 3:53 | 2023-02-24 | 2023-08-26 |
 | [Let's Take A Ride](https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/5zxMjTlSy9SmNQyv9q723Y) | 4:14 | 2023-05-12 |  |
 | [Let’s Get Serious](https://open.spotify.com/track/2vSHFGFj1iS7QcCzLwi6Rm) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM) | 4:06 | 2020-10-30 | 2022-03-18 |
@@ -437,7 +438,7 @@
 | [The Sailor](https://open.spotify.com/track/6bGtyIx8T1Ju65CTrcawwl) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Ed Roth](https://open.spotify.com/artist/7EBeeH2oJR0OXd0mPSv6PD) | [The Sailor](https://open.spotify.com/album/1N3Y4lr7CBNDDfjLLLmHA0) | 4:33 | 2021-06-18 | 2022-09-17 |
 | [The Thing Is...](https://open.spotify.com/track/74TMwWbbqCMNtie5jGo7rL) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [The Thing Is...](https://open.spotify.com/album/7sQfXibE5MKsDrEgZLMC9K) | 3:58 | 2023-08-18 |  |
 | [The Thrill of Rain](https://open.spotify.com/track/24dR9CKoNg8zZ5SMhedZB3) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Twice As Nice](https://open.spotify.com/album/5qhN4XroM8EXopUNSmq4Vi) | 3:59 | 2021-04-23 | 2022-03-18 |
-| [The Way You Sway \- radio single](https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Way You Sway](https://open.spotify.com/album/0UFcEb8TeFUf08KlyxNyWX) | 4:18 | 2024-06-28 |  |
+| [The Way You Sway \- radio single](https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Way You Sway](https://open.spotify.com/album/0UFcEb8TeFUf08KlyxNyWX) | 4:18 | 2024-06-28 | 2025-01-04 |
 | [The Weekend](https://open.spotify.com/track/4ZRJKcvq2NKpw1wHP5MwqS) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [The Weekend](https://open.spotify.com/album/1AuE8kvj5qqMFcV53Um7tw) | 3:59 | 2020-10-30 | 2022-03-18 |
 | [The Winds of Change](https://open.spotify.com/track/4BwFSH3jSwvqx5SOP9Fxhr) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Fahir Atakoglu](https://open.spotify.com/artist/4zbXSXn32mW4u8p3sDFYc4) | [The Winds of Change](https://open.spotify.com/album/4PTqWXV53JV7KXwrqdIrzf) | 3:35 | 2021-05-21 | 2022-03-07 |
 | [There's Always Tomorrow](https://open.spotify.com/track/3NsKujm7IIHMpcjJ2Qtmo1) | [Darryl Williams](https://open.spotify.com/artist/0xt6LQSgPMxR8sdIUUtnQM) | [There's Always Tomorrow](https://open.spotify.com/album/0QmjDjJ3diT2GD3dBth8uK) | 4:09 | 2020-10-30 | 2022-03-15 |

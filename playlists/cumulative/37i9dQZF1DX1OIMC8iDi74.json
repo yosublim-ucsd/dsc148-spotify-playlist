@@ -3917,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/5xKAfZcRboP1NJML4KZgs4"
+      },
+      "artists": [
+        {
+          "name": "Vibrvnt",
+          "url": "https://open.spotify.com/artist/5cXMKV6T9pq5VPSQoTdpJV"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/7dwlpzOcMnYcBmQC0OjJKg"
+    },
+    {
+      "album": {
         "name": "freeworld",
         "url": "https://open.spotify.com/album/4hlEHLcPxKeeYIfNDM6TJY"
       },
@@ -4867,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Heavyweight",
+        "url": "https://open.spotify.com/album/0DTnuAAPPlc8yfnToxKjhS"
+      },
+      "artists": [
+        {
+          "name": "Typhon",
+          "url": "https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/4XSpvXB6Weu3lB36WRBPVF"
+    },
+    {
+      "album": {
         "name": "Helix",
         "url": "https://open.spotify.com/album/4IOsvVbAF9s2moKSORe6XK"
       },
@@ -5126,7 +5162,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 204800,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/7laIQ9l8UZSsw2dB2VZ8Kr"
@@ -10850,7 +10886,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 164278,
       "name": "Tik Tok",
       "url": "https://open.spotify.com/track/2DTTb0qR2NbMyHpHtnUbQx"

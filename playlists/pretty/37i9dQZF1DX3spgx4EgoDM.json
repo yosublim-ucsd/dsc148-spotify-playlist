@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 167159,
+  "num_followers": 167214,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 264413,
       "name": "He Cre\u00eddo",
       "url": "https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+        "name": "Iconos Kitsch",
+        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
       },
       "artists": [
         {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+          "name": "Los Vikings 5",
+          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
         }
       ],
-      "duration_ms": 248440,
-      "name": "Un Beso y una Flor",
-      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
+      "duration_ms": 209005,
+      "name": "Boquita De Caramelo",
+      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Iconos Kitsch",
-        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
       "artists": [
         {
-          "name": "Los Vikings 5",
-          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 209005,
-      "name": "Boquita De Caramelo",
-      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
+      "duration_ms": 248440,
+      "name": "Un Beso y una Flor",
+      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Cumbia A La Gente",
-        "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
       },
       "artists": [
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 208400,
-      "name": "Cumbia A La Gente",
-      "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+        "name": "Cumbia A La Gente",
+        "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
       "artists": [
         {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+      "duration_ms": 208400,
+      "name": "Cumbia A La Gente",
+      "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "#Tocoparavos",
         "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 149160,
       "name": "Hasta la luna",
       "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "El Soltero",
-        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Cangrejito Playero",
-      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "De Paisano a Paisano",
-      "url": "https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "Desde Que Te Fuiste",
         "url": "https://open.spotify.com/album/6S786RANT9RtoG9PBXO7mt"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 221269,
       "name": "Desde Que Te Fuiste",
       "url": "https://open.spotify.com/track/415QfJGLbJFsQVXHYazYaq"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "De Paisano a Paisano",
+      "url": "https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE"
     },
     {
       "added_at": "2024-08-15 20:11:04",

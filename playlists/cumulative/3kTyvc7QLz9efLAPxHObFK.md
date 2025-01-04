@@ -4,7 +4,7 @@
 
 > 
 
-1,934 songs - 4 day 6 hr 57 min
+1,936 songs - 4 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1701,6 +1701,7 @@
 | [This Is Me](https://open.spotify.com/track/1g739Tmal3gzBEILwPO7jX) | [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH), [24/7 Hardcore](https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu) | [This Is Me](https://open.spotify.com/album/6cSU3K0pBZkodnK4ItpI29) | 4:26 | 2024-06-13 |  |
 | [This Is My Way](https://open.spotify.com/track/04TijUX8dZlWIf79sfcIUC) | [Physika](https://open.spotify.com/artist/52NpY0nQvHw021b9j9Ke3y), [Resolute](https://open.spotify.com/artist/5fFksTMKtJhMXaf9OXUOfD), [Zyon](https://open.spotify.com/artist/5vFNYfxQeOHxUUlXDltAS7) | [This Is My Way](https://open.spotify.com/album/3FCzZsKmnXemFYweWzNVjC) | 3:13 | 2023-04-21 |  |
 | [This Is Noise](https://open.spotify.com/track/6B6R7Ms3UnkWqQPdFFV79o) | [BPM BUNNY](https://open.spotify.com/artist/6HnXeGWhLv6Q3XCvdVpary) | [This Is Noise](https://open.spotify.com/album/42Kb87Bp65ZEQ9MsTrhnhz) | 3:27 | 2023-06-26 |  |
+| [This Is Spoontech](https://open.spotify.com/track/2RX11b5lagRNM6VKaFs9EF) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [This Is Spoontech](https://open.spotify.com/album/4S97H9cvhRbU1Gd0iMtlww) | 1:48 | 2025-01-03 |  |
 | [This Is The Future \- Extended Mix](https://open.spotify.com/track/3FxwPRiz0qg9j4iGTIBHNx) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [Renstar](https://open.spotify.com/artist/2o550H0aKeB2p0uH9axLLx) | [This Is The Future](https://open.spotify.com/album/4hkhJ7fbx5uKndWJytVlPT) | 4:20 | 2022-12-22 |  |
 | [This is Uptempo](https://open.spotify.com/track/0CvLEHqMaAmQ5yQkA9uBTK) | [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [This is](https://open.spotify.com/album/0GoHiKRmLbDk66fq8G0mPs) | 2:44 | 2024-03-26 |  |
 | [This Way \- Technikore & Suae Remix](https://open.spotify.com/track/6H9ZtzonVVdDfbW0zX2KWr) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx), [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH), [Sendr](https://open.spotify.com/artist/5eCYgqBN3icgwzuHfx1Doe), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [This Way \(Technikore x Suae Remix\)](https://open.spotify.com/album/2fDtU1mTd29jTeMg1HOdUt) | 4:02 | 2021-11-30 |  |
@@ -1815,6 +1816,7 @@
 | [Voices Calling \- Extended Mix](https://open.spotify.com/track/18Du2SWgl6A6hk3dPiCYHQ) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Caelum](https://open.spotify.com/artist/4rurguPt7zC7a60LfcPDUM) | [Voices Calling](https://open.spotify.com/album/5ebQkAOLxFRbcRTy18sduU) | 4:00 | 2023-11-13 |  |
 | [Voyage of the Damned \- Official Dominator 2023 Anthem](https://open.spotify.com/track/65qQVrsB1GoGAVEA1eLRen) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Voyage of the Damned \(Official Dominator 2023 Anthem\)](https://open.spotify.com/album/1gmS5S1cOcNpsombsjIHri) | 5:10 | 2023-06-16 |  |
 | [Voyager](https://open.spotify.com/track/1jcOxgWlGlvSkyOzf854el) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Beyond core EVANGELIX 01](https://open.spotify.com/album/5mFg1Tms9cKuoG2LsnIn1V) | 4:10 | 2022-02-22 |  |
+| [Vroom](https://open.spotify.com/track/2ozrCA50jj84miZPH7xLeB) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Vroom](https://open.spotify.com/album/6AcyJGG8i9jMes66FuGtLU) | 2:07 | 2025-01-03 |  |
 | [VROOM VROOM](https://open.spotify.com/track/3CwrwHMxSBfC6OjZIarg5S) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [PIEP vs ZAAG](https://open.spotify.com/album/0kWH8jodQkcUYvKWsdGY5H) | 2:34 | 2024-11-21 |  |
 | [W.T.P.](https://open.spotify.com/track/19MRTtkMtF70WoGcUzNM3r) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [W.T.P.](https://open.spotify.com/album/4cp4EWMtnODstUJV0FBVW8) | 2:27 | 2023-06-02 |  |
 | [W.T.T.P \(Welcome to the Party\)](https://open.spotify.com/track/5UgFAkq9lxFDRHrzwzqtnA) | [DJ Satomi](https://open.spotify.com/artist/7MlcYSTwlLeOtBMDJ6WOv5), [TommyBoiHero](https://open.spotify.com/artist/2qK1OPfROUNXboNJFzRJ47) | [W.T.T.P \(Welcome to the Party\)](https://open.spotify.com/album/3kCOFVpiJ0aTqwfpXRWguw) | 3:25 | 2022-12-31 |  |

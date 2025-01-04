@@ -4,11 +4,11 @@
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 16 min
+49 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Window](https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:40 | 2024-12-14 |  |
+| [A Window](https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:40 | 2024-12-14 | 2025-01-04 |
 | [Alive](https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:32 | 2024-12-14 |  |
 | [Alright](https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Freedom \- EP](https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J) | 3:49 | 2024-12-14 |  |
 | [Always / Goodnight](https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Oliver Tompsett](https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 7:43 | 2024-12-14 |  |
@@ -21,6 +21,7 @@
 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 | 2024-12-14 |  |
 | [Everything's Alright](https://open.spotify.com/track/63V7zJBnSrPEqKJtcJtruQ) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Morgan James & Company](https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG) | [Jesus Christ Superstar: Highlights From the All\-Female Studio Cast Recording](https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn) | 4:16 | 2024-12-14 |  |
 | [Fly Before You Fall](https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond The Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI) | 3:03 | 2024-12-14 |  |
+| [Glowing Up](https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:52 | 2025-01-04 |  |
 | [God Only Knows \(feat\. yMusic\)](https://open.spotify.com/track/4mhcNoThsVSE1Mpnb7Wnj6) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [yMusic](https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY) | [God Only Knows \(feat\. yMusic\)](https://open.spotify.com/album/4xZ8OVKJlywZLIe2O8zeJU) | 3:21 | 2024-12-14 |  |
 | [Goodbye Song](https://open.spotify.com/track/01CAnizAABR9udpxzOYKdG) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Harriet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX) | 1:12 | 2024-12-14 |  |
 | [Hold On I'm Coming](https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 2:47 | 2024-12-14 |  |

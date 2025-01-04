@@ -2915,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Ballerina",
+        "url": "https://open.spotify.com/album/4RsqLNot8uxTQGH0FBoQTZ"
+      },
+      "artists": [
+        {
+          "name": "SeLTa",
+          "url": "https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188446,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/78fs5ektDphjXmEjZy99Do"
+    },
+    {
+      "album": {
         "name": "Banady 3alek",
         "url": "https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt"
       },

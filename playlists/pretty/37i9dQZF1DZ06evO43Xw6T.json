@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 139702,
+  "num_followers": 139852,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAADFSB/0Vq1s73aV8YKeMinJ",
+  "snapshot_id": "Z3XXAAAAAAA7KJMFclviqotNinKpVJBY",
   "tracks": [
     {
       "added_at": null,
@@ -211,30 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 245997,
-      "name": "VINO TINTO",
-      "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -255,6 +231,30 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/0FxtC8uFapbpDBliAU3sd6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 245997,
+      "name": "VINO TINTO",
+      "url": "https://open.spotify.com/track/5UHK1rtK4MpBGb0KppIYh4"
     },
     {
       "added_at": null,
@@ -611,22 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Minitas",
-        "url": "https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO"
+        "name": "Tunechi (with Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Las Minitas",
-      "url": "https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6"
+      "duration_ms": 212640,
+      "name": "Tunechi (with Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
     },
     {
       "added_at": null,
@@ -647,22 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tunechi (with Gabito Ballesteros)",
-        "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
+        "name": "Las Minitas",
+        "url": "https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO"
       },
       "artists": [
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Tunechi (with Gabito Ballesteros)",
-      "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
+      "duration_ms": 165000,
+      "name": "Las Minitas",
+      "url": "https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6"
     },
     {
       "added_at": null,

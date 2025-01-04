@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Nikhita Gandhi",
+  "description": "Latest music from your fav I-Pop artists. Cover - Armaan Malik",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -4698,7 +4698,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 230192,
       "name": "Chhaila (From \"Bhoomi 2024\")",
       "url": "https://open.spotify.com/track/5AI0ggBid3MhMhsFQDyRwk"
@@ -6803,6 +6803,36 @@
     },
     {
       "album": {
+        "name": "Dil Tujhpe Aa Gaya",
+        "url": "https://open.spotify.com/album/26GqyZvZXtMyeKirXxSSUf"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207191,
+      "name": "Dil Tujhpe Aa Gaya",
+      "url": "https://open.spotify.com/track/6asiUNa2vpWBosW2eqEQRn"
+    },
+    {
+      "album": {
         "name": "Dil Udeyaa",
         "url": "https://open.spotify.com/album/2IBfUXkya05famCeryEimA"
       },
@@ -8400,6 +8430,36 @@
       "duration_ms": 186163,
       "name": "Ghanan",
       "url": "https://open.spotify.com/track/62y0vkPVjLKqcl03BPRClh"
+    },
+    {
+      "album": {
+        "name": "Saanvarey",
+        "url": "https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Aashna Shroff",
+          "url": "https://open.spotify.com/artist/6bloMDvy36IYdJJjE3atxT"
+        },
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268037,
+      "name": "Ghar",
+      "url": "https://open.spotify.com/track/7Ls3ec0l4Kd2OZ3rPrgq0W"
     },
     {
       "album": {
@@ -13656,7 +13716,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 227826,
       "name": "Kehna Galat Galat",
       "url": "https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL"
@@ -16960,6 +17020,28 @@
       "duration_ms": 161000,
       "name": "Matthe Te Chamkan",
       "url": "https://open.spotify.com/track/3g2WZIOYjpTkz9IPDtU8VK"
+    },
+    {
+      "album": {
+        "name": "Maula Mere Maula",
+        "url": "https://open.spotify.com/album/2BMS9KANxhp3a7IC2Li1pw"
+      },
+      "artists": [
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        },
+        {
+          "name": "Sarbarish Majumder",
+          "url": "https://open.spotify.com/artist/0vPFuipZOpQ4bdAVqR0bs5"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128565,
+      "name": "Maula Mere Maula",
+      "url": "https://open.spotify.com/track/5g5Y8FC8z2BhNFP4ZHQ4CE"
     },
     {
       "album": {
@@ -20510,7 +20592,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 180000,
       "name": "PHOOLON JAISA",
       "url": "https://open.spotify.com/track/7quBrUTBPpKIfSYshPLWIR"
@@ -21434,7 +21516,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 279622,
       "name": "Re Mann | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/76Zh4KTrLcXUniOQkOIU1Y"
@@ -21982,6 +22064,32 @@
       "duration_ms": 283438,
       "name": "Saanson Mein Tum Ho",
       "url": "https://open.spotify.com/track/0DdkxgExv3HU7l0jx0AtvQ"
+    },
+    {
+      "album": {
+        "name": "Saanvarey",
+        "url": "https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Jahnvi Shrimankar",
+          "url": "https://open.spotify.com/artist/6HWLgNliaSzF438T7Hk755"
+        },
+        {
+          "name": "Abhiruchi Chand",
+          "url": "https://open.spotify.com/artist/1Z3KE3Fs3qg13YsXPCGzKj"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Saanvarey",
+      "url": "https://open.spotify.com/track/5tchkzaP2SxVgoybzKb5pY"
     },
     {
       "album": {

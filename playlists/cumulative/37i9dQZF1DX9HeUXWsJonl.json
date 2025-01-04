@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "DENYA",
+        "url": "https://open.spotify.com/album/6nCnj3uo4a3GB7ctQeqVbV"
+      },
+      "artists": [
+        {
+          "name": "EMP1RE",
+          "url": "https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "DENYA",
+      "url": "https://open.spotify.com/track/4qBJW3bFQDC66V6cKWNJw6"
+    },
+    {
+      "album": {
         "name": "Denya Bkhout (\u062f\u0646\u064a\u0627 \u0628\u062e\u0648\u062a)",
         "url": "https://open.spotify.com/album/5TA7rpDHWi2M9RWYOScgNn"
       },
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 218775,
       "name": "mahoumch ashabi",
       "url": "https://open.spotify.com/track/3GROMA9uMz9d5qaCG1HyS0"

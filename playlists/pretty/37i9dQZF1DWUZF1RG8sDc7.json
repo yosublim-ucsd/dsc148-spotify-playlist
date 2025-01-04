@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 142164,
+  "num_followers": 142246,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
+        "name": "Version Original",
+        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
       },
       "artists": [
         {
-          "name": "Peter Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
-        },
-        {
-          "name": "Emiliano Zuleta",
-          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
-        },
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 222200,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
+      "duration_ms": 296620,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -227,18 +219,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Version Original",
-        "url": "https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo"
+        "name": "S\u00f3lo Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/5bsES1XTrXLgo9HGpFWVK0"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Emiliano Zuleta",
+          "url": "https://open.spotify.com/artist/4j2ttDkyLZNpyM2RS9hCf5"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
         }
       ],
-      "duration_ms": 296620,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux"
+      "duration_ms": 222200,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4OhFOoVfaqw3Xuz2vjceDq"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "40 Vallenatos Poderosos",
-        "url": "https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ"
-      },
-      "artists": [
-        {
-          "name": "Rudigo Vallenato",
-          "url": "https://open.spotify.com/artist/2ys5IS6DgjO7xSMAyPhl2Q"
-        }
-      ],
-      "duration_ms": 294746,
-      "name": "Paro de Mi Corazon",
-      "url": "https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Rafael Orozco El \u00cddolo de Siempre",
         "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216400,
       "name": "Muere una Flor",
       "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "40 Vallenatos Poderosos",
+        "url": "https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ"
+      },
+      "artists": [
+        {
+          "name": "Rudigo Vallenato",
+          "url": "https://open.spotify.com/artist/2ys5IS6DgjO7xSMAyPhl2Q"
+        }
+      ],
+      "duration_ms": 294746,
+      "name": "Paro de Mi Corazon",
+      "url": "https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Rafael Orozco El \u00cddolo de Siempre",
-        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Sombra Perdida",
-      "url": "https://open.spotify.com/track/6CfZqZsIyWKrYGebzivkV6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Destellos de Amor",
         "url": "https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 255613,
       "name": "Dilo",
       "url": "https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Rafael Orozco El \u00cddolo de Siempre",
+        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Sombra Perdida",
+      "url": "https://open.spotify.com/track/6CfZqZsIyWKrYGebzivkV6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Rafael Orozco El \u00cddolo de Siempre",
-        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "El Gran Martin Elias & Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
         }
       ],
-      "duration_ms": 295386,
-      "name": "Dime pajarito",
-      "url": "https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j"
+      "duration_ms": 315862,
+      "name": "10 Razones para Amarte",
+      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Adi\u00f3s A La Diosa",
         "url": "https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 277000,
       "name": "Me Dejaste Sin Nada",
       "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Rafael Orozco El \u00cddolo de Siempre",
+        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 295386,
+      "name": "Dime pajarito",
+      "url": "https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

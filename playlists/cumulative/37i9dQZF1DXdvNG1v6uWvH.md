@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-3,813 songs - 8 day 11 hr 15 min
+3,815 songs - 8 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1299,6 +1299,7 @@
 | [Go](https://open.spotify.com/track/23UcwWw8NmM8acCXXfbTrg) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Go](https://open.spotify.com/album/4ZiH9PUfBGDSYgGwl3XBDQ) | 2:49 | 2024-06-14 | 2024-06-21 |
 | [Go Again](https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Go Again](https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS) | 3:41 | 2024-08-30 | 2024-09-06 |
 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2024-05-17 | 2024-05-24 |
+| [go deeper](https://open.spotify.com/track/4MFLbZGRvsRc6ZHQWqK8HL) | [matias](https://open.spotify.com/artist/32BV5tztivPr5o2JmFdUTI) | [go deeper](https://open.spotify.com/album/5fqmM8XLlDaACYxlKb3Ghi) | 2:51 | 2025-01-03 |  |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-05-31 | 2024-06-07 |
 | [GO HOME BUBBIS](https://open.spotify.com/track/3ZB3jSYH0aQg9jlX6HXOom) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [GO HOME BUBBIS](https://open.spotify.com/album/4uWGtIYNb9u9FP3cfuuK1U) | 2:19 | 2025-01-03 |  |
 | [Go to the Sun](https://open.spotify.com/track/69sXm8i1Pk7sKPpx5wmstO) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Go to the Sun](https://open.spotify.com/album/6OXhqk3yCVp79X7XjwB7Tw) | 2:56 | 2024-11-29 | 2024-12-06 |
@@ -2589,7 +2590,7 @@
 | [Persephone](https://open.spotify.com/track/5JHr64NGbfzD8pj8o5BQ2g) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [Persephone](https://open.spotify.com/album/5UBMWNfl9UMmpZ62xHREyP) | 2:57 | 2024-05-03 | 2024-05-10 |
 | [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 | 2024-11-01 | 2024-11-08 |
 | [Pharmacy](https://open.spotify.com/track/0ru0fNpcwmmCmyFLMXEgG1) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Pharmacy](https://open.spotify.com/album/54oVYXQv3Cu86IqtYhYcMF) | 2:35 | 2024-12-13 | 2024-12-20 |
-| [phoebe](https://open.spotify.com/track/4WBtsA2vJihNwPJUpMFkJB) | [Hugo Branzén](https://open.spotify.com/artist/5W6jIoPLNzOm01fLSznwxX) | [we´re just little angels](https://open.spotify.com/album/44bTM42HHBqjjK2UxoABJe) | 3:54 | 2025-01-03 |  |
+| [phoebe](https://open.spotify.com/track/4WBtsA2vJihNwPJUpMFkJB) | [Hugo Branzén](https://open.spotify.com/artist/5W6jIoPLNzOm01fLSznwxX) | [we're just little angels](https://open.spotify.com/album/44bTM42HHBqjjK2UxoABJe) | 3:54 | 2025-01-03 |  |
 | [phonetic](https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [phonetic](https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf) | 1:46 | 2024-08-23 | 2024-08-30 |
 | [Pick & Choose \- Radio Edit](https://open.spotify.com/track/2E5coMHUBjZwlkTD3eFXZz) | [Jonas Rathsman](https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7), [MON MON](https://open.spotify.com/artist/2Clxh2YR59GJA8mzLMDtuC), [MOTYL](https://open.spotify.com/artist/2nvlSEgmC8Cnixxkykhrbo) | [Pick & Choose](https://open.spotify.com/album/6hsHuXzJ60F1vJwMmPEbse) | 4:05 | 2024-11-29 | 2024-12-06 |
 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 | 2024-05-31 | 2024-06-07 |
@@ -3760,6 +3761,7 @@
 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 | 2024-09-13 | 2024-09-20 |
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-05-24 | 2024-06-01 |
 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 | 2024-09-13 | 2024-09-20 |
+| [You and your eyes](https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [You and your eyes](https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ) | 2:36 | 2025-01-03 |  |
 | [You Are Impossible](https://open.spotify.com/track/37TIE3H9WMMpeFK4P2vpui) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [You Are Impossible](https://open.spotify.com/album/21GdZbfKEYzUdkN4K7uLOa) | 4:22 | 2024-06-14 | 2024-06-18 |
 | [You Belong To No\-One](https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 3:38 | 2024-09-13 | 2024-09-20 |
 | [You Belong To No\-One \- Tripolism Remix](https://open.spotify.com/track/4CyCAxTyrTDtzzrBZdjveC) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Kiss & Forget Remixes](https://open.spotify.com/album/6EEn6shLUPyB81mp89ZTwQ) | 6:33 | 2024-12-13 | 2024-12-20 |

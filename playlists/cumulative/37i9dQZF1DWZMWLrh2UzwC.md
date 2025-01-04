@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Mayday
 
-13,828 songs - 31 day 13 hr 34 min
+13,830 songs - 31 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3201,6 +3201,7 @@
 | [Dulu](https://open.spotify.com/track/4uEDWGsOFVbMvGyu8uRy46) | [Zamaera](https://open.spotify.com/artist/615EQd7FBV6I9KZahoOttg) | [Dulu](https://open.spotify.com/album/0Kyqo7zIaUCIvlYeHICe5i) | 2:57 | 2023-05-18 | 2023-05-26 |
 | [Dulu Kini Dan Akhirnya](https://open.spotify.com/track/3KObjAOMEtD37I1glTKuTY) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Dulu Kini Dan Akhirnya](https://open.spotify.com/album/1OgCOcYSqxpLpWj3v1Sa7Q) | 3:44 | 2024-03-07 | 2024-03-15 |
 | [Dum Dum \- English Version](https://open.spotify.com/track/6McBFhOohQvx0zWkoISnap) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-16 | 2023-03-25 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-02 |  |
 | [Dumb Ass Pop Song](https://open.spotify.com/track/1XbUhcGNTIYGUgMKxoCZWx) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Dumb Ass Pop Song](https://open.spotify.com/album/3a5ZSFq5jOoDCVMbTzbXqq) | 3:41 | 2024-12-19 | 2024-12-27 |
 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 | 2024-01-18 | 2024-01-26 |
 | [Dunia Drives My Car](https://open.spotify.com/track/46bTc395qmtB1GazI0ui5B) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [BORDER ROOM](https://open.spotify.com/album/6dIwYCSul7keEQ6pd1q83Y) | 3:37 | 2024-01-25 | 2024-02-02 |
@@ -12960,6 +12961,7 @@
 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 | 2023-08-10 | 2023-08-18 |
 | [You Already Know](https://open.spotify.com/track/6aBVnDNG502Sh5rJRqLxmD) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [LOVERGIRL](https://open.spotify.com/album/1Eivm2c1chCBMHG2OcTjWd) | 3:07 | 2023-02-16 | 2023-02-24 |
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-01 | 2022-09-09 |
+| [You and your eyes](https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [You and your eyes](https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ) | 2:36 | 2025-01-02 |  |
 | [You Are Mine](https://open.spotify.com/track/4KJNu07ohERewpC7WsadzA) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [AIRERA](https://open.spotify.com/album/17Edl9kEhd292sHURW4bQP) | 3:43 | 2024-06-20 | 2024-06-28 |
 | [You Are My Reason](https://open.spotify.com/track/5uqBNvs6pldeDkcfiRdvnK) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [You Are My Reason](https://open.spotify.com/album/6vodukTmfY1hMNd6zjNjhM) | 3:19 | 2024-11-14 | 2024-11-22 |
 | [You Are Not Alone](https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [You Are Not Alone](https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx) | 2:45 | 2022-12-15 | 2022-12-24 |

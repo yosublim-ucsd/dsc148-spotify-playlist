@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 10106,
+  "num_followers": 10107,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "LOVE me",
-        "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "LOVE me",
-      "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
         "name": "Welcome to the Kicako House",
         "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 195375,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "LOVE me",
+        "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "LOVE me",
+      "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -371,22 +371,26 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "OHAYO MY NIGHT",
-        "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
+        "name": "Rainy day",
+        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
       },
       "artists": [
         {
-          "name": "D-Hack",
-          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
-        },
-        {
           "name": "PATEKO",
           "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
         }
       ],
-      "duration_ms": 238736,
-      "name": "OHAYO MY NIGHT",
-      "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
+      "duration_ms": 218250,
+      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -407,22 +411,22 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "TO DIE FOR",
-        "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
+        "name": "OHAYO MY NIGHT",
+        "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
         },
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
         }
       ],
-      "duration_ms": 175716,
-      "name": "Dare to Love (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
+      "duration_ms": 238736,
+      "name": "OHAYO MY NIGHT",
+      "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -447,26 +451,22 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Rainy day",
-        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
+        "name": "TO DIE FOR",
+        "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
       },
       "artists": [
         {
-          "name": "PATEKO",
-          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         },
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 218250,
-      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
-      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
+      "duration_ms": 175716,
+      "name": "Dare to Love (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -695,22 +695,26 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
       "artists": [
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         },
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         }
       ],
-      "duration_ms": 249317,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+      "duration_ms": 276152,
+      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
+      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -779,26 +783,22 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
         },
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         }
       ],
-      "duration_ms": 276152,
-      "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
-      "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+      "duration_ms": 249317,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -939,26 +939,26 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+        "name": "EVERYWHERE",
+        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
       "artists": [
         {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         },
         {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 234839,
-      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+      "duration_ms": 182300,
+      "name": "Sunday (feat. HEIZE, Jay Park)",
+      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -991,26 +991,22 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "EVERYWHERE",
-        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
+        "name": "Fix you",
+        "url": "https://open.spotify.com/album/0GltVnMpJLoHv1xjzqSqHv"
       },
       "artists": [
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
         },
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 182300,
-      "name": "Sunday (feat. HEIZE, Jay Park)",
-      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+      "duration_ms": 176012,
+      "name": "if i die (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0DEoLBczhPmawtTrfnWp8F"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

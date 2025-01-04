@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Break the Rules",
+        "url": "https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203907,
+      "name": "Break the Rules",
+      "url": "https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ"
+    },
+    {
+      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF"
       },
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 202494,
       "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
       "url": "https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2"

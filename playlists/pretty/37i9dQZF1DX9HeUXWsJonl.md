@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,316 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,346 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Souk](https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Souk](https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2) | 3:40 |
 | 2 | [Ta3ref](https://open.spotify.com/track/7edeVxE4xFDXz603mIaoEa) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 4:23 |
 | 3 | [Ya Sidi Ensa](https://open.spotify.com/track/70bsA9PpuP5DTq1OcL01h6) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Sidi Ensa](https://open.spotify.com/album/44gSXHC6qBhAjPECo8oCbW) | 3:32 |
-| 4 | [mahoumch ashabi](https://open.spotify.com/track/3GROMA9uMz9d5qaCG1HyS0) | [Aymen Ghzel](https://open.spotify.com/artist/0X6ml3Vhkfxz86Njojnnk8) | [mahoumch ashabi](https://open.spotify.com/album/79WrGdFAu7qD1XD7Sv9Au0) | 3:38 |
-| 5 | [AKADHIB](https://open.spotify.com/track/7wI2qRYtNmJl62mj5fUC78) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [AKADHIB](https://open.spotify.com/album/25yPGNBnqKcojCnQCNpqbL) | 3:20 |
+| 4 | [AKADHIB](https://open.spotify.com/track/7wI2qRYtNmJl62mj5fUC78) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [AKADHIB](https://open.spotify.com/album/25yPGNBnqKcojCnQCNpqbL) | 3:20 |
+| 5 | [DENYA](https://open.spotify.com/track/4qBJW3bFQDC66V6cKWNJw6) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [DENYA](https://open.spotify.com/album/6nCnj3uo4a3GB7ctQeqVbV) | 6:00 |
 | 6 | [Khallini](https://open.spotify.com/track/5rT6PJoxqBpqOQpq3k0bNd) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0), [Rana Zarrouk](https://open.spotify.com/artist/04tYosSfS1AAx5yM8vyJLF) | [Khallini](https://open.spotify.com/album/6ytsNCB4Nu6a6tdAwS7Auk) | 3:03 |
 | 7 | [Yamina](https://open.spotify.com/track/0gTUhABQLsXM1l3R0Keuwf) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Yamina](https://open.spotify.com/album/2ZjqDZCh5UR9mAeyScAbxr) | 3:24 |
 | 8 | [Feu Rouge](https://open.spotify.com/track/6ioXzGjgbAr1TFRHAjxD6p) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [BAYA](https://open.spotify.com/artist/44tT41qPtEntyDJPyjxZtN) | [Zayn](https://open.spotify.com/album/4QXZZzVBH1pjiVBxyySKjr) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Khousara](https://open.spotify.com/track/1a3fUDZpgUYRatLdKAnCh0) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Khousara](https://open.spotify.com/album/3e9XSqi3iGtvBPCxEQPm0N) | 2:58 |
 | 50 | [Tutto Passa](https://open.spotify.com/track/1QqnWKAws9X39acDYOokl9) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Tutto Passa](https://open.spotify.com/album/0LlHGHtOHk3wYzDxKNvMww) | 3:15 |
 
-Snapshot ID: `Z2KcNwAAAADH1SeYXYm4JTBf2KtCYTBn`
+Snapshot ID: `Z3evMAAAAABm1JAo+S3vXLL02yS6W4WG`

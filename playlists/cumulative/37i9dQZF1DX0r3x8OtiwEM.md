@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-673 songs - 2 day 17 hr 52 min
+674 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Brave Ascent](https://open.spotify.com/track/6AnVY53Nt1A0MlZSF39Ngx) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP), [FiveP](https://open.spotify.com/artist/4coqV2wMpLpeacmVtNcn9d) | [Brave Ascent](https://open.spotify.com/album/0H12N1yADYx8vuCwCwkP4n) | 6:13 | 2021-05-08 | 2021-10-16 |
 | [Breaking The Clouds](https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [Breaking The Clouds](https://open.spotify.com/album/1nlhSNR420AabaXSCI2j5R) | 8:41 | 2020-05-07 | 2020-11-03 |
 | [Breathe](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 | 2022-11-26 | 2023-02-19 |
+| [Breeze](https://open.spotify.com/track/57nxQGDHMkXUKoG3G4pQaL) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Breeze](https://open.spotify.com/album/3cqMLf9yEPsMSSOQe7e02C) | 2:26 | 2024-12-20 |  |
 | [Bright Sun](https://open.spotify.com/track/082gVaUWYAjF8wR8uM2qc3) | [Phon.o](https://open.spotify.com/artist/3nkHEHOcJY6qflwhkCW4sF) | [Get Over It EP](https://open.spotify.com/album/4NO0U3dGkSbddWs7ElQAof) | 4:43 | 2019-08-06\* | 2019-08-29 |
 | [Bring You Back \- Edit](https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Bring You Back](https://open.spotify.com/album/6fPDCt9pyi6QYzde4O9O2Y) | 3:18 | 2021-05-07 | 2022-11-30 |
 | [Broken Moonlight](https://open.spotify.com/track/1izKtDdviVm7LmhEJZLReB) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Broken Moonlight](https://open.spotify.com/album/5O3rhzKCme5pth2H1LrtKU) | 4:12 | 2021-12-17 | 2022-07-28 |
@@ -520,7 +521,7 @@
 | [Skylight](https://open.spotify.com/track/2oP9hoWPqk21mkKASlZhZi) | [Kakoon](https://open.spotify.com/artist/2ld0pvwzBjgpoU2qjkPTsL) | [Skylight](https://open.spotify.com/album/2IXu5Xw0MCEIIlqYoTF3aB) | 7:22 | 2021-02-24 | 2022-10-22 |
 | [Sledi Toku](https://open.spotify.com/track/2P9atiBKXqG543yPl3gtzO) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ) | [Sledi Toku](https://open.spotify.com/album/21endjynO2HcNX2HKbLE13) | 8:15 | 2019-09-27 | 2020-05-19 |
 | [Slip](https://open.spotify.com/track/2fjSqGaz3ElHPdGxfVLtCv) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Slip](https://open.spotify.com/album/3yz2COT2SPoRPK0j5ux1SJ) | 7:07 | 2020-02-01 | 2020-08-08 |
-| [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-11-11 |  |
+| [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-11-11 | 2025-01-04 |
 | [Smiling Birds](https://open.spotify.com/track/222a7UeWbEtafZgtG5Jk8L) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Smiling Birds](https://open.spotify.com/album/17ikFw6pP5z3wNHP0uLEnZ) | 7:01 | 2021-11-23 | 2022-03-21 |
 | [Solar](https://open.spotify.com/track/2GBRDBk7T7S9HH2qnb7hGz) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Solar](https://open.spotify.com/album/1XuAu9y2hafCD9euPlTjd2) | 5:03 | 2022-04-04 | 2022-04-17 |
 | [Solid](https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP) | [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Solid](https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy) | 6:44 | 2023-04-05 | 2023-04-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Jan 09:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Jan 23:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 144048,
       "name": "Achilles",
       "url": "https://open.spotify.com/track/7oiazaJtYgZiHfZM3xTHXN"
@@ -18798,7 +18798,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 155781,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/64WhTCMCPM0OslejLGDNko"
@@ -20203,6 +20203,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220183,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
+    },
+    {
+      "album": {
         "name": "Everything and Nothing",
         "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
       },
@@ -20722,7 +20740,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 119560,
       "name": "Fading Smiles",
       "url": "https://open.spotify.com/track/202vTdRLcr1OKLUoi8WIFU"
@@ -22740,6 +22758,24 @@
       "duration_ms": 269583,
       "name": "Floods of Triton",
       "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
+    },
+    {
+      "album": {
+        "name": "Floppy Disks",
+        "url": "https://open.spotify.com/album/1KWscxrKzDgwkFKwO6DqEE"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120760,
+      "name": "Floppy Disks",
+      "url": "https://open.spotify.com/track/53nyIwxHPbQO6QEwhKYE7v"
     },
     {
       "album": {
@@ -31479,6 +31515,24 @@
     },
     {
       "album": {
+        "name": "I wonder",
+        "url": "https://open.spotify.com/album/69mFAqw4Z19dDhrWQM31bU"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177157,
+      "name": "I wonder",
+      "url": "https://open.spotify.com/track/02XZ5kvbHHJ51xWsEVt13x"
+    },
+    {
+      "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/4SkXs6ZdXQRSvh56zSwOju"
       },
@@ -34396,6 +34450,24 @@
       "duration_ms": 133488,
       "name": "Just Getting By, Pt. 2",
       "url": "https://open.spotify.com/track/1UgGL75FJDEWMowAzILMOx"
+    },
+    {
+      "album": {
+        "name": "Just How It Goes",
+        "url": "https://open.spotify.com/album/2Wjh2ei6fCItklUFsC5xcQ"
+      },
+      "artists": [
+        {
+          "name": "Low Roar",
+          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313993,
+      "name": "Just How It Goes",
+      "url": "https://open.spotify.com/track/7ERaWfzZyBrZzsCQxz60TB"
     },
     {
       "album": {
@@ -40482,7 +40554,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 242462,
       "name": "Meine Welt",
       "url": "https://open.spotify.com/track/0F4kkWVeXjXTqe5zp6AJFy"
@@ -55080,7 +55152,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 187266,
       "name": "shadow of my former self",
       "url": "https://open.spotify.com/track/2iknNmwk0vqrvbCYYkQKLS"
@@ -55146,6 +55218,28 @@
       "duration_ms": 205287,
       "name": "Shame On The Devil",
       "url": "https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND"
+    },
+    {
+      "album": {
+        "name": "Shandy in the Graveyard",
+        "url": "https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177708,
+      "name": "Shandy in the Graveyard",
+      "url": "https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ"
     },
     {
       "album": {
@@ -62964,7 +63058,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 191126,
       "name": "The Bottom 3",
       "url": "https://open.spotify.com/track/6Pct9loH2REuGt6nXRqUjJ"
@@ -63994,6 +64088,24 @@
       "duration_ms": 215687,
       "name": "The Odour Of Sanctity",
       "url": "https://open.spotify.com/track/13SlwFOsySawStibFKCFgE"
+    },
+    {
+      "album": {
+        "name": "The Old Guard Is Dead",
+        "url": "https://open.spotify.com/album/4vZPp9zXVRH5TCcTcoWJMJ"
+      },
+      "artists": [
+        {
+          "name": "Ghais Guevara",
+          "url": "https://open.spotify.com/artist/7zQ4NNGWgCVWU80Rg6dXOH"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184028,
+      "name": "The Old Guard Is Dead",
+      "url": "https://open.spotify.com/track/1pfw03FOjkDE3GcjlsNIHA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover:  Dead Poet Society
 
-1,360 songs - 3 day 9 hr 10 min
+1,361 songs - 3 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1110,6 +1110,7 @@
 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 | 2023-07-21 | 2023-09-30 |
 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/6uBtqwcoaMTcTewEXX9e7T) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:24 | 2023-09-29 | 2024-02-24 |
 | [Takedown](https://open.spotify.com/track/2B5N3Xfu0fprTGs48KFarh) | [Those Damn Crows](https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7) | [Takedown](https://open.spotify.com/album/6QwEdQOMzEQTAIf9tTW9PV) | 3:05 | 2023-02-10 | 2023-05-13 |
+| [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-01-03 |  |
 | [Talk](https://open.spotify.com/track/5LPKDLRWNgutpyW6kM3iuh) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Talk](https://open.spotify.com/album/4SAfapUjkxqKHj1TP5xlsG) | 2:32 | 2023-03-03 | 2023-08-26 |
 | [Talk & Walk](https://open.spotify.com/track/0BvFgXSJZ1irgFEbhHT5hc) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Talk & Walk](https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE) | 4:35 | 2022-09-16 | 2023-01-21 |
 | [Talking To Ourselves](https://open.spotify.com/track/6glcMk6zo6lPifFJOMueLw) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:24 | 2021-10-22 | 2022-06-18 |
@@ -1342,7 +1343,7 @@
 | [Won't Take Me Alive](https://open.spotify.com/track/30yrLJiv98k8ZhoWXhko3h) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Can't Find The Brakes](https://open.spotify.com/album/3FyROXteyMjOunh3L3gEly) | 3:42 | 2024-01-26 | 2024-02-24 |
 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 | 2023-07-07 | 2024-01-27 |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 | 2022-06-04 |
-| [Words Lost Meaning](https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Words Lost Meaning](https://open.spotify.com/album/2erPcgak09jhbYN5UUfmbz) | 3:45 | 2024-12-06 |  |
+| [Words Lost Meaning](https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Words Lost Meaning](https://open.spotify.com/album/2erPcgak09jhbYN5UUfmbz) | 3:45 | 2024-12-06 | 2025-01-04 |
 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-12 | 2023-06-17 |
 | [WORLD vs PEACE](https://open.spotify.com/track/7KcGQ9oNG74zlRGdh9kjRv) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [WORLD vs PEACE](https://open.spotify.com/album/63L9C9oxsYSUogz10eyQjL) | 2:58 | 2024-10-18 |  |
 | [Worst Is On Its Way](https://open.spotify.com/track/4mvAZT5CKaKZjvNGmjoHRA) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 4:03 | 2022-06-10 | 2023-03-18 |

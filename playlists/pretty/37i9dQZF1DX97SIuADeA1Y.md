@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,398 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,416 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 23 | [One In A Million](https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH) | [One In A Million](https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f) | 2:08 |
 | 24 | [Sweet Dreams \(feat\. Imanbek\)](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |
 | 25 | [Poison](https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Poison](https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI) | 3:22 |
-| 26 | [Keep on Moving](https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5) | [Kastuvas](https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Keep on Moving](https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy) | 2:57 |
-| 27 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
-| 28 | [L'amour Toujours](https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'amour Toujours](https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk) | 2:21 |
+| 26 | [L'amour Toujours](https://open.spotify.com/track/76xsVM3XLEty7aBjEZTjAF) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Max Fail](https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf), [Viktoria Vane](https://open.spotify.com/artist/79dlbfHIQnyxL71jvyQw4J) | [L'amour Toujours](https://open.spotify.com/album/5XoyPNLakrTcLUclTZdLFk) | 2:21 |
+| 27 | [Keep on Moving](https://open.spotify.com/track/2sHa8ZvrwS2LZagaUM3FN5) | [Kastuvas](https://open.spotify.com/artist/48aqzGnSFeO0t4FKTGmq72), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Keep on Moving](https://open.spotify.com/album/3vLlGwZQi5yorSzKAaHVzy) | 2:57 |
+| 28 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 |
 | 29 | [Everybody Cries](https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8) | [Cleez](https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj) | [Everybody Cries](https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu) | 2:50 |
 | 30 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
 | 31 | [Loco](https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP) | [Nora & Chris](https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg), [Alex Martin](https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c) | [Loco](https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH) | 2:10 |

@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Karan Aujla
 
-414 songs - 1 day 0 hr 8 min
+415 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-01-28 | 2023-04-29 |
 | [Tu Jo Mileya](https://open.spotify.com/track/40EeTvfmNYoXbY2iyWC542) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Tu Jo Mileya](https://open.spotify.com/album/3k6gm4SfQtgCPhunnsJTKz) | 2:38 | 2024-11-11 | 2024-12-05 |
 | [Tu Mile Dil Khile](https://open.spotify.com/track/6SnqFFm7Qp68efuVygvwtU) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Tu Mile Dil Khile \- Single](https://open.spotify.com/album/5ZdPS2Lm1DvnFwni3DX4pm) | 3:17 | 2023-04-28 | 2023-11-30 |
+| [Tu Mile Dil Khile](https://open.spotify.com/track/6V7UVqe8XnAS4WPdpaw5TK) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Tu Mile Dil Khile](https://open.spotify.com/album/4l9OB8kgKU3M6w5GYQZbKI) | 3:17 | 2025-01-03 |  |
 | [Tujhe Kitna Chahne Lage \(From "Kabir Singh"\)](https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6) | [Tujhe Kitna Chahne Lage \(From "Kabir Singh"\)](https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V) | 4:44 | 2024-10-09 |  |
 | [Tum Kya Mile \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7BE0KM7dc0f4MX6Kc6kCuN) | 4:37 | 2024-01-05 | 2024-10-22 |
 | [Tum Kya Mile \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1kDZSmw3mKQeAjcmPTLS3M) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani](https://open.spotify.com/album/6FfXtcC6KsOTOO3GehQZ8x) | 4:37 | 2024-12-04 |  |

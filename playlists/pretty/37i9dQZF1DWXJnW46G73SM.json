@@ -1,6 +1,6 @@
 {
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u062c\u0645\u0627\u0644\n",
-  "num_followers": 137158,
+  "num_followers": 137188,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
       "duration_ms": 210645,
       "name": "El Kedb",
       "url": "https://open.spotify.com/track/7vD1YufVV1EDNZs1tgiBxS"
+    },
+    {
+      "added_at": "2025-01-02 23:12:58",
+      "album": {
+        "name": "Ballerina",
+        "url": "https://open.spotify.com/album/4RsqLNot8uxTQGH0FBoQTZ"
+      },
+      "artists": [
+        {
+          "name": "SeLTa",
+          "url": "https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP"
+        }
+      ],
+      "duration_ms": 188446,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/78fs5ektDphjXmEjZy99Do"
     },
     {
       "added_at": "2025-01-02 23:12:58",

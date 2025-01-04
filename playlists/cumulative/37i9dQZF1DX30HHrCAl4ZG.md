@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Amen Dunes
+> Explore all things indie rock right now\. Featuring music from girlpuppy
 
-1,721 songs - 3 day 23 hr 43 min
+1,724 songs - 3 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Everybody's dead!](https://open.spotify.com/track/1NEvhcHwzloQ2OUt3M7tB2) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Everybody's dead!](https://open.spotify.com/album/2PC2GrYamCscVpzfvRmU3n) | 1:52 | 2021-11-19 | 2022-06-05 |
 | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 | 2022-10-21 | 2022-12-15 |
 | [Everybody’s Gonna Love Somebody \- Edit](https://open.spotify.com/track/5G8fWQnQ9wmfTONh8yKc0a) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Everybody’s Gonna Love Somebody](https://open.spotify.com/album/7zSB2OByjA4ivSOOtxhf4z) | 3:16 | 2021-06-07 | 2022-02-04 |
+| [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 | 2025-01-03 |  |
 | [Everyone Out](https://open.spotify.com/track/5zoVhJ5O5PFmPsnHIIkq5f) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Everyone Out](https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj) | 4:52 | 2024-03-29 | 2024-04-27 |
 | [Everything \(all at once\)](https://open.spotify.com/track/4G1a2dYMI9PkgLb6MRoFtT) | [Archways](https://open.spotify.com/artist/1wBXSyOwOUX2Vlm3fz37XA) | [Coloured Pills](https://open.spotify.com/album/6PAQidIQCcGE837tJGmE2M) | 5:03 | 2023-07-28 | 2023-09-09 |
 | [Everything At Once](https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Everything At Once](https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX) | 3:49 | 2024-05-03 | 2024-07-19 |
@@ -799,6 +800,7 @@
 | [in the wake of your leave](https://open.spotify.com/track/4vjB69VckVUeu0GzAxoZRm) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [in the wake of your leave](https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7) | 4:03 | 2022-01-14 | 2022-04-16 |
 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 | 2021-09-17 | 2022-06-08 |
 | [In Yr Head \(1818\)](https://open.spotify.com/track/3G4wmv9JBImo4Zumz9Hnh7) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [In Yr Head \(1818\)](https://open.spotify.com/album/3lhW92GgRyUDhgooQvquK4) | 4:40 | 2024-03-15 | 2024-06-15 |
+| [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 | 2025-01-03 |  |
 | [Insomnia](https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l) | 3:12 | 2022-06-25 | 2023-03-11 |
 | [Intake](https://open.spotify.com/track/4h78x5FcSa6RZbnhkzDdP6) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Intake](https://open.spotify.com/album/4uGHqV0Ltu4bnEOzxdrnIs) | 4:04 | 2022-06-25 | 2022-08-27 |
 | [Invisible Fence](https://open.spotify.com/track/5ziFqEEcLfe7G6MdrnCLy8) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [MOTOR FUNCTION](https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS) | 2:35 | 2021-08-13 | 2022-05-23 |
@@ -1681,6 +1683,7 @@
 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 | 2023-04-07 | 2023-06-17 |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-06 |  |
 | [Window](https://open.spotify.com/track/6lF1XaolkUtIIVUlxLFMi8) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Window](https://open.spotify.com/album/79kiwS8SnWG6qHqJXEX0Z6) | 2:41 | 2024-11-22 | 2024-12-21 |
+| [Windows](https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Windows](https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD) | 4:09 | 2025-01-03 |  |
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-03-10 | 2023-05-27 |
 | [Wink](https://open.spotify.com/track/5IgYoIjoRxfSuAr436g029) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Wink](https://open.spotify.com/album/2MzpjA3zHufCtB5MWdX6KZ) | 2:58 | 2024-05-24 | 2024-08-03 |
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2021-06-07 | 2022-06-11 |

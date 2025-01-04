@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 483823,
+  "num_followers": 484258,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3M0AAAAAABcGFLcNsuG+JkLZxBwGknI",
+  "snapshot_id": "Z3XXAAAAAAClQUbXbo5+UuOdM3M8ql5D",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina\u2019s Version]",
-        "url": "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc"
+        "name": "Singular Act I",
+        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
       },
       "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 166640,
-      "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina\u2019s Version",
-      "url": "https://open.spotify.com/track/2WNHUp4s806SJrsj698ZX3"
+      "duration_ms": 179226,
+      "name": "Sue Me",
+      "url": "https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb"
     },
     {
       "added_at": null,
@@ -251,18 +243,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singular Act I",
-        "url": "https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK"
+        "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) [Sabrina\u2019s Version]",
+        "url": "https://open.spotify.com/album/0TN8dXBkeIqDjVfUV3gPpc"
       },
       "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Sue Me",
-      "url": "https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb"
+      "duration_ms": 166640,
+      "name": "That\u2019s Not How This Works (feat. Dan + Shay & Sabrina Carpenter) - Sabrina\u2019s Version",
+      "url": "https://open.spotify.com/track/2WNHUp4s806SJrsj698ZX3"
     },
     {
       "added_at": null,

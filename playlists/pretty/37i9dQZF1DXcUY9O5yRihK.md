@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,833 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,017 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
 | 2 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
 | 3 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
-| 4 | [Lazy](https://open.spotify.com/track/6KthiBwozqytvwhxpJw9Sr) | [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Lazy](https://open.spotify.com/album/5iIYVQ0Yb6QoaMzBtAvugF) | 3:08 |
-| 5 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
-| 6 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 |
-| 7 | [Old Devil Moon](https://open.spotify.com/track/593JQgGYODUwv0Es7H847C) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Old Devil Moon](https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW) | 2:54 |
-| 8 | [ROT](https://open.spotify.com/track/70zTbQd3yYeNwA75CF2fcd) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:49 |
-| 9 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
-| 10 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 |
-| 11 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 |
-| 12 | [pretty little thing](https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj) | 3:10 |
-| 13 | [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 |
+| 4 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 |
+| 5 | [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 |
+| 6 | [Lazy](https://open.spotify.com/track/6KthiBwozqytvwhxpJw9Sr) | [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Lazy](https://open.spotify.com/album/5iIYVQ0Yb6QoaMzBtAvugF) | 3:08 |
+| 7 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
+| 8 | [Old Devil Moon](https://open.spotify.com/track/593JQgGYODUwv0Es7H847C) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Old Devil Moon](https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW) | 2:54 |
+| 9 | [ROT](https://open.spotify.com/track/70zTbQd3yYeNwA75CF2fcd) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:49 |
+| 10 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
+| 11 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 |
+| 12 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 |
+| 13 | [pretty little thing](https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [pretty little thing](https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj) | 3:10 |
 | 14 | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/album/2flxq9q7ZB2QNt3c6ZJhsz) | 3:24 |
 | 15 | [election year](https://open.spotify.com/track/79qTYKyxC3SAKTVoKrGifl) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [election year](https://open.spotify.com/album/76yJbscqVCSod2FKY6txAd) | 3:25 |
 | 16 | [Melatonin](https://open.spotify.com/track/2fqYYr5alGlVIwAZ8AfUkW) | [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Melatonin](https://open.spotify.com/album/6SZAbzRt0vrXqKFtBOIb40) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 74 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 |
 | 75 | [Waiting by the Window](https://open.spotify.com/track/3NVDwR7cuCNy30L0DZPQil) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Waiting by the Window](https://open.spotify.com/album/1EnZIihjXvcmZW4IW84P6j) | 2:19 |
 
-Snapshot ID: `Z1u/WQAAAADpQkfTm95UMG/jQ8tSEFJ5`
+Snapshot ID: `Z3du6QAAAABYzQlJAP18XF5i5YCp/be7`

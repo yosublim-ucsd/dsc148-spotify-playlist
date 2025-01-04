@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-714 songs - 1 day 16 hr 5 min
+716 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Care](https://open.spotify.com/track/01WVhnWgcISq2mIimBywbV) | [Ódú](https://open.spotify.com/artist/5J0S0VMJPab8FUbu3vJ2ds) | [Care](https://open.spotify.com/album/5jgVpT4qJ2buE9VAxVrT5G) | 3:06 | 2022-03-18 | 2022-05-19 |
 | [Cashmere](https://open.spotify.com/track/2skcRwQ3LnHovesawqOO89) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0) | [A Pretty Fucking Cool EP](https://open.spotify.com/album/2qQVcpL4zqbuU7H54DomDT) | 3:15 | 2024-04-26 | 2024-10-12 |
 | [CGI](https://open.spotify.com/track/0yinijG2Ju2VOeLLB8BgVe) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [CGI](https://open.spotify.com/album/0YTny8rNHTIhYKSApVcHcy) | 3:15 | 2023-04-14 | 2023-06-13 |
+| [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 | 2025-01-03 |  |
 | [Cherry](https://open.spotify.com/track/6iELCGVNptm6niTRM7aKPT) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cherry](https://open.spotify.com/album/6rXyauDuGODTctfiviEAVg) | 3:06 | 2023-06-23 | 2024-04-06 |
 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 | 2021-09-11 | 2024-04-27 |
 | [Circles](https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Circles](https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5) | 3:34 | 2020-10-13\* | 2021-09-11 |
@@ -272,6 +273,7 @@
 | [Haunted](https://open.spotify.com/track/2fvxxLGvZF2cStdGqMgD6Y) | [Saint Claire](https://open.spotify.com/artist/78xOqjJTOsM2Y5XdtvjDq2) | [Haunted](https://open.spotify.com/album/35M9aEivxgK4MWmECJpX2O) | 3:06 | 2020-10-13\* | 2021-07-04 |
 | [Hazel](https://open.spotify.com/track/5HG8in1JeRSmGCJPz0Sa7E) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/6sid9RN71tWaLOSkmQ2x3d) | 3:21 | 2020-10-13\* | 2021-06-26 |
 | [Head On Fire \(feat\. Sigrid, King Princess and MØ\)](https://open.spotify.com/track/12hynh3DSRI7CSHA9FJVEF) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head On Fire \(feat\. Sigrid, King Princess and MØ\)](https://open.spotify.com/album/7g4QH42U0ZHoWSno8q9hpR) | 3:31 | 2022-04-16 | 2022-10-22 |
+| [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 | 2025-01-03 |  |
 | [Heart](https://open.spotify.com/track/1IQgMSRjsLjVw5VZFeWcC0) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart](https://open.spotify.com/album/5oOeNGXiuRst2Dat4Ufkhp) | 3:15 | 2020-10-13\* | 2020-11-18 |
 | [Heart over Mind](https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:09 | 2023-11-10 | 2024-06-08 |
 | [Heart Worth Breaking](https://open.spotify.com/track/0PsiZOHTHwSpuEXSdf5cTk) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Heart Worth Breaking](https://open.spotify.com/album/2ai5cNL3E2zJvrmNB1evkb) | 5:07 | 2022-08-26 | 2022-10-22 |
@@ -468,12 +470,12 @@
 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 | 2021-07-10 | 2022-01-29 |
 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 | 2023-03-31 | 2023-06-03 |
 | [Not Sad Anymore](https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Not Sad Anymore](https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN) | 3:15 | 2021-06-19 | 2022-01-01 |
-| [Nothing Compares 2 U](https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Nothing Compares 2 U](https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb) | 4:13 | 2024-05-24 |  |
+| [Nothing Compares 2 U](https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Nothing Compares 2 U](https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb) | 4:13 | 2024-05-24 | 2025-01-04 |
 | [Nurture](https://open.spotify.com/track/68QtZJviwUVuDl7GS1pxDh) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Nurture](https://open.spotify.com/album/0muWT8ba5rnVAFzZuQ7zUW) | 4:12 | 2022-01-21 | 2022-04-01 |
 | [Ocean of Tears](https://open.spotify.com/track/4yqUwc3anK2zx40o5hMAJy) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Ocean of Tears](https://open.spotify.com/album/6Sa2vontcwVJvoxVx6EQn0) | 3:24 | 2020-10-13\* | 2021-02-19 |
 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 | 2020-10-13\* | 2021-10-12 |
 | [Oceansize](https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:43 | 2021-02-19 | 2022-01-15 |
-| [ODDS](https://open.spotify.com/track/7cpTlJpt1WCe8Gj8wjFSoW) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [ODDS](https://open.spotify.com/album/3tBmhNuRM1zTZqlFqhcZcf) | 2:48 | 2024-08-23 |  |
+| [ODDS](https://open.spotify.com/track/7cpTlJpt1WCe8Gj8wjFSoW) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [ODDS](https://open.spotify.com/album/3tBmhNuRM1zTZqlFqhcZcf) | 2:48 | 2024-08-23 | 2025-01-04 |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-06-26 | 2021-12-04 |
 | [Off With Her Tits](https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Off With Her Tits](https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr) | 3:16 | 2024-01-19 | 2024-02-24 |
 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 | 2023-01-27 | 2023-06-02 |

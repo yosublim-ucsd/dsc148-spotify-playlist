@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-429 songs - 23 hr 0 min
+430 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 | 2022-06-24 | 2022-11-08 |
 | [CHINWI](https://open.spotify.com/track/2BfFsGilHsx0bOe8RdY3pJ) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/4DBrAszM7FdWyblxrIKed3) | 3:41 | 2022-06-16 | 2022-06-25 |
 | [CHIRON](https://open.spotify.com/track/45wxMKFaDHRTLxYxXKl0rc) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8) | 2:29 | 2024-06-27 | 2024-07-03 |
+| [Chkoun Ntiya](https://open.spotify.com/track/6xH01d8YetZfuRCSlPCymQ) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [Chkoun Ntiya](https://open.spotify.com/album/0i2NCxG20ngXCFWdEqso6n) | 3:37 | 2025-01-03 |  |
 | [Chokran](https://open.spotify.com/track/77JDzVjytmCZH8xIWmCY3l) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Chokran](https://open.spotify.com/album/09wY9vArfB6xzsNaRfwuZ1) | 3:34 | 2021-12-25 | 2022-02-15 |
 | [Chouka](https://open.spotify.com/track/3G3yInBH0pVGyjI7q4O2Oz) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Chouka](https://open.spotify.com/album/5R6XiMLPyQ2NVXG6FQiB2o) | 3:05 | 2023-08-02 | 2023-11-07 |
 | [Chouwafat](https://open.spotify.com/track/2karLWYLu8wPrGQnY7CZvC) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Chouwafat](https://open.spotify.com/album/0TfxgYWyl2Rfg6dvxMXsOs) | 3:24 | 2024-08-28 |  |
@@ -127,7 +128,7 @@
 | [Fat L'Fout](https://open.spotify.com/track/5mOm6cmu8BAqFFmmOclX8r) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Fat L'Fout](https://open.spotify.com/album/4DLLxADxhGyLs26CIjPaXk) | 2:26 | 2023-08-26 | 2024-06-04 |
 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 | 2024-10-01 | 2024-11-03 |
 | [Fin Ghadia Bia](https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l) | [Rachid Goudi](https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm) | [Fin Ghadia Bia](https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr) | 3:30 | 2022-06-22 | 2022-08-10 |
-| [Flouka](https://open.spotify.com/track/6qJsZS6HgNROEQ8CMYzaeV) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Flouka](https://open.spotify.com/album/7qBXcxkVVtw24cLXDiinIn) | 3:14 | 2024-12-21 |  |
+| [Flouka](https://open.spotify.com/track/6qJsZS6HgNROEQ8CMYzaeV) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Flouka](https://open.spotify.com/album/7qBXcxkVVtw24cLXDiinIn) | 3:14 | 2024-12-21 | 2025-01-04 |
 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 | 2023-07-05 | 2024-05-23 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-09 | 2023-06-14 |
 | [Galbi](https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV) | [Ali S](https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts) | [Galbi](https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT) | 2:43 | 2024-07-08 | 2024-08-29 |

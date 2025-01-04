@@ -1,164 +1,188 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10847,
+  "num_followers": 10848,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "AAALEdnsPJpx+zHpXTXxhKhEili6Vnd1",
+  "snapshot_id": "AAALE10jkpH8BL8AiRQ2dfRcDowhq7wJ",
   "tracks": [
     {
-      "added_at": "2024-12-20 15:23:22",
+      "added_at": "2025-01-03 14:27:23",
       "album": {
-        "name": "Dancing in love",
-        "url": "https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx"
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 194475,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66"
+    },
+    {
+      "added_at": "2025-01-03 14:27:23",
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK"
+    },
+    {
+      "added_at": "2025-01-03 14:27:23",
+      "album": {
+        "name": "Lonely Heat",
+        "url": "https://open.spotify.com/album/2jAZy4xV7QXhX7zD9DeTS2"
+      },
+      "artists": [
+        {
+          "name": "Drew Sycamore",
+          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
+        }
+      ],
+      "duration_ms": 190796,
+      "name": "Lonely Heat",
+      "url": "https://open.spotify.com/track/2tKTgFfzIdGrByiAYjNXR1"
+    },
+    {
+      "added_at": "2025-01-03 14:27:23",
+      "album": {
+        "name": "Till The Summer Fades (VIP Mix)",
+        "url": "https://open.spotify.com/album/0R7fb9M63ipiaO99u4Hz1S"
+      },
+      "artists": [
+        {
+          "name": "CARSTN",
+          "url": "https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC"
         },
         {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+          "name": "JIM",
+          "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
         }
       ],
-      "duration_ms": 156937,
-      "name": "Dancing in love",
-      "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
+      "duration_ms": 154545,
+      "name": "Till The Summer Fades - VIP Mix",
+      "url": "https://open.spotify.com/track/2dr6c3lc4AMqSIWHi3Z0LE"
     },
     {
-      "added_at": "2024-12-20 15:23:22",
+      "added_at": "2025-01-03 14:27:23",
       "album": {
-        "name": "fancy / xvideos",
-        "url": "https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge"
+        "name": "Campari Lips & Soda",
+        "url": "https://open.spotify.com/album/0dgYBTTQJzGhN4jJD4QYdf"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 125943,
-      "name": "fancy",
-      "url": "https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1"
-    },
-    {
-      "added_at": "2024-12-20 15:23:22",
-      "album": {
-        "name": "Coming On Strong",
-        "url": "https://open.spotify.com/album/6qqZ1VQ8VV1FtG7aZThEG4"
-      },
-      "artists": [
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
         },
         {
-          "name": "Eynka",
-          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 176523,
+      "name": "Campari Lips & Soda",
+      "url": "https://open.spotify.com/track/3yAhzZ6E6eg4Sv2uurvA8J"
+    },
+    {
+      "added_at": "2025-01-03 14:27:23",
+      "album": {
+        "name": "AH AH AH",
+        "url": "https://open.spotify.com/album/3veXH87Ab3CYcaFLO7NoY0"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "duration_ms": 125027,
+      "name": "AH AH AH",
+      "url": "https://open.spotify.com/track/3hZfphgOX7x5nJibyHiEY0"
+    },
+    {
+      "added_at": "2025-01-03 14:27:23",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3TFpA1ShVs3S4cD1iodrhL"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 142549,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/6JJ9HK6ZHRVQEDH4o00s4E"
+    },
+    {
+      "added_at": "2025-01-03 14:27:23",
+      "album": {
+        "name": "Kick The Nation",
+        "url": "https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Signum",
-          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "Kick The Nation",
+      "url": "https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K"
+    },
+    {
+      "added_at": "2025-01-03 14:27:23",
+      "album": {
+        "name": "ONANON",
+        "url": "https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 195638,
+      "name": "ONANON",
+      "url": "https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL"
+    },
+    {
+      "added_at": "2025-01-03 14:27:23",
+      "album": {
+        "name": "Candy Shop",
+        "url": "https://open.spotify.com/album/031m6izON5ItyxLETIWo8T"
+      },
+      "artists": [
+        {
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
         },
         {
-          "name": "Scott Mac",
-          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+          "name": "Mareels",
+          "url": "https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd"
         }
       ],
-      "duration_ms": 243779,
-      "name": "Coming On Strong",
-      "url": "https://open.spotify.com/track/3OxO5qycdP6Rg6dFgefWFZ"
-    },
-    {
-      "added_at": "2024-12-20 15:23:22",
-      "album": {
-        "name": "Somethin' Stupid",
-        "url": "https://open.spotify.com/album/6jycv1pDnBLplDsOyCtKkv"
-      },
-      "artists": [
-        {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
-        },
-        {
-          "name": "Oilly Wallace",
-          "url": "https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F"
-        }
-      ],
-      "duration_ms": 192885,
-      "name": "Somethin' Stupid",
-      "url": "https://open.spotify.com/track/0rgP63NBfy6DZgmbna6cT8"
-    },
-    {
-      "added_at": "2024-12-20 15:23:22",
-      "album": {
-        "name": "Oluwa",
-        "url": "https://open.spotify.com/album/0iE8ZM7DXD4vgoHP2FQfWw"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 209516,
-      "name": "Oluwa",
-      "url": "https://open.spotify.com/track/3RJBYazhkBCCkZQaXV6p4Y"
-    },
-    {
-      "added_at": "2024-12-20 15:23:22",
-      "album": {
-        "name": "Real Talk",
-        "url": "https://open.spotify.com/album/2fWm61rJu9In4lJ69FB2WB"
-      },
-      "artists": [
-        {
-          "name": "GHSTGHSTGHST",
-          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
-        }
-      ],
-      "duration_ms": 351044,
-      "name": "Real Talk - Original Mix",
-      "url": "https://open.spotify.com/track/3ZlcwK8L6FYgCszPE2EfCl"
-    },
-    {
-      "added_at": "2024-12-20 15:23:22",
-      "album": {
-        "name": "Stay Baby",
-        "url": "https://open.spotify.com/album/6uhWPNR9ImsvLAbMGQG0fn"
-      },
-      "artists": [
-        {
-          "name": "Geowulf",
-          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
-        }
-      ],
-      "duration_ms": 259959,
-      "name": "Stay Baby",
-      "url": "https://open.spotify.com/track/2Ho4QtGcGgxwpti7N8Zsuw"
-    },
-    {
-      "added_at": "2024-12-20 15:23:22",
-      "album": {
-        "name": "FLY",
-        "url": "https://open.spotify.com/album/4xJZUFauLJGWWDwbCoEnOt"
-      },
-      "artists": [
-        {
-          "name": "Metropolen",
-          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
-        },
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 135227,
-      "name": "FLY",
-      "url": "https://open.spotify.com/track/3PIpDjERPi4oA7v1zupEG5"
+      "duration_ms": 108923,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/2wTx5ik0CCnQPTXXfiYwAM"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

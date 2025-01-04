@@ -1,13 +1,117 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Martin Garrix & Jex",
-  "num_followers": 222326,
+  "description": "The hottest new pop with all the drops. Cover: Rose Gray",
+  "num_followers": 225542,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z240fQAAAADvtpfUkIdwW8UgMYdPnetf",
+  "snapshot_id": "Z3hLbgAAAADUZYCBKNjjF7lBN5CIb5pg",
   "tracks": [
+    {
+      "added_at": "2025-01-03 05:00:25",
+      "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 194475,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66"
+    },
+    {
+      "added_at": "2025-01-03 05:00:25",
+      "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+    },
+    {
+      "added_at": "2025-01-03 05:00:25",
+      "album": {
+        "name": "Euphoria (with Alok)",
+        "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        }
+      ],
+      "duration_ms": 151818,
+      "name": "Euphoria (with Alok)",
+      "url": "https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc"
+    },
+    {
+      "added_at": "2025-01-03 05:00:25",
+      "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "New Energy",
+      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
+    },
+    {
+      "added_at": "2025-01-03 05:00:25",
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/0iIC693yA29mHcT8j08osB"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "duration_ms": 129103,
+      "name": "TEN",
+      "url": "https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8"
+    },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
@@ -29,6 +133,26 @@
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
+      "added_at": "2025-01-03 20:38:46",
+      "album": {
+        "name": "Drunk Wishing",
+        "url": "https://open.spotify.com/album/6l7qOqH85I3zA3n26Fyw4n"
+      },
+      "artists": [
+        {
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 184644,
+      "name": "Drunk Wishing",
+      "url": "https://open.spotify.com/track/4RwHzzXa5q8TO4jqORWgUi"
+    },
+    {
       "added_at": "2024-12-20 05:00:36",
       "album": {
         "name": "Dancing in love",
@@ -47,6 +171,26 @@
       "duration_ms": 156937,
       "name": "Dancing in love",
       "url": "https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU"
+    },
+    {
+      "added_at": "2025-01-03 20:41:18",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Janet Planet",
+          "url": "https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq"
+        }
+      ],
+      "duration_ms": 198483,
+      "name": "Forever Baby",
+      "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1051,22 +1195,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Hand of God",
-        "url": "https://open.spotify.com/album/2NTPKieDVQSq4yXdq6CDme"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Hand of God",
-      "url": "https://open.spotify.com/track/3lI8PleSazRFGIKkKazytf"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Over You (feat. Justin Jesso)",
         "url": "https://open.spotify.com/album/212lVtNgONE9gXOtq8V6g5"
       },
@@ -1119,22 +1247,6 @@
       "duration_ms": 151875,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Freedom Of The Night",
-        "url": "https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Freedom Of The Night",
-      "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
     },
     {
       "added_at": "2024-10-25 04:00:00",

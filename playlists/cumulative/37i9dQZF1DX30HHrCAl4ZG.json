@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Amen Dunes",
+  "description": "Explore all things indie rock right now. Featuring music from girlpuppy",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -9221,6 +9221,24 @@
     },
     {
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220183,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
+    },
+    {
+      "album": {
         "name": "Everyone Out",
         "url": "https://open.spotify.com/album/59L5XRlV5kXjmutbYGV8xj"
       },
@@ -14508,6 +14526,24 @@
       "duration_ms": 280511,
       "name": "In Yr Head (1818)",
       "url": "https://open.spotify.com/track/3G4wmv9JBImo4Zumz9Hnh7"
+    },
+    {
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133003,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
     },
     {
       "album": {
@@ -30728,6 +30764,24 @@
       "duration_ms": 161179,
       "name": "Window",
       "url": "https://open.spotify.com/track/6lF1XaolkUtIIVUlxLFMi8"
+    },
+    {
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249720,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 210290,
+  "num_followers": 210359,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "i went outside",
-        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "i went outside",
-      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Viking Fair",
         "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 67112,
       "name": "Viking Fair",
       "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Late December",
-        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
+        "name": "Have This Dance",
+        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
       },
       "artists": [
         {
-          "name": "Mathias Gundhus",
-          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
         }
       ],
-      "duration_ms": 179545,
-      "name": "Late December",
-      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
+      "duration_ms": 214380,
+      "name": "Have This Dance",
+      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Have This Dance",
-        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
+        "name": "Late December",
+        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
       },
       "artists": [
         {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+          "name": "Mathias Gundhus",
+          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
         }
       ],
-      "duration_ms": 214380,
-      "name": "Have This Dance",
-      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
+      "duration_ms": 179545,
+      "name": "Late December",
+      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Never Gonna Last",
-        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
-      },
-      "artists": [
-        {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Never Gonna Last - Radio Edit",
-      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 172007,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
     },
     {
       "added_at": "2024-12-05 23:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92584,
+  "num_followers": 92606,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
+        "name": "S\u00e5 Mycket B\u00e4ttre 2024 - Tolkningarna",
+        "url": "https://open.spotify.com/album/5fzaDwfgQ8wa3sq6Bwy2ww"
+      },
+      "artists": [
+        {
+          "name": "Andreas Lundstedt",
+          "url": "https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc"
+        }
+      ],
+      "duration_ms": 179085,
+      "name": "Living La Vida",
+      "url": "https://open.spotify.com/track/2e1qKKgn66K9Yf4GZLtjrX"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
         "name": "Nyper mig i armen",
         "url": "https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
-        "name": "S\u00e5 Mycket B\u00e4ttre 2024 - Tolkningarna",
-        "url": "https://open.spotify.com/album/5fzaDwfgQ8wa3sq6Bwy2ww"
-      },
-      "artists": [
-        {
-          "name": "Andreas Lundstedt",
-          "url": "https://open.spotify.com/artist/5vPfSurUhT1t4PmLkAuARc"
-        }
-      ],
-      "duration_ms": 179085,
-      "name": "Living La Vida",
-      "url": "https://open.spotify.com/track/2e1qKKgn66K9Yf4GZLtjrX"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
+        "name": "Country Song Came On",
+        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Country Song Came On",
+      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/5WhLbhoV8ZB4P0SxceezKc"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "Country Song Came On",
-        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Country Song Came On",
-      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "Swallow My Tears",
         "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 269766,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "Where Flowers Grow",
         "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 198000,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 269766,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "WILDSIDE",
         "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 167200,
       "name": "WILDSIDE",
       "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "No More You",
-        "url": "https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 176366,
-      "name": "No More You",
-      "url": "https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 214783,
       "name": "S\u00e4llskapssjuk",
       "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "No More You",
+        "url": "https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 176366,
+      "name": "No More You",
+      "url": "https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 213905,
-      "name": "Will You Run Away With Me",
-      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
-        "name": "Mars Venus",
-        "url": "https://open.spotify.com/album/5FokncAu2q3vUMT92NfvkS"
-      },
-      "artists": [
-        {
-          "name": "Per Persson",
-          "url": "https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0"
-        }
-      ],
-      "duration_ms": 226034,
-      "name": "Mars Venus",
-      "url": "https://open.spotify.com/track/1km9FtIrSvIdm3TTQlxqkw"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/1dtyicmDm2kBFPmwMLdVMu"
       },
@@ -1215,6 +1183,38 @@
       "duration_ms": 174054,
       "name": "Ingen annan",
       "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 213905,
+      "name": "Will You Run Away With Me",
+      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "Mars Venus",
+        "url": "https://open.spotify.com/album/5FokncAu2q3vUMT92NfvkS"
+      },
+      "artists": [
+        {
+          "name": "Per Persson",
+          "url": "https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0"
+        }
+      ],
+      "duration_ms": 226034,
+      "name": "Mars Venus",
+      "url": "https://open.spotify.com/track/1km9FtIrSvIdm3TTQlxqkw"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
+        "name": "V\u00e5rt \u00e5r",
+        "url": "https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "V\u00e5rt \u00e5r",
+      "url": "https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2024 - Tolkningarna",
         "url": "https://open.spotify.com/album/07tHAQSKDA4CnmNWn1U3kA"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "V\u00e5rt \u00e5r",
-        "url": "https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "V\u00e5rt \u00e5r",
-      "url": "https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "Ge En Sol",
         "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
       },
@@ -1315,38 +1315,6 @@
       "duration_ms": 172166,
       "name": "Ge En Sol",
       "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
-        "name": "When The Time Is Right",
-        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
-      },
-      "artists": [
-        {
-          "name": "Dirty Loops",
-          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
-        }
-      ],
-      "duration_ms": 285842,
-      "name": "When The Time Is Right",
-      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
-        "name": "Solen i den v\u00e4nstra",
-        "url": "https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q"
-      },
-      "artists": [
-        {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
-        }
-      ],
-      "duration_ms": 293083,
-      "name": "Solen i den v\u00e4nstra",
-      "url": "https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1367,6 +1335,22 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
+        "name": "When The Time Is Right",
+        "url": "https://open.spotify.com/album/2Ly57SAO3RbzXWXaR3C1tY"
+      },
+      "artists": [
+        {
+          "name": "Dirty Loops",
+          "url": "https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ"
+        }
+      ],
+      "duration_ms": 285842,
+      "name": "When The Time Is Right",
+      "url": "https://open.spotify.com/track/0hXJB5pUpO7BpYK6uQVaLr"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
         "name": "Flowers at a Funeral",
         "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 207360,
       "name": "Flowers at a Funeral",
       "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "Solen i den v\u00e4nstra",
+        "url": "https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 293083,
+      "name": "Solen i den v\u00e4nstra",
+      "url": "https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "Blinka lilla stj\u00e4rna",
-        "url": "https://open.spotify.com/album/7ES7EtUdXvCp06E5RgW3t2"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 215871,
-      "name": "Blinka lilla stj\u00e4rna",
-      "url": "https://open.spotify.com/track/5HXuijWZHkCjEl6xsbLEY7"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "Sally/Hungry Eyes",
         "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 285520,
       "name": "Weak Point",
       "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "Blinka lilla stj\u00e4rna",
+        "url": "https://open.spotify.com/album/7ES7EtUdXvCp06E5RgW3t2"
+      },
+      "artists": [
+        {
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
+        }
+      ],
+      "duration_ms": 215871,
+      "name": "Blinka lilla stj\u00e4rna",
+      "url": "https://open.spotify.com/track/5HXuijWZHkCjEl6xsbLEY7"
     }
   ],
   "unique_name": "Aktuellt",

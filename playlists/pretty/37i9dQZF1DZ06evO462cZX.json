@@ -1,29 +1,13 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 42482,
+  "num_followers": 42489,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAACNmYv5mOnpHD607nmuHOra",
+  "snapshot_id": "Z3XXAAAAAAAyN6qa4+3oQtifp857MjH7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Querido Santa Claus",
-        "url": "https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Querido Santa Claus",
-      "url": "https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn"
-    },
     {
       "added_at": null,
       "album": {
@@ -71,30 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Las Pongo",
-        "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 191353,
-      "name": "Yo Las Pongo",
-      "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailar (feat. Pitbull & Elvis Crespo)",
         "url": "https://open.spotify.com/album/22MgjjCdxCVkBuxqRi81gs"
       },
@@ -135,6 +95,30 @@
       "duration_ms": 167500,
       "name": "Savage",
       "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Las Pongo",
+        "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 191353,
+      "name": "Yo Las Pongo",
+      "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
     },
     {
       "added_at": null,
@@ -319,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00f3zalo (with Deorro)",
-        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "G\u00f3zalo (with Deorro)",
-      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mu\u00f1equita Linda",
         "url": "https://open.spotify.com/album/2ndIHUzRvnc6rLoSxFVfd3"
       },
@@ -363,6 +327,26 @@
       "duration_ms": 210524,
       "name": "Mu\u00f1equita Linda",
       "url": "https://open.spotify.com/track/3EFzexdYFIzbM2dusddMVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00f3zalo (with Deorro)",
+        "url": "https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "G\u00f3zalo (with Deorro)",
+      "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
     },
     {
       "added_at": null,
@@ -603,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando",
+        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 170189,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RBS",
         "url": "https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP"
       },
@@ -623,26 +627,6 @@
       "duration_ms": 173934,
       "name": "RBS",
       "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando",
-        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 170189,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn Out",
         "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
       },
@@ -763,22 +763,6 @@
       "duration_ms": 229411,
       "name": "Dime",
       "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -895,30 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakalaka (feat. Max Styler)",
-        "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
+        "name": "Se Agradece",
+        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Shakalaka (feat. Max Styler)",
-      "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
+      "duration_ms": 215963,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK"
     },
     {
       "added_at": null,
@@ -943,26 +923,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Agradece",
-        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+        "name": "Shakalaka (feat. Max Styler)",
+        "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 215963,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK"
+      "duration_ms": 176571,
+      "name": "Shakalaka (feat. Max Styler)",
+      "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
     },
     {
       "added_at": null,

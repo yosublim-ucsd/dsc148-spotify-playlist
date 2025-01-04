@@ -6735,6 +6735,24 @@
     },
     {
       "album": {
+        "name": "Sonorite",
+        "url": "https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8"
+      },
+      "artists": [
+        {
+          "name": "Teruyuki Nobuchika",
+          "url": "https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM"
+        }
+      ],
+      "date_added": "2024-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173826,
+      "name": "mou",
+      "url": "https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn"
+    },
+    {
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/70ZGqbv7G5Q81ZH40hcOF6"
       },
@@ -10188,7 +10206,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 184773,
       "name": "The Longest Goodbye",
       "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"

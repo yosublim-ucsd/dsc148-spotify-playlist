@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 165,
+  "num_followers": 171,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 212119,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 241146,
       "name": "Every Time I Hear That Song",
       "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11"
-      },
-      "artists": [
-        {
-          "name": "John Mark Nelson",
-          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
-        },
-        {
-          "name": "Sofia Mills",
-          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
-        }
-      ],
-      "duration_ms": 154124,
-      "name": "Perfect Stranger",
-      "url": "https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11"
+      },
+      "artists": [
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        },
+        {
+          "name": "Sofia Mills",
+          "url": "https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW"
+        }
+      ],
+      "duration_ms": 154124,
+      "name": "Perfect Stranger",
+      "url": "https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Save My Life (Radio Edit)",
-        "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Save My Life - Radio Edit",
-      "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Music Box",
         "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 265772,
       "name": "Music Box",
       "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Save My Life (Radio Edit)",
+        "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Save My Life - Radio Edit",
+      "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Fool For Waiting",
+        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Fool For Waiting",
+      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Open Your Heart",
         "url": "https://open.spotify.com/album/6XRsffXJqRWhRjTrymXmw2"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 190960,
       "name": "As a Child",
       "url": "https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Fool For Waiting",
-        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
-      },
-      "artists": [
-        {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Fool For Waiting",
-      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "In Plain Sight",
-        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 156802,
-      "name": "In Plain Sight",
-      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "More Like You",
         "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "In Plain Sight",
+        "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 156802,
+      "name": "In Plain Sight",
+      "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Lay It on Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 201561,
-      "name": "Lay It on Me - Acoustic",
-      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Colors (Acoustic)",
         "url": "https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 323008,
       "name": "Colors - Acoustic",
       "url": "https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Lay It on Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 201561,
+      "name": "Lay It on Me - Acoustic",
+      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Hating Game (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196606,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Madwoman",
         "url": "https://open.spotify.com/album/7hU37tFSRf8fYm9QABCXK4"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Over the Moon",
-        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
       "artists": [
         {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 256980,
-      "name": "Over the Moon",
-      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "You Look Like You Can't Swim",
-        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
+        "name": "Over the Moon",
+        "url": "https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 168086,
-      "name": "You Look Like You Can't Swim",
-      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
+      "duration_ms": 256980,
+      "name": "Over the Moon",
+      "url": "https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1555,22 +1539,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Funeral (feat. James Bay)",
-        "url": "https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr"
+        "name": "You Look Like You Can't Swim",
+        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 154013,
-      "name": "Funeral (feat. James Bay)",
-      "url": "https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx"
+      "duration_ms": 168086,
+      "name": "You Look Like You Can't Swim",
+      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1587,6 +1567,26 @@
       "duration_ms": 196200,
       "name": "The Bad Guy",
       "url": "https://open.spotify.com/track/2xGHrlMrQwqkxpfEvoMhIK"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Funeral (feat. James Bay)",
+        "url": "https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 154013,
+      "name": "Funeral (feat. James Bay)",
+      "url": "https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
         }
       ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     }
   ],
   "unique_name": "Chill Singer-Songwriter",

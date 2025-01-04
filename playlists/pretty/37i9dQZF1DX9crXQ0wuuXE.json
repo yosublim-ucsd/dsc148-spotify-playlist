@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 621513,
+  "num_followers": 621512,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Turtles All the Way Down",
-      "url": "https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "My Finest Work Yet",
         "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 247493,
       "name": "Sisyphus",
       "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Turtles All the Way Down",
+      "url": "https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Blacklisted",
         "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
       },
@@ -695,22 +679,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Way We Move",
-        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 168760,
-      "name": "The Way We Move",
-      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+      "duration_ms": 294000,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -735,6 +715,26 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "The Way We Move",
+        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "The Way We Move",
+      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 191000,
       "name": "Fingers To The Bone",
       "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "My Mother the Moon",
+        "url": "https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P"
+      },
+      "artists": [
+        {
+          "name": "Dead Horses",
+          "url": "https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Turntable",
+      "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -779,22 +795,6 @@
       "duration_ms": 269386,
       "name": "Cold Little Heart - Acoustic",
       "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "My Mother the Moon",
-        "url": "https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P"
-      },
-      "artists": [
-        {
-          "name": "Dead Horses",
-          "url": "https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Turntable",
-      "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 219213,
       "name": "Angel of Small Death and the Codeine Scene",
       "url": "https://open.spotify.com/track/7uY7jZs5srSx3xMmyCI48T"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Old World Romance",
-        "url": "https://open.spotify.com/album/35PDjoZa0FrKAmDo1coCyo"
-      },
-      "artists": [
-        {
-          "name": "Sea Wolf",
-          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Small Town Heroes",
         "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 153546,
       "name": "Blue Ridge Mountain",
       "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Old World Romance",
+        "url": "https://open.spotify.com/album/35PDjoZa0FrKAmDo1coCyo"
+      },
+      "artists": [
+        {
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "The Voyager",
+        "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Just One of the Guys",
+      "url": "https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Benjamin Booker",
         "url": "https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Voyager",
-        "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Just One of the Guys",
-      "url": "https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Come Back As Rain",
         "url": "https://open.spotify.com/album/0VTbqFF2pxCJopfms6um73"
       },
@@ -1479,22 +1479,6 @@
       "duration_ms": 226453,
       "name": "Amazing Eyes",
       "url": "https://open.spotify.com/track/3UGJdpJrWDp07V37Q5PNas"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Lost On The River",
-        "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
-      },
-      "artists": [
-        {
-          "name": "The New Basement Tapes",
-          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/4p4YWRwlMj6XFcHkOrAbG7"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1515,6 +1499,22 @@
       "duration_ms": 188213,
       "name": "Love Has Come For You",
       "url": "https://open.spotify.com/track/6TI4HKSi6GpMeq2vpkInSk"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Lost On The River",
+        "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/4p4YWRwlMj6XFcHkOrAbG7"
     },
     {
       "added_at": "2024-08-28 14:08:37",

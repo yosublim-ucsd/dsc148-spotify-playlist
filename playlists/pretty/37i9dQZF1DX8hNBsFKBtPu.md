@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 🖤 Drew Sycamore
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,760 likes - 147 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,757 likes - 147 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lonely Heat](https://open.spotify.com/track/2tKTgFfzIdGrByiAYjNXR1) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Lonely Heat](https://open.spotify.com/album/2jAZy4xV7QXhX7zD9DeTS2) | 3:10 |
 | 2 | [Kærlighed](https://open.spotify.com/track/3MIwXofeyDvXoYn7GQACCS) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Kærlighed](https://open.spotify.com/album/2U17zdpU7xUfWYDhfKzD2e) | 3:28 |
 | 3 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 |
-| 4 | [Du Ligner Din Mor](https://open.spotify.com/track/5wmH2yEMgerF4bGh87TQZA) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Du Ligner Din Mor](https://open.spotify.com/album/3F9tNqTRRrq7l5ZlLuGfL0) | 3:06 |
+| 4 | [Du ligner din mor](https://open.spotify.com/track/5wmH2yEMgerF4bGh87TQZA) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Du ligner din mor](https://open.spotify.com/album/3F9tNqTRRrq7l5ZlLuGfL0) | 3:06 |
 | 5 | [Nøgen](https://open.spotify.com/track/5gK8xceSADPn3qbdrYGlIM) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Nøgen](https://open.spotify.com/album/0GQD2M2mXTXSE5YSEnKOOA) | 2:57 |
 | 6 | [Lonely \(feat\. Artigeardit\)](https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Lonely \(feat\. Artigeardit\)](https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb) | 3:16 |
 | 7 | [Olinda](https://open.spotify.com/track/2AxLnOCVztkn6aNOkfhiak) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Olinda](https://open.spotify.com/album/2HYKw4TpRu6io8e64cPpdy) | 2:38 |

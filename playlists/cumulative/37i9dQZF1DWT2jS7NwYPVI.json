@@ -24325,6 +24325,24 @@
     },
     {
       "album": {
+        "name": "Is Anybody Home",
+        "url": "https://open.spotify.com/album/4JrrPJbWyhzP8uO1qjis9D"
+      },
+      "artists": [
+        {
+          "name": "Public Theatre",
+          "url": "https://open.spotify.com/artist/4wGKHMISYQOx8QaxCS1U1M"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Is Anybody Home",
+      "url": "https://open.spotify.com/track/22BOOTyp8eVzstu7csItIH"
+    },
+    {
+      "album": {
         "name": "is it too late?",
         "url": "https://open.spotify.com/album/45hjkRFUziCz2LKSNw8i6g"
       },
@@ -28862,7 +28880,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 192106,
       "name": "Love Songs (feat. L.A. Exes)",
       "url": "https://open.spotify.com/track/3yrjVmFHxf3773eHr9Y9kY"
@@ -29408,7 +29426,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 246798,
       "name": "Machines",
       "url": "https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL"
@@ -40470,7 +40488,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 269800,
       "name": "Scream from New York, NY",
       "url": "https://open.spotify.com/track/1i1vCpXh3BFkHkTLnq7Lof"
@@ -44857,6 +44875,24 @@
     },
     {
       "album": {
+        "name": "Streets",
+        "url": "https://open.spotify.com/album/2cATRaHOhNPtMcJCcqKwTL"
+      },
+      "artists": [
+        {
+          "name": "Brent de la Cruz",
+          "url": "https://open.spotify.com/artist/6K3z7wWXjNRKFyTnMtKQbD"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113466,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/0njcOnyXH6Gp28NSnrSu1x"
+    },
+    {
+      "album": {
         "name": "Streetwise",
         "url": "https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv"
       },
@@ -45990,6 +46026,24 @@
       "duration_ms": 167996,
       "name": "Takes One To Know One",
       "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
+    },
+    {
+      "album": {
+        "name": "Taking Inventory Of A Frozen Lake",
+        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257084,
+      "name": "Taking Inventory Of A Frozen Lake",
+      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
     },
     {
       "album": {

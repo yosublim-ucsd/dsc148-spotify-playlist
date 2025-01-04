@@ -1,13 +1,37 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: GloRilla)",
-  "num_followers": 447379,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Lil Baby)",
+  "num_followers": 447404,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3bGJAAAAACgDz2kqEiaVzxWACOWqTqX",
+  "snapshot_id": "Z3dc9wAAAADHw25bCDv7d1MtG0624tJ9",
   "tracks": [
+    {
+      "added_at": "2025-01-02 17:00:20",
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
+    },
     {
       "added_at": "2024-12-27 03:36:31",
       "album": {

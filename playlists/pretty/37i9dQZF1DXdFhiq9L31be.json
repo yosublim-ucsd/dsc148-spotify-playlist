@@ -1,6 +1,6 @@
 {
   "description": "Stripped back recordings like nothing you\u2019ve heard before.  Cover: FINNEAS. ",
-  "num_followers": 167302,
+  "num_followers": 167319,
   "original_name": "Spotify Singles: Stripped",
   "owner": {
     "name": "Spotify",
@@ -476,22 +476,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
       "artists": [
@@ -503,6 +487,22 @@
       "duration_ms": 169226,
       "name": "Get Here - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -620,22 +620,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "I'm Goin' Down - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
       "artists": [
@@ -663,6 +647,22 @@
       "duration_ms": 221361,
       "name": "Let Me Love You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "I'm Goin' Down - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
     },
     {
       "added_at": "2023-11-07 19:09:25",
@@ -756,22 +756,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
       },
       "artists": [
@@ -783,6 +767,22 @@
       "duration_ms": 271825,
       "name": "Light On - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -852,6 +852,22 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 255126,
+      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
       },
       "artists": [
@@ -879,22 +895,6 @@
       "duration_ms": 215882,
       "name": "I Don't Wanna Know - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4dMvtp8p5mzCCaA18dgzQy"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 255126,
-      "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1028,22 +1028,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 204150,
-      "name": "Wish I Didn't Miss You - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
       },
       "artists": [
@@ -1055,6 +1039,22 @@
       "duration_ms": 226957,
       "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 204150,
+      "name": "Wish I Didn't Miss You - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/3MBQiGSAdV3tHlAAHsajvE"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1388,22 +1388,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 311320,
-      "name": "This Life - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL"
       },
       "artists": [
@@ -1424,6 +1408,22 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 311320,
+      "name": "This Life - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj"
       },
       "artists": [
@@ -1435,22 +1435,6 @@
       "duration_ms": 163386,
       "name": "Shout Out to My Ex - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 268207,
-      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -1483,6 +1467,22 @@
       "duration_ms": 211879,
       "name": "Normal - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 268207,
+      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
     },
     {
       "added_at": "2023-01-11 22:26:00",

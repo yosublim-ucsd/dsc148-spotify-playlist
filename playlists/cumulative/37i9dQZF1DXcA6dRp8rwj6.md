@@ -2,9 +2,9 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\. \(Cover: GloRilla\)
+> The hottest Hip\-Hop of today all over the world\. \(Cover: Lil Baby\)
 
-2,528 songs - 5 day 8 hr 1 min
+2,529 songs - 5 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Drunk All Night](https://open.spotify.com/track/4xcJHWlE3KpIz32UCVuYJs) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Drunk All Night](https://open.spotify.com/album/08iHuEBeXsCKZqGUW0ksAJ) | 2:57 | 2022-07-07 | 2022-07-29 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-06 | 2022-07-29 |
 | [Duality](https://open.spotify.com/track/2nYUSaJWDsHWBRJnaanEtX) | [Big Sproxx](https://open.spotify.com/artist/1VbTgItwxUwsq1UMMhDzwb), [Planet Asia](https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo), [The Legend Adam Bomb](https://open.spotify.com/artist/68JHSowx4ruM9EOTnaKjei), [Dj Grouch](https://open.spotify.com/artist/6mIpjorojnsaBjfp4v4f78) | [Duality](https://open.spotify.com/album/5CRUgLsE5Ol3bqPGZl2H9X) | 2:56 | 2023-07-13 | 2023-08-11 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-02 |  |
 | [Dump On Em](https://open.spotify.com/track/5mMW1V1GTn7Vygkjfw2PZz) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [MC Ren](https://open.spotify.com/artist/4fbyGOEjViyE97W58eGEgU) | [Dump On Em](https://open.spotify.com/album/7gOlcEabtQvzoSyOXtjqQ5) | 3:36 | 2023-08-10 | 2023-09-22 |
 | [DunnHill \(feat\. Rick Ross\)](https://open.spotify.com/track/3Hwc9uyLKCu0aCKmpE6Gm9) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 3:59 | 2023-10-19 | 2023-12-09 |
 | [Dust On Roads \(with Jazz Cartier\)](https://open.spotify.com/track/4u9D4d58zDUPUxCD1fEVNU) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Dust On Roads \(with Jazz Cartier\)](https://open.spotify.com/album/0yZvbdHNW867yIeABhvSbL) | 2:50 | 2023-04-27 | 2023-06-09 |

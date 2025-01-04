@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 6857,
+  "num_followers": 6864,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAACrTU6wlaAzy0ob8LQRExo3",
+  "snapshot_id": "Z3XXAAAAAAA3isl9aJenAqBmY75m1YOB",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
+        "name": "Viene Diciembre",
+        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 219939,
-      "name": "Duele Saber",
-      "url": "https://open.spotify.com/track/608OACwyp4GJodMOxdEMsF"
+      "duration_ms": 186394,
+      "name": "Viene Diciembre",
+      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
       "duration_ms": 223874,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viene Diciembre",
-        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 186394,
-      "name": "Viene Diciembre",
-      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
     },
     {
       "added_at": null,
@@ -640,29 +624,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 185383,
-      "name": "Pleito Con Cupido",
-      "url": "https://open.spotify.com/track/7zpwPasI1qZQnU5R1jvjlY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Ama Sin Temor",
-        "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Sin Mi Sufre",
-      "url": "https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL"
+      "duration_ms": 219939,
+      "name": "Duele Saber",
+      "url": "https://open.spotify.com/track/608OACwyp4GJodMOxdEMsF"
     },
     {
       "added_at": null,
@@ -683,6 +647,26 @@
       "duration_ms": 233250,
       "name": "Dile",
       "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Ama Sin Temor",
+        "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Sin Mi Sufre",
+      "url": "https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL"
     },
     {
       "added_at": null,
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 132857,
-      "name": "Tesec",
-      "url": "https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB"
+      "duration_ms": 185383,
+      "name": "Pleito Con Cupido",
+      "url": "https://open.spotify.com/track/7zpwPasI1qZQnU5R1jvjlY"
     },
     {
       "added_at": null,
@@ -731,22 +715,6 @@
       "duration_ms": 212453,
       "name": "Fue Mi Culpa",
       "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Capuchino",
-        "url": "https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 204799,
-      "name": "Capuchino",
-      "url": "https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq"
     },
     {
       "added_at": null,
@@ -771,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Capuchino",
+        "url": "https://open.spotify.com/album/49KzaISNOQeZb7YvYASydw"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 204799,
+      "name": "Capuchino",
+      "url": "https://open.spotify.com/track/0bvE1KpvXwPTieXLaBgVaq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Atrapado",
-      "url": "https://open.spotify.com/track/4g3twQI9tA1J3e5AL964a1"
+      "duration_ms": 132857,
+      "name": "Tesec",
+      "url": "https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Atrapado",
+      "url": "https://open.spotify.com/track/4g3twQI9tA1J3e5AL964a1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otra Ronda",
         "url": "https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acceso",
-        "url": "https://open.spotify.com/album/67mqwsxgs23jexSjaNAYBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 254827,
-      "name": "Acceso",
-      "url": "https://open.spotify.com/track/3toEJfSF3cXATcc7EfloDB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 164000,
       "name": "Me Enamoras",
       "url": "https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acceso",
+        "url": "https://open.spotify.com/album/67mqwsxgs23jexSjaNAYBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 254827,
+      "name": "Acceso",
+      "url": "https://open.spotify.com/track/3toEJfSF3cXATcc7EfloDB"
     },
     {
       "added_at": null,

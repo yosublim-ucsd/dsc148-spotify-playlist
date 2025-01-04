@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-475 songs - 1 day 6 hr 16 min
+476 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [California Stars](https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw) | 4:58 | 2022-09-10 | 2022-09-15 |
 | [CALL ME BACK !](https://open.spotify.com/track/09qHcxlOC3GxBagxwUuP2P) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [CALL ME BACK !](https://open.spotify.com/album/43c0QKjFYlOebt7850XJKt) | 2:38 | 2024-06-21 | 2024-08-17 |
 | [Canadian Summer](https://open.spotify.com/track/5pwu3nQkMm0Ne4CpxBgHFp) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Canadian Summer](https://open.spotify.com/album/6b6xjfc3o91BfZaylRA9dS) | 3:24 | 2022-09-10 | 2022-09-15 |
+| [Capital C](https://open.spotify.com/track/63uu2Px8EBJ3P4wBidbqZy) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Capital C](https://open.spotify.com/album/7jPTQfu31KK6ENmcixwt3c) | 4:19 | 2025-01-03 |  |
 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 | 2024-04-19 |  |
 | [Carefree Highway](https://open.spotify.com/track/59EupkPF0AA5nu0qDo5FlK) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:42 | 2023-10-06 | 2023-10-14 |
 | [Closer To The Heart](https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [A Farewell To Kings](https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2) | 2:51 | 2022-05-02 | 2023-05-19 |
@@ -151,7 +152,7 @@
 | [Go Find Yourself or Whatever](https://open.spotify.com/track/0nrKz8Ez1mQ1wiv1oqc7Ld) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 4:44 | 2023-06-28 | 2023-08-26 |
 | [Go For Soda](https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [Akimbo Alogo](https://open.spotify.com/album/3O03q0mEZ2VshJ4EmpkgTO) | 3:25 | 2022-05-02 | 2023-05-19 |
 | [Going To The Country](https://open.spotify.com/track/3pIxCIsY1jXvZjo6ScppbC) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Bruce Cockburn](https://open.spotify.com/album/5sK56FzeYTkZntNQtxLPt2) | 3:16 | 2022-09-10 | 2022-09-15 |
-| [Good Guy](https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Good Guy](https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk) | 2:32 | 2024-07-19 | 2024-12-26 |
+| [Good Guy](https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Good Guy](https://open.spotify.com/album/1phgcwEQmHmFEg2mf5r1wk) | 2:32 | 2024-07-19 |  |
 | [Gypsy](https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 4:24 | 2024-04-19 |  |
 | [Hand in My Pocket](https://open.spotify.com/track/78kkknD87Eor8RDGY9Gyuv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:39 | 2022-05-02 | 2024-04-19 |
 | [Hard Ground](https://open.spotify.com/track/3dTN5Z69GkKKhlkkIHG9wh) | [Leela Gilday](https://open.spotify.com/artist/0nSstpr48Xb3fVs5AZHOLN) | [Hard Ground](https://open.spotify.com/album/5Iohm4tA6T2w7tOhuTSjEe) | 3:31 | 2022-05-02 | 2022-07-12 |
@@ -361,7 +362,7 @@
 | [Someday](https://open.spotify.com/track/3dP6JMPtcDU5njCHITwJmO) | [Glass Tiger](https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv) | [The Thin Red Line \(Deluxe\)](https://open.spotify.com/album/6kpcZGUWKsAtrWv7EYCLbV) | 3:37 | 2022-09-13 | 2023-03-27 |
 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 | 2022-05-02 | 2024-04-19 |
 | [Someone Who's Cool](https://open.spotify.com/track/1g8ubxSaVpjtPm90fE77oz) | [Odds](https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp), [Mixed by Steven Drake with other Odds](https://open.spotify.com/artist/5HS2kOCWsYhB2BxDM9k0iH) | [Nest](https://open.spotify.com/album/3bosHaEpGeWKUMTwAtVKUU) | 3:17 | 2022-05-02 | 2022-07-29 |
-| [something ! anything !](https://open.spotify.com/track/3iMHZ8Fb0yoVvv50eR6pub) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [something ! anything !](https://open.spotify.com/album/50d0vnaOLkiOyrDeQRpWuw) | 2:55 | 2024-08-23 |  |
+| [something ! anything !](https://open.spotify.com/track/3iMHZ8Fb0yoVvv50eR6pub) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [something ! anything !](https://open.spotify.com/album/50d0vnaOLkiOyrDeQRpWuw) | 2:55 | 2024-08-23 | 2025-01-04 |
 | [Something In The Air](https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD) | [Thunderclap Newman](https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF) | [Hollywood Dream \(Expanded Edition\)](https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87) | 3:54 | 2024-04-19 |  |
 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 | 2024-06-28 |  |
 | [Sour Patch](https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Sour Patch](https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO) | 3:21 | 2024-05-03 | 2024-06-01 |
@@ -442,7 +443,7 @@
 | [Used To Be Alright](https://open.spotify.com/track/28OXBKOTUbO90C5Pb8rs3U) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Scenery & Fish](https://open.spotify.com/album/2ghGUuQNwMOVl5HNIPSKeU) | 5:27 | 2022-05-02 | 2022-07-29 |
 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 | 2024-04-19 |  |
 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 | 2022-09-10 |  |
-| [W.O.W.Y.](https://open.spotify.com/track/0cPe1dk3g5AiNXmZ122sSF) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [W.O.W.Y.](https://open.spotify.com/album/2fc71wTzm1Ddun26yslWG1) | 3:17 | 2024-08-23 |  |
+| [W.O.W.Y.](https://open.spotify.com/track/0cPe1dk3g5AiNXmZ122sSF) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [W.O.W.Y.](https://open.spotify.com/album/2fc71wTzm1Ddun26yslWG1) | 3:17 | 2024-08-23 | 2025-01-04 |
 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 | 2022-09-10 | 2022-09-15 |
 | [Walls Fall Down](https://open.spotify.com/track/5usjfPpql6LIYsGXkptHdd) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Street Gospels](https://open.spotify.com/album/0IWTeegOAps8fVWRYQaCCy) | 2:31 | 2022-05-02 | 2022-07-17 |
 | [Want What You Got](https://open.spotify.com/track/7wBWg3hTj2MUFe02GhMBkA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [The Professional](https://open.spotify.com/album/4pQU5z5Y0CT1aR0AW6QDDL) | 4:28 | 2022-05-02 | 2022-07-22 |

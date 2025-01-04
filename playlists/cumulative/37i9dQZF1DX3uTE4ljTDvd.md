@@ -4,7 +4,7 @@
 
 > Ouça e conheça as revelações da música gospel\. Foto: Sophia Vitória, Fabiana Sinfrônio
 
-81 songs - 6 hr 47 min
+82 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Graça](https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Graça](https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47) | 5:41 | 2022-12-09 |  |
 | [Graça](https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3) | [Tamara Pyller](https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO) | [Graça](https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14) | 4:11 | 2022-12-09 |  |
 | [Incomparável](https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Incomparável](https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0) | 5:00 | 2022-12-09 |  |
-| [Lindo Céu](https://open.spotify.com/track/517cuSCNhViPNMxfQs479R) | [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Lindo Céu](https://open.spotify.com/album/5xFCZ2oMUWV1EgBLw0uDBe) | 3:56 | 2024-09-20 |  |
+| [Lindo Céu](https://open.spotify.com/track/517cuSCNhViPNMxfQs479R) | [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Lindo Céu](https://open.spotify.com/album/5xFCZ2oMUWV1EgBLw0uDBe) | 3:56 | 2024-09-20 | 2025-01-04 |
 | [Majestade](https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Abra os Céus](https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb) | 6:10 | 2022-12-09 |  |
 | [Me Mostra Tua Face](https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2) | [RL Worship](https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU) | [Me Mostra Tua Face](https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx) | 6:24 | 2022-12-09 |  |
 | [Mesmo Sem Entender](https://open.spotify.com/track/6ON8ubFyGwaiK4dPonIwp3) | [Milena Pina](https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt) | [Mesmo Sem Entender](https://open.spotify.com/album/1i98qmueiAcvmlpTWUvgQR) | 3:24 | 2023-12-21 | 2024-08-31 |
@@ -59,6 +59,7 @@
 | [Não Temo Ondas \- Ao Vivo](https://open.spotify.com/track/6Q9QRqD40yE9jn0iRRg5qX) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG) | [Tua Presença Vale Mais \(Ao Vivo\)](https://open.spotify.com/album/4vUCJMvYEyDx8Osu1I6W49) | 7:41 | 2022-12-09 | 2024-04-19 |
 | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o) | 4:17 | 2024-10-11 |  |
 | [O Teu Poder \(Creio em Ti\)](https://open.spotify.com/track/7wpguZT8WHrxVimzWfEusv) | [Alex Silva](https://open.spotify.com/artist/72qyJQtv9lGSNCSMqRJ35H), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [O Teu Poder \(Creio em Ti\)](https://open.spotify.com/album/3gUFySRFOAKWn5VfZ9dvAI) | 4:01 | 2022-12-09 |  |
+| [Passos](https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw) | [Alma Soul](https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu), [Eduardo Bessa](https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr) | [Passos](https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc) | 3:34 | 2025-01-03 |  |
 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 | 2022-12-09 |  |
 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 | 2024-08-09 |  |
 | [Pode Dormir Tranquilo](https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pode Dormir Tranquilo](https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj) | 4:48 | 2022-12-09 | 2024-09-21 |

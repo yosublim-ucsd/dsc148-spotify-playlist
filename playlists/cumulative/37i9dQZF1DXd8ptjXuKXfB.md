@@ -4,7 +4,7 @@
 
 > Cool és trendi dalok Magyarországon.
 
-215 songs - 10 hr 41 min
+216 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 |  |
 | [Gengszter Barbie](https://open.spotify.com/track/58zSpgiDOQEwMbWiWfJFkA) | [G.w.M](https://open.spotify.com/artist/51o7b8jVB4q5U9qy41aYwJ) | [Gengszter Barbie](https://open.spotify.com/album/65CIplUNdowJ9GDjXIPk4o) | 3:09 | 2024-09-23 | 2024-10-01 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-01 |  |
+| [Gurulgatok](https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Gurulgatok](https://open.spotify.com/album/4MXiWo5vhU1I3N9k72bu7F) | 2:27 | 2024-12-31 |  |
 | [Gyere kicsi lány](https://open.spotify.com/track/651aSNu4lxHIGvIFjaxXeI) | [Zsüli](https://open.spotify.com/artist/0ZMUlWo7AKLMfvtOUOPb4f), [Gitano](https://open.spotify.com/artist/7jlPywWNhQOEIBd5ARyfs2) | [Gyere kicsi lány](https://open.spotify.com/album/65Scl8fGFd3Br3T4UIx4eb) | 2:51 | 2024-10-14 | 2024-10-22 |
 | [Gyere Kislány](https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Gyere Kislány](https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX) | 3:36 | 2024-09-16 |  |
 | [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 | 2024-07-01 |  |
@@ -98,7 +99,7 @@
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2024-07-01 | 2025-01-01 |
 | [joker a pakliban](https://open.spotify.com/track/4jcyeWrkXGmagcKYTPjWor) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [joker a pakliban](https://open.spotify.com/album/126IaY2oCMwj8iZhU0xAHH) | 3:03 | 2024-11-04 | 2024-11-12 |
 | [Jégszívű lány](https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:34 | 2024-12-16 |  |
-| [Jézus kérlek hívjál fel](https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ) | [Zakeus](https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B) | [Jézus kérlek hívjál fel](https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI) | 2:40 | 2024-10-07 |  |
+| [Jézus kérlek hívjál fel](https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ) | [Zakeus](https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B) | [Jézus kérlek hívjál fel](https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI) | 2:40 | 2024-10-07 | 2025-01-04 |
 | [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 | 2024-07-01 | 2024-12-04 |
 | [Karma](https://open.spotify.com/track/3rgG3IkojZxKQjoh0wdt6X) | [G.w.M](https://open.spotify.com/artist/51o7b8jVB4q5U9qy41aYwJ) | [Karma](https://open.spotify.com/album/07w83KDm2O8F8Kt93m9gzv) | 3:32 | 2024-08-06 | 2024-08-13 |
 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 | 2024-07-01 | 2024-09-03 |

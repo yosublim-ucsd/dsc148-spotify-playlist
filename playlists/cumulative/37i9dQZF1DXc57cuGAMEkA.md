@@ -2,9 +2,9 @@
 
 ### [New Music Friday Japan](https://open.spotify.com/playlist/37i9dQZF1DXc57cuGAMEkA)
 
-> 洋楽を中心に今週の新曲をチェック。マカロニえんぴつ, Little Simz, Morgan Wallen and more!
+> 洋楽を中心に今週の新曲をチェック。Lil Baby, マカロニえんぴつ, Little Simz, Morgan Wallen and more! cover: Lil Baby
 
-7,968 songs - 18 day 14 hr 3 min
+7,970 songs - 18 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4784,6 +4784,7 @@
 | [Out Of The Shadows \- From "Until Dawn"](https://open.spotify.com/track/72IZ0ZK5KyNpsVQwwn19ss) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Out Of The Shadows \(From "Until Dawn"\)](https://open.spotify.com/album/3FQ5yhgiGY6Ruhg6rUpqe2) | 2:40 | 2024-10-17 | 2024-10-25 |
 | [Out of Time \(feat\. Bea Miller\)](https://open.spotify.com/track/10t8QGZXfGCeAnEWSaWymM) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Out of Time \(feat\. Bea Miller\)](https://open.spotify.com/album/3bYjmOOhtkMfjqfKdvhCjm) | 3:42 | 2024-06-21 | 2024-06-28 |
 | [Out On The Road \- Mondo Version](https://open.spotify.com/track/5z0daVvIb5wQPah406Qary) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Out On The Road \(Mondo Version\) / Killing Time](https://open.spotify.com/album/44nAEdUO461W9vyJjofPbU) | 3:22 | 2023-05-04 | 2023-05-12 |
+| [Outfit \(with 21 Savage\)](https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:57 | 2025-01-03 |  |
 | [Outlook Feat\. さなり](https://open.spotify.com/track/1RRG80wMzC3B4NpsCD6EEk) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP), [SANARI](https://open.spotify.com/artist/16E27V4q0TPZXIriwMYTWV) | [Outlook Feat\. さなり](https://open.spotify.com/album/0WEfpK8qp14S7nBZEiqNvo) | 2:54 | 2023-01-29 | 2023-02-03 |
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-08 | 2023-12-15 |
 | [Outside \(Soto\)](https://open.spotify.com/track/3qFGKudbda5dTtblhOvlXh) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 3:26 | 2024-07-26 | 2024-08-02 |
@@ -7262,6 +7263,7 @@
 | [You Ain't The Only One](https://open.spotify.com/track/2PYmLWYQKcyiDoduL1ewVO) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [You Ain't The Only One](https://open.spotify.com/album/2exj3QEbmM141MCEpjFb1q) | 2:48 | 2024-10-17 | 2024-10-25 |
 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 | 2024-09-12 | 2024-09-20 |
 | [You and I](https://open.spotify.com/track/1aVgW7yEcfzVL3Y82mbwsu) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Smithsoneon](https://open.spotify.com/artist/2jQda3HMB8jz71liefcP9g) | [銀平町シネマブルース オリジナルサウンドトラック](https://open.spotify.com/album/7n4rZizWt86V6jDkDdVXUD) | 3:26 | 2023-02-09 | 2023-02-17 |
+| [You and your eyes](https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [You and your eyes](https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ) | 2:36 | 2025-01-03 |  |
 | [You Are Mine](https://open.spotify.com/track/0TYPszN362vVEkPGB4ON37) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [AIRERA](https://open.spotify.com/album/731UNRWFj2wcHp5TftjS2C) | 3:43 | 2024-06-21 | 2024-06-28 |
 | [You Are My Sunshine](https://open.spotify.com/track/6U7bZHxBnQg3Tbw1s606St) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [You Are My Sunshine](https://open.spotify.com/album/1Tj9p3cM9pvTn0j7hlUOqz) | 1:50 | 2025-01-02 |  |
 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-11-17 | 2023-12-09 |

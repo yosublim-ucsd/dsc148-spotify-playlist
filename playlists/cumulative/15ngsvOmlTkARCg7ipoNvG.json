@@ -11637,6 +11637,24 @@
     },
     {
       "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/75WpOAkddPAgJch33JH5XJ"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60638,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/09uQF9RWUllpPDiF4Upgsa"
+    },
+    {
+      "album": {
         "name": "Ethereal Presence",
         "url": "https://open.spotify.com/album/28yGYpPzxYD1uN1cLKYxqL"
       },
@@ -24190,6 +24208,24 @@
       "duration_ms": 61930,
       "name": "River Dreaming Again",
       "url": "https://open.spotify.com/track/1jumcuQob1Gj4zziQpYvDM"
+    },
+    {
+      "album": {
+        "name": "Riverbank",
+        "url": "https://open.spotify.com/album/0QZ3N49jEk7A09ybz5iW6n"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60297,
+      "name": "Riverbank",
+      "url": "https://open.spotify.com/track/3FmcR0kCYJWxTpgaUOnTsQ"
     },
     {
       "album": {

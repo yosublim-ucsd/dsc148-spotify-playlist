@@ -93,7 +93,7 @@
 | [inner room healing](https://open.spotify.com/track/09DzwPpPRylxmmoldKNCiC) | [Julien Abbadie](https://open.spotify.com/artist/4VzZQ0uOnKgLowRSZvNcrW) | [inner room healing](https://open.spotify.com/album/2KIBDGOVELhfy2rMnjwqO8) | 2:52 | 2024-10-01 |  |
 | [Inner Universe](https://open.spotify.com/track/0pVsJoZUEO92yJrRmCb6Fe) | [Aurora Season](https://open.spotify.com/artist/6XEW2LnRmQUNPfTajKwImZ) | [Inner Universe](https://open.spotify.com/album/6J0yt0cvJfJxtsEPfe1DFh) | 2:52 | 2024-03-01 |  |
 | [Jours Heureux](https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Jours Heureux](https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ) | 1:49 | 2023-03-03 | 2023-11-19 |
-| [Juncture](https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Juncture](https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8) | 2:22 | 2023-03-03 | 2024-05-02 |
+| [Juncture](https://open.spotify.com/track/5kBWSTxxpQHjh2p49YM4xq) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Juncture](https://open.spotify.com/album/7sRgPqeByeoKnByrxzz5l8) | 2:22 | 2023-03-03 |  |
 | [Lazy Lanta](https://open.spotify.com/track/7BXS7Tp5wZZdkahdfPcHvU) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Lazy Lanta](https://open.spotify.com/album/49XdeD0HhnXEMTB1MvtsMi) | 3:30 | 2024-03-01 |  |
 | [Light Of Day](https://open.spotify.com/track/1UoNLlJ3FAWznkO3huAvuh) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Light Of Day](https://open.spotify.com/album/129PEfz7ICa9PzjLfE0lo8) | 2:49 | 2024-04-01 |  |
 | [Lights & Dust](https://open.spotify.com/track/21uooqLNsuCRtjZmTzOIpj) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Lights & Dust](https://open.spotify.com/album/0v7xw83LjYF3WrJo9M7OZD) | 2:46 | 2023-10-26 | 2024-06-04 |
@@ -190,6 +190,6 @@
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2024-03-01 |  |
 | [Winding Path](https://open.spotify.com/track/6QE5nRsDAFSfKC6rWUzhhE) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Winding Path](https://open.spotify.com/album/24V8iGqBrqvaJO4MFUjlgm) | 3:02 | 2024-11-22 |  |
 | [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 | 2023-03-03 |  |
-| [Wisdom in Waves](https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Wisdom in Waves](https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5) | 2:40 | 2024-08-23 |  |
+| [Wisdom in Waves](https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Wisdom in Waves](https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5) | 2:40 | 2024-08-23 | 2025-01-04 |
 
 \*This playlist was first scraped on 2023-04-03. Prior content cannot be recovered.

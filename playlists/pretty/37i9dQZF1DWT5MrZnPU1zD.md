@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,682,247 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,682,423 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 68 | [Taylor Port Junkie \(feat\. Lil Yachty\)](https://open.spotify.com/track/0bHfRPMnqoMmSpzZywlCmq) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:28 |
 | 69 | [Lady Killers III](https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Lady Killers III](https://open.spotify.com/album/3RCknpgHZcaBHdLSmXU2Cb) | 2:56 |
 | 70 | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh) | 2:33 |
-| 71 | [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 |
-| 72 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 |
+| 71 | [Cupid's Guidance](https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Cupid's Guidance](https://open.spotify.com/album/6HoW3xE09yZYMAt4v9UJD5) | 2:37 |
+| 72 | [Gangsta](https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Gangsta](https://open.spotify.com/album/1qz3r9Ys5UXaE0XToUU71b) | 3:14 |
 | 73 | [I Gotta](https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:53 |
 | 74 | [Bittersweet](https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bittersweet](https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY) | 3:11 |
 | 75 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 93 | [Deep End](https://open.spotify.com/track/4VX9BbRWlXlaB0J6DRpzOo) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/26XfVMxBavGaeQXzEA6Xu9) | 2:26 |
 | 94 | [TRYNA MAKE SURE](https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW) | 2:46 |
 | 95 | [Slide](https://open.spotify.com/track/00rMGQGXFeY2VQTrg7SWde) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Slide](https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU) | 2:29 |
-| 96 | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/track/3Ojk8AKbhBtEW0UrCCbAn7) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/album/7m5Ht2zoyNeDrQgJcOBHPr) | 4:03 |
+| 96 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 |
 | 97 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
-| 98 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 |
+| 98 | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/track/3Ojk8AKbhBtEW0UrCCbAn7) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [high3r \(feat\. Lil Yachty & Lil Wayne\)](https://open.spotify.com/album/7m5Ht2zoyNeDrQgJcOBHPr) | 4:03 |
 | 99 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 | 100 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
 

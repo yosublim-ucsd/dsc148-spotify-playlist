@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 72030,
+  "num_followers": 72038,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAADUxIc9YGxn6/29W4MYWcNP",
+  "snapshot_id": "Z3XXAAAAAAA98eMfGQ0uyBT97Q0JXoGL",
   "tracks": [
     {
       "added_at": null,
@@ -903,26 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv"
+        "name": "The Cheetah Girls 2",
+        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
       },
       "artists": [
         {
-          "name": "Motel",
-          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+          "name": "The Cheetah Girls",
+          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "MLKMN",
-          "url": "https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz"
         }
       ],
-      "duration_ms": 260017,
-      "name": "Sue\u00f1o de Ti",
-      "url": "https://open.spotify.com/track/0lLygnowX78lFphF2235qe"
+      "duration_ms": 246506,
+      "name": "Amigas Cheetahs",
+      "url": "https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b"
     },
     {
       "added_at": null,
@@ -943,22 +939,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cheetah Girls 2",
-        "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv"
       },
       "artists": [
         {
-          "name": "The Cheetah Girls",
-          "url": "https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY"
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "MLKMN",
+          "url": "https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Amigas Cheetahs",
-      "url": "https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b"
+      "duration_ms": 260017,
+      "name": "Sue\u00f1o de Ti",
+      "url": "https://open.spotify.com/track/0lLygnowX78lFphF2235qe"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 2",
-        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cheetah Girls 2",
         "url": "https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 192146,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym"
     },
     {
       "added_at": null,

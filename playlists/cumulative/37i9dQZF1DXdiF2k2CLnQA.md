@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-204 songs - 13 hr 16 min
+205 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-06-27 | 2024-10-25 |
 | [Born a Riot](https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb) | [DAKOO](https://open.spotify.com/artist/72343jDquF52drRGQa3xZV) | [Born a Riot](https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc) | 2:39 | 2024-06-27 | 2024-09-07 |
 | [Break My Lying Tongue](https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Break My Lying Tongue](https://open.spotify.com/album/6c98Sbfq18dN7DYxxLIOUs) | 3:50 | 2024-06-27 | 2024-09-20 |
+| [Bright Eyes](https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Bright Eyes](https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ) | 3:31 | 2025-01-03 |  |
 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-08 | 2024-09-07 |
 | [Burn It to the Ground](https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 3:32 | 2024-12-19 |  |
 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 | 2024-06-27 | 2024-08-30 |
@@ -50,7 +51,7 @@
 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 | 2024-06-27 | 2024-09-20 |
 | [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-13 | 2024-10-11 |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-06-27 | 2024-09-20 |
-| [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 |  |
+| [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 | 2025-01-04 |
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-08-08 | 2024-11-29 |
 | [Disciple](https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Disciple](https://open.spotify.com/album/0WtzjuX7m5DWs7JPr2mNdh) | 4:12 | 2024-06-27 | 2024-09-07 |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-06-27 | 2024-10-04 |

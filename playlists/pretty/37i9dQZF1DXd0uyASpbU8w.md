@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=QDyYcHxrQ0W9LLTI7OKr1A">Kabza De Small</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,551 likes - 59 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,998 likes - 59 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

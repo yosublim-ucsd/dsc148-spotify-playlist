@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 272887,
+  "num_followers": 272891,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/UgAAAAAu1+WJAgXyTCfgAERUvLAm",
+  "snapshot_id": "Z3guLQAAAABY1fHOfDhhA9q8kk+HCXsO",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC"
     },
     {
+      "added_at": "2025-01-03 05:00:25",
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK"
+    },
+    {
       "added_at": "2024-12-13 05:00:02",
       "album": {
         "name": "Fruit Punch",
@@ -59,6 +75,38 @@
       "duration_ms": 170200,
       "name": "Fruit Punch",
       "url": "https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx"
+    },
+    {
+      "added_at": "2025-01-03 18:36:29",
+      "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 162814,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
     },
     {
       "added_at": "2024-12-06 05:07:55",
@@ -143,22 +191,6 @@
       "duration_ms": 175428,
       "name": "Tokyo Drifting",
       "url": "https://open.spotify.com/track/1cCwjMNOWE35IZdQ5C0HDt"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Aquamarine",
-        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 162814,
-      "name": "Aquamarine",
-      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -519,22 +551,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "ODDS",
-        "url": "https://open.spotify.com/album/3tBmhNuRM1zTZqlFqhcZcf"
-      },
-      "artists": [
-        {
-          "name": "Dava",
-          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
-        }
-      ],
-      "duration_ms": 168071,
-      "name": "ODDS",
-      "url": "https://open.spotify.com/track/7cpTlJpt1WCe8Gj8wjFSoW"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 162407,
       "name": "Up At Night",
       "url": "https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/3cSIW5teNU9fIF4rAncyWb"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 253833,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/4nNjUrfMmKz8x367DDoSKR"
     },
     {
       "added_at": "2024-08-30 04:00:00",

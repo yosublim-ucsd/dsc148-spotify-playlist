@@ -4,7 +4,7 @@
 
 > 
 
-63 songs - 6 hr 34 min
+65 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 | 2024-12-23 |  |
 | [Aquarium](https://open.spotify.com/track/2P7hXvonMqOtdjYWOzoeV3) | [Casino Versus Japan](https://open.spotify.com/artist/5xMtVcziLHpIwD9iNWPOM6) | [Whole Numbers Play the Basics](https://open.spotify.com/album/5c1afbobfwhp9grytXdRal) | 4:59 | 2024-12-23 |  |
 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 | 2024-12-23 |  |
+| [Boatfriend](https://open.spotify.com/track/2o9gq1WwGKe80wds6Yn6Gh) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Falling Through a Field](https://open.spotify.com/album/0sUco7PNEiKc5pjx3IFQea) | 2:44 | 2025-01-03 |  |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2024-12-23 |  |
 | [Brise \(Breeze\)](https://open.spotify.com/track/4oWpYfF1ZyAdO7dGWrxoYM) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wie das Wispern des Windes \(Like the Whispering of the Wind\)](https://open.spotify.com/album/3mIyi9hApx6KzQlJRUF6Yr) | 2:52 | 2024-12-23 |  |
 | [Canned Forever](https://open.spotify.com/track/1TnsQQAqEl6AIUiGFTYOA3) | [Kettel & Secede](https://open.spotify.com/artist/0Mt6C04LWggBMCxFGHhCRg) | [When Can](https://open.spotify.com/album/2mANlKojd9iBsZTagng5sm) | 8:53 | 2024-12-22 |  |
@@ -41,6 +42,7 @@
 | [La caja de fotos y recuerdos](https://open.spotify.com/track/7fP2pq5foEUjMTFbA6B7ie) | [Federico Durand](https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW) | [Alba](https://open.spotify.com/album/4MNuU9m1QnbCgtSLhaMN7M) | 2:22 | 2024-12-23 |  |
 | [Lake Feet](https://open.spotify.com/track/3f29KBlVXjU5XS8PmRkIVx) | [The Seven Fields Of Aphelion](https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ) | [Periphery](https://open.spotify.com/album/4awtJRbmWdI7Ow8Ss0rKqK) | 3:28 | 2024-12-22 |  |
 | [Last Halloween](https://open.spotify.com/track/0hPB3ZqmoHJ3dfsZNqzsTO) | [Gemini Horror](https://open.spotify.com/artist/0z0aWfGyBRMAjqV3euHZ1f) | [The Nature of Resonance](https://open.spotify.com/album/4XdTsQp7YhNz408O7cqUDl) | 8:27 | 2024-12-23 |  |
+| [Letting Go](https://open.spotify.com/track/026TzS0EZlfYFnbIvPcxDy) | [Otto Benson](https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw) | [Songs Before Bed \(2022\)](https://open.spotify.com/album/7pnz4Fyzrk0dD1HMg3NILk) | 1:45 | 2025-01-03 |  |
 | [Lift](https://open.spotify.com/track/2K66v5bv0qg8V452vlZecx) | [Freescha](https://open.spotify.com/artist/0TZfDwCnRJr7CmqjLTxVBu) | [Freeschaland](https://open.spotify.com/album/5XBuC9G49gsEtPrTo2dcSM) | 7:55 | 2024-12-23 |  |
 | [Lluvia de estrellas](https://open.spotify.com/track/6sWDkTpxivmsjmBCMms1O2) | [Federico Durand](https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW) | [La Niña Junco](https://open.spotify.com/album/0GuhJnRErjBiJUYuo0nRZY) | 7:32 | 2024-12-23 |  |
 | [Migrations](https://open.spotify.com/track/3ZqjPbjmPUkqQv23ynIEim) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T), [Marcus Fischer](https://open.spotify.com/artist/65XXatfLe9qJ44dCxKH4u9) | [Lowlands](https://open.spotify.com/album/3Mh9oweGossTl08n8uUV7i) | 3:16 | 2024-12-23 |  |

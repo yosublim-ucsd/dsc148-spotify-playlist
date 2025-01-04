@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,664 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,674 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 24 | [The Same Parts](https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [The Same Parts](https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0) | 3:12 |
 | 25 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
 | 26 | [Excuse the Beauty](https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Excuse the Beauty](https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS) | 3:09 |
-| 27 | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Detox](https://open.spotify.com/artist/51Y484bYxxydKWYy8MDhqC), [Vicky Vox](https://open.spotify.com/artist/2PPQKCcQ2HDYrP41OSlh91) | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO) | 4:08 |
-| 28 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 |
+| 27 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 |
+| 28 | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Detox](https://open.spotify.com/artist/51Y484bYxxydKWYy8MDhqC), [Vicky Vox](https://open.spotify.com/artist/2PPQKCcQ2HDYrP41OSlh91) | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO) | 4:08 |
 | 29 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
 | 30 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
 | 31 | [My Hair Looks Fierce \- Original](https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW) | [Amanda Lepore](https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ) | [Introducing...Amanda Lepore](https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb) | 3:31 |

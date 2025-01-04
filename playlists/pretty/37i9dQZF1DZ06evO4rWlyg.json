@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 140470,
+  "num_followers": 140482,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3M0AAAAAADW8NmoUuSS+q7ikPTQ4XYJ",
+  "snapshot_id": "Z3XXAAAAAACa+hqwdQO+xYcRk6yCGxzJ",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oral",
-        "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 222737,
-      "name": "Oral",
-      "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play Dead",
         "url": "https://open.spotify.com/album/7204VGDwNIF4yKgUChWE2R"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 240040,
       "name": "Play Dead - Tim Simenon 7\" Remix",
       "url": "https://open.spotify.com/track/732341mjCR7zodzYa5IEQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oral",
+        "url": "https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 222737,
+      "name": "Oral",
+      "url": "https://open.spotify.com/track/3re91K41XNVsViNbCPumTw"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulnicura",
-        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 409320,
-      "name": "Stonemilker",
-      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bachelorette",
         "url": "https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 157426,
       "name": "Scary",
       "url": "https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vulnicura",
+        "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 409320,
+      "name": "Stonemilker",
+      "url": "https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9"
     },
     {
       "added_at": null,

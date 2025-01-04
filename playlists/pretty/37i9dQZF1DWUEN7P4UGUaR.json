@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 13313,
+  "num_followers": 13321,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-10-25 06:06:00",
       "album": {
+        "name": "Owawani",
+        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Owawani",
+      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
+    },
+    {
+      "added_at": "2024-10-25 06:06:00",
+      "album": {
         "name": "Ote Me Mu",
         "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 275551,
       "name": "Ote Me Mu",
       "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
-    },
-    {
-      "added_at": "2024-10-25 06:06:00",
-      "album": {
-        "name": "Owawani",
-        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Owawani",
-      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
     },
     {
       "added_at": "2024-10-25 06:06:00",

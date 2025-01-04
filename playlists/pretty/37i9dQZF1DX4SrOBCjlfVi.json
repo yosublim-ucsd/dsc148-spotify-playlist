@@ -1,13 +1,169 @@
 {
-  "description": "All the New Joints featuring Kodak Black,  Ice Spice, NLE Choppa and more!",
-  "num_followers": 306697,
+  "description": "All the New Joints featuring Lil Baby,  The Alchemist, BAK Jay and more!",
+  "num_followers": 307455,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z240fQAAAAD/9ahur24J5gFXGvW6ERRT",
+  "snapshot_id": "Z3du5AAAAAD2HGGd4kGz0MT99gv/vq+Q",
   "tracks": [
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
+    },
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "Floppy Disks",
+        "url": "https://open.spotify.com/album/1KWscxrKzDgwkFKwO6DqEE"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 120760,
+      "name": "Floppy Disks",
+      "url": "https://open.spotify.com/track/53nyIwxHPbQO6QEwhKYE7v"
+    },
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "Needed Them",
+        "url": "https://open.spotify.com/album/6OJ2SZ5MgthlikDDI2i7bK"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "duration_ms": 141026,
+      "name": "Needed Them",
+      "url": "https://open.spotify.com/track/6x2QOjQ5OdAmdtMlDHMYvK"
+    },
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "ALRIGHT OK",
+        "url": "https://open.spotify.com/album/3qgIiX5tMvks68Mc7MIhpW"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "ALRIGHT OK",
+      "url": "https://open.spotify.com/track/5sy1XZd8J7kwN14qUO6E2d"
+    },
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "Straight 2 It",
+        "url": "https://open.spotify.com/album/0crC5o0385xu2tRv4EMqEN"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Straight 2 It",
+      "url": "https://open.spotify.com/track/6PoEMojqfKaqAEKYApiSvl"
+    },
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "what3ver",
+        "url": "https://open.spotify.com/album/5hEcSnIt8esLenvAP1f2qv"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "duration_ms": 175757,
+      "name": "what3ver",
+      "url": "https://open.spotify.com/track/0Hp2r3xb1Th9ZEeuQGOGiS"
+    },
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "Murder During Drug Traffic",
+        "url": "https://open.spotify.com/album/0JaNSvyoolSl21bvZxL8G9"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "RichGains",
+          "url": "https://open.spotify.com/artist/2jmNddoRXuXqJgvaHASbNK"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Telephono",
+      "url": "https://open.spotify.com/track/4HGBmgdhZm2qePauePp4pf"
+    },
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "S3DUC3",
+        "url": "https://open.spotify.com/album/6FxsewprDXxY5CZqHrP4JG"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "duration_ms": 122616,
+      "name": "S3DUC3",
+      "url": "https://open.spotify.com/track/37On492KuYovJHIovTHRj4"
+    },
+    {
+      "added_at": "2025-01-03 05:00:20",
+      "album": {
+        "name": "Sorry I Been Ballin",
+        "url": "https://open.spotify.com/album/1hPtaTSspgHRv923Vv8Wlm"
+      },
+      "artists": [
+        {
+          "name": "Rx Papi",
+          "url": "https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "Sorry I Been Ballin",
+      "url": "https://open.spotify.com/track/3U1kG54822aVRS6MahXYn8"
+    },
     {
       "added_at": "2024-12-27 05:00:45",
       "album": {
@@ -575,34 +731,6 @@
     {
       "added_at": "2024-12-20 05:00:36",
       "album": {
-        "name": "Lights Out (feat. John Mackk & Lil Bean)",
-        "url": "https://open.spotify.com/album/0qACXOpD4MmGz6448C0CaI"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
-        },
-        {
-          "name": "John Mackk",
-          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
-        },
-        {
-          "name": "Lil Bean",
-          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
-        }
-      ],
-      "duration_ms": 125392,
-      "name": "Lights Out (feat. John Mackk & Lil Bean)",
-      "url": "https://open.spotify.com/track/6tlgzzsJ7Yzz5xrTRjtJG1"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
         "name": "First",
         "url": "https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj"
       },
@@ -687,22 +815,6 @@
     {
       "added_at": "2024-12-20 05:00:36",
       "album": {
-        "name": "It Gets Greater Later",
-        "url": "https://open.spotify.com/album/1cSMH8b7XWhQWGhbmuBsuF"
-      },
-      "artists": [
-        {
-          "name": "YoungThreat",
-          "url": "https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Dot",
-      "url": "https://open.spotify.com/track/2Ta8wQVBGR6lavrECnGEVv"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
         "name": "On Fleek",
         "url": "https://open.spotify.com/album/7EZVGHjXWWfhDZqI1S9i1p"
       },
@@ -727,42 +839,6 @@
     {
       "added_at": "2024-12-20 05:00:36",
       "album": {
-        "name": "F**k Me Back",
-        "url": "https://open.spotify.com/album/6jLmZvoEjQ1N7pGPXfsTw1"
-      },
-      "artists": [
-        {
-          "name": "Big Hit",
-          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
-        },
-        {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "F**k Me Back",
-      "url": "https://open.spotify.com/track/6riLnwJ0gg8sUqlrOt0SRp"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Caught Up in The Game",
-        "url": "https://open.spotify.com/album/6aLUjs9hV7p9J6TUaGQFC6"
-      },
-      "artists": [
-        {
-          "name": "Casey Veggies",
-          "url": "https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "Live it Up",
-      "url": "https://open.spotify.com/track/1bBWdhM0YLLDar5SDyd2om"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
         "name": "Gone 2024",
         "url": "https://open.spotify.com/album/4UbZP8wPSkIq3rG8E5qalB"
       },
@@ -775,26 +851,6 @@
       "duration_ms": 250886,
       "name": "Gone 2024",
       "url": "https://open.spotify.com/track/1M1Y6qa5bZfefCGJVXQYfP"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "DoonieVerse",
-        "url": "https://open.spotify.com/album/7vpSZirYCsgTAJ3IXCxAxE"
-      },
-      "artists": [
-        {
-          "name": "YN Jay",
-          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
-        },
-        {
-          "name": "Baby Smoove",
-          "url": "https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Kitty Cat",
-      "url": "https://open.spotify.com/track/1vh7S8LSe2Po3GBLVj5PnU"
     },
     {
       "added_at": "2024-12-20 05:00:36",
@@ -815,58 +871,6 @@
     {
       "added_at": "2024-12-20 05:00:36",
       "album": {
-        "name": "Mr. Maneuver",
-        "url": "https://open.spotify.com/album/5YqPZvNG59SukCPWxvqAGR"
-      },
-      "artists": [
-        {
-          "name": "M Row",
-          "url": "https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG"
-        }
-      ],
-      "duration_ms": 157118,
-      "name": "B Rahh Flow",
-      "url": "https://open.spotify.com/track/2zHRpXrw8MijAFklNB9BpI"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Ballin No NBA 3",
-        "url": "https://open.spotify.com/album/6SjFQLbFqCljijYu1QDu40"
-      },
-      "artists": [
-        {
-          "name": "Ballout",
-          "url": "https://open.spotify.com/artist/0VlR93v41JFZlo1tRAgy2A"
-        },
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Ballout Baby - feat. Chief Keef",
-      "url": "https://open.spotify.com/track/2MvfuroFAhfYhmGJauh3Bl"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Krime Payoff",
-        "url": "https://open.spotify.com/album/34ebihHX7wp3xuQV8SMGAB"
-      },
-      "artists": [
-        {
-          "name": "HavinMotion",
-          "url": "https://open.spotify.com/artist/4Gl9z6ofcOFmKePvJJkaEv"
-        }
-      ],
-      "duration_ms": 119256,
-      "name": "Krime Payoff",
-      "url": "https://open.spotify.com/track/25KxtmLWlMGsPAFgR8HhdE"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
         "name": "DELULU",
         "url": "https://open.spotify.com/album/0WqFR4hFwawhu35tLdcQdS"
       },
@@ -879,26 +883,6 @@
       "duration_ms": 133582,
       "name": "DELULU",
       "url": "https://open.spotify.com/track/5rY0Auy73dumyXnLoqZT6b"
-    },
-    {
-      "added_at": "2024-12-20 05:00:36",
-      "album": {
-        "name": "Ain't Going",
-        "url": "https://open.spotify.com/album/0wdod7KtZULcmviiChb7Yy"
-      },
-      "artists": [
-        {
-          "name": "Starlito",
-          "url": "https://open.spotify.com/artist/4SjND9kT6Ja5TSPZTyUUab"
-        },
-        {
-          "name": "Bandplay",
-          "url": "https://open.spotify.com/artist/001JSS0JKLX5cXFKrAElzy"
-        }
-      ],
-      "duration_ms": 188328,
-      "name": "Ain't Going",
-      "url": "https://open.spotify.com/track/2WyM3zLLcuz4fVZSJGDAhL"
     }
   ],
   "unique_name": "New Joints",

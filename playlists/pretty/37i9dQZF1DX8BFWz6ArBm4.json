@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ioulia Kalimani",
-  "num_followers": 32213,
+  "num_followers": 32261,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-12-19 22:00:27",
       "album": {
-        "name": "Ekptotos Aggelos",
-        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "duration_ms": 263015,
-      "name": "Ekptotos Aggelos",
-      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
-    },
-    {
-      "added_at": "2024-12-19 22:00:27",
-      "album": {
         "name": "Siko Kardia Mou",
         "url": "https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 177029,
       "name": "Siko Kardia Mou",
       "url": "https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC"
+    },
+    {
+      "added_at": "2024-12-19 22:00:27",
+      "album": {
+        "name": "Ekptotos Aggelos",
+        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 263015,
+      "name": "Ekptotos Aggelos",
+      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
     },
     {
       "added_at": "2024-12-19 22:00:27",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-12-19 22:00:27",
       "album": {
-        "name": "Psixi Me Psixi",
-        "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
+        "name": "Planitis Gi",
+        "url": "https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK"
       },
       "artists": [
         {
-          "name": "Giorgos Sabanis",
-          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+          "name": "Nikos Apergis",
+          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
         }
       ],
-      "duration_ms": 261117,
-      "name": "Psixi Me Psixi",
-      "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
+      "duration_ms": 247960,
+      "name": "Planitis Gi",
+      "url": "https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0"
     },
     {
       "added_at": "2024-12-19 22:00:27",
@@ -431,34 +431,34 @@
     {
       "added_at": "2024-12-19 22:00:27",
       "album": {
-        "name": "Psahno Na Vro",
-        "url": "https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo"
+        "name": "Savvato Vrady",
+        "url": "https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk"
       },
       "artists": [
         {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
         }
       ],
-      "duration_ms": 199166,
-      "name": "Psahno Na Vro",
-      "url": "https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT"
+      "duration_ms": 188067,
+      "name": "Savvato Vrady",
+      "url": "https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7"
     },
     {
       "added_at": "2024-12-19 22:00:27",
       "album": {
-        "name": "Planitis Gi",
-        "url": "https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK"
+        "name": "Psixi Me Psixi",
+        "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
       },
       "artists": [
         {
-          "name": "Nikos Apergis",
-          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
         }
       ],
-      "duration_ms": 247960,
-      "name": "Planitis Gi",
-      "url": "https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0"
+      "duration_ms": 261117,
+      "name": "Psixi Me Psixi",
+      "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
     },
     {
       "added_at": "2024-12-19 22:00:27",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-12-19 22:00:27",
       "album": {
-        "name": "Savvato Vrady",
-        "url": "https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk"
+        "name": "Psahno Na Vro",
+        "url": "https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo"
       },
       "artists": [
         {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
         }
       ],
-      "duration_ms": 188067,
-      "name": "Savvato Vrady",
-      "url": "https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7"
+      "duration_ms": 199166,
+      "name": "Psahno Na Vro",
+      "url": "https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT"
     },
     {
       "added_at": "2024-12-19 22:00:27",
@@ -507,6 +507,22 @@
       "duration_ms": 190231,
       "name": "S' Agapao Kai Den Pao Kala",
       "url": "https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf"
+    },
+    {
+      "added_at": "2024-12-19 22:00:27",
+      "album": {
+        "name": "Giati S' Emena",
+        "url": "https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "duration_ms": 198875,
+      "name": "Giati S' Emena",
+      "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
     },
     {
       "added_at": "2024-12-19 22:00:27",
@@ -531,22 +547,6 @@
     {
       "added_at": "2024-12-19 22:00:27",
       "album": {
-        "name": "Giati S' Emena",
-        "url": "https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw"
-      },
-      "artists": [
-        {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
-        }
-      ],
-      "duration_ms": 198875,
-      "name": "Giati S' Emena",
-      "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
-    },
-    {
-      "added_at": "2024-12-19 22:00:27",
-      "album": {
         "name": "7/7",
         "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 171704,
       "name": "7/7",
       "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
+    },
+    {
+      "added_at": "2024-12-19 22:00:27",
+      "album": {
+        "name": "Monaxia",
+        "url": "https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "duration_ms": 204090,
+      "name": "Monaxia",
+      "url": "https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2"
     },
     {
       "added_at": "2024-12-19 22:00:27",
@@ -595,22 +611,6 @@
       "duration_ms": 197378,
       "name": "24 Ores",
       "url": "https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX"
-    },
-    {
-      "added_at": "2024-12-19 22:00:27",
-      "album": {
-        "name": "Monaxia",
-        "url": "https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 204090,
-      "name": "Monaxia",
-      "url": "https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2"
     },
     {
       "added_at": "2024-12-19 22:00:27",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-12-19 22:00:27",
       "album": {
-        "name": "Odos Monaxias",
-        "url": "https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "duration_ms": 256862,
-      "name": "Odos Monaxias",
-      "url": "https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam"
-    },
-    {
-      "added_at": "2024-12-19 22:00:27",
-      "album": {
         "name": "Ypervoles",
         "url": "https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 167379,
       "name": "Ypervoles",
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
+    },
+    {
+      "added_at": "2024-12-19 22:00:27",
+      "album": {
+        "name": "Odos Monaxias",
+        "url": "https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 256862,
+      "name": "Odos Monaxias",
+      "url": "https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam"
     },
     {
       "added_at": "2024-12-19 22:00:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Kevin Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,000 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,007 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 75 | [Los Caminos de la Vida](https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Caminos de la Vida](https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA) | 3:48 |
 | 76 | [Solo por Hoy](https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Solo por Hoy](https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH) | 2:46 |
 | 77 | [El Pobre](https://open.spotify.com/track/70JWpuu0bC42tp0YTkHYpx) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [El Pobre](https://open.spotify.com/album/2o0YZTT6meWJQanPuE9Leo) | 3:05 |
-| 78 | [Hágale](https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe) | [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Hágale](https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC) | 2:47 |
-| 79 | [Soy Yo](https://open.spotify.com/track/3RTHRT7s4NsxVoM4PbNGmL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [Soy Yo](https://open.spotify.com/album/1RpZC47xvZZEUYuEeQzsGF) | 4:55 |
+| 78 | [Soy Yo](https://open.spotify.com/track/3RTHRT7s4NsxVoM4PbNGmL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [Soy Yo](https://open.spotify.com/album/1RpZC47xvZZEUYuEeQzsGF) | 4:55 |
+| 79 | [Hágale](https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe) | [Juan Pablo Navarrete](https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi) | [Hágale](https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC) | 2:47 |
 | 80 | [Lo que no fue no será](https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [Lo que no fue no será](https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH) | 3:37 |
 | 81 | [No Creo Merecerte](https://open.spotify.com/track/3f5C7I7llELCRZ2mQ4qyG3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [No Creo Merecerte](https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh) | 3:05 |
 | 82 | [Imposible Olvidarte](https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Temas de Mis Películas](https://open.spotify.com/album/7KKWOK7PeMZJEKa6ZIJcgq) | 2:49 |

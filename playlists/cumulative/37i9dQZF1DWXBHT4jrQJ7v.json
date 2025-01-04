@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "Jay",
+        "url": "https://open.spotify.com/album/4UyiqHjDhTdMs4onWlNLMk"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Jay",
+      "url": "https://open.spotify.com/track/4APoqrhYmINORxY4O2neDg"
+    },
+    {
+      "album": {
         "name": "Saint-Sa\u00ebns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose",
         "url": "https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R"
       },
@@ -1061,6 +1079,32 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Pell\u00e9as et M\u00e9lisande Suite, Op. 80: III. Sicilienne. Allegretto molto moderato",
+        "url": "https://open.spotify.com/album/67DGWJ9ypKs6NPnENGGY0Q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246360,
+      "name": "Pell\u00e9as et M\u00e9lisande Suite, Op. 80: III. Sicilienne. Allegretto molto moderato",
+      "url": "https://open.spotify.com/track/3ynbqSi0Z7e3FdcZrhOnQC"
+    },
+    {
+      "album": {
         "name": "Prokofiev: Peter and the Wolf, Op. 67 (Without Narration)",
         "url": "https://open.spotify.com/album/3QtuozLIqApRQP6K2OeMLz"
       },
@@ -1416,6 +1460,32 @@
       "duration_ms": 443960,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/1GstcZ4ooGDwEFlB9a66H6"
+    },
+    {
+      "album": {
+        "name": "Belli: Pr\u00e9lude (Arr. Lewin for 2 Guitars)",
+        "url": "https://open.spotify.com/album/77OPjqpO1A6tMzZDm4vIfG"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172696,
+      "name": "Pr\u00e9lude (Arr. Lewin for 2 Guitars)",
+      "url": "https://open.spotify.com/track/68w10aJE4wFoUrC25uvooY"
     },
     {
       "album": {
@@ -1988,6 +2058,28 @@
       "duration_ms": 142333,
       "name": "Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 \"Winter\": II. Largo",
       "url": "https://open.spotify.com/track/4LTGZ03qAt7ZQ1Pqk97vgZ"
+    },
+    {
+      "album": {
+        "name": "Ravel: \u00c0 la mani\u00e8re de Chabrier, M. 63/2",
+        "url": "https://open.spotify.com/album/0LB66QjUY3ibGQcQqQI5fQ"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119626,
+      "name": "\u00c0 la mani\u00e8re de Chabrier, M. 63/2",
+      "url": "https://open.spotify.com/track/3kiYrqoZpu02ei4HYdrZrk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXBHT4jrQJ7v"

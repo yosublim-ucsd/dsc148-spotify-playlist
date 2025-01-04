@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,606 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,608 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 4 | [Y Solo Yo Quiero \(La Chata\)](https://open.spotify.com/track/7EQkbWo1xv3Lf4kE1aIrXg) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:54 |
 | 5 | [Te Quiero](https://open.spotify.com/track/0eJGouVmEGxPktWPSTfpuI) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 4:24 |
 | 6 | [Fin del Tiempo](https://open.spotify.com/track/5xj5qixWeH2I44SFx0Icdv) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:06 |
-| 7 | [Libre](https://open.spotify.com/track/22voq3jOhXWab1TZWQmXu2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:04 |
+| 7 | [Tal Vez Buscando](https://open.spotify.com/track/2qynrrgZ6U5zxeRSoZTVSB) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 2:57 |
 | 8 | [Te Voy A Cuidar](https://open.spotify.com/track/4ISnyEQJLFzbqyJHCLLPuI) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Te Voy A Cuidar](https://open.spotify.com/album/3Kz4i5BXravXXx5P54A0IQ) | 3:05 |
 | 9 | [Infectado](https://open.spotify.com/track/28SWifFVWke3sC0ubxnYqC) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:18 |
 | 10 | [Por amor](https://open.spotify.com/track/3OJ8elwnqmeJVMlOoU9HyN) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 4:39 |
-| 11 | [Tal Vez Buscando](https://open.spotify.com/track/2qynrrgZ6U5zxeRSoZTVSB) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 2:57 |
+| 11 | [Libre](https://open.spotify.com/track/22voq3jOhXWab1TZWQmXu2) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos 2\)](https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8) | 3:04 |
 | 12 | [Entre Tus LLamas \(El Tunche\)](https://open.spotify.com/track/2cmcgsLAcUKc62FrsWvEZu) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:59 |
 | 13 | [Una Canción por Dios](https://open.spotify.com/track/06KTyxDHBsb71AYAbb0J1N) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Infectado](https://open.spotify.com/album/2zAl9NEyqqhmupC1MFtlHK) | 3:50 |
 | 14 | [Pan con mantequilla](https://open.spotify.com/track/4weOiHbItjLGTSB6ZHpXOA) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:42 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 48 | [Salva Mi Mente](https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:21 |
 | 49 | [A Nadie Le Importa](https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 3:13 |
 
-Snapshot ID: `Z3SFgAAAAABVkXOrBDbHawbDQjDYa0Qy`
+Snapshot ID: `Z3XXAAAAAABU2zwNySpRMPPN3ZyAmmFj`

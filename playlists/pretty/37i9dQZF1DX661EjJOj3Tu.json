@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Chucho Vald\u00e9s",
-  "num_followers": 519575,
+  "num_followers": 519602,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -423,18 +423,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Trumpet Evolution",
-        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
       "artists": [
         {
           "name": "Arturo Sandoval",
           "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Manteca",
-      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
+      "duration_ms": 299160,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+        "name": "Trumpet Evolution",
+        "url": "https://open.spotify.com/album/2LPMsaLCnE7HOVvMRPV16A"
       },
       "artists": [
         {
           "name": "Arturo Sandoval",
           "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 299160,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
+      "duration_ms": 202226,
+      "name": "Manteca",
+      "url": "https://open.spotify.com/track/17pqfMthW6dzPxLy0gvEsh"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -723,30 +723,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
-      },
-      "artists": [
-        {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Ra\u00fal Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
-        }
-      ],
-      "duration_ms": 311920,
-      "name": "En Esta Tarde Gris",
-      "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Dreams in Transition",
         "url": "https://open.spotify.com/album/75pe3vO6xqrfOU1UW8e9f5"
       },
@@ -775,6 +751,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
+      },
+      "artists": [
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Ra\u00fal Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "duration_ms": 311920,
+      "name": "En Esta Tarde Gris",
+      "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Fantasia Cubana: Variations On Classical Themes",
         "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Caminos",
-        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Aguirre",
-          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Milonga gris",
-      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Trane's Delight",
         "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 353840,
       "name": "Soul Bourgeoisie",
       "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Caminos",
+        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Aguirre",
+          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Milonga gris",
+      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 406400,
-      "name": "Sweet Cherry Pie",
-      "url": "https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Meetings",
         "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 369797,
       "name": "Suave",
       "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 406400,
+      "name": "Sweet Cherry Pie",
+      "url": "https://open.spotify.com/track/2JzNBGnadj4bkVs3gzcdg5"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1375,6 +1375,34 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Asi de Simple",
+        "url": "https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV"
+      },
+      "artists": [
+        {
+          "name": "Joel Hierrezuelo",
+          "url": "https://open.spotify.com/artist/5is0ekUanJcudSxgNsqxhl"
+        },
+        {
+          "name": "Pierre De Bethmann",
+          "url": "https://open.spotify.com/artist/6Rsydu80Gcd6b8D2ix9cR2"
+        },
+        {
+          "name": "Felipe Cabrera",
+          "url": "https://open.spotify.com/artist/4dUUZTPOISpCJRadklHYuv"
+        },
+        {
+          "name": "Lukmil Perez",
+          "url": "https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv"
+        }
+      ],
+      "duration_ms": 360946,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/4zlNld3hi3hJaofNa02t0o"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Que Bonita Bandera",
         "url": "https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9"
       },
@@ -1415,34 +1443,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Time Is Right",
-        "url": "https://open.spotify.com/album/3euNmYDyAEAShiGMo65pRd"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        },
-        {
-          "name": "Steve Turre",
-          "url": "https://open.spotify.com/artist/1fJEAxQLhUQdBmUjsj3vIF"
-        },
-        {
-          "name": "Mulgrew Miller",
-          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
-        },
-        {
-          "name": "Tony Reedus",
-          "url": "https://open.spotify.com/artist/6iBB0kmucXaaga3D0fXizs"
-        }
-      ],
-      "duration_ms": 736160,
-      "name": "From Moment To Moment",
-      "url": "https://open.spotify.com/track/08x2tZWOiR81Ht7emwGEsm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1475,30 +1475,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Asi de Simple",
-        "url": "https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV"
+        "name": "Time Is Right",
+        "url": "https://open.spotify.com/album/3euNmYDyAEAShiGMo65pRd"
       },
       "artists": [
         {
-          "name": "Joel Hierrezuelo",
-          "url": "https://open.spotify.com/artist/5is0ekUanJcudSxgNsqxhl"
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
         },
         {
-          "name": "Pierre De Bethmann",
-          "url": "https://open.spotify.com/artist/6Rsydu80Gcd6b8D2ix9cR2"
+          "name": "Steve Turre",
+          "url": "https://open.spotify.com/artist/1fJEAxQLhUQdBmUjsj3vIF"
         },
         {
-          "name": "Felipe Cabrera",
-          "url": "https://open.spotify.com/artist/4dUUZTPOISpCJRadklHYuv"
+          "name": "Mulgrew Miller",
+          "url": "https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh"
         },
         {
-          "name": "Lukmil Perez",
-          "url": "https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv"
+          "name": "Tony Reedus",
+          "url": "https://open.spotify.com/artist/6iBB0kmucXaaga3D0fXizs"
         }
       ],
-      "duration_ms": 360946,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/4zlNld3hi3hJaofNa02t0o"
+      "duration_ms": 736160,
+      "name": "From Moment To Moment",
+      "url": "https://open.spotify.com/track/08x2tZWOiR81Ht7emwGEsm"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
+        "name": "Stringwise",
+        "url": "https://open.spotify.com/album/2MG0iMoEPcF2qqgjqOndzA"
       },
       "artists": [
         {
-          "name": "Ray Mantilla",
-          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
+          "name": "Cesar Orozco",
+          "url": "https://open.spotify.com/artist/0eO6MjeuzzOF9gOUVdDRfx"
+        },
+        {
+          "name": "Jorge Glem",
+          "url": "https://open.spotify.com/artist/4fFCGaz0oMwRLzJIu13ba5"
         }
       ],
-      "duration_ms": 245866,
-      "name": "Martinez",
-      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
+      "duration_ms": 240733,
+      "name": "Merengue Today",
+      "url": "https://open.spotify.com/track/0G1w6A1w7LVJXjyOZoxBgd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1743,22 +1747,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Stringwise",
-        "url": "https://open.spotify.com/album/2MG0iMoEPcF2qqgjqOndzA"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
       },
       "artists": [
         {
-          "name": "Cesar Orozco",
-          "url": "https://open.spotify.com/artist/0eO6MjeuzzOF9gOUVdDRfx"
-        },
-        {
-          "name": "Jorge Glem",
-          "url": "https://open.spotify.com/artist/4fFCGaz0oMwRLzJIu13ba5"
+          "name": "Ray Mantilla",
+          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
         }
       ],
-      "duration_ms": 240733,
-      "name": "Merengue Today",
-      "url": "https://open.spotify.com/track/0G1w6A1w7LVJXjyOZoxBgd"
+      "duration_ms": 245866,
+      "name": "Martinez",
+      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Indigenous",
-        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
-      },
-      "artists": [
-        {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
-        }
-      ],
-      "duration_ms": 243944,
-      "name": "Sombras Del Pasado",
-      "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 269480,
       "name": "I'll Call You Later",
       "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Indigenous",
+        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 243944,
+      "name": "Sombras Del Pasado",
+      "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
     },
     {
       "added_at": "2024-07-26 04:00:00",

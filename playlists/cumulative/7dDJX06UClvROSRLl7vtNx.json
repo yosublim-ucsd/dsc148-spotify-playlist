@@ -9325,6 +9325,28 @@
     },
     {
       "album": {
+        "name": "No Limits",
+        "url": "https://open.spotify.com/album/0QMppMAvRrFuHzCaYNBIvg"
+      },
+      "artists": [
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        },
+        {
+          "name": "we love sunset",
+          "url": "https://open.spotify.com/artist/0ROeDOXEZIq0ETZL5MVHqa"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "No Limits",
+      "url": "https://open.spotify.com/track/5aUlOnQ7Elb98Nfp7gUohd"
+    },
+    {
+      "album": {
         "name": "No Other Love",
         "url": "https://open.spotify.com/album/0hFUQbYgL26iBhkqXLxk99"
       },
@@ -9546,7 +9568,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 182777,
       "name": "Off Limits",
       "url": "https://open.spotify.com/track/1XpRZiCQrNGLwFJBpiNIz0"

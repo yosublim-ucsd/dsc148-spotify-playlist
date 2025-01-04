@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> Today's Hip\-Hop with Gunna, Kendrick Lamar, Drake and more.
+> Today's Hip\-Hop with Lil Baby, Little Simz, Gunna and more.
 
-1,239 songs - 2 day 13 hr 37 min
+1,241 songs - 2 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Big Shot Cream Soda](https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [Big Shot Cream Soda](https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb) | 3:15 | 2023-02-17 | 2023-02-25 |
 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 | 2022-07-22 | 2022-09-24 |
 | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/track/1OdXwV1ZqMDuMKsPThVfSB) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [Big Stunna \(feat\. Birdman\)](https://open.spotify.com/album/55lsB4N2SNet2krI1SBXht) | 3:37 | 2022-08-26 | 2022-10-08 |
-| [Bigger In Texas](https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:32 | 2024-10-25 |  |
+| [Bigger In Texas](https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:32 | 2024-10-25 | 2025-01-04 |
 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 | 2023-08-11 | 2023-09-23 |
 | [Bill](https://open.spotify.com/track/6Q8cOsrmZHZkz1WZtTegoU) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Bill](https://open.spotify.com/album/6jADK6WCiV6CpcfPUPRn3t) | 3:28 | 2022-03-18 | 2022-03-26 |
 | [Billboard Face](https://open.spotify.com/track/1Zaac2d6XmkUGluCwggXhA) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Mum, Pray for Your Son](https://open.spotify.com/album/7ehEgkqVomqg80YURfqPht) | 2:28 | 2024-04-19 | 2024-05-11 |
@@ -318,6 +318,7 @@
 | [Down With Me](https://open.spotify.com/track/2iVfe5kY149mbTMX92Urb4) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Down With Me](https://open.spotify.com/album/2EhFeUrerhWKDzfLx1jgba) | 2:00 | 2024-01-05 | 2024-01-11 |
 | [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 | 2023-10-06 | 2024-03-23 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-06 | 2022-09-17 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-03 |  |
 | [DunnHill \(feat\. Rick Ross\)](https://open.spotify.com/track/3Hwc9uyLKCu0aCKmpE6Gm9) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 3:59 | 2023-10-13 | 2023-11-11 |
 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 | 2022-07-22 | 2022-11-05 |
 | [DWTD](https://open.spotify.com/track/55Nt8AUYziz5UqJn2LHXJW) | [Coach](https://open.spotify.com/artist/7uLSgJTZ8P4jR0WhAVf5O3), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [DWTD](https://open.spotify.com/album/0LYGTHXSxyQ9evgM3mkAqb) | 2:34 | 2024-05-24 | 2024-07-13 |
@@ -490,6 +491,7 @@
 | [Heavy \(with Lil Uzi Vert\)](https://open.spotify.com/track/02WDt2eCNOU2mt0DF5w678) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Heavy](https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR) | 3:20 | 2022-03-18 | 2022-03-26 |
 | [Hello B\*tch](https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hello B\*tch](https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn) | 2:19 | 2024-06-07 | 2024-10-05 |
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2024-11-22 |  |
+| [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 | 2025-01-03 |  |
 | [Her Birthday](https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:34 | 2023-09-08 | 2023-11-25 |
 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 | 2022-09-23 | 2023-01-14 |
 | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hide It \(feat\. Don Toliver\)](https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee) | 3:27 | 2024-10-25 |  |
@@ -1124,7 +1126,7 @@
 | [Took A Trip](https://open.spotify.com/track/5dfLLn4ypq5tJaJw5INCNZ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Took A Trip](https://open.spotify.com/album/3HCiWvxfdUL1ptV9u4YgR6) | 1:56 | 2023-04-14 | 2023-06-03 |
 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 | 2022-04-01 | 2022-04-16 |
 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 | 2022-12-30 | 2023-02-11 |
-| [Touchdown](https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Touchdown](https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2) | 2:32 | 2024-12-06 |  |
+| [Touchdown](https://open.spotify.com/track/0bJuUIQYXMceg6pbQG2Vai) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Touchdown](https://open.spotify.com/album/70F1Xx6cACoii21DnshBL2) | 2:32 | 2024-12-06 | 2025-01-04 |
 | [TOUGH SKIN](https://open.spotify.com/track/1KYxtEzzTOVHceP30W0QV7) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TOUGH SKIN](https://open.spotify.com/album/0hbJNPVO0hMzpJcIf5lioa) | 2:48 | 2022-08-12 | 2022-09-24 |
 | [Toxic](https://open.spotify.com/track/0K1n0KEWEc4hZGGAKAV4LR) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [Toxic](https://open.spotify.com/album/5ijOBPULkQ6b2AtLFYiDfc) | 3:03 | 2022-01-28 | 2022-02-05 |
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-12 | 2022-09-10 |

@@ -1,13 +1,89 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 290026,
+  "num_followers": 290014,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIMSYoeyWjWoJZgELxMDxNSVjoYpNt",
+  "snapshot_id": "AAAIMs5SQIMAy0GAn8KCj6VXkucP7soO",
   "tracks": [
+    {
+      "added_at": "2025-01-03 09:25:03",
+      "album": {
+        "name": "Told You So (Remixes Vol. 1)",
+        "url": "https://open.spotify.com/album/3ZNDcJGZGcIge6HPMGos3X"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "Told You So - Lavern & VisionV Remix",
+      "url": "https://open.spotify.com/track/7sq5lP2gH7lR6EiiyhEbNt"
+    },
+    {
+      "added_at": "2025-01-03 09:25:03",
+      "album": {
+        "name": "Told You So (Remixes Vol. 1)",
+        "url": "https://open.spotify.com/album/3ZNDcJGZGcIge6HPMGos3X"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        }
+      ],
+      "duration_ms": 183862,
+      "name": "Told You So - Brooks Remix",
+      "url": "https://open.spotify.com/track/5IGNejaPwvIGHFulOKRvVp"
+    },
+    {
+      "added_at": "2025-01-03 09:25:03",
+      "album": {
+        "name": "Told You So (Remixes Vol. 1)",
+        "url": "https://open.spotify.com/album/3ZNDcJGZGcIge6HPMGos3X"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        },
+        {
+          "name": "Nova Blue",
+          "url": "https://open.spotify.com/artist/2Eyzk42RxVJSgUtQeOZk4S"
+        }
+      ],
+      "duration_ms": 155231,
+      "name": "Told You So - Nova Blue Remix",
+      "url": "https://open.spotify.com/track/46aw03kRKdxGO5t5GJAtLA"
+    },
     {
       "added_at": "2024-12-27 15:05:46",
       "album": {

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,134 songs - 11 day 6 hr 25 min
+7,136 songs - 11 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1267,6 +1267,7 @@
 | [Collecting Dust](https://open.spotify.com/track/2Rr4GXLsUy7vJy2PB3mSYj) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [Collecting Dust](https://open.spotify.com/album/7skBVQm0odohFoMrrTbRNH) | 2:10 | 2024-03-08 | 2024-06-23 |
 | [Collecting Fluffy Stuff](https://open.spotify.com/track/2YWnkjiPKJHG8t4LRC0IFg) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Collecting Fluffy Stuff](https://open.spotify.com/album/47sWKMPyGzRpDIYU1tuFI6) | 2:44 | 2022-01-07 | 2022-08-27 |
 | [Collection](https://open.spotify.com/track/7wOGFhYnKOIMdUxQRtg273) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [Collection](https://open.spotify.com/album/7tnhTs8ZEHYBJ6XtAHemLs) | 3:01 | 2021-11-05 | 2022-05-27 |
+| [College Love](https://open.spotify.com/track/6eLrSZpTldW4qXzZI0xlOg) | [Flo Badabum](https://open.spotify.com/artist/4dMQdNx2YofJBiOfxRLcD0) | [College Love](https://open.spotify.com/album/4tFUzCU0OomrbDuKX5BOHq) | 3:07 | 2024-12-20 |  |
 | [Collins Avenue](https://open.spotify.com/track/2yVDbSSbJzJGMwy7N5Chid) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [Collins Avenue](https://open.spotify.com/album/3q5TZtQOaDHHP6z37jnagc) | 3:06 | 2021-10-26 | 2022-04-24 |
 | [Cologne Nights](https://open.spotify.com/track/377tuQh5TNir1qp8mr58NI) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Cologne Nights](https://open.spotify.com/album/1nu3ZwgEJ0fIK8Ge5T1XOF) | 2:11 | 2022-06-03 | 2022-09-30 |
 | [Color Fusion](https://open.spotify.com/track/5QBlqDw9JZMCi6V6hLKqL5) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Color Fusion](https://open.spotify.com/album/1GSCjxeFTThuItnhenJPvC) | 2:02 | 2023-05-18 | 2023-09-16 |
@@ -2615,7 +2616,7 @@
 | [Harlem](https://open.spotify.com/track/7A0rOB4W0heOD86b4C7SA9) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa) | [Harlem](https://open.spotify.com/album/2AZm9W5dk3EFCZUrUzL2Rj) | 2:10 | 2022-10-28 | 2024-01-26 |
 | [Harmony](https://open.spotify.com/track/1C6e6pplEstHf7yHupNoag) | [Dolittlebeats](https://open.spotify.com/artist/3fk9GO2x9QE9ZHGmv1TTZz) | [Harmony](https://open.spotify.com/album/2jFH4jh7VGaU0529LuDw98) | 1:41 | 2023-01-20 | 2024-01-05 |
 | [Harp Bounce](https://open.spotify.com/track/4fKfH2bckBK3SAsNQtIq67) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Harp Bounce](https://open.spotify.com/album/6FGeBchyJC0tQrf99WH97H) | 2:36 | 2023-08-17 | 2023-10-27 |
-| [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-18 |  |
+| [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-18 | 2025-01-04 |
 | [Haru](https://open.spotify.com/track/2C1IpVw8oOWJUzXYaZTDnd) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [Haru](https://open.spotify.com/album/4OsJpFV0JxQp9jUYEpeNx1) | 2:22 | 2021-05-03 | 2022-01-14 |
 | [Haru](https://open.spotify.com/track/4HaDm2TFxJAKo0K1OKqR6c) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Haru](https://open.spotify.com/album/1xZkktKGpI5E0mvp8nGEAj) | 1:59 | 2019-12-16 | 2021-07-29 |
 | [Harvest](https://open.spotify.com/track/2UZTfsfSUknvgAQwkg4fWX) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Harvest](https://open.spotify.com/album/30XHpT09SCggYG5pq0pXqv) | 2:30 | 2019-06-23 | 2020-06-07 |
@@ -5072,6 +5073,7 @@
 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 | 2024-10-18 |  |
 | [Rendez\-vous](https://open.spotify.com/track/6EgZUpZJofaM76rsbSniTX) | [Hentzup](https://open.spotify.com/artist/46lgw0sjtMASpdeuxkLfq0) | [Rendez\-vous](https://open.spotify.com/album/24BQOSqr6aO5jq0Nqb4H20) | 1:47 | 2022-04-23 | 2022-09-09 |
 | [Rendezvous](https://open.spotify.com/track/1tyDRQGqooCMHeLbKWBEDl) | [SlowFly](https://open.spotify.com/artist/2Pi1SjVtZboevr4pxULaLb) | [Rendezvouz](https://open.spotify.com/album/43wPbvz23qgdmJmB6QJeg1) | 2:13 | 2022-09-09 | 2023-01-20 |
+| [Rent A Movie](https://open.spotify.com/track/5OdZ0Ahg5undV50Z0alMnI) | [Kilada](https://open.spotify.com/artist/1zxOsfjnUEcVAKdPp5oKjw) | [Rent A Movie](https://open.spotify.com/album/1j6MIL2X6xI4CahG03Kiz0) | 2:09 | 2024-12-20 |  |
 | [Represent Me](https://open.spotify.com/track/1v7wGjvkQgNgKC5XmF8UiV) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Represent Me](https://open.spotify.com/album/5ptgeEADv1HtSRjStm99p4) | 2:00 | 2022-07-08 | 2022-10-21 |
 | [Resolution](https://open.spotify.com/track/5k19Jf7Gn4bvb59dmTIeOT) | [Sense](https://open.spotify.com/artist/3yaZAm6FOMbQr8DeeHMPPA) | [Resolution](https://open.spotify.com/album/5aJs8nQ9wv63viyqHw8koE) | 2:47 | 2020-11-10 | 2022-05-27 |
 | [Restful](https://open.spotify.com/track/2MHrNXrORk4zdE4pcDD5Gu) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Restful](https://open.spotify.com/album/0UJ1pwN3eUGyazzppZ1ltD) | 2:38 | 2022-08-19 | 2022-11-25 |
@@ -5537,7 +5539,7 @@
 | [Slow Walker](https://open.spotify.com/track/3mfVYaVfNpYCTutaK3nxBz) | [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h), [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Slow Walker](https://open.spotify.com/album/6CS0YXML6UFIQz5VoZxaY2) | 2:09 | 2023-04-05 | 2023-09-16 |
 | [Slowdown](https://open.spotify.com/track/2ukdwPtssl243ZSZQwgfOQ) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx) | [Slowdown](https://open.spotify.com/album/1MVYMYU2kuBOq63DYhB6NV) | 2:01 | 2022-09-02 | 2022-11-21 |
 | [Slowdown](https://open.spotify.com/track/4U6elEtr0gKmSn1GrMzgu9) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx) | [Slowdown](https://open.spotify.com/album/4FRp6Be3UvWRIrbAlKtUmO) | 2:01 | 2022-11-18 | 2022-12-09 |
-| [slowly](https://open.spotify.com/track/0OQycB6AjHHMbGii30Mo56) | [Løwkey](https://open.spotify.com/artist/0CgkKi2bj6cYB9sNMn0JPz) | [slowly](https://open.spotify.com/album/2wWNAkygpEnps2NpktCrju) | 1:38 | 2023-11-24 |  |
+| [slowly](https://open.spotify.com/track/0OQycB6AjHHMbGii30Mo56) | [Løwkey](https://open.spotify.com/artist/0CgkKi2bj6cYB9sNMn0JPz) | [slowly](https://open.spotify.com/album/2wWNAkygpEnps2NpktCrju) | 1:38 | 2023-11-24 | 2025-01-04 |
 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 | 2023-11-24 |  |
 | [Slump Chills](https://open.spotify.com/track/3hLIeWkgVEno7EtXRF03wl) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Slump Chills](https://open.spotify.com/album/7tx1pc4ZwRuC4KefeaDarI) | 2:42 | 2022-05-27 | 2022-09-23 |
 | [slumpin](https://open.spotify.com/track/1YT1zLUNAy4qtdlAFX078j) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Confessions](https://open.spotify.com/album/0f4ZcRoYPzppioLoB70vYc) | 2:49 | 2019-06-24 | 2020-01-04 |

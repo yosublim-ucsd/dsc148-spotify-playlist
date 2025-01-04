@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-704 songs - 1 day 23 hr 36 min
+705 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Mother's Eyes](https://open.spotify.com/track/7CuGdcQWyyf8ME4vQYSLT8) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Mother's Eyes](https://open.spotify.com/album/1Tl1nnsj6RgqgS7kWbNRcs) | 3:04 | 2023-02-07 | 2023-03-01 |
 | [Mother's Eyes](https://open.spotify.com/track/7lbiv5n30fGuKtTVsITlE4) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Mother's Eyes](https://open.spotify.com/album/0KhR7WLsUuaEn8QNb4fjJL) | 3:04 | 2023-02-07 | 2023-02-09 |
 | [Mother’s Broom \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Mother’s Broom \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5) | 3:49 | 2023-04-18 | 2023-09-09 |
+| [mou](https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 2:53 | 2024-05-30 |  |
 | [Moving On](https://open.spotify.com/track/2jZUVdZXDCWvw9DZPQhDnA) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Moving On](https://open.spotify.com/album/70ZGqbv7G5Q81ZH40hcOF6) | 2:59 | 2022-11-03 | 2022-12-02 |
 | [Murmuration](https://open.spotify.com/track/2VQVj1SJLHofQFC4JlueAl) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Murmuration](https://open.spotify.com/album/2ne5G2WYk0dXwwYvqi7vJq) | 3:39 | 2023-06-27 | 2023-09-15 |
 | [Murmuration](https://open.spotify.com/track/3yxKPO1837XIbJca6D0oSW) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Murmuration](https://open.spotify.com/album/4VX10kdyMurYSZUMr2wQ8o) | 3:39 | 2023-06-27 | 2023-06-29 |
@@ -534,7 +535,7 @@
 | [The Forever Now \- From "This Is Us: Season 6"](https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw) | [This Is Us Cast](https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S), [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [The Forever Now \(From "This Is Us: Season 6"\)](https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo) | 3:18 | 2022-10-20 | 2023-05-21 |
 | [The Girl with the Flaxen Hair](https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [Cello Bouquet](https://open.spotify.com/album/0n0T7E3Ug0OL572o7NGF5W) | 3:02 | 2022-10-20 | 2023-09-29 |
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-14 | 2023-03-25 |
-| [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 | 2023-11-09 |  |
+| [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 | 2023-11-09 | 2025-01-04 |
 | [The moon, The dawn](https://open.spotify.com/track/2DlkC3f5kQDf6oImgAUaRr) | [soejima takuma](https://open.spotify.com/artist/44CDiqPtSg1pkVHZ7TwfD3), [delgir sarin](https://open.spotify.com/artist/0jL3AV0GdDvC6vtXaE1Uqc) | [The moon, The dawn](https://open.spotify.com/album/0RcrfUSIfcG3qyCGawSd03) | 2:25 | 2023-01-24 | 2023-03-01 |
 | [the pyre](https://open.spotify.com/track/13Wz1dyxgWPSDXGCm5dHtQ) | [Piezoluminescence](https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df), [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR), [mippopotamus](https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF) | [the pyre](https://open.spotify.com/album/0Ae1E8Gs5Qtnpi27cwJl4f) | 2:40 | 2024-02-08 |  |
 | [The Rip Tide \- BER\-ABQ Version](https://open.spotify.com/track/5Rj08pbmKK9kpxgCWw18Bj) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Berlin\-Albuquerque Sessions Vol 3](https://open.spotify.com/album/2HMsVCSKJx0Ujg6cQoMhcY) | 4:14 | 2022-11-22 | 2023-01-06 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAAANe7M13/5OTcN5ySU0L4sQ",
+  "snapshot_id": "Z3XXAAAAAADsKaWyKeVmT8t4HkBJQbMD",
   "tracks": [
     {
       "added_at": null,
@@ -135,34 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YEYO",
-        "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        },
-        {
-          "name": "R\u00edal Guawank\u00f3",
-          "url": "https://open.spotify.com/artist/1XLXezcztSQIdEYG9dviXN"
-        },
-        {
-          "name": "DJ Skizz",
-          "url": "https://open.spotify.com/artist/1uD648fAShu4AT1hO43EFf"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 209631,
-      "name": "CRISTAL",
-      "url": "https://open.spotify.com/track/5EDDZ2bQbclAnFbX8kB74j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Breukelen Story",
         "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
       },
@@ -187,6 +159,34 @@
       "duration_ms": 245318,
       "name": "Breukelen \"Brooklyn\" (feat. Smif-N-Wessun)",
       "url": "https://open.spotify.com/track/65Ib0lSdd7AsRNckNMtSNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YEYO",
+        "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        },
+        {
+          "name": "R\u00edal Guawank\u00f3",
+          "url": "https://open.spotify.com/artist/1XLXezcztSQIdEYG9dviXN"
+        },
+        {
+          "name": "DJ Skizz",
+          "url": "https://open.spotify.com/artist/1uD648fAShu4AT1hO43EFf"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 209631,
+      "name": "CRISTAL",
+      "url": "https://open.spotify.com/track/5EDDZ2bQbclAnFbX8kB74j"
     },
     {
       "added_at": null,
@@ -703,30 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        }
-      ],
-      "duration_ms": 188710,
-      "name": "Kings",
-      "url": "https://open.spotify.com/track/6b8ftCJXOdx922FW2KKOSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 248377,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/0BJ4Dc2FIEuY3O2KGqx6Fo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Breukelen Story (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3"
     },
     {
       "added_at": null,
@@ -795,50 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Run",
-        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
-      },
-      "artists": [
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 94463,
-      "name": "Reloaded (Intro)",
-      "url": "https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Port Authority",
         "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
@@ -859,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 238538,
-      "name": "Przyjaciel Diab\u0142a",
-      "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Breukelen Story (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
       },
@@ -894,19 +830,31 @@
         {
           "name": "Masta Ace & Marco Polo",
           "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 227498,
-      "name": "E.A.T.",
-      "url": "https://open.spotify.com/track/5wf4rbeLC7w5vh5mRGuPWN"
+      "duration_ms": 188710,
+      "name": "Kings",
+      "url": "https://open.spotify.com/track/6b8ftCJXOdx922FW2KKOSB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+      },
+      "artists": [
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 94463,
+      "name": "Reloaded (Intro)",
+      "url": "https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY"
     },
     {
       "added_at": null,
@@ -951,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 239393,
-      "name": "\u017bywy lub Martwy",
-      "url": "https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Breukelen Story (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
       },
@@ -988,13 +916,57 @@
           "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
         },
         {
-          "name": "Lil Fame",
-          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 229230,
-      "name": "Count Em Up",
-      "url": "https://open.spotify.com/track/5pADObkRApXpf8R8TMnaE7"
+      "duration_ms": 227498,
+      "name": "E.A.T.",
+      "url": "https://open.spotify.com/track/5wf4rbeLC7w5vh5mRGuPWN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 238538,
+      "name": "Przyjaciel Diab\u0142a",
+      "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+      },
+      "artists": [
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 130643,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/0tOm8JheU3f85WPwXcygJG"
     },
     {
       "added_at": null,
@@ -1023,22 +995,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Run",
-        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+        "name": "A Breukelen Story (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
       },
       "artists": [
         {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Lil Fame",
+          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
         }
       ],
-      "duration_ms": 130643,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/0tOm8JheU3f85WPwXcygJG"
+      "duration_ms": 229230,
+      "name": "Count Em Up",
+      "url": "https://open.spotify.com/track/5pADObkRApXpf8R8TMnaE7"
     },
     {
       "added_at": null,
@@ -1083,26 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Artifacts",
-          "url": "https://open.spotify.com/artist/4hz8ohK9ESaFbJBAXvWJGL"
-        }
-      ],
-      "duration_ms": 240301,
-      "name": "Back To Work",
-      "url": "https://open.spotify.com/track/4PhaYqAIRld4xnRk253ep3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Run",
         "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
       },
@@ -1123,6 +1083,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Jaysaun",
+          "url": "https://open.spotify.com/artist/1yrrQqmbPITfUpAf8Igaap"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/2ASddVW0JXCecLbOcXrNV3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -1134,15 +1114,11 @@
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Dj Haem",
-          "url": "https://open.spotify.com/artist/18517Eowkj2uscvAX3FdOm"
         }
       ],
-      "duration_ms": 235154,
-      "name": "D\u0142ugi",
-      "url": "https://open.spotify.com/track/7haE5yRQF0r2KEjP6wYUVI"
+      "duration_ms": 239393,
+      "name": "\u017bywy lub Martwy",
+      "url": "https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB"
     },
     {
       "added_at": null,
@@ -1163,6 +1139,26 @@
       "duration_ms": 187288,
       "name": "Nightmare on Fro Street",
       "url": "https://open.spotify.com/track/5PwQr0inF40AnQ9c3RnCuX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Artifacts",
+          "url": "https://open.spotify.com/artist/4hz8ohK9ESaFbJBAXvWJGL"
+        }
+      ],
+      "duration_ms": 240301,
+      "name": "Back To Work",
+      "url": "https://open.spotify.com/track/4PhaYqAIRld4xnRk253ep3"
     },
     {
       "added_at": null,

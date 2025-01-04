@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Laufey
 
-152 songs - 7 hr 41 min
+153 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 | 2023-09-22 | 2024-04-19 |
 | [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-07-28 |  |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2023-01-06 |  |
-| [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 | 2024-10-25 |  |
+| [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 | 2024-10-25 | 2025-01-04 |
 | [boo hoo](https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [boo hoo](https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM) | 2:46 | 2024-06-21 |  |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 |  |
 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 | 2024-12-13 |  |
@@ -157,6 +157,7 @@
 | [where u are](https://open.spotify.com/track/5Twzpnu3oSKEWEjSHRlhgn) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [where u are](https://open.spotify.com/album/4QtgZKyzpwutPTFkMGDFpX) | 4:41 | 2023-01-06 | 2023-11-11 |
 | [Why](https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Why](https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C) | 3:26 | 2024-08-16 |  |
 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 | 2023-01-06 |  |
+| [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 | 2025-01-03 |  |
 | [You At Home](https://open.spotify.com/track/2FGn5SVPl5kzx7kSSZ2db0) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [You At Home](https://open.spotify.com/album/3i8PAjApnVRYhrby3hzCfJ) | 2:41 | 2023-09-15 | 2023-10-24 |
 | [You're the Reason](https://open.spotify.com/track/1OJqtwMsA3RHmAYh6DHWYK) | [Chris Wright](https://open.spotify.com/artist/2PUZljI6YOKycWygjY6EQV), [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [You're the Reason](https://open.spotify.com/album/0paZI3fai3hEJUfKglHwYl) | 2:37 | 2023-01-06 | 2023-08-06 |
 | [Zou bisou bisou](https://open.spotify.com/track/2fxvANiJMVbMvuqNWUilEM) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Zou bisou bisou \(Original Version\)](https://open.spotify.com/album/6RGW7AdxrvowqfBp4gP5o5) | 2:18 | 2023-01-06 | 2024-06-29 |

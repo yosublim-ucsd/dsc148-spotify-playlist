@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 125333,
       "name": "...baby one more time",
       "url": "https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "10 Minutos",
       "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 138839,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2JvK5309aRgcdgd4Ed9RJ0"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 207223,
       "name": "ALL I WANTED WAS U",
       "url": "https://open.spotify.com/track/1bvh7jWjFw6QIYH7gzBfPE"
@@ -762,7 +762,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/5OsHySqSwYLLfot5EswbON"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 190858,
       "name": "Amor Traumatizado",
       "url": "https://open.spotify.com/track/5BcKtF6LS3lkrByxsuew70"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 167749,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/78n0OeThTl9hDHcq3EVjrh"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 208000,
       "name": "Bathroom",
       "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 162944,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/7gsgDKsnLvCRZdtaEmYE0K"
@@ -2556,7 +2556,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 136483,
       "name": "Chills - Dark Version",
       "url": "https://open.spotify.com/track/6g6hQOcDSt9IR2wAMCxr2M"
@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 126666,
       "name": "Colors",
       "url": "https://open.spotify.com/track/3ES6cLKSNuWCZgL0X7BHSv"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 266493,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/0HUdWSPyrr98kiAdR3Mvyp"
@@ -3471,6 +3471,28 @@
     },
     {
       "album": {
+        "name": "DO IT",
+        "url": "https://open.spotify.com/album/3h83d7yJAGVAAtfW2GKC42"
+      },
+      "artists": [
+        {
+          "name": "Beneld",
+          "url": "https://open.spotify.com/artist/1zjvbn4a4qxKIilf7v8irb"
+        },
+        {
+          "name": "BURY",
+          "url": "https://open.spotify.com/artist/56tAdT5WT6Mi288cBRDjnt"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134886,
+      "name": "DO IT - sped up",
+      "url": "https://open.spotify.com/track/4So1b3w9t5kQ7uz1SSmCxV"
+    },
+    {
+      "album": {
         "name": "Do It For Me",
         "url": "https://open.spotify.com/album/6m1lFZkvFsGKQIiL2JH10T"
       },
@@ -3482,7 +3504,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 202972,
       "name": "Do It For Me",
       "url": "https://open.spotify.com/track/7GR2ZDBAdqiRPeuoRc6nnX"
@@ -3960,7 +3982,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 113842,
       "name": "Embrace (The End)",
       "url": "https://open.spotify.com/track/68kmzHCw5VvvTHyy6YdPcq"
@@ -4036,7 +4058,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 190766,
       "name": "Escassez",
       "url": "https://open.spotify.com/track/5F3Y5X1ek68iSetOgM22FB"
@@ -4184,7 +4206,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 250573,
       "name": "Exist For Love",
       "url": "https://open.spotify.com/track/5W4TxxBH5GrrvHwJc9xgpl"
@@ -4382,7 +4404,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 219166,
       "name": "FALLEN ANGEL",
       "url": "https://open.spotify.com/track/2CRLqfpDZfuA9vcI0ezFcA"
@@ -4622,7 +4644,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 159480,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/1sntdOU6b9fMuUOm3NPIuY"
@@ -5142,7 +5164,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-25",
+      "date_removed": null,
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
@@ -5484,7 +5506,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 195925,
       "name": "Grace",
       "url": "https://open.spotify.com/track/2O9F3lKI3F4nwYHLTtA9Xj"
@@ -5614,7 +5636,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 206458,
       "name": "Heartburn",
       "url": "https://open.spotify.com/track/5z0q8ZJx9TFLXzspcOvWBC"
@@ -5712,7 +5734,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 153254,
       "name": "hedonist",
       "url": "https://open.spotify.com/track/0sdhP8f2yr23VQ1OxMzSJ9"
@@ -5856,7 +5878,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 148571,
       "name": "High",
       "url": "https://open.spotify.com/track/1VYQZM1YgxYe6uCezLhu2I"
@@ -6492,7 +6514,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 274400,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
@@ -6720,7 +6742,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 215049,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/7oXBcLxICo6Acff5ZGiK7T"
@@ -7056,7 +7078,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 320030,
       "name": "K.",
       "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
@@ -7132,7 +7154,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 278074,
       "name": "Killshot - Slowed + Reverb",
       "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
@@ -7544,7 +7566,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 224072,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/6rj4P92CbrWyxfLWkmGRPQ"
@@ -7642,7 +7664,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 157777,
       "name": "Like U",
       "url": "https://open.spotify.com/track/4uSQVpXa7XJuFBwbPaK4xV"
@@ -7660,7 +7682,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 240294,
       "name": "Like You Do",
       "url": "https://open.spotify.com/track/4vgU9MGJwhgBEtlO8mMN49"
@@ -7754,7 +7776,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 147600,
       "name": "Locked Eyes",
       "url": "https://open.spotify.com/track/6rQ1QWVcpAnaYz8834gddZ"
@@ -7794,7 +7816,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 168933,
       "name": "look what you've done to me",
       "url": "https://open.spotify.com/track/0adZXJISG1iiEzUxe57KxX"
@@ -7964,7 +7986,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 168272,
       "name": "Love from NGC 7318",
       "url": "https://open.spotify.com/track/2CR01A8W6hmVZuXsVGf2Fn"
@@ -7982,7 +8004,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 181466,
       "name": "Love Is a Bitch",
       "url": "https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"
@@ -8004,7 +8026,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 200791,
       "name": "Love is a Bitch - Slowedd",
       "url": "https://open.spotify.com/track/4J4gQNp8u4BFOdC9mFzNzJ"
@@ -8080,7 +8102,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 207546,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/7naseusM9pguk5GYGzYQCn"
@@ -8314,7 +8336,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
@@ -8332,7 +8354,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -8560,7 +8582,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 200191,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/7r1MqPAD09w24mCUUbxiCI"
@@ -8618,7 +8640,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 220086,
       "name": "Manipulate",
       "url": "https://open.spotify.com/track/158y2GoZlvK2LAwNG6eK3K"
@@ -8640,7 +8662,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 339890,
       "name": "Margaret (feat. Bleachers)",
       "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"
@@ -8712,7 +8734,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 175086,
       "name": "Me Lambe",
       "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
@@ -8882,7 +8904,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 131538,
       "name": "Moan",
       "url": "https://open.spotify.com/track/3RcY8On1jKVfV8odFmNWzw"
@@ -9246,7 +9268,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 248960,
       "name": "Mystery of Love",
       "url": "https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy"
@@ -9304,7 +9326,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 270833,
       "name": "Navio ancorado no ar",
       "url": "https://open.spotify.com/track/2ic6RuezQKQ8AmScNeVC5s"
@@ -9344,7 +9366,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 245000,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/113xf7t4qNM7038YJvauik"
@@ -9550,7 +9572,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 286293,
       "name": "Nothing's Gonna Hurt You Baby",
       "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
@@ -9608,7 +9630,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 165874,
       "name": "N\u00e3o Sou Demais",
       "url": "https://open.spotify.com/track/62AUdJNZs8U0FVlIAMVZFM"
@@ -9702,7 +9724,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 212608,
       "name": "O Triste \u00c9 Que Eu Te Amo",
       "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
@@ -10502,7 +10524,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 149668,
       "name": "perfume",
       "url": "https://open.spotify.com/track/1kvkYrjZh561EJwERr8EsK"
@@ -11112,7 +11134,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 182250,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6ZE4pRtvE2MwAJAE7006EA"
@@ -11184,7 +11206,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 202760,
       "name": "Put It on Me",
       "url": "https://open.spotify.com/track/7tySfDFfBiCjraLdoy6In5"
@@ -11206,7 +11228,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 278500,
       "name": "P\u00e9rola",
       "url": "https://open.spotify.com/track/3UYmQN7OBL6aGmzd3kiVcj"
@@ -11620,7 +11642,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 209360,
       "name": "Sacrifice (feat. Jessie Reyez)",
       "url": "https://open.spotify.com/track/4LbfLqheRZesqH794Avpd9"
@@ -11660,7 +11682,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 196601,
       "name": "Sagrado Profano",
       "url": "https://open.spotify.com/track/7ldcYtMOjtX1eFVEYzj2kJ"
@@ -11696,7 +11718,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 271333,
       "name": "Salted Wound - From \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/69b5QMSpgvGhcjbQXzmxfP"
@@ -12052,7 +12074,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 194666,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/1m4b7AuHSvJnpRz6FWYUvL"
@@ -12305,6 +12327,24 @@
     },
     {
       "album": {
+        "name": "Sit Down Beside Me",
+        "url": "https://open.spotify.com/album/5f8noWgdNXqCoU0Akt9u5E"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272466,
+      "name": "Sit Down Beside Me",
+      "url": "https://open.spotify.com/track/5tXoYnudQeaCQjWmFjP5f5"
+    },
+    {
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -12554,7 +12594,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 268846,
       "name": "Something Stupid (From \"Better Call Saul\")",
       "url": "https://open.spotify.com/track/29EdNlJQqStWhNkSGpkuFQ"
@@ -12746,7 +12786,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 163333,
       "name": "Storm",
       "url": "https://open.spotify.com/track/3XdA1cNg7jXlJrQtE9huLR"
@@ -12974,7 +13014,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 232266,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/6ZHRi0QxzSnlevyhyNkj4a"
@@ -13086,7 +13126,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 206546,
       "name": "Talk",
       "url": "https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE"
@@ -13122,7 +13162,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 186600,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW"
@@ -13184,7 +13224,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 242349,
       "name": "Tell Me The Truth",
       "url": "https://open.spotify.com/track/4MFLdAiHJv7zDOEbD2P2az"
@@ -13412,7 +13452,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 192000,
       "name": "The Machine",
       "url": "https://open.spotify.com/track/19ItuvrZfTudwC6S5lkDH3"
@@ -13640,7 +13680,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
@@ -13676,7 +13716,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 121600,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/1qys87gdRHllBT34ansI0c"
@@ -14032,7 +14072,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 255893,
       "name": "Turning Page",
       "url": "https://open.spotify.com/track/2kfGoV9a5dbSKCNmUWH2ZF"
@@ -14278,7 +14318,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 238093,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/3c3i4mHX5Z0jEyXV7jGQHR"
@@ -14372,7 +14412,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 437313,
       "name": "VELUDO MARROM",
       "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
@@ -14570,7 +14610,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 155100,
       "name": "want me",
       "url": "https://open.spotify.com/track/7aSGnBzGlL6r8XbPdQOQEL"
@@ -14588,7 +14628,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-18",
+      "date_removed": null,
       "duration_ms": 101440,
       "name": "want u",
       "url": "https://open.spotify.com/track/1312ZAYpw7aeRQ8GMkbJux"
@@ -15398,7 +15438,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"

@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Inhaler
 
-2,405 songs - 5 day 10 hr 16 min
+2,407 songs - 5 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1122,6 +1122,7 @@
 | [Juno](https://open.spotify.com/track/7F35nM1uBD2AzkXSYgLenE) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Juno](https://open.spotify.com/album/2Ff77bF2DIy1ry5qZ4yq7o) | 3:03 | 2024-10-25 | 2024-11-25 |
 | [jupiter](https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [DIVE](https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP) | 3:02 | 2024-09-27 |  |
 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-10 | 2023-04-01 |
+| [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 | 2025-01-03 |  |
 | [JUST LET GO](https://open.spotify.com/track/0ATO60nGlhemOC7WA3J2i4) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 2:51 | 2024-06-28 | 2024-08-10 |
 | [Just My Type](https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Just My Type](https://open.spotify.com/album/1FrfBppniPQH42IpFBBgAh) | 3:05 | 2024-05-10 | 2024-06-22 |
 | [Just The Once](https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Just The Once](https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5) | 3:24 | 2023-07-07 | 2023-09-30 |
@@ -1216,6 +1217,7 @@
 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 | 2022-11-11 | 2023-01-28 |
 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 | 2024-11-22 |  |
 | [Like You \(Like You\)](https://open.spotify.com/track/1yGroSwD5EcsiMSclzd95Z) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Like You \(Like You\)](https://open.spotify.com/album/5URZJkMv2ZO8SO8IZieap9) | 2:28 | 2024-10-04 | 2024-11-16 |
+| [Like You Did Before](https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Like You Did Before](https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg) | 3:07 | 2025-01-03 |  |
 | [Lil Tune](https://open.spotify.com/track/0xFKj9yBje6JakSVa2JsrO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Lil Tune](https://open.spotify.com/album/4Vv9jIuo0EOmqajkwXaSBH) | 3:58 | 2024-03-01 | 2024-06-01 |
 | [lily's backyard](https://open.spotify.com/track/65doEMocPQeWN2dhCcrec5) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [you were good to me](https://open.spotify.com/album/0wSuystARx9990WFLyGck8) | 2:11 | 2022-04-29 | 2022-06-11 |
 | [Line It Up \(feat\. LP\)](https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:01 | 2022-10-28 | 2023-01-21 |
@@ -1435,7 +1437,7 @@
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-16 | 2024-09-07 |
 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 | 2022-07-01 | 2022-09-09 |
 | [Noise in the Forest](https://open.spotify.com/track/5jYpmSMc0KWcj8I2StBaNf) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Noise in the Forest](https://open.spotify.com/album/5RmlPHpfwvI64T3tXk5crf) | 3:28 | 2022-09-16 | 2022-11-19 |
-| [Nom Nom Nom](https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Nom Nom Nom / Cat Burglar](https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx) | 3:30 | 2024-12-06 |  |
+| [Nom Nom Nom](https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Nom Nom Nom / Cat Burglar](https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx) | 3:30 | 2024-12-06 | 2025-01-04 |
 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 | 2023-10-06 | 2024-01-20 |
 | [Normalize](https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize](https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc) | 4:19 | 2023-06-30 | 2023-07-22 |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-10 | 2023-12-16 |
@@ -2276,7 +2278,7 @@
 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 | 2023-07-03 | 2023-07-08 |
 | [We Get By](https://open.spotify.com/track/4AdiTCMYdGx52WZOh3by6P) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [We Get By](https://open.spotify.com/album/1L1EF7JK2LXXC6HVtQVtUh) | 3:29 | 2024-06-21 | 2024-07-27 |
 | [We Got To Get Together To Be Free](https://open.spotify.com/track/585cCDYHDGJn6M1pZBUPjl) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [We Got To Get Together To Be Free](https://open.spotify.com/album/3J1VaRG5DMK2MaAsAfJT2f) | 2:48 | 2023-03-24 | 2023-05-13 |
-| [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 | 2024-10-04 |  |
+| [We Made It](https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [We Made It](https://open.spotify.com/album/261XhHuUmuav4NV5gwTaPI) | 3:14 | 2024-10-04 | 2025-01-04 |
 | [We Make Hits](https://open.spotify.com/track/3iktPD7WlCTe6mJCRgh7ku) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [We Make Hits](https://open.spotify.com/album/2j1Hg485UzTtxtSGnw5N4v) | 3:02 | 2024-01-19 | 2024-03-30 |
 | [We Need More Bricks](https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [We Need More Bricks](https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK) | 3:48 | 2023-11-17 | 2024-01-20 |
 | [We Were Never Alive](https://open.spotify.com/track/71lPbSPrfEgPXqN9MApjzs) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [The Future Is Our Way Out](https://open.spotify.com/album/5J8d1LsJMlIBWAGrZYx2KN) | 4:08 | 2024-08-02 | 2024-10-26 |

@@ -26047,6 +26047,24 @@
     },
     {
       "album": {
+        "name": "go deeper",
+        "url": "https://open.spotify.com/album/5fqmM8XLlDaACYxlKb3Ghi"
+      },
+      "artists": [
+        {
+          "name": "matias",
+          "url": "https://open.spotify.com/artist/32BV5tztivPr5o2JmFdUTI"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "go deeper",
+      "url": "https://open.spotify.com/track/4MFLbZGRvsRc6ZHQWqK8HL"
+    },
+    {
+      "album": {
         "name": "Go Fast Go Slow",
         "url": "https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG"
       },
@@ -51987,7 +52005,7 @@
     },
     {
       "album": {
-        "name": "we\u00b4re just little angels",
+        "name": "we're just little angels",
         "url": "https://open.spotify.com/album/44bTM42HHBqjjK2UxoABJe"
       },
       "artists": [
@@ -75582,6 +75600,24 @@
       "duration_ms": 300432,
       "name": "You And I",
       "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"
+    },
+    {
+      "album": {
+        "name": "You and your eyes",
+        "url": "https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156942,
+      "name": "You and your eyes",
+      "url": "https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u"
     },
     {
       "album": {

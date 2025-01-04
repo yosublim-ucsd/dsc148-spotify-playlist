@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Head Cloud \(pictured\), Day Saints, Present, trauma ray and more.
+> The shape of noise to come with Fleshwater \(pictured\), Present, Doom Mutual, Touché Amoré and more.
 
-762 songs - 1 day 19 hr 28 min
+765 songs - 1 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Future Proof](https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Future Proof](https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd) | 3:30 | 2024-01-26 | 2024-03-02 |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-13 | 2022-06-03 |
 | [Gasoline](https://open.spotify.com/track/5fXr0Osdu9aDEVubMuUU3W) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Gasoline](https://open.spotify.com/album/5vRroX9YkS6k4R8dWuG2TI) | 4:00 | 2023-04-21 | 2023-07-04 |
+| [gaussian blur](https://open.spotify.com/track/0z5AOszOxk9w1zudsvdKmp) | [easterlin](https://open.spotify.com/artist/0r1Xt5i0yC4srLAK7Htxqn) | [gaussian blur](https://open.spotify.com/album/2p3H9lzwUC5bHGGxuXIEtH) | 3:52 | 2025-01-03 |  |
 | [Gearhead](https://open.spotify.com/track/0cEBDdBtmvQJXLgIEbtOEM) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Gearhead](https://open.spotify.com/album/2YuR8K2alQaOo7TPdyJlhP) | 3:24 | 2022-12-15 | 2023-02-10 |
 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-10-13 | 2023-11-11 |
 | [Get in the Car](https://open.spotify.com/track/2CWJDVIBBIFQlJvesGdxvP) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [Get in the Car](https://open.spotify.com/album/0wuVKMqNcc5Dzsvs8oNtqM) | 3:28 | 2022-03-24 | 2022-09-01 |
@@ -536,7 +537,7 @@
 | [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-13 | 2023-11-24 |
 | [Port Allan](https://open.spotify.com/track/1yFjgcnb3i78OhsDl1SCzN) | [Semantics](https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m) | [Port Allan](https://open.spotify.com/album/6QT6q5wk57T4mEud5tgEqL) | 3:55 | 2024-08-16 | 2024-10-19 |
 | [Positive Charge](https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Positive Charge](https://open.spotify.com/album/65tqECce0kcEihRHm8QDmR) | 4:05 | 2023-05-19 | 2023-07-21 |
-| [Promise I Won't Call](https://open.spotify.com/track/7yhAfc9GtlztCMYF8fuZcc) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [Promise I Won't Call](https://open.spotify.com/album/1mJag5irafu9HhIx664bwk) | 2:57 | 2024-11-08 |  |
+| [Promise I Won't Call](https://open.spotify.com/track/7yhAfc9GtlztCMYF8fuZcc) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [Promise I Won't Call](https://open.spotify.com/album/1mJag5irafu9HhIx664bwk) | 2:57 | 2024-11-08 | 2025-01-04 |
 | [Proud Of You](https://open.spotify.com/track/0PAyt2UZAFlt8IxUm6bVSS) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Proud Of You](https://open.spotify.com/album/2b8gPyA3J0k2XqD0QdcNEg) | 3:56 | 2023-08-31 | 2023-10-21 |
 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 | 2021-12-16 | 2022-06-24 |
 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 | 2024-03-15 | 2024-11-02 |
@@ -566,7 +567,7 @@
 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 | 2023-04-07 | 2023-05-04 |
 | [Royal Blue](https://open.spotify.com/track/3LoCslgbT6Z1hG0ZbrQahG) | [Suntitle](https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS) | [Royal Blue](https://open.spotify.com/album/2dVUZqatr2wPgg1M8r0DRz) | 2:56 | 2021-12-16 | 2022-04-01 |
 | [Rug](https://open.spotify.com/track/5diR0rIuLlwQPwhHr4c7oq) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Overthinking Everything](https://open.spotify.com/album/4tgOzgaMwxPVQXpG9BIzP2) | 1:54 | 2024-03-01 | 2024-04-27 |
-| [Saccharine Scream](https://open.spotify.com/track/0T8jNlfiPkPhIoJXlUAdy3) | [Fake Eyes](https://open.spotify.com/artist/59Ui4tw8UnaMQ5XEBHIbSk) | [Saccharine Scream](https://open.spotify.com/album/6qpGTCVquQEwmI5ewmwmZ7) | 4:59 | 2024-11-22 |  |
+| [Saccharine Scream](https://open.spotify.com/track/0T8jNlfiPkPhIoJXlUAdy3) | [Fake Eyes](https://open.spotify.com/artist/59Ui4tw8UnaMQ5XEBHIbSk) | [Saccharine Scream](https://open.spotify.com/album/6qpGTCVquQEwmI5ewmwmZ7) | 4:59 | 2024-11-22 | 2025-01-04 |
 | [Safe Forever](https://open.spotify.com/track/0bJjmBXXf2610nAjRQGHwc) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Safe Forever](https://open.spotify.com/album/2lu3Z6ZZ3gms0kf1IvWYM3) | 4:17 | 2023-09-22 | 2023-09-25 |
 | [Salt](https://open.spotify.com/track/0opJEZyslw0pzdfZisGiaL) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Salt](https://open.spotify.com/album/1NjAWYIQvHY8uicYdQN3an) | 3:30 | 2024-03-27 | 2024-10-12 |
 | [Sans Soleil](https://open.spotify.com/track/2lswplWCgi80O3eoi3eMzj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sans Soleil](https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re) | 5:04 | 2022-05-19 | 2022-11-26 |
@@ -574,7 +575,7 @@
 | [Say](https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Say](https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49) | 2:32 | 2023-05-12 | 2023-10-14 |
 | [Say I Won't](https://open.spotify.com/track/1Eyn7ZtfrR26aLKMdNvj98) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Say I Won't](https://open.spotify.com/album/5sImBI3vR27SaInKMVtT6m) | 2:37 | 2023-01-27 | 2023-04-09 |
 | [Say it to My Face](https://open.spotify.com/track/6r6DNioAIJpy3g5r6GQGnd) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Say it to My Face](https://open.spotify.com/album/0FW3FY91wOkSQ9Wf4eF8D2) | 3:16 | 2024-04-12 | 2024-09-06 |
-| [Say What You Want](https://open.spotify.com/track/1fz0JgLEsOgUemAGSEJ674) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Say What You Want](https://open.spotify.com/album/2aJN8Kj5T0zRvgoGbNJbx1) | 3:30 | 2024-11-12 |  |
+| [Say What You Want](https://open.spotify.com/track/1fz0JgLEsOgUemAGSEJ674) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Say What You Want](https://open.spotify.com/album/2aJN8Kj5T0zRvgoGbNJbx1) | 3:30 | 2024-11-12 | 2025-01-04 |
 | [Scared Together](https://open.spotify.com/track/44KmH8YZX9kypWnxcQwkw5) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Physical Thrills](https://open.spotify.com/album/2NqgOQKY5RB7UPmnhcyWEb) | 3:56 | 2022-09-06 | 2022-10-01 |
 | [see red](https://open.spotify.com/track/5VnWXQhBVKpW2J22VGnY99) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [see red](https://open.spotify.com/album/4CzCKNNmMVVS1J89FkcwZr) | 3:27 | 2021-12-16 | 2022-03-04 |
 | [self aware](https://open.spotify.com/track/4JVmgRpBTAfuvrVWQD94HY) | [memorydrip](https://open.spotify.com/artist/1TcKeJsMqedlyp4nmTmx97) | [self aware](https://open.spotify.com/album/4vs17O1zdQsMeJWETgvgTN) | 3:19 | 2023-03-31 | 2023-05-27 |
@@ -663,6 +664,7 @@
 | [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-09-06 | 2023-01-14 |
 | [Take the Wheel](https://open.spotify.com/track/3skgT62fQ0MZ2LL3pb59nu) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Take the Wheel](https://open.spotify.com/album/5UnohJ1su4dg8awfeHuKHy) | 3:15 | 2022-06-02 | 2022-09-07 |
 | [take.one.minute](https://open.spotify.com/track/1kz5vwtYp3oYfzlIAQfGwU) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [take.one.minute](https://open.spotify.com/album/6Nbi0BEwTszFajTAEruiEg) | 4:15 | 2024-09-13 |  |
+| [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 | 2025-01-03 |  |
 | [talking to the drugs](https://open.spotify.com/track/3Lz6teL5yOL4pp30hKj9LT) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [talking to the drugs](https://open.spotify.com/album/2XwXXhDUuX7SDqsQpgEwHU) | 2:56 | 2022-04-21 | 2022-09-23 |
 | [Tangerine](https://open.spotify.com/track/0EnhQ7imjcQu06rNVQuXdX) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Pyrophonics](https://open.spotify.com/album/1gJ0OUh09ZHCCN8u9DSvkB) | 3:50 | 2023-06-16 | 2024-01-13 |
 | [Taste the Money](https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Taste the Money](https://open.spotify.com/album/3bwDKAW6IgigIg1cfUBMQX) | 2:35 | 2022-11-18 | 2022-12-16 |
@@ -688,6 +690,7 @@
 | [Therapy 2](https://open.spotify.com/track/5Xch2bmKG4TBYuKPWIMpMt) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Therapy Sessions](https://open.spotify.com/album/4Ree7F8kKBluzkGcKcFo0P) | 3:02 | 2022-03-24 | 2022-09-07 |
 | [There Goes The Dream](https://open.spotify.com/track/7gy7AgYoXeb2NAub6adnq1) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [There Goes The Dream](https://open.spotify.com/album/02EILWdHpBKFmxWAByarQE) | 3:35 | 2024-07-26 | 2024-10-19 |
 | [Things I Don't Feel](https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Rest Assured](https://open.spotify.com/album/2Cv1QmB5lrMKewHKUb5Nlm) | 3:25 | 2024-03-27 | 2024-08-31 |
+| [Things Were Okay](https://open.spotify.com/track/2UszkHrHD1tmtjflRavUCJ) | [Tarnish](https://open.spotify.com/artist/2THrbWtOoqb3LNA0fiBfnW) | [View From My Window](https://open.spotify.com/album/3aErF1rsD8o7RTxjMtpf94) | 2:56 | 2025-01-03 |  |
 | [This Feeling](https://open.spotify.com/track/5Z6kzXKiH9vF5BGM57fO4E) | [Torus](https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM) | [This Feeling](https://open.spotify.com/album/0GsvF8QKvM13nSwo5l4LRK) | 3:27 | 2024-08-16 | 2024-12-17 |
 | [This is All There Is](https://open.spotify.com/track/3yamFr9Mxqozi4fOLFNnTw) | [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [The Atheist](https://open.spotify.com/album/6TKSQWBrlXifkLPGUrbKW6) | 2:50 | 2022-11-25 | 2022-12-16 |
 | [This Part of Me](https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h), [ZANDV](https://open.spotify.com/artist/3MCb4hKg6bu2Ivg6ZBM4B0) | [This Part of Me](https://open.spotify.com/album/6t3pu0a7OPjjiMKvPGSEtQ) | 3:43 | 2023-02-09 | 2023-07-04 |

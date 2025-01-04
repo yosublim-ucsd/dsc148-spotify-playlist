@@ -4,7 +4,7 @@
 
 > a little indie, a little pop\.  Cover: Malcolm Todd
 
-1,201 songs - 2 day 11 hr 48 min
+1,205 songs - 2 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [El Camino High](https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Dream Girl](https://open.spotify.com/album/0rmWZhNtY9IK37Fwfl5vXt) | 3:47 | 2024-11-08 |  |
 | [Emotional](https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Emotional](https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA) | 2:40 | 2022-08-26 | 2022-11-26 |
 | [emotional affair](https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional affair](https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu) | 3:01 | 2024-06-14 | 2024-07-19 |
+| [enough for you](https://open.spotify.com/track/0MVuOqwCCcEAb7iQATWBJ5) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [enough for you](https://open.spotify.com/album/2sMBLpd0aSDyWv1hCBXzcV) | 3:30 | 2025-01-03 |  |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-28 | 2024-02-03 |
 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 | 2024-01-05 | 2024-03-23 |
 | [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \- triple j Like A Version](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 | 2024-08-02 | 2024-09-21 |
@@ -622,6 +623,7 @@
 | [LDQ \(Little Drama Queen\)](https://open.spotify.com/track/3LhNkNHWxcjZszrqsqZEE3) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [LDQ \(Little Drama Queen\)](https://open.spotify.com/album/4jRePepXfCG8lfF9ZbR1Jv) | 3:50 | 2021-10-29 | 2022-01-08 |
 | [Leap of Faith](https://open.spotify.com/track/4qgEdEx2VbNCXQOsV9Qem7) | [Alex Alexander](https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj) | [Leap of Faith](https://open.spotify.com/album/2ABlekgQfB52vzJv4ZSBDz) | 3:11 | 2022-05-20 | 2022-06-25 |
 | [Leave Yourself Alone](https://open.spotify.com/track/1ECRkneyoDC73Qy8QHj797) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Everything Forever](https://open.spotify.com/album/1rSDikvb8bxqtexbALKt1W) | 3:09 | 2022-01-21 | 2022-02-26 |
+| [Lemon Tree](https://open.spotify.com/track/4g7t4gur0b65QHYjNmq4J5) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Lemon Tree](https://open.spotify.com/album/2TgW5hBwWMUdyc9K1Cuwqt) | 1:54 | 2025-01-03 |  |
 | [Lemonade](https://open.spotify.com/track/5gK0bv6DMbmfne9ktJ4ZJL) | [Lone Waves](https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS) | [Lemonade](https://open.spotify.com/album/3YFYT5aq1rYO05EdZ4Q7Fd) | 4:04 | 2022-09-16 | 2022-11-19 |
 | [Less From You](https://open.spotify.com/track/56kvCYeCBppVYIGxmG6kB1) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [Less From You](https://open.spotify.com/album/7plv2gnX70AG4jFTvkibcW) | 3:42 | 2022-10-28 | 2023-03-04 |
 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 | 2023-12-22 | 2024-01-13 |
@@ -692,7 +694,7 @@
 | [maybe money](https://open.spotify.com/track/7LslekRtdFPRxkRlyC8vkC) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [maybe money](https://open.spotify.com/album/0lWMNJDiYO0EcjYO7O2cAC) | 2:23 | 2022-04-22 | 2022-06-11 |
 | [Me Myself & I](https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Me Myself & I](https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl) | 2:57 | 2022-05-13 | 2022-08-20 |
 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 | 2024-02-23 | 2024-04-19 |
-| [Mean girls featuring julian casablancas](https://open.spotify.com/track/11J4S7N9cyB1Xvx2ClzTkt) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:46 | 2024-10-11 |  |
+| [Mean girls featuring julian casablancas](https://open.spotify.com/track/11J4S7N9cyB1Xvx2ClzTkt) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:46 | 2024-10-11 | 2025-01-04 |
 | [Medical Attention](https://open.spotify.com/track/331XiSC8eOEhnG0zINJfyl) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Medical Attention](https://open.spotify.com/album/1wgjwMZKGL71NU5quWHqQe) | 2:56 | 2023-04-14 | 2023-07-01 |
 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 | 2024-09-27 |  |
 | [Melt](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Melt](https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm) | 3:32 | 2024-06-21 | 2024-08-17 |
@@ -1169,6 +1171,7 @@
 | [Wild Things](https://open.spotify.com/track/23IorJ28ZIRUI7VpKCaTSV) | [EEVAH](https://open.spotify.com/artist/3yJNIN3Ih9pFuG4cgfzCRL) | [Wild Things](https://open.spotify.com/album/1GgOyUSPYBz9682lLJWBWj) | 3:39 | 2022-12-23 | 2023-02-04 |
 | [Wild Things](https://open.spotify.com/track/24HWZczGAczojNdUnupoo4) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv) | 3:36 | 2024-03-01 | 2024-04-27 |
 | [Wild Things](https://open.spotify.com/track/5zSblOkvmMVYmaXbDRXbFg) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/2bcXBtpp2hrgJrCqbi06PA) | 3:36 | 2024-03-15 | 2024-04-19 |
+| [wildflower](https://open.spotify.com/track/2PtPgifaaf3zple5JmOu0m) | [Jordan Frye](https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu) | [wildflower](https://open.spotify.com/album/2Tbw2822fUUCPECiVspPM4) | 3:00 | 2025-01-03 |  |
 | [Win Anyway](https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Win Anyway](https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC) | 2:56 | 2021-12-24 | 2022-02-26 |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-12-23 | 2023-01-06 |
 | [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 | 2023-10-06 | 2023-12-02 |
@@ -1195,6 +1198,7 @@
 | [Yellow Dresser](https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Yellow Dresser](https://open.spotify.com/album/4lAdZcJI0a7CmFIYYiz6Za) | 3:24 | 2024-04-12 | 2024-05-18 |
 | [Yes I'm A Mess](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Yes I'm A Mess](https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4) | 2:44 | 2023-11-17 | 2024-06-01 |
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-05-24 | 2024-06-01 |
+| [You and your eyes](https://open.spotify.com/track/3FpuyAAir6jX98pL6x236u) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [You and your eyes](https://open.spotify.com/album/3brNudlog8yw86cpZEpQDJ) | 2:36 | 2025-01-03 |  |
 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 | 2023-10-24 |
 | [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 | 2023-10-20 | 2023-11-25 |
 | [YOU DON'T LIKE ME](https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ) | [Dylan J](https://open.spotify.com/artist/1MbU9ik5RPjIzF90y1he0z) | [YOU DON'T LIKE ME](https://open.spotify.com/album/2T9iQj3qSR5lQPSEPjkul4) | 2:44 | 2024-03-29 | 2024-04-27 |

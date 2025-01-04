@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 252920,
       "name": "Kokoda - Only the Brave Ones",
       "url": "https://open.spotify.com/track/7H6lhV6JviBRq46hhZoSDw"
@@ -690,6 +690,24 @@
       "duration_ms": 186280,
       "name": "Listen to the Radio - Remastered 2017",
       "url": "https://open.spotify.com/track/0FqHsYbCL25ppr7PyHajbL"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Lee Kernaghan: Three Decades of Hits",
+        "url": "https://open.spotify.com/album/71vxA0KghqPpuiXFc3qGVl"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "Love in a Time of Drought",
+      "url": "https://open.spotify.com/track/4hsuKTPJTT6NJYzSqFxeRo"
     },
     {
       "album": {

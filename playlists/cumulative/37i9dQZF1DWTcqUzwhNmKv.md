@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Spiritbox on top of today's best Metal playlist.
+> Knocked Loose on top of today's best Metal playlist.
 
-827 songs - 2 day 6 hr 15 min
+828 songs - 2 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [Rise \[ライズ\]](https://open.spotify.com/track/1FSs6GsRfsp5sbtV48Z7xk) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:00 | 2023-05-19 | 2023-09-16 |
 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 | 2022-07-22 | 2022-07-30 |
 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 | 2024-03-08 | 2024-10-05 |
+| [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 | 2025-01-03 |  |
 | [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2023-12-15 | 2024-04-13 |
 | [Rogue](https://open.spotify.com/track/7BBSSVDxCwfZKbb8a1IlTB) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Rogue](https://open.spotify.com/album/218JtIGiHXx4XepIaL7Ns7) | 3:12 | 2024-09-13 | 2024-11-09 |
 | [Ronald](https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Ronald](https://open.spotify.com/album/01GsZ4orxT9LHqCru5Pnz2) | 3:16 | 2024-05-10 | 2024-12-14 |

@@ -2,9 +2,9 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Ella Langley
+> New music discovery is what we're about\. Try it on for size\. Cover: Restless Road
 
-2,327 songs - 5 day 5 hr 52 min
+2,329 songs - 5 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-15 | 2022-05-14 |
 | [Done](https://open.spotify.com/track/4wJBJ0RoSkm0v4ovQzug32) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Done](https://open.spotify.com/album/0y0dzLaEGpyZmFVRqAAM7f) | 3:40 | 2019-09-15 | 2020-01-27 |
 | [Done](https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 3:40 | 2020-05-09 | 2020-06-29 |
-| [Done It By Now](https://open.spotify.com/track/3pfUHTYdY5hFLL2jzoKsCi) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Done It By Now](https://open.spotify.com/album/4WunsG9oXnA2CEyT7BPzCS) | 3:24 | 2024-11-15 |  |
+| [Done It By Now](https://open.spotify.com/track/3pfUHTYdY5hFLL2jzoKsCi) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Done It By Now](https://open.spotify.com/album/4WunsG9oXnA2CEyT7BPzCS) | 3:24 | 2024-11-15 | 2025-01-04 |
 | [Don’t Come Lookin’](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 | 2022-03-04 | 2022-06-25 |
 | [Don’t Mess With Exes](https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Don’t Mess With Exes](https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956) | 3:27 | 2023-03-24 | 2023-09-16 |
 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 | 2024-09-06 | 2024-10-19 |
@@ -764,6 +764,7 @@
 | [Goodbye Queen](https://open.spotify.com/track/4EzpdhC8B8B6sBe2BiNoE2) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Goodbye Queen](https://open.spotify.com/album/4hEv25AbRjtM5OXIwo8D3I) | 3:17 | 2020-06-14 | 2020-06-21 |
 | [Goodnight Into Good Morning](https://open.spotify.com/track/5gG9NdRDVie8Ylxe0ZQ5DL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Goodnight Into Good Morning](https://open.spotify.com/album/2pcIsFiRHO0PG0rzBQNVyy) | 3:22 | 2024-07-19 | 2024-09-28 |
 | [Goodyears](https://open.spotify.com/track/2H3gNgGeQH6fVnZJ8MbBMl) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Goodyears](https://open.spotify.com/album/7k6L1nBz2FQIyEnkvEhsSF) | 3:34 | 2020-10-10 | 2021-01-23 |
+| [Gorgeous](https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Gorgeous](https://open.spotify.com/album/0bCdGyOL3c0jJlKvxisXeE) | 3:34 | 2025-01-03 |  |
 | [Got Married](https://open.spotify.com/track/2rokTN8Gw11ibwE04au8Gs) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Got Married](https://open.spotify.com/album/0YZQYkfuilZqwR5TT7fV4S) | 2:58 | 2022-10-14 | 2023-02-12 |
 | [Got Married](https://open.spotify.com/track/4S5ZHt7pdDmCBZOpMD0yc8) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Got Married](https://open.spotify.com/album/0VVzscuiG4BZIi9uSahP4b) | 2:58 | 2023-02-10 | 2023-07-01 |
 | [Greener](https://open.spotify.com/track/5yflLzd20RlImqUk9qOaO8) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Greener](https://open.spotify.com/album/0OnQluYELAnoS001m0XyXB) | 3:11 | 2019-07-21 | 2019-09-15 |
@@ -1808,7 +1809,7 @@
 | [Sounds Like the Radio](https://open.spotify.com/track/5wCUOa3jSe5ZM3oXEutCdO) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Sounds Like The Radio](https://open.spotify.com/album/3Ca8JBhNiiE2bsPDwsxOdV) | 3:38 | 2024-03-08 | 2024-06-29 |
 | [Soundtrack to a Small Town Sundown](https://open.spotify.com/track/3PC2spBvaHmQzlQF2uw95N) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Only Truck In Town](https://open.spotify.com/album/4nmRIzUzFHMcnNtufRc22I) | 3:00 | 2020-07-25 | 2020-11-21 |
 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 | 2021-08-28 | 2021-11-20 |
-| [Southbound](https://open.spotify.com/track/3EKJ25oo45fIxXUkWZuuwZ) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Southbound](https://open.spotify.com/album/54SfJ3dPDDWrUM21I9ITsQ) | 3:17 | 2024-10-25 |  |
+| [Southbound](https://open.spotify.com/track/3EKJ25oo45fIxXUkWZuuwZ) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Southbound](https://open.spotify.com/album/54SfJ3dPDDWrUM21I9ITsQ) | 3:17 | 2024-10-25 | 2025-01-04 |
 | [Southern and Slow](https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Southern and Slow](https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT) | 3:07 | 2023-08-11 | 2024-01-27 |
 | [Southern Comfort](https://open.spotify.com/track/2oNXyZLQcsd0vJhhCjPnbb) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Southern Comfort](https://open.spotify.com/album/1yHva4eRhGMG1bIDdRx01Z) | 3:10 | 2023-09-22 | 2023-10-07 |
 | [Southern Rock](https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:38 | 2024-05-24 | 2024-10-12 |
@@ -2271,6 +2272,7 @@
 | [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-11-17 | 2024-02-04 |
 | [Wood On The Fire](https://open.spotify.com/track/4U25YVWSMJ7glekBTsNMUQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Wood On The Fire](https://open.spotify.com/album/2h27NOoPTkhHSjU1K79EST) | 3:27 | 2022-09-09 | 2022-11-12 |
 | [Work Boots](https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Work Boots and More from Leather](https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0) | 2:49 | 2023-09-22 | 2023-11-04 |
+| [Work On Me](https://open.spotify.com/track/4kt5T1dZ2cS09Ba0U4cGzL) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Work On Me](https://open.spotify.com/album/6xfvvvUtSeFoxz5ZNFGGZB) | 2:57 | 2025-01-03 |  |
 | [World For Two](https://open.spotify.com/track/4wXLHJf9b22cxFvgSw5Ijf) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [King Calaway](https://open.spotify.com/album/5J2QWaK5lqtv6OrpLoMxUj) | 3:05 | 2019-05-26\* | 2019-06-15 |
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2023-04-28 | 2023-06-24 |
 | [Worship You](https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:25 | 2020-08-23 | 2020-09-28 |

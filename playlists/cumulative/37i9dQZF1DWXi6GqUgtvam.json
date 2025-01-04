@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/6OaIPa91VjufX9yUjcl4eN"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Guillem Perez-Quer",
+          "url": "https://open.spotify.com/artist/4sRCDH67fBNODQkgGc7AW3"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/1mkxGaXCs2qVr3A56PNZB5"
+    },
+    {
+      "album": {
         "name": "The Sims Medieval, Vol. 1 (Original Score Soundtrack)",
         "url": "https://open.spotify.com/album/49qqOOK7Ah3FBeGwP3Lg7A"
       },

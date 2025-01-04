@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u6253\u9996\u7344\u9580\u540c\u597d\u4f1a",
-  "num_followers": 46515,
+  "num_followers": 46506,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
-        "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
-        "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30ad\u30b7\u30de\u30e0 \u30b6 \u30db\u30eb\u30e2\u30f3 \u4e00\u90e8\u306e\u30a2\u30cb\u30e1\u30c6\u30fc\u30de\u5c02\u7528\u4eee\u8a2d\u30c1\u30e3\u30f3\u30cd\u30eb",
-          "url": "https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g"
-        }
-      ],
-      "duration_ms": 89563,
-      "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
-      "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
-    },
-    {
-      "added_at": "2024-12-24 15:00:28",
-      "album": {
         "name": "SEEDS OF HOPE",
         "url": "https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 175386,
       "name": "KiLLiNG ME",
       "url": "https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6"
+    },
+    {
+      "added_at": "2024-12-24 15:00:28",
+      "album": {
+        "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+        "url": "https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30ad\u30b7\u30de\u30e0 \u30b6 \u30db\u30eb\u30e2\u30f3 \u4e00\u90e8\u306e\u30a2\u30cb\u30e1\u30c6\u30fc\u30de\u5c02\u7528\u4eee\u8a2d\u30c1\u30e3\u30f3\u30cd\u30eb",
+          "url": "https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g"
+        }
+      ],
+      "duration_ms": 89563,
+      "name": "\u5203\u6e21\u308a2\u5104\u30bb\u30f3\u30c1(TV edit)",
+      "url": "https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG"
     },
     {
       "added_at": "2024-12-24 15:00:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
-        "name": "Beast Mode",
-        "url": "https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt"
-      },
-      "artists": [
-        {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Beast Mode",
-      "url": "https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush"
-    },
-    {
-      "added_at": "2024-12-24 15:00:28",
-      "album": {
         "name": "GIRL'S TALK",
         "url": "https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174767,
       "name": "GIRL'S TALK",
       "url": "https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5"
+    },
+    {
+      "added_at": "2024-12-24 15:00:28",
+      "album": {
+        "name": "Beast Mode",
+        "url": "https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "Beast Mode",
+      "url": "https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush"
     },
     {
       "added_at": "2024-12-24 15:00:28",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 197995,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
-    },
-    {
-      "added_at": "2024-12-24 15:00:28",
-      "album": {
         "name": "\u72d0\u72ec\u306e\u624d\u671b",
         "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 212950,
       "name": "\u72d0\u72ec\u306e\u624d\u671b",
       "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
+    },
+    {
+      "added_at": "2024-12-24 15:00:28",
+      "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 197995,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
     },
     {
       "added_at": "2024-12-24 15:00:28",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
+        "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
+        "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "duration_ms": 233393,
+      "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
+      "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
+    },
+    {
+      "added_at": "2024-12-24 15:00:28",
+      "album": {
         "name": "YAEN",
         "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
       },
@@ -1111,6 +1127,22 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
+        "name": "BRAINWASH",
+        "url": "https://open.spotify.com/album/1W8Z3zbB0C4Fl8z0tcKOqQ"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "BRAINWASH",
+      "url": "https://open.spotify.com/track/1rBh478tPcaqibTVzzH0sI"
+    },
+    {
+      "added_at": "2024-12-24 15:00:28",
+      "album": {
         "name": "Tank-top Flower for Friends",
         "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
       },
@@ -1139,38 +1171,6 @@
       "duration_ms": 150180,
       "name": "Steady",
       "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
-    },
-    {
-      "added_at": "2024-12-24 15:00:28",
-      "album": {
-        "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
-        "url": "https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF"
-      },
-      "artists": [
-        {
-          "name": "Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
-        }
-      ],
-      "duration_ms": 233393,
-      "name": "Trrrrrrrrrrrrrrrrrrrue Lies",
-      "url": "https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay"
-    },
-    {
-      "added_at": "2024-12-24 15:00:28",
-      "album": {
-        "name": "BRAINWASH",
-        "url": "https://open.spotify.com/album/1W8Z3zbB0C4Fl8z0tcKOqQ"
-      },
-      "artists": [
-        {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "BRAINWASH",
-      "url": "https://open.spotify.com/track/1rBh478tPcaqibTVzzH0sI"
     },
     {
       "added_at": "2024-12-24 15:00:28",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ApwQum2jaNFN1UsCQVdIo"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 227347,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/1RbsnRJu6FJAyRer1ADMgd"
-    },
-    {
-      "added_at": "2024-12-24 15:00:28",
-      "album": {
         "name": "PARADISE (Kill The Silence)",
         "url": "https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 223118,
       "name": "PARADISE (Kill The Silence)",
       "url": "https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh"
+    },
+    {
+      "added_at": "2024-12-24 15:00:28",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ApwQum2jaNFN1UsCQVdIo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 227347,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1RbsnRJu6FJAyRer1ADMgd"
     },
     {
       "added_at": "2024-12-24 15:00:28",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
-        "name": "Come As U Are",
-        "url": "https://open.spotify.com/album/0R4cVeiKEnERTILj0E4nd6"
-      },
-      "artists": [
-        {
-          "name": "The Ravens",
-          "url": "https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Come As U Are",
-      "url": "https://open.spotify.com/track/66iB6JJWjKEW2vJUVd4Lnk"
-    },
-    {
-      "added_at": "2024-12-24 15:00:28",
-      "album": {
         "name": "RED APHELION",
         "url": "https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+        "name": "Come As U Are",
+        "url": "https://open.spotify.com/album/0R4cVeiKEnERTILj0E4nd6"
       },
       "artists": [
         {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+          "name": "The Ravens",
+          "url": "https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r"
         }
       ],
-      "duration_ms": 196199,
-      "name": "DO THE DANCE",
-      "url": "https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh"
+      "duration_ms": 219466,
+      "name": "Come As U Are",
+      "url": "https://open.spotify.com/track/66iB6JJWjKEW2vJUVd4Lnk"
     },
     {
       "added_at": "2024-12-24 15:00:28",
@@ -1495,6 +1479,22 @@
       "duration_ms": 251400,
       "name": "\u5bc2\u5bde -sekibaku-",
       "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
+    },
+    {
+      "added_at": "2024-12-24 15:00:28",
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 196199,
+      "name": "DO THE DANCE",
+      "url": "https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh"
     },
     {
       "added_at": "2024-12-24 15:00:28",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
-        "name": "META",
-        "url": "https://open.spotify.com/album/1YoxX5dJa8vm0bz1Skiljh"
-      },
-      "artists": [
-        {
-          "name": "\u6625\u733f\u706b",
-          "url": "https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l"
-        }
-      ],
-      "duration_ms": 267234,
-      "name": "META",
-      "url": "https://open.spotify.com/track/7FN4l3ORF68GwwOavytbps"
-    },
-    {
-      "added_at": "2024-12-24 15:00:28",
-      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2024-12-24 15:00:28",
       "album": {
-        "name": "VOX",
-        "url": "https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f"
+        "name": "META",
+        "url": "https://open.spotify.com/album/1YoxX5dJa8vm0bz1Skiljh"
       },
       "artists": [
         {
-          "name": "Dragon Ash",
-          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+          "name": "\u6625\u733f\u706b",
+          "url": "https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l"
         }
       ],
-      "duration_ms": 250366,
-      "name": "VOX",
-      "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
+      "duration_ms": 267234,
+      "name": "META",
+      "url": "https://open.spotify.com/track/7FN4l3ORF68GwwOavytbps"
     },
     {
       "added_at": "2024-12-24 15:00:28",
@@ -1627,6 +1611,22 @@
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
+    },
+    {
+      "added_at": "2024-12-24 15:00:28",
+      "album": {
+        "name": "VOX",
+        "url": "https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f"
+      },
+      "artists": [
+        {
+          "name": "Dragon Ash",
+          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+        }
+      ],
+      "duration_ms": 250366,
+      "name": "VOX",
+      "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
     },
     {
       "added_at": "2024-12-24 15:00:28",

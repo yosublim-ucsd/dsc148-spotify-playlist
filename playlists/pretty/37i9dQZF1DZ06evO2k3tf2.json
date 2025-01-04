@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1380262,
+  "num_followers": 1380465,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAAC8wgtdRgy8TrRDDR1dnBuM",
+  "snapshot_id": "Z3XXAAAAAABnPuuVzanDW0Opm3gfqhoP",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Oh Ms Believer",
-      "url": "https://open.spotify.com/track/4JdJ95CXOA0loxFxO288iK"
+      "duration_ms": 182000,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
+      "duration_ms": 217000,
+      "name": "Oh Ms Believer",
+      "url": "https://open.spotify.com/track/4JdJ95CXOA0loxFxO288iK"
     },
     {
       "added_at": null,

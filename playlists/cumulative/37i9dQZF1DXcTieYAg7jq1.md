@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Leon Bridges
 
-419 songs - 1 day 0 hr 0 min
+420 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [OMG](https://open.spotify.com/track/1BWfBlp8iDl2moH11H8uT1) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [OMG](https://open.spotify.com/album/7gF4FonOZVm7DXUEh9uNdC) | 3:19 | 2023-10-13 | 2024-09-28 |
 | [omw](https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0) | 2:51 | 2022-10-14 | 2024-02-03 |
 | [On My Mind](https://open.spotify.com/track/2REV45xgTkmZnixZyQdeCj) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [On My Mind](https://open.spotify.com/album/7d3ipgo7MFc14ktcdiM9sK) | 3:02 | 2024-02-16 |  |
+| [On My Own](https://open.spotify.com/track/244s9CWGmyKjAKmKK3cRu3) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Abbie Stair](https://open.spotify.com/artist/6UuvLVNLgXAdo4SqH6mqDx) | [On My Own](https://open.spotify.com/album/2awsI47CHYE55cWPzYGPNf) | 3:18 | 2025-01-03 |  |
 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-12-03 | 2022-12-13 |
 | [One Life](https://open.spotify.com/track/2ke3UokbJmy74bvueaXli3) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [One Life](https://open.spotify.com/album/1Eq16zkqEjt8Hzrae9q6fa) | 3:02 | 2024-07-12 |  |
 | [One Thing](https://open.spotify.com/track/7JZLDYLLyoRJ97NoZMEXZl) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [One Thing](https://open.spotify.com/album/4YNRtUmWyTeKmpt402o33l) | 2:20 | 2022-01-28 | 2023-09-23 |
@@ -381,7 +382,7 @@
 | [The Mess](https://open.spotify.com/track/4PZLI3AGhdUE0CX7KUnjNi) | [Violet Crime](https://open.spotify.com/artist/0uoRAXJYHJ7003T0t0NbX4) | [The Mess](https://open.spotify.com/album/1cjJ60QJJAQCDkj3u06kxU) | 3:35 | 2022-05-20 | 2024-06-01 |
 | [The Only One](https://open.spotify.com/track/7EPtycDSH6iVx1a3Adgy9x) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [The Only One](https://open.spotify.com/album/2cVihQPUCaJb7cHAVvKOsh) | 2:55 | 2023-07-28 |  |
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-26 |  |
-| [The Other Side](https://open.spotify.com/track/3LiU0TOvZTzf3qJXXF5bEJ) | [WYATT](https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM) | [TAKE ME HOME \(Wait Till Dawn\) \- EP](https://open.spotify.com/album/3GauA9rLPf2AIVMVv9pysi) | 3:37 | 2023-09-01 |  |
+| [The Other Side](https://open.spotify.com/track/3LiU0TOvZTzf3qJXXF5bEJ) | [WYATT](https://open.spotify.com/artist/3xAoVcrMl08h9mS8UHsfKM) | [TAKE ME HOME \(Wait Till Dawn\) \- EP](https://open.spotify.com/album/3GauA9rLPf2AIVMVv9pysi) | 3:37 | 2023-09-01 | 2025-01-04 |
 | [The Things She Loved](https://open.spotify.com/track/7ATrjLiCw3DGbDqzGH65Bo) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [The Things She Loved](https://open.spotify.com/album/4zwmA0qNheXDIvr9f5Lqxk) | 2:28 | 2023-10-27 |  |
 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 | 2021-12-03 | 2022-10-01 |
 | [Then There Was You](https://open.spotify.com/track/4OkgX6DWNd0peWM54Q6gFf) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [FEVER](https://open.spotify.com/album/1kY2GMaWvr0mX5fuXsNIZe) | 3:12 | 2021-12-03 | 2022-07-20 |

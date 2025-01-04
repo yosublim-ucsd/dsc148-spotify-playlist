@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Ketan Sodha, Ash King & Jahnvi Shrimankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,853 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,880 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 14 | [Ronus Theme](https://open.spotify.com/track/5HApx7rw1Bc6Ui0cWbrC5U) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Breathless Flute](https://open.spotify.com/album/2RgIQn8jrHqlKrLx7dH0lm) | 6:37 |
 | 15 | [Bulbuli](https://open.spotify.com/track/3UQNpb3oIk5GWNu9efvNg5) | [Ritu Raj](https://open.spotify.com/artist/1yTkWdk95JHU9bD8gZWMor), [Nandita](https://open.spotify.com/artist/1olb97DNlYXqItxaR3qfxC) | [Bulbuli](https://open.spotify.com/album/4f5KGhlRtDxxxrQwLSnhZK) | 5:46 |
 | 16 | [Bewajah \- Coke Studio Season 8](https://open.spotify.com/track/3EzqUvtr993ok47KHLveON) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Bewajah \(Coke Studio Season 8\)](https://open.spotify.com/album/66tyn64P5HxSybbJcyGbYI) | 5:52 |
-| 17 | [Bawla \(feat\. Khan Brothers\) \[Maati S1\]](https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Khan Brothers](https://open.spotify.com/artist/1gZM30maJ0CY5elIh3xsl4) | [Bawla \(feat\. Khan Brothers\) \[Maati S1\]](https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh) | 3:00 |
-| 18 | [Aaj Jane Ki Zid Na Karo \- Coke Studio Season 8](https://open.spotify.com/track/6XpEgDZ1YmbzpLECDE59AA) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Aaj Jane Ki Zid Na Karo \(Coke Studio Season 8\)](https://open.spotify.com/album/1QbyKCQGKRMzm6rWQ1Z0iN) | 3:10 |
+| 17 | [Aaj Jane Ki Zid Na Karo \- Coke Studio Season 8](https://open.spotify.com/track/6XpEgDZ1YmbzpLECDE59AA) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Aaj Jane Ki Zid Na Karo \(Coke Studio Season 8\)](https://open.spotify.com/album/1QbyKCQGKRMzm6rWQ1Z0iN) | 3:10 |
+| 18 | [Bawla \(feat\. Khan Brothers\) \[Maati S1\]](https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Khan Brothers](https://open.spotify.com/artist/1gZM30maJ0CY5elIh3xsl4) | [Bawla \(feat\. Khan Brothers\) \[Maati S1\]](https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh) | 3:00 |
 | 19 | [Gulon Main Rang](https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Gulon Main Rang](https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs) | 6:19 |
 | 20 | [Mitho Laage \- The Dewarists, Season 5](https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Mitho Laage \(The Dewarists, Season 5\)](https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp) | 4:40 |
 | 21 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |

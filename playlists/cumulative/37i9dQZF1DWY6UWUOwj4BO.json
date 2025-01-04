@@ -189,6 +189,36 @@
     },
     {
       "album": {
+        "name": "Believe (Shooting Stars) [Acoustic]",
+        "url": "https://open.spotify.com/album/0UrPf8a6vtXK9ENrXOPBmV"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140476,
+      "name": "Believe (Shooting Stars) - Acoustic",
+      "url": "https://open.spotify.com/track/3MCflPb8UHYgtB29aGgw5c"
+    },
+    {
+      "album": {
         "name": "Bitter Sweet Love (Acoustic)",
         "url": "https://open.spotify.com/album/37L0qyd3pFSABQ4OfKi8Tf"
       },
@@ -578,7 +608,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 215093,
       "name": "Et Bam - Acoustic Version",
       "url": "https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd"
@@ -1821,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Pri\u00e8re de n'pas d\u00e9ranger (Version piano)",
+        "url": "https://open.spotify.com/album/5BFisdchY6mCytDAoCMBF6"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215171,
+      "name": "Pri\u00e8re de n'pas d\u00e9ranger - Version piano",
+      "url": "https://open.spotify.com/track/49pmLBvYq7slpQQjsuFxaF"
+    },
+    {
+      "album": {
         "name": "Rescue Me (Acoustic)",
         "url": "https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ"
       },
@@ -2078,7 +2126,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 208066,
       "name": "SNAP - Acoustic",
       "url": "https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1"

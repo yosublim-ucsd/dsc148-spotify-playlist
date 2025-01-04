@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-04",
       "duration_ms": 253106,
       "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
       "url": "https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd"
@@ -7442,6 +7442,40 @@
       "duration_ms": 369564,
       "name": "Secondo",
       "url": "https://open.spotify.com/track/5upRxHx2LZDhunpfUiShhU"
+    },
+    {
+      "album": {
+        "name": "See You Again My Friend",
+        "url": "https://open.spotify.com/album/0LjqfUfkFfPj0VeV9Sraf8"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Lackner",
+          "url": "https://open.spotify.com/artist/6SgjhSSQHyEeRw926PzJLf"
+        },
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        },
+        {
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        },
+        {
+          "name": "Linda May Han Oh",
+          "url": "https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I"
+        },
+        {
+          "name": "Matthieu Chazarenc",
+          "url": "https://open.spotify.com/artist/4Zp1JBDJMAvoUnBuroe3xB"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229680,
+      "name": "See You Again My Friend",
+      "url": "https://open.spotify.com/track/1d4CEHXR9dIChtwzFA6Oyb"
     },
     {
       "album": {

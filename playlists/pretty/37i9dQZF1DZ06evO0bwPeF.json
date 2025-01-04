@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8756,
+  "num_followers": 8755,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAADs8e1hD7//03oSBjI599fy",
+  "snapshot_id": "Z3XXAAAAAACkvIwuAKmW6b7VnwkgLHgc",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 349453,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl"
+      "duration_ms": 189333,
+      "name": "I'm Only Sleeping",
+      "url": "https://open.spotify.com/track/1ikveMBbbi2DVWbfKdsxWz"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 189333,
-      "name": "I'm Only Sleeping",
-      "url": "https://open.spotify.com/track/1ikveMBbbi2DVWbfKdsxWz"
+      "duration_ms": 349453,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl"
     },
     {
       "added_at": null,

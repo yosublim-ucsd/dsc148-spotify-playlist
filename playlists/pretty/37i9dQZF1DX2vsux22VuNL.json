@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293237,
+  "num_followers": 293224,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,30 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "ESTANTE DE LIVROS",
+        "url": "https://open.spotify.com/album/1QsCjSE0pz021Mg7jOYfRc"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "ESTANTE DE LIVROS",
+      "url": "https://open.spotify.com/track/4IFIDMqYhdC7aVd8QbudX6"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Te Pe\u00e7o Pra Ficar",
         "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
       },
@@ -579,30 +603,6 @@
       "duration_ms": 235862,
       "name": "Te Pe\u00e7o Pra Ficar",
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "ESTANTE DE LIVROS",
-        "url": "https://open.spotify.com/album/1QsCjSE0pz021Mg7jOYfRc"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "BADZILLA",
-          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "ESTANTE DE LIVROS",
-      "url": "https://open.spotify.com/track/4IFIDMqYhdC7aVd8QbudX6"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -779,30 +779,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "\u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 171913,
       "name": "\u00cdm\u00e3",
       "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1083,26 +1083,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Quem Vai Ser?",
-        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+        "name": "Olhar HD",
+        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         },
         {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 157918,
-      "name": "Quem Vai Ser?",
-      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+      "duration_ms": 167741,
+      "name": "OLHAR HD",
+      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1131,26 +1131,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Olhar HD",
-        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
+        "name": "Quem Vai Ser?",
+        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
       },
       "artists": [
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 167741,
-      "name": "OLHAR HD",
-      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+      "duration_ms": 157918,
+      "name": "Quem Vai Ser?",
+      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Pagode Urbano #01",
         "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 203141,
       "name": "Gingado Dela",
       "url": "https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        },
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Ins\u00f4nia",
         "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Gotas de Cristal",
+        "url": "https://open.spotify.com/album/0Xv2pVLJcDlt8ZqOFBXOiC"
+      },
+      "artists": [
+        {
+          "name": "Zarastruta",
+          "url": "https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Gotas de Cristal",
+      "url": "https://open.spotify.com/track/2r3GZ4U2xdw7zx40R0Djlp"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
         "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 161632,
       "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
       "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Gotas de Cristal",
-        "url": "https://open.spotify.com/album/0Xv2pVLJcDlt8ZqOFBXOiC"
-      },
-      "artists": [
-        {
-          "name": "Zarastruta",
-          "url": "https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Gotas de Cristal",
-      "url": "https://open.spotify.com/track/2r3GZ4U2xdw7zx40R0Djlp"
     },
     {
       "added_at": "2024-12-20 03:25:46",

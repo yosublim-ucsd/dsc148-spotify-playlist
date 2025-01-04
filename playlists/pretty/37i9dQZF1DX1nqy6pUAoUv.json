@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 181440,
+  "num_followers": 181452,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "The Perfect Plan",
-        "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
-      },
-      "artists": [
-        {
-          "name": "The Lowest Pair",
-          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
-        }
-      ],
-      "duration_ms": 289161,
-      "name": "Too Late Babe",
-      "url": "https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Wildflowers in the Graveyard",
         "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 180977,
       "name": "Wildflowers in the Graveyard",
       "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "The Perfect Plan",
+        "url": "https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW"
+      },
+      "artists": [
+        {
+          "name": "The Lowest Pair",
+          "url": "https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg"
+        }
+      ],
+      "duration_ms": 289161,
+      "name": "Too Late Babe",
+      "url": "https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 282586,
       "name": "Quasheba, Quasheba",
       "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Poor David's Almanack",
-        "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
+        "name": "If I Could Only Fly / True Love's Flame",
+        "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
       "artists": [
         {
-          "name": "David Rawlings",
-          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        },
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
+      "duration_ms": 269500,
+      "name": "If I Could Only Fly",
+      "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "If I Could Only Fly / True Love's Flame",
-        "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
+        "name": "Poor David's Almanack",
+        "url": "https://open.spotify.com/album/2yohVBNjsgx36AC03RGyxM"
       },
       "artists": [
         {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        },
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
         }
       ],
-      "duration_ms": 269500,
-      "name": "If I Could Only Fly",
-      "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+      "duration_ms": 198440,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "The Bird & The Rifle",
+      "url": "https://open.spotify.com/track/0CKWuLBs7x02MUc3F7FwtW"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 257920,
       "name": "You Led Me To The Wrong",
       "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "The Bird & The Rifle",
-      "url": "https://open.spotify.com/track/0CKWuLBs7x02MUc3F7FwtW"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
+      },
+      "artists": [
+        {
+          "name": "Ordinary Elephant",
+          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Before I Go",
-        "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
-      },
-      "artists": [
-        {
-          "name": "Ordinary Elephant",
-          "url": "https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 286139,
       "name": "Bullet Holes in the Sky",
       "url": "https://open.spotify.com/track/2MsSf6Ls0y4H54pJLlvVkg"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Age of a Man",
-        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Age of a Man",
-      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 166324,
       "name": "Spinning Plates",
       "url": "https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Come and Fill My Soul",
-        "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
-      },
-      "artists": [
-        {
-          "name": "Samson For President",
-          "url": "https://open.spotify.com/artist/1lHLXaNa0HOLMFDwst1Vzb"
-        }
-      ],
-      "duration_ms": 223418,
-      "name": "Come and Fill My Soul",
-      "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 234253,
       "name": "Love Will Win the War",
       "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Come and Fill My Soul",
+        "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
+      },
+      "artists": [
+        {
+          "name": "Samson For President",
+          "url": "https://open.spotify.com/artist/1lHLXaNa0HOLMFDwst1Vzb"
+        }
+      ],
+      "duration_ms": 223418,
+      "name": "Come and Fill My Soul",
+      "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "In Another Life",
-        "url": "https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz"
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
       },
       "artists": [
         {
-          "name": "Beth Whitney",
-          "url": "https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu"
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 238560,
-      "name": "In Another Life",
-      "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
+      "duration_ms": 306213,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1675,38 +1675,34 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz"
       },
       "artists": [
         {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+          "name": "Beth Whitney",
+          "url": "https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu"
         }
       ],
-      "duration_ms": 306213,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
+      "duration_ms": 238560,
+      "name": "In Another Life",
+      "url": "https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds"
     },
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+        "name": "Songs Of",
+        "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+          "name": "Spencer Burton",
+          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
         }
       ],
-      "duration_ms": 234826,
-      "name": "Avalon (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
+      "duration_ms": 235506,
+      "name": "Unmistakable Love",
+      "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
     }
   ],
   "unique_name": "Contemporary Folk",

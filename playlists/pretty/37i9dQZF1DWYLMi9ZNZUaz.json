@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 100367,
+  "num_followers": 100395,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -507,30 +507,6 @@
     {
       "added_at": "2024-12-25 05:20:34",
       "album": {
-        "name": "ch\u1eb3ng gi\u1ed1ng gi\u00e1ng sinh",
-        "url": "https://open.spotify.com/album/38X017QxkKpFYkdFcxDy9V"
-      },
-      "artists": [
-        {
-          "name": "Lu",
-          "url": "https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H"
-        },
-        {
-          "name": "Willistic",
-          "url": "https://open.spotify.com/artist/0XEYiIh3AzMl9lBaT3gNz7"
-        },
-        {
-          "name": "datfitzx",
-          "url": "https://open.spotify.com/artist/2rkSOVm1YGlmjYTgmmfZd7"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "ch\u1eb3ng gi\u1ed1ng gi\u00e1ng sinh",
-      "url": "https://open.spotify.com/track/7k3ohP9ZiGfhL6yD8oIPfk"
-    },
-    {
-      "added_at": "2024-12-25 05:20:34",
-      "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
         "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 252307,
       "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
       "url": "https://open.spotify.com/track/5bDYi5F6QeZvjxzF6WUfea"
+    },
+    {
+      "added_at": "2024-12-25 05:20:34",
+      "album": {
+        "name": "ch\u1eb3ng gi\u1ed1ng gi\u00e1ng sinh",
+        "url": "https://open.spotify.com/album/38X017QxkKpFYkdFcxDy9V"
+      },
+      "artists": [
+        {
+          "name": "Lu",
+          "url": "https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H"
+        },
+        {
+          "name": "Willistic",
+          "url": "https://open.spotify.com/artist/0XEYiIh3AzMl9lBaT3gNz7"
+        },
+        {
+          "name": "datfitzx",
+          "url": "https://open.spotify.com/artist/2rkSOVm1YGlmjYTgmmfZd7"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "ch\u1eb3ng gi\u1ed1ng gi\u00e1ng sinh",
+      "url": "https://open.spotify.com/track/7k3ohP9ZiGfhL6yD8oIPfk"
     },
     {
       "added_at": "2024-12-25 05:20:34",
@@ -1063,26 +1063,22 @@
     {
       "added_at": "2024-12-25 05:20:34",
       "album": {
-        "name": "MEDICINE",
-        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
+        "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+        "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
       },
       "artists": [
         {
-          "name": "Coldzy",
-          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+          "name": "B\u00ecnh Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
         },
         {
-          "name": "Minsicko",
-          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         }
       ],
-      "duration_ms": 260073,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+      "duration_ms": 227555,
+      "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
+      "url": "https://open.spotify.com/track/3pmDpi2XUdGGInqXQbOIaM"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

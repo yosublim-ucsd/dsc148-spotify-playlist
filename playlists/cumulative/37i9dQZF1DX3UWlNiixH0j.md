@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: MOROHA
 
-2,052 songs - 5 day 7 hr 52 min
+2,053 songs - 5 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,7 +573,7 @@
 | [Kindle a Fire](https://open.spotify.com/track/6VjbZQc8quqogbtczeZoU4) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [Kindle a Fire](https://open.spotify.com/album/3km9P5EJVozjWBeedMeKHR) | 3:04 | 2024-12-03 | 2024-12-11 |
 | [Kippou classic](https://open.spotify.com/track/7DpJhlXrltCrU4IvpSTYmG) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [Kippou classic](https://open.spotify.com/album/5pCRjCY8HktBlCwHRPXKlN) | 3:26 | 2023-10-03 | 2023-10-11 |
 | [Kiss](https://open.spotify.com/track/00wP8zw7YmpEmPFwKHtto7) | [ササキコウジ](https://open.spotify.com/artist/11AahWyGlXddJRlMSGLRlC) | [心奥の森で](https://open.spotify.com/album/63GVPAM5TTAbSXxEYPZHZJ) | 2:19 | 2023-08-08 | 2023-08-16 |
-| [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 | 2024-11-13 |  |
+| [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 | 2024-11-13 | 2025-01-04 |
 | [kodoku gokko](https://open.spotify.com/track/5N73VJc4Q3fJhEV8E7pvDC) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [kodoku gokko](https://open.spotify.com/album/3KlWkxlUSwUzrunfRuTrLi) | 1:45 | 2024-02-27 | 2024-03-06 |
 | [Kohaku](https://open.spotify.com/track/16OedAwrCLAUctyBCgO45o) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Kohaku](https://open.spotify.com/album/2ISxhwPjPjLKNyow9Eg5dU) | 4:03 | 2023-06-06 | 2023-07-05 |
 | [Kokoro No Mamani](https://open.spotify.com/track/0ntEHTd4tY8jfL7bElYoGo) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Kokoro No Mamani](https://open.spotify.com/album/6PHA287IjWB3n2jg1xowXQ) | 3:25 | 2023-03-28 | 2023-04-05 |
@@ -1305,7 +1305,7 @@
 | [≒](https://open.spotify.com/track/7LybGUDc1gZSsuimbyWZKV) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [≒](https://open.spotify.com/album/4V7WJHk2Qssi5X0aNd0tCa) | 4:46 | 2024-01-11 | 2024-05-08 |
 | [◯ \- 8+3<¥¥ ¥\\+ 3%6=](https://open.spotify.com/track/1kTDi3VNS16kDChrTftuM4) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [◯ \- 8+3<¥¥ ¥\\+ 3%6=](https://open.spotify.com/album/6mYcCx374J3fHWVKo8pWFt) | 3:07 | 2024-05-28 | 2024-06-12 |
 | [あいしてる](https://open.spotify.com/track/6trUP516D5vXLLBrNgyn2Y) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [あいしてる](https://open.spotify.com/album/28LObq2FDfWvs8tAvQy9L4) | 5:39 | 2024-11-13 |  |
-| [あけないひみつ](https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM) | [あけないひみつ](https://open.spotify.com/album/608QksoNbIViwjp15kbj1q) | 4:37 | 2024-12-24 | 2025-01-03 |
+| [あけないひみつ](https://open.spotify.com/track/3ufoRksbgnm36Yj9jX0C4X) | [Special Favorite Music](https://open.spotify.com/artist/1F3AxNIIccfck4Om138WFM) | [あけないひみつ](https://open.spotify.com/album/608QksoNbIViwjp15kbj1q) | 4:37 | 2024-12-24 |  |
 | [あけぼの \- 2023](https://open.spotify.com/track/7oIebM3d43QEtaQkpKKPRr) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [あけぼの \(2023\)](https://open.spotify.com/album/7DEvmHRVHWr0g4eFyKuW87) | 5:27 | 2023-06-29 | 2023-07-01 |
 | [あこがれ](https://open.spotify.com/track/3Q4836EU8FkGpjR5WbkE67) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [あこがれ](https://open.spotify.com/album/4DTZkr6ieYJUi9gzDXpHiB) | 3:59 | 2023-12-12 | 2023-12-15 |
 | [あたしぐらいは願うたび](https://open.spotify.com/track/5iRQF5xQElpi1Lh2vuqiZT) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [あたしぐらいは願うたび](https://open.spotify.com/album/5maSrfcqMRsXIlwoQo6YzQ) | 4:20 | 2024-01-09 | 2024-01-25 |
@@ -1936,6 +1936,7 @@
 | [琥珀](https://open.spotify.com/track/1zJvY385AAxY6xRfe8Zxci) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [琥珀](https://open.spotify.com/album/6v0lKNwsubljn75IXQRvhe) | 4:03 | 2023-06-06 | 2023-06-08 |
 | [琥珀](https://open.spotify.com/track/2cyLtPHD0SwHjYJGvD7z2V) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [TIME](https://open.spotify.com/album/6uEPUNxIJkdZ6AGSKhywHB) | 4:11 | 2024-03-12 | 2024-04-09 |
 | [生活](https://open.spotify.com/track/2GlvyUJN2SE6DEW2IMPg94) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活](https://open.spotify.com/album/2XktYRaoQiQ0z2V2AmTBlP) | 5:13 | 2024-05-17 | 2024-07-03 |
+| [生活 \- re\-recording](https://open.spotify.com/track/0cqnVkquugRkIAcFPsk2DG) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [生活 \(re\-recording\)](https://open.spotify.com/album/5ToRSlA1uamWEJC382q0G5) | 4:12 | 2024-12-24 |  |
 | [白い椅子](https://open.spotify.com/track/2XfjlCEbqWOfcPGRLgGgZn) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [白い椅子](https://open.spotify.com/album/4pMLmz6TMWKYm6Sv9PxTo1) | 3:03 | 2023-11-21 | 2024-02-14 |
 | [白銀の少女](https://open.spotify.com/track/3RDsxI9zbRgsM5sfr3zASF) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [白銀の少女](https://open.spotify.com/album/6hsya9OOMQOeQU6JYKdppW) | 3:10 | 2023-09-05 | 2023-09-23 |
 | [白鯨 \- Compuma Remix](https://open.spotify.com/track/5aTijhh78tFKguVwZFGhjk) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy), [Compuma](https://open.spotify.com/artist/6NjXizlPfK6qb4YhzcJZQO) | [再吉](https://open.spotify.com/album/2OPbfSolXfz1ReQXgV65tK) | 6:43 | 2024-05-21 | 2024-05-29 |
@@ -1973,7 +1974,7 @@
 | [羽を宿して](https://open.spotify.com/track/2rJQPhZ6N0XADGm2UGrN7l) | [小田奈都美](https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP) | [羽を宿して](https://open.spotify.com/album/2AbE8dFrIVJf5yH7vQ9fTY) | 4:25 | 2024-11-13 | 2024-11-20 |
 | [聖者](https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [戀愛大全](https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky) | 3:26 | 2023-03-30 | 2024-01-10 |
 | [聞いてたの? \- feat\. 三浦透子](https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [「0110」](https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray) | 2:45 | 2023-04-04 | 2023-04-12 |
-| [自我讃歌](https://open.spotify.com/track/6fbQH4mvJma1OnnwpvZ4k2) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [慈愛equal自愛](https://open.spotify.com/album/66QgofGJtkPlUTXEz3iYjA) | 3:41 | 2024-12-10 |  |
+| [自我讃歌](https://open.spotify.com/track/6fbQH4mvJma1OnnwpvZ4k2) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [慈愛equal自愛](https://open.spotify.com/album/66QgofGJtkPlUTXEz3iYjA) | 3:41 | 2024-12-10 | 2025-01-04 |
 | [花とゆめ](https://open.spotify.com/track/5ZPTwZpHD9po7ScVYi7KO4) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [花とゆめ](https://open.spotify.com/album/1AKJxdnugSCoTIHMypgUHL) | 3:51 | 2023-07-11 | 2023-08-02 |
 | [花向](https://open.spotify.com/track/6KITCkP5y0gBxlUhVO3N2O) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 5:39 | 2023-06-08 | 2023-08-31 |
 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 | 2024-11-05 |  |
