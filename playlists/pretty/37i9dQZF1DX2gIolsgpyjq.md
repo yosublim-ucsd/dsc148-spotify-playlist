@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: ABY iO
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,872 likes - 63 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,889 likes - 63 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

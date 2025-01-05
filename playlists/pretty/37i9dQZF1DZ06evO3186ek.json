@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 153295,
+  "num_followers": 153323,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAACZo/Ic/BHNCW36AkOlkOT4",
+  "snapshot_id": "Z3cogAAAAABzmD9AJaOljQt1Tyeeyqzt",
   "tracks": [
     {
       "added_at": null,
@@ -119,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firm Foundation (He Won't)",
-        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
+        "name": "Constant",
+        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
       },
       "artists": [
         {
@@ -128,17 +128,21 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         },
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Anthony Gargiula",
+          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)",
-      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
+      "duration_ms": 292185,
+      "name": "Constant (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
     },
     {
       "added_at": null,
@@ -175,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constant",
-        "url": "https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu"
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
       },
       "artists": [
         {
@@ -184,21 +188,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        },
-        {
-          "name": "Anthony Gargiula",
-          "url": "https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI"
-        },
-        {
           "name": "Chandler Moore",
           "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 292185,
-      "name": "Constant (feat. Chandler Moore)",
-      "url": "https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M"
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 400646,
-      "name": "Closer (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/786kFVhHYQ3zIgTHWo6WHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 564423,
       "name": "Wait On You (feat. Dante Bowe & Chandler Moore)",
       "url": "https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 400646,
+      "name": "Closer (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/786kFVhHYQ3zIgTHWo6WHQ"
     },
     {
       "added_at": null,
@@ -423,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 263833,
-      "name": "God Really Loves Us",
-      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 509977,
       "name": "Talking To Jesus (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 263833,
+      "name": "God Really Loves Us",
+      "url": "https://open.spotify.com/track/1pDKzl0oWh9jWfCCt8cIbE"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 435535,
-      "name": "The Story I'll Tell",
-      "url": "https://open.spotify.com/track/5ypaD5LqwkhRKBuIptdkVl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 402803,
       "name": "Old Church Basement (feat. Dante Bowe)",
       "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 435535,
+      "name": "The Story I'll Tell",
+      "url": "https://open.spotify.com/track/5ypaD5LqwkhRKBuIptdkVl"
     },
     {
       "added_at": null,
@@ -623,34 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Hold It All Together",
-        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 449704,
-      "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
-      "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -679,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jubilee: Juneteenth Edition",
-        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+        "name": "You Hold It All Together",
+        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
       },
       "artists": [
         {
@@ -688,21 +660,21 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
         },
         {
-          "name": "Israel Houghton",
-          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         },
         {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
         }
       ],
-      "duration_ms": 492415,
-      "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
-      "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
+      "duration_ms": 449704,
+      "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
     },
     {
       "added_at": null,
@@ -731,6 +703,34 @@
       "duration_ms": 621222,
       "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
       "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jubilee: Juneteenth Edition",
+        "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 492415,
+      "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
+      "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
     },
     {
       "added_at": null,

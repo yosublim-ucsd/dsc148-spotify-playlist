@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: D\u00e9bora Buzas, Isaias Saad",
-  "num_followers": 318197,
+  "num_followers": 318383,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
       },
       "artists": [
         {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
         }
       ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+      "duration_ms": 437014,
+      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
       "artists": [
         {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
         }
       ],
-      "duration_ms": 437014,
-      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -399,38 +399,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Impressionante (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
-      },
-      "artists": [
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
-        }
-      ],
-      "duration_ms": 331250,
-      "name": "Impressionante - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
-        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 211817,
-      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "De Dentro Pra Fora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
       },
@@ -459,6 +427,38 @@
       "duration_ms": 185969,
       "name": "Teu Amor Por Mim",
       "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 211817,
+      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Impressionante (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
+      },
+      "artists": [
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "duration_ms": 331250,
+      "name": "Impressionante - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Confiar em Deus - Spotify Singles",
-        "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 223422,
-      "name": "Confiar em Deus - Spotify Singles",
-      "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Confiar em Deus - Spotify Singles",
+        "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 223422,
+      "name": "Confiar em Deus - Spotify Singles",
+      "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Quem Te Guarda \u00c9 Deus",
-        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Quem Te Guarda \u00c9 Deus",
-      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 290250,
       "name": "Muda os Planos - Ao Vivo",
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Quem Te Guarda \u00c9 Deus",
+        "url": "https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quem Te Guarda \u00c9 Deus",
+      "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "Me Enche de Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Instrumental Acoustic Worship II",
-        "url": "https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Cacilias",
-          "url": "https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV"
-        }
-      ],
-      "duration_ms": 331544,
-      "name": "Ele \u00e9 Exaltado",
-      "url": "https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "SALVAON Ac\u00fastico, Vol. 1",
         "url": "https://open.spotify.com/album/3Rkaplu8WwsOFWymFX0x15"
       },
@@ -967,42 +951,18 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "O Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb"
+        "name": "Instrumental Acoustic Worship II",
+        "url": "https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q"
       },
       "artists": [
         {
-          "name": "Gabi Oliveira",
-          "url": "https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD"
-        },
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+          "name": "Marcelo Cacilias",
+          "url": "https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV"
         }
       ],
-      "duration_ms": 211999,
-      "name": "O Lugar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
-        "name": "Tuas \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Fernanda Madaloni",
-          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
-        }
-      ],
-      "duration_ms": 299893,
-      "name": "Tuas \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
+      "duration_ms": 331544,
+      "name": "Ele \u00e9 Exaltado",
+      "url": "https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -1031,6 +991,26 @@
       "duration_ms": 299008,
       "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
       "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "O Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb"
+      },
+      "artists": [
+        {
+          "name": "Gabi Oliveira",
+          "url": "https://open.spotify.com/artist/3zEDRm9Asx2fUq0ukH97GD"
+        },
+        {
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "O Lugar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -1067,6 +1047,26 @@
       "duration_ms": 228388,
       "name": "Falar Com Deus - Faixa B\u00f4nus",
       "url": "https://open.spotify.com/track/0hWrNzTck3XeSk05UGmd7b"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Tuas \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
+        }
+      ],
+      "duration_ms": 299893,
+      "name": "Tuas \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "Voz e Viol\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 244917,
       "name": "Eu Prefiro Adorar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
     },
     {
       "added_at": "2024-12-13 16:41:17",

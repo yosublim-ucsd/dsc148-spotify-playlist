@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 麋先生 \(Ｍixer\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,687 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,698 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [沒什麼大不了的心情](https://open.spotify.com/track/5oXzBuDM0rDJqoCkLERse9) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [沒什麼大不了的心情](https://open.spotify.com/album/51ZazKIk9VZJB8Ogt0m7gg) | 3:17 |
 | 2 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 |
-| 3 | [一個吻的時間 \(feat\. icyball 冰球樂團\)](https://open.spotify.com/track/0hcKfrkRn9sNlrKJLM7ZQh) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj), [icyball 冰球樂團](https://open.spotify.com/artist/4X2UN12l6zt3w0gVggphpv) | [一個吻的時間 \(feat\. icyball 冰球樂團\)](https://open.spotify.com/album/7HmD13Vr6HKEPYxpMEflCa) | 2:55 |
+| 3 | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/track/0hcKfrkRn9sNlrKJLM7ZQh) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj), [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/album/7HmD13Vr6HKEPYxpMEflCa) | 2:55 |
 | 4 | [詩山郭忠福](https://open.spotify.com/track/1pbwMfakKk4RkU5Om2NeuQ) | [草屯囝仔](https://open.spotify.com/artist/4iWbokr6sX6boUL1Jlxj28) | [詩山郭忠福](https://open.spotify.com/album/16ql0oejBYDJJC8fNHdpK0) | 4:04 |
 | 5 | [爱的赞美诗](https://open.spotify.com/track/04yIp0ieRclkmLul9BOkmB) | [The Life Journey](https://open.spotify.com/artist/3qs5OOuNyNxW1JGhfdgnUI) | [爱的赞美诗](https://open.spotify.com/album/6h7Gr9z8dbZFMaHxW380vV) | 4:18 |
 | 6 | [生命的關於](https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0), [黑豹乐队](https://open.spotify.com/artist/2SGTJVOtFUwbmgYHFBXRej) | [觀己](https://open.spotify.com/album/6AHjaNqXvdYbnTdi3a8IQs) | 4:08 |

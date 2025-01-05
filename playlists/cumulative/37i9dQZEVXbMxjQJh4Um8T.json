@@ -44,7 +44,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 197418,
       "name": "CHAPIADORA.COM",
       "url": "https://open.spotify.com/track/1iP7aZUNvyt2EtmpjSbtRz"
@@ -3240,7 +3240,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 223563,
       "name": "Desde Mis Ojos - Remix",
       "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
@@ -5074,7 +5074,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 214000,
       "name": "Freed from Desire",
       "url": "https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
@@ -8182,7 +8182,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -8414,7 +8414,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -8444,7 +8444,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -8704,7 +8704,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 127000,
       "name": "Me flipa",
       "url": "https://open.spotify.com/track/1ZTEc4KIj5Usofip2AmNsZ"
@@ -9953,6 +9953,28 @@
     },
     {
       "album": {
+        "name": "Olvidarte (feat. Emilia)",
+        "url": "https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp"
+    },
+    {
+      "album": {
         "name": "Que Se Caiga el Cielo",
         "url": "https://open.spotify.com/album/4coTyK7vESCTGwrtbHPOKn"
       },
@@ -10184,6 +10206,32 @@
       "duration_ms": 180725,
       "name": "Palmeras en el jard\u00edn",
       "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
+    },
+    {
+      "album": {
+        "name": "Parte & Choke",
+        "url": "https://open.spotify.com/album/0JjFiOt1Ws7Fy5itavO13r"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "Alex Krack",
+          "url": "https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205227,
+      "name": "Parte & Choke",
+      "url": "https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS"
     },
     {
       "album": {
@@ -11472,7 +11520,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -12624,7 +12672,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 219813,
       "name": "Sport+ RMX",
       "url": "https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ"
@@ -13580,7 +13628,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -13602,7 +13650,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -14030,7 +14078,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 190626,
       "name": "Tu Calorro",
       "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
@@ -14548,6 +14596,24 @@
       "duration_ms": 140239,
       "name": "Vacile",
       "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"
+    },
+    {
+      "album": {
+        "name": "VALKYRIE",
+        "url": "https://open.spotify.com/album/1BDg7jux2L7evMsw5QZ797"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "VALKYRIE",
+      "url": "https://open.spotify.com/track/6VFZJ2XxsZpKNupeG7ePr8"
     },
     {
       "album": {

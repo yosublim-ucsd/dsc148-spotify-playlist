@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sound from Asia\. Cover: Linying \(Singapore\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,488 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,644 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 62 | [WDYS](https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [WDYS](https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K) | 2:24 |
 | 63 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 |
 | 64 | [Dazed & Confused](https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l) | 3:47 |
-| 65 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 |
-| 66 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 |
+| 65 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 |
+| 66 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 |
 | 67 | [Lia](https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 4:20 |
 | 68 | [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 |
 | 69 | [midnight train](https://open.spotify.com/track/1tor3qcC8328FTK4NSEbMF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [we've been here before](https://open.spotify.com/album/6MHgBh6b08AKDR6X5TrJZz) | 3:05 |
 | 70 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 |
-| 71 | [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 |
-| 72 | [BACK TO REALITY](https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [CALL ME DRAMATIC](https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs) | 3:52 |
+| 71 | [BACK TO REALITY](https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [CALL ME DRAMATIC](https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs) | 3:52 |
+| 72 | [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 |
 | 73 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 |
 | 74 | [NO PAIN](https://open.spotify.com/track/4Tz8G2vbDj5GF3FDBC2Pnd) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 3:41 |
 | 75 | [Weirdo](https://open.spotify.com/track/6qjKT6qI5AeGajCaKq2mfS) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Weirdo](https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2) | 4:13 |

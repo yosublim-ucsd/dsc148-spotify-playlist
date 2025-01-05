@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 202319,
+  "num_followers": 202326,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAAg9Zh9EIjlazeyXDhM50aQ",
+  "snapshot_id": "Z3cogAAAAACt+WkR5ojDsS3N4ffXBgbQ",
   "tracks": [
     {
       "added_at": null,
@@ -615,30 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Urs\u00e3o",
-          "url": "https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Ningu\u00e9m Vai Te Superar",
-      "url": "https://open.spotify.com/track/3tU3mMJYq6qU3h0HCwdn0S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 236523,
       "name": "D\u00e1 pra ser?",
       "url": "https://open.spotify.com/track/7jdP9m9lpNp51ainfora8t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Urs\u00e3o",
+          "url": "https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Ningu\u00e9m Vai Te Superar",
+      "url": "https://open.spotify.com/track/3tU3mMJYq6qU3h0HCwdn0S"
     },
     {
       "added_at": null,

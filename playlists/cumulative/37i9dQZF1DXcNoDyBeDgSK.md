@@ -4,7 +4,7 @@
 
 > Music from "Blue Exorcist" /アニメ「青の祓魔師」シリーズの楽曲を1つのプレイリストで。<br/>©加藤和恵／集英社・「青の祓魔師」製作委員会
 
-62 songs - 4 hr 19 min
+64 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [アッシャー幻saw曲　第一楽章: Call me later](https://open.spotify.com/track/7HLLP3Ovn3UaP9AyCvUhuj) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック I](https://open.spotify.com/album/5MxnHdRzXsGXFkIwTrlWak) | 3:19 | 2024-10-05 |  |
 | [アッシャー幻saw曲　第三楽章: die Himmlische Musik](https://open.spotify.com/track/3YDEbxzePanEYFx8QVuu7x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 京都不浄王篇 オリジナル・サウンドトラック](https://open.spotify.com/album/1soV6zVwfd9AjLIipFCT7I) | 4:18 | 2024-10-05 |  |
 | [アッシャー幻saw曲　第二楽章: Tomorrow is another day](https://open.spotify.com/track/1nck3Umt98otMT4x7zF6Ev) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック I](https://open.spotify.com/album/5MxnHdRzXsGXFkIwTrlWak) | 3:49 | 2024-10-05 |  |
+| [オーバーラップ](https://open.spotify.com/track/73ajM2Yj0ce3MiAz0sBpRG) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [オーバーラップ](https://open.spotify.com/album/7D3vhF0b956sGCSzh98sRV) | 3:14 | 2025-01-04 |  |
 | [コノ手デ](https://open.spotify.com/track/6rgj0fefZAvgc12DQcpEDR) | [Rin Akatsuki](https://open.spotify.com/artist/6RW0qyqTFCtWmE9LYEAt3U) | [コノ手デ\(Special Edition\)](https://open.spotify.com/album/3TP6vC4SJxfvhxGmPqaxWS) | 4:21 | 2024-10-05 |  |
 | [ツララ](https://open.spotify.com/track/3EUD7BpNjkkhjCl4QqG2SI) | [Yobahi](https://open.spotify.com/artist/0aW4wm7ADVDMFMymRNhEvA) | [ツララ](https://open.spotify.com/album/2SeSQc43By8stPrLZ8gLMH) | 3:39 | 2024-10-05 |  |
 | [一滴の影響](https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [一滴の影響 \(Extra Edition\)](https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq) | 4:51 | 2024-10-05 |  |
@@ -62,6 +63,7 @@
 | [攻響組曲　DEVIL　第二楽章: i\-AM](https://open.spotify.com/track/54ZmypINQXmzY77fPUVcAo) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック I](https://open.spotify.com/album/5MxnHdRzXsGXFkIwTrlWak) | 5:37 | 2024-10-05 |  |
 | [攻響組曲　DEVIL　第四楽章: sA†An](https://open.spotify.com/track/0dvrdflH0ZhT2WpVPkYwnJ) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック I](https://open.spotify.com/album/5MxnHdRzXsGXFkIwTrlWak) | 4:13 | 2024-10-05 |  |
 | [暖かい焔](https://open.spotify.com/track/1QJs45H06Jjuq2iJtdlyYg) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [青の祓魔師 京都不浄王篇 オリジナル・サウンドトラック](https://open.spotify.com/album/1soV6zVwfd9AjLIipFCT7I) | 6:12 | 2024-10-05 |  |
+| [痛覚](https://open.spotify.com/track/3wnQnCDKSSlQDJELGWzj0V) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [痛覚](https://open.spotify.com/album/0RtFA6ThC0dUyWN1fhqEit) | 4:29 | 2025-01-04 |  |
 | [祓魔師強奏曲　第一楽章: Me & Creed](https://open.spotify.com/track/0t0u4H9AgnS0fQUvQwj6hd) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 Plugless](https://open.spotify.com/album/2ujSTuW87sRf4UbWQaLtcq) | 3:21 | 2024-10-05 | 2024-12-25 |
 | [祓魔師強奏曲　第一楽章: Me & Creed](https://open.spotify.com/track/75kRcbAkG2nhyeahaBJj5X) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック I](https://open.spotify.com/album/5MxnHdRzXsGXFkIwTrlWak) | 3:21 | 2024-10-05 |  |
 | [祓魔師強奏曲　第三楽章: U & Cloud](https://open.spotify.com/track/3h2MsVhQcdO03B2f1DA7X4) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [青の祓魔師 オリジナル・サウンドトラック I](https://open.spotify.com/album/5MxnHdRzXsGXFkIwTrlWak) | 3:41 | 2024-10-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 42947,
+  "num_followers": 43035,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,26 @@
     {
       "added_at": "2024-12-16 09:39:01",
       "album": {
+        "name": "C'mon Look! (feat. Asake)",
+        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "C'mon Look! (feat. Asake)",
+      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
+    },
+    {
+      "added_at": "2024-12-16 09:39:01",
+      "album": {
         "name": "Sooner",
         "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
       },
@@ -291,22 +311,6 @@
       "duration_ms": 169811,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
-    },
-    {
-      "added_at": "2024-12-16 09:39:01",
-      "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
       "added_at": "2024-12-16 09:39:01",
@@ -331,22 +335,18 @@
     {
       "added_at": "2024-12-16 09:39:01",
       "album": {
-        "name": "C'mon Look! (feat. Asake)",
-        "url": "https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi"
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
       },
       "artists": [
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 174062,
-      "name": "C'mon Look! (feat. Asake)",
-      "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
       "added_at": "2024-12-16 09:39:01",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-12-16 09:39:01",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
-    },
-    {
-      "added_at": "2024-12-16 09:39:01",
-      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
         "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
+    },
+    {
+      "added_at": "2024-12-16 09:39:01",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2024-12-16 09:39:01",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-12-16 09:39:01",
       "album": {
+        "name": "Orobo",
+        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 133285,
+      "name": "Orobo",
+      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
+    },
+    {
+      "added_at": "2024-12-16 09:39:01",
+      "album": {
         "name": "Twe Twe",
         "url": "https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 143111,
       "name": "Twe Twe",
       "url": "https://open.spotify.com/track/2khv04F26pnJr4989Maowi"
-    },
-    {
-      "added_at": "2024-12-16 09:39:01",
-      "album": {
-        "name": "Orobo",
-        "url": "https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 133285,
-      "name": "Orobo",
-      "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
     },
     {
       "added_at": "2024-12-16 09:39:01",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-12-16 09:39:01",
       "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
-    },
-    {
-      "added_at": "2024-12-16 09:39:01",
-      "album": {
         "name": "LOVE AND CHAOS",
         "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 176000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
+    },
+    {
+      "added_at": "2024-12-16 09:39:01",
+      "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
     },
     {
       "added_at": "2024-12-16 09:39:01",
@@ -1083,30 +1083,6 @@
     {
       "added_at": "2024-12-16 09:39:01",
       "album": {
-        "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
-        "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180530,
-      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
-      "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
-    },
-    {
-      "added_at": "2024-12-16 09:39:01",
-      "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
       },
@@ -1119,6 +1095,22 @@
       "duration_ms": 158520,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+    },
+    {
+      "added_at": "2024-12-16 09:39:01",
+      "album": {
+        "name": "Zormizor (Asabone)",
+        "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Zormizor (Asabone)",
+      "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
     },
     {
       "added_at": "2024-12-16 09:39:01",
@@ -1147,18 +1139,26 @@
     {
       "added_at": "2024-12-16 09:39:01",
       "album": {
-        "name": "Zormizor (Asabone)",
-        "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
+        "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+        "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
       },
       "artists": [
         {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 184615,
-      "name": "Zormizor (Asabone)",
-      "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
+      "duration_ms": 180530,
+      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+      "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
     },
     {
       "added_at": "2024-12-16 09:39:01",

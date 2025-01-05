@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 97 | [Company](https://open.spotify.com/track/55kYJ7B56iDV7jDgA6vKCJ) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Company](https://open.spotify.com/album/75YVWxYcBLnetgaM4GdU2g) | 3:43 |
 | 98 | [Trojan](https://open.spotify.com/track/512iljhgcY6CaENb5AZUYi) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Trojan](https://open.spotify.com/album/2A9g8Bla0yKYnwcCrmPBdh) | 2:19 |
 | 99 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 |
-| 100 | [Darkside](https://open.spotify.com/track/5eqqCdjErB7woHR39vRo60) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Darkside](https://open.spotify.com/album/4iuKwRcg4fHZJs0dENeM2H) | 2:53 |
-| 101 | [viisine](https://open.spotify.com/track/3eBj5qFyvabjmyJV1bTm2h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:19 |
+| 100 | [viisine](https://open.spotify.com/track/3eBj5qFyvabjmyJV1bTm2h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:19 |
+| 101 | [Darkside](https://open.spotify.com/track/5eqqCdjErB7woHR39vRo60) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Darkside](https://open.spotify.com/album/4iuKwRcg4fHZJs0dENeM2H) | 2:53 |
 | 102 | [Mojave](https://open.spotify.com/track/05bOlUVof9LtsARuf0M8Lz) | [Jad Saad](https://open.spotify.com/artist/3Re3peL3DQMzTe4c5WRX2e) | [Mojave](https://open.spotify.com/album/3iYarDlgjNdmC11Q2utJe8) | 3:03 |
 | 103 | [Free](https://open.spotify.com/track/17IHogEwGpHjodPv7zUrUB) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:29 |
 | 104 | [Lie](https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Missing Something](https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y) | 2:14 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 151 | [Freakshow](https://open.spotify.com/track/4WceOz4GIcG7FyYvkpcNQj) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/1JfiOjHXTPhks1hpToVbLX) | 2:24 |
 | 152 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 
-Snapshot ID: `Abl6NQAAAAByrZ8DjW/5KS2Z8EW9MnjU`
+Snapshot ID: `Abl/ygAAAAC+iFtWq2CKgrj/BO4QlFgc`

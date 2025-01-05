@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 77268,
+  "num_followers": 77298,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAACj751LHCE0OyiP/rAPM/1y",
+  "snapshot_id": "Z3cogAAAAABeexP49kweX4cTb6ciNS8J",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tiempo pa' Matar",
+        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 299373,
+      "name": "Tiempo Pa\u2019 Matar",
+      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Top Secrets",
         "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 353773,
       "name": "Asia",
       "url": "https://open.spotify.com/track/3CfIDPm4i05VYkF0SvEWdb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempo pa' Matar",
-        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 299373,
-      "name": "Tiempo Pa\u2019 Matar",
-      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
     },
     {
       "added_at": null,

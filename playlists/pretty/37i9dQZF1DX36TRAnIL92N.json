@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 376559,
+  "num_followers": 376862,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-12-09 15:36:14",
       "album": {
-        "name": "Sturm und Drang",
-        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
-      },
-      "artists": [
-        {
-          "name": "Schrotthagen",
-          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
-        }
-      ],
-      "duration_ms": 224698,
-      "name": "Pain in my Heart",
-      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
-    },
-    {
-      "added_at": "2024-12-09 15:36:14",
-      "album": {
         "name": "Up Down Jumper",
         "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 432000,
       "name": "Up Down Jumper",
       "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
+    },
+    {
+      "added_at": "2024-12-09 15:36:14",
+      "album": {
+        "name": "Sturm und Drang",
+        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "duration_ms": 224698,
+      "name": "Pain in my Heart",
+      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
     },
     {
       "added_at": "2024-12-09 15:36:14",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-12-09 15:36:14",
       "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
+    },
+    {
+      "added_at": "2024-12-09 15:36:14",
+      "album": {
         "name": "Elysium",
         "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 253242,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
-    },
-    {
-      "added_at": "2024-12-09 15:36:14",
-      "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2024-12-09 15:36:14",

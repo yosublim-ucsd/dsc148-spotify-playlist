@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 112579,
+  "num_followers": 112602,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -531,8 +531,8 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
-        "url": "https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi"
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 137493,
-      "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
-      "url": "https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa"
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -703,8 +703,8 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
+        "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
+        "url": "https://open.spotify.com/album/7IQDes4hzYHoIR9c4FV6gi"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
+      "duration_ms": 137493,
+      "name": "Hej, hall\u00e5 (Fylla banker p\u00e5)",
+      "url": "https://open.spotify.com/track/77njX2H1TKxfuQEUpvC8Aa"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Flammer og Bensin",
+        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Flammer og Bensin",
+      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 154951,
       "name": "Partyjoik",
       "url": "https://open.spotify.com/track/180k05Dn11ylHDEkIzvssR"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Flammer og Bensin",
-        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Flammer og Bensin",
-      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Bare for i kveld",
+        "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Bare for i kveld",
+      "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "H\u00e5per du er lykkelig n\u00e5",
         "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 179760,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Bare for i kveld",
-        "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 196080,
-      "name": "Bare for i kveld",
-      "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Gamle helter",
-        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Gamle helter",
-      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Jeg Er Bare Lykkelig N\u00e5r Jeg Drikker",
         "url": "https://open.spotify.com/album/7zam9UpRx0iBlvHsRJ9dld"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 157937,
       "name": "Jeg Er Bare Lykkelig N\u00e5r Jeg Drikker",
       "url": "https://open.spotify.com/track/2RXphY5aZVR5SSbkbwXrPh"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Gamle helter",
+        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Gamle helter",
+      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
     },
     {
       "added_at": "2024-10-31 23:00:00",

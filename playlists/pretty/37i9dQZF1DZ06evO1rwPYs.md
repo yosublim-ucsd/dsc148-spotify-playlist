@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,006 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,044 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 36 | [Canto A La Habana](https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 5:31 |
 | 37 | [No Hay Nada Mejor](https://open.spotify.com/track/5CMpOH70qypRlGJBqTxUFx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Dinámica!](https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT) | 2:32 |
 | 38 | [Oye Cómo Va](https://open.spotify.com/track/4C94C44OC2CI2acYitbGGE) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Fania Records: The 60's, Vol\. Three](https://open.spotify.com/album/7Hb26qi6ORGMxTxh24WRsK) | 4:32 |
-| 39 | [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 |
-| 40 | [Cao Cao Maní Picao](https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 3:44 |
+| 39 | [Cao Cao Maní Picao](https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 3:44 |
+| 40 | [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 |
 | 41 | [Ven Bernabe \- Remastered](https://open.spotify.com/track/5v5QvuADGTmk9D0rST4s0e) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Anthology: Antología de la Salsa \(Remastered\)](https://open.spotify.com/album/4rJIYIlWtTC4VkFhVbjMP1) | 2:48 |
 | 42 | [Guede Zaina](https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Grandes Éxitos De Celia Cruz](https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3) | 3:09 |
 | 43 | [Esperaré](https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira](https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Tres Días De Carnaval](https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 4:59 |
 | 50 | [Aunque Me Cueste La Vida](https://open.spotify.com/track/2gkfXIFTGr48G6TWd6z13r) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:09 |
 
-Snapshot ID: `Z3XXAAAAAAC7JZt79f7UL+kDmabnCoX+`
+Snapshot ID: `Z3cogAAAAAA4whezWyI6bWNAGD62wTwr`

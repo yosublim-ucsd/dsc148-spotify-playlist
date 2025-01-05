@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,012 likes - 330 songs - 20 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,013 likes - 330 songs - 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 142 | [Santa Visits Everyone](https://open.spotify.com/track/42NDZG3B5hGoU6YIrJB8dK) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 3:08 |
 | 143 | [Sing for My Life](https://open.spotify.com/track/3msZWSvVMIybnhN29nK2KM) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:44 |
 | 144 | [Who Am I?](https://open.spotify.com/track/732QOzrBUFi0gGWNU9gB7d) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Cameron Diaz](https://open.spotify.com/artist/1lrL3Lwyoyij9dFwSayDsV), [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:20 |
-| 145 | [Bring Night](https://open.spotify.com/track/1gni0TfcnJB5Wn3VZnTuet) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 2:57 |
-| 146 | [MTG \- ELASTIC HEART](https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG \- ELASTIC HEART](https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd) | 1:20 |
+| 145 | [MTG \- ELASTIC HEART](https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG \- ELASTIC HEART](https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd) | 1:20 |
+| 146 | [Bring Night](https://open.spotify.com/track/1gni0TfcnJB5Wn3VZnTuet) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 2:57 |
 | 147 | [Oblivion \(feat\. Sia\)](https://open.spotify.com/track/1xywEdOKhIfnxqthSYZR8W) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 4:13 |
 | 148 | [Telepathy \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5vY0eZdiJSgEkIJN96y4MN) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 3:11 |
 | 149 | [Waving Goodbye](https://open.spotify.com/track/06hqgWTJ7pFeCMxCe0gAIA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Neon Demon \(Original Soundtrack Album\)](https://open.spotify.com/album/5LbUg7mPxUtjZO9zopDxrc) | 3:57 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 329 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 330 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `Abl6NAAAAADyJz5BwsnFk0xxFo+Z4XSO`
+Snapshot ID: `Abl/1AAAAADnH3SXQAVFBKmAxuNZE3xm`

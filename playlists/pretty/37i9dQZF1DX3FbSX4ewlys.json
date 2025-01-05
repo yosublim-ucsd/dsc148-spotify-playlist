@@ -1,6 +1,6 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 43549,
+  "num_followers": 43574,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Left Of The Middle",
-        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Left Of The Middle",
+        "url": "https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 264173,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 232066,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 264173,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "El tiempo",
-        "url": "https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5"
-      },
-      "artists": [
-        {
-          "name": "Benny",
-          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/2bT63N8XN3L82uloE8i4Di"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "The Best Of Hanson 20th Century Masters The Millennium Collection",
         "url": "https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 238733,
       "name": "MMMBop - Single Version",
       "url": "https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "El tiempo",
+        "url": "https://open.spotify.com/album/025y8NVegAk0HEAZwXRHo5"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/2bT63N8XN3L82uloE8i4Di"
     },
     {
       "added_at": "2024-07-05 01:24:37",

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 66759,
+  "num_followers": 66816,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAACn8B8uMArb9uuyTQWXbLqX",
+  "snapshot_id": "Z3cogAAAAAB+cv55JgI2I3wLZhZ/RKXk",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Every Stage",
-        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "Blowin' In The Wind - Live",
-      "url": "https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
         "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 231773,
       "name": "It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964",
       "url": "https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Every Stage",
+        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "Blowin' In The Wind - Live",
+      "url": "https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "The Water Is Wide - Live",
-      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 206466,
       "name": "It's All Over Now, Baby Blue",
       "url": "https://open.spotify.com/track/7kFN6oceID4DUi29EjIYmi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "The Water Is Wide - Live",
+      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "There But For Fortune",
-      "url": "https://open.spotify.com/track/7qY7QChY4O2D3QhwgvNx8R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "There But For Fortune",
+      "url": "https://open.spotify.com/track/7qY7QChY4O2D3QhwgvNx8R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 140000,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Hello In There",
+      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
     },
     {
       "added_at": null,
@@ -403,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Hello In There",
-      "url": "https://open.spotify.com/track/5T0sb6FbmtLkOkAW08Wfqs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Baez, Vol. Ii",
         "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 190973,
       "name": "Plaisir D' Amour",
       "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Never Dreamed You'd Leave In Summer",
+      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Never Dreamed You'd Leave In Summer",
-      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 185933,
       "name": "Colours",
       "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Winds Of The Old Days",
+      "url": "https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v"
     },
     {
       "added_at": null,
@@ -539,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
       "artists": [
         {
@@ -548,9 +564,25 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Winds Of The Old Days",
-      "url": "https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v"
+      "duration_ms": 139240,
+      "name": "Daddy, You Been On My Mind",
+      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX"
     },
     {
       "added_at": null,
@@ -575,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 139240,
-      "name": "Daddy, You Been On My Mind",
-      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -607,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
       "artists": [
         {
@@ -616,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 181093,
-      "name": "You Ain't Goin' Nowhere",
-      "url": "https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX"
+      "duration_ms": 223733,
+      "name": "East Virginia",
+      "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 220866,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "East Virginia",
-      "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 149933,
-      "name": "De Colores",
-      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come From The Shadows",
         "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 263893,
       "name": "Prison Trilogy (Billy Rose)",
       "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 149933,
+      "name": "De Colores",
+      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extras",
         "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
       },
@@ -807,34 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
+        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
       },
       "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 157160,
-      "name": "Wildwood Flower",
-      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed Are...",
-        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Blessed Are",
-      "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
+      "duration_ms": 185400,
+      "name": "Mama, You Been on My Mind - Live at Philharmonic Hall, New York, NY - October 1964",
+      "url": "https://open.spotify.com/track/48p7zj5Ief2UIzbNWAMfPN"
     }
   ],
   "unique_name": "This Is Joan Baez",

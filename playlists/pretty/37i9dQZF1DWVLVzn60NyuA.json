@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 447542,
+  "num_followers": 447530,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 171764,
       "name": "Infinity (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Baby Riddim",
-        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Baby Riddim",
-      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 153946,
       "name": "i'm a mess",
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "Baby Riddim",
+        "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Baby Riddim",
+      "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -715,6 +715,26 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
         "name": "Jolie Fille (feat. Layefa)",
         "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
       },
@@ -743,22 +763,18 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+      "duration_ms": 185898,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -787,22 +803,6 @@
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 185898,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Tiki Taka",
-        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Tiki Taka",
-      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "attention (with Justin Bieber)",
         "url": "https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Bailando en la Lluvia",
-        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Bailando en la Lluvia",
-      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "So Distant (feat. Tayc)",
         "url": "https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA"
       },
@@ -1919,18 +1903,34 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "Waistline",
-        "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
+        "name": "Bailando en la Lluvia",
+        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 165154,
-      "name": "Waistline",
-      "url": "https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua"
+      "duration_ms": 173748,
+      "name": "Bailando en la Lluvia",
+      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "understand",
+        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -1959,18 +1959,18 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "understand",
-        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
+        "name": "Waistline",
+        "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
+      "duration_ms": 165154,
+      "name": "Waistline",
+      "url": "https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua"
     },
     {
       "added_at": "2024-12-20 09:54:52",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-12-20 09:54:52",
       "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
-    },
-    {
-      "added_at": "2024-12-20 09:54:52",
-      "album": {
         "name": "Essa Dan\u00e7a",
         "url": "https://open.spotify.com/album/3cboQNy5mz93cr9AmvT5VW"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 216000,
       "name": "Essa Dan\u00e7a",
       "url": "https://open.spotify.com/track/5FBPxXwpBLA8CH1wHRvDhq"
+    },
+    {
+      "added_at": "2024-12-20 09:54:52",
+      "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
     },
     {
       "added_at": "2024-12-20 09:54:52",

@@ -525,6 +525,32 @@
     },
     {
       "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
+    },
+    {
+      "album": {
         "name": "My Turn",
         "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
       },
@@ -569,6 +595,24 @@
     },
     {
       "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117200,
+      "name": "F U 2x",
+      "url": "https://open.spotify.com/track/3vC25KvbbtiqQ1m1LGkpuv"
+    },
+    {
+      "album": {
         "name": "The Idol Episode 5 Part 1 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/4q3wUuIReEjGSYzmSsxtl6"
       },
@@ -588,7 +632,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 262229,
       "name": "False Idols (with Lil Baby, Suzanna Son)",
       "url": "https://open.spotify.com/track/6cViXqp01e3FrAaseuiSAV"
@@ -841,6 +885,24 @@
     },
     {
       "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/0m0NTpTPaIajAhXDPJ9wvL"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -963,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Listen Up",
+      "url": "https://open.spotify.com/track/4y8ZziqKtReDDWhA7JbmpS"
+    },
+    {
+      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -1022,7 +1102,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 160776,
       "name": "Never Hating (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
@@ -1114,7 +1194,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 188606,
       "name": "No Sucker (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
@@ -1184,7 +1264,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 199011,
       "name": "Oh Okay (feat. Young Thug & Lil Baby)",
       "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
@@ -1298,10 +1378,32 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 152410,
       "name": "Options (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy"
+    },
+    {
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Outfit (with 21 Savage)",
+      "url": "https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr"
     },
     {
       "album": {
@@ -1653,6 +1755,28 @@
     },
     {
       "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "Stuff (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2BsDkWthyNrYbpY3iOnrR0"
+    },
+    {
+      "album": {
         "name": "My Turn",
         "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
       },
@@ -1690,7 +1814,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 136366,
       "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"

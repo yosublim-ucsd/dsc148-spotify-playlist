@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 343414,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/1PuSX4DWNVeND5BqOYehrI"
@@ -5401,6 +5401,40 @@
     },
     {
       "album": {
+        "name": "Forever (feat. Malou & Yuna) [MEDUZA Remix]",
+        "url": "https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161463,
+      "name": "Forever (feat. Malou & Yuna) - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU"
+    },
+    {
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/0mVSBUkT9iJDGwl0fO3oom"
       },
@@ -5544,6 +5578,24 @@
       "duration_ms": 373333,
       "name": "Gaida",
       "url": "https://open.spotify.com/track/4yUnIfJyactd9T615iFFjQ"
+    },
+    {
+      "album": {
+        "name": "Galata",
+        "url": "https://open.spotify.com/album/21TBQY99v6kfUoAQ7WZIqk"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Galata",
+      "url": "https://open.spotify.com/track/4X1dCRlx1f2VQvzHAhA6jn"
     },
     {
       "album": {
@@ -6306,7 +6358,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 202000,
       "name": "Houdini - Adam Port Mix",
       "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
@@ -13746,7 +13798,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 191250,
       "name": "Shake Body",
       "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
@@ -15446,6 +15498,32 @@
       "duration_ms": 348020,
       "name": "The Stars",
       "url": "https://open.spotify.com/track/6XZrEFdwo0cnbwy24llaLI"
+    },
+    {
+      "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/3URfbFDvjOYm15WjPrWe9D"
+      },
+      "artists": [
+        {
+          "name": "Celeda",
+          "url": "https://open.spotify.com/artist/6eOBEYGx9M4t87osYMIakb"
+        },
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        },
+        {
+          "name": "Karl8 & Andrea Monta",
+          "url": "https://open.spotify.com/artist/4fMsgTeKWUFIthLdhpNEjC"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "The Underground - Edit",
+      "url": "https://open.spotify.com/track/52fdxR7dhpUlqz5QhYGtQr"
     },
     {
       "album": {

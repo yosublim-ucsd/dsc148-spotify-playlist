@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa Pihlaja.",
-  "num_followers": 24310,
+  "num_followers": 24308,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "Aquamarine",
-        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 162814,
-      "name": "Aquamarine",
-      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 162814,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "Wild Long Lie",
-        "url": "https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 364533,
-      "name": "Wild Long Lie",
-      "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "Missionary",
         "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 163722,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Wild Long Lie",
+        "url": "https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 364533,
+      "name": "Wild Long Lie",
+      "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 139830,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "Iha miten vaa",
         "url": "https://open.spotify.com/album/5yn9M6Cd8HYBCt1Yvt5Wrm"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 196837,
       "name": "Iha miten vaa",
       "url": "https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 139830,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
+        "name": "Sweet Delusion",
+        "url": "https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 172282,
+      "name": "Sweet Delusion",
+      "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
         "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
         "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 176034,
       "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
-        "name": "Sweet Delusion",
-        "url": "https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 172282,
-      "name": "Sweet Delusion",
-      "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1715,58 +1715,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "Dead Presidents",
-        "url": "https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m"
-      },
-      "artists": [
-        {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 181716,
-      "name": "Dead Presidents",
-      "url": "https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
-        "name": "Freedom Of The Night",
-        "url": "https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Freedom Of The Night",
-      "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/4MH3D8angFt2z5B8yO3xnG"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "Jeesus",
         "url": "https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe"
       },
@@ -1787,6 +1735,58 @@
       "duration_ms": 110810,
       "name": "Jeesus",
       "url": "https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Freedom Of The Night",
+        "url": "https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Freedom Of The Night",
+      "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Dead Presidents",
+        "url": "https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 181716,
+      "name": "Dead Presidents",
+      "url": "https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/4MH3D8angFt2z5B8yO3xnG"
     },
     {
       "added_at": "2025-01-02 22:01:09",

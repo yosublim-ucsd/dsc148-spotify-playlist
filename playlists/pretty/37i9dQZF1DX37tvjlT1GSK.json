@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Uriel VR en portada. ",
-  "num_followers": 804759,
+  "num_followers": 804789,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
-      },
-      "artists": [
-        {
-          "name": "La Cuatiza",
-          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
-        }
-      ],
-      "duration_ms": 133250,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 136182,
       "name": "Flores",
       "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX"
+      },
+      "artists": [
+        {
+          "name": "La Cuatiza",
+          "url": "https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp"
+        }
+      ],
+      "duration_ms": 133250,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT"
     },
     {
       "added_at": "2024-12-20 06:00:11",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -1511,26 +1531,6 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 223125,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
         "name": "todo me vale madre",
         "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
       },
@@ -1599,42 +1599,6 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Si Tu Te Fueras De Mi",
-      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
-        "name": "Rolex Medusa",
-        "url": "https://open.spotify.com/album/4TzU5aaXkieHC6r6sWUYuQ"
-      },
-      "artists": [
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 171525,
-      "name": "Rolex Medusa",
-      "url": "https://open.spotify.com/track/52defVJm9YFsnxniPp7LVC"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
         "name": "Uno Mas Uno Igual A Zero",
         "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
       },
@@ -1655,6 +1619,22 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Si Tu Te Fueras De Mi",
+      "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
         "name": "Las 745",
         "url": "https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 163073,
       "name": "Las 745",
       "url": "https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
+        "name": "Rolex Medusa",
+        "url": "https://open.spotify.com/album/4TzU5aaXkieHC6r6sWUYuQ"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 171525,
+      "name": "Rolex Medusa",
+      "url": "https://open.spotify.com/track/52defVJm9YFsnxniPp7LVC"
     },
     {
       "added_at": "2024-12-20 06:00:11",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Pal Amor Soy Malo",
-        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Pal Amor Soy Malo",
-      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
         "name": "Enamorarte",
         "url": "https://open.spotify.com/album/0IqwNqNpCxvY4ctfiNPSQj"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 148333,
       "name": "Enamorarte",
       "url": "https://open.spotify.com/track/2yokG8XuX62r9kNYIcvRYs"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
+        "name": "Pal Amor Soy Malo",
+        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Pal Amor Soy Malo",
+      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
     },
     {
       "added_at": "2024-12-20 06:00:11",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
+        "name": "Capitulo 2: El A\u00f1o Del Dragon",
+        "url": "https://open.spotify.com/album/038xP0ZpQuao8QBXZ14qAQ"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 182812,
+      "name": "La Oveja Negra",
+      "url": "https://open.spotify.com/track/6bA5RoXzQE1M4BhiJreCBQ"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
         "name": "Perro Abandonado",
         "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
       },
@@ -1827,34 +1843,18 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Mariposa Traicionera",
-        "url": "https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ"
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 244517,
-      "name": "Mariposa Traicionera",
-      "url": "https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
-        "name": "Capitulo 2: El A\u00f1o Del Dragon",
-        "url": "https://open.spotify.com/album/038xP0ZpQuao8QBXZ14qAQ"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 182812,
-      "name": "La Oveja Negra",
-      "url": "https://open.spotify.com/track/6bA5RoXzQE1M4BhiJreCBQ"
+      "duration_ms": 197055,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/4afProqHUVQW8v1ympoNTP"
     },
     {
       "added_at": "2024-12-20 06:00:11",
@@ -1879,22 +1879,6 @@
       "duration_ms": 153655,
       "name": "Buenas Rachas",
       "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 197055,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/4afProqHUVQW8v1ympoNTP"
     },
     {
       "added_at": "2024-12-20 06:00:11",
@@ -1931,22 +1915,18 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Trippy Love",
-        "url": "https://open.spotify.com/album/4OUD5Az0wnZs7jgHVxatak"
+        "name": "Mariposa Traicionera",
+        "url": "https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ"
       },
       "artists": [
         {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 224170,
-      "name": "Trippy Love",
-      "url": "https://open.spotify.com/track/58MPaYlQ73JTa2DwkMDEyM"
+      "duration_ms": 244517,
+      "name": "Mariposa Traicionera",
+      "url": "https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16"
     },
     {
       "added_at": "2024-12-20 06:00:11",
@@ -1963,6 +1943,26 @@
       "duration_ms": 223200,
       "name": "Hoy la Vi Con \u00c9l - En Vivo",
       "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
+        "name": "Trippy Love",
+        "url": "https://open.spotify.com/album/4OUD5Az0wnZs7jgHVxatak"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 224170,
+      "name": "Trippy Love",
+      "url": "https://open.spotify.com/track/58MPaYlQ73JTa2DwkMDEyM"
     },
     {
       "added_at": "2024-12-20 06:00:11",
@@ -2207,18 +2207,22 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Ya No Saben Igual",
-        "url": "https://open.spotify.com/album/3os6HHMq9Nple7tvhWDFAn"
+        "name": "Don Nadie",
+        "url": "https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         }
       ],
-      "duration_ms": 172373,
-      "name": "Ya No Saben Igual",
-      "url": "https://open.spotify.com/track/04So7ztX0zmpojweaXY0ss"
+      "duration_ms": 191259,
+      "name": "Don Nadie",
+      "url": "https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q"
     }
   ],
   "unique_name": "Sierre\u00f1o 2024",

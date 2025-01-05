@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28359,
+  "num_followers": 28360,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
+        "name": "Veien",
+        "url": "https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 187083,
+      "name": "Veien",
+      "url": "https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
         "name": "R\u00e4dda mig",
         "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 143520,
       "name": "R\u00e4dda mig",
       "url": "https://open.spotify.com/track/412YYGmYAYGhQUycB3GPoc"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
-        "name": "Veien",
-        "url": "https://open.spotify.com/album/2jOfK6CHx9TeSz0pHTkCf1"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 187083,
-      "name": "Veien",
-      "url": "https://open.spotify.com/track/1SlBmDNI7xZLiCRUxzrY8c"
     },
     {
       "added_at": "2025-01-02 23:00:10",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
-        "name": "Whina",
-        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Whina",
-      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
         "name": "MANDANA",
         "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
       },
@@ -1095,8 +1079,24 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
-        "name": "Bad B**** (feat. Arif Murakami)",
-        "url": "https://open.spotify.com/album/0WSyzz9ARLgAD0PSL1Gj1Q"
+        "name": "Whina",
+        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Whina",
+      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
+        "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
+        "url": "https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76"
       },
       "artists": [
         {
@@ -1110,15 +1110,11 @@
         {
           "name": "Siyab\u00e5ng",
           "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 164354,
-      "name": "Bad B**** (feat. Arif Murakami)",
-      "url": "https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt"
+      "duration_ms": 140775,
+      "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
+      "url": "https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv"
     },
     {
       "added_at": "2025-01-02 23:00:10",
@@ -1139,26 +1135,6 @@
       "duration_ms": 135000,
       "name": "S\u00e4g Mig",
       "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
-        "name": "SIPPER",
-        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        },
-        {
-          "name": "Dutty Dior",
-          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "SIPPER",
-      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
     },
     {
       "added_at": "2025-01-02 23:00:10",
@@ -1199,6 +1175,26 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
+        "name": "SIPPER",
+        "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        },
+        {
+          "name": "Dutty Dior",
+          "url": "https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg"
+        }
+      ],
+      "duration_ms": 135333,
+      "name": "SIPPER",
+      "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
     },
     {
       "added_at": "2025-01-02 23:00:10",
@@ -1279,8 +1275,8 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
-        "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
-        "url": "https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76"
+        "name": "Bad B**** (feat. Arif Murakami)",
+        "url": "https://open.spotify.com/album/0WSyzz9ARLgAD0PSL1Gj1Q"
       },
       "artists": [
         {
@@ -1294,11 +1290,15 @@
         {
           "name": "Siyab\u00e5ng",
           "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 140775,
-      "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
-      "url": "https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv"
+      "duration_ms": 164354,
+      "name": "Bad B**** (feat. Arif Murakami)",
+      "url": "https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt"
     },
     {
       "added_at": "2025-01-02 23:00:10",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 164812,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
         "name": "Real Life (feat. Arif Murakami)",
         "url": "https://open.spotify.com/album/1K1EtcXwQuy4pxyXABzC5k"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 151897,
       "name": "Real Life (feat. Arif Murakami)",
       "url": "https://open.spotify.com/track/2rHUkDDrpg9U2gW530WZNi"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 164812,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
     }
   ],
   "unique_name": "100 (2)",

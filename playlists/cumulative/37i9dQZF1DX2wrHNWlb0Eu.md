@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-190 songs - 11 hr 48 min
+191 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/track/0jfh6PNB5GBg094Ilg84yG) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/album/01eKsPypv6vDuDznnhMWfe) | 3:50 | 2023-02-10 | 2023-04-30 |
 | [ปีนี้ไม่ต้องเหงาคนเดียวแล้วโว้ย](https://open.spotify.com/track/2L98ftReSp3kqlzxGSTLtY) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 3:50 | 2023-06-09 | 2024-04-19 |
 | [ผู้ถูกเลือกให้สมหวัง \(ดอกไม้ของวันใหม่\)](https://open.spotify.com/track/4tBWxgyjEPmZOKDSwLTGXt) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ผู้ถูกเลือกให้สมหวัง \(ดอกไม้ของวันใหม่\)](https://open.spotify.com/album/6kUC35lsX2YfYKvqA4Kmkw) | 4:26 | 2024-02-12 | 2024-03-17 |
-| [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\) \- Single](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 | 2023-02-10 |  |
+| [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\) \- Single](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 | 2023-02-10 | 2025-01-05 |
 | [ฝนตกไหม](https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝนตกไหม \- Single](https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj) | 4:21 | 2023-02-10 |  |
 | [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 | 2023-02-10 |  |
 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-07-15 |  |
@@ -113,6 +113,7 @@
 | [ยอม \(Surrender\)](https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ยอม \(Surrender\)](https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq) | 3:15 | 2024-09-18 | 2024-11-25 |
 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2023-10-06 |  |
 | [ยิ้มก็พอ feat\. Wonderframe](https://open.spotify.com/track/089OggImoTkmiPMVtVAs3I) | [TOR Saksit](https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR), [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [ยิ้มก็พอ](https://open.spotify.com/album/0IsfsMc7MH55yjHssa3Mfd) | 4:05 | 2024-12-31 |  |
+| [ยิ้มมา](https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ยิ้มมา](https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0) | 2:52 | 2024-12-31 |  |
 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 | 2024-02-12 |  |
 | [รอ](https://open.spotify.com/track/72hhTWu9CZwZan3iC3U3DS) | [Basketband](https://open.spotify.com/artist/0x6cwE90aYe5YXaImt5MQj) | [รอ](https://open.spotify.com/album/3vW7yJhsN0dWG2tuApv8EW) | 3:36 | 2023-02-10 | 2024-08-24 |
 | [รอยยิ้ม](https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [clean](https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2) | 4:18 | 2023-02-10 |  |

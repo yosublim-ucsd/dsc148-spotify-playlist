@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: MF DOOM",
-  "num_followers": 554610,
+  "num_followers": 554995,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-11-12 18:45:35",
       "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "I Juswanna Chill",
-      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
-    },
-    {
-      "added_at": "2024-11-12 18:45:35",
-      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 187026,
       "name": "Blast",
       "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
+    },
+    {
+      "added_at": "2024-11-12 18:45:35",
+      "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "I Juswanna Chill",
+      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
     },
     {
       "added_at": "2024-11-12 18:45:35",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-11-12 18:45:35",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
-      },
-      "artists": [
-        {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "3 Tha Hard Way",
-      "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
-    },
-    {
-      "added_at": "2024-11-12 18:45:35",
-      "album": {
         "name": "Nia",
         "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 311760,
       "name": "Deception",
       "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
+    },
+    {
+      "added_at": "2024-11-12 18:45:35",
+      "album": {
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+      },
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "3 Tha Hard Way",
+      "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
     },
     {
       "added_at": "2024-11-12 18:45:35",
@@ -963,18 +963,26 @@
     {
       "added_at": "2024-11-12 18:45:35",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
       },
       "artists": [
         {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+          "name": "Jaylib",
+          "url": "https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 221640,
-      "name": "True Honey Buns (Dat Freak Shit)",
-      "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
+      "duration_ms": 183240,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/19pv5x4XDuhZ7TgI7RH5Et"
     }
   ],
   "unique_name": "I Love My Underground Classics",

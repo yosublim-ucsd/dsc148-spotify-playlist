@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 70787,
+  "num_followers": 70803,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAD2q943GLaf1YDkWjE7s0OB",
+  "snapshot_id": "Z3cogAAAAAAoOW/4YyJAMyqw77S8tAkz",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/6AvVOWpkcjSQQ11jB6BFQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 202906,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/6AvVOWpkcjSQQ11jB6BFQH"
     },
     {
       "added_at": null,
@@ -779,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frida (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Mariachi Juvenil de Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1"
         }
       ],
-      "duration_ms": 140493,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
+      "duration_ms": 260013,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
     },
     {
       "added_at": null,
@@ -819,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+        "name": "Frida (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Mariachi Juvenil de Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
+      "duration_ms": 140493,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Sandunga",
         "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 253400,
       "name": "La Sandunga",
       "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": null,
@@ -987,6 +987,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mundo Nuevo",
+        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Mundo Nuevo",
+      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 214333,
       "name": "Dos Corazones",
       "url": "https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mundo Nuevo",
-        "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Mundo Nuevo",
-      "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
     },
     {
       "added_at": null,

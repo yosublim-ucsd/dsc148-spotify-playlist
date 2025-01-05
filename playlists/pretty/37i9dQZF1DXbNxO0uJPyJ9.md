@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,141 likes - 80 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,349 likes - 80 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 16 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 |
 | 17 | [Baker Street \- Extended Mix](https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70) | [Undercover](https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7) | [Baker Street](https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW) | 5:11 |
 | 18 | [The Safety Dance \- Extended Club Mix](https://open.spotify.com/track/6GhqhdkrscDjFdGh8K5bmU) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [The Safety Dance](https://open.spotify.com/album/1bVEmlJR8R3PSd4FHe9xms) | 4:33 |
-| 19 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
-| 20 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
+| 19 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 |
+| 20 | [I Like Chopin \- Extended Dance Version](https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [80s: 100 Remixes](https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s) | 7:38 |
 | 21 | [Maneater \- Extended Club Mix](https://open.spotify.com/track/1kTH8Ok1XWldpvIuzrCHFg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Original Album Classics](https://open.spotify.com/album/7rsyTubfxdtX7lWCVmmBVy) | 5:58 |
 | 22 | [Running In The Family \- Extended Version](https://open.spotify.com/track/5vTKn6MszumvJHpobYCcEq) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 6:14 |
 | 23 | [Heart Of Glass \- 12" Version](https://open.spotify.com/track/1ZhyS4b9gLOEpJ9pUIncva) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie Singles Collection: 1977\-1982](https://open.spotify.com/album/6hDo5Rj0Rc564d0duAaXP8) | 5:50 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 64 | [High Society Girl \- Long Dub Version; 1983 Digital Remaster](https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:10 |
 | 65 | [Dancing On The Ceiling \- 12" Version](https://open.spotify.com/track/3hCsLasVlmTBQu7QDw1isr) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 7:10 |
 | 66 | [Too Shy \- Extended Version](https://open.spotify.com/track/3ePc9YMjz2xPMpHosrG9t5) | [Kajagoogoo](https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl) | [The Very Best Of Kajagoogoo](https://open.spotify.com/album/18QlJWuxHQ1IGQ52qf8T1m) | 5:27 |
-| 67 | [Don't You Want Me \- Extended Dance Mix / 2012 Remaster](https://open.spotify.com/track/1UXYBgzn0vmDAG6NimtPLY) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare/Fascination! \(2012 \- Remaster\)](https://open.spotify.com/album/410corLJsB6WHRWedbo4wg) | 7:31 |
-| 68 | [High Energy \(Extended Version\)](https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ) | [Evelyn Thomas](https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh) | [High Energy](https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn) | 7:51 |
+| 67 | [High Energy \(Extended Version\)](https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ) | [Evelyn Thomas](https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh) | [High Energy](https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn) | 7:51 |
+| 68 | [Don't You Want Me \- Extended Dance Mix / 2012 Remaster](https://open.spotify.com/track/1UXYBgzn0vmDAG6NimtPLY) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare/Fascination! \(2012 \- Remaster\)](https://open.spotify.com/album/410corLJsB6WHRWedbo4wg) | 7:31 |
 | 69 | [Such a Shame \- Extended Mix; 2003 Remaster](https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Remixed \(2003 Remaster\)](https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4) | 7:01 |
 | 70 | [How Will I Know \- John "Jellybean" Benitez Remix](https://open.spotify.com/track/1dW1kgruSVDh57IsBfuocK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston \(The Deluxe Anniversary Edition\)](https://open.spotify.com/album/04arXzlpe9GdzQ8yPzAjAE) | 6:31 |
 | 71 | [Jump \(For My Love\) \- 12" Long Version](https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Goldmine: The Best Of The Pointer Sisters](https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7) | 6:24 |

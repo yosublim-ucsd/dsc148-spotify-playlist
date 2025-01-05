@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-108 songs - 6 hr 12 min
+109 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Anesto](https://open.spotify.com/track/0abJ0SKsYEoShNmWbdEHp3) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Anesto](https://open.spotify.com/album/0xGNs0CD80ebpaI1C9QBLj) | 2:55 | 2024-02-24 |  |
 | [Automatique \(Mc Artisan\)](https://open.spotify.com/track/0CgYatpXXpOWh6dGlYGCzZ) | [Le Sa](https://open.spotify.com/artist/1fdwt0BjCekrhXeRX8Ouq9) | [Automatique \(Mc Artisan\)](https://open.spotify.com/album/337pw8AGafu2kM3Un5ctr8) | 4:37 | 2024-11-14 | 2024-11-27 |
 | [Bambina](https://open.spotify.com/track/6DArUaj4yioj32Q3vCRL1Q) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Bambina](https://open.spotify.com/album/6DXZbH9Gx61B5sWlVQXNzH) | 2:55 | 2024-07-18 |  |
-| [Barrio](https://open.spotify.com/track/4kKZkjx7LSJwEk2F65pBKj) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Barrio](https://open.spotify.com/album/080JNVqULoScoDCiLGwfG3) | 4:58 | 2024-11-26 |  |
+| [Barrio](https://open.spotify.com/track/4kKZkjx7LSJwEk2F65pBKj) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Barrio](https://open.spotify.com/album/080JNVqULoScoDCiLGwfG3) | 4:58 | 2024-11-26 | 2025-01-05 |
 | [BERLIN](https://open.spotify.com/track/53m7xHYP22udP4Vsftr48p) | [Koast](https://open.spotify.com/artist/5mp19VAuofzsBViN7LHKhH), [Molka Braiek](https://open.spotify.com/artist/26FtkGdzYUskhMqPX3J7td), [XCEP](https://open.spotify.com/artist/6QvQCpbGRXw7BTBSU4VH0N) | [BERLIN](https://open.spotify.com/album/6cYneZuZvWYK36WHhznwhP) | 2:52 | 2024-02-24 | 2024-07-09 |
 | [Bin Narin \- بين نارين](https://open.spotify.com/track/65tKzxjFZsjObi7OFuJFIy) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Bin Narin \(بين نارين\)](https://open.spotify.com/album/1HMzHpHSipGYpujRyL453I) | 3:37 | 2024-02-24 |  |
 | [Brabus](https://open.spotify.com/track/2LhLEOlgnq6ac47hTr5KYO) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Brabus](https://open.spotify.com/album/7FIcDfg2HwUAHvB1I84rk6) | 3:32 | 2024-12-12 |  |
@@ -45,6 +45,7 @@
 | [Fa9ou Biya](https://open.spotify.com/track/0bseLMJXgYr6M9MyVJQ35v) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Fa9ou Biya](https://open.spotify.com/album/452msNJvhHDmB8f3EEkGmF) | 3:33 | 2024-02-24 | 2024-05-10 |
 | [Feu Rouge](https://open.spotify.com/track/6ioXzGjgbAr1TFRHAjxD6p) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [BAYA](https://open.spotify.com/artist/44tT41qPtEntyDJPyjxZtN) | [Zayn](https://open.spotify.com/album/4QXZZzVBH1pjiVBxyySKjr) | 4:18 | 2024-07-22 | 2024-12-22 |
 | [Game is Game](https://open.spotify.com/track/0vTT53innCH0coexxq8GZf) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Game is Game](https://open.spotify.com/album/0SFtBQlDpvwpNklAnq8dz6) | 2:06 | 2024-07-04 | 2024-08-21 |
+| [GELBI T3AB \(feat\. Samara\)](https://open.spotify.com/track/5O0rw93ajyfd3gIDvH4AFL) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [GELBI T3AB \(feat\. Samara\)](https://open.spotify.com/album/7kACB4BQT5tZZ3wcFdOyaY) | 4:03 | 2025-01-04 |  |
 | [Ghaba](https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Ghaba](https://open.spotify.com/album/3cjuodS53dH13S46iQavuk) | 3:05 | 2024-04-18 |  |
 | [Ghiri Ena](https://open.spotify.com/track/7bIc7LBLYiTIV9MhpHSJif) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Ghiri Ena](https://open.spotify.com/album/3vUP0vneujlPSieDnbGZsZ) | 3:18 | 2024-02-24 |  |
 | [Haka Tao?](https://open.spotify.com/track/3LT1WIwYXYRm5n7Qv2Xetg) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz), [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [Haka Tao?](https://open.spotify.com/album/5Vo3jtsikRXZwG8Hh7g47V) | 3:37 | 2024-07-26 | 2024-11-01 |

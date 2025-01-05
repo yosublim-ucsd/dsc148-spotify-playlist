@@ -5825,24 +5825,6 @@
     },
     {
       "album": {
-        "name": "Rel\u00edquias",
-        "url": "https://open.spotify.com/album/6eeqZFLbQeLvj3uyBokygQ"
-      },
-      "artists": [
-        {
-          "name": "Companhia do kaprixxo",
-          "url": "https://open.spotify.com/artist/7u4LPADrCy0Ok03X5bp9CA"
-        }
-      ],
-      "date_added": "2024-12-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 130351,
-      "name": "Baby Me Leva",
-      "url": "https://open.spotify.com/track/5uNVEe0mTmxb65YY1gtJXS"
-    },
-    {
-      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },
@@ -6608,7 +6590,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 102904,
       "name": "Banana Boat (Day-O)",
       "url": "https://open.spotify.com/track/751vXKYXWZ9Z8oElSxshCW"
@@ -17108,7 +17090,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 193432,
       "name": "Do Job",
       "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
@@ -33973,6 +33955,24 @@
     },
     {
       "album": {
+        "name": "Rel\u00edquias",
+        "url": "https://open.spotify.com/album/6eeqZFLbQeLvj3uyBokygQ"
+      },
+      "artists": [
+        {
+          "name": "Companhia do kaprixxo",
+          "url": "https://open.spotify.com/artist/7u4LPADrCy0Ok03X5bp9CA"
+        }
+      ],
+      "date_added": "2024-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130351,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/5uNVEe0mTmxb65YY1gtJXS"
+    },
+    {
+      "album": {
         "name": "Raiz Goi\u00e2nia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu"
       },
@@ -37706,7 +37706,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 130298,
       "name": "Mo\u00e7a",
       "url": "https://open.spotify.com/track/7h0k2QGZIyUe121wAu0BWO"
@@ -65432,7 +65432,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 117192,
       "name": "Zn Fod\u00e1stica 2",
       "url": "https://open.spotify.com/track/4ftmzFb6Rq6fBODm9qUnFE"

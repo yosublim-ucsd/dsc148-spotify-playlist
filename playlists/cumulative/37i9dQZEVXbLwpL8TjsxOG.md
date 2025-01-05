@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,059 songs - 2 day 13 hr 38 min
+1,062 songs - 2 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 | 2021-03-27\* | 2021-05-23 |
 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 | 2021-12-25 | 2021-12-27 |
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-08-13 | 2021-08-23 |
-| [Dummy](https://open.spotify.com/track/2CwGJLH5jTBlVQhMfjCc6e) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Dummy](https://open.spotify.com/album/2xJTRjTHMPl7OkPplpvvjN) | 4:06 | 2023-05-30 |  |
+| [Dummy](https://open.spotify.com/track/2CwGJLH5jTBlVQhMfjCc6e) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Dummy](https://open.spotify.com/album/2xJTRjTHMPl7OkPplpvvjN) | 4:06 | 2023-05-30 | 2025-01-05 |
 | [DWBF](https://open.spotify.com/track/3Cdpq0qhrgiwPRkR720FZf) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [DWBF](https://open.spotify.com/album/2lWxtIbcRBLyKRm27Wa0b6) | 3:18 | 2021-03-31 | 2022-07-17 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-03-27\* | 2021-07-23 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-20 | 2024-06-09 |
@@ -487,7 +487,7 @@
 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-02-17 | 2024-03-09 |
 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 | 2022-06-25 | 2022-06-27 |
 | [POP!](https://open.spotify.com/track/5rJ7bdPmr8nfmm2JQ8xHOz) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/7yePounUspaQfanDsw6nI0) | 2:48 | 2022-06-26 | 2022-07-16 |
-| [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-11-01 |  |
+| [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-11-01 | 2025-01-05 |
 | [QUEEN](https://open.spotify.com/track/5PimlePLQd8xdf7uKccHqS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:43 | 2021-09-01 | 2021-09-06 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-16 | 2024-01-03 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-18 | 2021-08-31 |
@@ -807,6 +807,7 @@
 | [喃嘸師感官漫遊](https://open.spotify.com/track/5jbSWid6JzCiCk3dGgc1aG) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [喃嘸師感官漫遊](https://open.spotify.com/album/1wy1PufTo2DFzDDj3lpTym) | 3:09 | 2024-04-24 | 2024-06-06 |
 | [喃嘸師感官漫遊](https://open.spotify.com/track/2zRPV8j2xHJs4aBKgs4Zsy) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [ISFP](https://open.spotify.com/album/1o3ijiVqCl7zUDkO1bLWZH) | 3:09 | 2024-06-26 | 2024-07-02 |
 | [喫煙席](https://open.spotify.com/track/3eT4GvkE7uzp9hdYxc4So2) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:06 | 2021-09-01 | 2021-09-02 |
+| [回憶半分鐘](https://open.spotify.com/track/402d6uwzTN1HmZiaKQ01h6) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [回憶半分鐘](https://open.spotify.com/album/1t4W7MgS50X1Ud3hW6oCvH) | 3:46 | 2025-01-04 |  |
 | [國際孤獨等級](https://open.spotify.com/track/5KpWHEh32vzxkttIK3KHKI) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [國際孤獨等級](https://open.spotify.com/album/1VSvRUXx0Qq9sjwFnyfONM) | 3:13 | 2023-03-04 | 2023-09-03 |
 | [在空中的這一秒](https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:46 | 2021-12-04 | 2023-04-02 |
 | [地球上的最後一朵花](https://open.spotify.com/track/2vJreatDgwtXWKpkqpPUZ3) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [地球上的最後一朵花](https://open.spotify.com/album/2zJ2Sf31ZtCsH2bqZbeAZp) | 3:46 | 2022-11-01 | 2023-11-04 |
@@ -899,7 +900,7 @@
 | [會再見的](https://open.spotify.com/track/3zt8EYBs8o5JBUsqqQf2NI) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [EMO](https://open.spotify.com/album/78sxO8qhn7UpQ9m9ACO3Lb) | 4:30 | 2025-01-02 |  |
 | [月光奏明曲 Moonlight Sonata in “E“ minor](https://open.spotify.com/track/1Z4NLRQQJ5eaEEJe2e9lTS) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [月光奏明曲 Moonlight Sonata in “E“ minor](https://open.spotify.com/album/6kGyB5fn87yk0Gk9OOR1cM) | 3:26 | 2024-06-22 | 2024-06-24 |
 | [月球上碰面](https://open.spotify.com/track/35KzQtjAlRJiV85veCiX6z) | [Fiona Sit](https://open.spotify.com/artist/0tqxh7MvZ301BVW4e0p3Sa), [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62) | [月球上碰面](https://open.spotify.com/album/2cyIEWMK250xGJ1eGmmRfB) | 4:26 | 2022-01-30 | 2022-02-12 |
-| [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-12 |  |
+| [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-12 | 2025-01-05 |
 | [有你聽我的故事](https://open.spotify.com/track/63NZtFw4qM25MuZNVBmj9k) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [ISFP](https://open.spotify.com/album/1o3ijiVqCl7zUDkO1bLWZH) | 3:41 | 2024-06-26 | 2024-07-25 |
 | [有心人](https://open.spotify.com/track/1eMujWp9h2cSEPIiO6xOhN) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [紅](https://open.spotify.com/album/6jKODgySQogW3MirVzvo3i) | 4:28 | 2021-04-03 | 2023-04-06 |
 | [有誰共鳴](https://open.spotify.com/track/4AWnq2b185d6PBOJvqEiYo) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [哥哥情歌](https://open.spotify.com/album/7bzBcjZ6AgbR9eXcBIEQnX) | 3:53 | 2021-04-03 | 2021-04-04 |
@@ -956,6 +957,7 @@
 | [當年情 \- 電影 "英雄本色" 主題曲](https://open.spotify.com/track/2brVkbasQGFaOWHUwb2aLA) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [張國榮](https://open.spotify.com/album/6wAAGgb06aZEKtu1v7PiDa) | 4:15 | 2023-04-02 | 2023-04-04 |
 | [當年情 \- 電影 "英雄本色" 主題曲](https://open.spotify.com/track/5rq0xnLBXZtNq1YYELpK4j) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [哥哥情歌](https://open.spotify.com/album/7bzBcjZ6AgbR9eXcBIEQnX) | 4:15 | 2021-04-03 | 2021-04-04 |
 | [發現號](https://open.spotify.com/track/51sQ8I5sJYBXB0UatyrH5R) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [RubberBand Concert \#1](https://open.spotify.com/album/1VL5K8pByxcJfM3q7wcYBA) | 4:25 | 2021-04-07 | 2021-04-14 |
+| [白果](https://open.spotify.com/track/3RSo9nydGrGTIRz4WKhE66) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [白果](https://open.spotify.com/album/3ivzUnVBuoaFa8Yl32gkiN) | 3:03 | 2025-01-04 |  |
 | [百萬大道](https://open.spotify.com/track/4xwEBYfjM23pqOPGHdLPKN) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [百萬大道](https://open.spotify.com/album/4PKdmzU7XZXfCtXKksG6JX) | 2:44 | 2024-06-15 | 2024-06-19 |
 | [盲婚啞嫁](https://open.spotify.com/track/0Rhz56u8K6hjzxNCGkJjhi) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [盲婚啞嫁](https://open.spotify.com/album/01V7sAkBawhdXnxjnmL9F2) | 3:43 | 2023-01-11 | 2023-02-25 |
 | [相信一切是最好的安排](https://open.spotify.com/track/5BYg9NfU9ynzhp3UBX49bY) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Honesty](https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT) | 4:18 | 2024-01-03 | 2024-01-06 |
@@ -976,8 +978,9 @@
 | [笑住喊](https://open.spotify.com/track/07hNtsHI2yS6a4sblgPyp0) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [笑住喊](https://open.spotify.com/album/2SQbTVzPkxMVU4hBL6YGv1) | 3:20 | 2022-10-22 | 2023-02-14 |
 | [第一個迷](https://open.spotify.com/track/6l5q8rkGYOwrheeWK5puyL) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [第一個迷](https://open.spotify.com/album/44OlMzM4I4gekwnDCWishn) | 4:07 | 2023-01-03 | 2023-01-24 |
 | [第二人格](https://open.spotify.com/track/3N1Gv5Qtv22eFB3gWLCCOy) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [第二人格](https://open.spotify.com/album/6J5HvuoektIH4d7uoHJjV0) | 4:34 | 2023-06-16 | 2023-07-08 |
-| [筆友 \(電影《我談的那場戀愛》主題曲\)](https://open.spotify.com/track/6K0vTwio6ps1a33FWv06KT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [筆友 \(電影《我談的那場戀愛》主題曲\)](https://open.spotify.com/album/5sATazRtoCgwqf4ZnUys9P) | 4:20 | 2024-09-11 |  |
+| [筆友 \(電影《我談的那場戀愛》主題曲\)](https://open.spotify.com/track/6K0vTwio6ps1a33FWv06KT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [筆友 \(電影《我談的那場戀愛》主題曲\)](https://open.spotify.com/album/5sATazRtoCgwqf4ZnUys9P) | 4:20 | 2024-09-11 | 2025-01-05 |
 | [紅顏如霜](https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-16 | 2022-07-25 |
+| [純銀子彈](https://open.spotify.com/track/00l58ywFDoFBShu2vvFsIz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [純銀子彈](https://open.spotify.com/album/4oNpm1CABK7baRx8DLtxvN) | 4:50 | 2025-01-04 |  |
 | [細胞](https://open.spotify.com/track/7LFX60BiB9VlEC6SWaV1ar) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [跟你開玩笑](https://open.spotify.com/album/4OOTFitJeeM3rjP0sWFsNG) | 2:30 | 2022-10-18 | 2022-10-20 |
 | [給你幸福 所以幸福](https://open.spotify.com/track/6UuJk5rvrxSnOAwv6uSr5b) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給你幸福 所以幸福](https://open.spotify.com/album/2rOeZHhWQCveBEPb3tslYB) | 4:04 | 2023-10-25 | 2024-10-17 |
 | [給缺席的人唱首歌](https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Love & Loss](https://open.spotify.com/album/2irTqW2Js2rvHWJPxW39XO) | 3:57 | 2023-01-24 | 2023-09-10 |
@@ -1033,7 +1036,7 @@
 | [邊一個發明了ENCORE](https://open.spotify.com/track/2MBaZXaQ7VKmDTr7cPPHP4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MEMENTO](https://open.spotify.com/album/2EGs23HGMWvVUYxfiMzlgK) | 4:46 | 2022-08-13 | 2023-01-07 |
 | [銀河修理員](https://open.spotify.com/track/0pupuSkMBGpzsqG3fWcyPe) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Limerence](https://open.spotify.com/album/27M08FRLdAhpAkorPnkuGa) | 3:52 | 2021-03-27\* | 2022-01-04 |
 | [鏡中鏡](https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [鏡中鏡](https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V) | 4:12 | 2022-01-03 | 2024-05-12 |
-| [鑿](https://open.spotify.com/track/0qv58f7o5AvmdT3PnEKauX) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鑿](https://open.spotify.com/album/1Uvqepz5R3QRuuq3OP3O5Q) | 3:27 | 2024-09-05 | 2025-01-04 |
+| [鑿](https://open.spotify.com/track/0qv58f7o5AvmdT3PnEKauX) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鑿](https://open.spotify.com/album/1Uvqepz5R3QRuuq3OP3O5Q) | 3:27 | 2024-09-05 |  |
 | [長期浪漫](https://open.spotify.com/track/3yFWbtBjZyYeDJifAHYEZ3) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [GWENDOLYN](https://open.spotify.com/album/7MKcI6USXJ5R7chXfOozmY) | 3:18 | 2021-06-13 | 2021-07-02 |
 | [隔牆有耳](https://open.spotify.com/track/4sguC2oBIqfn8WmMmReOYb) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [TREBLE](https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK) | 3:41 | 2024-03-13 | 2024-09-15 |
 | [隔離](https://open.spotify.com/track/7egdaSVtPnuW7YG821w7jz) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [隔離](https://open.spotify.com/album/7AaIDRR7tkYkBEdy0nUWeO) | 4:31 | 2021-03-27\* | 2021-05-16 |

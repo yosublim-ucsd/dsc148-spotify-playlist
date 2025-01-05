@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Paloma Mami",
-  "num_followers": 666977,
+  "num_followers": 667043,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 188930,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "BUENAS NOCHES",
         "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188930,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Lo Que Tiene",
         "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
       },
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "FDSR",
-        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "FDSR",
-      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "POLOS OPUESTOS REMIX (BLESSD VERSION)",
         "url": "https://open.spotify.com/album/2o89OBJVbw4BdBeyVOGanN"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 216000,
       "name": "POLOS OPUESTOS REMIX - BLESSD VERSION",
       "url": "https://open.spotify.com/track/2ALQyXMC26Vew7JX7ert9M"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "FDSR",
+        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "FDSR",
+      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Martini",
-        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 164365,
-      "name": "Martini",
-      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 160893,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Martini",
+        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 164365,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
     },
     {
       "added_at": "2024-12-06 05:00:00",

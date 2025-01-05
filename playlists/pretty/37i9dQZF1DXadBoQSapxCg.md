@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,672 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,667 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 6 | [Cigana](https://open.spotify.com/track/2GBwxkBpmhs9UoDxsBeP4a) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr) | [Cigana](https://open.spotify.com/album/5zujMhc1kwFLiZYBRlwz6m) | 4:25 |
 | 7 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 |
 | 8 | [Flamingos](https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Bluesman](https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I) | 3:57 |
-| 9 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 |
-| 10 | [Saudade](https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Saudade](https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm) | 3:04 |
+| 9 | [Saudade](https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Saudade](https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm) | 3:04 |
+| 10 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 |
 | 11 | [Aladdin](https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Aladdin](https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk) | 2:34 |
 | 12 | [Púrpura](https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:10 |
 | 13 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 42 | [DISK](https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [DISK](https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T) | 2:37 |
 | 43 | [Tara](https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Tara](https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV) | 2:46 |
 | 44 | [Você não vive sem](https://open.spotify.com/track/1WHeEGj7gbd834Ema8PHU0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:17 |
-| 45 | [DESASTRE NATURAL](https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp) | [VERSOS](https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X) | 2:20 |
-| 46 | [Bandida](https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl) | [Bruna Griphao](https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo) | [Bandida](https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ) | 2:20 |
+| 45 | [Bandida](https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl) | [Bruna Griphao](https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo) | [Bandida](https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ) | 2:20 |
+| 46 | [DESASTRE NATURAL](https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp) | [VERSOS](https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X) | 2:20 |
 | 47 | [Vênus \(feat\. Aísha\)](https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Aisha](https://open.spotify.com/artist/2xL7Ti7mCKljm68MTXez1Y) | [Vênus](https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb) | 3:50 |
 | 48 | [Meia Noite](https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [VemK](https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N) | 3:05 |
 | 49 | [Sexflix](https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B) | [Agostta](https://open.spotify.com/artist/76DjxkWnHza9Q02cejvQhc), [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6) | [Sexflix](https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ) | 2:55 |

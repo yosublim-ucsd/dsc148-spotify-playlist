@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Ketan Sodha, Ash King & Jahnvi Shrimankar",
-  "num_followers": 72880,
+  "num_followers": 72902,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
+        "name": "Gulon Main Rang",
+        "url": "https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 379881,
+      "name": "Gulon Main Rang",
+      "url": "https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
         "name": "Bawla (feat. Khan Brothers) [Maati S1]",
         "url": "https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 180782,
       "name": "Bawla (feat. Khan Brothers) [Maati S1]",
       "url": "https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Gulon Main Rang",
-        "url": "https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs"
-      },
-      "artists": [
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 379881,
-      "name": "Gulon Main Rang",
-      "url": "https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -731,30 +731,6 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
-        "name": "Coke Studio Season 10: Episode 2",
-        "url": "https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy"
-      },
-      "artists": [
-        {
-          "name": "Junoon",
-          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
-        },
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        },
-        {
-          "name": "Ali Noor",
-          "url": "https://open.spotify.com/artist/1QHzQZO9zzSjv0yRRzgBPO"
-        }
-      ],
-      "duration_ms": 461580,
-      "name": "Sayonee",
-      "url": "https://open.spotify.com/track/4cIDTwm3FFPpIm6AFJNvhL"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 263111,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/4U1re5EEVj9QZJe3lcwLJo"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
+        "name": "Coke Studio Season 10: Episode 2",
+        "url": "https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy"
+      },
+      "artists": [
+        {
+          "name": "Junoon",
+          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Ali Noor",
+          "url": "https://open.spotify.com/artist/1QHzQZO9zzSjv0yRRzgBPO"
+        }
+      ],
+      "duration_ms": 461580,
+      "name": "Sayonee",
+      "url": "https://open.spotify.com/track/4cIDTwm3FFPpIm6AFJNvhL"
     },
     {
       "added_at": "2024-12-20 07:34:31",

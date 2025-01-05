@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like this. cover: Rosie Darling",
-  "num_followers": 2068919,
+  "num_followers": 2068933,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/2fQwoYSzWzChmIB2zZwrGL"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "someday i'll get it",
-        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
-      },
-      "artists": [
-        {
-          "name": "Alek Olsen",
-          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
-        }
-      ],
-      "duration_ms": 94750,
-      "name": "someday i'll get it",
-      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
-    },
-    {
       "added_at": "2024-12-13 05:00:33",
       "album": {
         "name": "Chest Pain (I Love)",
@@ -599,6 +583,22 @@
       "duration_ms": 202000,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+      },
+      "artists": [
+        {
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+        }
+      ],
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 133478,
-      "name": "Dumb & Poetic",
-      "url": "https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "something to remember",
         "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 133478,
+      "name": "Dumb & Poetic",
+      "url": "https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 224835,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 224835,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "LET EM GO",
-        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 181159,
-      "name": "LET EM GO",
-      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 202001,
       "name": "Lie To Girls",
       "url": "https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "LET EM GO",
+        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 181159,
+      "name": "LET EM GO",
+      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
     },
     {
       "added_at": "2024-11-13 20:08:20",
@@ -1377,6 +1377,22 @@
       "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Empty Bench",
+        "url": "https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Empty Bench",
+      "url": "https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk"
+    },
+    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
@@ -1395,22 +1411,6 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Empty Bench",
-        "url": "https://open.spotify.com/album/3km5zzX8gjqQwNcc2E6LHk"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Empty Bench",
-      "url": "https://open.spotify.com/track/5FYoVG03kAIK0F8VuSKykk"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1565,20 +1565,20 @@
       "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+        "name": "Is This Love To You",
+        "url": "https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+      "duration_ms": 175142,
+      "name": "Is This Love To You",
+      "url": "https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1597,20 +1597,20 @@
       "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
+      "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Is This Love To You",
-        "url": "https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V"
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
       "artists": [
         {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 175142,
-      "name": "Is This Love To You",
-      "url": "https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl"
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Who Do I Call Now? (Hellbent)",
-        "url": "https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 190750,
-      "name": "Who Do I Call Now? (Hellbent)",
-      "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/5qkmdOLUeAkSMJlP0DnLFk"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 154000,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/1KMEDSIl2j1NwYa9mgvMyg"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Who Do I Call Now? (Hellbent)",
+        "url": "https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Who Do I Call Now? (Hellbent)",
+      "url": "https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "First Heartbreak",
-        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 180486,
-      "name": "First Heartbreak",
-      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Born To Be Alive",
         "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 157068,
       "name": "Born To Be Alive",
       "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2085,22 +2085,6 @@
       "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
     },
     {
-      "added_at": "2024-10-04 04:04:16",
-      "album": {
-        "name": "Pushing It Down and Praying",
-        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 234076,
-      "name": "Pushing It Down and Praying",
-      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Honestly",
@@ -2115,6 +2099,22 @@
       "duration_ms": 173006,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo"
+    },
+    {
+      "added_at": "2024-10-04 04:04:16",
+      "album": {
+        "name": "Pushing It Down and Praying",
+        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 234076,
+      "name": "Pushing It Down and Praying",
+      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2201,22 +2201,6 @@
       "url": "https://open.spotify.com/track/3P1kMuiZGH7dTItGObGKTA"
     },
     {
-      "added_at": "2024-09-20 17:11:08",
-      "album": {
-        "name": "What's Left Of Me",
-        "url": "https://open.spotify.com/album/58uReIHwOj5YOPkDjAEGPG"
-      },
-      "artists": [
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "What's Left Of Me",
-      "url": "https://open.spotify.com/track/2KCHayVgv4Svp1ETPNsk7l"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Can\u2019t Even Hate You",
@@ -2231,6 +2215,22 @@
       "duration_ms": 237203,
       "name": "Can't Even Hate You",
       "url": "https://open.spotify.com/track/0NEUahGKmsRwHQLN9YeIOL"
+    },
+    {
+      "added_at": "2024-09-20 17:11:08",
+      "album": {
+        "name": "What's Left Of Me",
+        "url": "https://open.spotify.com/album/58uReIHwOj5YOPkDjAEGPG"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "What's Left Of Me",
+      "url": "https://open.spotify.com/track/2KCHayVgv4Svp1ETPNsk7l"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2265,22 +2265,6 @@
       "url": "https://open.spotify.com/track/0qD03WyuVtyQUHyKCGA51K"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Nice Knowing You",
-        "url": "https://open.spotify.com/album/4PSOVho7bvffFoVChOliKF"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 215535,
-      "name": "Nice Knowing You",
-      "url": "https://open.spotify.com/track/6eC5dOu4lykDLO39JbSGdK"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Spotify Singles",
@@ -2295,6 +2279,22 @@
       "duration_ms": 190652,
       "name": "Heather - Spotify Singles",
       "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Nice Knowing You",
+        "url": "https://open.spotify.com/album/4PSOVho7bvffFoVChOliKF"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 215535,
+      "name": "Nice Knowing You",
+      "url": "https://open.spotify.com/track/6eC5dOu4lykDLO39JbSGdK"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2345,6 +2345,22 @@
       "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
     },
     {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
+    },
+    {
       "added_at": "2024-11-25 23:18:00",
       "album": {
         "name": "Te Maldigo (From \"Queer\")",
@@ -2363,22 +2379,6 @@
       "duration_ms": 173013,
       "name": "Te Maldigo (From \"Queer\")",
       "url": "https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Narcissist",
-        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Narcissist",
-      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2433,6 +2433,22 @@
       "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0C92Qrku2KYDLNlTmLdaKX"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 171318,
+      "name": "25",
+      "url": "https://open.spotify.com/track/5lDv9IAnprD7TPjq367YzE"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Sick To My Stomach",
@@ -2449,36 +2465,20 @@
       "url": "https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Dispose of Me",
-        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Dispose of Me",
-      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0C92Qrku2KYDLNlTmLdaKX"
+        "name": "Journal No.1",
+        "url": "https://open.spotify.com/album/2k0fcWU7mY3UiZ9BrNqBAU"
       },
       "artists": [
         {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
         }
       ],
-      "duration_ms": 171318,
-      "name": "25",
-      "url": "https://open.spotify.com/track/5lDv9IAnprD7TPjq367YzE"
+      "duration_ms": 184861,
+      "name": "If I'll Ever Win",
+      "url": "https://open.spotify.com/track/3J4jGDAj3DtKQL4AGNjmYA"
     }
   ],
   "unique_name": "sad hour",

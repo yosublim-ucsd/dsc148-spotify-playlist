@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Our editors' top picks from EQUAL 2024 from across the globe\. Cover: Aitana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,650 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,305 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 17 | [LABOUR \- the cacophony](https://open.spotify.com/track/4B0cJGASxVICLW2AsBZhiE) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [LABOUR \(the cacophony\)](https://open.spotify.com/album/0YsJwceJYAPbMx2O0mcRgF) | 4:07 |
 | 18 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 19 | [Recommence\-moi](https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:16 |
-| 20 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
-| 21 | [Commas](https://open.spotify.com/track/4GXW3Ne1jzdORKHvHjK31V) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:37 |
+| 20 | [Commas](https://open.spotify.com/track/4GXW3Ne1jzdORKHvHjK31V) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:37 |
+| 21 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 22 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 |
 | 23 | [Pantropiko](https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pantropiko](https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8) | 3:45 |
 | 24 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 51 | [KANORMAL](https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [KANORMAL](https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26) | 3:18 |
 | 52 | [Dil de Bol](https://open.spotify.com/track/7pnzuSzXn8QmiTjXHCi304) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Dil de Bol](https://open.spotify.com/album/73C1xLVTjBxIT89yzEAtHi) | 3:13 |
 | 53 | [La rabbia non ti basta](https://open.spotify.com/track/74RMAiFZ89d8JhGn7iNSVc) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Sangue](https://open.spotify.com/album/2ODTNZ6HLMTNiiu05e4kHO) | 3:09 |
-| 54 | [NEED U](https://open.spotify.com/track/5QQyJ8NxA6EPJI4hxq9fUb) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [FUJU](https://open.spotify.com/artist/4EBHix5Pj89l0ISzlIjaal), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [NEED U](https://open.spotify.com/album/28Rr6j0hu7KfQMznypbRqE) | 2:55 |
-| 55 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
+| 54 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
+| 55 | [NEED U](https://open.spotify.com/track/5QQyJ8NxA6EPJI4hxq9fUb) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [FUJU](https://open.spotify.com/artist/4EBHix5Pj89l0ISzlIjaal), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [NEED U](https://open.spotify.com/album/28Rr6j0hu7KfQMznypbRqE) | 2:55 |
 | 56 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
 | 57 | [Crowded Roomz](https://open.spotify.com/track/0JH3rxj9e7cY8T1QFgr5mQ) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:52 |
 | 58 | [August](https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 3:47 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 63 | [PLATONIK](https://open.spotify.com/track/3yXbWResBOuRKxX7hK5Na7) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [PLATONIK](https://open.spotify.com/album/3CDkl5DzNF9LdbdDDxlj7s) | 2:41 |
 | 64 | [泥潭](https://open.spotify.com/track/6lXfUj8MOzI6yVddYQJi7F) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [泥潭](https://open.spotify.com/album/74TdPe8k0JuWpDD7CTsGkF) | 3:15 |
 | 65 | [空白題](https://open.spotify.com/track/4jylN5RdQ1e3azFwtisPrO) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [青春疾走](https://open.spotify.com/album/1E86c02P0E5EuRs3YNgOjZ) | 3:04 |
-| 66 | [Rude](https://open.spotify.com/track/5WOpBNzAxTs9uCwMS6EHDY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 2:55 |
-| 67 | [ZARI](https://open.spotify.com/track/0sD3HkFhhQcvCv7gAVyZD3) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/6E7dzyj0tF8FTdSHCLUFN5) | 3:00 |
-| 68 | [What If](https://open.spotify.com/track/2QdMLzaL2uSoZv7zMfV78b) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG) | 3:38 |
-| 69 | [space](https://open.spotify.com/track/4fZlkHqZqoPrEkZQc3kRvw) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/59OjEQ2uHGV0mxymxhmz5V) | 2:52 |
+| 66 | [ZARI](https://open.spotify.com/track/0sD3HkFhhQcvCv7gAVyZD3) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/6E7dzyj0tF8FTdSHCLUFN5) | 3:00 |
+| 67 | [Rude](https://open.spotify.com/track/5WOpBNzAxTs9uCwMS6EHDY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 2:55 |
+| 68 | [space](https://open.spotify.com/track/4fZlkHqZqoPrEkZQc3kRvw) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/59OjEQ2uHGV0mxymxhmz5V) | 2:52 |
+| 69 | [What If](https://open.spotify.com/track/2QdMLzaL2uSoZv7zMfV78b) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG) | 3:38 |
 | 70 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 |
 | 71 | [Make You Stay](https://open.spotify.com/track/5sSn9nZvBBGCdFDdqu8AgJ) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Make You Stay](https://open.spotify.com/album/3EDaystjZEdlidJk6dvkmU) | 3:29 |
 | 72 | [somebody's daughter](https://open.spotify.com/track/1uiQGvgzMLTWjI8SKcegLw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 2:54 |
 | 73 | [Malá zem](https://open.spotify.com/track/75aFeZA5ZnaJ3lBAa3Kugz) | [Jana Kirschner](https://open.spotify.com/artist/3sakSn9xHMLlqQxOnQ57fB) | [Obyčajnosti](https://open.spotify.com/album/3icaBlL4aS0kES32BZ3SCB) | 7:11 |
-| 74 | [Yamorr W Ma Yesalem](https://open.spotify.com/track/5Iqu1jQ61ayOZngAUZ87yB) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Yamorr W Ma Yesalem](https://open.spotify.com/album/1hwb1a9TevHIEPstO8bl7l) | 4:09 |
-| 75 | [Grande Amore](https://open.spotify.com/track/0ajLxVGDrivAsmnUcNGKGA) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Grande Amore](https://open.spotify.com/album/3uisoWygLYZsnXrPDasPVY) | 4:43 |
+| 74 | [Grande Amore](https://open.spotify.com/track/0ajLxVGDrivAsmnUcNGKGA) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Grande Amore](https://open.spotify.com/album/3uisoWygLYZsnXrPDasPVY) | 4:43 |
+| 75 | [Yamorr W Ma Yesalem](https://open.spotify.com/track/5Iqu1jQ61ayOZngAUZ87yB) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Yamorr W Ma Yesalem](https://open.spotify.com/album/1hwb1a9TevHIEPstO8bl7l) | 4:09 |
 
 Snapshot ID: `Z2n5owAAAAC9/yqhJNxJUdW5O43REbB+`

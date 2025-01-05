@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70002,
+  "num_followers": 70005,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -811,18 +811,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Orginalo",
-        "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
+        "name": "H\u00e5ll i dig",
+        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
       },
       "artists": [
         {
-          "name": "Kaliffa",
-          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+          "name": "Wagwan",
+          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
+        },
+        {
+          "name": "Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Orginalo",
-      "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
+      "duration_ms": 198500,
+      "name": "H\u00e5ll i dig",
+      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -891,22 +895,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "H\u00e5ll i dig",
-        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
+        "name": "Orginalo",
+        "url": "https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq"
       },
       "artists": [
         {
-          "name": "Wagwan",
-          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
-        },
-        {
-          "name": "Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
+          "name": "Kaliffa",
+          "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
         }
       ],
-      "duration_ms": 198500,
-      "name": "H\u00e5ll i dig",
-      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
+      "duration_ms": 186666,
+      "name": "Orginalo",
+      "url": "https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN"
     }
   ],
   "unique_name": "Svensk Reggae",

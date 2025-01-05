@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
-  "num_followers": 452062,
+  "num_followers": 452103,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Put It Down",
@@ -1439,6 +1423,22 @@
       "duration_ms": 183750,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/2o2qzhEatKmbCOZy07nrFh"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -2005,22 +2005,6 @@
       "url": "https://open.spotify.com/track/2I1B2f7SqXlL7oNdr2vTA4"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Mud Season",
-        "url": "https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Mud Season",
-      "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Take Me Home",
@@ -2035,6 +2019,22 @@
       "duration_ms": 203760,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Mud Season",
+        "url": "https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Mud Season",
+      "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2073,6 +2073,26 @@
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "A Prayer",
+        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "A Prayer",
+      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Mysterious World",
@@ -2095,26 +2115,6 @@
       "duration_ms": 180800,
       "name": "Mysterious World",
       "url": "https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "A Prayer",
-        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "A Prayer",
-      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
       "added_at": "2024-06-28 14:01:45",
@@ -2149,22 +2149,6 @@
       "url": "https://open.spotify.com/track/2eEhqIjo81t9CrLFbvSOhK"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "FIRST ENCOUNTER",
-        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        }
-      ],
-      "duration_ms": 150639,
-      "name": "What She Said",
-      "url": "https://open.spotify.com/track/6oCpeIsU0vHpu2cIx2B1it"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "BAD",
@@ -2183,6 +2167,22 @@
       "duration_ms": 173571,
       "name": "BAD",
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "duration_ms": 150639,
+      "name": "What She Said",
+      "url": "https://open.spotify.com/track/6oCpeIsU0vHpu2cIx2B1it"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2257,30 +2257,6 @@
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/2uSn3D50io4hcQAOzWl03d"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "PARIS.",
-          "url": "https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3wzq3bEn6b3KiBDREjencM"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Alive",
@@ -2317,20 +2293,28 @@
       "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Max Out!",
-        "url": "https://open.spotify.com/album/4DIv1Q2xgy0SqqGcR4EXk9"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/2uSn3D50io4hcQAOzWl03d"
       },
       "artists": [
         {
-          "name": "LittGloss",
-          "url": "https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0"
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "PARIS.",
+          "url": "https://open.spotify.com/artist/5emuVqKy5SWNqFfvvnCxqE"
         }
       ],
-      "duration_ms": 152343,
-      "name": "Max Out!",
-      "url": "https://open.spotify.com/track/5MwRdodoq0DF1soaDBA4ZG"
+      "duration_ms": 165173,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3wzq3bEn6b3KiBDREjencM"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2351,6 +2335,22 @@
       "duration_ms": 182798,
       "name": "Play Hard",
       "url": "https://open.spotify.com/track/0Qi4jN9cFN7KNK538tFfQ2"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Max Out!",
+        "url": "https://open.spotify.com/album/4DIv1Q2xgy0SqqGcR4EXk9"
+      },
+      "artists": [
+        {
+          "name": "LittGloss",
+          "url": "https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0"
+        }
+      ],
+      "duration_ms": 152343,
+      "name": "Max Out!",
+      "url": "https://open.spotify.com/track/5MwRdodoq0DF1soaDBA4ZG"
     },
     {
       "added_at": "2024-04-19 04:00:00",

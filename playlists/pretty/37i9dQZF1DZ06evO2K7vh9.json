@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 84062,
+  "num_followers": 84093,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAABBSS5D1r7nopZA9wp9CkJY",
+  "snapshot_id": "Z3cogAAAAAB2VIT/lS+G19jJsGIfnLkK",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2",
-        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "LOT OF ME",
-      "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 144390,
       "name": "500lbs",
       "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2",
+        "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "LOT OF ME",
+      "url": "https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memories in My Head",
         "url": "https://open.spotify.com/album/69AOXTmGNAwtL6jvdf3DEw"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 191656,
       "name": "Memories in My Head",
       "url": "https://open.spotify.com/track/6OJjVFQK1ftkrLVP5VW7GA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8"
     },
     {
       "added_at": null,

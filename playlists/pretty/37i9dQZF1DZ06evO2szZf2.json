@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34707,
+  "num_followers": 34706,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAAJl8B9bMIdt1UB85hhfaGY",
+  "snapshot_id": "Z3cogAAAAAA5BrwDA4N7fKp2lfUU6IgH",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Festa Linda 2",
         "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
       },
@@ -915,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nois Bate com a Polpa da Bunda",
         "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
       },
@@ -931,30 +931,6 @@
       "duration_ms": 176842,
       "name": "Nois Bate com a Polpa da Bunda",
       "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Cara do Abacaxi Classic",
-        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
-      },
-      "artists": [
-        {
-          "name": "Patrick DJ",
-          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
     },
     {
       "added_at": null,
@@ -1011,6 +987,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "PANCADA",
+        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "TH4I",
+          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
+        }
+      ],
+      "duration_ms": 135616,
+      "name": "PANCADA",
+      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Cara do Abacaxi Classic",
+        "url": "https://open.spotify.com/album/7xjGnuFfv0wD4w8CBcwzGn"
+      },
+      "artists": [
+        {
+          "name": "Patrick DJ",
+          "url": "https://open.spotify.com/artist/3GqXVw652gT1gSj8B3P27Y"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/40Q00sx5nHOqSgS7qABdYG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soca Com Press\u00e3o",
         "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
       },
@@ -1059,50 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANCADA",
-        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "TH4I",
-          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
-        }
-      ],
-      "duration_ms": 135616,
-      "name": "PANCADA",
-      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Se T\u00e1 Maravilhosa",
-        "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
-      },
-      "artists": [
-        {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Como Se T\u00e1 Maravilhosa",
-      "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexo Sem Estresse",
         "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 139403,
       "name": "Sexo Sem Estresse",
       "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Se T\u00e1 Maravilhosa",
+        "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
+      },
+      "artists": [
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Como Se T\u00e1 Maravilhosa",
+      "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
     },
     {
       "added_at": null,
@@ -1207,6 +1207,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET COQUETEL MOLOTOV",
+        "url": "https://open.spotify.com/album/2ftpOZqO43lSOsoH4p1VXG"
+      },
+      "artists": [
+        {
+          "name": "Dj Rhuivo",
+          "url": "https://open.spotify.com/artist/16nxxy3xbRtRtcK7buR2PQ"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "ZANETTI",
+          "url": "https://open.spotify.com/artist/2ftTXbeHBmrd2acZzKodnf"
+        },
+        {
+          "name": "Caio Viny",
+          "url": "https://open.spotify.com/artist/6CNeKQxqSBGU8Btb9ZLOMt"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Will do Paraiso",
+          "url": "https://open.spotify.com/artist/0s9DH3LAJIHZQaXbVLjAnd"
+        },
+        {
+          "name": "Mc Chumbinho",
+          "url": "https://open.spotify.com/artist/4sTPKiaUf0ZL6OPI7g57y4"
+        },
+        {
+          "name": "MB Music Studio",
+          "url": "https://open.spotify.com/artist/75UAWac23o9MglK4Hc58nD"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        }
+      ],
+      "duration_ms": 511029,
+      "name": "SET COQUETEL MOLOTOV",
+      "url": "https://open.spotify.com/track/2sPZNhhuFjjeIzqgz9C95r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catucad\u00e3o",
         "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
       },
@@ -1263,62 +1319,6 @@
       "duration_ms": 237230,
       "name": "Rave Don't Start Now",
       "url": "https://open.spotify.com/track/1rjQCYjZkl475WiV1YhAbF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET COQUETEL MOLOTOV",
-        "url": "https://open.spotify.com/album/2ftpOZqO43lSOsoH4p1VXG"
-      },
-      "artists": [
-        {
-          "name": "Dj Rhuivo",
-          "url": "https://open.spotify.com/artist/16nxxy3xbRtRtcK7buR2PQ"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "ZANETTI",
-          "url": "https://open.spotify.com/artist/2ftTXbeHBmrd2acZzKodnf"
-        },
-        {
-          "name": "Caio Viny",
-          "url": "https://open.spotify.com/artist/6CNeKQxqSBGU8Btb9ZLOMt"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Will do Paraiso",
-          "url": "https://open.spotify.com/artist/0s9DH3LAJIHZQaXbVLjAnd"
-        },
-        {
-          "name": "Mc Chumbinho",
-          "url": "https://open.spotify.com/artist/4sTPKiaUf0ZL6OPI7g57y4"
-        },
-        {
-          "name": "MB Music Studio",
-          "url": "https://open.spotify.com/artist/75UAWac23o9MglK4Hc58nD"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        }
-      ],
-      "duration_ms": 511029,
-      "name": "SET COQUETEL MOLOTOV",
-      "url": "https://open.spotify.com/track/2sPZNhhuFjjeIzqgz9C95r"
     },
     {
       "added_at": null,

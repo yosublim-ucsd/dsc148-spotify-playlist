@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAAGTs0HRG7ILfPp66NaWwyx",
+  "snapshot_id": "Z3cogAAAAAADLls1V+C2AfZ7dvqY0DTF",
   "tracks": [
     {
       "added_at": null,
@@ -215,30 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "Troy Cassar-Daley",
-          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
-        }
-      ],
-      "duration_ms": 226446,
-      "name": "Walk a Country Mile",
-      "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spirit of the Anzacs",
         "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
       },
@@ -275,6 +251,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        }
+      ],
+      "duration_ms": 226446,
+      "name": "Walk a Country Mile",
+      "url": "https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hat Town",
         "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
       },
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Leave Him in the Longyard - Remastered 2017",
+      "url": "https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 161875,
       "name": "Dumb Things",
       "url": "https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Leave Him in the Longyard - Remastered 2017",
-      "url": "https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Ute Me",
-      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Three Chain Road",
         "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 241000,
       "name": "Southern Son - Remastered 2017",
       "url": "https://open.spotify.com/track/2qPzCg34BXSB88kOwfzKRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Ute Me",
+      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
     },
     {
       "added_at": null,
@@ -447,18 +447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+        "name": "We're Still Here",
+        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
       },
       "artists": [
         {
+          "name": "Tom Curtain",
+          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
+        },
+        {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Sara Storer",
+          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
         }
       ],
-      "duration_ms": 193146,
-      "name": "Something in the Water - Remastered 2017",
-      "url": "https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD"
+      "duration_ms": 200320,
+      "name": "She Gave Us the Song",
+      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
     },
     {
       "added_at": null,
@@ -487,26 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Still Here",
-        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
       },
       "artists": [
         {
-          "name": "Tom Curtain",
-          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
-        },
-        {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "Sara Storer",
-          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
         }
       ],
-      "duration_ms": 200320,
-      "name": "She Gave Us the Song",
-      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
+      "duration_ms": 193146,
+      "name": "Something in the Water - Remastered 2017",
+      "url": "https://open.spotify.com/track/3OAlhNE78NOBd6c3wEqiGD"
     },
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm Of The Highway (Tamworth Edition)",
-        "url": "https://open.spotify.com/album/7q0en8RGs313BoRAf7Pb01"
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
       "artists": [
-        {
-          "name": "Travis Sinclair",
-          "url": "https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ"
-        },
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 217026,
-      "name": "I'm From The Country",
-      "url": "https://open.spotify.com/track/4fqDKBippqVjWxDl0euzIJ"
+      "duration_ms": 178053,
+      "name": "I Milk Cows - Remastered 2017",
+      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
     },
     {
       "added_at": null,
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+        "name": "Rhythm Of The Highway (Tamworth Edition)",
+        "url": "https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm"
       },
       "artists": [
+        {
+          "name": "Travis Sinclair",
+          "url": "https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ"
+        },
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 178053,
-      "name": "I Milk Cows - Remastered 2017",
-      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
+      "duration_ms": 214720,
+      "name": "I'm From The Country",
+      "url": "https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 169433,
-      "name": "Let There Be Cowgirls",
-      "url": "https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 190346,
       "name": "It's Only Country",
       "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 169433,
+      "name": "Let There Be Cowgirls",
+      "url": "https://open.spotify.com/track/73x2EeabuTdaNx8jkLLamg"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hat Town",
-        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "Goondiwindi Moon - Remastered 2017",
-      "url": "https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 203746,
-      "name": "We'll Take Beersheba",
-      "url": "https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to"
+      "duration_ms": 212720,
+      "name": "When the First Bombs Fell",
+      "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hat Town",
+        "url": "https://open.spotify.com/album/3WO9SXnhx7c89Fb0ZLXo2u"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "Goondiwindi Moon - Remastered 2017",
+      "url": "https://open.spotify.com/track/6aeVKV6GvjRQezoHXfRQ2Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Rodeo",
         "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
       },
@@ -815,6 +815,38 @@
       "duration_ms": 260426,
       "name": "Electric Rodeo - Remastered 2017",
       "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 203746,
+      "name": "We'll Take Beersheba",
+      "url": "https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best of Lee Kernaghan: Three Decades of Hits",
+        "url": "https://open.spotify.com/album/71vxA0KghqPpuiXFc3qGVl"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Love in a Time of Drought",
+      "url": "https://open.spotify.com/track/4hsuKTPJTT6NJYzSqFxeRo"
     },
     {
       "added_at": null,
@@ -839,38 +871,6 @@
       "duration_ms": 251463,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "When the First Bombs Fell",
-      "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Best of Lee Kernaghan: Three Decades of Hits",
-        "url": "https://open.spotify.com/album/71vxA0KghqPpuiXFc3qGVl"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Love in a Time of Drought",
-      "url": "https://open.spotify.com/track/4hsuKTPJTT6NJYzSqFxeRo"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 10729,
+  "num_followers": 10738,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAABTqCJs1FL+KdYjc7qui7bV",
+  "snapshot_id": "Z3cogAAAAACa1jPxkKzDV+8q5o28P5fG",
   "tracks": [
     {
       "added_at": null,
@@ -247,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glossy",
-        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
+        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
       },
       "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 151596,
-      "name": "Glossy",
-      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
+      "duration_ms": 147119,
+      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
     },
     {
       "added_at": null,
@@ -283,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
+        "name": "Glossy",
+        "url": "https://open.spotify.com/album/39WCvdoXW7iqdXCDP7hAcp"
       },
       "artists": [
-        {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
-        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 147119,
-      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
+      "duration_ms": 151596,
+      "name": "Glossy",
+      "url": "https://open.spotify.com/track/3S30QGvGK7YPhVPM6GC0N6"
     },
     {
       "added_at": null,
@@ -947,46 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
-        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
-        }
-      ],
-      "duration_ms": 110348,
-      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
-      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 150452,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Real #1",
         "url": "https://open.spotify.com/album/5RqJ4CKcQh27b9ReXQtv7L"
       },
@@ -1011,6 +971,46 @@
       "duration_ms": 164631,
       "name": "Real #1",
       "url": "https://open.spotify.com/track/3MYXpGRSON2fnk5mBDXZYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 150452,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
+        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+        }
+      ],
+      "duration_ms": 110348,
+      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
+      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
     },
     {
       "added_at": null,
@@ -1080,7 +1080,7 @@
       "added_at": null,
       "album": {
         "name": "Temporary Lover",
-        "url": "https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G"
+        "url": "https://open.spotify.com/album/6ZHopj9rFD6Hz6tCluHnFW"
       },
       "artists": [
         {
@@ -1094,7 +1094,7 @@
       ],
       "duration_ms": 231367,
       "name": "Temporary Lover",
-      "url": "https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN"
+      "url": "https://open.spotify.com/track/2VERl2PyQuLQdz0iteB4NO"
     },
     {
       "added_at": null,

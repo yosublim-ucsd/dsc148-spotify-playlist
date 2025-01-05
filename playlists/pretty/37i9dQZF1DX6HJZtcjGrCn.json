@@ -831,22 +831,6 @@
     {
       "added_at": "2024-12-20 14:38:55",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
-    },
-    {
-      "added_at": "2024-12-20 14:38:55",
-      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2024-12-20 14:38:55",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
     },
     {
       "added_at": "2024-12-20 14:38:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-20 14:38:55",
       "album": {
-        "name": "Amor De Ganga",
-        "url": "https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT"
-      },
-      "artists": [
-        {
-          "name": "Miguel Luz",
-          "url": "https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm"
-        }
-      ],
-      "duration_ms": 206908,
-      "name": "Amor De Ganga",
-      "url": "https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz"
-    },
-    {
-      "added_at": "2024-12-20 14:38:55",
-      "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 250973,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+    },
+    {
+      "added_at": "2024-12-20 14:38:55",
+      "album": {
+        "name": "Amor De Ganga",
+        "url": "https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT"
+      },
+      "artists": [
+        {
+          "name": "Miguel Luz",
+          "url": "https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm"
+        }
+      ],
+      "duration_ms": 206908,
+      "name": "Amor De Ganga",
+      "url": "https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz"
     },
     {
       "added_at": "2024-12-20 14:38:55",

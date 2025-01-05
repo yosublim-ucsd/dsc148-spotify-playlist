@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: LIL LEAGUE from EXILE TRIBE
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,406 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,405 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 18 | [TOKYO BLACK HOLE](https://open.spotify.com/track/2OIo2bL2wQxzzW3MCIuxf4) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [ECHOES of DUALITY](https://open.spotify.com/album/1OL8ShYfIqC64LwSqAozVm) | 3:33 |
 | 19 | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/track/4iS5v1tumGszKVPkxo1Yrt) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [TAMP](https://open.spotify.com/artist/6DFcdAH3sXdGCQqy1KHc8m) | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/album/2T8j6iR7DYVhSnZdy74RN3) | 3:46 |
 | 20 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 |
-| 21 | [ICY](https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 3:21 |
-| 22 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 |
+| 21 | [ICE](https://open.spotify.com/track/549zkJFZcpg2AtwwvzdhDy) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ](https://open.spotify.com/album/4fjCFlz6sObm63PnAGDBD6) | 2:35 |
+| 22 | [ICY](https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 3:21 |
 | 23 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
 | 24 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 |
 | 25 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 |

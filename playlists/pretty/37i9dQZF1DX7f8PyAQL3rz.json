@@ -1,6 +1,6 @@
 {
   "description": "chefin rei da tropa do mais novo ataca no funk",
-  "num_followers": 1405095,
+  "num_followers": 1405219,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,42 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
+        "name": "THE BOX MEDLEY FUNK 2",
+        "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "THE BOX MEDLEY FUNK 2",
+      "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
         "name": "Let's Go 5",
         "url": "https://open.spotify.com/album/44o1iCizbxPt4a6VJEQOKZ"
       },
@@ -419,42 +455,6 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
-        "name": "THE BOX MEDLEY FUNK 2",
-        "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "Mc Brinquedo",
-          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "THE BOX MEDLEY FUNK 2",
-      "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
     },
     {
       "added_at": "2024-12-20 03:03:02",

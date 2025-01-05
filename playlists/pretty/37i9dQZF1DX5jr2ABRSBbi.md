@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Výběr toho nej z EQUAL CZ&SK 2024 od našich editorů\. Cover: Pam Rabbit
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,603 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,614 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 40 | [Tape On My Lips](https://open.spotify.com/track/7GMBLWrHTSriSIylTSQIkH) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Tape On My Lips](https://open.spotify.com/album/5gC84VIW2zq3P8ImRsFtqZ) | 3:25 |
 | 41 | [Natural Agent](https://open.spotify.com/track/2P6nxcKupELaWudKOadi4V) | [Ovarius](https://open.spotify.com/artist/1mVIed0MtilOEV9kQx081d), [Blanch](https://open.spotify.com/artist/58seNHnaqbR3JSxRVfmerT) | [Natural Agent](https://open.spotify.com/album/5jDpojYF18D0gvsG97tU5d) | 5:20 |
 | 42 | [Ground](https://open.spotify.com/track/3m3Y5ArXq1AtydwejZqns0) | [Isabella Noel](https://open.spotify.com/artist/0vemMfbsHLikpkYJ6b3C6M), [Rainer](https://open.spotify.com/artist/4WQc4YpHYAGsNPm7a5Clvi) | [Ground](https://open.spotify.com/album/7ogAheU0basTAaaWTi5ApC) | 2:19 |
-| 43 | [Smalltown](https://open.spotify.com/track/6sUJTLFjCHNI5GZwKlHNA3) | [Arleta](https://open.spotify.com/artist/5fBvlOLDUZQ5vAntpqpZ3J) | [Smalltown](https://open.spotify.com/album/4mf25dM1WT1SBnNLe2ih6h) | 2:40 |
+| 43 | [smalltown](https://open.spotify.com/track/6sUJTLFjCHNI5GZwKlHNA3) | [Arleta](https://open.spotify.com/artist/5fBvlOLDUZQ5vAntpqpZ3J) | [smalltown](https://open.spotify.com/album/4mf25dM1WT1SBnNLe2ih6h) | 2:40 |
 | 44 | [necejtim lásku](https://open.spotify.com/track/1vSWzZhrof4yY3cOuyRYsa) | [SARA NOFF](https://open.spotify.com/artist/6AwdWKprr1dAF2xmTCutDi) | [necejtim lásku](https://open.spotify.com/album/6eIUEdJPUkuNjZ2YuVkDxh) | 2:36 |
 | 45 | [Nie som ta](https://open.spotify.com/track/7l5PMLNePCGJOyo8kL2d1N) | [Nela Pocisková](https://open.spotify.com/artist/7AgHNWVPK1t79mGOUanRes) | [Cesta](https://open.spotify.com/album/2ltl0I78raa0fr1zON7T8p) | 3:25 |
 | 46 | [blasé](https://open.spotify.com/track/1bM3pBE2SNMSAYhDAwg7TK) | [Sofie](https://open.spotify.com/artist/04PFwMAplZyzOerV1UcDMw), [Rainer](https://open.spotify.com/artist/4WQc4YpHYAGsNPm7a5Clvi) | [blasé](https://open.spotify.com/album/3rVAE7eKbXzDbnhXsMvehp) | 2:14 |

@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 278133,
       "name": "Aun Lo Amo",
       "url": "https://open.spotify.com/track/6rQiv59kQYiG8LqaSYDfWz"
@@ -11598,7 +11598,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 268053,
       "name": "Dejame Volver Contigo",
       "url": "https://open.spotify.com/track/7lBTazdXYEZT80sPDtSW8D"
@@ -13384,7 +13384,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 263320,
       "name": "D\u00e9jame Volver Contigo",
       "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
@@ -24983,6 +24983,24 @@
     },
     {
       "album": {
+        "name": "Living on Video (Claptone Remix)",
+        "url": "https://open.spotify.com/album/1KXL9ctFWXGDPEAPCx5Qbp"
+      },
+      "artists": [
+        {
+          "name": "Trans-X",
+          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354333,
+      "name": "Living on Video",
+      "url": "https://open.spotify.com/track/4pQOIxRikEmSOISk5SdH5V"
+    },
+    {
+      "album": {
         "name": "Llamada Perdida",
         "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
@@ -25350,10 +25368,28 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 186720,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
+    },
+    {
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/1yTICkCGrAN8nQO0JGuZoC"
+      },
+      "artists": [
+        {
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/63Zn0XvXmCC5GO5Ed6xera"
     },
     {
       "album": {
@@ -38277,6 +38313,24 @@
     },
     {
       "album": {
+        "name": "The Latin Connection",
+        "url": "https://open.spotify.com/album/49cjxo0jQx9s2CWGBwBxhh"
+      },
+      "artists": [
+        {
+          "name": "STOP",
+          "url": "https://open.spotify.com/artist/4b4omLgzfw0n7qZpsbKLd4"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376533,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/0tgGImAv6TUhWaInUovxlw"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -43492,7 +43546,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 167066,
       "name": "Take Me to the Beach (feat. Ado)",
       "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
-  "num_followers": 50676,
+  "num_followers": 50723,
   "original_name": "Latin Hits 2015",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,22 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
       "artists": [
         {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 225838,
-      "name": "Bajo El Agua",
-      "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
+      "duration_ms": 203160,
+      "name": "La Gozadera (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -123,22 +127,18 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 203160,
-      "name": "La Gozadera (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+      "duration_ms": 225838,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "Los Que Gustan",
         "url": "https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 228280,
       "name": "Pretextos (feat. Cosculluela)",
       "url": "https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Sin Contrato",
-      "url": "https://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "Manuel Medrano",
         "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 197840,
       "name": "Chillax (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Sin Contrato",
+      "url": "https://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 183926,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "Picky Back To The Roots",
         "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 244000,
       "name": "Te Equivocaste",
       "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 183926,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "Ya Es Muy Tarde",
-      "url": "https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 210733,
       "name": "No soy una de esas (feat. Alejandro Sanz)",
       "url": "https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef"
     },
     {
       "added_at": "2024-07-13 01:09:02",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "Todo Comenz\u00f3 Bailando",
         "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 130909,
       "name": "Nena",
       "url": "https://open.spotify.com/track/347TStOSY6IOqMB84Rpxwk"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
     },
     {
       "added_at": "2024-07-13 01:09:02",

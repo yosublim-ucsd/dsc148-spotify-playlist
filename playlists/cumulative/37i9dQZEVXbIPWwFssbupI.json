@@ -15344,7 +15344,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -23402,7 +23402,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -25307,7 +25307,7 @@
     },
     {
       "album": {
-        "name": "Mauvais gar\u00e7on",
+        "name": "Mauvais Gar\u00e7on",
         "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
       },
       "artists": [
@@ -25318,9 +25318,9 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 162706,
-      "name": "Mauvais gar\u00e7on",
+      "name": "Mauvais Gar\u00e7on",
       "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
     },
     {
@@ -29412,7 +29412,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/33ee2rByDAPDqYwPeXvhYY"
@@ -29430,7 +29430,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/6m6DLvkfxlezevfiD8qD4B"
@@ -30550,7 +30550,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 217259,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/2NcvQ8N9ugSMforAJT0A4Y"
@@ -31310,7 +31310,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 246978,
       "name": "PONA NINI",
       "url": "https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe"
@@ -31960,6 +31960,24 @@
       "duration_ms": 187493,
       "name": "Puta Madre (feat. Jul)",
       "url": "https://open.spotify.com/track/76YbjMIB74nqaSSlmx5zLx"
+    },
+    {
+      "album": {
+        "name": "Destin",
+        "url": "https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Putana",
+      "url": "https://open.spotify.com/track/5oePa8PlOTPAlRaGs2OZ3A"
     },
     {
       "album": {

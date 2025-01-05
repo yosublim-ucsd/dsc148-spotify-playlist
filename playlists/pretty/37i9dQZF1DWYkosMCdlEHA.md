@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,656 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,703 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 41 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
 | 42 | [Saudades Do Tempo \- Ao Vivo Em São Paulo](https://open.spotify.com/track/4CROpP2nRsHjCWUxJ7Ewpy) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:56 |
 | 43 | [Cravo e Canela \- Acústico \| Ao Vivo](https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia Acústico \(Ao Vivo\)](https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE) | 3:35 |
-| 44 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
-| 45 | [Stepping Out \- Live](https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Rastafari Centennial: Live In Paris \- Elysee Montmartre](https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd) | 5:58 |
-| 46 | [Proibiram as Flores \- Acústico](https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Eltin](https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq) | [Proibiram as Flores \(Acústico\)](https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs) | 3:58 |
+| 44 | [Stepping Out \- Live](https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Rastafari Centennial: Live In Paris \- Elysee Montmartre](https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd) | 5:58 |
+| 45 | [Proibiram as Flores \- Acústico](https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Eltin](https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq) | [Proibiram as Flores \(Acústico\)](https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs) | 3:58 |
+| 46 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 |
 | 47 | [Is This Love \(Cover\) \- Acústico](https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh) | [Luana Camarah](https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G) | [Is This Love \(Cover\) \[Acústico\]](https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O) | 3:52 |
 | 48 | [Nesses Olhos \- Ao Vivo](https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:44 |
 | 49 | [Solstício de Verão \- Acústico](https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Solstício de Verão \(acústico\)](https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw) | 3:11 |

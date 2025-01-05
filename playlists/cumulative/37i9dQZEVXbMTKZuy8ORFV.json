@@ -860,7 +860,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 112848,
       "name": "Ah\u00ed Estabas T\u00fa",
       "url": "https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 145555,
       "name": "Alma",
       "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 199000,
       "name": "Ay beb\u00e9",
       "url": "https://open.spotify.com/track/2Nrel4hzVFXt02o0KHVoLi"
@@ -2816,6 +2816,28 @@
       "duration_ms": 79389,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/7r3j6V228mlCKgZo6Escvy"
+    },
+    {
+      "album": {
+        "name": "Boxindanga",
+        "url": "https://open.spotify.com/album/72CZMSoQrgPxxjjWdAKOSc"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Matthysse",
+          "url": "https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk"
+        },
+        {
+          "name": "Jota M",
+          "url": "https://open.spotify.com/artist/7LK4I6q4tlYgsv6hiLnWdK"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153285,
+      "name": "Boxindanga",
+      "url": "https://open.spotify.com/track/4xKY2pP7CON2YFZLig4Mu5"
     },
     {
       "album": {
@@ -6626,7 +6648,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 174329,
       "name": "Faltan 5 Pa' las 12",
       "url": "https://open.spotify.com/track/17Kwdd9xubJr27UVruMPGf"
@@ -6744,7 +6766,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 150569,
       "name": "Faz de Chicote",
       "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
@@ -6788,7 +6810,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 131364,
       "name": "FAZENDEIRO - Ao Vivo",
       "url": "https://open.spotify.com/track/7ct52odhQxOc72YhDz3xJX"
@@ -18334,6 +18356,24 @@
       "duration_ms": 155293,
       "name": "Te Juro No Te Miento",
       "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "album": {

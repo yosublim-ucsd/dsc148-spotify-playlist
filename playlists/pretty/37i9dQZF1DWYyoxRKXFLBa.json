@@ -1,6 +1,6 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10644,
+  "num_followers": 10648,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
+        "name": "Dimensi\u00f3n 3000",
+        "url": "https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 202061,
+      "name": "Dimensi\u00f3n 3000",
+      "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
         "name": "me da miedo que escuches esto",
         "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Dimensi\u00f3n 3000",
-        "url": "https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z"
+        "name": "Un d\u00eda nos vamos a morir",
+        "url": "https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Luisa Almaguer",
+          "url": "https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq"
         }
       ],
-      "duration_ms": 202061,
-      "name": "Dimensi\u00f3n 3000",
-      "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
+      "duration_ms": 242666,
+      "name": "Un d\u00eda nos vamos a morir",
+      "url": "https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1279,22 +1295,6 @@
       "duration_ms": 237324,
       "name": "\u00d3rdenes para M\u00ed",
       "url": "https://open.spotify.com/track/7qeEHOZM2fVxT0UugDPAiW"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
-        "name": "Un d\u00eda nos vamos a morir",
-        "url": "https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy"
-      },
-      "artists": [
-        {
-          "name": "Luisa Almaguer",
-          "url": "https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Un d\u00eda nos vamos a morir",
-      "url": "https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi"
     },
     {
       "added_at": "2024-06-07 12:38:26",

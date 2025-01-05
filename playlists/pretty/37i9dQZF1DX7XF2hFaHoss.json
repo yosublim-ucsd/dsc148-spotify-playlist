@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Jessica Pratt",
-  "num_followers": 153202,
+  "num_followers": 153193,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -295,18 +295,18 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "On Your Own Love Again",
-        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
+        "name": "Nothing's Gonna Happen (Demo)",
+        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
       },
       "artists": [
         {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 93253,
-      "name": "On Your Own Love Again",
-      "url": "https://open.spotify.com/track/1UOEwcIsv696Gaq8ZA6NUu"
+      "duration_ms": 236450,
+      "name": "Nothing's Gonna Happen (Demo)",
+      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Nothing's Gonna Happen (Demo)",
-        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
+        "name": "On Your Own Love Again",
+        "url": "https://open.spotify.com/album/4plpT2Idnip2akI8c9LQP7"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
         }
       ],
-      "duration_ms": 236450,
-      "name": "Nothing's Gonna Happen (Demo)",
-      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
+      "duration_ms": 93253,
+      "name": "On Your Own Love Again",
+      "url": "https://open.spotify.com/track/1UOEwcIsv696Gaq8ZA6NUu"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "My Ego Dies At The End",
         "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
-      },
-      "artists": [
-        {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "Better Now (Acoustic)",
         "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 234551,
       "name": "Better Now - Acoustic",
       "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Cost of the Cold b/w Here and Whole",
-        "url": "https://open.spotify.com/album/6I4CXFR73mmZKrSxjcl6xs"
-      },
-      "artists": [
-        {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
-        }
-      ],
-      "duration_ms": 230817,
-      "name": "Cost of the Cold",
-      "url": "https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 181880,
       "name": "Save This Heart",
       "url": "https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "Cost of the Cold b/w Here and Whole",
+        "url": "https://open.spotify.com/album/6I4CXFR73mmZKrSxjcl6xs"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 230817,
+      "name": "Cost of the Cold",
+      "url": "https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "There's Always Glimmer",
-        "url": "https://open.spotify.com/album/6qy3kKRePcyju3SxF34kOh"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 214625,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/6eqtIVUZAuHJyokiR03I0k"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "Feels Like Magic",
         "url": "https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 187961,
       "name": "Feels Like Magic",
       "url": "https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "There's Always Glimmer",
+        "url": "https://open.spotify.com/album/6qy3kKRePcyju3SxF34kOh"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 214625,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/6eqtIVUZAuHJyokiR03I0k"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Nothing We Say - EP",
-        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Nothing We Say",
-      "url": "https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "California Calling",
         "url": "https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 241373,
       "name": "The Low Hum",
       "url": "https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "Nothing We Say - EP",
+        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Nothing We Say",
+      "url": "https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d"
     },
     {
       "added_at": "2024-08-23 14:16:37",

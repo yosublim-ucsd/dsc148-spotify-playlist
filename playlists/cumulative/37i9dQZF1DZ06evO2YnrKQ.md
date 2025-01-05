@@ -4,10 +4,11 @@
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-57 songs - 4 hr 3 min
+58 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(I'm\) Stranded \- triple j Like A Version](https://open.spotify.com/track/0WdlwRBR5aTJ8eGZq4tWeP) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(I'm\) Stranded \(triple j Like A Version\)](https://open.spotify.com/album/65Hgy4fFkdo5SnBW1sZIAu) | 3:10 | 2025-01-05 |  |
 | [.44 Caliber Love Letter](https://open.spotify.com/track/1ir5oMNuxrNeCwUJFaEyum) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 4:31 | 2022-10-25 |  |
 | [Accept Crime](https://open.spotify.com/track/5jPB5Pgus7EhKidYkoCjcl) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Death Letter](https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW) | 3:48 | 2024-09-30 |  |
 | [Accept Crime \- Live](https://open.spotify.com/track/7JTQuGvm5y837W5j9cfLK6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(LIVE\) \- Born & Raised 2022, St Catharines ON](https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip) | 3:20 | 2024-06-30 | 2024-09-29 |

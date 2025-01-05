@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,195 likes - 153 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,188 likes - 153 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 15 | [Christmas Time Is Here](https://open.spotify.com/track/5eeLuQVqGv8XAmud2RRCw6) | [Alejandra Webb](https://open.spotify.com/artist/2Lz8COjDMuGOxLwh5scGPA) | [Christmas Time Is Here](https://open.spotify.com/album/3bknC2a31jcEzUvUpgb6WC) | 2:46 |
 | 16 | [SNOWMAN](https://open.spotify.com/track/5FDlU08eFeBHVIqpOkbh16) | [chateau\_lounge](https://open.spotify.com/artist/69AjHyxWyUkSN7pmLIbXwd) | [SNOWMAN](https://open.spotify.com/album/0GE7b3xACXmFmkpiw6TEKM) | 1:52 |
 | 17 | [The Lonely Elf](https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [The Lonely Elf](https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT) | 1:42 |
-| 18 | [candles and xmas](https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [candles and xmas](https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J) | 2:20 |
-| 19 | [Slay Bells](https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Holiday Hustle](https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S) | 3:51 |
+| 18 | [Slay Bells](https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Holiday Hustle](https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S) | 3:51 |
+| 19 | [candles and xmas](https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [candles and xmas](https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J) | 2:20 |
 | 20 | [Christmas Walks](https://open.spotify.com/track/2u4DpjgyAe62MKV4YTmHxZ) | [420am](https://open.spotify.com/artist/2KPFkiMzNAp6jiKak35U6m) | [Christmas Walks](https://open.spotify.com/album/7vOFaycBV0GnVg13pcqomp) | 1:44 |
 | 21 | [Christmas by the Fireplace](https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:33 |
 | 22 | [December Dreams](https://open.spotify.com/track/4Bd76Hwfk2E5dUrBCqJL0Q) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [December Dreams](https://open.spotify.com/album/2DttvcgcNIEzrf9WMXHUbX) | 2:25 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 50 | [Noche De Paz](https://open.spotify.com/track/2zszx16qYoyLC5N3VQVxex) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Noche De Paz](https://open.spotify.com/album/6zcFS4GCuFl3BusJlCtW4A) | 2:30 |
 | 51 | [wrap up warm](https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [wrap up warm](https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb) | 2:09 |
 | 52 | [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 |
-| 53 | [Do You Hear What I Hear](https://open.spotify.com/track/1G8tBRmHzFloc6KzvDoQpE) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [Do You Hear What I Hear](https://open.spotify.com/album/2ZYQ3Xez3PDeeWfeSidR15) | 2:58 |
-| 54 | [Reindeer Sweater](https://open.spotify.com/track/2Ba3w0cniTGYIh2sgmyDPm) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:13 |
+| 53 | [Reindeer Sweater](https://open.spotify.com/track/2Ba3w0cniTGYIh2sgmyDPm) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:13 |
+| 54 | [Do You Hear What I Hear](https://open.spotify.com/track/1G8tBRmHzFloc6KzvDoQpE) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [Do You Hear What I Hear](https://open.spotify.com/album/2ZYQ3Xez3PDeeWfeSidR15) | 2:58 |
 | 55 | [Santa Looked a Lot Like Daddy](https://open.spotify.com/track/5s4gbvEoagDAQEGwPfdlKS) | [Baron Oxtar](https://open.spotify.com/artist/6lvzUcMXzJo17F9zo0x2Zs) | [How Great Thou Art](https://open.spotify.com/album/7EMAzPm5WUM3aKFbLsCeyN) | 2:10 |
 | 56 | [polar bear plunge](https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Holiday Beats](https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4) | 2:05 |
 | 57 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/4Z1b5iTNWlJNwht7gdQ9Mz) | [Philter Roads](https://open.spotify.com/artist/7v83XDBFkdsBRUCRDHe8Ke) | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/album/5GtJBKrIfm62ovAwoufnQ7) | 1:48 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 66 | [When You Wish Upon a Star](https://open.spotify.com/track/2NG0HrvHdH5xs5s9V3U2m2) | [Jason Jx](https://open.spotify.com/artist/6lMDF5oPSyrMEPrmBb6zLM) | [When You Wish Upon a Star](https://open.spotify.com/album/4CrquHUPgAGkal3NcjufrB) | 2:19 |
 | 67 | [Winter Vibin'](https://open.spotify.com/track/3iYC7w2rOQav3BQlibwJqp) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [A Christmas Present For You](https://open.spotify.com/album/43APl6GrPHaOG3zxXHhJ41) | 2:11 |
 | 68 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 |
-| 69 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
-| 70 | [Silver bells](https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Silver bells](https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U) | 2:28 |
-| 71 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
+| 69 | [Silver bells](https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Silver bells](https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U) | 2:28 |
+| 70 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
+| 71 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
 | 72 | [Soaring Reindeer](https://open.spotify.com/track/4MQW3WYzs5EVQr96g5r4MZ) | [Tiger Movie](https://open.spotify.com/artist/1XDpB5sGAzaiBV1qFYs84m) | [Have a Lofi Christmas](https://open.spotify.com/album/5zEOGPCoL5NDWyk2XutPss) | 2:38 |
 | 73 | [Sleigh Ride](https://open.spotify.com/track/2j8FSM3mItIqzkvN5Ljfz9) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Lofi Christmas](https://open.spotify.com/album/1DVFsVbYH3y2YhvH3Q4j2P) | 2:01 |
 | 74 | [Togetherness](https://open.spotify.com/track/0tFIloIXXvtGeIkC1fRmIN) | [Jingle Feelz](https://open.spotify.com/artist/3IWqTmtQEwVejePSf3LXil) | [Togetherness](https://open.spotify.com/album/61KdA5AeurS6FPon5tcLYf) | 1:47 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 99 | ['Zat You, Santa Claus?](https://open.spotify.com/track/1VtqCqOSOvr6GVxJFbGTHW) | [Silver\-Reed](https://open.spotify.com/artist/6PEo8tsDC9NouhSbhGArrO) | ['Zat You, Santa Claus?](https://open.spotify.com/album/6S9XdMcmTOkPeIvkeMIoHT) | 1:43 |
 | 100 | [O Little Town Of Bethlehem](https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 1:57 |
 | 101 | [Sad Christmas](https://open.spotify.com/track/29YiYdVtTiELW6UO5Es59x) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Not Your Normal Christmas](https://open.spotify.com/album/3qOW1s02oYct01T5zpmyB3) | 2:11 |
-| 102 | [merry lofi](https://open.spotify.com/track/0sYMwcydVgZk8aYESIG2gM) | [maja andino](https://open.spotify.com/artist/4zGvgGIRSFQmOjfLG5qQuh) | [merry lofi](https://open.spotify.com/album/62W803hCRq4i2aq3WINogd) | 2:10 |
-| 103 | [night bells](https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [night bells](https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI) | 1:58 |
+| 102 | [night bells](https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [night bells](https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI) | 1:58 |
+| 103 | [merry lofi](https://open.spotify.com/track/0sYMwcydVgZk8aYESIG2gM) | [maja andino](https://open.spotify.com/artist/4zGvgGIRSFQmOjfLG5qQuh) | [merry lofi](https://open.spotify.com/album/62W803hCRq4i2aq3WINogd) | 2:10 |
 | 104 | [Merry 'Lil Christmas](https://open.spotify.com/track/2vNjURpX7uHPUXJYqZbEXD) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 2:23 |
 | 105 | [Cold Wonderland](https://open.spotify.com/track/3WKOaCXGUQ3uFRwQbnyb4G) | [Melteoria](https://open.spotify.com/artist/270POK21q60lx287MFYyXm) | [Cold Wonderland](https://open.spotify.com/album/31QrLCguWzOuK11DPdaKhl) | 2:07 |
 | 106 | [Jingle Jungle](https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Jingle Jungle](https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE) | 2:20 |

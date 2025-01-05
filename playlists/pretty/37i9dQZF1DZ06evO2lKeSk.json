@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 345822,
+  "num_followers": 345864,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAABAn/Q80ld4JRpnMh96lj6+",
+  "snapshot_id": "Z3cogAAAAACDLlx9q7Bj/kj4omfQH5xE",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huelo a Soledad",
-        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Huelo a Soledad",
-      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 206466,
       "name": "Pecado Original",
       "url": "https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Huelo a Soledad",
+        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Huelo a Soledad",
+      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Mariachi En Altos De Chav\u00f3n",
-        "url": "https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 475880,
-      "name": "Medley Ranchero: Mi Talism\u00e1n/No Entiendo/Hechizo - Altos De Chav\u00f3n Live Version",
-      "url": "https://open.spotify.com/track/4Jw0iZI9fjtoKIHDDlkcEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 279226,
       "name": "Amor",
       "url": "https://open.spotify.com/track/07hLFDNfRR8m01VGSfedDV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Mariachi En Altos De Chav\u00f3n",
+        "url": "https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 475880,
+      "name": "Medley Ranchero: Mi Talism\u00e1n/No Entiendo/Hechizo - Altos De Chav\u00f3n Live Version",
+      "url": "https://open.spotify.com/track/4Jw0iZI9fjtoKIHDDlkcEg"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/3hNhYIAFtqVrVRhaj6Ppmy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 206746,
       "name": "Yo Te Perdono",
       "url": "https://open.spotify.com/track/4Q7BUP4smQmQV6gSDOcMjW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/3hNhYIAFtqVrVRhaj6Ppmy"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Amores, un Amante",
-        "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/1NGgiQe5fBZH51fHw9GtYl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Un Mismo Corazon",
         "url": "https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 211680,
       "name": "Paz en Este Amor",
       "url": "https://open.spotify.com/track/3FfajmH9zGvlsOlO78SQhN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Amores, un Amante",
+        "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/1NGgiQe5fBZH51fHw9GtYl"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
-        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 508133,
-      "name": "Popurr\u00ed Ranchero - En Vivo",
-      "url": "https://open.spotify.com/track/0RIYRFQyrM4rCV0PKYCeAH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Amores, un Amante",
         "url": "https://open.spotify.com/album/4RM8q1eGt22cASyNKDgA4R"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 172573,
       "name": "Aprendiste a Volar",
       "url": "https://open.spotify.com/track/0QVsZ6EciMG8NBQtzFFxwc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ana Gabriel En La Plaza De Toros M\u00e9xico",
+        "url": "https://open.spotify.com/album/3yRVRIoZEWipJo3po8jkhy"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 508133,
+      "name": "Popurr\u00ed Ranchero - En Vivo",
+      "url": "https://open.spotify.com/track/0RIYRFQyrM4rCV0PKYCeAH"
     },
     {
       "added_at": null,

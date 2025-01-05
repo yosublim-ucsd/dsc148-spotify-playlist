@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 200727,
+  "num_followers": 200730,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAADqI8+XX+G7tGsBmXsojUuW",
+  "snapshot_id": "Z3cogAAAAABwKg7gJak3Zn5poIk7Wj7v",
   "tracks": [
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LP1",
-        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 165710,
-      "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 The Storm (Expanded Edition)",
         "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
       },
@@ -511,22 +491,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4 AVA",
-        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+        "name": "LP1",
+        "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 205702,
-      "name": "24 Hours (feat. Lil Durk) [Bonus]",
-      "url": "https://open.spotify.com/track/4O7FYAjDATiyylfIIAuRNE"
+      "duration_ms": 165710,
+      "name": "Stack It Up (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/426utyJ4B1l4vi5i5ULU5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
     },
     {
       "added_at": null,
@@ -551,22 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/2ett4tFMejclvi2k8in5J4"
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
       },
       "artists": [
         {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        },
-        {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 176105,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/0ZC12m6kUhU0gWGXD5VkVs"
+      "duration_ms": 205702,
+      "name": "24 Hours (feat. Lil Durk) [Bonus]",
+      "url": "https://open.spotify.com/track/4O7FYAjDATiyylfIIAuRNE"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TBA",
-        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "DJ SpinKing",
-          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Timeless (feat. DJ SPINKING)",
-      "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 293434,
       "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
       "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TBA",
+        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "DJ SpinKing",
+          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Timeless (feat. DJ SPINKING)",
+      "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
     },
     {
       "added_at": null,
@@ -847,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAZA",
-        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
+        "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+        "url": "https://open.spotify.com/album/36Mq31otog86NGRflpMmkg"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 180871,
-      "name": "No Stress (feat. A Boogie wit da Hoodie)",
-      "url": "https://open.spotify.com/track/1g2CMj45LJZWxGQYoBye0X"
+      "duration_ms": 254999,
+      "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+      "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
     },
     {
       "added_at": null,
@@ -891,22 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
-        "url": "https://open.spotify.com/album/36Mq31otog86NGRflpMmkg"
+        "name": "PLAZA",
+        "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 254999,
-      "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
-      "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
+      "duration_ms": 180871,
+      "name": "No Stress (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/1g2CMj45LJZWxGQYoBye0X"
     },
     {
       "added_at": null,
@@ -931,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4 BOA",
-        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Did Me Wrong",
-      "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artist 2.0",
         "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 196618,
       "name": "Blood On My Denim",
       "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Did Me Wrong",
+      "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
     },
     {
       "added_at": null,

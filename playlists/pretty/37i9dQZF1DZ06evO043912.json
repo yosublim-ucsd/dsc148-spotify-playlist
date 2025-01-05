@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 5955,
+  "num_followers": 5957,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAADByxPtPkXY1wAa1nE5EDh4",
+  "snapshot_id": "Z3cogAAAAABH46BMKnzKowPHT/v2RB/C",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics, Vol. 1: Let Them Say & Edide",
-        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 93578,
-      "name": "E Yi Ga",
-      "url": "https://open.spotify.com/track/7hQWQu6FLh2EtCHtNY9O3M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunny Ade and His Green Spot Band, Vol. 4",
         "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 165459,
       "name": "Akure Nile",
       "url": "https://open.spotify.com/track/0v0XDTadZVjgo0BY3gWG4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 93578,
+      "name": "E Yi Ga",
+      "url": "https://open.spotify.com/track/7hQWQu6FLh2EtCHtNY9O3M"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 217973,
-      "name": "Oro Towo Baseti",
-      "url": "https://open.spotify.com/track/53nr4M3BGTXAa5hyT4SmQf"
+      "duration_ms": 71626,
+      "name": "African Beats Lu Nsere",
+      "url": "https://open.spotify.com/track/1LV8wFaEEMJFG8Z5x57YPq"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 71626,
-      "name": "African Beats Lu Nsere",
-      "url": "https://open.spotify.com/track/1LV8wFaEEMJFG8Z5x57YPq"
+      "duration_ms": 217973,
+      "name": "Oro Towo Baseti",
+      "url": "https://open.spotify.com/track/53nr4M3BGTXAa5hyT4SmQf"
     },
     {
       "added_at": null,

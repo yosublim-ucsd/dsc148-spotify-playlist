@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Delilah en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,616 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,626 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 59 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
 | 60 | [Compañera](https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [Compañera](https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR) | 3:13 |
 | 61 | [Hola, Me Llamo María](https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [Hola, Me Llamo María](https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1) | 2:36 |
-| 62 | [LA FALTA QUE ME HACES](https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES](https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT) | 3:00 |
-| 63 | [Nunca Fuimos Al Mar](https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nunca Fuimos Al Mar](https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw) | 2:13 |
+| 62 | [Nunca Fuimos Al Mar](https://open.spotify.com/track/6WwWSW4ipWBBgDoLPmNlDL) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nunca Fuimos Al Mar](https://open.spotify.com/album/0Z1bYlSE4Y6LAVTs7zaDrw) | 2:13 |
+| 63 | [LA FALTA QUE ME HACES](https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES](https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT) | 3:00 |
 | 64 | [La vida pasa](https://open.spotify.com/track/5nfcvTHr49VPZX8yjXJBrq) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [La vida pasa](https://open.spotify.com/album/0JueSaUorzNim4awxNe11Y) | 3:48 |
 | 65 | [DESASTRE](https://open.spotify.com/track/1R9s6WJz2kMPP9yNHQArEk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [UNDESASTRE](https://open.spotify.com/album/3we6FpK61JQs2f1mbkJ1kG) | 3:42 |
 | 66 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |

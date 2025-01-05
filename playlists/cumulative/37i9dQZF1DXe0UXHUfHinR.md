@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-776 songs - 2 day 13 hr 27 min
+777 songs - 2 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [I'll Only Miss Her](https://open.spotify.com/track/3fiPnFQRoGCHnHijZs21br) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Close To You](https://open.spotify.com/album/5PgvEwIDiR27lQvF5ktALF) | 4:46 | 2022-10-27 | 2023-01-26 |
 | [I'll See You in My Dreams](https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:33 | 2022-10-27 |  |
 | [I'll Wait and Pray](https://open.spotify.com/track/1Rph9i0FWKDa9Aq9H4iiMx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 3:26 | 2024-07-17 |  |
+| [I'm A Fool To Want](https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 5:33 | 2024-07-17 |  |
 | [I'm A Fool To Want You \- Remastered 2006](https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:12 | 2022-10-27 |  |
 | [I'm Beginning To See The Light \- Mono Version](https://open.spotify.com/track/3oDZ1hAeCOUo0oJKlqc9sw) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [The Complete Clef & Verve Fifties Studio Recordings](https://open.spotify.com/album/7GLEidBdAgwkHt3tDG5gvT) | 3:08 | 2023-08-10 | 2023-08-21 |
 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk \(Expanded Edition\)](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:37 | 2022-10-27 |  |
@@ -452,7 +453,7 @@
 | [Moanin'](https://open.spotify.com/track/3Vqbj9yPHBTIRhTDJHPQMq) | [Mingus Big Band](https://open.spotify.com/artist/54YNxT02JdAApvFBhD8ea0) | [Nostalgia in Times Square](https://open.spotify.com/album/191OIaXXeIszZK64aNjL4U) | 8:59 | 2023-12-14 | 2024-04-19 |
 | [Moanin'](https://open.spotify.com/track/59BrMMx45o2Q7GtJALMhAQ) | [Mingus Big Band](https://open.spotify.com/artist/54YNxT02JdAApvFBhD8ea0) | [Nostalgia in Times Square](https://open.spotify.com/album/72GOiK3svYQ616wzDN03VK) | 8:59 | 2022-10-27 | 2023-11-11 |
 | [Monday](https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 2:01 | 2023-10-05 | 2024-03-20 |
-| [Monicas vals](https://open.spotify.com/track/0P0lgWxM39ZSJE3u9nsikD) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC) | 2:47 | 2024-07-17 |  |
+| [Monicas vals](https://open.spotify.com/track/0P0lgWxM39ZSJE3u9nsikD) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC) | 2:47 | 2024-07-17 | 2025-01-05 |
 | [Monk's Dream \- Take 8](https://open.spotify.com/track/0488kXJ1YnLMrrM1ssJnev) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Monk's Dream](https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL) | 6:25 | 2022-10-27 | 2024-09-20 |
 | [Monticello](https://open.spotify.com/track/0FKnknau5UBXgN2Q6vVHgC) | [The Monty Alexander Trio](https://open.spotify.com/artist/31KKBLM5RlNTW9EAYa6kW9) | [We've Only Just Begun](https://open.spotify.com/album/6ynS20qvBhX3zrvhCY9w93) | 3:52 | 2024-07-17 |  |
 | [Mood Indigo](https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:45 | 2022-10-27 |  |

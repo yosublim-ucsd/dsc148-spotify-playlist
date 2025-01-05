@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17509,
+  "num_followers": 17512,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAACwHJ3xHsN7mgnH3wsyG3cf",
+  "snapshot_id": "Z3cogAAAAAA2+to9dYA4AIahWUh4+UdA",
   "tracks": [
     {
       "added_at": null,
@@ -404,25 +404,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 206000,
-      "name": "SUICIDE",
-      "url": "https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 213601,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
+      "duration_ms": 162000,
+      "name": "TUNING",
+      "url": "https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 195327,
       "name": "Heart Of Glass",
       "url": "https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 213601,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
     },
     {
       "added_at": null,
@@ -472,25 +472,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 162000,
-      "name": "TUNING",
-      "url": "https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 415422,
-      "name": "SEXE",
-      "url": "https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF"
+      "duration_ms": 206000,
+      "name": "SUICIDE",
+      "url": "https://open.spotify.com/track/7JFtFblo18Jz5jBg5pnBMv"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
       "duration_ms": 156333,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 415422,
+      "name": "SEXE",
+      "url": "https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "L\u2019orage",
-      "url": "https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noir",
         "url": "https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 159484,
       "name": "Noir",
       "url": "https://open.spotify.com/track/6mJvBmoVQxO3B3QqNVmLIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "L\u2019orage",
+      "url": "https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Cour des Miracles",
         "url": "https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 196600,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "La vague",
-      "url": "https://open.spotify.com/track/4EsWuzGuuYjF3eiG3cZXfx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 186323,
       "name": "Rouge",
       "url": "https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "La vague",
+      "url": "https://open.spotify.com/track/4EsWuzGuuYjF3eiG3cZXfx"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
       "duration_ms": 182400,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ouvre",
+        "url": "https://open.spotify.com/album/29vu2ZfGbER9AnVw1kFMiU"
+      },
+      "artists": [
+        {
+          "name": "Maurane",
+          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 278173,
+      "name": "A part \u00eatre",
+      "url": "https://open.spotify.com/track/41TvlfUIwDD0WwTujjtIi1"
     },
     {
       "added_at": null,
@@ -835,26 +855,6 @@
       "duration_ms": 150533,
       "name": "Pour l\u2019impossible",
       "url": "https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ouvre",
-        "url": "https://open.spotify.com/album/29vu2ZfGbER9AnVw1kFMiU"
-      },
-      "artists": [
-        {
-          "name": "Maurane",
-          "url": "https://open.spotify.com/artist/1bsGJW4NXgXaHzD2Lpk7if"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 278173,
-      "name": "A part \u00eatre",
-      "url": "https://open.spotify.com/track/41TvlfUIwDD0WwTujjtIi1"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 265282,
+  "num_followers": 265295,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAABejn8XmTwYhhLDegqTwNgk",
+  "snapshot_id": "Z3cogAAAAAB4mqt8+f+gARbksVomlyF7",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Atos 2 (feat. Gabriela Rocha)",
+        "url": "https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J"
+      },
+      "artists": [
+        {
+          "name": "ALEXANDRE APOSAN",
+          "url": "https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 342221,
+      "name": "Atos 2 (feat. Gabriela Rocha)",
+      "url": "https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pequenos Levitas",
         "url": "https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 384870,
       "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
       "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atos 2 (feat. Gabriela Rocha)",
-        "url": "https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J"
-      },
-      "artists": [
-        {
-          "name": "ALEXANDRE APOSAN",
-          "url": "https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 342221,
-      "name": "Atos 2 (feat. Gabriela Rocha)",
-      "url": "https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 266029,
+      "name": "Outro Na Fornalha",
+      "url": "https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Senhor Formoso \u00c9s / Ele \u00e9 Exaltado",
         "url": "https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 323308,
       "name": "Meu Respirar / Meu Prazer - Ao Vivo",
       "url": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 266029,
-      "name": "Outro Na Fornalha",
-      "url": "https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E"
     },
     {
       "added_at": null,

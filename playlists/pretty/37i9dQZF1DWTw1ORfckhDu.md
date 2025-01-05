@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Ares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,617 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,635 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
 | 2 | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy) | 3:03 |
-| 3 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
-| 4 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
+| 3 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
+| 4 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
 | 5 | [Jeesus](https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Jeesus](https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe) | 1:50 |
 | 6 | [Menolippu](https://open.spotify.com/track/6dyhgkxZnFiCRDHOFBY6Nt) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Menolippu](https://open.spotify.com/album/3rNuYNwHjSYQoCECmXkFzo) | 2:50 |
 | 7 | [Ympyrää](https://open.spotify.com/track/0M6h2AOJ6YjnkdGfeJEmuo) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Ympyrää](https://open.spotify.com/album/53Z3cU90vVY3vAsH8ll3kj) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Made in JKL](https://open.spotify.com/track/503tNCYSpytvdZUXItTopa) | [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z), [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Kabinettimusiikkia](https://open.spotify.com/album/7uLT2h05Xvja8IdV6w3aLy) | 4:00 |
 | 50 | [Bite \(feat\. Stafa\)](https://open.spotify.com/track/099wTMXZWRPMAouf9F46KO) | [Maxin](https://open.spotify.com/artist/3rYG05hlpuT7IK1Qwqy7s9), [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [Bite \(feat\. Stafa\)](https://open.spotify.com/album/5LXIn85yzAwCSCpcq9RNe9) | 2:05 |
 
-Snapshot ID: `Z3cMpQAAAACJwS96UAWVFmAhv/v2no0b`
+Snapshot ID: `Z3mMfQAAAAAn+EN1J/BBf1Afs7eROpSM`

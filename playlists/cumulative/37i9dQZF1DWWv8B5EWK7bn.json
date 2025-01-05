@@ -976,7 +976,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 252557,
       "name": "Cholericly Yours",
       "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
@@ -4742,7 +4742,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 220093,
       "name": "Nodos",
       "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
@@ -5372,7 +5372,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 194200,
       "name": "Processional",
       "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
@@ -7916,6 +7916,24 @@
       "duration_ms": 305946,
       "name": "Wall Of Eyes",
       "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
+    },
+    {
+      "album": {
+        "name": "wanderlust",
+        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
+      },
+      "artists": [
+        {
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184504,
+      "name": "wanderlust",
+      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
     },
     {
       "album": {

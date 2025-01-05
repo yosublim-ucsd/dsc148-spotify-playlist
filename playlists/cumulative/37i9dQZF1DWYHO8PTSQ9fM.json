@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "ElGrandeToto en t\u00eate de la plus grande playlist au Maroc.",
+  "description": "Morocco\u2019s biggest playlist featuring the hottest 50 tracks. Cover: ROS\u00c9 & Bruno Mars",
   "name": "Hot Hits Morocco",
   "tracks": [
     {
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 183947,
       "name": "Fi Derbi (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe"
@@ -2116,6 +2116,24 @@
       "duration_ms": 265120,
       "name": "Filamen - \u0641\u064a\u0644\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/5SfgODdv831EqaStxXB8el"
+    },
+    {
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
       "album": {
@@ -4116,7 +4134,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -4992,7 +5010,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 179034,
       "name": "POUR ELLE",
       "url": "https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU"
@@ -5759,6 +5777,24 @@
     },
     {
       "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "STALINE",
+      "url": "https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e"
+    },
+    {
+      "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
       },
@@ -6034,7 +6070,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"

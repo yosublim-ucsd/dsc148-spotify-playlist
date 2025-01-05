@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Chris Lorenzo \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 641902,
+  "num_followers": 641989,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
     },
     {
-      "added_at": "2024-01-12 20:08:53",
-      "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "MERTHER",
@@ -907,6 +891,22 @@
       "duration_ms": 189405,
       "name": "MERTHER",
       "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
+    },
+    {
+      "added_at": "2024-01-12 20:08:53",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     },
     {
-      "added_at": "2024-10-04 16:20:25",
-      "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "4U",
@@ -1003,6 +987,22 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
+    },
+    {
+      "added_at": "2024-10-04 16:20:25",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "So H\u00ef",
-        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 212139,
-      "name": "So H\u00ef",
-      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Lonely Heart",
@@ -1067,6 +1051,22 @@
       "duration_ms": 163333,
       "name": "Lonely Heart",
       "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "So H\u00ef",
+        "url": "https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 212139,
+      "name": "So H\u00ef",
+      "url": "https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1493,6 +1493,30 @@
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Snus (Tony Romera Remix)",
+        "url": "https://open.spotify.com/album/6RBBJmRSp748wbqTHEHXY3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Snus - Tony Romera Remix",
+      "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "As The Beat Goes Onnn",
@@ -1507,6 +1531,22 @@
       "duration_ms": 159283,
       "name": "As The Beat Goes Onnn",
       "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
+    },
+    {
+      "added_at": "2024-11-01 05:19:33",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
     },
     {
       "added_at": "2024-11-29 05:26:04",
@@ -1531,22 +1571,6 @@
       "duration_ms": 140776,
       "name": "Left To Right (James Hype Edit)",
       "url": "https://open.spotify.com/track/0Ey54LmdxIxdXQSqG2LsZW"
-    },
-    {
-      "added_at": "2024-11-01 05:19:33",
-      "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
     },
     {
       "added_at": "2024-06-05 04:04:17",
@@ -1601,46 +1625,6 @@
       "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Snus (Tony Romera Remix)",
-        "url": "https://open.spotify.com/album/6RBBJmRSp748wbqTHEHXY3"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "Snus - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Needle On The Record",
-        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "Needle On The Record",
-      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "All Night",
@@ -1659,6 +1643,22 @@
       "duration_ms": 177096,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3vUcG8qu1KgThYYEYHWIti"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Needle On The Record",
+        "url": "https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "Needle On The Record",
+      "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1697,26 +1697,6 @@
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Shapeshifter",
-        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 190232,
-      "name": "Shapeshifter",
-      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
-    },
-    {
       "added_at": "2024-11-29 05:26:04",
       "album": {
         "name": "Out Of My Head",
@@ -1735,6 +1715,26 @@
       "duration_ms": 204843,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 190232,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1761,6 +1761,22 @@
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Heard About Me",
+        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Heard About Me",
+      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "GETAWAY",
@@ -1779,22 +1795,6 @@
       "duration_ms": 163871,
       "name": "GETAWAY",
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Heard About Me",
-        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Heard About Me",
-      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2325,26 +2325,6 @@
       "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
     },
     {
-      "added_at": "2024-12-13 05:00:15",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/5Ial6y6kKXySRzUKBXOSGa"
-      },
-      "artists": [
-        {
-          "name": "Meck",
-          "url": "https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4"
-        },
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 215540,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/3O20jGSj87m5hSHoQHXfLv"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "No Long Talk",
@@ -2395,6 +2375,26 @@
       "duration_ms": 215192,
       "name": "Freaky Feed Me",
       "url": "https://open.spotify.com/track/28mfXJIaL1GT5J4EalGxJA"
+    },
+    {
+      "added_at": "2024-12-13 05:00:15",
+      "album": {
+        "name": "Girl In The Club",
+        "url": "https://open.spotify.com/album/2KbLzrMKim1Gg3Kd4z2sHt"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        },
+        {
+          "name": "Robert Flott",
+          "url": "https://open.spotify.com/artist/2YwN2tSu8mKglhQjmzmjQo"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "Girl In The Club",
+      "url": "https://open.spotify.com/track/2X0I1Ky8BOxJ6a4ZC9x8QX"
     }
   ],
   "unique_name": "Tech House Operator",

@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=F3FZOjLkTcWkIa4cIxEM\-A>Prinx Emmanuel</a>
 
-918 songs - 2 day 3 hr 1 min
+919 songs - 2 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [This Loving](https://open.spotify.com/track/5cNSb8EdbjGZEVoiNLsObZ) | [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC), [Adeshola](https://open.spotify.com/artist/5z5CuuEP3epmqJsQsgruER), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [This Loving](https://open.spotify.com/album/05hReTHK1IeRYtCZkwsJrS) | 2:58 | 2024-06-28 | 2024-08-16 |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-07 | 2023-10-27 |
 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-10-14 | 2024-04-05 |
+| [This Year \- Remix](https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [This Year \(Remix\)](https://open.spotify.com/album/4eGZHqU1iRAhe3gtowOLHX) | 2:42 | 2025-01-04 |  |
 | [This Year Affirmation](https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [This Year Affirmation](https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh) | 2:00 | 2024-01-05 | 2024-02-02 |
 | [To The One](https://open.spotify.com/track/63jFXcyV4O9hxNvguAhXfr) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [To The One](https://open.spotify.com/album/5qziBnjmCl8ZhpQNEGvLkG) | 9:54 | 2023-06-09 | 2023-07-28 |
 | [Today](https://open.spotify.com/track/2lYo77nYrYHxK1dfbXOUWr) | [OGmusic](https://open.spotify.com/artist/7bkAd1Exm8lAv2ZoiIhxZl) | [Today](https://open.spotify.com/album/42hBSYo8UAZgOvBTdl0Sol) | 3:02 | 2023-06-09 | 2023-07-28 |

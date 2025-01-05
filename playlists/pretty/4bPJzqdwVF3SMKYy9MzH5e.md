@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,039 songs - 4 day 13 hr 20 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,040 songs - 4 day 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2045,7 +2045,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2035 | [HUMBLE.](https://open.spotify.com/track/7ujx3NYtwO2LkmKGz59mXp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25) | 2:57 |
 | 2036 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |
 | 2037 | [L\-ON\-D\-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:08 |
-| 2038 | [sweet rally](https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ) | [ilysam](https://open.spotify.com/artist/3rmIPOsNb2ngQAQEK8Fow8), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [sweet rally](https://open.spotify.com/album/11vUnFryU2pTqfBGaAU7kc) | 1:09 |
-| 2039 | [Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Pt\. One](https://open.spotify.com/album/7xNgPrxoV7XX4mNRsoLp0c) | 3:31 |
+| 2038 | [Safe with you](https://open.spotify.com/track/4cDTVDYhe2zmQIjrqeZyjH) | [Bootee](https://open.spotify.com/artist/70ApPROJ9p9TqFRRMIL0t8) | [Secrets of the heart](https://open.spotify.com/album/7nF1GDoRih1Vs5sezkr7QO) | 4:09 |
+| 2039 | [sweet rally](https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ) | [ilysam](https://open.spotify.com/artist/3rmIPOsNb2ngQAQEK8Fow8), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [sweet rally](https://open.spotify.com/album/11vUnFryU2pTqfBGaAU7kc) | 1:09 |
+| 2040 | [Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Pt\. One](https://open.spotify.com/album/7xNgPrxoV7XX4mNRsoLp0c) | 3:31 |
 
-Snapshot ID: `AAADs7QknHA8gtNO4ysoeAVSldgD5M3U`
+Snapshot ID: `AAADtUtcJhA4Hc1s8e+BlTHVfUkKDEjA`

@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Jon Casey",
-  "num_followers": 980546,
+  "num_followers": 980523,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1685,26 +1685,6 @@
       "url": "https://open.spotify.com/track/5dsOyRsaC8y7tQ9IXtuXca"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Foul Tarnished",
-        "url": "https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        }
-      ],
-      "duration_ms": 189926,
-      "name": "Foul Tarnished",
-      "url": "https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Restless",
@@ -1727,6 +1707,26 @@
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Foul Tarnished",
+        "url": "https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        }
+      ],
+      "duration_ms": 189926,
+      "name": "Foul Tarnished",
+      "url": "https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70"
     },
     {
       "added_at": "2024-02-23 05:00:30",
@@ -1805,6 +1805,22 @@
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Lean Onto Me",
@@ -1827,22 +1843,6 @@
       "duration_ms": 192000,
       "name": "Lean Onto Me",
       "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1925,6 +1925,26 @@
       "url": "https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI"
     },
     {
+      "added_at": "2024-12-13 05:00:18",
+      "album": {
+        "name": "Stop, Go",
+        "url": "https://open.spotify.com/album/2CdAwxhmTmD5JV9o5de8qV"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Stop, Go",
+      "url": "https://open.spotify.com/track/7qqI3rqZ9i6p4dZl0uew9b"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "FEEL IT",
@@ -1959,26 +1979,6 @@
       "duration_ms": 145714,
       "name": "JUMP OUT",
       "url": "https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0"
-    },
-    {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "Stop, Go",
-        "url": "https://open.spotify.com/album/2CdAwxhmTmD5JV9o5de8qV"
-      },
-      "artists": [
-        {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
-        },
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Stop, Go",
-      "url": "https://open.spotify.com/track/7qqI3rqZ9i6p4dZl0uew9b"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2057,26 +2057,6 @@
       "url": "https://open.spotify.com/track/3zrA3t7TNwfzl23xXlHR2N"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "F.Y.U.",
-        "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 161708,
-      "name": "F.Y.U.",
-      "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
@@ -2099,6 +2079,26 @@
       "duration_ms": 176516,
       "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
       "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "F.Y.U.",
+        "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 161708,
+      "name": "F.Y.U.",
+      "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     }
   ],
   "unique_name": "Bass Arcade",

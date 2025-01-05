@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,803 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,805 likes - 41 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 38 | [Tonight, I'm Going to Wash the Hippy](https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 5:47 |
 | 39 | [The Dead Heart](https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Aussie Tour 7inch](https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB) | 4:40 |
 | 40 | [Complicit](https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Complicit](https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn) | 3:58 |
+| 41 | [\(I'm\) Stranded \- triple j Like A Version](https://open.spotify.com/track/0WdlwRBR5aTJ8eGZq4tWeP) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(I'm\) Stranded \(triple j Like A Version\)](https://open.spotify.com/album/65Hgy4fFkdo5SnBW1sZIAu) | 3:10 |
 
-Snapshot ID: `Z3XXAAAAAAB5P1lp9WlBXEEe0m6XNSL9`
+Snapshot ID: `Z3cogAAAAAAnUA1zE8ZJGib8cLczvYjZ`

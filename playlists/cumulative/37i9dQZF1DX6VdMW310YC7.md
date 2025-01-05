@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,713 songs - 4 day 21 hr 9 min
+1,714 songs - 4 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [Heading Home](https://open.spotify.com/track/4iZ3YEN89TU8Uwan4NwkB8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [Heading Home](https://open.spotify.com/album/63bTrVZUP6nrisVDZbkzSc) | 4:31 | 2020-05-18 | 2020-07-03 |
 | [Heading Home \- Imagined Herbal Flows Remix](https://open.spotify.com/track/4DP23FT7SqCqp43qXaUfT2) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz), [IHF](https://open.spotify.com/artist/34P1IGH1mIqdaVkfRuTebV), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Heading Home \(Remixes\)](https://open.spotify.com/album/2hFzmPwUUmKvqmXJgTHhn5) | 3:08 | 2020-05-19 | 2020-07-18 |
 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/06Hdbxh6NCy6TIhjdXTchB) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/album/2ryym6yEc6r3ZuigHBDr1A) | 3:29 | 2020-05-22 | 2020-07-03 |
+| [Heal](https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heal](https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB) | 4:33 | 2025-01-04 |  |
 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 | 2022-07-01 | 2023-05-13 |
 | [Hear Me Now](https://open.spotify.com/track/6OnYQKTc5fbSGbIpaH4KxL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/5ev8miwRafJ3DeXNaAVzBZ) | 3:12 | 2020-05-22 | 2020-07-03 |
 | [Heart](https://open.spotify.com/track/1IQgMSRjsLjVw5VZFeWcC0) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart](https://open.spotify.com/album/5oOeNGXiuRst2Dat4Ufkhp) | 3:15 | 2020-03-16 | 2020-06-12 |
@@ -1195,7 +1196,7 @@
 | [POV \(with NEVRMIND\)](https://open.spotify.com/track/63fzBjCtxxS0peGMkyTfVP) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [POV \(with NEVRMIND\)](https://open.spotify.com/album/3cHmRL9soTP6s1XFJNkUyo) | 2:34 | 2022-02-04 | 2022-02-09 |
 | [Pray for Us](https://open.spotify.com/track/49X931MF0VVnHFkhVU3M5r) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:46 | 2020-04-03 | 2020-10-09 |
 | [Pretty Good](https://open.spotify.com/track/07aFPwkdNSvNZvPg8B4dHs) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 3:10 | 2022-08-26 | 2022-09-10 |
-| [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-02-09 |  |
+| [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-02-09 | 2025-01-05 |
 | [Private Island \(coldbrew Remix\)](https://open.spotify.com/track/3zcUZg6MoJPHPjt7vM1wx7) | [MÒZÂMBÎQÚE](https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [Private Island \(coldbrew Remix\)](https://open.spotify.com/album/7JjYuptyDfJSIeGIZtiUr5) | 2:13 | 2020-08-06 | 2022-01-13 |
 | [Priviet](https://open.spotify.com/track/3e66lQYqNYhZX1X2mBeO4L) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Keeping the Little Things](https://open.spotify.com/album/1pT7zb48i6eE1YHC76IcLQ) | 4:55 | 2020-08-20 | 2020-10-09 |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-05 | 2022-10-13 |

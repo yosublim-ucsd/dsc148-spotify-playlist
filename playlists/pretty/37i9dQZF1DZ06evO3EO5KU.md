@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,748 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,760 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 32 | [Ya Lo Superé \- En Vivo](https://open.spotify.com/track/5vtXoD9OH1OsE08sF3yHeM) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Una Más Desde el Llano 2da\. Función \(En Vivo\)](https://open.spotify.com/album/1uZh1fOpFF3ds2cpVjKDto) | 3:51 |
 | 33 | [Duren](https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Duren](https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx) | 3:10 |
 | 34 | [En Un Día Como Hoy](https://open.spotify.com/track/47iMaBA9XSFD6SUqhzzOOy) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm) | 3:21 |
-| 35 | [Yo Ya Sabia Pa' Donde Iba \- En Vivo](https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:29 |
-| 36 | [El Doble R \- En Vivo](https://open.spotify.com/track/3XqmCoHQEVrA1yuzUNssJ3) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \(En Vivo\)](https://open.spotify.com/album/2xSF4vFFb451WNRx92gN03) | 2:24 |
+| 35 | [El Doble R \- En Vivo](https://open.spotify.com/track/3XqmCoHQEVrA1yuzUNssJ3) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \(En Vivo\)](https://open.spotify.com/album/2xSF4vFFb451WNRx92gN03) | 2:24 |
+| 36 | [Yo Ya Sabia Pa' Donde Iba \- En Vivo](https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:29 |
 | 37 | [Hablemos \- En Vivo](https://open.spotify.com/track/1dGDAgXnqtOdZElH0QoMMu) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Una Más Desde el Llano 1ra\. Función \(En Vivo\)](https://open.spotify.com/album/445QAYvPjeVuxZ4a1yztc8) | 3:03 |
 | 38 | [¿Por Qué Me Haces Llorar? \- En Vivo](https://open.spotify.com/track/6YuIK9sCV6g89yVmkNZtla) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [¿Por Qué Me Haces Llorar? \(En Vivo\)](https://open.spotify.com/album/7LosuoGd6sHiY1QKXimQUW) | 3:18 |
 | 39 | [El Güero Colorado](https://open.spotify.com/track/2ObxcTBFkkpqIdWmtofZVg) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Luces, Cámara y Acción](https://open.spotify.com/track/3mdFsWlgPsY9SH9281Tk2f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Luces, Cámara y Acción](https://open.spotify.com/album/7apdNS89KMDFKuU7ztnaQ3) | 2:59 |
 | 50 | [Rey de Corazones \- En Vivo](https://open.spotify.com/track/0yJqHRmryTQI4MB4xTmE2B) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Rey de Corazones \(En Vivo\)](https://open.spotify.com/album/0VAAZsQ8EOTxchWZ4v4sjR) | 3:44 |
 
-Snapshot ID: `Z3XXAAAAAABtfr3VQJZkPJd+f8gPDiQJ`
+Snapshot ID: `Z3cogAAAAAAz3CJyAO+lHmn5AEPKdPj/`

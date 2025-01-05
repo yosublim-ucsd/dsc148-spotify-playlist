@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Miel San Marcos",
-  "num_followers": 38669,
+  "num_followers": 38665,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Hosanna (Naci\u00f3 el Salvador)",
-        "url": "https://open.spotify.com/album/6laOmLYemHwlZsWKrXbJHy"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 233578,
-      "name": "Hosanna - Naci\u00f3 el Salvador",
-      "url": "https://open.spotify.com/track/6UVBb4p0rkNGtm3XKfHfi7"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Dios Anduvo en Pa\u00f1ales",
         "url": "https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 186712,
       "name": "Dios Anduvo en Pa\u00f1ales",
       "url": "https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Hosanna (Naci\u00f3 el Salvador)",
+        "url": "https://open.spotify.com/album/6laOmLYemHwlZsWKrXbJHy"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 233578,
+      "name": "Hosanna - Naci\u00f3 el Salvador",
+      "url": "https://open.spotify.com/track/6UVBb4p0rkNGtm3XKfHfi7"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Cristianos Vayamos",
-        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
-      },
-      "artists": [
-        {
-          "name": "Athenas",
-          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
-        }
-      ],
-      "duration_ms": 227705,
-      "name": "Cristianos Vayamos",
-      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Navidad",
         "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 228253,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Cristianos Vayamos",
+        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
+      },
+      "artists": [
+        {
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+        }
+      ],
+      "duration_ms": 227705,
+      "name": "Cristianos Vayamos",
+      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Jes\u00fas Es Navidad",
-        "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
-      },
-      "artists": [
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
-        }
-      ],
-      "duration_ms": 157833,
-      "name": "Jes\u00fas Es Navidad",
-      "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Venid Adoremos",
         "url": "https://open.spotify.com/album/69wGxND0aHSUyxOwNgeoh4"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 286058,
       "name": "Venid Adoremos",
       "url": "https://open.spotify.com/track/3RDCKY0YJ9eJCfoup9VgFv"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Jes\u00fas Es Navidad",
+        "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
+      },
+      "artists": [
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 157833,
+      "name": "Jes\u00fas Es Navidad",
+      "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Happy Birthday Jesus (Merry Christmas)",
+        "url": "https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x"
+      },
+      "artists": [
+        {
+          "name": "Lily Marie Antonini",
+          "url": "https://open.spotify.com/artist/1x8FFUkHOebTcWv9L7KJnt"
+        }
+      ],
+      "duration_ms": 219798,
+      "name": "Espiritu Santo",
+      "url": "https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/6VCsFBSPBKUHkU5Lvoknh8"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Happy Birthday Jesus (Merry Christmas)",
-        "url": "https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x"
+        "name": "Hoy Ha Nacido el Salvador",
+        "url": "https://open.spotify.com/album/4Xld2ExYNvHD3Pbft8SUrm"
       },
       "artists": [
         {
-          "name": "Lily Marie Antonini",
-          "url": "https://open.spotify.com/artist/1x8FFUkHOebTcWv9L7KJnt"
+          "name": "Ivan Diaz",
+          "url": "https://open.spotify.com/artist/27PzO3XYBbps95WvMrcWmu"
         }
       ],
-      "duration_ms": 219798,
-      "name": "Espiritu Santo",
-      "url": "https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb"
+      "duration_ms": 329640,
+      "name": "Hoy Ha Nacido el Salvador",
+      "url": "https://open.spotify.com/track/6Q8C5Am5jOxwbQuTzXmljH"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1611,22 +1627,6 @@
       "duration_ms": 188889,
       "name": "Navidad Lleg\u00f3",
       "url": "https://open.spotify.com/track/55N7vaSCbmB2JTp08F9wmA"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Hoy Ha Nacido el Salvador",
-        "url": "https://open.spotify.com/album/4Xld2ExYNvHD3Pbft8SUrm"
-      },
-      "artists": [
-        {
-          "name": "Ivan Diaz",
-          "url": "https://open.spotify.com/artist/27PzO3XYBbps95WvMrcWmu"
-        }
-      ],
-      "duration_ms": 329640,
-      "name": "Hoy Ha Nacido el Salvador",
-      "url": "https://open.spotify.com/track/6Q8C5Am5jOxwbQuTzXmljH"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Santa la noche",
-        "url": "https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 253571,
-      "name": "Santa la noche",
-      "url": "https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Santa la noche",
+        "url": "https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 253571,
+      "name": "Santa la noche",
+      "url": "https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1923,6 +1923,22 @@
       "duration_ms": 192171,
       "name": "Ya Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Incontenible Es Tu Amor",
+        "url": "https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 333170,
+      "name": "El Gran Yo Soy",
+      "url": "https://open.spotify.com/track/74qC6iJw5alC14dHvSpT23"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -2031,22 +2047,6 @@
       "duration_ms": 238640,
       "name": "\u00bfQu\u00e9 Dir\u00edas?",
       "url": "https://open.spotify.com/track/2gHZj7um0KdIav8ncUCEqE"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Incontenible Es Tu Amor",
-        "url": "https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 333170,
-      "name": "El Gran Yo Soy",
-      "url": "https://open.spotify.com/track/74qC6iJw5alC14dHvSpT23"
     },
     {
       "added_at": "2024-12-13 04:11:31",

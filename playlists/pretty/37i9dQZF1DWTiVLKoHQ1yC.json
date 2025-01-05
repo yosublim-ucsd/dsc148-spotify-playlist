@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 227591,
+  "num_followers": 227656,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Quezacotl",
-        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Quezacotl",
-      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 219768,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Quezacotl",
+        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 435000,
+      "name": "Quezacotl",
+      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Afters",
-        "url": "https://open.spotify.com/album/6TnuvOxefca6KEDgQimpki"
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Afters",
-      "url": "https://open.spotify.com/track/0Mpwy30nhQyjHIBBWiRBvx"
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+        "name": "Afters",
+        "url": "https://open.spotify.com/album/6TnuvOxefca6KEDgQimpki"
       },
       "artists": [
         {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+      "duration_ms": 226760,
+      "name": "Afters",
+      "url": "https://open.spotify.com/track/0Mpwy30nhQyjHIBBWiRBvx"
     },
     {
       "added_at": "2024-11-22 00:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: G\u00f6khan T\u00fcrkmen",
-  "num_followers": 512031,
+  "num_followers": 512080,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-12-26 21:00:19",
       "album": {
-        "name": "Bende Bi' A\u015fk Var",
-        "url": "https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u"
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X"
       },
       "artists": [
         {
-          "name": "G\u00f6ksel",
-          "url": "https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0"
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
         }
       ],
-      "duration_ms": 219872,
-      "name": "Uzaktan",
-      "url": "https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb"
+      "duration_ms": 153999,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"
     },
     {
       "added_at": "2024-12-26 21:00:19",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-12-26 21:00:19",
       "album": {
+        "name": "Bende Bi' A\u015fk Var",
+        "url": "https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ksel",
+          "url": "https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0"
+        }
+      ],
+      "duration_ms": 219872,
+      "name": "Uzaktan",
+      "url": "https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb"
+    },
+    {
+      "added_at": "2024-12-26 21:00:19",
+      "album": {
         "name": "Can\u0131n Beni \u00c7ekti",
         "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 193621,
       "name": "Can\u0131n Beni \u00c7ekti",
       "url": "https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD"
-    },
-    {
-      "added_at": "2024-12-26 21:00:19",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X"
-      },
-      "artists": [
-        {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
-        }
-      ],
-      "duration_ms": 153999,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"
     },
     {
       "added_at": "2024-12-26 21:00:19",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-12-26 21:00:19",
       "album": {
-        "name": "Dilerim Ki",
-        "url": "https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno"
-      },
-      "artists": [
-        {
-          "name": "Dolu Kadehi Ters Tut",
-          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Dilerim Ki",
-      "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
-    },
-    {
-      "added_at": "2024-12-26 21:00:19",
-      "album": {
         "name": "Ac\u0131t\u0131r gibi severek",
         "url": "https://open.spotify.com/album/4CiPRmoqI7UVRc4EfBqozH"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 225000,
       "name": "Ac\u0131t\u0131r gibi severek",
       "url": "https://open.spotify.com/track/4EC9KUi9fXKFzK17Or0A1a"
+    },
+    {
+      "added_at": "2024-12-26 21:00:19",
+      "album": {
+        "name": "Dilerim Ki",
+        "url": "https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno"
+      },
+      "artists": [
+        {
+          "name": "Dolu Kadehi Ters Tut",
+          "url": "https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Dilerim Ki",
+      "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
     },
     {
       "added_at": "2024-12-26 21:00:19",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-12-26 21:00:19",
       "album": {
+        "name": "Geri D\u00f6nemedim",
+        "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "Geri D\u00f6nemedim",
+      "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
+    },
+    {
+      "added_at": "2024-12-26 21:00:19",
+      "album": {
         "name": "Yine \u00c7al\u0131yor",
         "url": "https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 135372,
       "name": "Kafam\u0131n \u0130\u00e7i",
       "url": "https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu"
-    },
-    {
-      "added_at": "2024-12-26 21:00:19",
-      "album": {
-        "name": "Geri D\u00f6nemedim",
-        "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        }
-      ],
-      "duration_ms": 138640,
-      "name": "Geri D\u00f6nemedim",
-      "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
     },
     {
       "added_at": "2024-12-26 21:00:19",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-12-26 21:00:19",
       "album": {
-        "name": "Merhametsiz",
-        "url": "https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X"
-      },
-      "artists": [
-        {
-          "name": "Cevher",
-          "url": "https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf"
-        }
-      ],
-      "duration_ms": 246494,
-      "name": "Merhametsiz",
-      "url": "https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4"
-    },
-    {
-      "added_at": "2024-12-26 21:00:19",
-      "album": {
         "name": "Bir Bakm\u0131\u015fs\u0131n",
         "url": "https://open.spotify.com/album/4lefgXP8RY8zV7QLQ7DJvS"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 264228,
       "name": "Ben Bilmem",
       "url": "https://open.spotify.com/track/5YbygGKXlC5HP55xGtSkx8"
+    },
+    {
+      "added_at": "2024-12-26 21:00:19",
+      "album": {
+        "name": "Merhametsiz",
+        "url": "https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X"
+      },
+      "artists": [
+        {
+          "name": "Cevher",
+          "url": "https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf"
+        }
+      ],
+      "duration_ms": 246494,
+      "name": "Merhametsiz",
+      "url": "https://open.spotify.com/track/4hQVobSCtZ6zI7cjCyIOF4"
     },
     {
       "added_at": "2024-12-26 21:00:19",

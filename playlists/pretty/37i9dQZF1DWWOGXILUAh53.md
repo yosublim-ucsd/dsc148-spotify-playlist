@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,542 likes - 65 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,138 likes - 65 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

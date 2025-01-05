@@ -4,7 +4,7 @@
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 19 min
+93 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,20 +37,24 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0ywdVsISg0EUSAuZf1jIoX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [All Is Bright](https://open.spotify.com/album/6wCIfOISLRd1yPCKL25BLN) | 3:27 | 2024-11-23 | 2024-11-24 |
 | [Heart Revival](https://open.spotify.com/track/0usr1rpZTSeJpSUeGfeypE) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 3:19 | 2024-11-24 |  |
 | [Here I Go Again](https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:26 | 2023-05-02 |  |
-| [High on Love](https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4) | 3:42 | 2023-05-02 |  |
-| [Higher Than the Clouds](https://open.spotify.com/track/13Dq0Ed9wyBU7mpoENkaS0) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:43 | 2023-05-02 |  |
+| [High on Love](https://open.spotify.com/track/0exHQxRu73RVWKaKpYxP0l) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6tGf0r6xL71YKHg9Xj8mjo) | 3:42 | 2025-01-05 |  |
+| [High on Love](https://open.spotify.com/track/6bBMj0FaFCPyFwOOHNnTKk) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4) | 3:42 | 2023-05-02 | 2025-01-05 |
+| [Higher Than the Clouds](https://open.spotify.com/track/10FYvZSZLste16zITxpQND) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:43 | 2025-01-05 |  |
+| [Higher Than the Clouds](https://open.spotify.com/track/13Dq0Ed9wyBU7mpoENkaS0) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:43 | 2023-05-02 | 2025-01-05 |
 | [Hula Girl](https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hula Girl](https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1) | 3:15 | 2023-05-02 |  |
 | [I Just Want You Around](https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:18 | 2023-05-02 |  |
 | [I Just Want You Around](https://open.spotify.com/track/7fDUSGHDmUMOW6gnia2y7y) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/5xxdXYsZlCmTc1goLkhwez) | 3:19 | 2024-08-06 | 2024-12-29 |
 | [I Won't Settle](https://open.spotify.com/track/6ru5e66VIxC2GQjVxLsqvu) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me](https://open.spotify.com/album/4b1DzrFBADJR0vBQDAb31a) | 3:53 | 2023-05-02 | 2023-09-22 |
 | [I Won't Settle](https://open.spotify.com/track/1QgwtjWPomK2PbRznDlEtL) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:54 | 2025-01-01 |  |
 | [I Won't Settle](https://open.spotify.com/track/4xoN1xIoNeSY77gSA9pk0X) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:54 | 2023-09-21 | 2025-01-01 |
-| [Island Inside Me](https://open.spotify.com/track/6OwueibIYT4JEQCm3U2EKX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:21 | 2023-05-02 |  |
+| [Island Inside Me](https://open.spotify.com/track/4Wh8r8STbZbLI0uwTu2553) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG) | 4:21 | 2025-01-05 |  |
+| [Island Inside Me](https://open.spotify.com/track/6OwueibIYT4JEQCm3U2EKX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:21 | 2023-05-02 | 2025-01-05 |
 | [Just Keep Jamming](https://open.spotify.com/track/7BATKrkSMIsLTVGD4mc40S) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 3:34 | 2024-12-07 |  |
 | [Just Keep Jamming](https://open.spotify.com/track/0V3BrJ3d7FxldSirhHQ8X3) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Ariki foster](https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed) | [Just Keep Jamming](https://open.spotify.com/album/7GjX35CmFvdFgceiW4ct44) | 3:34 | 2023-05-02 | 2024-12-07 |
 | [Like The Way It Feels](https://open.spotify.com/track/0PRxQreZzswVPTVGR3EETd) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me](https://open.spotify.com/album/4b1DzrFBADJR0vBQDAb31a) | 2:54 | 2023-05-02 | 2023-09-26 |
 | [Like the Way It Feels](https://open.spotify.com/track/5znv0x7BUNjtsJcGf9Qjgf) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 2:54 | 2023-09-25 |  |
-| [Looking for Love](https://open.spotify.com/track/7yb0IIWyXN0fyxdo3075KX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:21 | 2023-05-02 |  |
+| [Looking for Love](https://open.spotify.com/track/2liD4Ly60aQvb8dVaCJjOa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:21 | 2025-01-05 |  |
+| [Looking for Love](https://open.spotify.com/track/7yb0IIWyXN0fyxdo3075KX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:21 | 2023-05-02 | 2025-01-05 |
 | [Lotus](https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V) | 3:50 | 2024-04-14 | 2024-12-03 |
 | [Lotus](https://open.spotify.com/track/7yOkenc28VBF76li2yZqc9) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 3:50 | 2024-12-03 |  |
 | [Love Child](https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:46 | 2023-05-02 | 2024-12-10 |
@@ -91,9 +95,11 @@
 | [Walk on Water](https://open.spotify.com/track/4s23CQT2CMFhIxYn9MyNLw) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 3:46 | 2024-08-01 | 2025-01-04 |
 | [Walk on Water \(Live\)](https://open.spotify.com/track/20Om9CwtsWPkWBghIxRU1k) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Live at the Belly Up](https://open.spotify.com/album/6UVg3eBRR5lOpg2t6Cx4pk) | 4:01 | 2023-05-02 | 2024-08-01 |
 | [We Make It Look Easy](https://open.spotify.com/track/2RLKj3elOrYJEdz1cIJx9q) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me](https://open.spotify.com/album/4b1DzrFBADJR0vBQDAb31a) | 3:08 | 2023-05-02 | 2023-09-26 |
-| [We Make It Look Easy](https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:08 | 2023-09-25 |  |
+| [We Make It Look Easy](https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:08 | 2023-09-25 | 2025-01-05 |
+| [We Make It Look Easy](https://open.spotify.com/track/6v8hiOy4Go8nQqiEhjmjPW) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:08 | 2025-01-05 |  |
 | [X\-Lover](https://open.spotify.com/track/5qv3hfne8sw2pYvzRQapJ6) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 4:00 | 2023-09-21 | 2023-09-26 |
 | [You Had Me At Aloha](https://open.spotify.com/track/4hNhutdZie5MXno6pBUFS6) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [You Had Me At Aloha](https://open.spotify.com/album/2P5IzOP4BrgejyNpqVpmfc) | 3:21 | 2023-05-02 | 2023-09-22 |
-| [You Had Me at Aloha](https://open.spotify.com/track/4SEX5L8BAUpFjALA1aiOjs) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:21 | 2023-09-21 |  |
+| [You Had Me at Aloha](https://open.spotify.com/track/4SEX5L8BAUpFjALA1aiOjs) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:21 | 2023-09-21 | 2025-01-05 |
+| [You Had Me at Aloha](https://open.spotify.com/track/66cPmDSgKLBfzp1Fl8Jkk0) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:21 | 2025-01-05 |  |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

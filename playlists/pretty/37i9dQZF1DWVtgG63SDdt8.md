@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jeremy Rosado
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,593 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,632 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 33 | [I Should've Quit](https://open.spotify.com/track/2JIXHZJiAEqM6uP9czih4H) | [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [tHinGs aRE gOiNg GReaT](https://open.spotify.com/album/75A2BFe0bKD2ATHPVEqWIa) | 2:13 |
 | 34 | [I Found Rest](https://open.spotify.com/track/1rIXPIfJrlSkeoYhy3LKVb) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [I Found Rest](https://open.spotify.com/album/4LJ5a9T2ImLjyu4XDgBHaB) | 3:07 |
 | 35 | [Amazing](https://open.spotify.com/track/4mPdrJA4h0txHWUYQqozw7) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Amazing](https://open.spotify.com/album/0aXpeLU03p6F9X1L6k7FVU) | 3:06 |
-| 36 | [When I See Your Face](https://open.spotify.com/track/5Ln56SqSXkJfohD5fJ9oIH) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Caspian Johannes](https://open.spotify.com/artist/2NtXduAb046WYxJ0BlMr3r) | [When I See Your Face](https://open.spotify.com/album/2XAtUoZE98lUcn6Vs0ffPa) | 2:25 |
+| 36 | [When I See Your Face](https://open.spotify.com/track/5Ln56SqSXkJfohD5fJ9oIH) | [Caspian Johannes](https://open.spotify.com/artist/2NtXduAb046WYxJ0BlMr3r) | [When I See Your Face](https://open.spotify.com/album/2XAtUoZE98lUcn6Vs0ffPa) | 2:25 |
 | 37 | [Wax](https://open.spotify.com/track/68hjFF6boEN3xJuCs9Rzx1) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Wax](https://open.spotify.com/album/1k03943FM7zgYBXAK4lcUc) | 2:14 |
 | 38 | [Softly](https://open.spotify.com/track/0QST4dTRitZquNmLodBdON) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Softly](https://open.spotify.com/album/0FQHtuBu64K3EW1kc2oiKx) | 3:36 |
 | 39 | [Hiding](https://open.spotify.com/track/0QpGLHJ8BL9MUgRwLiZqPX) | [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Hiding](https://open.spotify.com/album/1Xxhvik8PgVkopZMehSHjN) | 4:48 |

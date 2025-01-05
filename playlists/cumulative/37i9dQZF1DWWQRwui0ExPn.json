@@ -23260,7 +23260,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 150000,
       "name": "Clouds & Conversations",
       "url": "https://open.spotify.com/track/2I1mjhO8aEd2vopGO4Uasz"
@@ -26892,7 +26892,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "cozy cabin",
       "url": "https://open.spotify.com/track/7F70IYruoqLK4kAQhE0tp8"
@@ -69701,6 +69701,28 @@
     },
     {
       "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/0rj2tj0eqYEbOcJu2HtHVW"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Looking Up",
+      "url": "https://open.spotify.com/track/2F4hfGJiNq2TdoygDFtT9i"
+    },
+    {
+      "album": {
         "name": "Looped",
         "url": "https://open.spotify.com/album/63AqUNr1HkGKIZ3FVL46lg"
       },
@@ -102420,7 +102442,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 158108,
       "name": "Santa Cruise",
       "url": "https://open.spotify.com/track/6k7o1u44XdA1nqzi5fdOWQ"
@@ -106070,7 +106092,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 154690,
       "name": "Simple Life",
       "url": "https://open.spotify.com/track/3mR38Krujpi4hN84ldJcJG"
@@ -107774,7 +107796,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 98863,
       "name": "slowly",
       "url": "https://open.spotify.com/track/0OQycB6AjHHMbGii30Mo56"

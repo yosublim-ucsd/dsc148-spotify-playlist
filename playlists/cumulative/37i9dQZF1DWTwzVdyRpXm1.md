@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Karan Aujla
 
-415 songs - 1 day 0 hr 11 min
+416 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Tauba \(feat\. Badshah\)](https://open.spotify.com/track/1GzgV0pRSUbenz25xWV2s8) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Tauba \(feat\. Badshah\)](https://open.spotify.com/album/7xSdMyPr5KPL3A171ZbQ9M) | 3:19 | 2022-06-29 | 2023-05-05 |
 | [Tauba Tauba](https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 3:27 | 2024-12-04 |  |
 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 | 2024-07-18 | 2024-12-05 |
+| [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/track/0Yf9Tgv5f55njDQeuRUnQH) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/album/3Yi3HyE86jKrOJQBhIRKO5) | 4:09 | 2025-01-04 |  |
 | [Tera Ban Jaunga](https://open.spotify.com/track/3oWxFNsXstcancCR1wODR4) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:56 | 2024-01-05 | 2024-12-05 |
 | [Tera Hone Laga Hoon](https://open.spotify.com/track/48Ix6ReYdJf2H4mKb3TIpj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Best of Romance: Atif Aslam & Pritam](https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs) | 4:59 | 2024-10-09 | 2024-12-05 |
 | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/album/2R6fwaRteK3HgyufFhcdDm) | 3:28 | 2024-01-05 | 2024-12-05 |

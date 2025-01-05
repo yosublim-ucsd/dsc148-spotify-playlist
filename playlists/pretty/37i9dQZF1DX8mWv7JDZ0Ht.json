@@ -751,22 +751,6 @@
     {
       "added_at": "2024-12-23 19:42:47",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2024-12-23 19:42:47",
-      "album": {
         "name": "Como D\u00f3i",
         "url": "https://open.spotify.com/album/5YlJGGxLqQ69CHJwEo8SkD"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 143658,
       "name": "Como D\u00f3i",
       "url": "https://open.spotify.com/track/3nNb9AXOB4sH2Q6z3ERMV1"
+    },
+    {
+      "added_at": "2024-12-23 19:42:47",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-12-23 19:42:47",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-12-23 19:42:47",
       "album": {
-        "name": "Mar Manso",
-        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Mar Manso",
-      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
-    },
-    {
-      "added_at": "2024-12-23 19:42:47",
-      "album": {
         "name": "Tanto Tanto",
         "url": "https://open.spotify.com/album/42XMiMTFgFRQTo5Mf2oiE2"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 166605,
       "name": "Tanto Tanto",
       "url": "https://open.spotify.com/track/5ACvqBkha9bdpX7A5z1OS4"
+    },
+    {
+      "added_at": "2024-12-23 19:42:47",
+      "album": {
+        "name": "Mar Manso",
+        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        },
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Mar Manso",
+      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
     },
     {
       "added_at": "2024-12-23 19:42:47",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2024-12-23 19:42:47",
       "album": {
-        "name": "P.A",
-        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
+        "name": "15 Mil Peda\u00e7os",
+        "url": "https://open.spotify.com/album/4kGmA39LITaZB9Gyirkpot"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
         }
       ],
-      "duration_ms": 151399,
-      "name": "SOL DE ABRIL",
-      "url": "https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv"
+      "duration_ms": 185766,
+      "name": "15 Mil Peda\u00e7os",
+      "url": "https://open.spotify.com/track/5FKD3Xq76xWuZvYgRxg8YK"
     },
     {
       "added_at": "2024-12-23 19:42:47",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2024-12-23 19:42:47",
       "album": {
-        "name": "15 Mil Peda\u00e7os",
-        "url": "https://open.spotify.com/album/4kGmA39LITaZB9Gyirkpot"
+        "name": "P.A",
+        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
       },
       "artists": [
         {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
         }
       ],
-      "duration_ms": 185766,
-      "name": "15 Mil Peda\u00e7os",
-      "url": "https://open.spotify.com/track/5FKD3Xq76xWuZvYgRxg8YK"
+      "duration_ms": 151399,
+      "name": "SOL DE ABRIL",
+      "url": "https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv"
     },
     {
       "added_at": "2024-12-23 19:42:47",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-12-23 19:42:47",
       "album": {
-        "name": "Voltei",
-        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
+        "name": "Bhangzwn",
+        "url": "https://open.spotify.com/album/3183dne70LPY7JS3DngZNO"
       },
       "artists": [
         {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
         }
       ],
-      "duration_ms": 129270,
-      "name": "Voltei",
-      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
+      "duration_ms": 205132,
+      "name": "T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"
     },
     {
       "added_at": "2024-12-23 19:42:47",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-12-23 19:42:47",
       "album": {
-        "name": "Bhangzwn",
-        "url": "https://open.spotify.com/album/3183dne70LPY7JS3DngZNO"
+        "name": "Voltei",
+        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
       },
       "artists": [
         {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
         }
       ],
-      "duration_ms": 205132,
-      "name": "T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"
+      "duration_ms": 129270,
+      "name": "Voltei",
+      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
     },
     {
       "added_at": "2024-12-23 19:42:47",

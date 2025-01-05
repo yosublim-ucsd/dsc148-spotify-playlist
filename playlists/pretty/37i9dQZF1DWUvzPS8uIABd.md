@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa KIKI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,652 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,663 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 |
-| 2 | [Luotathan](https://open.spotify.com/track/0hua7obC2aRxJdPkSoFKEu) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Luotathan](https://open.spotify.com/album/1JH90V2dgSBiHZbuCzgIIZ) | 3:20 |
-| 3 | [Suutele mun silmii](https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Suutele mun silmii](https://open.spotify.com/album/7EXuqXgy9fDCUAS2aHVVdr) | 2:25 |
-| 4 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 |
-| 5 | [KOHTALO](https://open.spotify.com/track/2WlZzWKyyQRFpXnqV6JepA) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [KOHTALO](https://open.spotify.com/album/3gFojaJRDbfyUjUTr4KJ1A) | 3:02 |
-| 6 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
-| 7 | [Ihmishirviö](https://open.spotify.com/track/6EsFnbuNzZmSgiKAd0weFZ) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ihmishirviö](https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17) | 3:06 |
-| 8 | [Näihin hommiin ei synnytä](https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Näihin hommiin ei synnytä](https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL) | 2:45 |
-| 9 | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy) | 3:03 |
-| 10 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
+| 1 | [KOHTALO](https://open.spotify.com/track/2WlZzWKyyQRFpXnqV6JepA) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [KOHTALO](https://open.spotify.com/album/3gFojaJRDbfyUjUTr4KJ1A) | 3:02 |
+| 2 | [Ihmishirviö](https://open.spotify.com/track/6EsFnbuNzZmSgiKAd0weFZ) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ihmishirviö](https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17) | 3:06 |
+| 3 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 |
+| 4 | [Luotathan](https://open.spotify.com/track/0hua7obC2aRxJdPkSoFKEu) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Luotathan](https://open.spotify.com/album/1JH90V2dgSBiHZbuCzgIIZ) | 3:20 |
+| 5 | [Suutele mun silmii](https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Suutele mun silmii](https://open.spotify.com/album/7EXuqXgy9fDCUAS2aHVVdr) | 2:25 |
+| 6 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 |
+| 7 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
+| 8 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
+| 9 | [Näihin hommiin ei synnytä](https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Näihin hommiin ei synnytä](https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL) | 2:45 |
+| 10 | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy) | 3:03 |
 | 11 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
 | 12 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
 | 13 | [P.S\. vieläkin](https://open.spotify.com/track/5GjW7fctpy0BX8RBkMqOuz) | [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Kuolematon](https://open.spotify.com/album/3IDh8AQRdSvEsVffyBsJn9) | 2:59 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 64 | [Ennen kun sä meet](https://open.spotify.com/track/2MKR7OmHQ2NoqhFbl4tdmZ) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Ennen kun sä meet](https://open.spotify.com/album/2aNLZzioDL0waR2hCcMoV2) | 3:09 |
 | 65 | [Pikatie](https://open.spotify.com/track/4XGR0bFoP8VPNOSCd3PnrM) | [Juhana Haukkala](https://open.spotify.com/artist/0JtYpxkop6SX7L5trzsmp7) | [Pikatie](https://open.spotify.com/album/396bXuH5biFYTxGpaWBlK6) | 2:55 |
 
-Snapshot ID: `Z3cMpgAAAABMDAwpNHRmoihFh/HAS2CN`
+Snapshot ID: `Z3mMrQAAAABP8T7qm/8B+xYQeQt7S+XG`

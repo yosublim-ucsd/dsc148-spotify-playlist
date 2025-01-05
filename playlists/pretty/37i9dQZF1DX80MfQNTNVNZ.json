@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 196207,
+  "num_followers": 196261,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "3 Boys",
-        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
+        "name": "The Slow Rush B-Sides & Remixes",
+        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 209188,
-      "name": "3 Boys",
-      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+      "duration_ms": 238320,
+      "name": "The Boat I Row",
+      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "The Slow Rush B-Sides & Remixes",
-        "url": "https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa"
+        "name": "3 Boys",
+        "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 238320,
-      "name": "The Boat I Row",
-      "url": "https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV"
+      "duration_ms": 209188,
+      "name": "3 Boys",
+      "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
     },
     {
       "added_at": "2024-12-14 02:53:15",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-12-14 02:53:15",
       "album": {
-        "name": "Marking My Time (BADBADNOTGOOD Edit)",
-        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 252503,
-      "name": "Marking My Time - BADBADNOTGOOD Edit",
-      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
-    },
-    {
-      "added_at": "2024-12-14 02:53:15",
-      "album": {
         "name": "Lotus Glow",
         "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 192936,
       "name": "FourSixty - Feat. Aaron Taylor",
       "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
+    },
+    {
+      "added_at": "2024-12-14 02:53:15",
+      "album": {
+        "name": "Marking My Time (BADBADNOTGOOD Edit)",
+        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 252503,
+      "name": "Marking My Time - BADBADNOTGOOD Edit",
+      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
     },
     {
       "added_at": "2024-12-14 02:53:15",

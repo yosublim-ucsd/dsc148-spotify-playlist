@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,569 likes - 408 songs - 21 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,741 likes - 408 songs - 21 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rain](https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Rain](https://open.spotify.com/album/0A0jy45J8O4QKbmC7R6HOX) | 3:06 |
-| 2 | [Leave Me Slowly \(Babsy\. Remix\)](https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250) | [Starsmith](https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw), [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Leave Me Slowly \(Babsy\. Remix\)](https://open.spotify.com/album/5Idz2ZzmmvBk1lrlyvSUcy) | 2:24 |
+| 2 | [Leave Me Slowly \- Babsy\. Remix](https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250) | [Starsmith](https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw), [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Leave Me Slowly \(Babsy\. Remix\)](https://open.spotify.com/album/5Idz2ZzmmvBk1lrlyvSUcy) | 2:24 |
 | 3 | [STARS](https://open.spotify.com/track/6LWPgSesVmSaJI9cPIHQsW) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [STARS](https://open.spotify.com/album/1ZuttkzOM600DUDRX38l5y) | 3:43 |
 | 4 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 |
 | 5 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |

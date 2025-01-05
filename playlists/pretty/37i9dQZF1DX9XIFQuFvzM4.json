@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3643725,
+  "num_followers": 3643860,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Innervisions",
         "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 222600,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 197160,
       "name": "O-o-h Child",
       "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
-      "added_at": "2022-03-28 18:28:56",
-      "album": {
-        "name": "Just A Cloud Away",
-        "url": "https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 176078,
-      "name": "Just A Cloud Away",
-      "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
-    },
-    {
       "added_at": "2021-12-13 21:17:46",
       "album": {
         "name": "Ultimate Collection: Dobie Gray",
@@ -767,6 +751,22 @@
       "duration_ms": 237466,
       "name": "Drift Away - Single Version",
       "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
+    },
+    {
+      "added_at": "2022-03-28 18:28:56",
+      "album": {
+        "name": "Just A Cloud Away",
+        "url": "https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 176078,
+      "name": "Just A Cloud Away",
+      "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Love That Girl",
-      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
         "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 150600,
       "name": "Ain't That A Shame? - Remastered 2002",
       "url": "https://open.spotify.com/track/4U2b99X9hSSDjPbHCpIeJj"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Love That Girl",
+      "url": "https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Motown 1970s Vol. 1",
+        "url": "https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 258706,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 174000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Motown 1970s Vol. 1",
-        "url": "https://open.spotify.com/album/0iJiZjL6cmn1wxTc7OG0et"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 258706,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3Qe0dJkQXx7jJWXRxuVqJ0"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2377,6 +2377,22 @@
       "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
     },
     {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Build Me Up Buttercup",
+        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+    },
+    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Love Peace and Happiness",
@@ -2413,22 +2429,6 @@
       "url": "https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Build Me Up Buttercup",
-        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
-      },
-      "artists": [
-        {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Only Want To Be With You",
@@ -2463,18 +2463,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Get Up Offa That Thing",
-      "url": "https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ"
+      "duration_ms": 234093,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
     }
   ],
   "unique_name": "Feelin' Good",

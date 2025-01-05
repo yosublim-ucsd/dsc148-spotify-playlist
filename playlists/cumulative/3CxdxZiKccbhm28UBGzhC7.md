@@ -4,11 +4,12 @@
 
 > 2023
 
-76 songs - 4 hr 28 min
+77 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(All Along The\) Watchtower](https://open.spotify.com/track/0SBk0hNSPQ3KcROw5KLR7f) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Moving Picture](https://open.spotify.com/album/0PtnGAyE4TaGabmhy7YIfq) | 4:32 | 2023-12-07 |  |
+| [Always Like This](https://open.spotify.com/track/1iudc1fa7Z4GRveENnEWZa) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Holy Grail](https://open.spotify.com/album/16yx2dOA0EkZRg4fKxx2Er) | 2:55 | 2025-01-04 |  |
 | [Arabella](https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:27 | 2022-07-02 |  |
 | [Beautiful Faces](https://open.spotify.com/track/5AdSNoVSGDmStmQSDis3gz) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Zeros](https://open.spotify.com/album/4Q6Y35QnNj37hiXVs1Bbxn) | 3:16 | 2023-04-30 |  |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-07-18 |  |

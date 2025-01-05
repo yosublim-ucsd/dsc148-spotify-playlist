@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Yami Safdie, Lasso, Carin León
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,566 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,583 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 5 | [Primos \(feat\. Dj Kiire\)](https://open.spotify.com/track/4udwfvT8bOZ8lfbgGRLp68) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Primos \(feat\. Dj Kiire\)](https://open.spotify.com/album/7Lf4SMPBrEJL21n8LFnuWu) | 2:46 |
 | 6 | [Quién Será?](https://open.spotify.com/track/2xBEGklsyGkh0PTLTAdne4) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Disco Verde](https://open.spotify.com/album/55wYGqHcnr43rL5O63KYJQ) | 2:42 |
 | 7 | [nube gris \- extraído de LA NUBE EN EL JARDÍN](https://open.spotify.com/track/4PnzsGGqOq5iCkyn5Oa5yS) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [nube gris \(extraído de LA NUBE EN EL JARDÍN\)](https://open.spotify.com/album/1xkyebwNr8p3IZutNtI2EB) | 3:00 |
-| 8 | [Una mala](https://open.spotify.com/track/5C4sUjH9D65b4wfqguh1O6) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Una mala](https://open.spotify.com/album/6RgyfqSHiEtIhBZQAckoew) | 2:53 |
+| 8 | [Una mala](https://open.spotify.com/track/5C4sUjH9D65b4wfqguh1O6) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Una mala](https://open.spotify.com/album/6RgyfqSHiEtIhBZQAckoew) | 2:53 |
 | 9 | [TAPOUN](https://open.spotify.com/track/5Ht6WQPJ7V6yeyubWa2U7D) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Mc Tota](https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [TAPOUN](https://open.spotify.com/album/6mAKRZIFNGYRz4ggpkn6iK) | 2:36 |
 | 10 | [Peines de 30](https://open.spotify.com/track/4iCSAjVvdkEpg0GoIYmrLa) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Peines de 30](https://open.spotify.com/album/5UakqvT8uVtF9DENseHm4f) | 3:09 |
 | 11 | [Ahí Estás Tú](https://open.spotify.com/track/6sRorW2tentMfhDyFzU9OO) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [Ahí Estás Tú](https://open.spotify.com/album/6vHSpPp5CebjTkgdWgoECJ) | 2:54 |

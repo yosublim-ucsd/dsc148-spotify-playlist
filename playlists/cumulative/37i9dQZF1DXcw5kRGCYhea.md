@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-201 songs - 10 hr 17 min
+202 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-18 | 2024-05-10 |
 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 | 2024-10-11 | 2024-12-11 |
 | [Akatsuki](https://open.spotify.com/track/3w9OyPSIXaD3kKeFhJoWaR) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Akatsuki](https://open.spotify.com/album/65EesuAKGSKS1PZfLcub5V) | 2:59 | 2024-03-26 | 2024-06-23 |
+| [Angela](https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu) | 2:54 | 2025-01-04 |  |
 | [Après l'été](https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Après l'été](https://open.spotify.com/album/2f8C6frz9IoOaNxStASa0X) | 3:59 | 2024-09-22 | 2024-10-04 |
 | [AZAMAN](https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:28 | 2024-08-24 | 2024-08-31 |
 | [Babor](https://open.spotify.com/track/6iiJhNVjfd2nVX63x1f9Hd) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH), [Young Zow](https://open.spotify.com/artist/611YTFfRumLInacgKOuvI4) | [Babor](https://open.spotify.com/album/4CuuDI4ALaMs0mLrcq6yBN) | 2:48 | 2024-09-09 | 2024-09-20 |
@@ -170,7 +171,7 @@
 | [SABAR](https://open.spotify.com/track/7j5y0T4cRmYLdr8kZNR56W) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [SABAR](https://open.spotify.com/album/54uyuXLVqME5DDfYb8vbZP) | 3:35 | 2024-09-09 | 2024-10-12 |
 | [Safi Safi \(feat\. Draganov\)](https://open.spotify.com/track/6f8PWwc97weAep3rXAeXyv) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:45 | 2024-03-26 | 2024-07-04 |
 | [Samira](https://open.spotify.com/track/0Ey3GrVLmtUuOdFSWoYhc1) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Samira](https://open.spotify.com/album/2WrIHAV81oNqgoMikM6kFJ) | 2:53 | 2024-06-14 | 2024-08-13 |
-| [SANS BOUSSOLE](https://open.spotify.com/track/6XxRu7undYs0MU43wzc78V) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [LA VIE CONTINUE](https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI) | 2:53 | 2024-12-10 |  |
+| [SANS BOUSSOLE](https://open.spotify.com/track/6XxRu7undYs0MU43wzc78V) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [LA VIE CONTINUE](https://open.spotify.com/album/7FfwwTL8HlR264na9TwbRI) | 2:53 | 2024-12-10 | 2025-01-05 |
 | [Shayo](https://open.spotify.com/track/2e7qqQ8MkLa0h5xmHL5cso) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 2:41 | 2024-06-14 | 2024-08-23 |
 | [Si Si](https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Leska](https://open.spotify.com/artist/0kRb2OhvXmS14Bop8FzFoS) | [Si Si](https://open.spotify.com/album/2q0V1wmNVUpZUxYy85r1y3) | 3:00 | 2024-06-14 | 2024-08-02 |
 | [Skhoon](https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Skhoon](https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2) | 2:59 | 2024-11-28 |  |

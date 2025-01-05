@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,121 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,123 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 16 | [GPI \- Remix](https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 2:20 |
 | 17 | [BELIKBOY](https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [BELIKBOY](https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc) | 2:45 |
 | 18 | [RUMBA](https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja) | [RUMBA](https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm) | 3:01 |
-| 19 | [Lujos Y Damitas](https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Lujos Y Damitas](https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU) | 2:34 |
-| 20 | [Richie Rich \- En Vivo](https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Richie Rich \(En Vivo\)](https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi) | 2:52 |
+| 19 | [Richie Rich \- En Vivo](https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Richie Rich \(En Vivo\)](https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi) | 2:52 |
+| 20 | [Lujos Y Damitas](https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Jr Heguertty](https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU) | [Lujos Y Damitas](https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU) | 2:34 |
 | 21 | [Bien Pilas \- En Vivo](https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Bien Pilas \(En Vivo\)](https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg) | 1:58 |
 | 22 | [Humildemente](https://open.spotify.com/track/4sfU8na5xesLs1ugBKPcqd) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [De Frente](https://open.spotify.com/album/6LB9ZA7fkWD1pwzTjcCRwV) | 1:58 |
 | 23 | [Nadie Lo Hubiera Pensado](https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Nadie Lo Hubiera Pensado](https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 49 | [Tiempo Duros](https://open.spotify.com/track/6M2aZA9L6kkpn6O8UHhGU2) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:44 |
 | 50 | [El De La Misma Línea \- En Vivo](https://open.spotify.com/track/5xH8sGBGGyHEZuGgL7EGsq) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:50 |
 
-Snapshot ID: `Z3XXAAAAAACLSSmYToq+61PpKSdgpwRl`
+Snapshot ID: `Z3cogAAAAAD6qv5Qlg1E1ZuBze7i4i/T`

@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8152,
+  "num_followers": 8156,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAABH42BStArg4Kvorkw8E/Rv",
+  "snapshot_id": "Z3cogAAAAABXzUR/6eGIeitxVQXNhEpz",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 203533,
-      "name": "Prend\u00ed Otro Fuego por Ella",
-      "url": "https://open.spotify.com/track/7plZoJlP6OBG0jSChVmit1"
+      "duration_ms": 329706,
+      "name": "Tras Esa Puerta",
+      "url": "https://open.spotify.com/track/4U7cTH2CGIp1qhgxOMU5Ro"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 329706,
-      "name": "Tras Esa Puerta",
-      "url": "https://open.spotify.com/track/4U7cTH2CGIp1qhgxOMU5Ro"
+      "duration_ms": 203533,
+      "name": "Prend\u00ed Otro Fuego por Ella",
+      "url": "https://open.spotify.com/track/7plZoJlP6OBG0jSChVmit1"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre los \u00c1rboles",
-        "url": "https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM"
+        "name": "Mar de Copas: 25 A\u00f1os (Edici\u00f3n Remasterizada)",
+        "url": "https://open.spotify.com/album/05KOInw4nhCfDQSWeLuL1X"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 165360,
-      "name": "Blu Ice",
-      "url": "https://open.spotify.com/track/5ksrKcALCfKEftO6hYwVuU"
+      "duration_ms": 190960,
+      "name": "Devuelve un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0OVmwTjavXzg2VpgVr79Dm"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de Copas: 25 A\u00f1os (Edici\u00f3n Remasterizada)",
-        "url": "https://open.spotify.com/album/05KOInw4nhCfDQSWeLuL1X"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Devuelve un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0OVmwTjavXzg2VpgVr79Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suna",
         "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre los \u00c1rboles",
+        "url": "https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Blu Ice",
+      "url": "https://open.spotify.com/track/5ksrKcALCfKEftO6hYwVuU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Tierra",
         "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 349573,
-      "name": "Popurr\u00ed",
-      "url": "https://open.spotify.com/track/4y1do2YcN1hcJhdCaFT1Cs"
+      "duration_ms": 137533,
+      "name": "Momentos de Ti",
+      "url": "https://open.spotify.com/track/1pP6oOCD6oay0yEZQTBcQS"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 137533,
-      "name": "Momentos de Ti",
-      "url": "https://open.spotify.com/track/1pP6oOCD6oay0yEZQTBcQS"
+      "duration_ms": 349573,
+      "name": "Popurr\u00ed",
+      "url": "https://open.spotify.com/track/4y1do2YcN1hcJhdCaFT1Cs"
     },
     {
       "added_at": null,

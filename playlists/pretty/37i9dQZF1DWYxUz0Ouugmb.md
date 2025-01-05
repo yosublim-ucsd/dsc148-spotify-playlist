@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggis Devaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,578 likes - 46 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,586 likes - 46 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 30 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 |
 | 31 | [KISINAN 2](https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN 2](https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2) | 3:52 |
 | 32 | [Butterflies](https://open.spotify.com/track/0Cd1m9urXAgl2dADwSEvio) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Butterflies](https://open.spotify.com/album/0riwHA4hqJEaYi8GEXwzxp) | 3:25 |
-| 33 | [Si Perkasa](https://open.spotify.com/track/0v3PrKg1XQDz5El2dJMpR0) | [Ashira Zamita](https://open.spotify.com/artist/16vq4M47dOM7yeAcy32EPv) | [Si Perkasa](https://open.spotify.com/album/2K61NA2gvT0cdjSJYPQKtI) | 3:38 |
+| 33 | [Si Perkasa](https://open.spotify.com/track/0v3PrKg1XQDz5El2dJMpR0) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Si Perkasa](https://open.spotify.com/album/2K61NA2gvT0cdjSJYPQKtI) | 3:38 |
 | 34 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 |
 | 35 | [Love Me Like You Say You Do](https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Love Me Like You Say You Do](https://open.spotify.com/album/6eUwL9LXbgvh0zaNPjRZV8) | 3:40 |
 | 36 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |

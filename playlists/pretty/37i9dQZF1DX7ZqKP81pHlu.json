@@ -1,15 +1,67 @@
 {
-  "description": "Kader Japonais & Numidia Lezoul \u00e0 la une de la playlist num\u00e9ro 1 en Alg\u00e9rie.",
-  "num_followers": 139413,
+  "description": "The hottest 50 tracks in Algeria. Cover: Lady Gaga & Bruno Mars",
+  "num_followers": 139443,
   "original_name": "Hot Hits Algeria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2mYkwAAAABrOg5z9o8jVtgj1UPu1mE+",
+  "snapshot_id": "Z3lWzwAAAABAVtltehXGQzBaw8UGVZQP",
   "tracks": [
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2025-01-04 15:42:07",
+      "album": {
+        "name": "Mahboul Ana",
+        "url": "https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mahboul Ana",
+      "url": "https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1"
+    },
+    {
+      "added_at": "2025-01-04 15:42:07",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0kp1wmniMAFFatjW8ehxsE"
+      },
+      "artists": [
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "duration_ms": 186062,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/64BdhCUilpLD8cxjbUIHER"
+    },
+    {
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Ana W Nti",
         "url": "https://open.spotify.com/album/2QQlptEkrMrBUH3uYshPHq"
@@ -29,7 +81,7 @@
       "url": "https://open.spotify.com/track/4980zLaGgwv5ZE2K5Xv5BR"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -49,39 +101,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0kp1wmniMAFFatjW8ehxsE"
-      },
-      "artists": [
-        {
-          "name": "Didine Canon 16",
-          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
-        }
-      ],
-      "duration_ms": 186062,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/64BdhCUilpLD8cxjbUIHER"
-    },
-    {
-      "added_at": "2024-12-23 17:06:27",
-      "album": {
-        "name": "Mahboul Ana",
-        "url": "https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm"
-      },
-      "artists": [
-        {
-          "name": "Lazaro",
-          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Mahboul Ana",
-      "url": "https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1"
-    },
-    {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -97,7 +117,27 @@
       "url": "https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
+      "album": {
+        "name": "KONGOLESE SOUS BBL",
+        "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jeez Suave",
+          "url": "https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P"
+        }
+      ],
+      "duration_ms": 164234,
+      "name": "KONGOLESE SOUS BBL",
+      "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"
+    },
+    {
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Rom\u00e9o",
         "url": "https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq"
@@ -117,7 +157,7 @@
       "url": "https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Californication",
         "url": "https://open.spotify.com/album/4sAcnXJlurM6kzwFHrJRcG"
@@ -133,7 +173,7 @@
       "url": "https://open.spotify.com/track/4JY6iO6ddUCmT8EwGqrBVz"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Dayra El Hafla (\u0645\u0644\u062e\u0631)",
         "url": "https://open.spotify.com/album/3hOqXm7yxVhGtgX7G5nFoK"
@@ -153,7 +193,7 @@
       "url": "https://open.spotify.com/track/7EMtuKgFWGBcytMzUXxnrg"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
@@ -169,7 +209,7 @@
       "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "LE NORD SE SOUVIENT",
         "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
@@ -189,7 +229,7 @@
       "url": "https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Nothing Personal - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
@@ -205,7 +245,7 @@
       "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "WESH BB",
         "url": "https://open.spotify.com/album/1z8xpR4QQlRMbM8S24I7kB"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/25oNBSF8dQlwfi9teKIJAs"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/62LdqxpDkasM6fpX20VGws"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/06MoS2rhDcsEDO63telmfZ"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Eklektika",
         "url": "https://open.spotify.com/album/2eJlyrJrorOon92OKkIthh"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/65HxtT2k0HH0iXxDkZcBk9"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Passe ton chemin",
         "url": "https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0"
@@ -273,7 +313,7 @@
       "url": "https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "\u064a\u0627 \u0642\u0644\u0628\u064a \u0628\u0631\u0643\u0627\u0643",
         "url": "https://open.spotify.com/album/4seugfWTs0AP1ErlUkHrzm"
@@ -293,7 +333,7 @@
       "url": "https://open.spotify.com/track/0QT7JRfIC9qZloJ7symiUm"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Tafi",
         "url": "https://open.spotify.com/album/6bmHjdPZVNBUWqmSfLM1MK"
@@ -309,7 +349,7 @@
       "url": "https://open.spotify.com/track/21wEBt07tBjksFRKMJ8P2a"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "GALBI RAH MEDRAR",
         "url": "https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW"
@@ -325,7 +365,7 @@
       "url": "https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Hakayet",
         "url": "https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO"
@@ -341,7 +381,7 @@
       "url": "https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Bizzare",
         "url": "https://open.spotify.com/album/6UJwGPS5BcNWbSbSn6lul1"
@@ -361,7 +401,7 @@
       "url": "https://open.spotify.com/track/3zl8vzFlNwDsMemEDuScwW"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Elissa fel good",
         "url": "https://open.spotify.com/album/7yYPwBJl01qJLCMSKw2wi6"
@@ -381,7 +421,7 @@
       "url": "https://open.spotify.com/track/5C9lvIZ8QZaCP39a69D3uf"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
@@ -397,7 +437,7 @@
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -417,7 +457,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
@@ -437,7 +477,7 @@
       "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Fatou Liyam",
         "url": "https://open.spotify.com/album/3xzS4W6DgBeu0NEIkSWAg5"
@@ -453,7 +493,7 @@
       "url": "https://open.spotify.com/track/6yElpSxAmGJ5w4UFtHyS6c"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
         "url": "https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6"
@@ -469,7 +509,7 @@
       "url": "https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Jamais yensak",
         "url": "https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w"
@@ -489,7 +529,7 @@
       "url": "https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Khelli Zman Ydor",
         "url": "https://open.spotify.com/album/2LC4cNOjWjLkMPuzeDPoee"
@@ -513,7 +553,7 @@
       "url": "https://open.spotify.com/track/3L1NjI3i3X05kI7tVYW8B3"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -529,7 +569,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "APOCALYPSE",
         "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
@@ -565,7 +605,7 @@
       "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Deira",
         "url": "https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "PELIGROSA",
         "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
@@ -601,7 +641,7 @@
       "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Allo Oui",
         "url": "https://open.spotify.com/album/0Y98q8LciCVvefjIvkCZlR"
@@ -617,7 +657,7 @@
       "url": "https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Allo Omri",
         "url": "https://open.spotify.com/album/1RNhljk2TfYLj3Q1aNNnKO"
@@ -637,7 +677,7 @@
       "url": "https://open.spotify.com/track/4PYVjUQ8cxuYF07PCfYn4a"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -669,7 +709,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Saroukh Style Manini",
         "url": "https://open.spotify.com/album/4njF2Gxylwy7QZsb9Mo57s"
@@ -689,7 +729,7 @@
       "url": "https://open.spotify.com/track/1f2AKogp0N5Yy5iA41xNIm"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Mademoiselle",
         "url": "https://open.spotify.com/album/0hqUvpyWBY0cdRZ0TxdzZk"
@@ -705,7 +745,7 @@
       "url": "https://open.spotify.com/track/32C8CgqPSjt92WU8ngGDMX"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Tayha Love",
         "url": "https://open.spotify.com/album/6wl0rqJu3eO97Z1Qyfv8Gd"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/3ZFDVnwbi8cJiEyPxbZGea"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Les derni\u00e8res volont\u00e9s de Mozart (Symphony)",
         "url": "https://open.spotify.com/album/4ljqGoLmGs8AxkyS2S1fvQ"
@@ -749,27 +789,7 @@
       "url": "https://open.spotify.com/track/0Fyqe4e5VjCaFjNSNYWa25"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
-      "album": {
-        "name": "KONGOLESE SOUS BBL",
-        "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Jeez Suave",
-          "url": "https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P"
-        }
-      ],
-      "duration_ms": 164234,
-      "name": "KONGOLESE SOUS BBL",
-      "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"
-    },
-    {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Ya Zina",
         "url": "https://open.spotify.com/album/04b2cvC1OdozRXWFtyXhNj"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/4p46adwQi8jhAn9TvinajR"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -809,7 +829,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Depuis le temps (Part. 2)",
         "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
@@ -825,7 +845,7 @@
       "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Wayeh",
         "url": "https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV"
@@ -841,23 +861,7 @@
       "url": "https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
-      "album": {
-        "name": "Nari Nar (\u0646\u0627\u0631\u064a \u0646\u0627\u0631)",
-        "url": "https://open.spotify.com/album/1lSC2sRGtEZOJO9mi1vrGJ"
-      },
-      "artists": [
-        {
-          "name": "Mouh Milano",
-          "url": "https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Nari Nar - \u0646\u0627\u0631\u064a \u0646\u0627\u0631",
-      "url": "https://open.spotify.com/track/3AdpMQpQXpSdrVgJUGDkPP"
-    },
-    {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "A.E.M - Ya Ritek",
         "url": "https://open.spotify.com/album/6OLAhYkuTvuiPYiSuJJtoh"
@@ -873,7 +877,7 @@
       "url": "https://open.spotify.com/track/6LfVxjEYAd6wAdCaMU21M5"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "L'milieux jayah",
         "url": "https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu"
@@ -893,7 +897,7 @@
       "url": "https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "Chwiya Wa9t W Nensak",
         "url": "https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR"
@@ -909,7 +913,7 @@
       "url": "https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg"
     },
     {
-      "added_at": "2024-12-23 17:06:27",
+      "added_at": "2025-01-04 15:42:07",
       "album": {
         "name": "LVDR",
         "url": "https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1"

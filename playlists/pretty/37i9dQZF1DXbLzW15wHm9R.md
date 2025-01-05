@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Babygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,344 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,374 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Leash \(Babygirl Original Soundtrack\)](https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG) | 4:21 |
 | 2 | [Like a Rolling Stone](https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [A Complete Unknown \(Music From The Motion Picture\)](https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4) | 3:22 |
-| 3 | [I Always Wanted A Brother](https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W) | [Braelyn Rankins](https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm), [Theo Somolu](https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq), [Aaron Pierre](https://open.spotify.com/artist/20VbCdEy1hQdgUMa0rL0N6), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy) | 3:34 |
+| 3 | [I Always Wanted A Brother](https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W) | [Braelyn Rankins](https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm), [Theo Somolu](https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq), [Aaron Pierre](https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy) | 3:34 |
 | 4 | [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 |
 | 5 | [Angels \(From Better Man: Original Motion Picture Soundtrack\) \(feat\. Adam Tucker\)](https://open.spotify.com/track/3qX0BTXF6zzJcfdQk3hfs8) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Adam Tucker](https://open.spotify.com/artist/6cF82Q4p0GsdVCfFdUIqgx) | [Angels \(From Better Man: Original Motion Picture Soundtrack\) \(feat\. Adam Tucker\)](https://open.spotify.com/album/1VOB4DU6GONRk6RXkgecjp) | 5:29 |
 | 6 | [Pure Love](https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Queer \(Original Score\)](https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9) | 4:34 |

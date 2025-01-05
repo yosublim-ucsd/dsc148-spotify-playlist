@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7251,
+  "num_followers": 7252,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAABCgKfFMR/biV3EkK1+6aec",
+  "snapshot_id": "Z3cogAAAAABM938DOmrLpidFmOM+hd7Q",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 168560,
-      "name": "A Cover Over",
-      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
+      "duration_ms": 141746,
+      "name": "I'm Dragging a Dead Deer Up a Hill",
+      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 141746,
-      "name": "I'm Dragging a Dead Deer Up a Hill",
-      "url": "https://open.spotify.com/track/2lFoxhUEGpKoSHetkKHIAw"
+      "duration_ms": 168560,
+      "name": "A Cover Over",
+      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 476626,
-      "name": "Holding",
-      "url": "https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO"
+      "duration_ms": 179253,
+      "name": "Call Across Rooms",
+      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
     },
     {
       "added_at": null,
@@ -600,15 +600,15 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Call Across Rooms",
-      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
+      "duration_ms": 476626,
+      "name": "Holding",
+      "url": "https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Water People 7\"",
-        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 247713,
-      "name": "Water People",
-      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
+      "duration_ms": 362253,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+        "name": "Water People 7\"",
+        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 362253,
-      "name": "It Feels Alright",
-      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
+      "duration_ms": 247713,
+      "name": "Water People",
+      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grid of Points",
-        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+        "name": "Hold / Sick - Single",
+        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
+      "duration_ms": 308066,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/574DJfC8RrVqyaybr1AabW"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold / Sick - Single",
-        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 308066,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/574DJfC8RrVqyaybr1AabW"
+      "duration_ms": 228000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
     },
     {
       "added_at": null,

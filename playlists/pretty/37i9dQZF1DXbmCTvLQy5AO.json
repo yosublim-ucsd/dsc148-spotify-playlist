@@ -1,6 +1,6 @@
 {
   "description": "Empowered rhymes and vibes. Cover: Tinashe",
-  "num_followers": 476892,
+  "num_followers": 476925,
   "original_name": "Work It, Own It",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Panini",
-        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 114893,
-      "name": "Panini",
-      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "Herstory in the Making",
         "url": "https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 225919,
       "name": "BIG",
       "url": "https://open.spotify.com/track/7cyeGclH71MayOuQ7qtLFl"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "Panini",
+        "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "Panini",
+      "url": "https://open.spotify.com/track/1000nHvUdawXuUHgBod4Wv"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Twerkulator",
-        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 138541,
-      "name": "Twerkulator",
-      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
-    },
-    {
-      "added_at": "2024-06-12 09:07:18",
-      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 175706,
       "name": "Stay Flo",
       "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
+    },
+    {
+      "added_at": "2024-06-12 09:07:18",
+      "album": {
+        "name": "Twerkulator",
+        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 138541,
+      "name": "Twerkulator",
+      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -1555,8 +1555,8 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "Whatever Simon Says",
-        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
       },
       "artists": [
         {
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 212573,
-      "name": "Whatever Simon Says",
-      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
+      "duration_ms": 229040,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
     },
     {
       "added_at": "2024-06-12 09:07:18",
@@ -1695,8 +1695,8 @@
     {
       "added_at": "2024-06-12 09:07:18",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+        "name": "Whatever Simon Says",
+        "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
       },
       "artists": [
         {
@@ -1704,9 +1704,9 @@
           "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 229040,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
+      "duration_ms": 212573,
+      "name": "Whatever Simon Says",
+      "url": "https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7"
     },
     {
       "added_at": "2024-06-12 09:07:18",

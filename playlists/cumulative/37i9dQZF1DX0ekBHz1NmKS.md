@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,704 songs - 3 day 16 hr 28 min
+1,705 songs - 3 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Change](https://open.spotify.com/track/6CK581mr24h7z7bFpwhHmm) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Change](https://open.spotify.com/album/2hxKPuoKlnH6ZMInQ3Xg9x) | 3:42 | 2021-12-16 | 2022-03-11 |
 | [Chasing \(feat\. NEIMY\)](https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Chasing \(feat\. NEIMY\)](https://open.spotify.com/album/2x2wq5Et0dUu1lLnYv07vc) | 2:28 | 2023-01-19 | 2023-10-06 |
 | [Cherry On Top](https://open.spotify.com/track/27prlvK4avPPpYntCg7wEo) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Cherry On Top](https://open.spotify.com/album/1ThLpe0d8lTwMNRuSTtRqM) | 3:00 | 2024-03-21 | 2024-05-03 |
+| [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 | 2025-01-02 |  |
 | [Childhood Dreams](https://open.spotify.com/track/4iVw5xhBCq3SE45d7K5T1O) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Childhood Dreams](https://open.spotify.com/album/2NyPWRjLfQZjejlgVidDAf) | 3:03 | 2023-08-25 | 2023-09-15 |
 | [Ciao](https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Ciao](https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE) | 3:45 | 2023-09-28 | 2024-01-19 |
 | [Circles](https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Circles](https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1) | 2:41 | 2022-12-22 | 2023-02-24 |
@@ -480,7 +481,7 @@
 | [Fjäder](https://open.spotify.com/track/7z7EbUeXvStvBOLwoGfJOE) | [Metin](https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR), [Louis](https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ), [Xavs](https://open.spotify.com/artist/6cthS8RRByX6tvYcBZbYJD) | [Fjäder](https://open.spotify.com/album/75RFUt0lpPpplbQzdRfT7p) | 2:39 | 2024-08-22 | 2024-09-07 |
 | [Flame](https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Flame](https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o) | 2:53 | 2024-05-30 | 2024-06-28 |
 | [Flamma](https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ) | [Kayo](https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz) | [Flamma](https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS) | 3:15 | 2024-08-08 | 2024-09-08 |
-| [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 |  |
+| [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2025-01-05 |
 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-13 | 2023-06-10 |
 | [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 | 2023-06-08 | 2023-07-07 |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 | 2022-09-16 |

@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Vlad Dobrescu",
-  "num_followers": 19570,
+  "num_followers": 19575,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-12-05 22:00:00",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
-      },
-      "artists": [
-        {
-          "name": "Endru",
-          "url": "https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Poate",
-      "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
-    },
-    {
-      "added_at": "2024-12-05 22:00:00",
-      "album": {
         "name": "Derni\u00e8re Cigarette",
         "url": "https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 174871,
       "name": "Derni\u00e8re Cigarette",
       "url": "https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1"
+    },
+    {
+      "added_at": "2024-12-05 22:00:00",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
+      },
+      "artists": [
+        {
+          "name": "Endru",
+          "url": "https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Poate",
+      "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
     },
     {
       "added_at": "2024-12-05 22:00:00",

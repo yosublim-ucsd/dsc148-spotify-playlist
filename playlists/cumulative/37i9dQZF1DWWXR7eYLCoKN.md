@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-154 songs - 9 hr 5 min
+156 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Aquarela](https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Aquarela](https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy) | 3:23 | 2023-04-28 |  |
 | [Argumento \(Spotify Singles\)](https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \(Spotify Singles\)](https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG) | 3:23 | 2023-04-28 | 2024-04-19 |
 | [Argumento \- Spotify Singles](https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \- Spotify Singles](https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w) | 3:23 | 2024-01-19 |  |
-| [As Rosas Não Falam](https://open.spotify.com/track/6J4gdn9L1im9uqzqBLhht6) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1976\)](https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b) | 2:53 | 2024-01-19 |  |
+| [As Rosas Não Falam](https://open.spotify.com/track/6J4gdn9L1im9uqzqBLhht6) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1976\)](https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b) | 2:53 | 2024-01-19 | 2025-01-05 |
 | [As Rosas Não Falam](https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:54 | 2023-04-28 | 2024-04-19 |
 | [Atraco](https://open.spotify.com/track/4P8u2XnaM64X8yKYAd5np4) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Atraco](https://open.spotify.com/album/3WbHlIlEtgwCxIlCOwxOZm) | 3:25 | 2024-01-19 |  |
 | [Atraco](https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Pagode Novo](https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf) | 3:25 | 2023-04-28 | 2024-04-19 |
@@ -46,6 +46,7 @@
 | [Dia De Glória](https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Dia De Glória](https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH) | 4:02 | 2023-10-13 |  |
 | [Disritmia](https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:24 | 2023-04-28 |  |
 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 | 2023-07-28 |  |
+| [Do It Yourself \- New Bossa Remix](https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo) | [Markko Mendes](https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Do It Yourself \(New Bossa Remix\)](https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF) | 4:12 | 2025-01-04 |  |
 | [E luxo so](https://open.spotify.com/track/7f89JOqPh5nO5hFbZaqeww) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Fine Classics](https://open.spotify.com/album/4TxWmPhOnLCuWbwWsHb5m6) | 1:58 | 2024-01-19 |  |
 | [E Luxo Só](https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:59 | 2023-04-28 | 2024-04-19 |
 | [E o Mundo Não Se Acabou](https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ) | [Mimi Wankenne](https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds) | [E o Mundo Não Se Acabou](https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A) | 2:04 | 2023-07-28 |  |
@@ -106,8 +107,9 @@
 | [Partido alto](https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [E aí?](https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz) | 4:17 | 2023-04-28 |  |
 | [Pode Ser](https://open.spotify.com/track/5jxMSv48POGEIvOoMjkrqP) | [Orquestra Imperial](https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457) | [Fazendo As Pazes Com o Swing](https://open.spotify.com/album/1jcmsXAXW84DQu89H0EO0C) | 3:10 | 2024-01-19 |  |
 | [Pode Ser](https://open.spotify.com/track/2opMS46C0A83CbZUrImjKS) | [Orquestra Imperial](https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Fazendo as Pazes Com o Swing](https://open.spotify.com/album/1WG25Pe3FbldwSOhv0AzO8) | 3:10 | 2023-07-28 | 2024-04-19 |
-| [Preciso Me Encontrar](https://open.spotify.com/track/5AKrqJ7RiOCfCaaCuxxGk0) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1976\)](https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b) | 2:58 | 2024-01-19 |  |
+| [Preciso Me Encontrar](https://open.spotify.com/track/5AKrqJ7RiOCfCaaCuxxGk0) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1976\)](https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b) | 2:58 | 2024-01-19 | 2025-01-05 |
 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 | 2023-04-28 | 2024-04-19 |
+| [Princípio, Meio e Fim](https://open.spotify.com/track/1DdX2dJfr2xrwvh3PxXkuZ) | [Camilla Araujo](https://open.spotify.com/artist/62NqspbrWjKE0LG4hihjHg), [Serginho Meriti](https://open.spotify.com/artist/6EH4BjCKPhFfbzFaErcbXI), [Leàndro Máttos](https://open.spotify.com/artist/4ICyNLr5zrJ4BO6bM7P8iO) | [Princípio, Meio e Fim](https://open.spotify.com/album/7hvbQZR2cEykFbhb5Og0V0) | 3:51 | 2025-01-04 |  |
 | [Prova Dos Nove](https://open.spotify.com/track/5jsVbRJUzMTY8KCpPIVlg8) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:32 | 2023-04-28 | 2024-04-19 |
 | [Prova dos Nove](https://open.spotify.com/track/7KXjiSy1p54I0EIxW1zcwx) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/3hXXMdT2z0lunHoz5KalQY) | 4:32 | 2024-01-19 | 2024-09-28 |
 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 | 2023-04-28 |  |

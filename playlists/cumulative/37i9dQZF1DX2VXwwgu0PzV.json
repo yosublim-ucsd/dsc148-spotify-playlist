@@ -18135,6 +18135,28 @@
     },
     {
       "album": {
+        "name": "This Year (Remix)",
+        "url": "https://open.spotify.com/album/4eGZHqU1iRAhe3gtowOLHX"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "This Year - Remix",
+      "url": "https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7"
+    },
+    {
+      "album": {
         "name": "This Year Affirmation",
         "url": "https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh"
       },

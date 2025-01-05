@@ -1,6 +1,6 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 390319,
+  "num_followers": 390447,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Por el Buen Camino",
-        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
-      },
-      "artists": [
-        {
-          "name": "Ismael Miranda",
-          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Caretas",
-      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Al Duro",
         "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 277906,
       "name": "Te Propongo",
       "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Por el Buen Camino",
+        "url": "https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3"
+      },
+      "artists": [
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Caretas",
+      "url": "https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
+        "name": "\u00c9xitos de Alex Le\u00f3n",
+        "url": "https://open.spotify.com/album/1IGREUlvpcv8dKVpcLYEBt"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Alex Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5u37PLxDgRiMbVE9Aq3LBG"
         }
       ],
-      "duration_ms": 175986,
-      "name": "\u00bfC\u00f3mo Fue?",
-      "url": "https://open.spotify.com/track/7dbSNvhDTNugY9x44kzVwi"
+      "duration_ms": 285600,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/3BFivPjhgVT1UQcqHMzv3Y"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "\u00c9xitos de Alex Le\u00f3n",
-        "url": "https://open.spotify.com/album/1IGREUlvpcv8dKVpcLYEBt"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
       },
       "artists": [
         {
-          "name": "Alex Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5u37PLxDgRiMbVE9Aq3LBG"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 285600,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/3BFivPjhgVT1UQcqHMzv3Y"
+      "duration_ms": 175986,
+      "name": "\u00bfC\u00f3mo Fue?",
+      "url": "https://open.spotify.com/track/7dbSNvhDTNugY9x44kzVwi"
     },
     {
       "added_at": "2024-11-15 06:00:00",

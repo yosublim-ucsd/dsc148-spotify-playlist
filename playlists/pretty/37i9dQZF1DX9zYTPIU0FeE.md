@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx">Kyle Shepherd Trio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,645 likes - 52 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,654 likes - 52 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

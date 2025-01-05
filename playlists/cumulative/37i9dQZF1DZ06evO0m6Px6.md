@@ -4,7 +4,7 @@
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-82 songs - 3 hr 54 min
+83 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A View From The Sky](https://open.spotify.com/track/7d1Ky8fpocchNXJRbwTNEM) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:25 | 2023-12-13 | 2024-01-08 |
 | [Around You](https://open.spotify.com/track/2ytfPhoqb8J66CGmO7v2O1) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI) | 1:51 | 2024-01-19 |  |
 | [Ashe Maree](https://open.spotify.com/track/3xcool8oNdhdybFbNx1rbG) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/53qvLT66mawtKcUxbTPoVX) | 2:03 | 2023-12-13 | 2024-01-04 |
-| [Ashe Maree](https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 2:03 | 2024-01-03 |  |
+| [Ashe Maree](https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 2:03 | 2024-01-03 | 2025-01-05 |
 | [Atmosphere \(feat\. Daniela Andrade\)](https://open.spotify.com/track/1GzT6q5oy8NvPvLFyZnPss) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU) | 2:55 | 2024-01-06 |  |
 | [Atmosphere \(feat\. Daniela Andrade\)](https://open.spotify.com/track/3lJ3Czd986QfmRxhjTOznY) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Apricity](https://open.spotify.com/album/3sjOEpRpJmfyXiIOs2pXX0) | 2:55 | 2023-12-13 | 2024-01-07 |
 | [Beige](https://open.spotify.com/track/55kxuWtCLOZ9LD7paQylnO) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Beige](https://open.spotify.com/album/7JNh6e48gMbtw75GLOARSA) | 2:51 | 2023-12-13 |  |
@@ -77,6 +77,7 @@
 | [Social Stimulus](https://open.spotify.com/track/0S0lnAxY9vvFgumbUEMyGF) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Seamus Hamilton](https://open.spotify.com/artist/7h3INHhaa4Iom1a5vBfkgO) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:14 | 2024-11-14 | 2024-11-15 |
 | [Sorry](https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Sorry](https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg) | 2:00 | 2024-01-06 |  |
 | [Sorry](https://open.spotify.com/track/4qiHApC3RIMlqpjidfcb20) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Sorry](https://open.spotify.com/album/7DJbYEOGyUHR0uM4Voumgg) | 2:00 | 2023-12-13 | 2024-01-07 |
+| [The Birds, The Bees, The Clouds, The Trees](https://open.spotify.com/track/6AnLPz1gLqgb8dYGfyyCUK) | [DestheProvider](https://open.spotify.com/artist/2nNO1cyw427RZ4mGHWdHvE), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [The Birds, The Bees, The Clouds, The Trees](https://open.spotify.com/album/3vWXNBWScPpvHIznQvVamF) | 1:56 | 2025-01-05 |  |
 | [tl;dr](https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER](https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K) | 3:27 | 2024-04-21 |  |
 | [tl;dr](https://open.spotify.com/track/4KhVvjRnkx2np1RX5BrWHY) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [ROLLERCOASTER DELUXE](https://open.spotify.com/album/0CftF3oVywmEpbIVr7keiv) | 3:27 | 2024-10-11 | 2024-11-01 |
 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 | 2024-01-10 |  |

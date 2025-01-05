@@ -975,6 +975,28 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ"
+      },
+      "artists": [
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        },
+        {
+          "name": "Ava June",
+          "url": "https://open.spotify.com/artist/31IfzLl0YTTkazic625UQV"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy"
+    },
+    {
+      "album": {
         "name": "Love Is Just a Game",
         "url": "https://open.spotify.com/album/3NSOZLHgbSkld6vtbDRxSE"
       },
@@ -994,7 +1016,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 150450,
       "name": "Love Is Just a Game",
       "url": "https://open.spotify.com/track/718NV3Ob8ZQNOytQfwYKSc"

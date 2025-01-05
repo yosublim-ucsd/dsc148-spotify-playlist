@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 208292,
+  "num_followers": 208345,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,26 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "Para Nunca Olvidar",
+        "url": "https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD"
+      },
+      "artists": [
+        {
+          "name": "Farid Ortiz",
+          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
+        },
+        {
+          "name": "Negrito Osorio",
+          "url": "https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Preg\u00fantele a Su Hija",
+      "url": "https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
@@ -407,22 +427,6 @@
       "duration_ms": 257640,
       "name": "No Le Temas al Amor",
       "url": "https://open.spotify.com/track/0WTm21amOR7KQNh67GA1OP"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Manuel",
-          "url": "https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "Directo al coraz\u00f3n",
-      "url": "https://open.spotify.com/track/13RzmI1NWQyyOIGh02egTP"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -495,6 +499,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Manuel",
+          "url": "https://open.spotify.com/artist/1XLwJzZGjXyXjIz9s11R4Z"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "Directo al coraz\u00f3n",
+      "url": "https://open.spotify.com/track/13RzmI1NWQyyOIGh02egTP"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Historia Musical de Los Embajadores Vallenatos",
         "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 258218,
       "name": "Se Le Moja la Canoa (La Canoa)",
       "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "Lo Mejor 17 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
-      },
-      "artists": [
-        {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Amarte Mas No Pude",
-      "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -551,6 +551,26 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "Lo Mejor 17 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Amarte Mas No Pude",
+      "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Rafael Orozco... Vive",
         "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
       },
@@ -563,22 +583,6 @@
       "duration_ms": 231066,
       "name": "Esa",
       "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 305826,
-      "name": "Buscar\u00e9 Otro Amor",
-      "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -599,18 +603,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
       "artists": [
         {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 267186,
-      "name": "Que Me Puedas Amar",
-      "url": "https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm"
+      "duration_ms": 305826,
+      "name": "Buscar\u00e9 Otro Amor",
+      "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -671,6 +675,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 267186,
+      "name": "Que Me Puedas Amar",
+      "url": "https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Nace Del Alma",
         "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
       },
@@ -683,6 +703,22 @@
       "duration_ms": 285640,
       "name": "Una Hoja En Blanco",
       "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Una Como Tu",
+      "url": "https://open.spotify.com/track/3oHPbgbs9FvvqmLCvLzukR"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -707,22 +743,6 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "\u2026Que viva el vallenato!",
-        "url": "https://open.spotify.com/album/0d2xaYm4ahP90Bdbm2Ea28"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 287173,
-      "name": "Una Como Tu",
-      "url": "https://open.spotify.com/track/3oHPbgbs9FvvqmLCvLzukR"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -735,22 +755,6 @@
       "duration_ms": 297746,
       "name": "Como duele el frio",
       "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "Sirena Encantadora",
-      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -827,18 +831,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
         }
       ],
-      "duration_ms": 277266,
-      "name": "Qu\u00e9 Sera de M\u00ed",
-      "url": "https://open.spotify.com/track/2ER4g5nBnn2ZE7s9nRRWxB"
+      "duration_ms": 310933,
+      "name": "Sirena Encantadora",
+      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -859,18 +863,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Historia Musical de Luis Mateus y la Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/75nLOjeMuoVdB375ClTVmP"
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
       },
       "artists": [
         {
-          "name": "Luis Mateus, David Rendon Y La Nueva Generacion",
-          "url": "https://open.spotify.com/artist/3fVKEL0h8IO21P05YrgaSN"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 278691,
-      "name": "Muero por Verla",
-      "url": "https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6"
+      "duration_ms": 277266,
+      "name": "Qu\u00e9 Sera de M\u00ed",
+      "url": "https://open.spotify.com/track/2ER4g5nBnn2ZE7s9nRRWxB"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -891,22 +895,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Para Nunca Olvidar",
-        "url": "https://open.spotify.com/album/3WdWIE9n2ZKWsNUHffAtqD"
+        "name": "Historia Musical de Luis Mateus y la Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/75nLOjeMuoVdB375ClTVmP"
       },
       "artists": [
         {
-          "name": "Farid Ortiz",
-          "url": "https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN"
-        },
-        {
-          "name": "Negrito Osorio",
-          "url": "https://open.spotify.com/artist/5rqa30CMYcRjwQttr5HlSl"
+          "name": "Luis Mateus, David Rendon Y La Nueva Generacion",
+          "url": "https://open.spotify.com/artist/3fVKEL0h8IO21P05YrgaSN"
         }
       ],
-      "duration_ms": 280426,
-      "name": "Preg\u00fantele a Su Hija",
-      "url": "https://open.spotify.com/track/6ZL4R6iFvVd3R6a6OuPbKv"
+      "duration_ms": 278691,
+      "name": "Muero por Verla",
+      "url": "https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -947,22 +947,6 @@
       "duration_ms": 246726,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 288493,
-      "name": "S\u00f3lo para Ti",
-      "url": "https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -1047,18 +1031,34 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 288533,
-      "name": "Te Sorprender\u00e1s",
-      "url": "https://open.spotify.com/track/7f4wlBeT8vqUDmom4Q676T"
+      "duration_ms": 288493,
+      "name": "S\u00f3lo para Ti",
+      "url": "https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+      },
+      "artists": [
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "No Te Detengas",
+      "url": "https://open.spotify.com/track/06steha7z7DuxqiJrqm4Gu"
     }
   ],
   "unique_name": "Vallenato Full Bacano",

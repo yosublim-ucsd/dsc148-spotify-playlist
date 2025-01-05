@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Machine Head",
-  "num_followers": 1292874,
+  "num_followers": 1293100,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 293653,
-      "name": "Epic",
-      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
+      "duration_ms": 291812,
+      "name": "Parasite Eve",
+      "url": "https://open.spotify.com/track/36xBFaVGjqm7le8CTHytUj"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
         }
       ],
-      "duration_ms": 291812,
-      "name": "Parasite Eve",
-      "url": "https://open.spotify.com/track/36xBFaVGjqm7le8CTHytUj"
+      "duration_ms": 293653,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Kings of Metal",
+      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "State Of Unrest",
         "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 187894,
       "name": "State Of Unrest",
       "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Kings of Metal",
-      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 353986,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Cleansing",
         "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 251533,
       "name": "Snap Your Fingers, Snap Your Neck",
       "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 353986,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "The Grinding Wheel",
+        "url": "https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz"
+      },
+      "artists": [
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "duration_ms": 449786,
+      "name": "Mean, Green, Killing Machine",
+      "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Fimbulvinter",
         "url": "https://open.spotify.com/album/29lEl1iw29mwtLRoPCyoTa"
       },
@@ -2023,18 +2039,34 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Grinding Wheel",
-        "url": "https://open.spotify.com/album/5XuskaRVS1oPwxEdjEfYoz"
+        "name": "Greatest Hits: Back To The Start",
+        "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
       },
       "artists": [
         {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 449786,
-      "name": "Mean, Green, Killing Machine",
-      "url": "https://open.spotify.com/track/0mIUS9GApGWW8wGxNI0CPE"
+      "duration_ms": 246733,
+      "name": "Symphony Of Destruction",
+      "url": "https://open.spotify.com/track/4YJZjINIhakR98fnz1Pvup"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "1589",
+        "url": "https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 244780,
+      "name": "1589",
+      "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2059,38 +2091,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "1589",
-        "url": "https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 244780,
-      "name": "1589",
-      "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Greatest Hits: Back To The Start",
-        "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Symphony Of Destruction",
-      "url": "https://open.spotify.com/track/4YJZjINIhakR98fnz1Pvup"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/3Nmi023OjclW3imkrnGXuG"
       },
@@ -2103,22 +2103,6 @@
       "duration_ms": 193714,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/5xSUwN5ZFBuoLWV4UnWVta"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Time II",
-        "url": "https://open.spotify.com/album/27TYlqOWbO1zClQVHfTjOt"
-      },
-      "artists": [
-        {
-          "name": "Wintersun",
-          "url": "https://open.spotify.com/artist/6ui6SwChan7c1KYBQCqGKV"
-        }
-      ],
-      "duration_ms": 608013,
-      "name": "The Way of The Fire",
-      "url": "https://open.spotify.com/track/6a3fzQf9SbrbkBZtbUWVEG"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2139,6 +2123,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Time II",
+        "url": "https://open.spotify.com/album/27TYlqOWbO1zClQVHfTjOt"
+      },
+      "artists": [
+        {
+          "name": "Wintersun",
+          "url": "https://open.spotify.com/artist/6ui6SwChan7c1KYBQCqGKV"
+        }
+      ],
+      "duration_ms": 608013,
+      "name": "The Way of The Fire",
+      "url": "https://open.spotify.com/track/6a3fzQf9SbrbkBZtbUWVEG"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "WIERSZALIN III",
         "url": "https://open.spotify.com/album/55QYaW0w0sGqpwvv2EE3vn"
       },
@@ -2151,22 +2151,6 @@
       "duration_ms": 359746,
       "name": "WIERSZALIN III",
       "url": "https://open.spotify.com/track/6TsQ3SN7pVyIzZQklB7V46"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Shrine (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Overthrone",
-      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Shrine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Overthrone",
+      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/3YCi2v3qZOVD8Ni6JlnPVu"
       },
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Endtime Signals",
-        "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
-      },
-      "artists": [
-        {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Wayward Eyes",
-      "url": "https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Start The Healing",
         "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 208053,
       "name": "Start The Healing",
       "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Endtime Signals",
+        "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
+      },
+      "artists": [
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Wayward Eyes",
+      "url": "https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Heavy Metal Viking",
-        "url": "https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J"
-      },
-      "artists": [
-        {
-          "name": "Brothers of Metal",
-          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
-        }
-      ],
-      "duration_ms": 231356,
-      "name": "Heavy Metal Viking",
-      "url": "https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 283338,
       "name": "Venerate Me",
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Heavy Metal Viking",
+        "url": "https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J"
+      },
+      "artists": [
+        {
+          "name": "Brothers of Metal",
+          "url": "https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy"
+        }
+      ],
+      "duration_ms": 231356,
+      "name": "Heavy Metal Viking",
+      "url": "https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2643,22 +2643,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Mammoth's Hand",
-        "url": "https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2"
-      },
-      "artists": [
-        {
-          "name": "The Black Dahlia Murder",
-          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
-        }
-      ],
-      "duration_ms": 233624,
-      "name": "Mammoth's Hand",
-      "url": "https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Chapter III - Downfall",
         "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 234346,
       "name": "Eternal Rains",
       "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Mammoth's Hand",
+        "url": "https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2"
+      },
+      "artists": [
+        {
+          "name": "The Black Dahlia Murder",
+          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
+        }
+      ],
+      "duration_ms": 233624,
+      "name": "Mammoth's Hand",
+      "url": "https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2715,26 +2715,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Darkenguard",
-        "url": "https://open.spotify.com/album/2Pz9nX3wMVPSnLBYITUe5J"
-      },
-      "artists": [
-        {
-          "name": "Saltatio Mortis",
-          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
-        },
-        {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
-        }
-      ],
-      "duration_ms": 511506,
-      "name": "Darkenguard",
-      "url": "https://open.spotify.com/track/7IfWPCto2sF1s2J7snFDjm"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
       },
@@ -2767,6 +2747,26 @@
       "duration_ms": 238145,
       "name": "Digital Bullets (feat. Chris Motionless)",
       "url": "https://open.spotify.com/track/1a7hFfEXGJKSKSFKDoufPi"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Darkenguard",
+        "url": "https://open.spotify.com/album/2Pz9nX3wMVPSnLBYITUe5J"
+      },
+      "artists": [
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        },
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 511506,
+      "name": "Darkenguard",
+      "url": "https://open.spotify.com/track/7IfWPCto2sF1s2J7snFDjm"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2835,22 +2835,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Out Of The Shadows 2.0",
-        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 219195,
-      "name": "Feral",
-      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Presence of Mind",
         "url": "https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd"
       },
@@ -2863,6 +2847,22 @@
       "duration_ms": 255986,
       "name": "Presence of Mind",
       "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Out Of The Shadows 2.0",
+        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 219195,
+      "name": "Feral",
+      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2923,6 +2923,38 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 258325,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Teardrinker",
+        "url": "https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 320507,
+      "name": "Teardrinker",
+      "url": "https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Shadowminds (Ihsahn Remix)",
         "url": "https://open.spotify.com/album/6II3pspzSsH0VeqqVIm0tv"
       },
@@ -2943,22 +2975,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 258325,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Winter Storm Vigilantes",
         "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
       },
@@ -2971,22 +2987,6 @@
       "duration_ms": 312426,
       "name": "Winter Storm Vigilantes",
       "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Teardrinker",
-        "url": "https://open.spotify.com/album/2rLL53sWbr1njAQGRqCLfw"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 320507,
-      "name": "Teardrinker",
-      "url": "https://open.spotify.com/track/1cqOwtA698krc8BKMUj4lt"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -3159,22 +3159,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Hellish Expectations",
-        "url": "https://open.spotify.com/album/32YW1L7tVKLLQxYyRPg6ck"
-      },
-      "artists": [
-        {
-          "name": "Midnight",
-          "url": "https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Expect Total Hell",
-      "url": "https://open.spotify.com/track/07szbH4lUAPjGxVKeuTUTw"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "...'Til The World's Blind",
         "url": "https://open.spotify.com/album/7c2mlvKNDXM8Y2AnPg6azN"
       },
@@ -3187,6 +3171,22 @@
       "duration_ms": 212714,
       "name": "WRONG END OF THE KNIFE",
       "url": "https://open.spotify.com/track/5HQVggVFebVhn765vhWz7J"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Hellish Expectations",
+        "url": "https://open.spotify.com/album/32YW1L7tVKLLQxYyRPg6ck"
+      },
+      "artists": [
+        {
+          "name": "Midnight",
+          "url": "https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Expect Total Hell",
+      "url": "https://open.spotify.com/track/07szbH4lUAPjGxVKeuTUTw"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -3251,22 +3251,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Rise Again",
-        "url": "https://open.spotify.com/album/3Mn9er1figGVbRb4FwMCyw"
-      },
-      "artists": [
-        {
-          "name": "Masterplan",
-          "url": "https://open.spotify.com/artist/1OHNvr18TssBKYK0A75yvx"
-        }
-      ],
-      "duration_ms": 224015,
-      "name": "Rise Again",
-      "url": "https://open.spotify.com/track/6kgOc5TPo8T6Ten4MByNDp"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Lies' Device (New Version 2021)",
         "url": "https://open.spotify.com/album/3tVQsBnb2stVCvWzM7aXgB"
       },
@@ -3283,18 +3267,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Burning Heart",
-        "url": "https://open.spotify.com/album/57kFdGMmAXq9Rt8X1cRx9J"
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/3Mn9er1figGVbRb4FwMCyw"
       },
       "artists": [
         {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+          "name": "Masterplan",
+          "url": "https://open.spotify.com/artist/1OHNvr18TssBKYK0A75yvx"
         }
       ],
-      "duration_ms": 355778,
-      "name": "Burning Heart",
-      "url": "https://open.spotify.com/track/1edMU2lM1Lp8mgGjfZTXzg"
+      "duration_ms": 224015,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/6kgOc5TPo8T6Ten4MByNDp"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -3315,18 +3299,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Die Mutter des Teufels",
-        "url": "https://open.spotify.com/album/6S5Dbr7I0A435KF9BqzBN0"
+        "name": "Burning Heart",
+        "url": "https://open.spotify.com/album/57kFdGMmAXq9Rt8X1cRx9J"
       },
       "artists": [
         {
-          "name": "Die Apokalyptischen Reiter",
-          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
         }
       ],
-      "duration_ms": 179166,
-      "name": "Die Mutter des Teufels",
-      "url": "https://open.spotify.com/track/4rdjw1qztPtCieFGG6irHw"
+      "duration_ms": 355778,
+      "name": "Burning Heart",
+      "url": "https://open.spotify.com/track/1edMU2lM1Lp8mgGjfZTXzg"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -3343,6 +3327,22 @@
       "duration_ms": 252333,
       "name": "Greedy Bastards",
       "url": "https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Die Mutter des Teufels",
+        "url": "https://open.spotify.com/album/6S5Dbr7I0A435KF9BqzBN0"
+      },
+      "artists": [
+        {
+          "name": "Die Apokalyptischen Reiter",
+          "url": "https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "Die Mutter des Teufels",
+      "url": "https://open.spotify.com/track/4rdjw1qztPtCieFGG6irHw"
     }
   ],
   "unique_name": "Heavy Metal",

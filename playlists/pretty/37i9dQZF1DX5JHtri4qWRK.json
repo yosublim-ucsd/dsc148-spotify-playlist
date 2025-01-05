@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
-      },
-      "artists": [
-        {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/1xY00CnzzvXjYZjZEUS4qI"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 212400,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/1ctdfJSzp6qF2iDAVdDrfl"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -847,38 +847,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Toni Braxton",
-        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Brian McKnight",
-        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "One Last Cry",
-      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -895,6 +863,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Toni Braxton",
+        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 246773,
       "name": "Charlene",
       "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "One Last Cry",
+      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Back At One",
-        "url": "https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "6, 8, 12",
-      "url": "https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 233666,
       "name": "Don't Hurt Yourself (feat. Jack White)",
       "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Back At One",
+        "url": "https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "6, 8, 12",
+      "url": "https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/3pxJuMLjNPtiC0fX8EHFlF"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "My Thoughts",
         "url": "https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 218072,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301173,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/3pxJuMLjNPtiC0fX8EHFlF"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1251,6 +1251,38 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Almost Doesn't Count",
+      "url": "https://open.spotify.com/track/5ZCv9I8mgChcYkSrLuLSTc"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Bust Your Windows",
+      "url": "https://open.spotify.com/track/0rE8OLQpoOFe2xa35twgve"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -1279,38 +1311,6 @@
       "duration_ms": 301560,
       "name": "Another Sad Love Song",
       "url": "https://open.spotify.com/track/70iDnqYvxCPl3mPd3ddxgD"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Bust Your Windows",
-      "url": "https://open.spotify.com/track/0rE8OLQpoOFe2xa35twgve"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Almost Doesn't Count",
-      "url": "https://open.spotify.com/track/5ZCv9I8mgChcYkSrLuLSTc"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Love and War",
-        "url": "https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Love and War",
-      "url": "https://open.spotify.com/track/3fLBmhcgWkPI47LfVQ8paB"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 257426,
       "name": "Need U Bad",
       "url": "https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Love and War",
+        "url": "https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Love and War",
+      "url": "https://open.spotify.com/track/3fLBmhcgWkPI47LfVQ8paB"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Love Me Back",
-        "url": "https://open.spotify.com/album/4FcJwv9ebTXeMuTX1HkK4q"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Holding You Down (Goin' in Circles)",
-      "url": "https://open.spotify.com/track/5UdicZrmNt418AmwNixCJP"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 221866,
       "name": "Tyrone - Live",
       "url": "https://open.spotify.com/track/1MCem6JigI6jgQPMgriKbU"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Love Me Back",
+        "url": "https://open.spotify.com/album/4FcJwv9ebTXeMuTX1HkK4q"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Holding You Down (Goin' in Circles)",
+      "url": "https://open.spotify.com/track/5UdicZrmNt418AmwNixCJP"
     },
     {
       "added_at": "2024-04-05 09:59:10",

@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 46726,
+  "num_followers": 46753,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "La Luna Hueca",
-        "url": "https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl"
+        "name": "Pel\u00edcula",
+        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
       },
       "artists": [
         {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/3AZR34qL28NdrSUUXEeU8h"
         }
       ],
-      "duration_ms": 178786,
-      "name": "El Sue\u00f1o del Jinete",
-      "url": "https://open.spotify.com/track/4q6ZHerrtO7gcF67KFX0BF"
+      "duration_ms": 119632,
+      "name": "Pel\u00edcula",
+      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+        "name": "La Luna Hueca",
+        "url": "https://open.spotify.com/album/3EcGvNWLVhGz2EeiiPCvwl"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
         }
       ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+      "duration_ms": 178786,
+      "name": "El Sue\u00f1o del Jinete",
+      "url": "https://open.spotify.com/track/4q6ZHerrtO7gcF67KFX0BF"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Pel\u00edcula",
-        "url": "https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr"
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
       "artists": [
         {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/3AZR34qL28NdrSUUXEeU8h"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 119632,
-      "name": "Pel\u00edcula",
-      "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     }
   ],
   "unique_name": "Los 2010 Argentina",

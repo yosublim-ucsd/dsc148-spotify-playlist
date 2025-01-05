@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Marilyn",
+        "url": "https://open.spotify.com/album/41XXYpnFnCCVxp0UnuoHWU"
+      },
+      "artists": [
+        {
+          "name": "Dal\u00ed",
+          "url": "https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139693,
+      "name": "Anderson Paak",
+      "url": "https://open.spotify.com/track/7DxMOd18uvTQmaj8e0mEt4"
+    },
+    {
+      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI"
       },
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 168437,
       "name": "Bij Deze",
       "url": "https://open.spotify.com/track/1jbZP5KUIhEfxzVdM7s3TR"
@@ -6734,7 +6752,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 164546,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
@@ -7040,6 +7058,28 @@
       "duration_ms": 150009,
       "name": "FUNK ESTRANHO - SUPER SLOWED",
       "url": "https://open.spotify.com/track/4QdSkchEnVddhTy1PO9iv9"
+    },
+    {
+      "album": {
+        "name": "FUNK INFERNAL",
+        "url": "https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W"
+      },
+      "artists": [
+        {
+          "name": "DYGO",
+          "url": "https://open.spotify.com/artist/6ZhleMHIGIpjkBHrQDl4G7"
+        },
+        {
+          "name": "Mxng0",
+          "url": "https://open.spotify.com/artist/1KoTNs0Ev2KGs7AF5lWlx3"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "FUNK INFERNAL",
+      "url": "https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y"
     },
     {
       "album": {
@@ -9233,7 +9273,7 @@
         },
         {
           "name": "Aaron Pierre",
-          "url": "https://open.spotify.com/artist/20VbCdEy1hQdgUMa0rL0N6"
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
         },
         {
           "name": "Kelvin Harrison Jr.",
@@ -11100,7 +11140,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 104787,
       "name": "L.R. DEFENDER",
       "url": "https://open.spotify.com/track/3XvGqS2nOXSCeqvdZQoMDm"
@@ -14818,7 +14858,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 170266,
       "name": "Normal",
       "url": "https://open.spotify.com/track/4gGxBFqh6tZWktF9h9HWlU"

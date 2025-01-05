@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,781 likes - 70 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,085 likes - 70 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 52 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 | 53 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 |
 | 54 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx) | 5:07 |
-| 55 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/3RWAeIE2pfAeIvvsSn6D5G) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Ao Vivo no Maracanãzinho, Vol\. 2](https://open.spotify.com/album/3nzmSrSJvEOeIopNtdSYCS) | 8:07 |
-| 56 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |
+| 55 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |
+| 56 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/3RWAeIE2pfAeIvvsSn6D5G) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Ao Vivo no Maracanãzinho, Vol\. 2](https://open.spotify.com/album/3nzmSrSJvEOeIopNtdSYCS) | 8:07 |
 | 57 | [Faz Um Milagre em Mim](https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8) | 5:19 |
 | 58 | [Mais Alto \- Live](https://open.spotify.com/track/7oGzCcmvXSKB451tIZAQP3) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Fernandinho Acústico](https://open.spotify.com/album/7MaBAP7yuoxXP2vGDOC3Je) | 4:33 |
 | 59 | [Teus Olhos Revelam](https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Esperança](https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i) | 4:58 |
 | 60 | [Adorador por Excelência](https://open.spotify.com/track/4C3dlfa8iBGgb2MjWe2wOa) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3dYx7HppPTwfAX5a24m3Po) | 5:33 |
-| 61 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 |
-| 62 | [Os Sonhos de Deus](https://open.spotify.com/track/5r35WP3ehhwgC2ctzUsFHS) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Os Sonhos de Deus \- Recebe a Cura \- Adoração Profética 1](https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs) | 6:05 |
-| 63 | [No Silêncio](https://open.spotify.com/track/1pgHsf1WqOR7aCiqL3XYO7) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Primeiro Passo](https://open.spotify.com/album/0aGGbmF94fwpsFe3M8poC9) | 4:47 |
-| 64 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
+| 61 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
+| 62 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 |
+| 63 | [Os Sonhos de Deus](https://open.spotify.com/track/5r35WP3ehhwgC2ctzUsFHS) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Os Sonhos de Deus \- Recebe a Cura \- Adoração Profética 1](https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs) | 6:05 |
+| 64 | [No Silêncio](https://open.spotify.com/track/1pgHsf1WqOR7aCiqL3XYO7) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Primeiro Passo](https://open.spotify.com/album/0aGGbmF94fwpsFe3M8poC9) | 4:47 |
 | 65 | [Me Rendo A Ti](https://open.spotify.com/track/4GsORFXWaecjxbiQ0n1Oqt) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Global Project PORTUGUÊS \(Portuguese\)](https://open.spotify.com/album/0BY70dozFnO2iSUGchNQVv) | 6:10 |
 | 66 | [Ele É Exaltado \- Ao Vivo](https://open.spotify.com/track/0BegvnQ1vYEVWg7HHRbwYl) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Momentos de Louvor, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1FPGbA99QB9qRXYgDV1oAP) | 3:30 |
 | 67 | [A Ele A Glória \- Ao Vivo](https://open.spotify.com/track/0semeHbsomB2omjIKuJgAA) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Exaltado \(Ao Vivo\)](https://open.spotify.com/album/0RE80aGvb10IWjoRWMH37G) | 9:53 |

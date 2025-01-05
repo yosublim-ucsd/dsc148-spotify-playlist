@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 62016,
+  "num_followers": 62017,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -473,24 +473,20 @@
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
-      "added_at": "2022-08-16 16:23:25",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
       },
       "artists": [
         {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        },
-        {
-          "name": "Valentina Marentes",
-          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
         }
       ],
-      "duration_ms": 403365,
-      "name": "Era La Luz De Abril",
-      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -529,20 +525,24 @@
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2022-08-16 16:23:25",
       "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
       },
       "artists": [
         {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        },
+        {
+          "name": "Valentina Marentes",
+          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
         }
       ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+      "duration_ms": 403365,
+      "name": "Era La Luz De Abril",
+      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Mujer De Luna",
+        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "Ana's Song",
+      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mujer De Luna",
-        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
-      },
-      "artists": [
-        {
-          "name": "Patricia Carri\u00f3n",
-          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "Ana's Song",
-      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Semillas De Copinol",
         "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 352952,
       "name": "En Cualquier Momento",
       "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -783,22 +783,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Funk da Power",
-        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
-      },
-      "artists": [
-        {
-          "name": "Fiusha",
-          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
-        }
-      ],
-      "duration_ms": 316023,
-      "name": "Let It Play",
-      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Vientos Del Norte",
         "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 236840,
       "name": "Valor De Volar",
       "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Funk da Power",
+        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
+      },
+      "artists": [
+        {
+          "name": "Fiusha",
+          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
+        }
+      ],
+      "duration_ms": 316023,
+      "name": "Let It Play",
+      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -839,18 +839,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Tati",
-        "url": "https://open.spotify.com/album/43GUikhIGxaAOfidGHCm8Z"
+        "name": "Hilando Lunas",
+        "url": "https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J"
       },
       "artists": [
         {
-          "name": "Cris Lobo",
-          "url": "https://open.spotify.com/artist/56x9ETUTHSCk1q7OshZWqD"
+          "name": "Dulce Resillas & Fabiola Franyutti",
+          "url": "https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2"
         }
       ],
-      "duration_ms": 270973,
-      "name": "Dulces y caramelos",
-      "url": "https://open.spotify.com/track/4XxaUIzWA7pRXWyTk9GE2X"
+      "duration_ms": 364520,
+      "name": "Cenit",
+      "url": "https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0"
     },
     {
       "added_at": "2024-08-29 03:09:23",

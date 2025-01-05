@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: NTG
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,053 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,248 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 6 | [Pa Tripea](https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/5URYGDnbKvb8Trms0UyPTh) | [Pa Tripea](https://open.spotify.com/album/4fiGhiTmulEqM9vuw3VrZL) | 2:13 |
 | 7 | [BLOQUES Y CASERÍOS \(feat\. Dowba Montana\)](https://open.spotify.com/track/7bZNnwRueNyzky7RRl5bjf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 2:59 |
 | 8 | [Mejor](https://open.spotify.com/track/2VyQdvvOsNifCt5DrT0NS1) | [Sin Nombre](https://open.spotify.com/artist/0b4EVanoJb8wkWF7QUA3uY), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Mejor](https://open.spotify.com/album/1YvnBIx0DSDyeitTrC9WnC) | 2:28 |
-| 9 | [Una mala](https://open.spotify.com/track/5C4sUjH9D65b4wfqguh1O6) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Una mala](https://open.spotify.com/album/6RgyfqSHiEtIhBZQAckoew) | 2:53 |
+| 9 | [Una mala](https://open.spotify.com/track/5C4sUjH9D65b4wfqguh1O6) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Una mala](https://open.spotify.com/album/6RgyfqSHiEtIhBZQAckoew) | 2:53 |
 | 10 | [ESTE](https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [ESTE](https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU) | 2:42 |
 | 11 | [Suano](https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Suano](https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh) | 2:17 |
 | 12 | [AHAH](https://open.spotify.com/track/3KzDNTsi7IKoTSQ1qSYv3C) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [AHAH](https://open.spotify.com/album/0wHv1A9rlTFaZVDse8qWmV) | 4:30 |

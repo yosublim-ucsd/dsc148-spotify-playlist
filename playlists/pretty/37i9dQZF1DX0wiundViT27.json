@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 611127,
+  "num_followers": 611118,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
         }
       ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
       "artists": [
         {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "No Name",
-        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 191746,
-      "name": "That's How I'm Feeling",
-      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Let The Bad Times Roll (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "That's How I'm Feeling",
+      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
         "name": "Things Are Different Now",
         "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 174428,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/1MtgVw093BemZtwbDZyHqj"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -503,6 +487,22 @@
       "duration_ms": 218093,
       "name": "Burning Down the House",
       "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Keep Me Fed",
         "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 192734,
       "name": "S!CK",
       "url": "https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 165733,
       "name": "Showbiz",
       "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Shadow (I'm Breaking Down)",
-        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 218121,
-      "name": "Shadow (I'm Breaking Down)",
-      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "The Atlas Underground Flood",
         "url": "https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 184391,
       "name": "Human (feat. Barns Courtney)",
       "url": "https://open.spotify.com/track/5jPWuLGRcVDU50pyTCEjQL"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Shadow (I'm Breaking Down)",
+        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 218121,
+      "name": "Shadow (I'm Breaking Down)",
+      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
         "name": "INSIDE",
         "url": "https://open.spotify.com/album/6s4hR4MJMaEzWCke3o1YP8"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 167225,
       "name": "Sex Party",
       "url": "https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
-        "name": "Hate Me If You Want",
-        "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 172855,
-      "name": "Hate Me If You Want",
-      "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
         "name": "I Just Needed You To Know",
         "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
+        "name": "Hate Me If You Want",
+        "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 172855,
+      "name": "Hate Me If You Want",
+      "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
     },
     {
       "added_at": "2024-10-10 16:12:27",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-10-10 16:12:27",
       "album": {
+        "name": "Shag Chateau",
+        "url": "https://open.spotify.com/album/60csc5mp1scyANKdrErGJR"
+      },
+      "artists": [
+        {
+          "name": "Good Boy Daisy",
+          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
+        }
+      ],
+      "duration_ms": 176803,
+      "name": "Shag Chateau",
+      "url": "https://open.spotify.com/track/7AWCAHQ1zf8ECdUexE2WDa"
+    },
+    {
+      "added_at": "2024-10-10 16:12:27",
+      "album": {
         "name": "You're Gonna Get It",
         "url": "https://open.spotify.com/album/3ndOl8SScHfom5tHpdcZA7"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 135529,
       "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
-    },
-    {
-      "added_at": "2024-10-10 16:12:27",
-      "album": {
-        "name": "Shag Chateau",
-        "url": "https://open.spotify.com/album/60csc5mp1scyANKdrErGJR"
-      },
-      "artists": [
-        {
-          "name": "Good Boy Daisy",
-          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
-        }
-      ],
-      "duration_ms": 176803,
-      "name": "Shag Chateau",
-      "url": "https://open.spotify.com/track/7AWCAHQ1zf8ECdUexE2WDa"
     },
     {
       "added_at": "2024-10-10 16:12:27",

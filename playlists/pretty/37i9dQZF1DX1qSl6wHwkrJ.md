@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,374 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,351 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 8 | [Christmas Boogie \(One Little Kiss\)](https://open.spotify.com/track/78YBLISfvGcnRlMQQpdR6L) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Rockin' Christmas Blues](https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT) | 6:54 |
 | 9 | [Merry, Merry Christmas](https://open.spotify.com/track/0u0qsXGPxRL3FmyWyREG2s) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:28 |
 | 10 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Complete James Brown Christmas](https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC) | 3:01 |
-| 11 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
+| 11 | [Ghost From Christmas Past](https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ghost From Christmas Past](https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l) | 3:57 |
 | 12 | [Lonesome Christmas](https://open.spotify.com/track/6hIy9o0zF4Ecof4x89CS4J) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu) | 3:04 |
-| 13 | [Ghost From Christmas Past](https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ghost From Christmas Past](https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l) | 3:57 |
+| 13 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
 | 14 | [Bring Back My Cadillac](https://open.spotify.com/track/1oSwpnWK8Tw69W5wFXVv4Q) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Rockin' Christmas Blues](https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT) | 3:36 |
 | 15 | [Christmas Tears](https://open.spotify.com/track/3PueitHxV80BwcgQVl0qjt) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Oil \- The Complete Federal Recordings](https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ) | 2:47 |
 | 16 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2V0nezXHgQhEegaQzbpEfv) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:37 |

@@ -1,33 +1,13 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 202045,
+  "num_followers": 202060,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAB7IKImxq7OrgFfO+KyYRHe",
+  "snapshot_id": "Z3cogAAAAAAKAXo2PNwy0Gx9M8HkAiJB",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "He Has Done Great Things (Live)",
-        "url": "https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 355706,
-      "name": "He Has Done Great Things - Live",
-      "url": "https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr"
-    },
     {
       "added_at": null,
       "album": {
@@ -407,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "He Has Done Great Things (Live)",
+        "url": "https://open.spotify.com/album/1vOUij8gaWv4YJaD6BQs4d"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 355706,
+      "name": "He Has Done Great Things - Live",
+      "url": "https://open.spotify.com/track/0jIcFmVKk03dla4y9oP3Tr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+        "name": "We Will Not Be Shaken",
+        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
       },
       "artists": [
         {
@@ -588,13 +588,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 347566,
-      "name": "Reign Above It All (Live)",
-      "url": "https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa"
+      "duration_ms": 298681,
+      "name": "In Over My Head (Crash Over Me) [Live]",
+      "url": "https://open.spotify.com/track/13myOXIfOSldZ7GVz7LqQl"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Will Not Be Shaken",
-        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
       "artists": [
         {
@@ -628,13 +628,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
         }
       ],
-      "duration_ms": 298681,
-      "name": "In Over My Head (Crash Over Me) [Live]",
-      "url": "https://open.spotify.com/track/13myOXIfOSldZ7GVz7LqQl"
+      "duration_ms": 347566,
+      "name": "Reign Above It All (Live)",
+      "url": "https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 382600,
-      "name": "Egypt (Live)",
-      "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No One Like The Lord (Live)",
         "url": "https://open.spotify.com/album/0zKlGpmcShEFFSvWeWR8B0"
       },
@@ -699,6 +679,46 @@
       "duration_ms": 500300,
       "name": "No One Like The Lord (Live)",
       "url": "https://open.spotify.com/track/6R3Zp0J2CMp1CgZEQcfWPa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 317789,
+      "name": "By the Grace of God",
+      "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 382600,
+      "name": "Egypt (Live)",
+      "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
     },
     {
       "added_at": null,
@@ -727,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 317789,
-      "name": "By the Grace of God",
-      "url": "https://open.spotify.com/track/2RZnkyWDeEfq9iYrfFjHsH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Lifted High",
         "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
       },
@@ -763,6 +763,26 @@
       "duration_ms": 452520,
       "name": "God I Look to You",
       "url": "https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 295610,
+      "name": "I\u2019ll Be Everything",
+      "url": "https://open.spotify.com/track/7zwxsdRIYKJPs68hQae83C"
     },
     {
       "added_at": null,
@@ -803,26 +823,6 @@
       "duration_ms": 294155,
       "name": "Surrounded By Holy",
       "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 295610,
-      "name": "I\u2019ll Be Everything",
-      "url": "https://open.spotify.com/track/7zwxsdRIYKJPs68hQae83C"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 408826,
+      "name": "Our Father",
+      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 468274,
       "name": "Homecoming (Live)",
       "url": "https://open.spotify.com/track/59Sd4AqkDIlx1BnOgxOpXM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For the Sake of the World",
-        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 408826,
-      "name": "Our Father",
-      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
     },
     {
       "added_at": null,
@@ -1035,30 +1035,6 @@
       "duration_ms": 485396,
       "name": "Be Enthroned (Live)",
       "url": "https://open.spotify.com/track/4Q73DCRJjgfNP6cmW73Igw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 519770,
-      "name": "I Belong To Jesus (Live)",
-      "url": "https://open.spotify.com/track/3PO1bLMdUGmpRWnNuraEsn"
     }
   ],
   "unique_name": "This Is Bethel Music",

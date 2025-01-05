@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,959 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,978 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 44 | [El Raton](https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [A Man And His Music](https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89) | 3:50 |
 | 45 | [Fuego En El 23](https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Fuego En El 23](https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f) | 4:44 |
 | 46 | [Estamos en Salsa](https://open.spotify.com/track/0M1R4sg4ANP9lsTeAszqQH) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Rockola Salsa, Vol\. 1](https://open.spotify.com/album/5Mm4NtnQ4QyM2VuGvbEnHn) | 4:48 |
-| 47 | [Calle Luna Calle Sol](https://open.spotify.com/track/1R8FUoJjGt0YUzHFvrQ46E) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The Original Gangster](https://open.spotify.com/album/3JeCqt5x6vtDbGPYhGDmW6) | 3:48 |
+| 47 | [El Día De Mi Suerte](https://open.spotify.com/track/6Ac89NtfMzmvVKRNkvQiQ6) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 5:26 |
 | 48 | [Periodico De Ayer](https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy) | 6:47 |
 | 49 | [No No No](https://open.spotify.com/track/7o7IBUZOUdmvd7rOhHuFiM) | [Boogaloo Assassins](https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU) | [Old Love Dies Hard](https://open.spotify.com/album/3TMmBldOjrRCwxJd2czJ1B) | 5:27 |
 | 50 | [Catalina La O](https://open.spotify.com/track/5w5B1ccui0lRPR7Qh3yVyA) | [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Selecciones Fania](https://open.spotify.com/album/55Upg44ZfWsYFHNQnRPK43) | 5:12 |

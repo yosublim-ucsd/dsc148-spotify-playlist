@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 167925,
+  "num_followers": 167970,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAAnYaedqcCgjnOyMtLuGPYw",
+  "snapshot_id": "Z3cogAAAAABsH2WJY1F0vZLMqEaF79G/",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 224013,
-      "name": "Life Less Frightening",
-      "url": "https://open.spotify.com/track/27QBppG8UuQ8pRlbgIUPn4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
         "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 154200,
       "name": "Blind",
       "url": "https://open.spotify.com/track/0hpo6LuKFOGzXYald8qr9m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 224013,
+      "name": "Life Less Frightening",
+      "url": "https://open.spotify.com/track/27QBppG8UuQ8pRlbgIUPn4"
     },
     {
       "added_at": null,

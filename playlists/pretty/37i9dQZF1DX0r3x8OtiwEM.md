@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,620 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,863 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 28 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 |
 | 29 | [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 |
 | 30 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
-| 31 | [The Echo](https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [The Echo](https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS) | 4:30 |
-| 32 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 |
+| 31 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 |
+| 32 | [The Echo](https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [The Echo](https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS) | 4:30 |
 | 33 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 |
 | 34 | [Never Enough](https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Never Enough](https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO) | 3:32 |
 | 35 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 54 | [Don't Stop Me Now](https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Don't Stop Me Now](https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS) | 5:44 |
 | 55 | [Calmy](https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Calmy / Slowly](https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0) | 3:28 |
 | 56 | [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 |
-| 57 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
-| 58 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 |
+| 57 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 |
+| 58 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 59 | [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 |
 | 60 | [Breeze](https://open.spotify.com/track/57nxQGDHMkXUKoG3G4pQaL) | [D.Polo](https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB) | [Breeze](https://open.spotify.com/album/3cqMLf9yEPsMSSOQe7e02C) | 2:26 |
 

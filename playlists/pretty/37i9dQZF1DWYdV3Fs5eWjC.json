@@ -1,6 +1,6 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Kehlani",
-  "num_followers": 79411,
+  "num_followers": 79409,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
+      "added_at": "2023-05-25 04:09:32",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
       "added_at": "2021-08-03 17:22:27",
       "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
@@ -81,22 +97,6 @@
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
     },
     {
-      "added_at": "2022-05-31 20:14:29",
-      "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 133680,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL"
-    },
-    {
       "added_at": "2023-10-05 17:45:18",
       "album": {
         "name": "JAGUAR II",
@@ -113,20 +113,20 @@
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
-      "added_at": "2023-05-25 04:09:32",
+      "added_at": "2022-05-31 20:14:29",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+      "duration_ms": 133680,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL"
     },
     {
       "added_at": "2020-06-01 21:07:43",

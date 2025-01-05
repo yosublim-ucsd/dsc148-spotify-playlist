@@ -4,7 +4,7 @@
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 10 min
+64 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [STRIP](https://open.spotify.com/track/2T7Q50UA0YjrXJuRTLWXi2) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Geenuino, o PAI](https://open.spotify.com/artist/7En5XJruIoWKL6lgD7carJ), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [FEBRE AMARELA](https://open.spotify.com/album/6niwDsmhFpUuWWoiT9s3q4) | 4:37 | 2023-12-30 |  |
 | [SXO](https://open.spotify.com/track/4ifS9DM2X27qQE3MDqy7Y2) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [NTGM](https://open.spotify.com/album/5Sq44QGKjP8ogir826OnBb) | 2:57 | 2023-12-30 |  |
 | [Tanto Faz](https://open.spotify.com/track/7s6Raq8Yvdhjsa38Bnpp8t) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Tanto Faz](https://open.spotify.com/album/5KpJdmvfZhyew4cg0GLqHS) | 3:16 | 2023-12-30 |  |
-| [Temporary Lover](https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN) | [Adrian Jean](https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Temporary Lover](https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G) | 3:51 | 2023-12-30 |  |
+| [Temporary Lover](https://open.spotify.com/track/2VERl2PyQuLQdz0iteB4NO) | [Adrian Jean](https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Temporary Lover](https://open.spotify.com/album/6ZHopj9rFD6Hz6tCluHnFW) | 3:51 | 2025-01-05 |  |
+| [Temporary Lover](https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN) | [Adrian Jean](https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Temporary Lover](https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G) | 3:51 | 2023-12-30 | 2025-01-05 |
 | [Terapia](https://open.spotify.com/track/1HVXbcklvh8FTdEtMrOmHt) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 1:58 | 2023-12-30 |  |
 | [Tons \#3 \- Velocidade \(BR 101\) \[feat\. CRIVO\]](https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [CRIVO](https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe) | [Tons \#3 \- Velocidade \(BR 101\) \[feat\. CRIVO\]](https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5) | 3:01 | 2023-12-30 |  |
 | [Xoxo](https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Xoxo](https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv) | 2:10 | 2023-12-30 |  |

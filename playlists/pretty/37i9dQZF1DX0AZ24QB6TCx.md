@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,660 likes - 70 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,704 likes - 70 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 54 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
 | 55 | [Far Behind \- Jeremy Olander Remix](https://open.spotify.com/track/59GHYFeuqYdp6KX8HAvEAi) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [A Radiant Sign \(Remixed\)](https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM) | 3:47 |
 | 56 | [Hold Your Breath](https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r) | [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB) | [Hold Your Breath](https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3) | 3:11 |
-| 57 | [Love Story](https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC) | [Lui Mafuta](https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp) | [Love Story](https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc) | 5:50 |
-| 58 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
-| 59 | [Remote](https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w) | [MagnusTheMagnus](https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs) | [Remote](https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7) | 3:18 |
+| 57 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
+| 58 | [Remote](https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w) | [MagnusTheMagnus](https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs) | [Remote](https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7) | 3:18 |
+| 59 | [Love Story](https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC) | [Lui Mafuta](https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp) | [Love Story](https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc) | 5:50 |
 | 60 | [Secret Places \- Club Version](https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX), [Alexandros Miaris](https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS) | [Secret Places \(Club Version\)](https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i) | 6:57 |
 | 61 | [Home](https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Home](https://open.spotify.com/album/1tYBFehVECQYJRyCoyDj34) | 3:44 |
 | 62 | [What If I](https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [What If I](https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0) | 5:54 |

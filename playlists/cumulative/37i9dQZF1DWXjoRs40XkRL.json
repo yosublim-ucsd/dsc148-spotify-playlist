@@ -1645,6 +1645,36 @@
     },
     {
       "album": {
+        "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Souumil Shringarpure",
+          "url": "https://open.spotify.com/artist/5pyeAGPwGXVYaoodLVgjHS"
+        },
+        {
+          "name": "Dhananjay Mhaskar",
+          "url": "https://open.spotify.com/artist/2ZzR26zixSLhrRUHPDz4aF"
+        },
+        {
+          "name": "Sameer Samant",
+          "url": "https://open.spotify.com/artist/5uSpP62V9luVq2RqbUGFbh"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217078,
+      "name": "Garaj Garaj Rock",
+      "url": "https://open.spotify.com/track/7xoSO0L4sNEQiAlE2cVxg9"
+    },
+    {
+      "album": {
         "name": "Garjat Aayi Re",
         "url": "https://open.spotify.com/album/7zSXbsC4y9d7ylkApW3V8I"
       },
@@ -3920,7 +3950,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 254143,
       "name": "Muskurahat - Reprise",
       "url": "https://open.spotify.com/track/4GLNAf9xiBzLk63ElC5es5"

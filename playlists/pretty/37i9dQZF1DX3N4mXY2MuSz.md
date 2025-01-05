@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,655 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,614 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Christmas Canon](https://open.spotify.com/track/0O4vuJynWVVdyvoHvZtnk3) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [The Christmas Attic](https://open.spotify.com/album/6DsIXONf5oi48VDiCVG1bu) | 4:17 |
-| 2 | [December](https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:38 |
+| 1 | [December](https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:38 |
+| 2 | [Christmas Canon](https://open.spotify.com/track/0O4vuJynWVVdyvoHvZtnk3) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [The Christmas Attic](https://open.spotify.com/album/6DsIXONf5oi48VDiCVG1bu) | 4:17 |
 | 3 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 |
 | 4 | [I Won't Be Home For Christmas](https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [I Won't Be Home For Christmas](https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j) | 3:18 |
 | 5 | [All I Want for Christmas Is You \- 2005](https://open.spotify.com/track/5b3JH0PESwZeVr5TdUtHgy) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Gift Wrapped: Regifted](https://open.spotify.com/album/3mCaKiRTEdj52pxEbvh42A) | 3:44 |

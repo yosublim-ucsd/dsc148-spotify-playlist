@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 140074,
+  "num_followers": 140135,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Most of the Time",
-        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "And So it Goes",
         "url": "https://open.spotify.com/album/0tfPd7QamoduQalv7A376o"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 284750,
       "name": "And So it Goes",
       "url": "https://open.spotify.com/track/7AP03AuSv0uWp0i3ef9HaH"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Most of the Time",
+        "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -719,26 +719,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "River: The Joni Letters (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -759,18 +739,22 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Love Hurts",
-        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 285719,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
+      "duration_ms": 324960,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -787,6 +771,22 @@
       "duration_ms": 229493,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Love Hurts",
+        "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -823,30 +823,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2lfX30k8kJIaTbPBgKy4dX"
-      },
-      "artists": [
-        {
-          "name": "Gregoire Maret",
-          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
-        },
-        {
-          "name": "Romain Collin",
-          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
-        },
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 494222,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/3j6a1cE8SnCoIHmsuMQ84P"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "My New Old Friend",
         "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
@@ -879,6 +855,30 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2lfX30k8kJIaTbPBgKy4dX"
+      },
+      "artists": [
+        {
+          "name": "Gregoire Maret",
+          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 494222,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/3j6a1cE8SnCoIHmsuMQ84P"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
         "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
         "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 232253,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Don't Know Why",
+        "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
+      },
+      "artists": [
+        {
+          "name": "Trois Amis",
+          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
+        }
+      ],
+      "duration_ms": 179198,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Don't Know Why",
-        "url": "https://open.spotify.com/album/0cBXrplymCEbiJsABgYkV8"
-      },
-      "artists": [
-        {
-          "name": "Trois Amis",
-          "url": "https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7"
-        }
-      ],
-      "duration_ms": 179198,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/16F8ZSX2jOtcBQrKdVryWe"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 200750,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Technically Acceptable",
+        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Iverson",
+          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
+        }
+      ],
+      "duration_ms": 230389,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Technically Acceptable",
-        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
-      },
-      "artists": [
-        {
-          "name": "Ethan Iverson",
-          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
-        }
-      ],
-      "duration_ms": 230389,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+      },
+      "artists": [
+        {
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+        }
+      ],
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1083,22 +1099,6 @@
       "duration_ms": 411893,
       "name": "Fields of Gold - Live",
       "url": "https://open.spotify.com/track/1vAO8K5hBp5TollswpLnXX"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
-      },
-      "artists": [
-        {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
-        }
-      ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
-      },
-      "artists": [
-        {
-          "name": "Julius Rodriguez",
-          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
-        }
-      ],
-      "duration_ms": 280535,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1243,6 +1227,42 @@
       "duration_ms": 353941,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/01ggqwB4iUJO47fa0T0wln"
+      },
+      "artists": [
+        {
+          "name": "Julius Rodriguez",
+          "url": "https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF"
+        }
+      ],
+      "duration_ms": 280535,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Daylight at Midnight",
+        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
+      },
+      "artists": [
+        {
+          "name": "Taylor Eigsti",
+          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
+        },
+        {
+          "name": "Becca Stevens",
+          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1279,42 +1299,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Daylight at Midnight",
-        "url": "https://open.spotify.com/album/68WQeI53fmmHW8ouqsJM8d"
-      },
-      "artists": [
-        {
-          "name": "Taylor Eigsti",
-          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
-        },
-        {
-          "name": "Becca Stevens",
-          "url": "https://open.spotify.com/artist/0Sh2X6e3JerGnyEF0vDgbk"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/6973r1BsYvuWBlMMcMsK78"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
-        "name": "Blacknuss",
-        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
-      },
-      "artists": [
-        {
-          "name": "Rahsaan Roland Kirk",
-          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Here, There and Everywhere",
         "url": "https://open.spotify.com/album/7CC7BwM6EdBIFIDmM0tdq1"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 395625,
       "name": "Here, There and Everywhere",
       "url": "https://open.spotify.com/track/1tY4JU86oLsEfp3hnUtjwo"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Blacknuss",
+        "url": "https://open.spotify.com/album/1OnXBqIDGKpI3Y9qugJ85p"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Roland Kirk",
+          "url": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1mScOKklx8m8FvNcarYHOs"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Start Again EP",
-        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "One Flight Down",
-      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -1431,22 +1415,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
-      },
-      "artists": [
-        {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Life's Love Songs",
         "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
       },
@@ -1459,6 +1427,38 @@
       "duration_ms": 328192,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Start Again EP",
+        "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "One Flight Down",
+      "url": "https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
-        }
-      ],
-      "duration_ms": 252680,
-      "name": "Hey, That's No Way To Say Goodbye",
-      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Accelerando",
         "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 579160,
       "name": "Human Nature (Trio Extension)",
       "url": "https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "Hey, That's No Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
     },
     {
       "added_at": "2024-06-13 12:46:03",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-06-13 12:46:03",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
-      },
-      "artists": [
-        {
-          "name": "Marco Locurcio",
-          "url": "https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
-    },
-    {
-      "added_at": "2024-06-13 12:46:03",
-      "album": {
         "name": "Timeless Tales [For Changing Times]",
         "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 526533,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
+    },
+    {
+      "added_at": "2024-06-13 12:46:03",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
+      },
+      "artists": [
+        {
+          "name": "Marco Locurcio",
+          "url": "https://open.spotify.com/artist/2RACMOQxnNns6xRkyhmrY4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/0iJhPjzqVlPsvmzwT8PRtF"
     },
     {
       "added_at": "2024-06-13 12:46:03",

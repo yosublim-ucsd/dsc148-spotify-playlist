@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: HNTR",
-  "num_followers": 251059,
+  "num_followers": 251100,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-01-04 01:09:13",
       "album": {
+        "name": "Bel Mercy",
+        "url": "https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 169606,
+      "name": "Bel Mercy",
+      "url": "https://open.spotify.com/track/1635wWSdp29PO3GxYhy991"
+    },
+    {
+      "added_at": "2025-01-04 01:09:13",
+      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
-    },
-    {
-      "added_at": "2025-01-04 01:09:13",
-      "album": {
-        "name": "Bel Mercy",
-        "url": "https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 169606,
-      "name": "Bel Mercy",
-      "url": "https://open.spotify.com/track/1635wWSdp29PO3GxYhy991"
     },
     {
       "added_at": "2025-01-04 01:09:13",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2025-01-04 01:09:13",
       "album": {
+        "name": "Receipts (feat. Gunna)",
+        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "Receipts (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
+    },
+    {
+      "added_at": "2025-01-04 01:09:13",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
@@ -1211,30 +1235,6 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2025-01-04 01:09:13",
-      "album": {
-        "name": "Receipts (feat. Gunna)",
-        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "Receipts (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
     },
     {
       "added_at": "2025-01-04 01:09:13",
@@ -1283,30 +1283,6 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
-    },
-    {
-      "added_at": "2025-01-04 01:09:13",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
     },
     {
       "added_at": "2025-01-04 01:09:13",
@@ -1363,6 +1339,30 @@
       "duration_ms": 277298,
       "name": "The Veldt Cinema - BYNX Edit",
       "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
+    },
+    {
+      "added_at": "2025-01-04 01:09:13",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
     },
     {
       "added_at": "2025-01-04 01:09:13",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2025-01-04 01:09:13",
       "album": {
+        "name": "U Should Not Be Doing That",
+        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
+    },
+    {
+      "added_at": "2025-01-04 01:09:13",
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 284643,
       "name": "Zombie (feat. Valerie Broussard)",
       "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"
-    },
-    {
-      "added_at": "2025-01-04 01:09:13",
-      "album": {
-        "name": "U Should Not Be Doing That",
-        "url": "https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC"
     },
     {
       "added_at": "2025-01-04 01:09:13",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-01-04 01:09:13",
       "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
-    },
-    {
-      "added_at": "2025-01-04 01:09:13",
-      "album": {
         "name": "Vibrate / On The Ground",
         "url": "https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
+      "added_at": "2025-01-04 01:09:13",
+      "album": {
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
       "added_at": "2025-01-04 01:09:13",
@@ -2251,26 +2251,22 @@
     {
       "added_at": "2025-01-04 01:09:13",
       "album": {
-        "name": "Trippy Land",
-        "url": "https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI"
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
       },
       "artists": [
         {
-          "name": "Mersiv",
-          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 186461,
-      "name": "Trippy Land",
-      "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
+      "duration_ms": 194823,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
     },
     {
       "added_at": "2025-01-04 01:09:13",
@@ -2291,22 +2287,26 @@
     {
       "added_at": "2025-01-04 01:09:13",
       "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
+        "name": "Trippy Land",
+        "url": "https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
         },
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
         }
       ],
-      "duration_ms": 194823,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
+      "duration_ms": 186461,
+      "name": "Trippy Land",
+      "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
     },
     {
       "added_at": "2025-01-04 01:09:13",

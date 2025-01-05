@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/25E7mK5NcKtLTWj8Qs5q1N"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3bZQDQyabVOAwKNO8YyxRd"
+    },
+    {
+      "album": {
         "name": "$WISH ft. G-Eazy and Chance The Rapper",
         "url": "https://open.spotify.com/album/3kIkoRdH0qYoYOqS2FHNjN"
       },
@@ -3736,7 +3754,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 203506,
       "name": "Benjamin B",
       "url": "https://open.spotify.com/track/2LbaDVLXucsYtUdPGWshfG"
@@ -8160,10 +8178,28 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 511493,
       "name": "Cut Your Roses Down - Sure Is Pure Mix",
       "url": "https://open.spotify.com/track/3hjeXsviEwD98QDIuDWMQR"
+    },
+    {
+      "album": {
+        "name": "Cut Your Roses Down (Sure Is Pure Mix)",
+        "url": "https://open.spotify.com/album/3y823dxddhM3K7drjMZt4u"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511493,
+      "name": "Cut Your Roses Down - Sure Is Pure Mix",
+      "url": "https://open.spotify.com/track/5GhzWt6dtmUqsWugWI16MU"
     },
     {
       "album": {
@@ -17720,7 +17756,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 577118,
       "name": "Holiday JamGoodTime",
       "url": "https://open.spotify.com/track/2UJMvfQDL0jmCsBt2dIrxz"
@@ -18298,7 +18334,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 202937,
       "name": "Hymn to Virgil",
       "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
@@ -23100,7 +23136,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 578202,
       "name": "Lingus - Alternate Take",
       "url": "https://open.spotify.com/track/5jKq0VCeyGhvk8VxneKc2F"
@@ -23530,7 +23566,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 200563,
       "name": "Lonely Road (feat. Terrace Martin)",
       "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
@@ -41394,7 +41430,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -41580,24 +41616,6 @@
       "duration_ms": 221538,
       "name": "Triflin' - ethrlmx",
       "url": "https://open.spotify.com/track/2wRiofZ5CcG1HfAQ0j9PVG"
-    },
-    {
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/25E7mK5NcKtLTWj8Qs5q1N"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean Blonded",
-          "url": "https://open.spotify.com/artist/5k4mzBL9YuQM0BFDcPrslA"
-        }
-      ],
-      "date_added": "2024-12-27",
-      "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
-      "duration_ms": 157570,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3bZQDQyabVOAwKNO8YyxRd"
     },
     {
       "album": {
@@ -42266,6 +42284,36 @@
       "duration_ms": 196129,
       "name": "Unpredictable",
       "url": "https://open.spotify.com/track/5GdgI8N4V0IHPgiPfvlGnW"
+    },
+    {
+      "album": {
+        "name": "Let Us Pray: Chapter X",
+        "url": "https://open.spotify.com/album/4Uwc1AZZlUPPjq5tifmpug"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241040,
+      "name": "Until I\u2019m Gone",
+      "url": "https://open.spotify.com/track/6gkLJU6A3i1N9nbIwRuphC"
     },
     {
       "album": {

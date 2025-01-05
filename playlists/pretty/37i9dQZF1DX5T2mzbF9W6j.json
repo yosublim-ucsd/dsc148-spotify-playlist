@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110421,
+  "num_followers": 110426,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
+        "name": "Timeless (Deluxe)",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/7xrEnNo99wrmIs8ZK3RZMK"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
-        "name": "Timeless (Deluxe)",
-        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 154504,
-      "name": "Criminals",
-      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
     },
     {
       "added_at": "2024-12-09 10:33:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
+        "name": "Oh, Natalie",
+        "url": "https://open.spotify.com/album/4v8boV2BplPNBfXw4YcQbU"
+      },
+      "artists": [
+        {
+          "name": "UNKLFNKL",
+          "url": "https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW"
+        }
+      ],
+      "duration_ms": 121397,
+      "name": "Oh, Natalie",
+      "url": "https://open.spotify.com/track/6TBxVHcy4JOBlEKUzAnxaT"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
         "name": "Falling Back",
         "url": "https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 189560,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
-        "name": "Oh, Natalie",
-        "url": "https://open.spotify.com/album/4v8boV2BplPNBfXw4YcQbU"
-      },
-      "artists": [
-        {
-          "name": "UNKLFNKL",
-          "url": "https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW"
-        }
-      ],
-      "duration_ms": 121397,
-      "name": "Oh, Natalie",
-      "url": "https://open.spotify.com/track/6TBxVHcy4JOBlEKUzAnxaT"
     }
   ],
   "unique_name": "... ale najpierw kawa",

@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 168899,
+  "num_followers": 169065,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-18 13:33:29",
       "album": {
-        "name": "Eish Besho'ak",
-        "url": "https://open.spotify.com/album/7u14kRIlBjFL0sAfNnaOis"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 239351,
-      "name": "Helm Seneen",
-      "url": "https://open.spotify.com/track/16himVwawH5yHZGEj8nhCd"
-    },
-    {
-      "added_at": "2024-12-18 13:33:29",
-      "album": {
         "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
         "url": "https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 216108,
       "name": "\u064a\u0627\u0645\u0627 \u0644\u064a\u0627\u0644\u0649 \u0648\u0627\u0646\u062a \u0645\u0634 \u0645\u0639\u0627\u064a\u0627",
       "url": "https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn"
+    },
+    {
+      "added_at": "2024-12-18 13:33:29",
+      "album": {
+        "name": "Eish Besho'ak",
+        "url": "https://open.spotify.com/album/7u14kRIlBjFL0sAfNnaOis"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 239351,
+      "name": "Helm Seneen",
+      "url": "https://open.spotify.com/track/16himVwawH5yHZGEj8nhCd"
     },
     {
       "added_at": "2024-12-18 13:33:29",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-18 13:33:29",
       "album": {
-        "name": "Ana Sekketen",
-        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
-      },
-      "artists": [
-        {
-          "name": "Elissa",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
-        }
-      ],
-      "duration_ms": 297597,
-      "name": "\u2060Ana Sekketen",
-      "url": "https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp"
-    },
-    {
-      "added_at": "2024-12-18 13:33:29",
-      "album": {
         "name": "Ekhtart Sah",
         "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 316880,
       "name": "Etamen",
       "url": "https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa"
+    },
+    {
+      "added_at": "2024-12-18 13:33:29",
+      "album": {
+        "name": "Ana Sekketen",
+        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "duration_ms": 297597,
+      "name": "\u2060Ana Sekketen",
+      "url": "https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp"
     },
     {
       "added_at": "2024-12-18 13:33:29",
@@ -811,38 +811,6 @@
     {
       "added_at": "2024-12-18 13:33:29",
       "album": {
-        "name": "Beiny we Beinak",
-        "url": "https://open.spotify.com/album/4PpzhwjYyUeAWhmZMA96Le"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Batshan",
-          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
-        }
-      ],
-      "duration_ms": 206015,
-      "name": "Beiny we Beinak",
-      "url": "https://open.spotify.com/track/6QF6pUccUrZTj3PXeubsZa"
-    },
-    {
-      "added_at": "2024-12-18 13:33:29",
-      "album": {
-        "name": "3Einy Shayfa Feky",
-        "url": "https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "3Einy Shayfa Feky",
-      "url": "https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD"
-    },
-    {
-      "added_at": "2024-12-18 13:33:29",
-      "album": {
         "name": "Mawahashtkesh !!?",
         "url": "https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk"
       },
@@ -855,6 +823,22 @@
       "duration_ms": 327456,
       "name": "Mawahashtkesh !!? - From Hormone El Saada Album",
       "url": "https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd"
+    },
+    {
+      "added_at": "2024-12-18 13:33:29",
+      "album": {
+        "name": "Beiny we Beinak",
+        "url": "https://open.spotify.com/album/4PpzhwjYyUeAWhmZMA96Le"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+        }
+      ],
+      "duration_ms": 206015,
+      "name": "Beiny we Beinak",
+      "url": "https://open.spotify.com/track/6QF6pUccUrZTj3PXeubsZa"
     },
     {
       "added_at": "2024-12-18 13:33:29",
@@ -875,6 +859,22 @@
     {
       "added_at": "2024-12-18 13:33:29",
       "album": {
+        "name": "3Einy Shayfa Feky",
+        "url": "https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "3Einy Shayfa Feky",
+      "url": "https://open.spotify.com/track/4rw8BWRPe0wlHnJA0T8MkD"
+    },
+    {
+      "added_at": "2024-12-18 13:33:29",
+      "album": {
         "name": "Awel Mara Etabelna",
         "url": "https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 218827,
       "name": "Awel Mara Etabelna",
       "url": "https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq"
+    },
+    {
+      "added_at": "2024-12-18 13:33:29",
+      "album": {
+        "name": "Ekhtart Sah",
+        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Ya Waheshny",
+      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
     },
     {
       "added_at": "2024-12-18 13:33:29",
@@ -991,22 +1007,6 @@
       "duration_ms": 194116,
       "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
       "url": "https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT"
-    },
-    {
-      "added_at": "2024-12-18 13:33:29",
-      "album": {
-        "name": "Ekhtart Sah",
-        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Ya Waheshny",
-      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
     },
     {
       "added_at": "2024-12-18 13:33:29",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-12-18 13:33:29",
       "album": {
-        "name": "\u062a\u0639\u0631\u0641 \u0627\u062d\u0633\u0627\u0633",
-        "url": "https://open.spotify.com/album/6qxBeW6FV4ysiVT3QyyvDW"
-      },
-      "artists": [
-        {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
-        }
-      ],
-      "duration_ms": 187894,
-      "name": "\u062a\u0639\u0631\u0641 \u0627\u062d\u0633\u0627\u0633",
-      "url": "https://open.spotify.com/track/1qzj2e4mUYpTDXtyCqczet"
-    },
-    {
-      "added_at": "2024-12-18 13:33:29",
-      "album": {
         "name": "7elm B3eed",
         "url": "https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 316264,
       "name": "7elm B3eed",
       "url": "https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y"
+    },
+    {
+      "added_at": "2024-12-18 13:33:29",
+      "album": {
+        "name": "\u062a\u0639\u0631\u0641 \u0627\u062d\u0633\u0627\u0633",
+        "url": "https://open.spotify.com/album/6qxBeW6FV4ysiVT3QyyvDW"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "duration_ms": 187894,
+      "name": "\u062a\u0639\u0631\u0641 \u0627\u062d\u0633\u0627\u0633",
+      "url": "https://open.spotify.com/track/1qzj2e4mUYpTDXtyCqczet"
     },
     {
       "added_at": "2024-12-18 13:33:29",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-12-18 13:33:29",
       "album": {
-        "name": "Ya Nas",
-        "url": "https://open.spotify.com/album/6OKavRiNQqvDCvOm9KSu1b"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 280566,
-      "name": "Ya Nas",
-      "url": "https://open.spotify.com/track/3MDT6ZQtjHzeV0C1oZXoqZ"
-    },
-    {
-      "added_at": "2024-12-18 13:33:29",
-      "album": {
         "name": "Batamenak",
         "url": "https://open.spotify.com/album/7k3PIF19g9LejhZg2lizOV"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 291226,
       "name": "Batamenak",
       "url": "https://open.spotify.com/track/3FozW42AAcwXxdzmj0nnrE"
+    },
+    {
+      "added_at": "2024-12-18 13:33:29",
+      "album": {
+        "name": "\u062d\u0627\u0644\u0629 \u062d\u0628",
+        "url": "https://open.spotify.com/album/6ZOqtsofNgZTmB7QaTeL74"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "duration_ms": 309290,
+      "name": "\u062d\u0627\u0644\u0629 \u062d\u0628",
+      "url": "https://open.spotify.com/track/39p66qAicNOejp5HezzEhx"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

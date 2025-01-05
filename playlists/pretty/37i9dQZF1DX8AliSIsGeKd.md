@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Jil Tanner,  Patrick Scuro, VEENMOL
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,455 likes - 90 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,577 likes - 90 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

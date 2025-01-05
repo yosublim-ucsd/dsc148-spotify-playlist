@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 11 min
+82 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Demente](https://open.spotify.com/track/2ITfHO15LB2CFYKEhSS3dE) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Demente](https://open.spotify.com/album/0Co0kJYJLDW3Y7nG56jZLc) | 3:07 | 2023-11-10 |  |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2023-11-10 |  |
 | [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 | 2023-11-10 |  |
+| [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf) | 3:28 | 2025-01-05 |  |
 | [EL CONDENAO](https://open.spotify.com/track/2vzj0JE2QKuzZqmevbEpF2) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [EL CONDENAO](https://open.spotify.com/album/5jXjs9ydpvVfPnX8fmB5ib) | 2:24 | 2024-01-13 | 2024-03-18 |
 | [EL CONDENAO](https://open.spotify.com/track/6Ve9LTqkZJqf9qj1S7sQ7q) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:24 | 2024-03-17 |  |
 | [EL CONDENAO](https://open.spotify.com/track/74fSQUoDZUraMRdrniMcpX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:24 | 2023-12-16 | 2024-01-14 |

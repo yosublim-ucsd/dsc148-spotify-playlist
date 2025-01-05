@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 
 > There's no stopping the game\. Listen to the music from Squid Game, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,878 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,756 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

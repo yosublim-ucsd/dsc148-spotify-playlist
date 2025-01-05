@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 116717,
+  "num_followers": 116750,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Rumble",
         "url": "https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 146571,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Going Kokomo",
-      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Not Today",
-        "url": "https://open.spotify.com/album/1mnkQmiqItiPZVAu4jrk14"
-      },
-      "artists": [
-        {
-          "name": "Matata",
-          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
-        },
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/2iGu9F7QQXW8h7Er5c8Gq3"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "I Just Wanna Dance",
         "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 163750,
       "name": "I Just Wanna Dance",
       "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Not Today",
+        "url": "https://open.spotify.com/album/1mnkQmiqItiPZVAu4jrk14"
+      },
+      "artists": [
+        {
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/2iGu9F7QQXW8h7Er5c8Gq3"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "THAT GIRL",
+        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "I Can't Stay",
         "url": "https://open.spotify.com/album/3p4oXVXJ7PK0POkgQ6a87U"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 257828,
       "name": "I Can't Stay",
       "url": "https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "THAT GIRL",
-        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 125800,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
     },
     {
       "added_at": "2023-11-20 15:00:00",

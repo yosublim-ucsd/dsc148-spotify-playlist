@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,167 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,225 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,15 +83,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 73 | [Im so Wavy \- Original Mix](https://open.spotify.com/track/72J9PigDQEKIIrnRbj6Dsa) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Im so Wavy](https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18) | 3:28 |
 | 74 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
 | 75 | [Bad City](https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Bad City](https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0) | 6:21 |
-| 76 | [Nothing Hurts](https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Nothing Hurts](https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH) | 3:09 |
-| 77 | [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 |
+| 76 | [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 |
+| 77 | [Nothing Hurts](https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Nothing Hurts](https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH) | 3:09 |
 | 78 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
 | 79 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
 | 80 | [Bumpin'](https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a) | [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [ENDZ058](https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi) | 6:14 |
-| 81 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
-| 82 | [Work It](https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Work It EP](https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT) | 3:14 |
-| 83 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
-| 84 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
+| 81 | [Work It](https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Work It EP](https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT) | 3:14 |
+| 82 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
+| 83 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
+| 84 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
 | 85 | [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 |
 | 86 | [In You](https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [In You](https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY) | 6:13 |
 | 87 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 93 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
 | 94 | [Breaking Dollars](https://open.spotify.com/track/7MNdA4KvxD2qFilUBt8sys) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN) | [Breaking Dollars EP](https://open.spotify.com/album/0gQRXmpuaO39p8WwTRLiRL) | 3:11 |
 | 95 | [Break It Down](https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:09 |
-| 96 | [Lick It](https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud) | [J.K\. Rollin](https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ) | [Put Your Hands Up For Cologne](https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT) | 6:48 |
+| 96 | [TRY](https://open.spotify.com/track/5TIJovxYDOWg1PZgg1U72L) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [TRY](https://open.spotify.com/album/4SHzItVpwXBI1C4EDvXdxn) | 2:47 |
 | 97 | [Tribal Badman](https://open.spotify.com/track/6Fvzozbq17iFwej6D0vuOE) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Tribal Badman](https://open.spotify.com/album/6RhN7hwwVezdN1tlOz7sZs) | 3:32 |
-| 98 | [TRY](https://open.spotify.com/track/5TIJovxYDOWg1PZgg1U72L) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [TRY](https://open.spotify.com/album/4SHzItVpwXBI1C4EDvXdxn) | 2:47 |
+| 98 | [Lick It](https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud) | [J.K\. Rollin](https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ) | [Put Your Hands Up For Cologne](https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT) | 6:48 |
 | 99 | [Who Is That Guy?](https://open.spotify.com/track/4e1yMRmbQgImcm5ue58y4D) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe) | [Who Is That Guy?](https://open.spotify.com/album/2BzDvz4ZGq8abo22wP4Vyj) | 4:18 |
 | 100 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
 

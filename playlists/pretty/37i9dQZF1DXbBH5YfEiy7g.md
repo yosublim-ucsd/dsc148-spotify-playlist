@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=MonoFqtvS6GfQXd7aucDxA">Xolly Mncwango</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,765 likes - 92 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,905 likes - 92 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 13 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
 | 14 | [Yibanathi](https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Yibanathi](https://open.spotify.com/album/76un37X1FHebVoU6wUzTcm) | 5:07 |
 | 15 | [Nginguthandiwe](https://open.spotify.com/track/5urEXwziw47MhSwePbbl4J) | [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Nginguthandiwe](https://open.spotify.com/album/6fdhhcKe1xHCLV4cPV3xxR) | 6:19 |
-| 16 | [Ujesu Ulidwala \- Live](https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Ujesu Ulidwala \(Live\)](https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ) | 6:39 |
+| 16 | [UJesu ULidwala \- Live](https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [UJesu ULidwala \(Live\)](https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ) | 6:39 |
 | 17 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
 | 18 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 |
 | 19 | [Uzugcin'impilo Yam'](https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Spiritual Encounter](https://open.spotify.com/album/5g67VAWvcanS2t2TfH4er1) | 6:15 |

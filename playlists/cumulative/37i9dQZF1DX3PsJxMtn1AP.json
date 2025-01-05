@@ -7945,6 +7945,24 @@
     },
     {
       "album": {
+        "name": "wanderlust",
+        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
+      },
+      "artists": [
+        {
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184504,
+      "name": "wanderlust",
+      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
+    },
+    {
+      "album": {
         "name": "We Were We Still Are",
         "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },

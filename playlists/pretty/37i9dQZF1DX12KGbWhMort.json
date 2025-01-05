@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 184355,
+  "num_followers": 184377,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
-        "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
-        "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Amaia Montero",
-          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
-        }
-      ],
-      "duration_ms": 310866,
-      "name": "Sin miedo a nada (feat. Amaia Montero)",
-      "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
-    },
-    {
-      "added_at": "2024-06-14 13:38:24",
-      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 291106,
       "name": "Hoy Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
+    },
+    {
+      "added_at": "2024-06-14 13:38:24",
+      "album": {
+        "name": "\u00bfQu\u00e9 pides t\u00fa? (Argentina)",
+        "url": "https://open.spotify.com/album/7cJiLvzLDaEhi2K4pfPYjl"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Amaia Montero",
+          "url": "https://open.spotify.com/artist/4LbuSjHhhAddvN44qXpRJo"
+        }
+      ],
+      "duration_ms": 310866,
+      "name": "Sin miedo a nada (feat. Amaia Montero)",
+      "url": "https://open.spotify.com/track/02bKaAG61tMw9c63fzKXal"
     },
     {
       "added_at": "2024-06-14 13:38:24",
@@ -959,18 +959,22 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
-        "name": "Ida y Vuelta",
-        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
+        "name": "Radio la Colifata Presenta: El Canto del Loco",
+        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
       },
       "artists": [
         {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 214720,
-      "name": "Aunque Ahora Est\u00e9s Con El",
-      "url": "https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z"
+      "duration_ms": 214853,
+      "name": "Contigo (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
     },
     {
       "added_at": "2024-06-14 13:38:24",
@@ -991,22 +995,18 @@
     {
       "added_at": "2024-06-14 13:38:24",
       "album": {
-        "name": "Radio la Colifata Presenta: El Canto del Loco",
-        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
+        "name": "Ida y Vuelta",
+        "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
       },
       "artists": [
         {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Contigo (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
+      "duration_ms": 214720,
+      "name": "Aunque Ahora Est\u00e9s Con El",
+      "url": "https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z"
     },
     {
       "added_at": "2024-06-14 13:38:24",

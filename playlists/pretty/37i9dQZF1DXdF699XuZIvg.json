@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 688337,
+  "num_followers": 688305,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 220310,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Paradigm",
-        "url": "https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ"
-      },
-      "artists": [
-        {
-          "name": "Eclipse",
-          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
-        }
-      ],
-      "duration_ms": 191669,
-      "name": "Viva La Victoria",
-      "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "The Rise of Chaos",
         "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 299720,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ"
+      },
+      "artists": [
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr"
+        }
+      ],
+      "duration_ms": 191669,
+      "name": "Viva La Victoria",
+      "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
     },
     {
       "added_at": "2024-11-12 16:18:09",

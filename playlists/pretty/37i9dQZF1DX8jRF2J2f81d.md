@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 
 > The playlist for students, by students\. Powered by Student Music Network and URF at University of Sussex ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,404 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,405 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 237627,
+  "num_followers": 237657,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3SFgAAAAADB0EumCa9Drb26GDhRJ5X5",
+  "snapshot_id": "Z3cogAAAAADyV/7bZD+5H8SHKdDfRJSK",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "De Antes",
+      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 242413,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "De Antes",
-      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
     },
     {
       "added_at": null,

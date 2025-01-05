@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1640851,
+  "num_followers": 1641222,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Mixed For Feet, Vol. 1",
+        "url": "https://open.spotify.com/album/7c2dvQQO2RiQUOLlxUJYrQ"
+      },
+      "artists": [
+        {
+          "name": "Andain",
+          "url": "https://open.spotify.com/artist/12hXa5arH0RHd2Ec7zjSNy"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3SbCWIF7UaSewGfGHkFEI2"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "90s 100 Hits",
         "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 250440,
       "name": "You're Not Alone - Radio Edit",
       "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Mixed For Feet, Vol. 1",
-        "url": "https://open.spotify.com/album/7c2dvQQO2RiQUOLlxUJYrQ"
-      },
-      "artists": [
-        {
-          "name": "Andain",
-          "url": "https://open.spotify.com/artist/12hXa5arH0RHd2Ec7zjSNy"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3SbCWIF7UaSewGfGHkFEI2"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1687,6 +1687,54 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
+      },
+      "artists": [
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
+      "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Back 2 House",
+        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1719,38 +1767,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Back 2 House",
-        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
-      },
-      "artists": [
-        {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 567106,
       "name": "Halcyon and On and On",
       "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar"
-      },
-      "artists": [
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Imagination - Ti\u00ebsto Remix Radio Edit",
-      "url": "https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ"
     },
     {
       "added_at": "2024-07-12 15:40:20",

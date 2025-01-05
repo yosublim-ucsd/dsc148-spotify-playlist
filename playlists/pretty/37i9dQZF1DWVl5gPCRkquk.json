@@ -1,6 +1,6 @@
 {
   "description": "Cozy tunes for big winter chilling ",
-  "num_followers": 2064052,
+  "num_followers": 2064106,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-12-20 18:16:19",
       "album": {
+        "name": "How It Was It Will Never Be Again",
+        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "How It Was It Will Never Be Again",
+      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
+    },
+    {
+      "added_at": "2024-12-20 18:16:19",
+      "album": {
         "name": "For Sale Sign (feat. Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 266666,
       "name": "For Sale Sign (feat. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
-    },
-    {
-      "added_at": "2024-12-20 18:16:19",
-      "album": {
-        "name": "How It Was It Will Never Be Again",
-        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 136980,
-      "name": "How It Was It Will Never Be Again",
-      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
     },
     {
       "added_at": "2024-12-20 18:16:19",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-12-20 18:16:19",
       "album": {
-        "name": "Lose You Now",
-        "url": "https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 198572,
-      "name": "Lose You Now",
-      "url": "https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe"
-    },
-    {
-      "added_at": "2024-12-20 18:16:19",
-      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 272214,
       "name": "Confession",
       "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
+    },
+    {
+      "added_at": "2024-12-20 18:16:19",
+      "album": {
+        "name": "Lose You Now",
+        "url": "https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 198572,
+      "name": "Lose You Now",
+      "url": "https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe"
     },
     {
       "added_at": "2024-12-20 18:16:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-20 18:16:19",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 250574,
-      "name": "Strawberry Woman",
-      "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
-    },
-    {
-      "added_at": "2024-12-20 18:16:19",
-      "album": {
         "name": "Sugar For Bugs",
         "url": "https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 229996,
       "name": "Rascal",
       "url": "https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO"
+    },
+    {
+      "added_at": "2024-12-20 18:16:19",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 250574,
+      "name": "Strawberry Woman",
+      "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
     },
     {
       "added_at": "2024-12-20 18:16:19",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-12-20 18:16:19",
       "album": {
-        "name": "boys, bugs and men",
-        "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 186763,
-      "name": "boys, bugs and men",
-      "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
-    },
-    {
-      "added_at": "2024-12-20 18:16:19",
-      "album": {
         "name": "ellipsis",
         "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 243314,
       "name": "ellipsis",
       "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
+    },
+    {
+      "added_at": "2024-12-20 18:16:19",
+      "album": {
+        "name": "boys, bugs and men",
+        "url": "https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 186763,
+      "name": "boys, bugs and men",
+      "url": "https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6"
     },
     {
       "added_at": "2024-12-20 18:16:19",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-20 18:16:19",
       "album": {
-        "name": "Simple Syrup",
-        "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "Lucid Lucy",
-      "url": "https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ"
-    },
-    {
-      "added_at": "2024-12-20 18:16:19",
-      "album": {
         "name": "Same Sun EP",
         "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-12-20 18:16:19",
       "album": {
+        "name": "Simple Syrup",
+        "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Lucid Lucy",
+      "url": "https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ"
+    },
+    {
+      "added_at": "2024-12-20 18:16:19",
+      "album": {
         "name": "First Mind",
         "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-12-20 18:16:19",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
-    },
-    {
-      "added_at": "2024-12-20 18:16:19",
-      "album": {
         "name": "We're Starting to Look Like Each Other",
         "url": "https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 243969,
       "name": "Hitchhiking",
       "url": "https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu"
+    },
+    {
+      "added_at": "2024-12-20 18:16:19",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
     },
     {
       "added_at": "2024-12-20 18:16:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-12-20 18:16:19",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/4A1gwFrLpRYJt2WQXaa6BT"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 271777,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP"
-    },
-    {
-      "added_at": "2024-12-20 18:16:19",
-      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 163403,
       "name": "On Wrong Side (with Bon Iver)",
       "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
+    },
+    {
+      "added_at": "2024-12-20 18:16:19",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/4A1gwFrLpRYJt2WQXaa6BT"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 271777,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP"
     },
     {
       "added_at": "2024-12-20 18:16:19",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-12-20 18:16:19",
       "album": {
-        "name": "Here Comes The Comeback",
-        "url": "https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 162101,
-      "name": "Here Comes The Comeback",
-      "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
-    },
-    {
-      "added_at": "2024-12-20 18:16:19",
-      "album": {
         "name": "Whiskey Whiskey",
         "url": "https://open.spotify.com/album/37vW9MedFrxDPmdQlKz5dB"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 169805,
       "name": "Whiskey Whiskey",
       "url": "https://open.spotify.com/track/12oNWDCd6iK6NIsCZFg3B0"
+    },
+    {
+      "added_at": "2024-12-20 18:16:19",
+      "album": {
+        "name": "Here Comes The Comeback",
+        "url": "https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 162101,
+      "name": "Here Comes The Comeback",
+      "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
     },
     {
       "added_at": "2024-12-20 18:16:19",

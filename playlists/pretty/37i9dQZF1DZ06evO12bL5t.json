@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 129803,
+  "num_followers": 129825,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAArd9yiutHlOPAgq080xIGr",
+  "snapshot_id": "Z3cogAAAAABQRhsKem+73IbzLMZyr40m",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 207898,
+      "name": "Con la Bola",
+      "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Pilas",
         "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 165458,
       "name": "Bien Pilas",
       "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 207898,
-      "name": "Con la Bola",
-      "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
     },
     {
       "added_at": null,
@@ -723,34 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bank Robbery (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "The Bank Robbery",
-      "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' las Vibras 2",
         "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
       },
@@ -779,6 +751,34 @@
       "duration_ms": 218794,
       "name": "Van y Vienen",
       "url": "https://open.spotify.com/track/4gsfGbwx8F4p0Ob7XkoRTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bank Robbery (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "The Bank Robbery",
+      "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
     },
     {
       "added_at": null,

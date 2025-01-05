@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 63697,
+  "num_followers": 63734,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Ando High",
         "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 165875,
       "name": "Ando High",
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Se Va (feat. Cumbiafrica)",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Abra (feat. AMY MIY\u00da)",
         "url": "https://open.spotify.com/album/7mgE77YtjcOFQiYKsu07ZQ"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 132824,
       "name": "Abra (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/1rEbr1mNQaZZmed7qrC2zt"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Se Va (feat. Cumbiafrica)",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
+        "name": "Barah\u00fanda",
+        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
+      },
+      "artists": [
+        {
+          "name": "Monge",
+          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
+        }
+      ],
+      "duration_ms": 139082,
+      "name": "Barah\u00fanda",
+      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
         "name": "El Beso (feat. Mathieu Ruz)",
         "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 211547,
       "name": "El Beso (feat. Mathieu Ruz)",
       "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
-        "name": "Barah\u00fanda",
-        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
-      },
-      "artists": [
-        {
-          "name": "Monge",
-          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
-        }
-      ],
-      "duration_ms": 139082,
-      "name": "Barah\u00fanda",
-      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
-        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
-      },
-      "artists": [
-        {
-          "name": "Joseph Sinatra",
-          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
-        },
-        {
-          "name": "Joe Mangione",
-          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
-        }
-      ],
-      "duration_ms": 167578,
-      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
-      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Cuando Fue (feat. Jay Wheeler)",
         "url": "https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 183310,
       "name": "Cuando Fue (feat. Jay Wheeler)",
       "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
+        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sinatra",
+          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
+        },
+        {
+          "name": "Joe Mangione",
+          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
+        }
+      ],
+      "duration_ms": 167578,
+      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
+      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1471,22 +1471,26 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Noche Y Dia",
-        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
+        "name": "Pasto Y Perico (feat Jay Vazquez)",
+        "url": "https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud"
       },
       "artists": [
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
         },
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          "name": "Hotel Dieu",
+          "url": "https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9"
+        },
+        {
+          "name": "Jay V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj"
         }
       ],
-      "duration_ms": 152601,
-      "name": "Noche Y Dia",
-      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
+      "duration_ms": 167441,
+      "name": "Pasto Y Perico",
+      "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1511,26 +1515,22 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Pasto Y Perico (feat Jay Vazquez)",
-        "url": "https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud"
+        "name": "Noche Y Dia",
+        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
       },
       "artists": [
         {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
         },
         {
-          "name": "Hotel Dieu",
-          "url": "https://open.spotify.com/artist/3QDq76AYkHaotSMANOG1W9"
-        },
-        {
-          "name": "Jay V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/65it9QYg2Trf2APW4GjpQj"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
         }
       ],
-      "duration_ms": 167441,
-      "name": "Pasto Y Perico",
-      "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
+      "duration_ms": 152601,
+      "name": "Noche Y Dia",
+      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Te Recorde",
-        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Subelo NEO",
-          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Te Recorde",
-      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Bidi Bam",
         "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 120930,
       "name": "Bidi Bam",
       "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Te Recorde",
+        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Te Recorde",
+      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1755,30 +1755,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "HAHAHA EP",
-        "url": "https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC"
-      },
-      "artists": [
-        {
-          "name": "MC Menor MT",
-          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
-        },
-        {
-          "name": "bewav",
-          "url": "https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM"
-        },
-        {
-          "name": "Stizi",
-          "url": "https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "HAHAHA",
-      "url": "https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Afloja",
         "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
       },
@@ -1799,6 +1775,30 @@
       "duration_ms": 183281,
       "name": "Afloja",
       "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "HAHAHA EP",
+        "url": "https://open.spotify.com/album/5xE9VX43NpuQEmAh94aUZC"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "bewav",
+          "url": "https://open.spotify.com/artist/7mQScd8jtZwkokSos5T3RM"
+        },
+        {
+          "name": "Stizi",
+          "url": "https://open.spotify.com/artist/7moIdr6bVKI6UGneM3OV42"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "HAHAHA",
+      "url": "https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Locamente",
-        "url": "https://open.spotify.com/album/5akhXBcvTPaVGrKDwvi711"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 139687,
-      "name": "Locamente",
-      "url": "https://open.spotify.com/track/54LL57cecNcm6sNmTglKPH"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Cuarto Oscuro / BAQ Spicy",
         "url": "https://open.spotify.com/album/4aYbDplG4136xb7Umtfq6r"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Locamente",
+        "url": "https://open.spotify.com/album/5akhXBcvTPaVGrKDwvi711"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "Locamente",
+      "url": "https://open.spotify.com/track/54LL57cecNcm6sNmTglKPH"
     },
     {
       "added_at": "2024-12-20 05:00:31",

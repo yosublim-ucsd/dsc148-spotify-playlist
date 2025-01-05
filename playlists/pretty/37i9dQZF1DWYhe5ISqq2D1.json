@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u9ad8\u6a4b\u512a",
-  "num_followers": 57021,
+  "num_followers": 57022,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "sanagi",
-        "url": "https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob"
+        "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/28DVTgvUMIxHDP7TLc2v7e"
       },
       "artists": [
         {
-          "name": "Kei Sugawara",
-          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+          "name": "Soala",
+          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
         }
       ],
-      "duration_ms": 195493,
-      "name": "\u4e0d\u5b8c\u5168\u306b\u604b",
-      "url": "https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC"
+      "duration_ms": 203918,
+      "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5finLAgliculAikONZQpwG"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/28DVTgvUMIxHDP7TLc2v7e"
+        "name": "sanagi",
+        "url": "https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob"
       },
       "artists": [
         {
-          "name": "Soala",
-          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
         }
       ],
-      "duration_ms": 203918,
-      "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/5finLAgliculAikONZQpwG"
+      "duration_ms": 195493,
+      "name": "\u4e0d\u5b8c\u5168\u306b\u604b",
+      "url": "https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
-        "url": "https://open.spotify.com/album/6r2CYwG0Na2anxJmUmP9Wh"
+        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
+        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
         }
       ],
-      "duration_ms": 212783,
-      "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
-      "url": "https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2"
+      "duration_ms": 213533,
+      "name": "\u4eba\u9b5a\u59eb (bonus track)",
+      "url": "https://open.spotify.com/track/7ei2qLxNYGg6pgmUEinpiL"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1207,8 +1207,8 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
-        "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
+        "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
+        "url": "https://open.spotify.com/album/6r2CYwG0Na2anxJmUmP9Wh"
       },
       "artists": [
         {
@@ -1216,9 +1216,9 @@
           "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
         }
       ],
-      "duration_ms": 213533,
-      "name": "\u4eba\u9b5a\u59eb (bonus track)",
-      "url": "https://open.spotify.com/track/7ei2qLxNYGg6pgmUEinpiL"
+      "duration_ms": 212783,
+      "name": "\u541b\u306e\u30d2\u30fc\u30ed\u30fc",
+      "url": "https://open.spotify.com/track/27bqdCSVJk7TrXJZvr6CN2"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "Dear stranger",
-        "url": "https://open.spotify.com/album/06kTnjCMXpv7EfI1g4zPc5"
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/33WwEIAnf6lK3gACTnm1NP"
       },
       "artists": [
         {
-          "name": "satomoka",
-          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
+          "name": "\u8352\u8c37\u7fd4\u5927",
+          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
         }
       ],
-      "duration_ms": 238442,
-      "name": "Dear stranger",
-      "url": "https://open.spotify.com/track/7cWfA4LLhvNq2l2KPOlSi4"
+      "duration_ms": 230092,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/0urdV0jisyivWsEK9tvLEP"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/33WwEIAnf6lK3gACTnm1NP"
+        "name": "Dear stranger",
+        "url": "https://open.spotify.com/album/06kTnjCMXpv7EfI1g4zPc5"
       },
       "artists": [
         {
-          "name": "\u8352\u8c37\u7fd4\u5927",
-          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
         }
       ],
-      "duration_ms": 230092,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/0urdV0jisyivWsEK9tvLEP"
+      "duration_ms": 238442,
+      "name": "Dear stranger",
+      "url": "https://open.spotify.com/track/7cWfA4LLhvNq2l2KPOlSi4"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "GOLD HOUR -EP-",
-        "url": "https://open.spotify.com/album/2uVBidHfAWmjNEJaWluiLl"
+        "name": "\u30ec\u30e2\u30cd\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/2kcXILwRsaIlDbnyCrhDx5"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+          "name": "\u6709\u83ef",
+          "url": "https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj"
         }
       ],
-      "duration_ms": 288966,
-      "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
-      "url": "https://open.spotify.com/track/0ZL8UiHXyxztWWPVeGzfKp"
+      "duration_ms": 206853,
+      "name": "\u30ec\u30e2\u30cd\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/7j3glm5d39tG8xWFCVEfA5"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

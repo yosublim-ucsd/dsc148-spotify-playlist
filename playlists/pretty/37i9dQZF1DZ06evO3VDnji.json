@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 69120,
+  "num_followers": 69137,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAABGr0Omwrotf0Svjv+D3YRi",
+  "snapshot_id": "Z3cogAAAAADNJmNPa7UWSGEMTyqTqFc5",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 319620,
-      "name": "AMAR Y PERDER",
-      "url": "https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Moda",
         "url": "https://open.spotify.com/album/5kH5Ko4QOTDkihrWaTBhoz"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 124377,
       "name": "Chilling",
       "url": "https://open.spotify.com/track/7IFVhvCIOErs01u8YvBSZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 319620,
+      "name": "AMAR Y PERDER",
+      "url": "https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "La Perfecta",
-      "url": "https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love </3",
         "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 211500,
       "name": "Nuestro Pasado",
       "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "La Perfecta",
+      "url": "https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Como Tu Quieras",
-      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "Como Tu Quieras",
+      "url": "https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico Enamorado",
-        "url": "https://open.spotify.com/album/2ilPgl6MS3GAR9IOsJ75Qo"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "Belico Enamorado",
-      "url": "https://open.spotify.com/track/3m2APnVmde1UJticK2IlY4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DECIRTE LO QUE SIENTO",
         "url": "https://open.spotify.com/album/7o2GjDeLWCLtV38zUk1z6G"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 181258,
       "name": "DECIRTE LO QUE SIENTO",
       "url": "https://open.spotify.com/track/0LkYMmuNRsys7RgL6P7ta2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico Enamorado",
+        "url": "https://open.spotify.com/album/2ilPgl6MS3GAR9IOsJ75Qo"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "Belico Enamorado",
+      "url": "https://open.spotify.com/track/3m2APnVmde1UJticK2IlY4"
     },
     {
       "added_at": null,

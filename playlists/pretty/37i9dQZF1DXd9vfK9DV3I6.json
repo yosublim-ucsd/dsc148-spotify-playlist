@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 346758,
+  "num_followers": 346883,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "MIRAN",
         "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
       },
@@ -607,22 +591,18 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
       },
       "artists": [
         {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "K\u00e1llay Saunders",
-          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 201125,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -651,6 +631,26 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
+      },
+      "artists": [
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "K\u00e1llay Saunders",
+          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+        }
+      ],
+      "duration_ms": 201125,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 154277,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -699,6 +683,22 @@
       "duration_ms": 147976,
       "name": "Orient Spirit",
       "url": "https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
-      },
-      "artists": [
-        {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
-        }
-      ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Kun",
         "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
       },
@@ -775,26 +759,18 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
       },
       "artists": [
         {
-          "name": "Monoir",
-          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
-        },
-        {
-          "name": "Loredvn",
-          "url": "https://open.spotify.com/artist/5RR9UQkT1jH2GjKxjC4czY"
-        },
-        {
-          "name": "Geanina",
-          "url": "https://open.spotify.com/artist/6v2E7HSjXWVK89bz9Y5OcW"
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
         }
       ],
-      "duration_ms": 152555,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -819,6 +795,30 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
+      },
+      "artists": [
+        {
+          "name": "Monoir",
+          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
+        },
+        {
+          "name": "Loredvn",
+          "url": "https://open.spotify.com/artist/5RR9UQkT1jH2GjKxjC4czY"
+        },
+        {
+          "name": "Geanina",
+          "url": "https://open.spotify.com/artist/6v2E7HSjXWVK89bz9Y5OcW"
+        }
+      ],
+      "duration_ms": 152555,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -907,18 +907,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
       "artists": [
         {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
         }
       ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -959,26 +963,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
       },
       "artists": [
         {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1035,6 +1019,22 @@
       "duration_ms": 136000,
       "name": "Cewresamin",
       "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 334889,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1411,30 +1411,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
-      },
-      "artists": [
-        {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
-        }
-      ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Anatolieni",
         "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
       },
@@ -1467,6 +1443,30 @@
       "duration_ms": 180983,
       "name": "Oh Lor My Love",
       "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Jawi",
-        "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
-      },
-      "artists": [
-        {
-          "name": "HbbZ",
-          "url": "https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Jawi",
-      "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Watra",
         "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 141754,
       "name": "Watra",
       "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Jawi",
+        "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
+      },
+      "artists": [
+        {
+          "name": "HbbZ",
+          "url": "https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Jawi",
+      "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Alchemist EP",
         "url": "https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv"
       },
@@ -1775,22 +1795,6 @@
       "duration_ms": 515120,
       "name": "Alchemist",
       "url": "https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Hayati",
-        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
-      },
-      "artists": [
-        {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "Hayati",
-      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1815,22 +1819,18 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+        "name": "Hayati",
+        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
       },
       "artists": [
         {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
         }
       ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+      "duration_ms": 177261,
+      "name": "Hayati",
+      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
     },
     {
       "added_at": "2024-11-22 18:05:57",

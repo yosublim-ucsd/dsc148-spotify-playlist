@@ -28623,6 +28623,24 @@
     },
     {
       "album": {
+        "name": "Secrets of the heart",
+        "url": "https://open.spotify.com/album/7nF1GDoRih1Vs5sezkr7QO"
+      },
+      "artists": [
+        {
+          "name": "Bootee",
+          "url": "https://open.spotify.com/artist/70ApPROJ9p9TqFRRMIL0t8"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249350,
+      "name": "Safe with you",
+      "url": "https://open.spotify.com/track/4cDTVDYhe2zmQIjrqeZyjH"
+    },
+    {
+      "album": {
         "name": "Who Really Cares",
         "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
       },

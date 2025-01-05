@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 217880,
       "name": "Dispose of Me",
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
@@ -7132,6 +7132,24 @@
       "duration_ms": 198009,
       "name": "If I Don't Laugh, I'll Cry",
       "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
+    },
+    {
+      "album": {
+        "name": "Journal No.1",
+        "url": "https://open.spotify.com/album/2k0fcWU7mY3UiZ9BrNqBAU"
+      },
+      "artists": [
+        {
+          "name": "Rachel Grae",
+          "url": "https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn"
+        }
+      ],
+      "date_added": "2024-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184861,
+      "name": "If I'll Ever Win",
+      "url": "https://open.spotify.com/track/3J4jGDAj3DtKQL4AGNjmYA"
     },
     {
       "album": {

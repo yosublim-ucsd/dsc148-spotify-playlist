@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 240440,
+  "num_followers": 240459,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAACYKF8C3qZvqmH8dxbyxKJC",
+  "snapshot_id": "Z3cogAAAAABj4p+M7GyXMmNeM6r5gZDS",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "APEROL SPRITZ",
-        "url": "https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 130265,
-      "name": "APEROL SPRITZ",
-      "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 169990,
       "name": "BLEED",
       "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "APEROL SPRITZ",
+        "url": "https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 130265,
+      "name": "APEROL SPRITZ",
+      "url": "https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq"
     },
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLOW IT DOWN",
-        "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
       "artists": [
         {
@@ -216,13 +216,17 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 142935,
-      "name": "SLOW IT DOWN",
-      "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
+      "duration_ms": 203894,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
     },
     {
       "added_at": null,
@@ -263,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO MUCH",
-        "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
+        "name": "SLOW IT DOWN",
+        "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
       },
       "artists": [
         {
@@ -272,17 +276,13 @@
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 203894,
-      "name": "TOO MUCH",
-      "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+      "duration_ms": 142935,
+      "name": "SLOW IT DOWN",
+      "url": "https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 32925,
+  "num_followers": 32943,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 232917,
-      "name": "Wondering Why",
-      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 286369,
       "name": "You\u2019re Gonna Go Far",
       "url": "https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Kindness, A Rebel",
-        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 195126,
-      "name": "Motel 6",
-      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Men Amongst Mountains",
         "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 274093,
       "name": "Wish I Knew You",
       "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Kindness, A Rebel",
+        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 195126,
+      "name": "Motel 6",
+      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Country Covers",
-        "url": "https://open.spotify.com/album/3inAoKD50LFy6Y5PWZCH8N"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 198274,
-      "name": "Jersey Giant",
-      "url": "https://open.spotify.com/track/1oJlSoI4K4nMZXioXfJyf3"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 239240,
       "name": "Angel from Montgomery - 2008 Remaster",
       "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Country Covers",
+        "url": "https://open.spotify.com/album/3inAoKD50LFy6Y5PWZCH8N"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 198274,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1oJlSoI4K4nMZXioXfJyf3"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Paranoid Cocoon",
-        "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
-      },
-      "artists": [
-        {
-          "name": "Cotton Jones",
-          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "Blood Red Sentimental Blues",
-      "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Trail Of Flowers",
         "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 257297,
       "name": "American Dreaming",
       "url": "https://open.spotify.com/track/00cGNx0otxcMeD4GZHAJtq"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Paranoid Cocoon",
+        "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
+      },
+      "artists": [
+        {
+          "name": "Cotton Jones",
+          "url": "https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "Blood Red Sentimental Blues",
+      "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
+        "name": "In Dreams (Alternative Version)",
+        "url": "https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "In Dreams - Alternative Version",
+      "url": "https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
         "name": "If I Should Go Before You",
         "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
       },
@@ -883,38 +899,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "Ivory Castanets",
-        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
-        "name": "In Dreams (Alternative Version)",
-        "url": "https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "In Dreams - Alternative Version",
-      "url": "https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "$10 Cowboy",
         "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 148522,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "Ivory Castanets",
+        "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
     },
     {
       "added_at": "2024-11-12 18:01:47",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-11-12 18:01:47",
       "album": {
-        "name": "The Black Dirt Sessions",
-        "url": "https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2"
-      },
-      "artists": [
-        {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Twenty Miles",
-      "url": "https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp"
-    },
-    {
-      "added_at": "2024-11-12 18:01:47",
-      "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 227441,
       "name": "August",
       "url": "https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr"
+    },
+    {
+      "added_at": "2024-11-12 18:01:47",
+      "album": {
+        "name": "The Black Dirt Sessions",
+        "url": "https://open.spotify.com/album/7un6ilrjxO0KfVGj4mz0H2"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "Twenty Miles",
+      "url": "https://open.spotify.com/track/5advEe2ajphfKOguJCt3Gp"
     },
     {
       "added_at": "2024-11-12 18:01:47",

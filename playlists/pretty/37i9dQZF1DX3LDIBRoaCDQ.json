@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1597882,
+  "num_followers": 1597936,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Suicidal Tendencies",
-        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Institutionalized",
-      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Setting Sons (Super Deluxe)",
         "url": "https://open.spotify.com/album/4GQmfMtt1JhIQLK3L6p5lo"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 174506,
       "name": "Going Underground",
       "url": "https://open.spotify.com/track/6ALPLbDJ9eWVij9ep3Cgf4"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Suicidal Tendencies",
+        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Uncontrollable Urge",
-      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 205173,
       "name": "Redondo Beach",
       "url": "https://open.spotify.com/track/6zCBk93V8M7fPriZj9i4dd"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Uncontrollable Urge",
+      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
       },
       "artists": [
         {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
         }
       ],
-      "duration_ms": 354320,
-      "name": "Gloria: In Excelsis Deo",
-      "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -511,6 +495,22 @@
       "duration_ms": 106693,
       "name": "No Control",
       "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Gloria: In Excelsis Deo",
+      "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Tim (Expanded)",
         "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 107323,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+        "name": "Angels With Dirty Faces",
+        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
       },
       "artists": [
         {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+          "name": "Sham 69",
+          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
         }
       ],
-      "duration_ms": 155626,
-      "name": "Bad Mouth",
-      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+      "duration_ms": 206666,
+      "name": "Hurry Up Harry",
+      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Bad Mouth",
+      "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 132786,
       "name": "Banned In D.C.",
       "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Angels With Dirty Faces",
-        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
-      },
-      "artists": [
-        {
-          "name": "Sham 69",
-          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Hurry Up Harry",
-      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
     },
     {
       "added_at": "2024-11-29 00:00:00",

@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Ainutlaatuinen",
+        "url": "https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160177,
+      "name": "Ainutlaatuinen",
+      "url": "https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4"
+    },
+    {
+      "album": {
         "name": "Aivan sama",
         "url": "https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm"
       },
@@ -14241,6 +14259,24 @@
     },
     {
       "album": {
+        "name": "Ihmishirvi\u00f6",
+        "url": "https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17"
+      },
+      "artists": [
+        {
+          "name": "Jemina",
+          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186010,
+      "name": "Ihmishirvi\u00f6",
+      "url": "https://open.spotify.com/track/6EsFnbuNzZmSgiKAd0weFZ"
+    },
+    {
+      "album": {
         "name": "Ihmisten edess\u00e4 (ROOS+BERG Remix)",
         "url": "https://open.spotify.com/album/1wT2EvNZO7QzvbliG6SkZA"
       },
@@ -18576,6 +18612,24 @@
       "duration_ms": 208500,
       "name": "Koditon",
       "url": "https://open.spotify.com/track/00Bi0CSRgw04OgrhWU4hj1"
+    },
+    {
+      "album": {
+        "name": "KOHTALO",
+        "url": "https://open.spotify.com/album/3gFojaJRDbfyUjUTr4KJ1A"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182118,
+      "name": "KOHTALO",
+      "url": "https://open.spotify.com/track/2WlZzWKyyQRFpXnqV6JepA"
     },
     {
       "album": {
@@ -23963,6 +24017,24 @@
     },
     {
       "album": {
+        "name": "Menolippu",
+        "url": "https://open.spotify.com/album/3rNuYNwHjSYQoCECmXkFzo"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170041,
+      "name": "Menolippu",
+      "url": "https://open.spotify.com/track/6dyhgkxZnFiCRDHOFBY6Nt"
+    },
+    {
+      "album": {
         "name": "= (Christmas Edition)",
         "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
       },
@@ -27614,7 +27686,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 165921,
       "name": "Norjalaista puuta",
       "url": "https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s"
@@ -29521,6 +29593,32 @@
     },
     {
       "album": {
+        "name": "Paitsioon",
+        "url": "https://open.spotify.com/album/2awsYgoQolMUnEEEdcgOqR"
+      },
+      "artists": [
+        {
+          "name": "Yksi Totuus",
+          "url": "https://open.spotify.com/artist/6WhRNmekAnpW3ae3Nlu1xw"
+        },
+        {
+          "name": "Poju",
+          "url": "https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn"
+        },
+        {
+          "name": "Jukka Ruusumaa",
+          "url": "https://open.spotify.com/artist/1kEzkwyWxAsO6HbQGVscAT"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Paitsioon",
+      "url": "https://open.spotify.com/track/52tEE1G9rWdH3B6tkEIvkn"
+    },
+    {
+      "album": {
         "name": "Pakko relaa ennen kun m\u00e4 delaan",
         "url": "https://open.spotify.com/album/18fak0J1Ia3iGgThlTOIAb"
       },
@@ -29580,6 +29678,28 @@
       "duration_ms": 192682,
       "name": "palamaan (feat. jambo & costee)",
       "url": "https://open.spotify.com/track/6E1zpxqr0LHArg6FB5pmEG"
+    },
+    {
+      "album": {
+        "name": "Paletti (feat. Sexmane)",
+        "url": "https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183777,
+      "name": "Paletti (feat. Sexmane)",
+      "url": "https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX"
     },
     {
       "album": {
@@ -32454,7 +32574,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 177407,
       "name": "Rauhaa",
       "url": "https://open.spotify.com/track/6rwj48RM8fFaGTpWfdJ3rF"
@@ -32712,7 +32832,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 159236,
       "name": "Rich Man (feat. Turisti)",
       "url": "https://open.spotify.com/track/7ixwvAH5KCIvMM9RU2ZQtU"
@@ -34010,7 +34130,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 160106,
       "name": "Satama",
       "url": "https://open.spotify.com/track/3uFYqmo1tBXqITBLsnHsUx"
@@ -34310,7 +34430,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 222480,
       "name": "Seireeni",
       "url": "https://open.spotify.com/track/2Ug8JxGX2SIRfsYogycZJc"
@@ -36256,7 +36376,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 142584,
       "name": "Stadi (Alicia)",
       "url": "https://open.spotify.com/track/7gHubaWZNQNvLieogqkVmA"
@@ -37362,6 +37482,24 @@
       "duration_ms": 232106,
       "name": "Suutari",
       "url": "https://open.spotify.com/track/6JT14ClOdCYWL3LgyROqAI"
+    },
+    {
+      "album": {
+        "name": "Suutele mun silmii",
+        "url": "https://open.spotify.com/album/7EXuqXgy9fDCUAS2aHVVdr"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145566,
+      "name": "Suutele mun silmii",
+      "url": "https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR"
     },
     {
       "album": {
@@ -38770,7 +38908,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 197027,
       "name": "Taulut (feat. Costi)",
       "url": "https://open.spotify.com/track/6ts28afrgkAWqSAbhkN01U"
@@ -43336,7 +43474,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 191020,
       "name": "Viimeinen kuulutus",
       "url": "https://open.spotify.com/track/1NKyomIMeDReZTpcZhJ0h7"
@@ -43954,6 +44092,24 @@
       "duration_ms": 172952,
       "name": "Vox Populi",
       "url": "https://open.spotify.com/track/4b8Hn8DVvORc3VT99L4gbn"
+    },
+    {
+      "album": {
+        "name": "Vuosi",
+        "url": "https://open.spotify.com/album/4o2NeIpas2AuMq50pLdJ2Q"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180229,
+      "name": "Vuosi",
+      "url": "https://open.spotify.com/track/7HLjXn0DkzLjVfCM8GePX6"
     },
     {
       "album": {

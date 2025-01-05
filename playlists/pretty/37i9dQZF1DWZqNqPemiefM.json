@@ -1,6 +1,6 @@
 {
   "description": "\u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af / The artisanal ambient and alternative sounds make you float in the air.",
-  "num_followers": 67237,
+  "num_followers": 67240,
   "original_name": "Sora",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
+        "name": "\u4e4b / OF",
+        "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
+    },
+    {
+      "added_at": "2024-12-16 21:37:18",
+      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 262000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
-    },
-    {
-      "added_at": "2024-12-16 21:37:18",
-      "album": {
-        "name": "\u4e4b / OF",
-        "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
     },
     {
       "added_at": "2024-12-16 21:37:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/1Ey5eicbpQzd3nVP8kBYzu"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        }
-      ],
-      "duration_ms": 172001,
-      "name": "Floweret",
-      "url": "https://open.spotify.com/track/55EKqJvyHOnTVNUKFM6RIv"
-    },
-    {
-      "added_at": "2024-12-16 21:37:18",
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/1Ey5eicbpQzd3nVP8kBYzu"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        }
+      ],
+      "duration_ms": 172001,
+      "name": "Floweret",
+      "url": "https://open.spotify.com/track/55EKqJvyHOnTVNUKFM6RIv"
+    },
+    {
+      "added_at": "2024-12-16 21:37:18",
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/7s5eowxjxvNsyob3EuiHUM"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "In Parallel",
-        "url": "https://open.spotify.com/album/2jBM6bkH5S0Nbp60LHrOsr"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 271807,
-      "name": "Sun Tickles",
-      "url": "https://open.spotify.com/track/7qhjO48EeSm9ecDfDt2LIp"
-    },
-    {
-      "added_at": "2024-12-16 21:37:18",
-      "album": {
         "name": "Recommence (I/VII)",
         "url": "https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 142535,
       "name": "What A Life (I)",
       "url": "https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ"
+    },
+    {
+      "added_at": "2024-12-16 21:37:18",
+      "album": {
+        "name": "In Parallel",
+        "url": "https://open.spotify.com/album/2jBM6bkH5S0Nbp60LHrOsr"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 271807,
+      "name": "Sun Tickles",
+      "url": "https://open.spotify.com/track/7qhjO48EeSm9ecDfDt2LIp"
     },
     {
       "added_at": "2024-12-16 21:37:18",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "My Hollow",
-        "url": "https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ"
-      },
-      "artists": [
-        {
-          "name": "yanaco",
-          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
-        }
-      ],
-      "duration_ms": 248681,
-      "name": "My Hollow",
-      "url": "https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo"
-    },
-    {
-      "added_at": "2024-12-16 21:37:18",
-      "album": {
         "name": "Virga (feat. Darlingside)",
         "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
+        "name": "My Hollow",
+        "url": "https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "duration_ms": 248681,
+      "name": "My Hollow",
+      "url": "https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo"
+    },
+    {
+      "added_at": "2024-12-16 21:37:18",
+      "album": {
         "name": "+puzzle",
         "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
       },
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+        "name": "Weeds",
+        "url": "https://open.spotify.com/album/693yk02Dcy8O9AYCv3B8AB"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "James Murray",
+          "url": "https://open.spotify.com/artist/6FtfcguhZxMy6S04I0jOhc"
         }
       ],
-      "duration_ms": 117831,
-      "name": "Modern Steps",
-      "url": "https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G"
+      "duration_ms": 423000,
+      "name": "Mallow",
+      "url": "https://open.spotify.com/track/6KkVrpgLQYzC79NMRMah0I"
     },
     {
       "added_at": "2024-12-16 21:37:18",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "Weeds",
-        "url": "https://open.spotify.com/album/693yk02Dcy8O9AYCv3B8AB"
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
       "artists": [
         {
-          "name": "James Murray",
-          "url": "https://open.spotify.com/artist/6FtfcguhZxMy6S04I0jOhc"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 423000,
-      "name": "Mallow",
-      "url": "https://open.spotify.com/track/6KkVrpgLQYzC79NMRMah0I"
+      "duration_ms": 117831,
+      "name": "Modern Steps",
+      "url": "https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G"
     },
     {
       "added_at": "2024-12-16 21:37:18",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
+        "name": "Slow Worm",
+        "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Slow Worm",
+      "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
+    },
+    {
+      "added_at": "2024-12-16 21:37:18",
+      "album": {
         "name": "\u3072\u3068\u3064\u3076\u306e\u6d77",
         "url": "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "Slow Worm",
-        "url": "https://open.spotify.com/album/7cEVIb82TYwy1uhYc6Q9nC"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Slow Worm",
-      "url": "https://open.spotify.com/track/4WDG6wT432I1tacAb4aLiR"
-    },
-    {
-      "added_at": "2024-12-16 21:37:18",
-      "album": {
         "name": "Que llueva ```",
         "url": "https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "NATI INFINITI",
-        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 369994,
-      "name": "III",
-      "url": "https://open.spotify.com/track/6ubA164D78eD0YuiL4tpxS"
-    },
-    {
-      "added_at": "2024-12-16 21:37:18",
-      "album": {
         "name": "Hoshi No Koe",
         "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+    },
+    {
+      "added_at": "2024-12-16 21:37:18",
+      "album": {
+        "name": "NATI INFINITI",
+        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 369994,
+      "name": "III",
+      "url": "https://open.spotify.com/track/6ubA164D78eD0YuiL4tpxS"
     },
     {
       "added_at": "2024-12-16 21:37:18",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
-      },
-      "artists": [
-        {
-          "name": "Yasunori Mitsuda",
-          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "\u6642\u306e\u56de\u5eca",
-      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
-    },
-    {
-      "added_at": "2024-12-16 21:37:18",
-      "album": {
         "name": "One Universal Breath",
         "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "DINORWIC",
-        "url": "https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX"
+        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\uff65\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Yasunori Mitsuda",
+          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
         }
       ],
-      "duration_ms": 711466,
-      "name": "DINORWIC",
-      "url": "https://open.spotify.com/track/7dg77VJR6x1lHL2dhMk1r5"
+      "duration_ms": 183266,
+      "name": "\u6642\u306e\u56de\u5eca",
+      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
     },
     {
       "added_at": "2024-12-16 21:37:18",
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "\u53e4\u98a8",
-        "url": "https://open.spotify.com/album/6up103j3F99vuOxqx9ye83"
+        "name": "DINORWIC",
+        "url": "https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX"
       },
       "artists": [
         {
-          "name": "MEITEI",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 66061,
-      "name": "\u91d1\u7d99\u304e",
-      "url": "https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX"
+      "duration_ms": 711466,
+      "name": "DINORWIC",
+      "url": "https://open.spotify.com/track/7dg77VJR6x1lHL2dhMk1r5"
     },
     {
       "added_at": "2024-12-16 21:37:18",
@@ -1727,18 +1711,34 @@
     {
       "added_at": "2024-12-16 21:37:18",
       "album": {
-        "name": "Music from The Comedy, A Film by Rick Alverson",
-        "url": "https://open.spotify.com/album/0VLEQprBg6jlQ1Ct5RabdH"
+        "name": "\u53e4\u98a8",
+        "url": "https://open.spotify.com/album/6up103j3F99vuOxqx9ye83"
       },
       "artists": [
         {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "MEITEI",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
         }
       ],
-      "duration_ms": 122120,
-      "name": "Disintegration Loops (1.1 Excerpt I)",
-      "url": "https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1"
+      "duration_ms": 66061,
+      "name": "\u91d1\u7d99\u304e",
+      "url": "https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX"
+    },
+    {
+      "added_at": "2024-12-16 21:37:18",
+      "album": {
+        "name": "async",
+        "url": "https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 232073,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3"
     }
   ],
   "unique_name": "Sora",

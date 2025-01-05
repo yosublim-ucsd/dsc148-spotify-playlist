@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 330 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 330 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 132 | [You're Nearer](https://open.spotify.com/track/42IvbPaWb7VZjXT3CiXJcK) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Here's To Life](https://open.spotify.com/album/2wGW87aOvooeJ5r8eTYg4W) | 3:31 |
 | 133 | [I Like To Recognize The Tune](https://open.spotify.com/track/2oul7sJpLyCFRtKyOf6FKF) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Jamal At The Penthouse](https://open.spotify.com/album/1IDi2yArdVMg8OMtCa6GoI) | 1:43 |
 | 134 | [It's Got To Be Love](https://open.spotify.com/track/5J9OZfEsV36dvpTnta6UBE) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Rodgers & Hart Songbook](https://open.spotify.com/album/67YwQrGAJI0oAkp7Lq0oLh) | 2:24 |
-| 135 | [Finale Ultimo](https://open.spotify.com/track/5qxRAENdF27JukelTn5aK5) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Ken Watanabe](https://open.spotify.com/artist/1QcuwvsJaSyG4y8Z3Et6zE), [Jake Lucas](https://open.spotify.com/artist/2hSOFaZO0polYIuLpbAtAx), [Jon Viktor Corpuz](https://open.spotify.com/artist/15QtE8jn9ZaSelXeUebAOu), [Royal Children](https://open.spotify.com/artist/4RwkzhdGdwuCXpc16KVQsU), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:00 |
-| 136 | [Look No Further](https://open.spotify.com/track/0YWalniHwyyri3YjdEbD8H) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:58 |
+| 135 | [Look No Further](https://open.spotify.com/track/0YWalniHwyyri3YjdEbD8H) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:58 |
+| 136 | [Finale Ultimo](https://open.spotify.com/track/5qxRAENdF27JukelTn5aK5) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Ken Watanabe](https://open.spotify.com/artist/1QcuwvsJaSyG4y8Z3Et6zE), [Jake Lucas](https://open.spotify.com/artist/2hSOFaZO0polYIuLpbAtAx), [Jon Viktor Corpuz](https://open.spotify.com/artist/15QtE8jn9ZaSelXeUebAOu), [Royal Children](https://open.spotify.com/artist/4RwkzhdGdwuCXpc16KVQsU), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:00 |
 | 137 | [The Highest Judge Of All](https://open.spotify.com/track/59HuSbmuMaGWrEINPtvkjS) | [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 1:42 |
 | 138 | [Away From You \- From "Rex"](https://open.spotify.com/track/1JfwmxNPr5YgHEQJYjDQPW) | [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [The Songs That Got Away](https://open.spotify.com/album/1vB4Brlk3L3EHzmi2D6XXr) | 3:28 |
 | 139 | [All At Once You Love Her \- Rudy Van Gelder Edition / 2007 / Digital Remaster](https://open.spotify.com/track/2pN4qCOAANvkYPfdsrw4sH) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Candy \(Remastered\)](https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL) | 5:26 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `Abl6NAAAAAAGQsEMM02THfujUodawSS/`
+Snapshot ID: `Abl/1AAAAAA65mIA03pKBVZYBTI++/IU`

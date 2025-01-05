@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,961 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,022 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 69 | [Nobody](https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Live From Nkrumah Krom Vol II: Home Run](https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh) | 3:33 |
 | 70 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
 | 71 | [ODO](https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ODO](https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i) | 3:18 |
-| 72 | [Goosebumps](https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg) | [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Goosebumps](https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO) | 3:00 |
-| 73 | [Prosecco](https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Ebusuku](https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv) | 3:41 |
+| 72 | [Prosecco](https://open.spotify.com/track/3hU7AL6FCDZwnPADD88544) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Ebusuku](https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv) | 3:41 |
+| 73 | [Goosebumps](https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg) | [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Goosebumps](https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO) | 3:00 |
 | 74 | [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Ashley Music](https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd) | [Sasa Hivi \[Stripped Down\]](https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig) | 4:22 |
 | 75 | [Don't Keep Me Waiting](https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Don't Keep Me Waiting](https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR) | 3:47 |
 | 76 | [Number One](https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Number One](https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or) | 3:11 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 88 | [Coming Home](https://open.spotify.com/track/6HFRsC9QAkBU6zQwgmTS15) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Aaron Rimbui](https://open.spotify.com/artist/4loRXsKXjBAMpJY0MBDq7H) | [Bald Men Love Better](https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ) | 2:54 |
 | 89 | [Give You Love](https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Give You Love](https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl) | 3:54 |
 | 90 | [Nkwagala](https://open.spotify.com/track/531luMexKodEekscAlLyVu) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Nkwagala](https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo) | 3:10 |
-| 91 | [Chargie](https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC) | [Hillzy](https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta) | [In The Building](https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI) | 2:53 |
-| 92 | [Take it Slow](https://open.spotify.com/track/6kOXoMSnQy63PNGn4Yp1zZ) | [ZIKKI](https://open.spotify.com/artist/5l74o93ci1b90LayLok4DL), [Jaguar](https://open.spotify.com/artist/4SExCKYJYvUVFXLAS3Dz0G) | [Kamata](https://open.spotify.com/album/0vkCse1iCEbs0MU92L0A7M) | 3:49 |
+| 91 | [Take it Slow](https://open.spotify.com/track/6kOXoMSnQy63PNGn4Yp1zZ) | [ZIKKI](https://open.spotify.com/artist/5l74o93ci1b90LayLok4DL), [Jaguar](https://open.spotify.com/artist/4SExCKYJYvUVFXLAS3Dz0G) | [Kamata](https://open.spotify.com/album/0vkCse1iCEbs0MU92L0A7M) | 3:49 |
+| 92 | [Chargie](https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC) | [Hillzy](https://open.spotify.com/artist/6Ju1F5ODvbjdh2yEQKxkta) | [In The Building](https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI) | 2:53 |
 | 93 | [Liwa Lentliziyo](https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Zaneliza: How the Water Moves](https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm) | 5:25 |
 | 94 | [Mfalme Wa Mapenzi](https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q) | [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Mfalme Wa Mapenzi](https://open.spotify.com/album/2wgSxbkNeLOwBVM1LuSSnj) | 4:46 |
 | 95 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 |

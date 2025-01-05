@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Municipal Waste
 
-433 songs - 1 day 6 hr 43 min
+434 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Surf Nicaragua](https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN) | [Sacred Reich](https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH) | [Ignorance & Surf Nicaragua](https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0) | 4:40 | 2022-07-13 |  |
 | [Synchro Anarchy](https://open.spotify.com/track/7jQ8PxjIR2o4y4nndfEvh1) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Synchro Anarchy](https://open.spotify.com/album/1k9JH2nPsI1Lb9ny0rFVpj) | 4:25 | 2022-01-28 | 2022-02-11 |
 | [Territory](https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:47 | 2022-12-15 |  |
+| [Terror Labyrinthian](https://open.spotify.com/track/2prsx8ng0W98Rl66M9fy1P) | [Nuclear Tomb](https://open.spotify.com/artist/6CUkovLJ3LDsmvIVM9LdC5) | [Terror Labyrinthian](https://open.spotify.com/album/2V2MDkHKFjZeBZU2N3Sxbm) | 3:22 | 2024-06-27 |  |
 | [Tetrastructural Minds](https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz) | [Vektor](https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg) | [Outer Isolation](https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U) | 5:21 | 2021-12-17 |  |
 | [Thanatos](https://open.spotify.com/track/1U0o3t5O0w10ANVxRSxHnu) | [Nekromantheon](https://open.spotify.com/artist/2eA577rcxnqTxv7SVFaXGZ) | [Thanatos](https://open.spotify.com/album/2GK9hDwMa1iZcpgNUsOmVk) | 3:34 | 2021-12-17 | 2022-07-14 |
 | [The Affair of the Poisons](https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [The Affair of the Poisons](https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n) | 4:55 | 2021-12-17 |  |
@@ -377,7 +378,7 @@
 | [The Blight](https://open.spotify.com/track/0rSkHGAlNJIDbkw3uDwNjf) | [Heathen](https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF) | [The Blight](https://open.spotify.com/album/7sWShhNUqcFYtCthOXoHe0) | 4:38 | 2021-12-17 | 2022-03-05 |
 | [The Clerical Conspiracy \- 2007 Remastered Version](https://open.spotify.com/track/1KxBpjZAxjjO0XUjgEUR26) | [Sabbat](https://open.spotify.com/artist/0jt8kceByMQRorrMxKEUUt) | [Dreamweaver \(Expanded Edition\)](https://open.spotify.com/album/0Bbj6ao9xoNtGw6Yttqklr) | 5:37 | 2022-07-13 | 2022-07-24 |
 | [The Deed Is Done](https://open.spotify.com/track/2OmbIUAJVoLXfTYlR4XOcM) | [Swarm](https://open.spotify.com/artist/5d8OStxcQdgHwfEEK3GcxG) | [Anathema](https://open.spotify.com/album/2QG6SBbsJ9FPUJHx6OkGvz) | 3:23 | 2021-12-17 | 2022-03-01 |
-| [The Descending](https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [The Descending](https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF) | 3:11 | 2021-12-17 |  |
+| [The Descending](https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [The Descending](https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF) | 3:11 | 2021-12-17 | 2025-01-05 |
 | [The Ending](https://open.spotify.com/track/5wg8llj8KWPje67TGtXYK2) | [Cerberus](https://open.spotify.com/artist/2X801wW31GQU9xgVESz7hY) | [The Ending](https://open.spotify.com/album/1hBimLkEmBtVyn1s4xQZgu) | 3:33 | 2021-12-17 |  |
 | [The Eye](https://open.spotify.com/track/3CoID3xVaER6TcbcbUqkBm) | [Domination Inc.](https://open.spotify.com/artist/6vdbsYEmWHcM0iWJumU52a) | [The Eye](https://open.spotify.com/album/2D87yEOlqff04pWgnzN4Cx) | 4:09 | 2021-12-17 | 2022-02-27 |
 | [The Fall](https://open.spotify.com/track/7rpwaUJdxfcu2TNHbWjmcf) | [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [The Fall](https://open.spotify.com/album/3ce3udHx7koDVwheaUjXd1) | 2:20 | 2021-12-17 | 2022-07-26 |

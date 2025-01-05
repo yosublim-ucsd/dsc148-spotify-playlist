@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: JEZZ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,595 likes - 51 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,604 likes - 51 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [My weird music \(Feat\. Yireh\)](https://open.spotify.com/track/5BhDJIAXEpdpEwlJBfLzh8) | [JEZZ](https://open.spotify.com/artist/7rU69MSitmrRQtoZoY6h8Q), [Yireh](https://open.spotify.com/artist/67m3FjwGv4IGpLXQycLnE6) | [JEZZ or JAZZ \(Feat\. Yireh\)](https://open.spotify.com/album/6oOiquCBmbnfnekb0QtJIC) | 4:08 |
 | 2 | [WHITE \(Feat\. Chan, jeebanoff, sannie\)](https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV), [sannie](https://open.spotify.com/artist/7DzAtAzBPwXAbnwVWoo6sb) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 4:25 |
 | 3 | [Embrace Your Emotions](https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W) | [A.Rion](https://open.spotify.com/artist/0VHEXCiwvN64fSXIOhpdqS) | [Embrace Your Emotions](https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG) | 3:06 |
-| 4 | [For Sentimental Reasons](https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7) | [Junggigo Quintet](https://open.spotify.com/artist/6Rw8YbGwaAeYXAyWknX2GU) | [For Sentimental Reasons](https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9) | 4:40 |
+| 4 | [For Sentimental Reasons](https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [For Sentimental Reasons](https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9) | 4:40 |
 | 5 | [romanticismo](https://open.spotify.com/track/3gTV9SaJxRUX9OvHh27pXR) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [romanticismo](https://open.spotify.com/album/0aLKEufTt9T5KaYn4UzoXg) | 3:32 |
 | 6 | [Did you just play some light jazz?](https://open.spotify.com/track/7cuApcXcpQ8xxbZAzCWJt4) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 3:00 |
 | 7 | [The Night View In Seoul \(Feat\. Ahn Seo Jin\) \- Big Band ver.](https://open.spotify.com/track/4cgJ9kHbKo6Y2iiflpyyul) | [Yoo Geunho](https://open.spotify.com/artist/3qZ6sXsOvArciJpBmTZz4g), [Ahn Seo Jin](https://open.spotify.com/artist/3vNsicv6rbMD90Mp3OPno6) | [The Night View In Seoul \(Feat\. Ahn Seo Jin\) \[Big Band ver.\]](https://open.spotify.com/album/6hmeZFTtNzTCf9m7DCv48f) | 3:37 |

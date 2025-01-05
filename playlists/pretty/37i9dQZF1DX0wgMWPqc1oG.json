@@ -1,6 +1,6 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 33409,
+  "num_followers": 33434,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "Destination...Out!",
-        "url": "https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1"
+        "name": "Forest Flower: Charles Lloyd At Monterey",
+        "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
         }
       ],
-      "duration_ms": 624335,
-      "name": "Kahlil The Prophet",
-      "url": "https://open.spotify.com/track/25UXC18kep4qTng1062Fjf"
+      "duration_ms": 644400,
+      "name": "East of the Sun - Live@Monterey",
+      "url": "https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj"
     },
     {
       "added_at": "2024-09-03 09:48:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "Forest Flower: Charles Lloyd At Monterey",
-        "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD"
+        "name": "Destination...Out!",
+        "url": "https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1"
       },
       "artists": [
         {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 644400,
-      "name": "East of the Sun - Live@Monterey",
-      "url": "https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj"
+      "duration_ms": 624335,
+      "name": "Kahlil The Prophet",
+      "url": "https://open.spotify.com/track/25UXC18kep4qTng1062Fjf"
     },
     {
       "added_at": "2024-09-03 09:48:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 510973,
-      "name": "Omega - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
-    },
-    {
-      "added_at": "2024-09-03 09:48:00",
-      "album": {
         "name": "Down With It! (Remastered 2005/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF"
       },
@@ -1255,22 +1239,6 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "Total Eclipse",
-        "url": "https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 396360,
-      "name": "Herzog",
-      "url": "https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy"
-    },
-    {
-      "added_at": "2024-09-03 09:48:00",
-      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
       },
@@ -1287,8 +1255,24 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
+        "name": "Total Eclipse",
+        "url": "https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 396360,
+      "name": "Herzog",
+      "url": "https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy"
+    },
+    {
+      "added_at": "2024-09-03 09:48:00",
+      "album": {
+        "name": "Let Freedom Ring (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw"
       },
       "artists": [
         {
@@ -1296,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 569453,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
+      "duration_ms": 510973,
+      "name": "Omega - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l"
     },
     {
       "added_at": "2024-09-03 09:48:00",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "Lofty Fake Anagram",
-        "url": "https://open.spotify.com/album/4oSUqIo6gVVZc61Z6JCCfF"
+        "name": "The Blues and the Abstract Truth",
+        "url": "https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ"
       },
       "artists": [
         {
-          "name": "Gary Burton Quartet",
-          "url": "https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl"
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
         }
       ],
-      "duration_ms": 222720,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/3HQ5oxrVucyUP6XPkiQEyc"
+      "duration_ms": 331026,
+      "name": "Cascades",
+      "url": "https://open.spotify.com/track/4VBzQ9rcUiMM0SSfdV38si"
     },
     {
       "added_at": "2024-09-03 09:48:00",
@@ -1367,18 +1351,34 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "The Blues and the Abstract Truth",
-        "url": "https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
       },
       "artists": [
         {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 331026,
-      "name": "Cascades",
-      "url": "https://open.spotify.com/track/4VBzQ9rcUiMM0SSfdV38si"
+      "duration_ms": 569453,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi"
+    },
+    {
+      "added_at": "2024-09-03 09:48:00",
+      "album": {
+        "name": "Lofty Fake Anagram",
+        "url": "https://open.spotify.com/album/4oSUqIo6gVVZc61Z6JCCfF"
+      },
+      "artists": [
+        {
+          "name": "Gary Burton Quartet",
+          "url": "https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/3HQ5oxrVucyUP6XPkiQEyc"
     },
     {
       "added_at": "2024-09-03 09:48:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 637626,
+      "name": "Sometimes Joie",
+      "url": "https://open.spotify.com/track/3pWTTgjiIuyVEUsHsZ03I5"
+    },
+    {
+      "added_at": "2024-09-03 09:48:00",
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/2lM0Tamy6fq04pPCcPOZ8B"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 281240,
       "name": "You're My Everything",
       "url": "https://open.spotify.com/track/4mtDQlCyDKNEx6tMw1AsgX"
-    },
-    {
-      "added_at": "2024-09-03 09:48:00",
-      "album": {
-        "name": "Jackie's Bag",
-        "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 406400,
-      "name": "Melonae's Dance",
-      "url": "https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K"
     },
     {
       "added_at": "2024-09-03 09:48:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-09-03 09:48:00",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp"
+        "name": "Jackie's Bag",
+        "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
       },
       "artists": [
         {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 637626,
-      "name": "Sometimes Joie",
-      "url": "https://open.spotify.com/track/3pWTTgjiIuyVEUsHsZ03I5"
+      "duration_ms": 406400,
+      "name": "Melonae's Dance",
+      "url": "https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K"
     },
     {
       "added_at": "2024-09-03 09:48:00",

@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAd99sQ2uEBcRMrbUAUiqy7",
+  "snapshot_id": "AAAAAAAAAADwl03/ch1peW4hMfXoMj0O",
   "tracks": [
+    {
+      "added_at": "2025-01-03 03:00:00",
+      "album": {
+        "name": "Dead of the Night",
+        "url": "https://open.spotify.com/album/6uFjirWACgdk6gV7MQhdz0"
+      },
+      "artists": [
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "Dead of the Night",
+      "url": "https://open.spotify.com/track/0570Fm0xQDRXHXv8aIbUXH"
+    },
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 243769,
       "name": "Hay Un Tirano Que Es para Vos",
       "url": "https://open.spotify.com/track/0ohAzwHz8iAtqu2QFUfnwG"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "Field of Opportunity",
-        "url": "https://open.spotify.com/album/2FbgV0fg5jzyi9DCRSTpPY"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 187977,
-      "name": "Field of Opportunity",
-      "url": "https://open.spotify.com/track/1GfTKBIoqw7uY3nyRFH4Zp"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -107,8 +107,40 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
+        "name": "Yes I Can",
+        "url": "https://open.spotify.com/album/6xnu5R7xVEm6ThD1wAAEjM"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Yes I Can",
+      "url": "https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6"
+    },
+    {
+      "added_at": "2025-01-03 03:00:00",
+      "album": {
+        "name": "Field of Opportunity",
+        "url": "https://open.spotify.com/album/2FbgV0fg5jzyi9DCRSTpPY"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 187977,
+      "name": "Field of Opportunity",
+      "url": "https://open.spotify.com/track/1GfTKBIoqw7uY3nyRFH4Zp"
+    },
+    {
+      "added_at": "2025-01-03 03:00:00",
+      "album": {
         "name": "Told You So (Remixes Vol. 1)",
-        "url": "https://open.spotify.com/album/4DOC3o2b1jqLmsMU2StEpA"
+        "url": "https://open.spotify.com/album/3ZNDcJGZGcIge6HPMGos3X"
       },
       "artists": [
         {
@@ -130,23 +162,59 @@
       ],
       "duration_ms": 150461,
       "name": "Told You So - Lavern & VisionV Remix",
-      "url": "https://open.spotify.com/track/4w9h1KrQzUO4HL9ZfnKKIO"
+      "url": "https://open.spotify.com/track/7sq5lP2gH7lR6EiiyhEbNt"
     },
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "Yes I Can",
-        "url": "https://open.spotify.com/album/6xnu5R7xVEm6ThD1wAAEjM"
+        "name": "Old Time Rock & Roll",
+        "url": "https://open.spotify.com/album/5nTQxVDqTIzp38lkS7kbdM"
       },
       "artists": [
         {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+          "name": "Catej Molic",
+          "url": "https://open.spotify.com/artist/0OHQDEOAfim7hPLfOYgLS1"
+        },
+        {
+          "name": "Savage Sons",
+          "url": "https://open.spotify.com/artist/1YEEbHKA7t5pYoNnjtHSzP"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Yes I Can",
-      "url": "https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6"
+      "duration_ms": 158695,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/03zsLaNpPyZfnCK5WUqISR"
+    },
+    {
+      "added_at": "2025-01-03 03:00:00",
+      "album": {
+        "name": "Dr\u00f6m S\u00e5ng",
+        "url": "https://open.spotify.com/album/6GJP356Q51HkTjm7jjJ1nO"
+      },
+      "artists": [
+        {
+          "name": "K\u00ebkht Ar\u00e4kh",
+          "url": "https://open.spotify.com/artist/72unU2j2vnNWFiITlvx2nv"
+        }
+      ],
+      "duration_ms": 267232,
+      "name": "Dr\u00f6m S\u00e5ng",
+      "url": "https://open.spotify.com/track/4KPHDL1uSjvjFiXcCWkKQq"
+    },
+    {
+      "added_at": "2025-01-03 03:00:00",
+      "album": {
+        "name": "Shattered Chains",
+        "url": "https://open.spotify.com/album/6S0J3Zh39ofHlSmYpgwqNP"
+      },
+      "artists": [
+        {
+          "name": "Karnage Through Crossing",
+          "url": "https://open.spotify.com/artist/30ep5EKRT5KRTTfUJ1BkME"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Crimson",
+      "url": "https://open.spotify.com/track/5NWd5V1ryOMsqfP26wWJsw"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -167,22 +235,6 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "Du bist alles was ich will",
-        "url": "https://open.spotify.com/album/6oKTf4HIhkzvPN0ftQO1xe"
-      },
-      "artists": [
-        {
-          "name": "Lacrimosa",
-          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
-        }
-      ],
-      "duration_ms": 341546,
-      "name": "Du bist alles was ich will",
-      "url": "https://open.spotify.com/track/2NPeM9G213JoNkna1TdtpE"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
         "name": "Mentalidad Televisiva (Versi\u00f3n 1984)",
         "url": "https://open.spotify.com/album/5LrwnGdu7Q23LqLjkQIY6u"
       },
@@ -199,50 +251,34 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "In The Grey",
-        "url": "https://open.spotify.com/album/3VcCI8NsG6nxS2n1gs3qD0"
+        "name": "Du bist alles was ich will",
+        "url": "https://open.spotify.com/album/6oKTf4HIhkzvPN0ftQO1xe"
       },
       "artists": [
         {
-          "name": "Shadows Fall",
-          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
+          "name": "Lacrimosa",
+          "url": "https://open.spotify.com/artist/57ekbx9PSS4ORs5wTZMSYp"
         }
       ],
-      "duration_ms": 218453,
-      "name": "In The Grey",
-      "url": "https://open.spotify.com/track/1phKryvBTIH9dSp9Gv51Zz"
+      "duration_ms": 341546,
+      "name": "Du bist alles was ich will",
+      "url": "https://open.spotify.com/track/2NPeM9G213JoNkna1TdtpE"
     },
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "copy/paste, vol. 1 (abridged)",
-        "url": "https://open.spotify.com/album/6FZ4FUlFmawpoQLBVRfAuG"
+        "name": "Some Dreams",
+        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
       },
       "artists": [
         {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
         }
       ],
-      "duration_ms": 281212,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/0asyuQCN6BeycvbPkhbFjM"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "Your Name In Lights",
-        "url": "https://open.spotify.com/album/5GmBAcKe5FNTl1AGUoBLUf"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Your Name In Lights",
-      "url": "https://open.spotify.com/track/16rYWfhXd2odbloZqmAyBF"
+      "duration_ms": 288005,
+      "name": "Some Dreams",
+      "url": "https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -267,22 +303,6 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "Some Dreams",
-        "url": "https://open.spotify.com/album/24BAKo7YGy3UeS8UjvZvOx"
-      },
-      "artists": [
-        {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
-        }
-      ],
-      "duration_ms": 288005,
-      "name": "Some Dreams",
-      "url": "https://open.spotify.com/track/49iWkFT4uK14pzDS6uAR7z"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/1ojGoRkMpKvKdo33luyyL8"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 265752,
       "name": "Angst",
       "url": "https://open.spotify.com/track/7uUvceLJvMhhoXiCm9PSOC"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -387,46 +387,6 @@
       "duration_ms": 119639,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "Downfall (Dialective, Protoss & Short Circuit Remix)",
-        "url": "https://open.spotify.com/album/2XbitQOjmcsWqiWZo4hqDZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Killer",
-          "url": "https://open.spotify.com/artist/3inayuwqelcAnYCacc19zX"
-        },
-        {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
-        },
-        {
-          "name": "Short Circuit",
-          "url": "https://open.spotify.com/artist/7t7yU2xOoYhHj8ZIX1SLoa"
-        }
-      ],
-      "duration_ms": 312237,
-      "name": "Downfall (Short Circuit Remix)",
-      "url": "https://open.spotify.com/track/3eQNql669vVuDGXRwILxX2"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "The Jethro Tull Christmas Album - Fresh Snow At Christmas (2024 Remix)",
-        "url": "https://open.spotify.com/album/0NNXA1cc9uwtkRYliqW1GI"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Ring Out Solstice Bells - 2024 Remix",
-      "url": "https://open.spotify.com/track/43wmjKZKYoIWjWoifKvUD9"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -635,78 +595,18 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "Breathless (Warren Remix)",
-        "url": "https://open.spotify.com/album/5p432Akx3FOjYQSY39A21E"
+        "name": "The wish",
+        "url": "https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL"
       },
       "artists": [
         {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        },
-        {
-          "name": "Warren",
-          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 189418,
-      "name": "Breathless - Warren Remix",
-      "url": "https://open.spotify.com/track/7EP0kH3jnSy7MMrmLypu6h"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
-        "url": "https://open.spotify.com/album/3h3ErEec09J09JoWPrTadq"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 128899,
-      "name": "Coraz\u00f3n de Im\u00e1n (Homenaje a Medell\u00edn)",
-      "url": "https://open.spotify.com/track/3KdfkucMpM4qIFHTYRXNKM"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "Angels In The Snow (Discotastique! Mix)",
-        "url": "https://open.spotify.com/album/0cOvFW5oKEicU2q1Cd02ma"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 193623,
-      "name": "Angels In The Snow - Discotastique! Mix",
-      "url": "https://open.spotify.com/track/65MrTcfCooC0j88v5vbejh"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "PROFE",
-        "url": "https://open.spotify.com/album/1meRwsCIUwhOUI1RrYdymw"
-      },
-      "artists": [
-        {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        },
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "didgo",
-          "url": "https://open.spotify.com/artist/1f6DEHCnkjWvmLBeMIyfe5"
-        }
-      ],
-      "duration_ms": 119192,
-      "name": "Pareciera",
-      "url": "https://open.spotify.com/track/7nmTxkvOlpU537aJoLAJex"
+      "duration_ms": 167626,
+      "name": "The wish",
+      "url": "https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -727,26 +627,6 @@
       "duration_ms": 362129,
       "name": "Impilo",
       "url": "https://open.spotify.com/track/37mMPeEPBUPc4R7OjTFmPl"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "Jamnapaari (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7baTlfJtlvZGlpNq4IjXmZ"
-      },
-      "artists": [
-        {
-          "name": "Xyro",
-          "url": "https://open.spotify.com/artist/7jywk3r81OA5bX5Lv0ONp4"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 129289,
-      "name": "Naya Maal",
-      "url": "https://open.spotify.com/track/1t7chQjHm7jFoVGxHNk6AP"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

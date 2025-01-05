@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 290086,
+  "num_followers": 290173,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAABoHjnR4dWUEGSuHJixZ67W",
+  "snapshot_id": "Z3cogAAAAADKD92VYc8id6FgjjKuyKkP",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 291330,
+      "name": "My Testimony (Live)",
+      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tumbas A Jardines",
         "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 353507,
       "name": "Tumbas A Jardines (Graves Into Gardens) (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 291330,
-      "name": "My Testimony (Live)",
-      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tumbas A Jardines",
         "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 419491,
       "name": "La Bendici\u00f3n (The Blessing)",
       "url": "https://open.spotify.com/track/5KNP7zONOFZqOL3ixeWMOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echo The Angels",
-        "url": "https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Jonsal Barrientes",
-          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
-        }
-      ],
-      "duration_ms": 141556,
-      "name": "O Little Town Of Bethlehem (feat. Jonsal Barrientes)",
-      "url": "https://open.spotify.com/track/2njAFpw8V1Y9sY5GcBFjtf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Another One (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Echo The Angels",
+        "url": "https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Jonsal Barrientes",
+          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+        }
+      ],
+      "duration_ms": 141556,
+      "name": "O Little Town Of Bethlehem (feat. Jonsal Barrientes)",
+      "url": "https://open.spotify.com/track/2njAFpw8V1Y9sY5GcBFjtf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -879,6 +879,26 @@
       "duration_ms": 424754,
       "name": "Won't Stop Now",
       "url": "https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 499155,
+      "name": "Forever YHWH (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 499155,
-      "name": "Forever YHWH (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 432052,
-      "name": "RATTLE! (Live)",
-      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "There Is a Cloud",
         "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 247533,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 432052,
+      "name": "RATTLE! (Live)",
+      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
     },
     {
       "added_at": null,

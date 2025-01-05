@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,360 songs - 2 day 23 hr 51 min
+1,361 songs - 2 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,8 @@
 | [Kóborló](https://open.spotify.com/track/5SIWaBphpIP5bzab2iObnW) | [ibbigang](https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy) | [Meztelen](https://open.spotify.com/album/5LhVVVtCePRdN8BpUTQAKb) | 3:06 | 2023-03-27 | 2023-03-31 |
 | [Körforgalom](https://open.spotify.com/track/62PcQw5WFsENhAxufi3slu) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Körforgalom](https://open.spotify.com/album/3tOag75czA6HzZQfDOQ8bG) | 3:10 | 2022-10-12 | 2022-10-17 |
 | [Kötelező](https://open.spotify.com/track/56seL5ZZab8ZlmKoknPZh3) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Ótvar Pestis](https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 2:00 | 2023-03-02 | 2023-04-07 |
-| [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2025-01-03 |  |
+| [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2025-01-03 | 2025-01-05 |
+| [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2025-01-04 |  |
 | [labtorlorekakiltam.mp3](https://open.spotify.com/track/0OsukLOsU4j2d698vrdTOC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 0:52 | 2022-03-12 | 2022-03-16 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-24 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-11 | 2023-11-13 |

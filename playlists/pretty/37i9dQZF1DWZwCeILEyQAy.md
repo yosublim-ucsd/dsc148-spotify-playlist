@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,428 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,432 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 18 | [Let Me See Something \(with Dusty Locane\)](https://open.spotify.com/track/3DMgyp1pF4Ztq1KuN3fUPM) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [Let Me See Something](https://open.spotify.com/album/165F8d6HOTQbnENTrvtTdo) | 2:24 |
 | 19 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
 | 20 | [Plot Twist](https://open.spotify.com/track/57EExczATPbwKJrxfwjEsu) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [The Last Doll](https://open.spotify.com/album/7yn4tvk6FnItSAPYgPaQ4F) | 2:46 |
-| 21 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
+| 21 | [Blick Sum](https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:11 |
 | 22 | [WTFO](https://open.spotify.com/track/6F5g5wyan1J0k0vXuscBSX) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [WTFO](https://open.spotify.com/album/2TiinfW9n75HG9dpUt5Plr) | 2:59 |
-| 23 | [Blick Sum](https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:11 |
+| 23 | [I Don't Wanna Be Saved \(feat\. Tay Keith\)](https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 |
 | 24 | [Pursuit Freestyle](https://open.spotify.com/track/2B73UoSzm1mABGzzMzLO2o) | [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Pursuit Freestyle](https://open.spotify.com/album/3MKfcWdsJDX09s36eVyqCM) | 2:29 |
 | 25 | [You Wish](https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [You Wish + Trashboi](https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv) | 2:00 |
 | 26 | [Brand New](https://open.spotify.com/track/0gkCuoQzy86HsdH7jMeXjk) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Brand New](https://open.spotify.com/album/3WtRTYXLKW8mG5eB8xVabm) | 2:22 |

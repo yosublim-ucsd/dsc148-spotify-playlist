@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 320664,
+  "num_followers": 320773,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAAy2erkeo6Q4vk9WUW3K7Sv",
+  "snapshot_id": "Z3cogAAAAADhWLId4GuBj33PxYteUO2z",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Catafixia",
+        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "La Paso Bien",
+      "url": "https://open.spotify.com/track/28YY7biYW6ocfOxl2blQPA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BW",
         "url": "https://open.spotify.com/album/1CGDlDzRZwzxCMcT6qXXRs"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 171443,
       "name": "BW",
       "url": "https://open.spotify.com/track/5UJvtcAGjB4HkcJTacYWXP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Catafixia",
-        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "La Paso Bien",
-      "url": "https://open.spotify.com/track/28YY7biYW6ocfOxl2blQPA"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Catafixia",
+        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "La Plebada del 09",
+      "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 168576,
       "name": "Me Haces Tan Bien",
       "url": "https://open.spotify.com/track/5NkAVF1k2tAmNdsFw4qVnM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Catafixia",
-        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "La Plebada del 09",
-      "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigan Atentos",
+        "url": "https://open.spotify.com/album/3pTXNK0qJ0YHwekN3k73JZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 306538,
+      "name": "Sigan Atentos",
+      "url": "https://open.spotify.com/track/4BRyqWvTTL74cJSpYKBZAz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El Audi",
         "url": "https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 198545,
       "name": "En El Audi",
       "url": "https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigan Atentos",
-        "url": "https://open.spotify.com/album/3pTXNK0qJ0YHwekN3k73JZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 306538,
-      "name": "Sigan Atentos",
-      "url": "https://open.spotify.com/track/4BRyqWvTTL74cJSpYKBZAz"
     },
     {
       "added_at": null,

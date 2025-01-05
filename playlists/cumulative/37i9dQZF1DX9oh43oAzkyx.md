@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-401 songs - 20 hr 11 min
+402 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Don't Rush \(feat\. DaBaby\)](https://open.spotify.com/track/3AMxuq6id3YGB57eWeheZQ) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Don't Rush \(feat\. DaBaby\)](https://open.spotify.com/album/5kjL5qfhBmKHjnnjSfhkBp) | 3:21 | 2021-01-04 | 2022-01-29 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-06 |  |
 | [Duck Duck Goose](https://open.spotify.com/track/3pnSl76sUiuy1kEBiftn36) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Duck Duck Goose](https://open.spotify.com/album/63hKh0W6ASqIYDAxd2FTN1) | 3:00 | 2021-10-29 | 2022-07-29 |
+| [Due 4A Win](https://open.spotify.com/track/6xL8V1ArJD5CSDcWyWvFJ7) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:06 | 2025-01-03 |  |
 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-03 |  |
 | [Enemies \(feat\. DaBaby\)](https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:16 | 2021-01-04 | 2022-07-30 |
 | [Enemies \(feat\. DaBaby\)](https://open.spotify.com/track/6UFEJuDXQMWhL5UH5f9fUR) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Hollywood's Bleeding](https://open.spotify.com/album/3KziODx7ieQTgYCVrS6nBv) | 3:16 | 2021-01-04 | 2022-07-20 |
@@ -306,7 +307,7 @@
 | [Rich MF \(feat\. Polo G & Lil Durk\)](https://open.spotify.com/track/5KQxun2WxwDMsV7HCN2ONK) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Trip At Knight](https://open.spotify.com/album/2CKiKnlmneU5Lr0aQLB83Q) | 4:07 | 2021-08-20 | 2022-01-29 |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-07-01 | 2022-09-10 |
 | [Right Now](https://open.spotify.com/track/5hcks5jFFywEdhVSeNir1Q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:52 | 2024-10-28 | 2024-10-31 |
-| [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-08 |  |
+| [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2022-04-08 | 2025-01-05 |
 | [Robberies](https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Robberies](https://open.spotify.com/album/2TTGhSL8VlgeoPac0G4aK0) | 2:08 | 2023-06-23 | 2023-07-01 |
 | [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 | 2021-11-12 | 2023-06-10 |
 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 | 2022-03-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0TGRaUc5Mdji6yvcZqnkjW?si=XzEddnlOSca42ud7G\_pARA">Skemer</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,444 likes - 89 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,475 likes - 89 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

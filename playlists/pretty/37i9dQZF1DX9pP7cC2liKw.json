@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 298966,
+  "num_followers": 299257,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -409,26 +409,6 @@
       "url": "https://open.spotify.com/track/3mtSuDBEROnM30OouovNny"
     },
     {
-      "added_at": "2023-10-24 02:03:26",
-      "album": {
-        "name": "Carrossel Do Tempo",
-        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Abr\u00e3o",
-          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "Carrossel Do Tempo",
-      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Claremont 56: 10 Years, Pt. 1",
@@ -447,6 +427,26 @@
       "duration_ms": 429913,
       "name": "Teu Sorriso - Jex Opolis Remix",
       "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
+    },
+    {
+      "added_at": "2023-10-24 02:03:26",
+      "album": {
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Abr\u00e3o",
+          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
+        }
+      ],
+      "duration_ms": 297440,
+      "name": "Carrossel Do Tempo",
+      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
     },
     {
       "added_at": "2024-09-06 18:30:54",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Dubamerica",
-        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Chichera",
-      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -999,8 +983,24 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Amor Entre Mujer",
-        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
+        "name": "Dubamerica",
+        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 336373,
+      "name": "Chichera",
+      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
+    },
+    {
+      "added_at": "2022-11-17 23:06:29",
+      "album": {
+        "name": "El Sabor del Viejo Mar",
+        "url": "https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1"
       },
       "artists": [
         {
@@ -1008,17 +1008,17 @@
           "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "Polocorp",
-          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         },
         {
           "name": "Eva de Marce",
           "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 272799,
-      "name": "Amor Entre Mujer",
-      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
+      "duration_ms": 263265,
+      "name": "El Sabor del Viejo Mar",
+      "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
     },
     {
       "added_at": "2023-03-16 23:40:55",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Hybridism",
+        "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 308813,
+      "name": "Aima",
+      "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Encerrada",
         "url": "https://open.spotify.com/album/5jCdPRTOcPLQNPZNHugD0s"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 183685,
       "name": "Encerrada",
       "url": "https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Hybridism",
-        "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 308813,
-      "name": "Aima",
-      "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
     },
     {
       "added_at": "2022-08-11 18:18:05",

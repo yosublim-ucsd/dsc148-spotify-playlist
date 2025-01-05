@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Cardellino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,314 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,297 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 12 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |
 | 13 | [PA K](https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PA K](https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv) | 3:41 |
 | 14 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 |
-| 15 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
-| 16 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
+| 15 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
+| 16 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
 | 17 | [1960](https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 6:10 |
 | 18 | [pero me estoy acabando.](https://open.spotify.com/track/4UcnP64mbjBbjSDgSv5YYT) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 2:46 |
 | 19 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 57 | [Polos Opuestos](https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Polos Opuestos](https://open.spotify.com/album/4GMF9CjlJMg2H76nOfjMS5) | 4:23 |
 | 58 | [SAL](https://open.spotify.com/track/4BCkyORz0JfIUXssSeH6da) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [SAL](https://open.spotify.com/album/7EnUrRK3snJYXn19NOIdQh) | 3:21 |
 | 59 | [FRANCISCA](https://open.spotify.com/track/4GtX9rw0N1IhW3XCy1THqv) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Francisca](https://open.spotify.com/album/15No0LplLrXtuAd2DjqO0D) | 3:37 |
-| 60 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
-| 61 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
+| 60 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
+| 61 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
 | 62 | [Ataúd](https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Ataúd](https://open.spotify.com/album/0yqQUNP3AgdMVsfRoxn6f8) | 3:09 |
 | 63 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 |
 | 64 | [Cowboy Rockstar](https://open.spotify.com/track/7d5uMAljrHXbnubvVY7msG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cowboy Rockstar](https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0) | 2:45 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 71 | [VALLADO 3](https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Joyas Del Barrio](https://open.spotify.com/album/4pDa0Jkg14v3coFy2DLuG0) | 2:55 |
 | 72 | [Asuntillo](https://open.spotify.com/track/3S6R6gGy81gwNrxxZNFtu0) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE) | [Asuntillo](https://open.spotify.com/album/75vsYMloY3bdhjUOMxBEfU) | 2:31 |
 | 73 | [Flecha](https://open.spotify.com/track/3pKqURqogvWFugRGpWy0pG) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Flecha](https://open.spotify.com/album/6sLIkokHAjU2QpAZyPs97a) | 3:15 |
-| 74 | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/track/6Vw4uYHn7QdF7J9Kv9tvVI) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Medallo\-Madrid\-Mazatlán](https://open.spotify.com/album/5zWAj8xHhuIpQT0GxwNAZL) | 2:06 |
-| 75 | [chill like that ft\. Jesse Baez](https://open.spotify.com/track/1z64753zgOTLJ4Q4FSPSlu) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [chill like that ft\. Jesse Baez](https://open.spotify.com/album/0i1sMjimCOJt4zTrwkT0qJ) | 2:34 |
+| 74 | [chill like that ft\. Jesse Baez](https://open.spotify.com/track/1z64753zgOTLJ4Q4FSPSlu) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [chill like that ft\. Jesse Baez](https://open.spotify.com/album/0i1sMjimCOJt4zTrwkT0qJ) | 2:34 |
+| 75 | [Frenos](https://open.spotify.com/track/11yIt1zcPxuzpej8OU1TVh) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Frenos](https://open.spotify.com/album/5x2bLLQwL74zawwOFU0IYG) | 3:09 |
 
 Snapshot ID: `Z2B6dwAAAACw5Kk4t5C+IINKfxSJ7621`

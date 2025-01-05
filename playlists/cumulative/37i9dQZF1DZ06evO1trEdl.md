@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-112 songs - 6 hr 57 min
+113 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 | 2022-11-26 |  |
 | [Love Train \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6T19ChkTtuvJSKcg3xt0Mn) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 6:48 | 2022-05-30 | 2022-06-01 |
 | [Loving Cup](https://open.spotify.com/track/1nFqUkXakLMxpRZzfYIcIj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 3:07 | 2024-01-21 | 2024-05-01 |
-| [Loving Cup](https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:07 | 2022-05-25 |  |
+| [Loving Cup](https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:07 | 2022-05-25 | 2025-01-05 |
 | [Lowdown](https://open.spotify.com/track/5Yif0s3XbfCnznoFkvbQSG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:13 | 2022-11-26 | 2024-12-10 |
 | [MacArthur Park](https://open.spotify.com/track/5ORCXq29lxskGi0V082NBl) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 6:44 | 2023-04-15 | 2023-05-03 |
 | [MacArthur Park](https://open.spotify.com/track/6SqeK2h7wWHs0BqtEJ5u9r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 6:44 | 2022-05-28 | 2022-08-27 |
@@ -78,6 +78,7 @@
 | [My Simple Heart](https://open.spotify.com/track/1DPxZZCpNJ0zbgrvVZ4Ni4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:29 | 2022-05-25 |  |
 | [No, No Not Again](https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [60's Girl Groups](https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP) | 2:45 | 2022-05-25 |  |
 | [Red Light](https://open.spotify.com/track/4brsAsm0UZztPTUuMZaLn4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Together](https://open.spotify.com/album/40eFBdD9yoC9f6NbqlYZbp) | 5:22 | 2022-10-20 | 2022-10-31 |
+| [Red Light](https://open.spotify.com/track/5pxDzfU6DyOHOtCICFUQOI) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 5:42 | 2025-01-05 |  |
 | [Requiem](https://open.spotify.com/track/5da5BnxJydeLtlmhjwCBaA) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 4:34 | 2023-09-02 | 2023-09-06 |
 | [Rosegarden](https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:44 | 2022-05-25 |  |
 | [Somos Novios \(It's Impossible\)](https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 | 2022-05-25 | 2022-11-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 12322,
+  "num_followers": 12335,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAAz148tb/HisQLTRSlzOgeM",
+  "snapshot_id": "Z3cogAAAAAB6U1wSFaTcCXVLp9eMQ/tr",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Botano (\u00datero Baixo)",
         "url": "https://open.spotify.com/album/7baADEZGaDw6LsdwyaOSEX"
       },
@@ -151,30 +175,6 @@
       "duration_ms": 166153,
       "name": "Botano (\u00datero Baixo)",
       "url": "https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
     },
     {
       "added_at": null,
@@ -231,6 +231,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Rotina 2",
+      "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Larga Essa Vida",
         "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
       },
@@ -259,30 +283,6 @@
       "duration_ms": 119008,
       "name": "Larga Essa Vida",
       "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Prod Malax",
-          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Rotina 2",
-      "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
     },
     {
       "added_at": null,
@@ -363,30 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 136703,
-      "name": "Meu Problema",
-      "url": "https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Queridinho de Deus",
         "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 261463,
       "name": "A Paz Que Eu Busco",
       "url": "https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 136703,
+      "name": "Meu Problema",
+      "url": "https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz"
     },
     {
       "added_at": null,
@@ -487,34 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ainda Sinto Muito",
-      "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set da Menorzinha 1.0",
         "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
       },
@@ -539,6 +511,34 @@
       "duration_ms": 324986,
       "name": "Set da Menorzinha 1.0",
       "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ainda Sinto Muito",
+      "url": "https://open.spotify.com/track/3EsXAyrOwQGyuau5lC55Ys"
     },
     {
       "added_at": null,

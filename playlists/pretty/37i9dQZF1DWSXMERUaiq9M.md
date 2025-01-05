@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 NYE takeover: All tracks picked by Marlon Hoffstadt aka DJ Daddy Trance 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,916 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,028 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 39 | [Midsommar](https://open.spotify.com/track/79JUzsH4mlxo0HQvBwECi7) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Løvehjerte](https://open.spotify.com/album/7sSy3PAvDBJHbxZxNcY95U) | 4:35 |
 | 40 | [Mission Impossible III](https://open.spotify.com/track/0NeYTEmugY7xa3xiKIAnVP) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH) | [The Head Hurts but the Heart Knows the Truth](https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x) | 3:28 |
 | 41 | [Summer Groove](https://open.spotify.com/track/2OmBnJNU8POZJF7c1ljtXe) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Summer Groove](https://open.spotify.com/album/03MBgy8etYD59jnc8v2ltr) | 3:13 |
-| 42 | [Europaträume](https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Europaträume](https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf) | 3:36 |
-| 43 | [Rush \(I don't wanna wait\)](https://open.spotify.com/track/7tkPw0P56OY7TunYp1PXnQ) | [Benwal](https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl) | [Rush \(I don't wanna wait\)](https://open.spotify.com/album/4Ft7cYMDNGAQt50FBfTnXk) | 2:33 |
-| 44 | [It Feels So Good \- Conductor & The Cowboy Amnesia Mix](https://open.spotify.com/track/1iJIIQzHoNg1mKEwzEMEus) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI), [The Conductor & The Cowboy](https://open.spotify.com/artist/33N9EYlv06HF26gpMMFGZk) | [It Feels So Good](https://open.spotify.com/album/4ZLg8NqICOWQlPxVptBH4w) | 9:07 |
+| 42 | [Rush \(I don't wanna wait\)](https://open.spotify.com/track/7tkPw0P56OY7TunYp1PXnQ) | [Benwal](https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl) | [Rush \(I don't wanna wait\)](https://open.spotify.com/album/4Ft7cYMDNGAQt50FBfTnXk) | 2:33 |
+| 43 | [It Feels So Good \- Conductor & The Cowboy Amnesia Mix](https://open.spotify.com/track/1iJIIQzHoNg1mKEwzEMEus) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI), [The Conductor & The Cowboy](https://open.spotify.com/artist/33N9EYlv06HF26gpMMFGZk) | [It Feels So Good](https://open.spotify.com/album/4ZLg8NqICOWQlPxVptBH4w) | 9:07 |
+| 44 | [Europaträume](https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Europaträume](https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf) | 3:36 |
 | 45 | [ELEMENTS 2](https://open.spotify.com/track/41ms08jzNzvkdFjWVyeiE7) | [EARGASM GOD](https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp) | [ELEMENTS 2](https://open.spotify.com/album/5rYkb1JeOzm6I1QzDV5ozq) | 3:51 |
 | 46 | [Space Invaders](https://open.spotify.com/track/4SKVcIaAP4JCr8HFRWtKqv) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Space Invaders](https://open.spotify.com/album/7uJCaBM2wxgEvy2GWggNOY) | 4:17 |
 | 47 | [FAF](https://open.spotify.com/track/5HO6Ktb8VhUlRAz8NXsScT) | [Surf 2 Glory](https://open.spotify.com/artist/1GQzSnBwaUlIdqFDiuktN3) | [FAF](https://open.spotify.com/album/5fJBS7Ous2WYOQjrBP77qa) | 2:47 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 60 | [Pretty Green Eyes \- Extended Mix](https://open.spotify.com/track/4cmtzpUp918D4XOGD43fzo) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [Pretty Green Eyes \(Remixes\)](https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk) | 6:53 |
 | 61 | [Freak The Funk](https://open.spotify.com/track/0JsEw39KJQUZ6gDQBbiwve) | [Linds](https://open.spotify.com/artist/6ZGqNbBtVrSU2EgalYQksc), [Edvvin](https://open.spotify.com/artist/73rVEJASouJSuSvcXR2YyI) | [Freak The Funk](https://open.spotify.com/album/24D05CeYz42rDf1W42a3y5) | 4:08 |
 | 62 | [MOVE IT](https://open.spotify.com/track/6cONtKwkzZM9dXjRn9KxHh) | [Ollie Lishman](https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0) | [WATCH YO STEP](https://open.spotify.com/album/6tl4o9o6XIIXwz95fGYRLQ) | 4:58 |
-| 63 | [Take Care of You](https://open.spotify.com/track/7AeN1ihkjZeNE2XiCL5YQI) | [Dangerous Dreaming](https://open.spotify.com/artist/0vWXZcuwvJKsjqzpunhy4i) | [Feel It](https://open.spotify.com/album/6IZ2x8Yhy8SoUHMMq1kpY7) | 3:37 |
-| 64 | [Roll With Ice](https://open.spotify.com/track/2SHfyEsNnoGtAKyYKXj4rg) | [Arman John](https://open.spotify.com/artist/4cWhaaPUsxFe3z7fPNfzwL) | [Phased Records VA\. 001](https://open.spotify.com/album/45b8OKp9Jw9iRp6H3GFQ4p) | 5:06 |
+| 63 | [Roll With Ice](https://open.spotify.com/track/2SHfyEsNnoGtAKyYKXj4rg) | [Arman John](https://open.spotify.com/artist/4cWhaaPUsxFe3z7fPNfzwL) | [Phased Records VA\. 001](https://open.spotify.com/album/45b8OKp9Jw9iRp6H3GFQ4p) | 5:06 |
+| 64 | [Take Care of You](https://open.spotify.com/track/7AeN1ihkjZeNE2XiCL5YQI) | [Dangerous Dreaming](https://open.spotify.com/artist/0vWXZcuwvJKsjqzpunhy4i) | [Feel It](https://open.spotify.com/album/6IZ2x8Yhy8SoUHMMq1kpY7) | 3:37 |
 | 65 | [WHISTLE TOOL](https://open.spotify.com/track/0cFtnEsoorifLEDjrDZVRb) | [Luke Hovey](https://open.spotify.com/artist/3gd2jHvnYcd20gXy8jzaXf) | [WHISTLE TOOL](https://open.spotify.com/album/7tDm86k732HXLWEgBLm3kZ) | 4:27 |
 | 66 | [Small Steps](https://open.spotify.com/track/4zYLzlHjNsAylibEcKq9RK) | [D S D](https://open.spotify.com/artist/4g8BjUgv4gbpeOdJmlosh5) | [Small Steps](https://open.spotify.com/album/3J9RFPDX3NfQeiq0VoA3Rq) | 4:27 |
 | 67 | [Lalala \- 4am Club Mix](https://open.spotify.com/track/2BrjxcaFVwTVyObNix7d5W) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz), [Zinda Reinhardt](https://open.spotify.com/artist/5UwjmM9lYXJ4RIyabSSE8s) | [Lalala](https://open.spotify.com/album/78tFhBC20K9FouxalWWWAK) | 5:36 |

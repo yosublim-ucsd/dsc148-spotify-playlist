@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 314142,
+  "num_followers": 314175,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAADf4z395GMBQpknJ+0wm4NC",
+  "snapshot_id": "Z3cogAAAAACTY+mURmZhAxMELNzKu/Qs",
   "tracks": [
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Night Bird Flying - Alternate Version",
-      "url": "https://open.spotify.com/track/1NlQuvJtH8oydyTFkAsFRp"
+      "duration_ms": 372560,
+      "name": "Straight Ahead - Takes 1 & 2",
+      "url": "https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 372560,
-      "name": "Straight Ahead - Takes 1 & 2",
-      "url": "https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg"
+      "duration_ms": 234346,
+      "name": "Night Bird Flying - Alternate Version",
+      "url": "https://open.spotify.com/track/1NlQuvJtH8oydyTFkAsFRp"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 277346,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/065DgHzdiTnwiwEEBHFrIN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rainbow Bridge",
         "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 364626,
       "name": "Hey Baby (New Rising Sun)",
       "url": "https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 277346,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/065DgHzdiTnwiwEEBHFrIN"
     },
     {
       "added_at": null,

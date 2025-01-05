@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296541,
+  "num_followers": 296521,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Money (Hope Ain\u2019t Gone)",
-        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 246139,
-      "name": "Money (Hope Ain\u2019t Gone)",
-      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "What Does Your Soul Look Like",
         "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 204499,
       "name": "Parallax Error",
       "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Money (Hope Ain\u2019t Gone)",
+        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 246139,
+      "name": "Money (Hope Ain\u2019t Gone)",
+      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
     },
     {
       "added_at": "2024-12-03 09:27:47",

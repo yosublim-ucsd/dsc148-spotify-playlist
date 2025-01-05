@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,542 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,556 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 47 | [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:15 |
 | 48 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
 | 49 | [No Games](https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [No Games](https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B) | 2:49 |
-| 50 | [Mentali](https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Mentali](https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH) | 2:30 |
-| 51 | [mo de ma \[by any minz\]](https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [mo de ma \[by any minz\]](https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk) | 2:57 |
+| 50 | [mo de ma \[by any minz\]](https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [mo de ma \[by any minz\]](https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk) | 2:57 |
+| 51 | [Mentali](https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Mentali](https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH) | 2:30 |
 | 52 | [Sweet For Joy](https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5) | [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Sweet For Joy](https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7) | 2:45 |
 | 53 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 |
 | 54 | [Love Me](https://open.spotify.com/track/4A8dgDmHBhEiDtEGJcvU2g) | [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Grateful](https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ) | 2:16 |
-| 55 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |
-| 56 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 |
+| 55 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 |
+| 56 | [Tonight](https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [BOOK OF VASA](https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c) | 2:55 |
 | 57 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 |
 | 58 | [Instantly](https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Instantly](https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh) | 3:08 |
 | 59 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |

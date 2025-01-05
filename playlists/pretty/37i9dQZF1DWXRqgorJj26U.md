@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,380,121 likes - 200 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,381,537 likes - 200 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

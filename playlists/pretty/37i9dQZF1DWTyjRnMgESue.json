@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Abby Powledge",
-  "num_followers": 81505,
+  "num_followers": 81527,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 260509,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Peace of Mind (Morning)",
+        "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Peace of Mind (Morning)",
+      "url": "https://open.spotify.com/track/304kMmkKEVUVQOcT2WNhaq"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2p9oJBiFjBfz46rAa2lQ4x"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 215514,
       "name": "Free Treasure",
       "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Peace of Mind (Morning)",
-        "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Peace of Mind (Morning)",
-      "url": "https://open.spotify.com/track/304kMmkKEVUVQOcT2WNhaq"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1119,58 +1119,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Once A Bunch",
-        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 299354,
-      "name": "Once A Bunch",
-      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Water's Here In You",
-        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Fighting For (Hailey Whitters Version)",
-        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 249523,
-      "name": "Fighting For - (Hailey Whitters Version)",
-      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Hovvdy",
         "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
       },
@@ -1199,6 +1147,58 @@
       "duration_ms": 305306,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Fighting For (Hailey Whitters Version)",
+        "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 249523,
+      "name": "Fighting For - (Hailey Whitters Version)",
+      "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Once A Bunch",
+        "url": "https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 299354,
+      "name": "Once A Bunch",
+      "url": "https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz"
     },
     {
       "added_at": "2024-12-06 05:00:00",

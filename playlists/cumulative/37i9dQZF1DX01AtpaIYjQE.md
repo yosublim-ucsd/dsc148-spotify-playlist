@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-171 songs - 12 hr 7 min
+172 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [rapid life シンドローム](https://open.spotify.com/track/0Kmd9fVw0Mz6PgKHJCvraP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:48 | 2022-05-31 | 2023-06-14 |
 | [rapid life シンドローム](https://open.spotify.com/track/0LSFaKxqWSp2hp5hJc5n7g) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/7oPUiFyVwpKOyQ4TIBVg0J) | 4:48 | 2022-05-31 | 2022-07-29 |
 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 | 2023-06-13 |  |
+| [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-04 |  |
 | [Rising Hope](https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:11 | 2022-05-31 |  |
 | [Rising Hope](https://open.spotify.com/track/6cjLwn9Y6xm2laGb9BV3um) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rising Hope](https://open.spotify.com/album/2GMe4oDPk85ZVhF2aBhdkH) | 4:12 | 2022-11-07 | 2022-11-13 |
 | [Rising Hope](https://open.spotify.com/track/4ATrjNUnSvzskzN3HF8cPR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/3nMoTXUkEcRao1A5lWdsgR) | 4:13 | 2022-05-31 | 2022-07-29 |

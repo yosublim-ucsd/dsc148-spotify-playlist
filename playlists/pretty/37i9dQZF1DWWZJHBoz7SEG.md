@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Guarda espacio para la Rosca! Empezamos el año con música nueva y un estreno de José Madero, en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,274 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,574 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 27 | [Olvidar](https://open.spotify.com/track/4cIADL8ZSxyz78stzb4F6X) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Olvidar](https://open.spotify.com/album/74EUdXqT952F9FpGvqD59x) | 2:57 |
 | 28 | [Peines de 30](https://open.spotify.com/track/4iCSAjVvdkEpg0GoIYmrLa) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Peines de 30](https://open.spotify.com/album/5UakqvT8uVtF9DENseHm4f) | 3:09 |
 | 29 | [Saber quien sos?](https://open.spotify.com/track/0TghwdMX95ZUeDDD5OgBHi) | [LWLO](https://open.spotify.com/artist/5NzzlW9prBfOWiP3lzC9yp) | [Saber quien sos?](https://open.spotify.com/album/5gBvaRp4Pk4pRUXWG6omo0) | 2:25 |
-| 30 | [Una mala](https://open.spotify.com/track/5C4sUjH9D65b4wfqguh1O6) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Una mala](https://open.spotify.com/album/6RgyfqSHiEtIhBZQAckoew) | 2:53 |
+| 30 | [Una mala](https://open.spotify.com/track/5C4sUjH9D65b4wfqguh1O6) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Una mala](https://open.spotify.com/album/6RgyfqSHiEtIhBZQAckoew) | 2:53 |
 | 31 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 |
 | 32 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 |
 | 33 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 |

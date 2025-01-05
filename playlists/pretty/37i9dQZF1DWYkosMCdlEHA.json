@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 146656,
+  "num_followers": 146703,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -739,30 +739,6 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "Deixe Me Ir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
-        }
-      ],
-      "duration_ms": 213191,
-      "name": "Deixe Me Ir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
         "name": "Rastafari Centennial: Live In Paris - Elysee Montmartre",
         "url": "https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 238687,
       "name": "Proibiram as Flores - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
+        "name": "Deixe Me Ir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
+        }
+      ],
+      "duration_ms": 213191,
+      "name": "Deixe Me Ir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
     },
     {
       "added_at": "2024-07-05 13:49:13",

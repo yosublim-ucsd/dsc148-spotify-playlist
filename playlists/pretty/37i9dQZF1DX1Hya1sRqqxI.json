@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 508710,
+  "num_followers": 509335,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 232760,
       "name": "Sir Duke",
       "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "4 Hits: Eruption",
-        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
-      },
-      "artists": [
-        {
-          "name": "Eruption",
-          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "One Way Ticket",
-      "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Bad Girls",
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Right Back Where We Started From",
-        "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
+        "name": "4 Hits: Eruption",
+        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
       },
       "artists": [
         {
-          "name": "Maxine Nightingale",
-          "url": "https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi"
+          "name": "Eruption",
+          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Right Back Where We Started From",
-      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
+      "duration_ms": 213200,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1415,6 +1399,22 @@
       "duration_ms": 180493,
       "name": "If You Want Me to Stay",
       "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Right Back Where We Started From",
+        "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
+      },
+      "artists": [
+        {
+          "name": "Maxine Nightingale",
+          "url": "https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Right Back Where We Started From",
+      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "The Singles 1974 - 76",
-        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
       "artists": [
         {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
+      "duration_ms": 205733,
+      "name": "Grease - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+        "name": "The Singles 1974 - 76",
+        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
       },
       "artists": [
         {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Grease - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1885,6 +1885,22 @@
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "I Remember Yesterday",
@@ -1917,20 +1933,20 @@
       "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
       },
       "artists": [
         {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+          "name": "Ohio Players",
+          "url": "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
         }
       ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
+      "duration_ms": 290160,
+      "name": "Love Rollercoaster",
+      "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1947,22 +1963,6 @@
       "duration_ms": 295480,
       "name": "Hot Love - A Side",
       "url": "https://open.spotify.com/track/4R5qHNB2gdxBM2LDNaJZeO"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
-      },
-      "artists": [
-        {
-          "name": "Ohio Players",
-          "url": "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
-        }
-      ],
-      "duration_ms": 290160,
-      "name": "Love Rollercoaster",
-      "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Average White Band",
+        "url": "https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC"
+      },
+      "artists": [
+        {
+          "name": "Average White Band",
+          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Pick up the Pieces",
+      "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Caribou (Remastered 1995)",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 242133,
       "name": "I'm Your Boogie Man",
       "url": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Average White Band",
-        "url": "https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC"
-      },
-      "artists": [
-        {
-          "name": "Average White Band",
-          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Pick up the Pieces",
-      "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2109,22 +2109,6 @@
       "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Never Can Say Goodbye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Never Can Say Goodbye - Single Version",
-      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "McFadden & Whitehead",
@@ -2139,6 +2123,22 @@
       "duration_ms": 420986,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Never Can Say Goodbye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Never Can Say Goodbye - Single Version",
+      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2173,22 +2173,6 @@
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Get Down Tonight - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
@@ -2207,6 +2191,22 @@
       "duration_ms": 363973,
       "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Get Down Tonight - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Got To Be There",
-        "url": "https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 439866,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Got To Be There",
+        "url": "https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2371,18 +2371,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Book Of Dreams",
-        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
+        "name": "A Taste Of Honey",
+        "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "A Taste Of Honey",
+          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Jet Airliner",
-      "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
+      "duration_ms": 338320,
+      "name": "Boogie Oogie Oogie - Remastered 2004",
+      "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "A Taste Of Honey",
-        "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
+        "name": "Book Of Dreams",
+        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
       },
       "artists": [
         {
-          "name": "A Taste Of Honey",
-          "url": "https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl"
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 338320,
-      "name": "Boogie Oogie Oogie - Remastered 2004",
-      "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
+      "duration_ms": 265840,
+      "name": "Jet Airliner",
+      "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
     },
     {
       "added_at": "2021-09-08 13:31:49",

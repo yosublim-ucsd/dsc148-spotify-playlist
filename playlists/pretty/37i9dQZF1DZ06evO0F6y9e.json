@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1014414,
+  "num_followers": 1014558,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAApyocqh8qvzoCN3hhp2D8w",
+  "snapshot_id": "Z3cogAAAAADwG6TpiPphVYdobHZMW3QQ",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Lo M\u00edo",
-        "url": "https://open.spotify.com/album/4QZT8OKrozrzH5IIJGVZBx"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/4rX1QSvkaQE2y5LJLVjFqG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El T\u00f3xico",
         "url": "https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Lo M\u00edo",
+        "url": "https://open.spotify.com/album/4QZT8OKrozrzH5IIJGVZBx"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/4rX1QSvkaQE2y5LJLVjFqG"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Estar\u00e9 Esperando (En Vivo)",
-        "url": "https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 221079,
-      "name": "Te Estar\u00e9 Esperando (En Vivo)",
-      "url": "https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/2EPeCWh8O4lxM4OGT3NTIH"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0oEv4Hy4kWmKUqdWHleOua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Estar\u00e9 Esperando (En Vivo)",
+        "url": "https://open.spotify.com/album/6glSiYSioOzvLo6cnv1hgZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 221079,
+      "name": "Te Estar\u00e9 Esperando (En Vivo)",
+      "url": "https://open.spotify.com/track/7v8pBPQxKtloKMp7kkSkb8"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Ve\u00eda Venir",
+        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 152135,
+      "name": "Se Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Suspiros (En Vivo)",
         "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 185642,
       "name": "Suspiros (En Vivo)",
       "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Ve\u00eda Venir",
-        "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 152135,
-      "name": "Se Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/5yeNV4fEsdm1oeyureAJUz"
     },
     {
       "added_at": null,

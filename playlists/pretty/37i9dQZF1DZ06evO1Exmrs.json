@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 314373,
+  "num_followers": 314741,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAC65OrktWjXE/w/clUSlnhq",
+  "snapshot_id": "Z3cogAAAAAA+3Ey6zVl69WTur9DhLgh8",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Fenway Park",
-        "url": "https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 140327,
-      "name": "Pain Is Cold Water - Live From Fenway Park",
-      "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 225893,
       "name": "Sink",
       "url": "https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Fenway Park",
+        "url": "https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 140327,
+      "name": "Pain Is Cold Water - Live From Fenway Park",
+      "url": "https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Blood (Acoustic)",
-        "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Young Blood - Acoustic",
-      "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 214426,
       "name": "Tidal",
       "url": "https://open.spotify.com/track/2DPI5lHpb0wmjaL222fPdF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Young Blood (Acoustic)",
+        "url": "https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Young Blood - Acoustic",
+      "url": "https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP"
     },
     {
       "added_at": null,

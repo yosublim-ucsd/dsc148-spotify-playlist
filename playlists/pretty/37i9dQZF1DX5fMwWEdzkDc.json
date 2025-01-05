@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 16309,
+  "num_followers": 16324,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
-        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
-      },
-      "artists": [
-        {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 244128,
-      "name": "\ubcf4\uace0\uc2f6\ub2e4",
-      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Girls' Generation",
         "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 199240,
       "name": "Kissing You",
       "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
+        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
+      },
+      "artists": [
+        {
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 244128,
+      "name": "\ubcf4\uace0\uc2f6\ub2e4",
+      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Honey (Special Edition)",
-        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Wax02 : \ud654\uc7a5\uc744 \uace0\uce58\uace0",
         "url": "https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 250386,
       "name": "\ud654\uc7a5\uc744 \uace0\uce58\uace0",
       "url": "https://open.spotify.com/track/0e70x113268aBzaBaNHmrR"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Honey (Special Edition)",
+        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Enter The Dragon",
-        "url": "https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR"
-      },
-      "artists": [
-        {
-          "name": "JTL",
-          "url": "https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "My Lecon",
-      "url": "https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Atlantis Princess - The 3rd Album",
         "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Enter The Dragon",
+        "url": "https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR"
+      },
+      "artists": [
+        {
+          "name": "JTL",
+          "url": "https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "My Lecon",
+      "url": "https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 251689,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Pretty Girl (2nd Mini Album)",
+        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -775,22 +791,6 @@
       "duration_ms": 287741,
       "name": "\ub2e4\uc2dc \uc0ac\ub791\ud55c\ub2e4 \ub9d0\ud560\uae4c",
       "url": "https://open.spotify.com/track/52p5RtEaTXx1u1udrx8Fqr"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Pretty Girl (2nd Mini Album)",
-        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "\ud30c\ub3c4",
+      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Ames Room",
         "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 263079,
       "name": "Then Then Then",
       "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "\ud30c\ub3c4",
-      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "fuzz . Buzz",
-        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
-      },
-      "artists": [
-        {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
-        }
-      ],
-      "duration_ms": 253879,
-      "name": "You Don't Know Men",
-      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
@@ -1295,18 +1279,34 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
+        "name": "fuzz . Buzz",
+        "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
       },
       "artists": [
         {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
         }
       ],
-      "duration_ms": 232960,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
+      "duration_ms": 253879,
+      "name": "You Don't Know Men",
+      "url": "https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Lovers in Paris (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 249352,
+      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Lovers in Paris (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
       },
       "artists": [
         {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
         }
       ],
-      "duration_ms": 249352,
-      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
-      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+      "duration_ms": 232960,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "MIRACLE - The 2.5th Album",
-        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
+        "name": "My Name - The 4th Album",
+        "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
       },
       "artists": [
         {
@@ -1468,25 +1468,9 @@
           "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 212960,
-      "name": "Valenti",
-      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Time-Honored Voice",
-        "url": "https://open.spotify.com/album/7gglfkk1keLjVQ3hPiMrr2"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 236460,
-      "name": "\uc88b\uc740\uc0ac\ub78c",
-      "url": "https://open.spotify.com/track/4bWe9azDFyJ7myQK0DqWva"
+      "duration_ms": 193026,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1507,6 +1491,22 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Time-Honored Voice",
+        "url": "https://open.spotify.com/album/7gglfkk1keLjVQ3hPiMrr2"
+      },
+      "artists": [
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 236460,
+      "name": "\uc88b\uc740\uc0ac\ub78c",
+      "url": "https://open.spotify.com/track/4bWe9azDFyJ7myQK0DqWva"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1563,8 +1563,8 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "My Name - The 4th Album",
-        "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
+        "name": "MIRACLE - The 2.5th Album",
+        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
       },
       "artists": [
         {
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 193026,
-      "name": "My Name",
-      "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
+      "duration_ms": 212960,
+      "name": "Valenti",
+      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
     },
     {
       "added_at": "2024-08-05 16:59:31",

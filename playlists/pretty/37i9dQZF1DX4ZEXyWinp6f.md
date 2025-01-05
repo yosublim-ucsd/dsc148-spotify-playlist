@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,759 likes - 75 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,822 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 17 | [Tales of the Future](https://open.spotify.com/track/21aDHnHXtZqnxqLaD0chkG) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:46 |
 | 18 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
 | 19 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
-| 20 | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/album/1NogWso5ElfJe4n8qKSdy9) | 8:44 |
-| 21 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
+| 20 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
+| 21 | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･ －･･ ･ ･－･･ ･－](https://open.spotify.com/album/1NogWso5ElfJe4n8qKSdy9) | 8:44 |
 | 22 | [Aura](https://open.spotify.com/track/0zYhhEnVPmb1cTwPYeCO44) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [The Priests Of Hiroshima](https://open.spotify.com/album/4qRNz1VSyZ7njYp3UKqKcu) | 2:41 |
 | 23 | [Schöne Hände](https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:05 |
 | 24 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 33 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
 | 34 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
 | 35 | [Red Tide](https://open.spotify.com/track/2pu5g2H7FrseHcmYev97bR) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Monument Builders](https://open.spotify.com/album/1anZBWOeghB5twG4CyJdoc) | 5:25 |
-| 36 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 |
+| 36 | [The Girl with the Sun in Her Head](https://open.spotify.com/track/2lbQIq3wQTZvdWnqL2e3Zp) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 10:27 |
 | 37 | [Spirales](https://open.spotify.com/track/1nOhbBe3MY3sF6wLWiROIa) | [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Deuter: San](https://open.spotify.com/album/4BBzx6fjLsoH10SwCABIvm) | 6:54 |
-| 38 | [The Girl with the Sun in Her Head](https://open.spotify.com/track/2lbQIq3wQTZvdWnqL2e3Zp) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 10:27 |
+| 38 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 |
 | 39 | [Hollow Earth](https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Hollow Earth](https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG) | 5:11 |
 | 40 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
 | 41 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 72 | [So weit, so gut](https://open.spotify.com/track/3FN3frDWGsI88XBPqS1c8E) | [Harald Grosskopf](https://open.spotify.com/artist/1yejR2Tszo9sGMXtmuq07K) | [Synthesist](https://open.spotify.com/album/5CrGQOQ2h1mchfGt4T8Qwd) | 5:28 |
 | 73 | [I'm Not Much, But I'm All I Have](https://open.spotify.com/track/2eX2M9ULuxWkDOZAioj683) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Even Temper](https://open.spotify.com/album/2SWQjbVkJg05fPrznE7Lxx) | 3:58 |
 | 74 | [Theme from Tron \- From "TRON"/Score](https://open.spotify.com/track/6h7kp0vSYQobYlsv30RpqH) | [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Wendy Carlos](https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB) | [Tron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7wIvILO6pAlr0jl46GLXLf) | 1:37 |
-| 75 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
+| 75 | [Mineral](https://open.spotify.com/track/5l4XtEgfT0li1rjMxWWgfH) | [Camedor](https://open.spotify.com/artist/2Tiv6XRYSJm0WUy7447n3c) | [Portal](https://open.spotify.com/album/6qoTf6fG9Q3CqTXHvhZgrC) | 4:58 |
 
 Snapshot ID: `Zxsz4AAAAADM3dvL1j+7XTIsGwo6gX7t`

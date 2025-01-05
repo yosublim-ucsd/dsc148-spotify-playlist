@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 298353,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/4kKZkjx7LSJwEk2F65pBKj"
@@ -744,6 +744,28 @@
       "duration_ms": 126792,
       "name": "Game is Game",
       "url": "https://open.spotify.com/track/0vTT53innCH0coexxq8GZf"
+    },
+    {
+      "album": {
+        "name": "GELBI T3AB (feat. Samara)",
+        "url": "https://open.spotify.com/album/7kACB4BQT5tZZ3wcFdOyaY"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243400,
+      "name": "GELBI T3AB (feat. Samara)",
+      "url": "https://open.spotify.com/track/5O0rw93ajyfd3gIDvH4AFL"
     },
     {
       "album": {

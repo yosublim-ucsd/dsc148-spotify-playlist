@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827 likes - 293 songs - 17 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,829 likes - 293 songs - 17 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 152 | [Money Conversations](https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:11 |
 | 153 | [Dope Game](https://open.spotify.com/track/5QHiWzDN9z3qkLyvM1w7JK) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:39 |
 | 154 | [The Bloodiest](https://open.spotify.com/track/3eEMeaaT3otIimFCcYcS7i) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:03 |
-| 155 | [See No Evil](https://open.spotify.com/track/0ndpJtfKGuGM3pyNwnwSUx) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 4:44 |
-| 156 | [Everything](https://open.spotify.com/track/0xPcT6j7JFdJjRvQelyGr6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:20 |
+| 155 | [Everything](https://open.spotify.com/track/0xPcT6j7JFdJjRvQelyGr6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:20 |
+| 156 | [See No Evil](https://open.spotify.com/track/0ndpJtfKGuGM3pyNwnwSUx) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 4:44 |
 | 157 | [Unholy Matrimony](https://open.spotify.com/track/1nTNZgKeqm4ODmIVL07nxe) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:20 |
 | 158 | [Never Satisfied \(feat\. Drake\)](https://open.spotify.com/track/11eVz92Nm7b2CTgA8OJVwp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 1:55 |
 | 159 | [Freedom \(with BEAM\)](https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 2:45 |
@@ -214,8 +214,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 204 | [I'm Gone](https://open.spotify.com/track/2tfmel8uAeKKZSHCSMP1P2) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 4:54 |
 | 205 | [I Need More](https://open.spotify.com/track/36fwOQjsEFesQvfEybK2Ei) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:52 |
 | 206 | [On This Way \(feat\. The Game & Iyla\)](https://open.spotify.com/track/20AUSGH3hwXA5FAujtcq8w) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [Evolution](https://open.spotify.com/album/3erY5XSpTKh0GfNf5FJuT2) | 4:39 |
-| 207 | [Rollin Around](https://open.spotify.com/track/2CNQJvz0b6VWBx7XHwctZW) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [The Sunset Tapes: A Cool Tape Story](https://open.spotify.com/album/5SEBhuhm9MbbRg3YOOuaCR) | 2:48 |
-| 208 | [SKYAMI \(feat\. Mango Foo\)](https://open.spotify.com/track/1bEwAeGJvobpPDTkw1mnb3) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:33 |
+| 207 | [SKYAMI \(feat\. Mango Foo\)](https://open.spotify.com/track/1bEwAeGJvobpPDTkw1mnb3) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:33 |
+| 208 | [Rollin Around](https://open.spotify.com/track/2CNQJvz0b6VWBx7XHwctZW) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [The Sunset Tapes: A Cool Tape Story](https://open.spotify.com/album/5SEBhuhm9MbbRg3YOOuaCR) | 2:48 |
 | 209 | [Unfortunate](https://open.spotify.com/track/6fb4HkiYfRe8JlHPX0TbZd) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:49 |
 | 210 | [Selfish](https://open.spotify.com/track/4LkAzufjnvMdolFuVnlZCt) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [A 64 East Saga](https://open.spotify.com/album/6rNaEOcCOyzFJfNTAp1SS8) | 1:37 |
 | 211 | [I Don't Really Care](https://open.spotify.com/track/0pETxJHPurwOfi6Iaw4Esx) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:40 |
@@ -302,4 +302,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 292 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 293 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `Abl6NAAAAAAC20oEiWID+1aH7VJsMO2z`
+Snapshot ID: `Abl/1AAAAAChhyIDJamTcroQeqWz2jOH`

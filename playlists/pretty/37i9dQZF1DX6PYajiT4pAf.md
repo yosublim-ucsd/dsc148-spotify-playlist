@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Morad y el resto de novedades más importantes de las 2 últimas semanas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,680 likes - 34 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,745 likes - 34 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 6 | [LOS DEPURO \(feat\. L\-Gante\)](https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 3:10 |
 | 7 | [PTAZETA AFTER HOUR THE MIXTAPE](https://open.spotify.com/track/7JGNwjvatvZd2eo31dWS8k) | [DJ Saot ST](https://open.spotify.com/artist/3L3OkLK1GPNoYh649m3nh7), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [PTAZETA AFTER HOUR THE MIXTAPE](https://open.spotify.com/album/73S5YnhKqSUZEZq8kxEJTw) | 2:15 |
 | 8 | [Bien Cerquita](https://open.spotify.com/track/17mKohp9z4vXEnXS3t1d0m) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Bien Cerquita](https://open.spotify.com/album/5IIHKCnJegS0eM3bnh7x5a) | 2:34 |
-| 9 | [La Verbena](https://open.spotify.com/track/56KMA7ORXnTVbu8a1gBZkT) | [Rasel](https://open.spotify.com/artist/1uh9OOdPa89c5zPaOD6K2N), [Luitingo](https://open.spotify.com/artist/7y1YqzNFSVsQLxlpLBYU1V) | [La Verbena](https://open.spotify.com/album/5MGLjeNggE2RNLVOuYxJhv) | 2:53 |
+| 9 | [La Verbena](https://open.spotify.com/track/56KMA7ORXnTVbu8a1gBZkT) | [Rasel](https://open.spotify.com/artist/1uh9OOdPa89c5zPaOD6K2N), [Luitingo](https://open.spotify.com/artist/7GjfLYzBwECarNKzMIiCDA) | [La Verbena](https://open.spotify.com/album/5MGLjeNggE2RNLVOuYxJhv) | 2:53 |
 | 10 | [Te Recojo](https://open.spotify.com/track/2fKLpV3iFLmBZnWnjb3MDs) | [Antonio Hernandez](https://open.spotify.com/artist/18ee3OkoEvUU0BiFGVU2Pw), [Bandaga](https://open.spotify.com/artist/0fdh6BhOBgk3vqVn2XKQ0F), [Mayel Jimenez](https://open.spotify.com/artist/5vnX0sfjkusMXzXpBEj4Ce) | [Te Recojo](https://open.spotify.com/album/69tIRD6Wa4iMYYCmvLvity) | 2:38 |
 | 11 | [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf) | 3:28 |
 | 12 | [I wonder](https://open.spotify.com/track/02XZ5kvbHHJ51xWsEVt13x) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [I wonder](https://open.spotify.com/album/69mFAqw4Z19dDhrWQM31bU) | 2:57 |

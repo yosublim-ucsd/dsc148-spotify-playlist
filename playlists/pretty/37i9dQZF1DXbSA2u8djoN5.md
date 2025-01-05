@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Vlad Dobrescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,570 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,575 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 33 | [EU](https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Ștefan IV: Umbra](https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t) | 4:13 |
 | 34 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 |
 | 35 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 |
-| 36 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
-| 37 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
+| 36 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
+| 37 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 38 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 |
 | 39 | [Transportin' \- Remix](https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Transportin' \(Remix\)](https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN) | 2:14 |
 | 40 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 |

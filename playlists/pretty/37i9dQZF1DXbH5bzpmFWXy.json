@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme MalaFe en portada.",
-  "num_followers": 175069,
+  "num_followers": 175087,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Apaga El Cel",
-        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 170832,
-      "name": "Apaga El Cel",
-      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "Apaga El Cel",
+        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 170832,
+      "name": "Apaga El Cel",
+      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/3Mv6C4dGHRGyrXjPYEe5d2"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 185567,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/3Mv6C4dGHRGyrXjPYEe5d2"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 185567,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/2eCJD7rEAjSt5zdV76qumQ"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "Lujo y Detalle",
         "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 158784,
       "name": "Lujo y Detalle",
       "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Tunechi (with Gabito Ballesteros)",
-        "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
       "artists": [
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Tunechi (with Gabito Ballesteros)",
-      "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
+        "name": "Tunechi (with Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/1m0Ss9jIyWVWmyZafWaVqZ"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Tunechi (with Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
         "name": "Corridos a Lo Maximo",
         "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 206461,
       "name": "David De Los Acme",
       "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
+        "name": "Estoy Carita",
+        "url": "https://open.spotify.com/album/7JLscX5AAvokBXhQS8CdQ0"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "El Compa JD",
+          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
+        }
+      ],
+      "duration_ms": 153388,
+      "name": "Estoy Carita",
+      "url": "https://open.spotify.com/track/1fioo8JPVz6CEVe52xpYov"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
         "name": "2pa2 (Remix)",
         "url": "https://open.spotify.com/album/3eSxismvYDBEIhGdDH4BXD"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 214218,
       "name": "2pa2 (Remix)",
       "url": "https://open.spotify.com/track/0pgOUN91P21GM313kz1QGj"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
-        "name": "Estoy Carita",
-        "url": "https://open.spotify.com/album/7JLscX5AAvokBXhQS8CdQ0"
-      },
-      "artists": [
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        },
-        {
-          "name": "El Compa JD",
-          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
-        }
-      ],
-      "duration_ms": 153388,
-      "name": "Estoy Carita",
-      "url": "https://open.spotify.com/track/1fioo8JPVz6CEVe52xpYov"
     },
     {
       "added_at": "2024-12-06 06:00:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2024-12-06 06:00:00",
       "album": {
-        "name": "Flore$",
-        "url": "https://open.spotify.com/album/1BjftBli83SYZBcvDEuSQH"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Tino Acosta",
-          "url": "https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN"
-        }
-      ],
-      "duration_ms": 126300,
-      "name": "Flore$",
-      "url": "https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0"
-    },
-    {
-      "added_at": "2024-12-06 06:00:00",
-      "album": {
         "name": "Hasta El QLO",
         "url": "https://open.spotify.com/album/59QlyRjPd5USQQ7OdbMIe3"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 162480,
       "name": "Hasta El QLO",
       "url": "https://open.spotify.com/track/4lTlUpfOSZphX37uotVwx6"
+    },
+    {
+      "added_at": "2024-12-06 06:00:00",
+      "album": {
+        "name": "Flore$",
+        "url": "https://open.spotify.com/album/1BjftBli83SYZBcvDEuSQH"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Tino Acosta",
+          "url": "https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN"
+        }
+      ],
+      "duration_ms": 126300,
+      "name": "Flore$",
+      "url": "https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0"
     },
     {
       "added_at": "2024-12-06 06:00:00",

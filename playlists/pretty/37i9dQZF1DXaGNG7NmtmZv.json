@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 228838,
+  "num_followers": 228876,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
-      },
-      "artists": [
-        {
-          "name": "Madball",
-          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Start Today",
         "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 149133,
       "name": "New Direction",
       "url": "https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
+      },
+      "artists": [
+        {
+          "name": "Madball",
+          "url": "https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Start Today",
-        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
-      },
-      "artists": [
-        {
-          "name": "Gorilla Biscuits",
-          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
-        }
-      ],
-      "duration_ms": 123706,
-      "name": "Start Today",
-      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 121706,
       "name": "New York City",
       "url": "https://open.spotify.com/track/2YL1QdU29cFAHrijICeiWA"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Start Today",
+        "url": "https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh"
+      },
+      "artists": [
+        {
+          "name": "Gorilla Biscuits",
+          "url": "https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N"
+        }
+      ],
+      "duration_ms": 123706,
+      "name": "Start Today",
+      "url": "https://open.spotify.com/track/1izvrCbd0C75ScVDI6uVOl"
     },
     {
       "added_at": "2024-02-07 16:33:52",

@@ -4,7 +4,7 @@
 
 > 
 
-2,051 songs - 4 day 14 hr 3 min
+2,052 songs - 4 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1517,6 +1517,7 @@
 | [Rät](https://open.spotify.com/track/25z6kpmIwkCUqk2IORrJ5v) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:14 | 2021-08-05 |  |
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2021-08-05 |  |
 | [Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:34 | 2023-01-11 |  |
+| [Safe with you](https://open.spotify.com/track/4cDTVDYhe2zmQIjrqeZyjH) | [Bootee](https://open.spotify.com/artist/70ApPROJ9p9TqFRRMIL0t8) | [Secrets of the heart](https://open.spotify.com/album/7nF1GDoRih1Vs5sezkr7QO) | 4:09 | 2025-01-05 |  |
 | [Safeword](https://open.spotify.com/track/2c4Est3dxGfn834VReid5d) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:36 | 2022-10-28 |  |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2022-02-18 |  |
 | [Sail](https://open.spotify.com/track/57Nez0yOaE9h7HuPObxDJP) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Decade](https://open.spotify.com/album/5nVWi9N2LrOLIZ1aKBmqwe) | 2:42 | 2021-12-30 |  |

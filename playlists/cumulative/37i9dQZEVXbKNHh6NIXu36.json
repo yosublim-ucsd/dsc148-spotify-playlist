@@ -20562,7 +20562,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -26074,7 +26074,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -41260,7 +41260,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -42374,6 +42374,24 @@
       "duration_ms": 150053,
       "name": "Sure Thing - Sped Up",
       "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
+    },
+    {
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/0ODBfRtcZwoNAPfHiSh9V1"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146729,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/2PJV3Ef8OzZId9Jfvz9eCn"
     },
     {
       "album": {
@@ -46348,7 +46366,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 134528,
       "name": "VEMPA",
       "url": "https://open.spotify.com/track/3pPMgoouYtezLiBTEeL9be"
@@ -47178,6 +47196,24 @@
       "duration_ms": 148938,
       "name": "Wahnsinn",
       "url": "https://open.spotify.com/track/2pnZ17l3SWlz1StKUDIqSZ"
+    },
+    {
+      "album": {
+        "name": "True (Bonus Edition)",
+        "url": "https://open.spotify.com/album/50oWFJ0mDEeMa74ElsdAp3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247426,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/3xNvgP5eZ49TIhcpCe28pu"
     },
     {
       "album": {

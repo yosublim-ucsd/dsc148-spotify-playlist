@@ -9404,7 +9404,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 196520,
       "name": "Engelbewaarder",
       "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
@@ -9840,7 +9840,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -15078,6 +15078,28 @@
       "duration_ms": 310720,
       "name": "I Still Have Faith In You",
       "url": "https://open.spotify.com/track/3ddxe0WYUpNPtSnHgQOad5"
+    },
+    {
+      "album": {
+        "name": "I Surrender (Remix)",
+        "url": "https://open.spotify.com/album/7yaehZezasawQfcqWOkbcT"
+      },
+      "artists": [
+        {
+          "name": "Joshua Robbie",
+          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "I Surrender - Remix",
+      "url": "https://open.spotify.com/track/7GDEIrIOGdE5AkQfuk1FA3"
     },
     {
       "album": {
@@ -23577,6 +23599,36 @@
     },
     {
       "album": {
+        "name": "Op Jou Heb Ik Gewacht",
+        "url": "https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2"
+      },
+      "artists": [
+        {
+          "name": "De Poema's",
+          "url": "https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        },
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175979,
+      "name": "Op Jou Heb Ik Gewacht",
+      "url": "https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn"
+    },
+    {
+      "album": {
         "name": "Altijd Samen",
         "url": "https://open.spotify.com/album/6BHxEiojDWUxosoajN3adD"
       },
@@ -29580,7 +29632,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -32620,7 +32672,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 166153,
       "name": "Vaag - REMIX",
       "url": "https://open.spotify.com/track/6eldmQ56gAtXN55c7MuH8N"

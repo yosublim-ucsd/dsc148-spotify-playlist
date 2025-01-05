@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 748500,
+  "num_followers": 749038,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 310597,
       "name": "You",
       "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 147466,
       "name": "Bitter with the Sweet",
       "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Take What's Given",
-        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 174257,
-      "name": "Take What's Given",
-      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+        "name": "Take What's Given",
+        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+      "duration_ms": 174257,
+      "name": "Take What's Given",
+      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1HzzYbhLEtoNJO4bljtOSw"
+      },
+      "artists": [
+        {
+          "name": "Jack Page",
+          "url": "https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs"
+        }
+      ],
+      "duration_ms": 211048,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1HzzYbhLEtoNJO4bljtOSw"
+        "name": "Dos Uvas",
+        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
       "artists": [
         {
-          "name": "Jack Page",
-          "url": "https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs"
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
         }
       ],
-      "duration_ms": 211048,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR"
+      "duration_ms": 209280,
+      "name": "Dos Uvas",
+      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1115,22 +1131,6 @@
       "duration_ms": 202720,
       "name": "I Don't",
       "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Dos Uvas",
-        "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Dos Uvas",
-      "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Favorite Kind of People",
+        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "duration_ms": 184776,
+      "name": "Favorite Kind of People",
+      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 303871,
       "name": "RISE",
       "url": "https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Favorite Kind of People",
-        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
-      },
-      "artists": [
-        {
-          "name": "Jaco Jaco",
-          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
-        }
-      ],
-      "duration_ms": 184776,
-      "name": "Favorite Kind of People",
-      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "Agony and Extasy",
         "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 278040,
       "name": "Intergalactic Love Song",
       "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "People Never Change",
-        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "People Never Change - Radio Edit",
-      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Open Season",
         "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 217047,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "People Never Change - Radio Edit",
+      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "The Midst of Things",
         "url": "https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 206344,
       "name": "U Got Me",
       "url": "https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Coolhand",
-        "url": "https://open.spotify.com/album/5ttfJqE5cQ9U0ffPuVOePK"
-      },
-      "artists": [
-        {
-          "name": "Buzzy Lee",
-          "url": "https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ"
-        }
-      ],
-      "duration_ms": 218719,
-      "name": "Coolhand",
-      "url": "https://open.spotify.com/track/3HkISVjNOvVrHmHZpKgkdE"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "The Amazing",
         "url": "https://open.spotify.com/album/0Ypv2UGOGLRKuVvequPBuZ"
       },
@@ -1923,18 +1907,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/5Sy2HSW8tHKGLKUsnhf9nT"
+        "name": "Coolhand",
+        "url": "https://open.spotify.com/album/5ttfJqE5cQ9U0ffPuVOePK"
       },
       "artists": [
         {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/6oSca91TK1jtHSCjVWp3mx"
+          "name": "Buzzy Lee",
+          "url": "https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ"
         }
       ],
-      "duration_ms": 154120,
-      "name": "Sister Bessie",
-      "url": "https://open.spotify.com/track/7C7ZkKUE1gmLgAGdEoIUks"
+      "duration_ms": 218719,
+      "name": "Coolhand",
+      "url": "https://open.spotify.com/track/3HkISVjNOvVrHmHZpKgkdE"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1951,6 +1935,22 @@
       "duration_ms": 210240,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/5Sy2HSW8tHKGLKUsnhf9nT"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/6oSca91TK1jtHSCjVWp3mx"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Sister Bessie",
+      "url": "https://open.spotify.com/track/7C7ZkKUE1gmLgAGdEoIUks"
     },
     {
       "added_at": "2024-12-16 17:08:47",

@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d0\u05d5\u05d3\u05d9\u05d4",
-  "num_followers": 25576,
+  "num_followers": 25575,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
-      },
-      "artists": [
-        {
-          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
-          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "\u05d0\u05d4 \u05d5\u05d5\u05d0\u05d5",
         "url": "https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs"
       },
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
+        "name": "\u05d9\u05dc\u05d3.",
+        "url": "https://open.spotify.com/album/3pXBVP6C43OfcXzIvBGUKG"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05dc\u05d3.",
+          "url": "https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG"
+        }
+      ],
+      "duration_ms": 217124,
+      "name": "\u05e9\u05de\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/5fa8pf8RcgYabA8GIwCKzc"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
         "name": "GODMOTHER (feat. Eden Ben Zaken)",
         "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
       },
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05d9\u05dc\u05d3.",
-        "url": "https://open.spotify.com/album/3pXBVP6C43OfcXzIvBGUKG"
+        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
       },
       "artists": [
         {
-          "name": "\u05d9\u05dc\u05d3.",
-          "url": "https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG"
+          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
+          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
         }
       ],
-      "duration_ms": 217124,
-      "name": "\u05e9\u05de\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/5fa8pf8RcgYabA8GIwCKzc"
+      "duration_ms": 228320,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -1671,22 +1671,22 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05e0\u05ea\u05e7 \u05d0\u05d5\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/5hcEdUlI8Ne2eiXtnFQXgY"
+        "name": "\u05d4\u05d0\u05de\u05ea",
+        "url": "https://open.spotify.com/album/42hRqDyszb7lDxQpZ0Ba7o"
       },
       "artists": [
         {
-          "name": "Kfir Tsafrir",
-          "url": "https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC"
+          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
         },
         {
-          "name": "Netta",
-          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+          "name": "\u05e8\u05d5\u05d0\u05d9 \u05d0\u05d3\u05dd",
+          "url": "https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG"
         }
       ],
-      "duration_ms": 200213,
-      "name": "\u05e0\u05ea\u05e7 \u05d0\u05d5\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/4DR0S0A8F5DBByYLnPjdCr"
+      "duration_ms": 177741,
+      "name": "\u05d4\u05d0\u05de\u05ea",
+      "url": "https://open.spotify.com/track/1bd0D0cXcpGeJXsn2Xt8lc"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -1707,22 +1707,22 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05d4\u05d0\u05de\u05ea",
-        "url": "https://open.spotify.com/album/42hRqDyszb7lDxQpZ0Ba7o"
+        "name": "\u05e0\u05ea\u05e7 \u05d0\u05d5\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/5hcEdUlI8Ne2eiXtnFQXgY"
       },
       "artists": [
         {
-          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+          "name": "Kfir Tsafrir",
+          "url": "https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC"
         },
         {
-          "name": "\u05e8\u05d5\u05d0\u05d9 \u05d0\u05d3\u05dd",
-          "url": "https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG"
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
         }
       ],
-      "duration_ms": 177741,
-      "name": "\u05d4\u05d0\u05de\u05ea",
-      "url": "https://open.spotify.com/track/1bd0D0cXcpGeJXsn2Xt8lc"
+      "duration_ms": 200213,
+      "name": "\u05e0\u05ea\u05e7 \u05d0\u05d5\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/4DR0S0A8F5DBByYLnPjdCr"
     },
     {
       "added_at": "2024-11-07 22:00:00",

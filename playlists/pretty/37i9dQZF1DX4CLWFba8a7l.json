@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 124657,
+  "num_followers": 124683,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
     },
     {
+      "added_at": "2024-11-21 13:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 239769,
+      "name": "Love at First Sight - Spotify Singles",
+      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
+    },
+    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "Ask That God",
@@ -527,22 +543,6 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
-    },
-    {
-      "added_at": "2024-11-21 13:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 239769,
-      "name": "Love at First Sight - Spotify Singles",
-      "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
     },
     {
       "added_at": "2024-11-28 13:00:00",
@@ -629,20 +629,20 @@
       "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
+      "added_at": "2024-12-12 13:00:04",
       "album": {
-        "name": "What You've Lost",
-        "url": "https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8"
+        "name": "MESO",
+        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
       },
       "artists": [
         {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
         }
       ],
-      "duration_ms": 171351,
-      "name": "What You've Lost",
-      "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
+      "duration_ms": 191200,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -677,20 +677,20 @@
       "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
-      "added_at": "2024-12-12 13:00:04",
+      "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "MESO",
-        "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
+        "name": "What You've Lost",
+        "url": "https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8"
       },
       "artists": [
         {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
+      "duration_ms": 171351,
+      "name": "What You've Lost",
+      "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
     },
     {
       "added_at": "2024-09-26 14:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Don't Know",
-        "url": "https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 132941,
-      "name": "Don't Know",
-      "url": "https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/58SF72zVryflAg0WvepRzb"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 192103,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Don't Know",
+        "url": "https://open.spotify.com/album/1EpBVYqg9adeRhRi3Gzx26"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 132941,
+      "name": "Don't Know",
+      "url": "https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Jerkin'",
-        "url": "https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 128658,
-      "name": "Jerkin'",
-      "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "Give You Love (feat. Jason Derulo)",
@@ -913,20 +897,20 @@
       "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
+      "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Don't Let Him Say Goodbye - Demo",
-        "url": "https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc"
+        "name": "Jerkin'",
+        "url": "https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD"
       },
       "artists": [
         {
-          "name": "JACOT\u00c9NE",
-          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 161989,
-      "name": "Don't Let Him Say Goodbye - Demo",
-      "url": "https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2"
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -945,6 +929,22 @@
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     },
     {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Don't Let Him Say Goodbye - Demo",
+        "url": "https://open.spotify.com/album/3h8zMEpUS5xqCMloCaTRuc"
+      },
+      "artists": [
+        {
+          "name": "JACOT\u00c9NE",
+          "url": "https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd"
+        }
+      ],
+      "duration_ms": 161989,
+      "name": "Don't Let Him Say Goodbye - Demo",
+      "url": "https://open.spotify.com/track/1tTzJnFVZVuGJyFWDXFdE2"
+    },
+    {
       "added_at": "2024-11-28 13:00:00",
       "album": {
         "name": "The Accident",
@@ -959,6 +959,22 @@
       "duration_ms": 166986,
       "name": "A Telephone Rings",
       "url": "https://open.spotify.com/track/4YOHjkwl6Jn6sZSx7eeIn4"
+    },
+    {
+      "added_at": "2024-12-05 13:00:00",
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 212043,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -997,22 +1013,6 @@
       "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
     },
     {
-      "added_at": "2024-12-05 13:00:00",
-      "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/1IBNQCm9J8OZTu4ewHcWqH"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 212043,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/0jK5ImL0ZzQJmoW5H4YJFZ"
-    },
-    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "Date Night (feat. Morgan Evans)",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "And We",
-        "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
-      },
-      "artists": [
-        {
-          "name": "Hooligan Hefs",
-          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
-        }
-      ],
-      "duration_ms": 161562,
-      "name": "And We",
-      "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "And We",
+        "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        }
+      ],
+      "duration_ms": 161562,
+      "name": "And We",
+      "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
     },
     {
       "added_at": "2024-08-30 00:24:34",

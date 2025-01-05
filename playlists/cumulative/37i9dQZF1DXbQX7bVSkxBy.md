@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=Yh8exV6QReuTXE7UgQk5Mw>Mercy Chinwo</a>
 
-316 songs - 1 day 1 hr 56 min
+317 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adore You](https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Adore You](https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK) | 2:46 | 2024-03-08 | 2024-03-29 |
 | [Afayo](https://open.spotify.com/track/7a1hq80YixqQiDqCKC2uHc) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [The Heirloom](https://open.spotify.com/album/1FunCx5cBfAALXrEKOl4B7) | 3:29 | 2023-12-05 | 2023-12-13 |
 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 | 2023-10-06 | 2023-12-30 |
+| [AGAIN](https://open.spotify.com/track/6bVjIiz5rcNW4RC3JHu4cy) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AGAIN](https://open.spotify.com/album/5KH83znc2361YpGjZjBwyw) | 3:18 | 2025-01-04 |  |
 | [Agidigba God](https://open.spotify.com/track/68DQmgvFvO2HlqQ2oZxdpx) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Agidigba God](https://open.spotify.com/album/2iiMwAegfluTEe7ReEdCQA) | 2:50 | 2024-04-19 | 2024-04-28 |
 | [AH\-GA\-LEO](https://open.spotify.com/track/4ZQ1L9fot5bU5h8EIfChnS) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Agalliao](https://open.spotify.com/album/20tiftqKB3dUvC6CoYBoiX) | 2:39 | 2023-12-05 | 2023-12-13 |
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-17 | 2024-11-19 |
@@ -288,7 +289,7 @@
 | [Undignified \(Excuse Me\)](https://open.spotify.com/track/3aSBRG5HYyEgWyuUgrRJLE) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Undignified \(Excuse Me\)](https://open.spotify.com/album/4lXkDJfCaDkRRcfDD6d16R) | 8:53 | 2024-03-29 | 2024-04-05 |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 6:15 | 2023-11-24 | 2023-12-09 |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 6:15 | 2023-11-24 | 2023-12-15 |
-| [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 | 2023-04-07 |  |
+| [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 | 2023-04-07 | 2025-01-05 |
 | [Victory Belongs To Jesus \(Live\)](https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart \(Live\)](https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB) | 5:44 | 2023-12-29 | 2024-12-08 |
 | [Victory Song](https://open.spotify.com/track/40sjTKH9XM4BEToiQdbyIq) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Victory Song](https://open.spotify.com/album/74aVBnCplKOcQiXHPJ0jx4) | 2:56 | 2023-06-16 | 2023-06-23 |
 | [Waiting](https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rae Rae](https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo) | [Waiting](https://open.spotify.com/album/0BD9WVtDVVywYDuKvD5FWy) | 3:21 | 2023-10-13 | 2023-10-23 |

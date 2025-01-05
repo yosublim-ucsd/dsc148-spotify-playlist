@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,420 likes - 171 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419 likes - 171 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 24 | [Wheels on the Bus](https://open.spotify.com/track/2plUcsOZm6pi1kFUncqLni) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:40 |
 | 25 | [Strawberry Shortcake](https://open.spotify.com/track/57OBlxZRcRyHFdlXlsHP7G) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:04 |
 | 26 | [You Owe Me](https://open.spotify.com/track/3CgTgHLI8qHAqLoZkz1BdQ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Sick Boy](https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG) | 3:10 |
-| 27 | [Aftertaste](https://open.spotify.com/track/3ilt7lMNflb49pEDpcZPAa) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 2:49 |
-| 28 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 |
+| 27 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 |
+| 28 | [Aftertaste](https://open.spotify.com/track/3ilt7lMNflb49pEDpcZPAa) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 2:49 |
 | 29 | [Air](https://open.spotify.com/track/7eKbFpX6jvCSW9CUwzMJsE) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:14 |
 | 30 | [Phone Down](https://open.spotify.com/track/5bvNpG6wiIEf1PA13TkTu2) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Phone Down](https://open.spotify.com/album/2jEoK4yuqMQOrxXj2006mu) | 3:35 |
 | 31 | [Stay Together](https://open.spotify.com/track/5R4HqXCZ6uTjxxnGdLt2S6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stay Together](https://open.spotify.com/album/7Hlsir9c1oIMeWCTLUxn9e) | 3:12 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 79 | [Morning](https://open.spotify.com/track/00uY4XZhrmcr3VLHvLba10) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl \(Summer Edition\)](https://open.spotify.com/album/5jB0uErLmgkzvmH5h1zour) | 2:55 |
 | 80 | [New Rules x Are You That Somebody?](https://open.spotify.com/track/0M2ASyWJhjvc4AzneR7sG6) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 2:58 |
 | 81 | [Already Gone](https://open.spotify.com/track/6x1I3zQyA5cUCsxPrGHHrP) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 2:42 |
-| 82 | [Nobody Else](https://open.spotify.com/track/2iK6RzhARWY8A6YlYPYksZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:38 |
-| 83 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 |
+| 82 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 |
+| 83 | [Nobody Else](https://open.spotify.com/track/2iK6RzhARWY8A6YlYPYksZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:38 |
 | 84 | [Someone Singing Along](https://open.spotify.com/track/4R3f6mYEfSZHrgt3BOWtks) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:33 |
 | 85 | [Using \(with Emily Warren\) \- MEDUZA Remix](https://open.spotify.com/track/7c6tga0CoT6IHhHt16EcBd) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Using \(MEDUZA Remix\)](https://open.spotify.com/album/27nYr7tyo7mcRG2KjD34z1) | 2:46 |
 | 86 | [Fear Of Being Alone](https://open.spotify.com/track/3QGk8QfPKlpCCcdOUGRpMA) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:51 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 110 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 |
 | 111 | [Solo Mission](https://open.spotify.com/track/0oxPA3C0E3zkEDkfYogCb0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 4:25 |
 | 112 | [Last Goodbye \(feat\. Tove Styrke & Stefflon Don\)](https://open.spotify.com/track/6Vly9VOZmMnHDDambtb32p) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:19 |
-| 113 | [Old School \- Acoustic](https://open.spotify.com/track/1Vd2VTgJs2ej0Y6VGKnNqh) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [Old School \(Acoustic\)](https://open.spotify.com/album/1yHzPtoin3VLu2h72Y3dW5) | 3:36 |
-| 114 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
+| 113 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
+| 114 | [Old School \- Acoustic](https://open.spotify.com/track/1Vd2VTgJs2ej0Y6VGKnNqh) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [Old School \(Acoustic\)](https://open.spotify.com/album/1yHzPtoin3VLu2h72Y3dW5) | 3:36 |
 | 115 | [I Hope You Change Your Mind](https://open.spotify.com/track/5fWBKbbsXFSgCpCQ69YhOi) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:24 |
 | 116 | [Prisoner](https://open.spotify.com/track/5hrrgSG5jauJS19Qjvb7En) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Prisoner](https://open.spotify.com/album/3yCz55vgyI64tU4IkFw0F8) | 3:15 |
 | 117 | [How Many Tears \(feat\. Emily Warren\)](https://open.spotify.com/track/5ub9lmkNjDKBtDqWs22WI7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 2:54 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 170 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 171 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `Abl6NQAAAACqS4QYK6iBx3ZS+Xfml5fC`
+Snapshot ID: `Abl/ygAAAAAi2nlrd9mxo2hZVek5oxhC`

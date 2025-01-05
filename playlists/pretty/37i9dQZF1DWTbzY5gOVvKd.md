@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,946 likes - 99 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,210 likes - 99 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 23 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
 | 24 | [I Will Wait For You](https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [From New York To Paris](https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0) | 5:30 |
 | 25 | [Dream a Little Dream of Me](https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:06 |
-| 26 | [I'm Glad There Is You](https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe) | 4:09 |
-| 27 | [You Go to My Head](https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [You Go to My Head](https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl) | 3:59 |
+| 26 | [You Go to My Head](https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [You Go to My Head](https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl) | 3:59 |
+| 27 | [I'm Glad There Is You](https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Catching Tales](https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe) | 4:09 |
 | 28 | [Language Of Love](https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Language Of Love](https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL) | 4:16 |
 | 29 | [My True Love Is You](https://open.spotify.com/track/4oXcpRZGwElyGPcIxLwvBC) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 3:12 |
 | 30 | [Are You Lonesome Tonight? \(feat\. Paul Buchanan\)](https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a), [Paul Buchanan](https://open.spotify.com/artist/4c9NYYIAGKWqPDTkoVnGr7) | [To Love Again](https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6) | 4:00 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 35 | [Long Ago And Far Away](https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook](https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg) | 3:12 |
 | 36 | [Sunday Kind of Love](https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [A Song For You](https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51) | 3:31 |
 | 37 | [Dance Me to the End of Love](https://open.spotify.com/track/202Ep1DlFXuCTSssanwLW2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [With a Twist](https://open.spotify.com/album/1fg9qsZPv8CfwwsM08stjk) | 5:36 |
-| 38 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
+| 38 | [At Last](https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX) | [Malene Mortensen](https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2) | [Date With A Dream](https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO) | 4:12 |
 | 39 | [I'm Old Fashioned](https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Paris In The Rain](https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp) | 4:44 |
-| 40 | [At Last](https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX) | [Malene Mortensen](https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2) | [Date With A Dream](https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO) | 4:12 |
+| 40 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
 | 41 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 |
 | 42 | [Autumn In New York \(feat\. Chris Potter, Bill Cunliffe & Vinnie Colaiuta\)](https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC) | [Andy James](https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [An Evening with/ Andy James & John Patitucci](https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl) | 4:23 |
 | 43 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 |

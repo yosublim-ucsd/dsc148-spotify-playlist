@@ -1,6 +1,6 @@
 {
   "description": "Winners \u2014 past and present \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 255960,
+  "num_followers": 255944,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+        "name": "Most Known Unknown",
+        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
       },
       "artists": [
         {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "Paula Campbell",
+          "url": "https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA"
         }
       ],
-      "duration_ms": 128280,
-      "name": "Bathroom Dance",
-      "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
+      "duration_ms": 169186,
+      "name": "Hard Out Here for a Pimp (feat. Paula Campbell)",
+      "url": "https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -499,22 +503,18 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Most Known Unknown",
-        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
       "artists": [
         {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        },
-        {
-          "name": "Paula Campbell",
-          "url": "https://open.spotify.com/artist/2EPYzyk8q2xb7APLZ8c1YA"
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 169186,
-      "name": "Hard Out Here for a Pimp (feat. Paula Campbell)",
-      "url": "https://open.spotify.com/track/17ZCxegdCt1y0reBkHVmMB"
+      "duration_ms": 128280,
+      "name": "Bathroom Dance",
+      "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
     },
     {
       "added_at": "2024-01-23 19:55:12",

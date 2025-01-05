@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Our favorite 75 tracks from Fresh Finds Dance in 2024\. Cover: Jackie Hollander
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,228 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,240 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

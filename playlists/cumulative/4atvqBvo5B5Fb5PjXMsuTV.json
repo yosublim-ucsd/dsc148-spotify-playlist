@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Jan 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Jan 19:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -18697,6 +18697,32 @@
     },
     {
       "album": {
+        "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+        "url": "https://open.spotify.com/album/4ycuXCWCg3MjM7GEnNCy3n"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/5GZ0currErGJhl0G0yxgRg"
+    },
+    {
+      "album": {
         "name": "Dun Dun",
         "url": "https://open.spotify.com/album/4Ycyp1cQVW9VPOzlEdSk83"
       },
@@ -24074,6 +24100,24 @@
       "duration_ms": 233697,
       "name": "FUKOUNA GIRL",
       "url": "https://open.spotify.com/track/3D6pu8srTc5gCqz02lc4S3"
+    },
+    {
+      "album": {
+        "name": "FULL BLOOM",
+        "url": "https://open.spotify.com/album/2XIq5YepQCOHD6bjeQ8RS9"
+      },
+      "artists": [
+        {
+          "name": "Rav",
+          "url": "https://open.spotify.com/artist/6oeSQ4qmDQ7n89Rdt6tLLn"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236377,
+      "name": "FULL BLOOM",
+      "url": "https://open.spotify.com/track/0GZ9DdMtc4h8g3I3o6wlwt"
     },
     {
       "album": {
@@ -37754,6 +37798,32 @@
       "duration_ms": 161123,
       "name": "Lo sai solo tu",
       "url": "https://open.spotify.com/track/5dA4w92G7FYSemcsXc7Idr"
+    },
+    {
+      "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
     },
     {
       "album": {
@@ -61768,7 +61838,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 164000,
       "name": "TALENT",
       "url": "https://open.spotify.com/track/2ktMYtWi0mpX64x9zy0BK0"
@@ -66584,7 +66654,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 187381,
       "name": "Trance",
       "url": "https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld"
@@ -74124,7 +74194,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 206181,
       "name": "\u0421\u041d\u0406\u0413",
       "url": "https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn"

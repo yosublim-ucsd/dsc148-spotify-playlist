@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 415897,
+  "num_followers": 416162,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Leaveyourlove (with MARO)",
-        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 214446,
-      "name": "Leaveyourlove (with MARO)",
-      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 264176,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Leaveyourlove (with MARO)",
+        "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 214446,
+      "name": "Leaveyourlove (with MARO)",
+      "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
-      },
-      "artists": [
-        {
-          "name": "Vinyl Hotel",
-          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
-        }
-      ],
-      "duration_ms": 177854,
-      "name": "Renegades - Acoustic Version",
-      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Sin Miedo a Vivir",
         "url": "https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
+        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Hotel",
+          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
+        }
+      ],
+      "duration_ms": 177854,
+      "name": "Renegades - Acoustic Version",
+      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC"
       },
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Older Chests",
-      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 252293,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Older Chests",
+      "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
-      },
-      "artists": [
-        {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 240622,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+      },
+      "artists": [
+        {
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z"
-      },
-      "artists": [
-        {
-          "name": "kenai white",
-          "url": "https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ"
-        }
-      ],
-      "duration_ms": 206823,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "El Noi de la Mare",
         "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 271061,
       "name": "Aire",
       "url": "https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
-        "name": "Pudo haber sido",
-        "url": "https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK"
-      },
-      "artists": [
-        {
-          "name": "Lucas Marcos",
-          "url": "https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Pudo haber sido",
-      "url": "https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "tu pel\u00edcula",
-        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "kenai white",
+          "url": "https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ"
         }
       ],
-      "duration_ms": 174467,
-      "name": "tu pel\u00edcula",
-      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+      "duration_ms": 206823,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1507,6 +1491,22 @@
       "duration_ms": 216661,
       "name": "Todo Lo Que No Est\u00e1",
       "url": "https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Pudo haber sido",
+        "url": "https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK"
+      },
+      "artists": [
+        {
+          "name": "Lucas Marcos",
+          "url": "https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO"
+        }
+      ],
+      "duration_ms": 184712,
+      "name": "Pudo haber sido",
+      "url": "https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "reverie",
-        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 343249,
-      "name": "reverie",
-      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Amor del bueno",
         "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
       },
@@ -1643,34 +1627,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "No es el momento",
-        "url": "https://open.spotify.com/album/2ITDn2tR0KFmRwZAh0gmMd"
+        "name": "reverie",
+        "url": "https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Parrado",
-          "url": "https://open.spotify.com/artist/41sqYvXOn3ATsAQ65G1zx6"
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
         }
       ],
-      "duration_ms": 175748,
-      "name": "No es el momento",
-      "url": "https://open.spotify.com/track/5xOfDQ6Tiao8QXBEN49KSM"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
-        "name": "Dos L\u00e1grimas, Dos Peces",
-        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
-      },
-      "artists": [
-        {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Dos L\u00e1grimas, Dos Peces",
-      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+      "duration_ms": 343249,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1691,6 +1659,38 @@
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Dos L\u00e1grimas, Dos Peces",
+        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
+      },
+      "artists": [
+        {
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
+        }
+      ],
+      "duration_ms": 220031,
+      "name": "Dos L\u00e1grimas, Dos Peces",
+      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "No es el momento",
+        "url": "https://open.spotify.com/album/2ITDn2tR0KFmRwZAh0gmMd"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Parrado",
+          "url": "https://open.spotify.com/artist/41sqYvXOn3ATsAQ65G1zx6"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "No es el momento",
+      "url": "https://open.spotify.com/track/5xOfDQ6Tiao8QXBEN49KSM"
     }
   ],
   "unique_name": "Relax en casa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Zakir Hussain
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,943 likes - 47 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,951 likes - 47 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 4 | [Kautilya \(The Echo Project\)](https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X) | [Rishab Rikhiram Sharma](https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu), [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Kautilya \(The Echo Project\)](https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE) | 3:11 |
 | 5 | [Morning in Jaipur](https://open.spotify.com/track/6bq2sIFBwDlNSvAeRSUOfC) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Morning in Jaipur](https://open.spotify.com/album/36LWh671wy1VsrgVeThoCy) | 2:44 |
 | 6 | [Rise of the Capital](https://open.spotify.com/track/5t3WHBCb8dg7niQPTIkRgm) | [Takano Marise](https://open.spotify.com/artist/22WaL06d9Kllf45AssQSxM) | [Rise of the Capital](https://open.spotify.com/album/3F6VwgcXAuKBiicVZAzu7i) | 2:44 |
-| 7 | [Tabla Talk](https://open.spotify.com/track/6KbQaRVqShlQt8gi5izmlN) | [Raul Ferrando](https://open.spotify.com/artist/6RPOG0ZXoK3ZqCw3rfZ0oZ) | [Angelika Unveiled](https://open.spotify.com/album/4LFHh3Q8f0zPd8S79aDdWy) | 3:33 |
-| 8 | [Bless The Rains In India](https://open.spotify.com/track/57cmpxG9ZVzVRyrK7HXaoE) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:12 |
+| 7 | [Bless The Rains In India](https://open.spotify.com/track/57cmpxG9ZVzVRyrK7HXaoE) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:12 |
+| 8 | [Tabla Talk](https://open.spotify.com/track/6KbQaRVqShlQt8gi5izmlN) | [Raul Ferrando](https://open.spotify.com/artist/6RPOG0ZXoK3ZqCw3rfZ0oZ) | [Angelika Unveiled](https://open.spotify.com/album/4LFHh3Q8f0zPd8S79aDdWy) | 3:33 |
 | 9 | [Cool Tabla](https://open.spotify.com/track/0cmMW0IFIidorlM2KN1iRG) | [Downing And Mayer](https://open.spotify.com/artist/0dL8zlZTSHT5M4TPVMRO9V) | [Traditional Indian Music](https://open.spotify.com/album/4G68NOYmVqfFeivPLyIbfJ) | 3:47 |
 | 10 | [Drut Tintâl](https://open.spotify.com/track/4AFjp9pi72ekK73f4XzTVG) | [Latif Ahmed Khan](https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf), [Asif Ali Khan](https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8), [Ma Deva Prashanti](https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf) | [Inde: Hommage à Latif Ahmed Khan \(India: A Tribute to Latif Ahmed Khan\)](https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a) | 5:02 |
 | 11 | [Palmistry](https://open.spotify.com/track/2xGQZzzc66Lx5budDmYqB6) | [Tabla Beat Science](https://open.spotify.com/artist/4jd6GufdXsJXzwXXb0zX2T) | [Tala Matrix](https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu) | 4:39 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 38 | [Sargam Crossing](https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 5:00 |
 | 39 | [Drut Teentaal \(Tabla solo\)](https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Taaleem](https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj) | 9:30 |
 | 40 | [Ananta \(Tabla & Sitar\)](https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4), [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:56 |
-| 41 | [Delirio de Ale](https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3) | [Fausto Palma](https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q) | [Lagrima](https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J) | 2:39 |
-| 42 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |
+| 41 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |
+| 42 | [Delirio de Ale](https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3) | [Fausto Palma](https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q) | [Lagrima](https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J) | 2:39 |
 | 43 | [Tabla Music for Meditation](https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:20 |
 | 44 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
 | 45 | [Tabla](https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur) | [Jnan Prakash Ghosh](https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg) | [Drums Of India \- Pt\. Jnan Prakash Ghosh](https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT) | 12:51 |

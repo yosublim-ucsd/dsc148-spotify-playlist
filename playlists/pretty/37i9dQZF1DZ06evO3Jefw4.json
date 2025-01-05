@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1188990,
+  "num_followers": 1189099,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAABJKvbtVO48GUHLsW3Tf4dO",
+  "snapshot_id": "Z3cogAAAAABNohdMbfYvDKfHJA2CaBVG",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFETIMES",
-        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "LIFETIMES",
-      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Really Over",
         "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFETIMES",
+        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "LIFETIMES",
+      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "GORGEOUS (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/7rSjuY09uCzvMY4TlFsBD8"
       },
@@ -607,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "GORGEOUS (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Witness (Deluxe)",
         "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "ALL THE LOVE",
-      "url": "https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/7oqEOzrJhQkMHvHKEHEMrK"
       },
@@ -655,30 +639,6 @@
       "duration_ms": 203474,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Calma (Remix)",
-        "url": "https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "Con Calma - Remix",
-      "url": "https://open.spotify.com/track/4au7FRcgZzChASRYu279xH"
     },
     {
       "added_at": null,
@@ -708,9 +668,33 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 177637,
-      "name": "CRUSH",
-      "url": "https://open.spotify.com/track/1WUsiRA6CCf6FmFzkt88fa"
+      "duration_ms": 195692,
+      "name": "ALL THE LOVE",
+      "url": "https://open.spotify.com/track/69VB7MiNVwwDkl5sgRBYod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Calma (Remix)",
+        "url": "https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "Con Calma - Remix",
+      "url": "https://open.spotify.com/track/4au7FRcgZzChASRYu279xH"
     },
     {
       "added_at": null,
@@ -727,22 +711,6 @@
       "duration_ms": 204285,
       "name": "This Is How We Do",
       "url": "https://open.spotify.com/track/7GCElX2eJA5t0AFWw3WzKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 173123,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
     },
     {
       "added_at": null,
@@ -772,9 +740,25 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 171968,
-      "name": "NIRVANA",
-      "url": "https://open.spotify.com/track/2c6yhYLBR3BZhJoIaBZ1hC"
+      "duration_ms": 177637,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/1WUsiRA6CCf6FmFzkt88fa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 173123,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
     },
     {
       "added_at": null,
@@ -811,6 +795,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "NIRVANA",
+      "url": "https://open.spotify.com/track/2c6yhYLBR3BZhJoIaBZ1hC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Where We Started",
+      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Tucked",
+      "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f"
       },
@@ -843,42 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Tucked",
-      "url": "https://open.spotify.com/track/5ahNnBifspeXOi1sMbiXHT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Where We Started",
-      "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV"
       },
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Dream - Remix EP",
-        "url": "https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 234920,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO"
+      "duration_ms": 178641,
+      "name": "Not the End of the World",
+      "url": "https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71"
     }
   ],
   "unique_name": "This Is Katy Perry",

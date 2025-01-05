@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy and breezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,300 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,291 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nice To Meet You](https://open.spotify.com/track/7aqMJXYWsY7VyrN7VwnDJQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Feeve](https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv) | [Nice To Meet You](https://open.spotify.com/album/7fqnsXle51dKCrmuqFwg14) | 2:18 |
 | 2 | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx) | [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj), [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/album/0nSnzGCV5AvTxOgO3weiou) | 2:04 |
 | 3 | [Sleeping Satellite](https://open.spotify.com/track/6CWPaj0n9mCcYtuSY8mHcT) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Sleeping Satellite](https://open.spotify.com/album/3Vbxs6cu8QJus0XeXFAmfY) | 2:55 |
-| 4 | [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 |
-| 5 | [Start a Thing](https://open.spotify.com/track/2qkq4Trq4Sqd7JdrAhhmfi) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Start a Thing](https://open.spotify.com/album/08sC2eGNObmoeIfRYUgOD1) | 2:56 |
+| 4 | [Start a Thing](https://open.spotify.com/track/2qkq4Trq4Sqd7JdrAhhmfi) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Start a Thing](https://open.spotify.com/album/08sC2eGNObmoeIfRYUgOD1) | 2:56 |
+| 5 | [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 |
 | 6 | [Voices](https://open.spotify.com/track/4qjvWTRuEXI3eiRQgIbh96) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Voices](https://open.spotify.com/album/3jiuqMGhcLNUOsKGegQdwO) | 2:07 |
 | 7 | [Crazy](https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Arthur](https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Crazy](https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa) | 2:18 |
 | 8 | [Bloom](https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Bloom](https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd) | 2:32 |

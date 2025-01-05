@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 215634,
+  "num_followers": 215689,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 431933,
-      "name": "To The End",
-      "url": "https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Fearless / Fill Up The Sky (Live)",
         "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 280519,
       "name": "Fearless - Live",
       "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 431933,
+      "name": "To The End",
+      "url": "https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34"
     },
     {
       "added_at": "2024-08-03 08:12:04",

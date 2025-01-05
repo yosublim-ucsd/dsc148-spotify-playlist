@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 69937,
+  "num_followers": 69955,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Soft Piano Tunes",
-        "url": "https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr"
-      },
-      "artists": [
-        {
-          "name": "Piano Pianissimo",
-          "url": "https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x"
-        }
-      ],
-      "duration_ms": 248350,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Living Memories",
         "url": "https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 185188,
       "name": "White Light",
       "url": "https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Soft Piano Tunes",
+        "url": "https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr"
+      },
+      "artists": [
+        {
+          "name": "Piano Pianissimo",
+          "url": "https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x"
+        }
+      ],
+      "duration_ms": 248350,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Disney Covers Vol 1",
-        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Nielsen",
-          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
-        }
-      ],
-      "duration_ms": 186088,
-      "name": "God Help the Outcasts",
-      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Intervention",
         "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Deck the Halls ~ Solo Piano Christmas",
-        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+        "name": "Disney Covers Vol 1",
+        "url": "https://open.spotify.com/album/6UQMp88U2Qv5nRVUHASfyR"
       },
       "artists": [
         {
-          "name": "Brad Jacobsen",
-          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+          "name": "Jesse Nielsen",
+          "url": "https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW"
         }
       ],
-      "duration_ms": 220466,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
+      "duration_ms": 186088,
+      "name": "God Help the Outcasts",
+      "url": "https://open.spotify.com/track/7vwGTeO0cug9SYAKxPxjea"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Slowing Down",
-        "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
       },
       "artists": [
         {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
         }
       ],
-      "duration_ms": 208777,
-      "name": "Slowing Down",
-      "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
+      "duration_ms": 220466,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
+        "name": "Slowing Down",
+        "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 208777,
+      "name": "Slowing Down",
+      "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
         "name": "The Secret Piano",
         "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "I'll Take Romance",
-        "url": "https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq"
-      },
-      "artists": [
-        {
-          "name": "Avery Miller",
-          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
-        }
-      ],
-      "duration_ms": 189923,
-      "name": "I'll Take Romance",
-      "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Up Above",
         "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 123124,
       "name": "Up Above",
       "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "I'll Take Romance",
+        "url": "https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq"
+      },
+      "artists": [
+        {
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
+        }
+      ],
+      "duration_ms": 189923,
+      "name": "I'll Take Romance",
+      "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Head, Shoulders, Knees and Toes",
-        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
-      },
-      "artists": [
-        {
-          "name": "Martha Blackburn",
-          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
-        }
-      ],
-      "duration_ms": 77672,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/7xZjzgI2IKORmNfaFFoO9t"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 137645,
       "name": "Prime",
       "url": "https://open.spotify.com/track/0Q9I9kXS2iuhSTiCpBAXHy"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+      },
+      "artists": [
+        {
+          "name": "Martha Blackburn",
+          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+        }
+      ],
+      "duration_ms": 77672,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+      },
+      "artists": [
+        {
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
         "name": "Kiss the Rain",
         "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 170783,
       "name": "Kiss the Rain",
       "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
-      },
-      "artists": [
-        {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Sand Time",
-        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
-      },
-      "artists": [
-        {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
-        }
-      ],
-      "duration_ms": 178585,
-      "name": "Sand Time",
-      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Nostalgia.",
         "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
       },
@@ -1303,22 +1287,18 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Sibelius: Piano Music, Vol. 4",
-        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
+        "name": "Sand Time",
+        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
       },
       "artists": [
         {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "H\u00e5vard Gimse",
-          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
         }
       ],
-      "duration_ms": 125133,
-      "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
-      "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
+      "duration_ms": 178585,
+      "name": "Sand Time",
+      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1335,6 +1315,26 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Sibelius: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "duration_ms": 125133,
+      "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
+      "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "fading memories",
-        "url": "https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar"
-      },
-      "artists": [
-        {
-          "name": "Signe Bratlie",
-          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "follow me home",
-      "url": "https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Lunaria",
         "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "fading memories",
+        "url": "https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar"
+      },
+      "artists": [
+        {
+          "name": "Signe Bratlie",
+          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "follow me home",
+      "url": "https://open.spotify.com/track/7k539VUTniwBWMYFOgrAyf"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 284000,
       "name": "Storytelling",
       "url": "https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Cassiopeia",
-        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
-      },
-      "artists": [
-        {
-          "name": "S.A. Karl",
-          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
-        }
-      ],
-      "duration_ms": 168833,
-      "name": "Cassiopeia",
-      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "The Giant",
         "url": "https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 183686,
       "name": "The Giant",
       "url": "https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Cassiopeia",
+        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
+      },
+      "artists": [
+        {
+          "name": "S.A. Karl",
+          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
+        }
+      ],
+      "duration_ms": 168833,
+      "name": "Cassiopeia",
+      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

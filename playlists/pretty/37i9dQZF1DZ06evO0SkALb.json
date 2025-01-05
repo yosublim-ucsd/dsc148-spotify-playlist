@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 11895,
+  "num_followers": 11894,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAAAkluNeJCxzSDCIOG4YrYYh",
+  "snapshot_id": "Z3cogAAAAAAn5+TOSgpaT6OSw2ivAbVq",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
-      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black And Blue",
         "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 215240,
       "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
       "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
+      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can't Make It Alone: The Axelrod Years",
-        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Session #55 (1936-2001)",
         "url": "https://open.spotify.com/album/4fwPNbWSGj9VgPlPNufj65"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 165840,
       "name": "They Can't Take That Away from Me",
       "url": "https://open.spotify.com/track/5wxU0hgoQovDevPToz0Urd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Can't Make It Alone: The Axelrod Years",
+        "url": "https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ"
     }
   ],
   "unique_name": "This Is Lou Rawls",

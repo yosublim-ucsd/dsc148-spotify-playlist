@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > the sweetest new indie pop, featuring Ziggy 2000 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,431 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,427 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,18 +49,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 39 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 |
 | 40 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 |
 | 41 | [everything about her](https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [everything about her](https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk) | 2:51 |
-| 42 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
-| 43 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
+| 42 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
+| 43 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 44 | [Use Me](https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Use Me](https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V) | 3:39 |
 | 45 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 |
-| 46 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
-| 47 | [Shell \(with Jordana\)](https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Got Him! \(Deluxe\)](https://open.spotify.com/album/2ayt7xGA3amKG61ZTNThv7) | 2:19 |
+| 46 | [Shell \(with Jordana\)](https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Got Him! \(Deluxe\)](https://open.spotify.com/album/2ayt7xGA3amKG61ZTNThv7) | 2:19 |
+| 47 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
 | 48 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 |
-| 49 | [Bunny](https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Bunny](https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm) | 3:29 |
-| 50 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 |
+| 49 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 |
+| 50 | [Bunny](https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Bunny](https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm) | 3:29 |
 | 51 | [The End of the Contender](https://open.spotify.com/track/2LpNomwbgz7bAIDdqvX5bq) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [The End of the Contender](https://open.spotify.com/album/0wInWtAoFAQtzg9Pp4G91n) | 3:26 |
-| 52 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 |
-| 53 | [Warm Body](https://open.spotify.com/track/4pIhmvniF8QKJBxE0oPQmp) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Warm Body](https://open.spotify.com/album/6zGTF7LNVhBNJGbvrcxcK5) | 4:32 |
+| 52 | [Warm Body](https://open.spotify.com/track/4pIhmvniF8QKJBxE0oPQmp) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Warm Body](https://open.spotify.com/album/6zGTF7LNVhBNJGbvrcxcK5) | 4:32 |
+| 53 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 |
 | 54 | [Quiet & Perfect](https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Quiet & Perfect](https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn) | 3:38 |
 | 55 | [If I Was Abducted By Aliens](https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [If I Was Abducted By Aliens](https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE) | 2:46 |
 | 56 | [I Think You Should Know](https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [I Think You Should Know](https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ) | 3:37 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 74 | [sprinkles](https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [sprinkles](https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs) | 4:33 |
 | 75 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 |
 | 76 | [false gold \- Imogen Heap Remix](https://open.spotify.com/track/1FTDuTMJLeUkmDx7O6TUbl) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [ai.mogen](https://open.spotify.com/artist/77mYai06p9Ju6y5pyGBH4C), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [false gold \(Imogen Heap Remix\)](https://open.spotify.com/album/3HDQvr31JTdn7QMFEM7G5K) | 3:38 |
-| 77 | [Different Directions](https://open.spotify.com/track/1bEvoQH3OpVMohkh0Aq9Uq) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Different Directions](https://open.spotify.com/album/7nPBvPzfMqTLP4bepqnjuc) | 3:15 |
-| 78 | [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 |
-| 79 | [What Have I Become?](https://open.spotify.com/track/08MQRS8nISdiYeZq4Dq2I8) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Different This Time?](https://open.spotify.com/album/67DJaYzEwXwfJ4ofIF3QaC) | 3:09 |
-| 80 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
+| 77 | [Losing By A Landslide](https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Losing By A Landslide](https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP) | 3:14 |
+| 78 | [What Have I Become?](https://open.spotify.com/track/08MQRS8nISdiYeZq4Dq2I8) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Different This Time?](https://open.spotify.com/album/67DJaYzEwXwfJ4ofIF3QaC) | 3:09 |
+| 79 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
+| 80 | [Different Directions](https://open.spotify.com/track/1bEvoQH3OpVMohkh0Aq9Uq) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Different Directions](https://open.spotify.com/album/7nPBvPzfMqTLP4bepqnjuc) | 3:15 |
 
 Snapshot ID: `Zu1fDwAAAACBIZ2YOBV4aidoYH6b2SQL`

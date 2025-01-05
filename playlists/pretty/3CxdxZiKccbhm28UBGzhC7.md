@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 like - 76 songs - 4 hr 28 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 like - 77 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 74 | [space invaders](https://open.spotify.com/episode/3Ff28l3iZg5zUFmiGaUAjs) | [beneath the boardwalk](https://open.spotify.com/show/7gEt8SMstTxp4RK425vjhY) | [beneath the boardwalk](https://open.spotify.com/album/7gEt8SMstTxp4RK425vjhY) | 2:46 |
 | 75 | [Poundshop Kardashians](https://open.spotify.com/track/0qWgm1JTDWdfJX9Lsj8mdR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Poundshop Kardashians](https://open.spotify.com/album/3786cITcKTrcxtezOgZKME) | 2:39 |
 | 76 | [Roman Holiday](https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:28 |
+| 77 | [Always Like This](https://open.spotify.com/track/1iudc1fa7Z4GRveENnEWZa) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Holy Grail](https://open.spotify.com/album/16yx2dOA0EkZRg4fKxx2Er) | 2:55 |
 
-Snapshot ID: `AAAAscSyM2xposvXPofAKI0ELN2+XCDJ`
+Snapshot ID: `AAAAsox3Uyt9SVUMubXSDgGQ6Tpts2MW`

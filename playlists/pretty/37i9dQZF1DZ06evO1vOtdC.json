@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3XXAAAAAACrrdarehc+iXyZJdGAXrvX",
+  "snapshot_id": "Z3cogAAAAACYX6C4OVKmZ7sqHbBG9N/5",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marry Me (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 192473,
-      "name": "Love of My Life",
-      "url": "https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On My Way (Marry Me)",
         "url": "https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 192571,
       "name": "On My Way (Marry Me)",
       "url": "https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 192473,
+      "name": "Love of My Life",
+      "url": "https://open.spotify.com/track/0UGv7OcObaERP9YWSTbNZQ"
     },
     {
       "added_at": null,

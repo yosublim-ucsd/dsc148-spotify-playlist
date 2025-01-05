@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 101176,
+  "num_followers": 101168,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-12-26 15:00:27",
       "album": {
-        "name": "A Thousand Years",
-        "url": "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 254316,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
-    },
-    {
-      "added_at": "2024-12-26 15:00:27",
-      "album": {
         "name": "Mystery of Love",
         "url": "https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 248960,
       "name": "Mystery of Love",
       "url": "https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy"
+    },
+    {
+      "added_at": "2024-12-26 15:00:27",
+      "album": {
+        "name": "A Thousand Years",
+        "url": "https://open.spotify.com/album/1aSwuLpPBoke8WDwv4NDgi"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 254316,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
     },
     {
       "added_at": "2024-12-26 15:00:27",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-12-26 15:00:27",
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "added_at": "2024-12-26 15:00:27",
+      "album": {
         "name": "Happy People (with Teddy Swims & Jac Ross)",
         "url": "https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 295000,
       "name": "Happy People (with Teddy Swims & Jac Ross)",
       "url": "https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g"
-    },
-    {
-      "added_at": "2024-12-26 15:00:27",
-      "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2024-12-26 15:00:27",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-12-26 15:00:27",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
-    },
-    {
-      "added_at": "2024-12-26 15:00:27",
-      "album": {
         "name": "Donavon Frankenreiter",
         "url": "https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 186000,
       "name": "It Don't Matter",
       "url": "https://open.spotify.com/track/2UjGyCvayHjGihV3oLhD8a"
+    },
+    {
+      "added_at": "2024-12-26 15:00:27",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
     },
     {
       "added_at": "2024-12-26 15:00:27",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-12-26 15:00:27",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c"
-    },
-    {
-      "added_at": "2024-12-26 15:00:27",
-      "album": {
         "name": "Have A Little Faith In Me",
         "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 197079,
       "name": "Have A Little Faith In Me",
       "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
+    },
+    {
+      "added_at": "2024-12-26 15:00:27",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c"
     },
     {
       "added_at": "2024-12-26 15:00:27",
@@ -1195,22 +1195,6 @@
       "duration_ms": 270698,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP"
-    },
-    {
-      "added_at": "2024-12-26 15:00:27",
-      "album": {
-        "name": "Something Stupid",
-        "url": "https://open.spotify.com/album/67CNEX0WcDIDihhdoQJwax"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        }
-      ],
-      "duration_ms": 140482,
-      "name": "Something Stupid",
-      "url": "https://open.spotify.com/track/3yHFw2lWQRLUms1Ai3SBIS"
     },
     {
       "added_at": "2024-12-26 15:00:27",
@@ -1247,6 +1231,22 @@
       "duration_ms": 229173,
       "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver)",
       "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
+    },
+    {
+      "added_at": "2024-12-26 15:00:27",
+      "album": {
+        "name": "Something Stupid",
+        "url": "https://open.spotify.com/album/67CNEX0WcDIDihhdoQJwax"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "duration_ms": 140482,
+      "name": "Something Stupid",
+      "url": "https://open.spotify.com/track/3yHFw2lWQRLUms1Ai3SBIS"
     },
     {
       "added_at": "2024-12-26 15:00:27",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-12-26 15:00:27",
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
-    },
-    {
-      "added_at": "2024-12-26 15:00:27",
-      "album": {
         "name": "Massachusetts",
         "url": "https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 218954,
       "name": "Massachusetts",
       "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
+    },
+    {
+      "added_at": "2024-12-26 15:00:27",
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "added_at": "2024-12-26 15:00:27",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-12-26 15:00:27",
       "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
         }
       ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+      "duration_ms": 215758,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
     },
     {
       "added_at": "2024-12-26 15:00:27",
@@ -1479,22 +1479,6 @@
       "duration_ms": 198026,
       "name": "Like Real People Do",
       "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
-    },
-    {
-      "added_at": "2024-12-26 15:00:27",
-      "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 215758,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
     },
     {
       "added_at": "2024-12-26 15:00:27",
@@ -1531,6 +1515,22 @@
       "duration_ms": 173365,
       "name": "I'm So Happy (with BENEE)",
       "url": "https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO"
+    },
+    {
+      "added_at": "2024-12-26 15:00:27",
+      "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2024-12-26 15:00:27",

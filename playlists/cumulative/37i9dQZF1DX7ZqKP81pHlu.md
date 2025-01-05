@@ -2,7 +2,7 @@
 
 ### [Hot Hits Algeria](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> Kader Japonais & Numidia Lezoul à la une de la playlist numéro 1 en Algérie.
+> The hottest 50 tracks in Algeria\. Cover: Lady Gaga & Bruno Mars
 
 247 songs - 14 hr 51 min
 
@@ -71,7 +71,7 @@
 | [Demain](https://open.spotify.com/track/6eJ04i64i90cgfsQpHXZpK) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1CbvtjDKMJDU7jSxXFHfhM) | 3:12 | 2023-10-17 | 2024-04-19 |
 | [Derti Rayek](https://open.spotify.com/track/1Vck33iJiUs7ccjGuRSRj9) | [Farid Kalamity](https://open.spotify.com/artist/39yugFhJbttHghij5dle5M), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Derti Rayek](https://open.spotify.com/album/0RYe21LKFQebUgtTyrk7Iq) | 4:12 | 2021-12-09 | 2022-04-22 |
 | [Desert Rose](https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Brand New Day](https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe) | 4:45 | 2022-12-07 | 2023-07-06 |
-| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-22 | 2024-11-23 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-22 |  |
 | [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 | 2021-12-09 | 2023-02-07 |
 | [DIPLOMATICO](https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:16 | 2024-12-03 |  |
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-05-31 | 2022-11-04 |
@@ -167,7 +167,7 @@
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-02-28 | 2023-02-07 |
 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 | 2024-12-03 |  |
 | [Nar El Hob](https://open.spotify.com/track/5nL8YdzlpRDrX5ge6YYC2b) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Nar El Hob](https://open.spotify.com/album/5YJ4dtTJ2s71lB5yctLPY5) | 3:26 | 2022-05-04 | 2022-08-20 |
-| [Nari Nar \- ناري نار](https://open.spotify.com/track/3AdpMQpQXpSdrVgJUGDkPP) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nari Nar \(ناري نار\)](https://open.spotify.com/album/1lSC2sRGtEZOJO9mi1vrGJ) | 3:48 | 2023-10-16 |  |
+| [Nari Nar \- ناري نار](https://open.spotify.com/track/3AdpMQpQXpSdrVgJUGDkPP) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nari Nar \(ناري نار\)](https://open.spotify.com/album/1lSC2sRGtEZOJO9mi1vrGJ) | 3:48 | 2023-10-16 | 2025-01-05 |
 | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/track/47XfHZC83cqjSJP3Cu1T4u) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Raïna Raï](https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH) | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/album/1BKiOLvxoLiEk0qhofpMQU) | 3:14 | 2022-07-13 | 2022-10-09 |
 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 | 2023-08-14 | 2024-08-03 |
 | [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 | 2023-02-06 | 2023-04-14 |

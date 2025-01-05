@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Hugel
 
-241 songs - 16 hr 11 min
+242 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Ah Ya Alby \- Tweak Remix](https://open.spotify.com/track/1L96Fjr6LSoBzvrXXm4xa6) | [TWEAK](https://open.spotify.com/artist/44ULaMXIkxkAGmEyXyhefK), [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ah Ya Alby](https://open.spotify.com/album/52IrOu3Aac8zKuPr1bYseE) | 2:50 | 2024-10-11 |  |
 | [Ahebak](https://open.spotify.com/track/4GLX8N95KtElLmZTp79os3) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Joya](https://open.spotify.com/artist/1eR8UBKIijXBZhfnQMTq8r) | [Ahebak](https://open.spotify.com/album/1pInYMdKG9Nnt1QOluCcpG) | 5:22 | 2024-04-01 |  |
 | [Ahla El Nas](https://open.spotify.com/track/0c2nyNf2jerD605LfOCqE6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:45 | 2022-03-30 | 2022-08-23 |
-| [Ahwak \(Deeper Remix\)](https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Ahwak \(Deeper Remix\)](https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90) | 5:00 | 2023-08-16 |  |
+| [Ahwak \(Deeper Remix\)](https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Ahwak \(Deeper Remix\)](https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90) | 5:00 | 2023-08-16 | 2025-01-05 |
 | [Akhedni Maak](https://open.spotify.com/track/1Z08bNXzoSDyzyIp8Sf3Pj) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Akhedni Maak](https://open.spotify.com/album/0ao8ZKXGvdzrvT0MoLM5em) | 2:35 | 2022-03-30 | 2023-11-17 |
 | [Al Jamra](https://open.spotify.com/track/7d9I19WCgH758WL8mLl0Fl) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Zeyneb](https://open.spotify.com/artist/1LJPlbCG6uw4ThxhRqhSmN) | [Al Jamra](https://open.spotify.com/album/6rJQ0ixBSIHmoqcQTprEei) | 4:19 | 2023-05-27 | 2023-08-30 |
 | [Al\-Furat](https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE) | [Al\-Furat](https://open.spotify.com/album/34fg5aZvCqPS5tMcGCwfGl) | 3:54 | 2023-09-07 | 2024-03-04 |
@@ -138,6 +138,7 @@
 | [Legion](https://open.spotify.com/track/3sYEZWuW8WcX8zojJchUEc) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Love Therapy \(Deluxe\)](https://open.spotify.com/album/4ZGDnQrN4T6TU4KT03tnF4) | 3:40 | 2024-04-21 |  |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2023-06-23 | 2024-03-05 |
 | [Lessatni Janbi](https://open.spotify.com/track/56gwEECcoSmSwQZb2H3vKv) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL) | [Lessatni Janbi](https://open.spotify.com/album/4dBm61G8fQ5v2qP1KmsBNe) | 3:24 | 2023-08-20 | 2024-10-31 |
+| [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 | 2025-01-04 |  |
 | [Loucham](https://open.spotify.com/track/4TX1MSCqxDuud2NqLnbQWP) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Loucham](https://open.spotify.com/album/5m1vc1f1DXOJyiwFcnMdwU) | 4:56 | 2023-10-20 |  |
 | [M3ALLA2 FIKI](https://open.spotify.com/track/2pD9H91mjZjZKxeFaU44RP) | [RABS](https://open.spotify.com/artist/5NnkfNnEiHdhoSnOetQM1R) | [M3ALLA2 FIKI](https://open.spotify.com/album/5xfsxvdJIIA28ss6KuRYUJ) | 4:00 | 2023-02-02 | 2023-06-24 |
 | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [Mafeesh Mostaheel \- Arrab Remix](https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW) | 8:38 | 2022-03-30 | 2023-06-24 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd18 Foto: MC Taya",
-  "num_followers": 111875,
+  "num_followers": 111858,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-12-17 13:38:47",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198498,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
-    },
-    {
-      "added_at": "2024-12-17 13:38:47",
-      "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 267800,
       "name": "Death Of An Executioner",
       "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp"
+    },
+    {
+      "added_at": "2024-12-17 13:38:47",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 198498,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
     },
     {
       "added_at": "2024-12-17 13:38:47",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-12-17 13:38:47",
       "album": {
-        "name": "La fiesta",
-        "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 158870,
-      "name": "La fiesta",
-      "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
-    },
-    {
-      "added_at": "2024-12-17 13:38:47",
-      "album": {
         "name": "blindfolded",
         "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 199240,
       "name": "blindfolded",
       "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+    },
+    {
+      "added_at": "2024-12-17 13:38:47",
+      "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 158870,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
     },
     {
       "added_at": "2024-12-17 13:38:47",

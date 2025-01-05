@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 177834,
+  "num_followers": 177877,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Just Like Me",
-        "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
-      },
-      "artists": [
-        {
-          "name": "Duff Thompson",
-          "url": "https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ"
-        }
-      ],
-      "duration_ms": 184270,
-      "name": "Just Like Me",
-      "url": "https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Vanishing Shores",
         "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 212725,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
+      },
+      "artists": [
+        {
+          "name": "Duff Thompson",
+          "url": "https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ"
+        }
+      ],
+      "duration_ms": 184270,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Access",
-        "url": "https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA"
-      },
-      "artists": [
-        {
-          "name": "Major Murphy",
-          "url": "https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B"
-        }
-      ],
-      "duration_ms": 177326,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Last Dance b/w 3000 AD Mass",
         "url": "https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 204548,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Access",
+        "url": "https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA"
+      },
+      "artists": [
+        {
+          "name": "Major Murphy",
+          "url": "https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B"
+        }
+      ],
+      "duration_ms": 177326,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Habbie Doobie",
-        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
-      },
-      "artists": [
-        {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
-        }
-      ],
-      "duration_ms": 376618,
-      "name": "Habbie Doobie",
-      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "It Came to Me",
         "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+      },
+      "artists": [
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
     },
     {
       "added_at": "2024-07-05 19:49:15",

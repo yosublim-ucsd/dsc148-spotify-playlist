@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Phoenix",
-  "num_followers": 761878,
+  "num_followers": 762016,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Centuries",
-      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Centuries",
+      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 231533,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "I Bet You Look Good On The Dancefloor",
-      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 215306,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "The Taste of Ink",
-      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Fitz and The Tantrums (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 193253,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "The Taste of Ink",
+      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 287000,
       "name": "Jane Says",
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
+      },
+      "artists": [
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 207633,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 314556,
       "name": "Daft Punk Is Playing at My House",
       "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 207633,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew"
-      },
-      "artists": [
-        {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
-        }
-      ],
-      "duration_ms": 279026,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
       },
@@ -2575,18 +2559,18 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Cage The Elephant",
-        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
         }
       ],
-      "duration_ms": 175493,
-      "name": "Ain't No Rest for the Wicked",
-      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
+      "duration_ms": 279026,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -2619,6 +2603,22 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Cage The Elephant",
+        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Karma Police",
-      "url": "https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr"
       },
@@ -2955,6 +2939,22 @@
       "duration_ms": 177826,
       "name": "You're Gonna Go Far, Kid",
       "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Karma Police",
+      "url": "https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -2975,6 +2975,22 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
+        "name": "Everything All The Time",
+        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 322173,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/6Gv1zpuMsO4XfWSw22YQhP"
       },
@@ -2991,18 +3007,18 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Everything All The Time",
-        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 322173,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
+      "duration_ms": 373306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -3035,22 +3051,6 @@
       "duration_ms": 254533,
       "name": "Icky Thump",
       "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 373306,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2"
     },
     {
       "added_at": "2024-12-13 20:42:29",
@@ -3151,22 +3151,6 @@
     {
       "added_at": "2024-12-13 20:42:29",
       "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
-    },
-    {
-      "added_at": "2024-12-13 20:42:29",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh"
       },
@@ -3179,6 +3163,22 @@
       "duration_ms": 186506,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U"
+    },
+    {
+      "added_at": "2024-12-13 20:42:29",
+      "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
     },
     {
       "added_at": "2024-12-13 20:42:29",

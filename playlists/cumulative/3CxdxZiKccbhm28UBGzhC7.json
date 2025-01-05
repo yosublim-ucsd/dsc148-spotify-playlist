@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Holy Grail",
+        "url": "https://open.spotify.com/album/16yx2dOA0EkZRg4fKxx2Er"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Always Like This",
+      "url": "https://open.spotify.com/track/1iudc1fa7Z4GRveENnEWZa"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },

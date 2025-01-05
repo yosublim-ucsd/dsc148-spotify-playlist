@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Ad\u00e1n Cruz en portada. ",
-  "num_followers": 16763,
+  "num_followers": 16794,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Mi Psique",
-        "url": "https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/6sNtRiZlTv2j2wNN65pOxm"
       },
       "artists": [
         {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
         },
         {
-          "name": "Solo Cadaver",
-          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
-        },
-        {
-          "name": "AleexBeat",
-          "url": "https://open.spotify.com/artist/5PbplyZA0CGKWULBPfXMaY"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 197761,
-      "name": "Mi Psique",
-      "url": "https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H"
+      "duration_ms": 205125,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/2210LR7U3nQAi33tLAM5fY"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -311,22 +307,26 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/6sNtRiZlTv2j2wNN65pOxm"
+        "name": "Mi Psique",
+        "url": "https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T"
       },
       "artists": [
         {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
         },
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "AleexBeat",
+          "url": "https://open.spotify.com/artist/5PbplyZA0CGKWULBPfXMaY"
         }
       ],
-      "duration_ms": 205125,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/2210LR7U3nQAi33tLAM5fY"
+      "duration_ms": 197761,
+      "name": "Mi Psique",
+      "url": "https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
+        "name": "Micelio",
+        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
+      },
+      "artists": [
+        {
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
         "name": "Atlanta",
         "url": "https://open.spotify.com/album/1M8RojczNaahkj0hIPgfzo"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 266665,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/2hFuezTQgiBRlR1pqfFeAx"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Micelio",
-        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
-      },
-      "artists": [
-        {
-          "name": "Frank Takuma",
-          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Iluminado",
-      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "BURN",
-        "url": "https://open.spotify.com/album/3UApKp9usMuiIm6vRJXCqj"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 177442,
-      "name": "BURN",
-      "url": "https://open.spotify.com/track/0EvLk2s8ACgEjiZyyTcu5E"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "CASI",
         "url": "https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 146666,
       "name": "CASI",
       "url": "https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "BURN",
+        "url": "https://open.spotify.com/album/3UApKp9usMuiIm6vRJXCqj"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 177442,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/0EvLk2s8ACgEjiZyyTcu5E"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "EL FOCO",
-        "url": "https://open.spotify.com/album/6SjPxBrujYIrRwoXUhxBre"
-      },
-      "artists": [
-        {
-          "name": "GIIANPA NK",
-          "url": "https://open.spotify.com/artist/1iK0f5NQeoyMew8mHVKEBb"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "EL FOCO",
-      "url": "https://open.spotify.com/track/0lpcvU39R3id2Gwj695DWQ"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "Entre Dos Mundos",
         "url": "https://open.spotify.com/album/3I8etzYVUSFwTXyI967qp6"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 204836,
       "name": "A los que he Conocido",
       "url": "https://open.spotify.com/track/5mmXnqIvjOhh4FPMp7RG47"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "EL FOCO",
+        "url": "https://open.spotify.com/album/6SjPxBrujYIrRwoXUhxBre"
+      },
+      "artists": [
+        {
+          "name": "GIIANPA NK",
+          "url": "https://open.spotify.com/artist/1iK0f5NQeoyMew8mHVKEBb"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "EL FOCO",
+      "url": "https://open.spotify.com/track/0lpcvU39R3id2Gwj695DWQ"
     }
   ],
   "unique_name": "Rimas Frescas ",

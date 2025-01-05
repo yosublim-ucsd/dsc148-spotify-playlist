@@ -1,6 +1,6 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 47167,
+  "num_followers": 47225,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Nothing Hurts",
-        "url": "https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Nothing Hurts",
-      "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Go Deeper EP",
         "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 202781,
       "name": "Go Deeper",
       "url": "https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Nothing Hurts",
+        "url": "https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Nothing Hurts",
+      "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bahr",
-          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
-        }
-      ],
-      "duration_ms": 148153,
-      "name": "Take",
-      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Work It EP",
         "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
       },
@@ -1431,26 +1415,6 @@
       "duration_ms": 194887,
       "name": "Work It",
       "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Don't Wanna Go",
-        "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
-      },
-      "artists": [
-        {
-          "name": "Stephen Kirkwood",
-          "url": "https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5"
-        },
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        }
-      ],
-      "duration_ms": 180412,
-      "name": "Don't Wanna Go",
-      "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1471,6 +1435,42 @@
       "duration_ms": 390000,
       "name": "Playing With Foc...",
       "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bahr",
+          "url": "https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v"
+        }
+      ],
+      "duration_ms": 148153,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Don't Wanna Go",
+        "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
+      },
+      "artists": [
+        {
+          "name": "Stephen Kirkwood",
+          "url": "https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5"
+        },
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 180412,
+      "name": "Don't Wanna Go",
+      "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1665,20 +1665,20 @@
       "url": "https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf"
     },
     {
-      "added_at": "2024-11-13 17:19:58",
+      "added_at": "2024-11-15 20:00:34",
       "album": {
-        "name": "Put Your Hands Up For Cologne",
-        "url": "https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT"
+        "name": "TRY",
+        "url": "https://open.spotify.com/album/4SHzItVpwXBI1C4EDvXdxn"
       },
       "artists": [
         {
-          "name": "J.K. Rollin",
-          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+          "name": "ChaseWest",
+          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
         }
       ],
-      "duration_ms": 408941,
-      "name": "Lick It",
-      "url": "https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud"
+      "duration_ms": 167619,
+      "name": "TRY",
+      "url": "https://open.spotify.com/track/5TIJovxYDOWg1PZgg1U72L"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1697,20 +1697,20 @@
       "url": "https://open.spotify.com/track/6Fvzozbq17iFwej6D0vuOE"
     },
     {
-      "added_at": "2024-11-15 20:00:34",
+      "added_at": "2024-11-13 17:19:58",
       "album": {
-        "name": "TRY",
-        "url": "https://open.spotify.com/album/4SHzItVpwXBI1C4EDvXdxn"
+        "name": "Put Your Hands Up For Cologne",
+        "url": "https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT"
       },
       "artists": [
         {
-          "name": "ChaseWest",
-          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
         }
       ],
-      "duration_ms": 167619,
-      "name": "TRY",
-      "url": "https://open.spotify.com/track/5TIJovxYDOWg1PZgg1U72L"
+      "duration_ms": 408941,
+      "name": "Lick It",
+      "url": "https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud"
     },
     {
       "added_at": "2024-11-06 22:50:08",

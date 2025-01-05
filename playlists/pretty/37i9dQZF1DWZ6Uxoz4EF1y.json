@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 205359,
+  "num_followers": 205456,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -1155,58 +1155,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612165,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Con el Mundo de Cabeza",
-        "url": "https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96"
-      },
-      "artists": [
-        {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
-        }
-      ],
-      "duration_ms": 199973,
-      "name": "Vamos Pa' Arriba",
-      "url": "https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "De Vuelta En Casa",
-        "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
-      },
-      "artists": [
-        {
-          "name": "Samuel Adri\u00e1n",
-          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
-        }
-      ],
-      "duration_ms": 295862,
-      "name": "Su Vida Me Dio",
-      "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Su Sangre",
         "url": "https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp"
       },
@@ -1227,6 +1175,58 @@
       "duration_ms": 349901,
       "name": "Su Sangre - Radio Edit",
       "url": "https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Con el Mundo de Cabeza",
+        "url": "https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "duration_ms": 199973,
+      "name": "Vamos Pa' Arriba",
+      "url": "https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 612165,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "De Vuelta En Casa",
+        "url": "https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adri\u00e1n",
+          "url": "https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu"
+        }
+      ],
+      "duration_ms": 295862,
+      "name": "Su Vida Me Dio",
+      "url": "https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 447491,
+      "name": "Lo Unico Que Quiero",
+      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Somos Iglesia",
         "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
       },
@@ -1479,26 +1499,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 447491,
-      "name": "Lo Unico Que Quiero",
-      "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -1508,21 +1508,17 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        },
-        {
           "name": "Johan Manjarr\u00e9s",
           "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         },
         {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
         }
       ],
-      "duration_ms": 623320,
-      "name": "Aleluya",
-      "url": "https://open.spotify.com/track/0NckqVt6yKJ783QiWWCDTb"
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
     },
     {
       "added_at": "2024-07-01 23:21:40",

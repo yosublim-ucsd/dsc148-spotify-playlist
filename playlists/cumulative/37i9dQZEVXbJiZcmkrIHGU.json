@@ -16465,6 +16465,24 @@
     },
     {
       "album": {
+        "name": "El Capitano",
+        "url": "https://open.spotify.com/album/3IdXlY8MRNGqP8vEcY9gWp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162679,
+      "name": "El Capitano",
+      "url": "https://open.spotify.com/track/1FrYb6D5rPpYAcDWz0WykM"
+    },
+    {
+      "album": {
         "name": "Elend 77",
         "url": "https://open.spotify.com/album/4SRaTmUmAf0Y794pb7k6wx"
       },
@@ -16690,7 +16708,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -17644,7 +17662,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -30832,7 +30850,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
@@ -30854,7 +30872,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -52631,6 +52649,24 @@
     },
     {
       "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/0ODBfRtcZwoNAPfHiSh9V1"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146729,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/2PJV3Ef8OzZId9Jfvz9eCn"
+    },
+    {
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -52722,7 +52758,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -52776,7 +52812,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
@@ -54712,6 +54748,32 @@
       "duration_ms": 143596,
       "name": "Tipico",
       "url": "https://open.spotify.com/track/3DePq4dmXi4fRSkpPUNM9y"
+    },
+    {
+      "album": {
+        "name": "TirTak",
+        "url": "https://open.spotify.com/album/2uIywPDRrWwfMzYBnaHic3"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Ch\u00e9 Salah",
+          "url": "https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "TirTak",
+      "url": "https://open.spotify.com/track/7cCdHHl3V2Z9kqNhmmh3vg"
     },
     {
       "album": {
@@ -57850,7 +57912,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

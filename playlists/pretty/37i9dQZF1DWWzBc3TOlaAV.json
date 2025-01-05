@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 941355,
+  "num_followers": 941496,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Whole Lotta Love - 1990 Remaster",
-      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 369600,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Singles Plus",
-        "url": "https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 145693,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 211787,
       "name": "The Night They Drove Old Dixie Down",
       "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Singles Plus",
+        "url": "https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 145693,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Up On Cripple Creek",
+      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "The Stooges",
         "url": "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 138360,
       "name": "I Fought the Law - Single Version",
       "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Up On Cripple Creek",
-      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Wipe Out",
-        "url": "https://open.spotify.com/album/6m4OZ0vUzfZmNtr6bmExGn"
-      },
-      "artists": [
-        {
-          "name": "The Surfaris",
-          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
-        }
-      ],
-      "duration_ms": 166092,
-      "name": "Wipe Out",
-      "url": "https://open.spotify.com/track/4SDGb2V6J2rEbxNujwNeMl"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "The Essentials: Tommy James & The Shondells",
         "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 208666,
       "name": "Crimson & Clover - Single Version",
       "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Wipe Out",
+        "url": "https://open.spotify.com/album/6m4OZ0vUzfZmNtr6bmExGn"
+      },
+      "artists": [
+        {
+          "name": "The Surfaris",
+          "url": "https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv"
+        }
+      ],
+      "duration_ms": 166092,
+      "name": "Wipe Out",
+      "url": "https://open.spotify.com/track/4SDGb2V6J2rEbxNujwNeMl"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
-      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 189680,
       "name": "Ticket To Ride - Remastered 2009",
       "url": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
     },
     {
       "added_at": "2024-07-05 23:26:53",

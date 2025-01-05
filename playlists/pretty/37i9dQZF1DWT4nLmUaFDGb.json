@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 541875,
+  "num_followers": 542282,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Just A Little Lovin'",
-        "url": "https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5"
-      },
-      "artists": [
-        {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 194346,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Just A Little Lovin'",
+        "url": "https://open.spotify.com/album/1Qp047VBGL9d1PkHWKuqG5"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/1oAs44xVvu4QaZpX9033S5"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Half The Perfect World",
         "url": "https://open.spotify.com/album/5OomYDbQatByUYt4aXXVwH"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 234106,
       "name": "The Summer Wind",
       "url": "https://open.spotify.com/track/4mp28AMgYCgrkfJMSYtl3C"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
+        "name": "Introducing",
+        "url": "https://open.spotify.com/album/18k94eozbQ5Ro7AyYMxOSF"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Dream A Little Dream",
+      "url": "https://open.spotify.com/track/5vVLUqs9ogEGnH44Lh8Tuc"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/3cdclv2AHxC4DTjlIujNeC"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 250546,
       "name": "Pennies From Heaven (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/79tHp1cHwQG5f0AD6rP38l"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
-        "name": "Introducing",
-        "url": "https://open.spotify.com/album/18k94eozbQ5Ro7AyYMxOSF"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Dream A Little Dream",
-      "url": "https://open.spotify.com/track/5vVLUqs9ogEGnH44Lh8Tuc"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
         }
       ],
-      "duration_ms": 257533,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
+      "duration_ms": 170767,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
       "artists": [
         {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 170767,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "They Can\u2019t Take That Away From Me",
-      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 230826,
       "name": "Look Of Love",
       "url": "https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 124986,
+      "name": "They Can\u2019t Take That Away From Me",
+      "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
       },
       "artists": [
         {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
         }
       ],
-      "duration_ms": 166826,
-      "name": "Oh My Love",
-      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
+      "duration_ms": 224460,
+      "name": "Place To Hide",
+      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
       },
       "artists": [
         {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
         }
       ],
-      "duration_ms": 224460,
-      "name": "Place To Hide",
-      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
+      "duration_ms": 166826,
+      "name": "Oh My Love",
+      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
+        "name": "Coming Back To You",
+        "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Coming Back To You",
+      "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 171306,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
-        "name": "Coming Back To You",
-        "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Coming Back To You",
-      "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "The Age of Anxiety",
-        "url": "https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "The Age Of Anxiety",
-      "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Meet Me at the Movies (feat. Iiro Rantala)",
         "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 209848,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "The Age of Anxiety",
+        "url": "https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 324826,
+      "name": "The Age Of Anxiety",
+      "url": "https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Tis Autumn",
-        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
-      },
-      "artists": [
-        {
-          "name": "Belle-Skinner",
-          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
-        }
-      ],
-      "duration_ms": 130162,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "My Wonderland",
         "url": "https://open.spotify.com/album/4Qhd3ksKmLXaDHyA82Wc6A"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 255000,
       "name": "A Man and a Woman",
       "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+      },
+      "artists": [
+        {
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+        }
+      ],
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 160626,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "True Love's Flame",
-        "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Herman",
-          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
-        },
-        {
-          "name": "Anna Serierse",
-          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
-        }
-      ],
-      "duration_ms": 152360,
-      "name": "A Place I Don\u2019t Know",
-      "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 194973,
       "name": "Lonely Waltz",
       "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "True Love's Flame",
+        "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        },
+        {
+          "name": "Anna Serierse",
+          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
+        }
+      ],
+      "duration_ms": 152360,
+      "name": "A Place I Don\u2019t Know",
+      "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
+        "name": "Autumn Breeze",
+        "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        },
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
         "name": "Flor",
         "url": "https://open.spotify.com/album/31DutanyKyJhX0CDb62IZa"
       },
@@ -1935,26 +1955,6 @@
       "duration_ms": 250697,
       "name": "Magnus",
       "url": "https://open.spotify.com/track/6rT1tvDLwn7BhiOoDbbg84"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
-        "name": "Autumn Breeze",
-        "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        },
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Autumn Breeze",
-      "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
+        "name": "I Wanna Be Loved",
+        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "I Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 226656,
       "name": "Blue in Green",
       "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
-        "name": "I Wanna Be Loved",
-        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
-      },
-      "artists": [
-        {
-          "name": "Alex Baird",
-          "url": "https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX"
-        }
-      ],
-      "duration_ms": 348013,
-      "name": "All I Needed",
-      "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/4MEgtXTEwwJUjQ5iEpk7F4"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 280312,
       "name": "The Shadow of Your Smile",
       "url": "https://open.spotify.com/track/3f8XyknPqIZStelk8c04tE"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/6SqI6sFDiOzv9XsNo1NXN7"
+      },
+      "artists": [
+        {
+          "name": "Alex Baird",
+          "url": "https://open.spotify.com/artist/1rosAujh5WdTHfT3eLlaUX"
+        }
+      ],
+      "duration_ms": 348013,
+      "name": "All I Needed",
+      "url": "https://open.spotify.com/track/1ejTOHoumUsp0g3Tg2tt00"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Fly Baby",
-        "url": "https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 340906,
-      "name": "Fly Baby",
-      "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
-    },
-    {
-      "added_at": "2024-12-13 14:03:23",
-      "album": {
         "name": "Where or When",
         "url": "https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 257811,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
+    },
+    {
+      "added_at": "2024-12-13 14:03:23",
+      "album": {
+        "name": "Fly Baby",
+        "url": "https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 340906,
+      "name": "Fly Baby",
+      "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -2467,8 +2467,8 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+        "name": "Hilltop",
+        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
       },
       "artists": [
         {
@@ -2476,9 +2476,9 @@
           "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
         }
       ],
-      "duration_ms": 228639,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
+      "duration_ms": 272768,
+      "name": "Hilltop",
+      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
     },
     {
       "added_at": "2024-12-13 14:03:23",
@@ -2631,8 +2631,8 @@
     {
       "added_at": "2024-12-13 14:03:23",
       "album": {
-        "name": "Hilltop",
-        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
       },
       "artists": [
         {
@@ -2640,9 +2640,9 @@
           "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
         }
       ],
-      "duration_ms": 272768,
-      "name": "Hilltop",
-      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
+      "duration_ms": 228639,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
     }
   ],
   "unique_name": "Easy Jazz",

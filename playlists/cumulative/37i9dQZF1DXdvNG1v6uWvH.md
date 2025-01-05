@@ -4,7 +4,7 @@
 
 > Ný tónlist!
 
-3,815 songs - 8 day 11 hr 20 min
+3,816 songs - 8 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -886,6 +886,7 @@
 | [Dubai Shit](https://open.spotify.com/track/4A1PTVtszgXnwA6YRXMHQv) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Omada](https://open.spotify.com/artist/53fC8PxrmSh5HQEyzyzlz4) | [Dubai Shit](https://open.spotify.com/album/6VfNPu3ZMLn10HKFA68qWI) | 2:32 | 2024-10-11 | 2024-10-18 |
 | [Dudada](https://open.spotify.com/track/1GENOPUqhM4POXH65ZnqZm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Goldcher](https://open.spotify.com/artist/1n9K41Jye8s8F0z1hb1Qhz), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudada](https://open.spotify.com/album/6IvbfG3vczBLqQITICdpKR) | 2:08 | 2024-10-04 | 2024-10-11 |
 | [Dum](https://open.spotify.com/track/4kadw7GlPL8BZYk9yzWqLx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Dum](https://open.spotify.com/album/5N7hT3FpW2SiFNz7iqrtpY) | 2:34 | 2024-06-14 | 2024-06-21 |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-03 |  |
 | [Dumb](https://open.spotify.com/track/1nzucJgdbte8RptIORkiRM) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Dumb](https://open.spotify.com/album/7KHJ0yUs08PQWPeu7qfGaW) | 3:26 | 2024-04-26 | 2024-05-03 |
 | [Dumb](https://open.spotify.com/track/5MeWmbqeBIalPwUiic8pSj) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [EV3RYTHING](https://open.spotify.com/artist/1biuR3Rd4YZfcYVG8f7QAk), [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4) | [Dumb](https://open.spotify.com/album/7q0YyxGn8zWBfWDPPeAnrS) | 2:11 | 2024-08-30 | 2024-09-06 |
 | [Dumb](https://open.spotify.com/track/3PSIl7zXEYf05YJkgjXPsJ) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Dumb](https://open.spotify.com/album/1doLhvPAjLanwEheuR4WgN) | 3:16 | 2024-07-12 | 2024-07-19 |
@@ -1483,7 +1484,7 @@
 | [Highlight \- jigitz Remix](https://open.spotify.com/track/0S2M1qkve0r09dvQw4WmbE) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [Highlight \(jigitz Remix\)](https://open.spotify.com/album/1P0suDsFOBQ5UVZHvWvrdj) | 4:06 | 2024-09-27 | 2024-10-04 |
 | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG), [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Anne Linnet](https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY) | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe) | 2:52 | 2024-08-09 | 2024-08-16 |
 | [HIM ALL ALONG](https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM ALL ALONG](https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR) | 2:38 | 2024-10-18 | 2024-10-25 |
-| [Hip Replacement](https://open.spotify.com/track/4p2ZlIMnsF8QUJlgXx26XA) | [Slick Stomp](https://open.spotify.com/artist/3Hy19AQfff34Is4aF2oc2b) | [Hip Replacement](https://open.spotify.com/album/6r79lhED7AwG2NxuyCIGQL) | 3:03 | 2025-01-03 |  |
+| [Hip Replacement](https://open.spotify.com/track/4p2ZlIMnsF8QUJlgXx26XA) | [Slick Stomp](https://open.spotify.com/artist/3Hy19AQfff34Is4aF2oc2b) | [Hip Replacement](https://open.spotify.com/album/6r79lhED7AwG2NxuyCIGQL) | 3:03 | 2025-01-03 | 2025-01-05 |
 | [Hips \(feat\. Mougleta\)](https://open.spotify.com/track/23OPjP0JETA5Dk34vsUfsJ) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Hips \(feat\. Mougleta\)](https://open.spotify.com/album/7bb1ZQRtc560r9IxJX0to3) | 2:21 | 2024-09-13 | 2024-09-20 |
 | [His Problem Instead](https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [His Problem Instead](https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7) | 2:43 | 2024-11-22 | 2024-11-29 |
 | [Hit \(feat\. Lil Wayne\)](https://open.spotify.com/track/4PzSxga45btTghaYbKvB0z) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hit](https://open.spotify.com/album/54IQ94osvt6eRh67IE83n7) | 3:18 | 2024-08-16 | 2024-08-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- DIVINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,789 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,820 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

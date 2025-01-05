@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/08HFDiYAAD9wgOYqpTgBr8"
+      },
+      "artists": [
+        {
+          "name": "Twelve XII",
+          "url": "https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi"
+        }
+      ],
+      "date_added": "2024-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158495,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/4FNInDPeqluA6e7CefIsjK"
+    },
+    {
+      "album": {
         "name": "Purple Lens",
         "url": "https://open.spotify.com/album/1Ycr1L7hKGVBLVygx1mG8l"
       },
@@ -5264,7 +5282,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 194000,
       "name": "I Know (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/1tfNvTi9njogdoorSPO9ZY"

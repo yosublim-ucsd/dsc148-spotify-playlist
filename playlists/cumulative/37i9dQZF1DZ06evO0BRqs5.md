@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0BRqs5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0BRqs5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0BRqs5)
 
-### [This Is Eir Aoi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
+### [This Is 藍井エイル](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
 
-> This is Eir Aoi\. The essential tracks, all in one playlist.
+> This is 藍井エイル\. The essential tracks, all in one playlist.
 
 90 songs - 6 hr 38 min
 
@@ -60,7 +60,7 @@
 | [クロイウタ](https://open.spotify.com/track/2BhzgvThTqaQpDBr1fmkM8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 6:20 | 2022-06-09 |  |
 | [グローアップ](https://open.spotify.com/track/1JnzJ2SnSrsiUSXIGkvX06) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:19 | 2022-12-03 | 2023-02-17 |
 | [コバルト・スカイ](https://open.spotify.com/track/3Z957DGjG79SQ4DLEHn8M0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:32 | 2022-06-09 | 2023-05-06 |
-| [サテライト](https://open.spotify.com/track/6JVhxrEMzT2mWSNHWMhwFZ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:25 | 2022-06-09 |  |
+| [サテライト](https://open.spotify.com/track/6JVhxrEMzT2mWSNHWMhwFZ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:25 | 2022-06-09 | 2025-01-05 |
 | [サンビカ](https://open.spotify.com/track/5w8BuUpt4CORux5GjRAtXd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:49 | 2022-06-09 |  |
 | [シューゲイザー](https://open.spotify.com/track/11mJhOxt2hCooDFndTPK4C) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:03 | 2022-06-09 |  |
 | [シリウス](https://open.spotify.com/track/5OCVWpORIRjRU12dHocyDa) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:24 | 2022-06-09 |  |
@@ -96,7 +96,7 @@
 | [近未来交響曲](https://open.spotify.com/track/4hMcTL6kTCzIgmOxQJlqoz) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:30 | 2022-06-09 | 2023-01-05 |
 | [閃光前夜](https://open.spotify.com/track/7AQCebDj1ewxC6NUuW4Mbe) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 5:11 | 2022-08-19 | 2024-11-25 |
 | [青く、青く](https://open.spotify.com/track/4x8y91an0erARwUUTifXWP) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [青く、青く](https://open.spotify.com/album/0gnXedu8kjG7R8XPdDpREc) | 4:32 | 2024-01-01 |  |
-| [青の世界](https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 6:00 | 2022-06-09 | 2023-03-22 |
+| [青の世界](https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 6:00 | 2022-06-09 |  |
 | [鼓動](https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [鼓動](https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3) | 4:03 | 2022-06-09 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

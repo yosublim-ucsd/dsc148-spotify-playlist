@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-237 songs - 11 hr 48 min
+238 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,10 +202,11 @@
 | [Scapegoat](https://open.spotify.com/track/7fm1Nbus8X19wI4oz6FFcb) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Scapegoat](https://open.spotify.com/album/57H1cyRJxpt3COMGnSnl7N) | 3:57 | 2023-03-18 |  |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 |  |
 | [Score](https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:39 | 2023-03-18 | 2024-04-06 |
-| [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Audiocrakerr](https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 |  |
+| [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Audiocrakerr](https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 | 2025-01-05 |
 | [Shah Ji](https://open.spotify.com/track/0e4uipfFzht1FPT7l3Wx2u) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/0bIeOOk2klDQTbtgkx7SwE) | 3:57 | 2023-06-23 | 2024-04-19 |
 | [Shah Ji](https://open.spotify.com/track/6SoqPMebHJMj4imd2vIZPQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/5x8cDu0sNQK9T9VHmG68qi) | 3:57 | 2023-03-18 | 2024-10-17 |
 | [Silicone](https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV) | 3:26 | 2023-04-23 | 2023-06-24 |
+| [Sit Down Son](https://open.spotify.com/track/5ToiBU3fTszZBrLOEHY9aB) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1) | [Sit Down Son](https://open.spotify.com/album/7u6ZStyLBmlQlPV3rM6XY7) | 3:24 | 2025-01-04 |  |
 | [Slap Up](https://open.spotify.com/track/2jkMN5p1mVqfkCbtuQTcZx) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bandzo3rd](https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 3:46 | 2024-03-26 | 2024-08-10 |
 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 | 2024-11-20 |  |
 | [Source Of Light](https://open.spotify.com/track/3Gy1BKyruuLXV0lZq8BchU) | [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G) | [Source Of Light](https://open.spotify.com/album/3Hb8OXJtMbc1JEtynaTDRO) | 2:30 | 2024-12-09 |  |

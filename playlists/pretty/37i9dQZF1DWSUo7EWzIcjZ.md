@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Wilfrido Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,600 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,605 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 34 | [Noches de Fantasía](https://open.spotify.com/track/2f2k0KjxqB9p1e6scnkRh9) | [Merengue Latin Band](https://open.spotify.com/artist/6CfAyHRZimRXEFeC7Tcseo) | [Merengue Passion](https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67) | 4:30 |
 | 35 | [Dile](https://open.spotify.com/track/7aRqroLRrcGEKDoPsb6Wbe) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 5:02 |
 | 36 | [El Silencio, Tu Y Yo](https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 3:57 |
-| 37 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
-| 38 | [La Vida Sigue Igual](https://open.spotify.com/track/4LSiuypSTmcXMbMVbjiZ5O) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Todo](https://open.spotify.com/album/0ZLMDGbbT7lMV3X0rFfu95) | 5:50 |
+| 37 | [La Vida Sigue Igual](https://open.spotify.com/track/4LSiuypSTmcXMbMVbjiZ5O) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Todo](https://open.spotify.com/album/0ZLMDGbbT7lMV3X0rFfu95) | 5:50 |
+| 38 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
 | 39 | [Si Tu Me Dices](https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O), [Jossie Esteban y La Patrulla 15](https://open.spotify.com/artist/0PZFcATGOX0fUm1zPpRiaH) | [Con Fuerza!](https://open.spotify.com/album/75kIH5wFWzxKanFc5yFX67) | 4:43 |
 | 40 | [Llego Tu Marido](https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [20 Exitos](https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w) | 5:04 |
 | 41 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 74 | [Como Duele \- En Vivo](https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:33 |
 | 75 | [La Fotografia](https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:07 |
 | 76 | [Te Quiero](https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Los Toros Band..\. "Pa' La Calle"](https://open.spotify.com/album/6iXKTogNUFHBIkJcC2U7lO) | 3:54 |
-| 77 | [La Cosquillita](https://open.spotify.com/track/3srURD7HBktaD14VKzctR4) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:44 |
-| 78 | [Volveré](https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:21 |
+| 77 | [El Jardinero](https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:27 |
+| 78 | [La Cosquillita](https://open.spotify.com/track/3srURD7HBktaD14VKzctR4) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Sabor Criollo \(Música Típica\), Vol\. 1](https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL) | 3:44 |
 | 79 | [Tu Mujer](https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:01 |
 | 80 | [Ta' Pillao](https://open.spotify.com/track/5ES8lZiYDoVmEbnEz93ak9) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Los Años Dorados](https://open.spotify.com/album/2jCQgKg1Ugv4CdWKJMSma4) | 4:35 |
 | 81 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 145 | [Yo Que Te Amé / Cuánta Vida / Todo Aquello / Tú Vacilándome](https://open.spotify.com/track/1LduVfHrZmcdf8e1jdptGN) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:05 |
 | 146 | [La Primera Piedra](https://open.spotify.com/track/5yIkrvLKrR9Kbiu4LHQEkZ) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Grandes Exitos \- Cinco Años De Platino](https://open.spotify.com/album/2hBybBr6RihTTziFEbwKQf) | 5:39 |
 | 147 | [Vete y Dile](https://open.spotify.com/track/2qlsW9JoDmXNyM7odbFxmn) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/2EQqKxpUQUnqFXgcavxRap) | 4:51 |
-| 148 | [Te Compro Tu Novia](https://open.spotify.com/track/3czFCRBDV79tTU4EbCEFuw) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [America Sin Queja](https://open.spotify.com/album/1FmuFhJTU6xH7uqazo1mfG) | 4:27 |
-| 149 | [Que Cara Más Bonita](https://open.spotify.com/track/2HNTMqqbPIe2gTexJBChVH) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3GY3HuVDeNMgAR9OAuVgw6) | 5:02 |
-| 150 | [Los diseñadores](https://open.spotify.com/track/6Rh8XA7epTYTIqWKQAXXjp) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs), [Charlie Rodriguez](https://open.spotify.com/artist/2HMIrqrn0is623MduW9coi) | [Un Cantante, 3 Facetas, Un Gran Artista \- Bolero, Bachata & Merengue](https://open.spotify.com/album/25v4AE4BEtDWDNBTpbElt5) | 4:27 |
+| 148 | [Volveré](https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:21 |
+| 149 | [Te Compro Tu Novia](https://open.spotify.com/track/3czFCRBDV79tTU4EbCEFuw) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [America Sin Queja](https://open.spotify.com/album/1FmuFhJTU6xH7uqazo1mfG) | 4:27 |
+| 150 | [Que Cara Más Bonita](https://open.spotify.com/track/2HNTMqqbPIe2gTexJBChVH) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Los Años Dorados](https://open.spotify.com/album/3GY3HuVDeNMgAR9OAuVgw6) | 5:02 |
 
 Snapshot ID: `Zn8xQgAAAADr+dZXhJI+RFlF0/w00DoM`

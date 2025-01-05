@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 261043,
+  "num_followers": 261337,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,22 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Double Vision",
-        "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
+        "name": "Find Someone Like You",
+        "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
       },
       "artists": [
         {
-          "name": "Adam Hawley",
-          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+          "name": "Jonas Wall",
+          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
         },
         {
-          "name": "Marcus Anderson",
-          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+          "name": "Umbaji",
+          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
         }
       ],
-      "duration_ms": 251013,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
+      "duration_ms": 249230,
+      "name": "Find Someone Like You",
+      "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -279,22 +279,22 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Find Someone Like You",
-        "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
       },
       "artists": [
         {
-          "name": "Jonas Wall",
-          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
         },
         {
-          "name": "Umbaji",
-          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
         }
       ],
-      "duration_ms": 249230,
-      "name": "Find Someone Like You",
-      "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
+      "duration_ms": 251013,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
+        "name": "Paks",
+        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
+      },
+      "artists": [
+        {
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Paks",
+      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
+    },
+    {
+      "added_at": "2024-11-25 14:50:22",
+      "album": {
         "name": "Last Look",
         "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
       },
@@ -579,18 +595,18 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Paks",
-        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
       },
       "artists": [
         {
-          "name": "Lndoner",
-          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
         }
       ],
-      "duration_ms": 168888,
-      "name": "Paks",
-      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
+      "duration_ms": 256295,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -623,22 +639,6 @@
       "duration_ms": 235696,
       "name": "Grinnell Street",
       "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
-    },
-    {
-      "added_at": "2024-11-25 14:50:22",
-      "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 256295,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Straight to the Heart",
-      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
-    },
-    {
-      "added_at": "2024-11-25 14:50:22",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Working Buttons",
-        "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
       },
       "artists": [
         {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
         }
       ],
-      "duration_ms": 270025,
-      "name": "Working Buttons",
-      "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
+      "duration_ms": 233666,
+      "name": "Straight to the Heart",
+      "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -787,6 +771,22 @@
       "duration_ms": 179250,
       "name": "Do not disturb",
       "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
+    },
+    {
+      "added_at": "2024-11-25 14:50:22",
+      "album": {
+        "name": "Working Buttons",
+        "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 270025,
+      "name": "Working Buttons",
+      "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
+        "name": "Celestial Summer",
+        "url": "https://open.spotify.com/album/4eD8YUENmkWXCJaRGbHPZ3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+        }
+      ],
+      "duration_ms": 257414,
+      "name": "Celestial Summer",
+      "url": "https://open.spotify.com/track/5uAqNqUJTb1xlqIyxObvWu"
+    },
+    {
+      "added_at": "2024-11-25 14:50:22",
+      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Celestial Summer",
-        "url": "https://open.spotify.com/album/4eD8YUENmkWXCJaRGbHPZ3"
+        "name": "Ready to Play",
+        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
       "artists": [
         {
-          "name": "Jonathan Fritz\u00e9n",
-          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
         }
       ],
-      "duration_ms": 257414,
-      "name": "Celestial Summer",
-      "url": "https://open.spotify.com/track/5uAqNqUJTb1xlqIyxObvWu"
+      "duration_ms": 303973,
+      "name": "Catnap",
+      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -903,18 +919,18 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Ready to Play",
-        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
+        "name": "Dressed To Chill",
+        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
       },
       "artists": [
         {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
         }
       ],
-      "duration_ms": 303973,
-      "name": "Catnap",
-      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
+      "duration_ms": 241386,
+      "name": "Dressed To Chill",
+      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -931,22 +947,6 @@
       "duration_ms": 242333,
       "name": "You're The One For Me",
       "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
-    },
-    {
-      "added_at": "2024-11-25 14:50:22",
-      "album": {
-        "name": "Dressed To Chill",
-        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "Dressed To Chill",
-      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Divine Morning",
-        "url": "https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS"
-      },
-      "artists": [
-        {
-          "name": "Delorme & Co",
-          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "Divine Morning",
-      "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
-    },
-    {
-      "added_at": "2024-11-25 14:50:22",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+        "name": "Divine Morning",
+        "url": "https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS"
       },
       "artists": [
         {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+          "name": "Delorme & Co",
+          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
         }
       ],
-      "duration_ms": 244874,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
+      "duration_ms": 213813,
+      "name": "Divine Morning",
+      "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 244874,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
+    },
+    {
+      "added_at": "2024-11-25 14:50:22",
+      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "Out'a Nowhere",
-      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
-    },
-    {
-      "added_at": "2024-11-25 14:50:22",
-      "album": {
         "name": "Smooth Lines",
         "url": "https://open.spotify.com/album/46cSsCZNSPKDCuDXtLvGZJ"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
+        "name": "Third Wish",
+        "url": "https://open.spotify.com/album/59rYARbQWHRi3wT19DwRA4"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Third Wish",
+      "url": "https://open.spotify.com/track/6nrafhMBvaXH9srTIk5Y6U"
+    },
+    {
+      "added_at": "2024-11-25 14:50:22",
+      "album": {
         "name": "The Catwalk",
         "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 207812,
       "name": "The Catwalk",
       "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
+    },
+    {
+      "added_at": "2024-11-25 14:50:22",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Out'a Nowhere",
+      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Third Wish",
-        "url": "https://open.spotify.com/album/59rYARbQWHRi3wT19DwRA4"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Third Wish",
-      "url": "https://open.spotify.com/track/6nrafhMBvaXH9srTIk5Y6U"
-    },
-    {
-      "added_at": "2024-11-25 14:50:22",
-      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 253815,
       "name": "Just One Wish",
       "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
-    },
-    {
-      "added_at": "2024-11-25 14:50:22",
-      "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        },
-        {
-          "name": "Jonathan Butler",
-          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
-        }
-      ],
-      "duration_ms": 325373,
-      "name": "Night Calls",
-      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "On Top Of Your Game",
-        "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
       },
       "artists": [
         {
-          "name": "Sweet Spot Lab",
-          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        },
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
         }
       ],
-      "duration_ms": 166377,
-      "name": "On Top Of Your Game",
-      "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
+      "duration_ms": 325373,
+      "name": "Night Calls",
+      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Smooth Creations the Album, Pt. 1",
-        "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
+        "name": "On Top Of Your Game",
+        "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
       },
       "artists": [
         {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+          "name": "Sweet Spot Lab",
+          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
         }
       ],
-      "duration_ms": 376000,
-      "name": "Let's Get It Started",
-      "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
+      "duration_ms": 166377,
+      "name": "On Top Of Your Game",
+      "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -1339,6 +1323,22 @@
       "duration_ms": 284200,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+    },
+    {
+      "added_at": "2024-11-25 14:50:22",
+      "album": {
+        "name": "Smooth Creations the Album, Pt. 1",
+        "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Let's Get It Started",
+      "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 247746,
-      "name": "Mallorca",
-      "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
-    },
-    {
-      "added_at": "2024-11-25 14:50:22",
-      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -1507,22 +1491,6 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Melody Drive",
-        "url": "https://open.spotify.com/album/7L9rZoOFPlkKy4g9Jclwft"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
-        }
-      ],
-      "duration_ms": 168811,
-      "name": "Melody Drive",
-      "url": "https://open.spotify.com/track/5WHfvETetU0Tu9DQ4iIwfq"
-    },
-    {
-      "added_at": "2024-11-25 14:50:22",
-      "album": {
         "name": "Big Jon",
         "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
       },
@@ -1539,18 +1507,34 @@
     {
       "added_at": "2024-11-25 14:50:22",
       "album": {
-        "name": "Club 1600",
-        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
+        "name": "Melody Drive",
+        "url": "https://open.spotify.com/album/7L9rZoOFPlkKy4g9Jclwft"
       },
       "artists": [
         {
-          "name": "Club 1600",
-          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
+      "duration_ms": 168811,
+      "name": "Melody Drive",
+      "url": "https://open.spotify.com/track/5WHfvETetU0Tu9DQ4iIwfq"
+    },
+    {
+      "added_at": "2024-11-25 14:50:22",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 247746,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
     },
     {
       "added_at": "2024-11-25 14:50:22",
@@ -1567,6 +1551,22 @@
       "duration_ms": 129332,
       "name": "Stay Sharp",
       "url": "https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf"
+    },
+    {
+      "added_at": "2024-11-25 14:50:22",
+      "album": {
+        "name": "Club 1600",
+        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
+      },
+      "artists": [
+        {
+          "name": "Club 1600",
+          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
     },
     {
       "added_at": "2024-11-25 14:50:22",

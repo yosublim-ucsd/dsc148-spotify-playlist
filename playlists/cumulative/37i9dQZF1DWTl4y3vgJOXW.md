@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Karl\-Anthony Towns and Karl\-Anthony Towns
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Derrick Rose
 
 767 songs - 1 day 15 hr 40 min
 

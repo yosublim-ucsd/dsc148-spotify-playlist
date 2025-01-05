@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 214320,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/49clGe0PtbYUx3vB7tyk3A"
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 154611,
       "name": "Bellevue (feat. D1MA)",
       "url": "https://open.spotify.com/track/6EXV782Zpktyx9NvcwkYN5"
@@ -5170,7 +5170,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 153084,
       "name": "Chicagenhagen",
       "url": "https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH"
@@ -11605,7 +11605,7 @@
     },
     {
       "album": {
-        "name": "F\u00f8rste Dag",
+        "name": "F\u00f8rste dag",
         "url": "https://open.spotify.com/album/4UlublRVVPERXTBrzYjhWo"
       },
       "artists": [
@@ -11622,7 +11622,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193712,
-      "name": "F\u00f8rste Dag",
+      "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL"
     },
     {
@@ -17218,7 +17218,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 186242,
       "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
       "url": "https://open.spotify.com/track/5Zll07pbDGEStWriPWKwuP"
@@ -18338,7 +18338,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 245729,
       "name": "Knokler H\u00e5rdt",
       "url": "https://open.spotify.com/track/5RR4sBH4TRqyFp386kf99d"
@@ -18974,7 +18974,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-05",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
@@ -18996,7 +18996,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -20271,6 +20271,28 @@
     },
     {
       "album": {
+        "name": "Lonely (feat. Artigeardit)",
+        "url": "https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196090,
+      "name": "Lonely (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -21024,7 +21046,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 138341,
       "name": "MADNESS (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/2WuXxMvcuRqrfXAMXtXM9s"
@@ -25846,6 +25868,32 @@
       "duration_ms": 146266,
       "name": "Pray",
       "url": "https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte"
+    },
+    {
+      "album": {
+        "name": "Private Party (feat. Tessa & Klamfyr)",
+        "url": "https://open.spotify.com/album/3ztRiGEr5cv40qDaSCcXMU"
+      },
+      "artists": [
+        {
+          "name": "Rune Rask",
+          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
+        },
+        {
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+        },
+        {
+          "name": "Klamfyr",
+          "url": "https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171923,
+      "name": "Private Party (feat. Tessa & Klamfyr)",
+      "url": "https://open.spotify.com/track/0qLQ0HB4MbYONXJVZ8PcP8"
     },
     {
       "album": {

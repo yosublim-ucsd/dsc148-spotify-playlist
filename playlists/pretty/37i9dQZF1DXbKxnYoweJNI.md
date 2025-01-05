@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 鄭宜農 \(Enno Cheng\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,342 likes - 132 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,344 likes - 132 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [寬寬仔來到祢的面前](https://open.spotify.com/track/5QWLLhH7coXBotQq3vhv63) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ), [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [寬寬仔來到祢的面前](https://open.spotify.com/album/0qDEUudBnGzseYPfrra3IE) | 4:56 |
-| 2 | [一個吻的時間 \(feat\. icyball 冰球樂團\)](https://open.spotify.com/track/0hcKfrkRn9sNlrKJLM7ZQh) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj), [icyball 冰球樂團](https://open.spotify.com/artist/4X2UN12l6zt3w0gVggphpv) | [一個吻的時間 \(feat\. icyball 冰球樂團\)](https://open.spotify.com/album/7HmD13Vr6HKEPYxpMEflCa) | 2:55 |
+| 2 | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/track/0hcKfrkRn9sNlrKJLM7ZQh) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj), [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/album/7HmD13Vr6HKEPYxpMEflCa) | 2:55 |
 | 3 | [放把火, 燒了我](https://open.spotify.com/track/6A97JLkQ8dd85eVSvYoVUx) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [放把火, 燒了我](https://open.spotify.com/album/6MRs0jnfcWh2KaUpwjdwxi) | 3:38 |
 | 4 | [MATA 目光 \(feat\. Majin\)](https://open.spotify.com/track/0c3SiwSjVrPoMEmhWGBaQX) | [阿布絲・塔娜比瑪](https://open.spotify.com/artist/4mxP6XgX0kUYlpKlcOHVGx), [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [QUEENDOM](https://open.spotify.com/album/1pmemhmd7AZ77w04ZuqMkB) | 3:11 |
 | 5 | [人生四格](https://open.spotify.com/track/6KxkBS9qPXN0rSskljZqnp) | [Way U](https://open.spotify.com/artist/7uKVQKaHgjsrBiCEdnB7rz) | [BLUE DEATH](https://open.spotify.com/album/2ehS3APyLD9ob9DkWVNXXC) | 2:20 |

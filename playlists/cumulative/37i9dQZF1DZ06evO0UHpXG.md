@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-117 songs - 7 hr 1 min
+118 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Killed by Death](https://open.spotify.com/track/2XvVueul226rT8g4DQuKSK) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [All the Aces](https://open.spotify.com/album/13NfYO9kPsulhr0QpklkHF) | 4:38 | 2023-12-13 |  |
 | [Killed by Death](https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse](https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba) | 4:39 | 2022-12-30 | 2023-12-14 |
 | [Life's a Bitch](https://open.spotify.com/track/08qd7KzrvVKwEU5mfBnU8j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 4:13 | 2023-01-24 | 2023-04-04 |
+| [Life's a Bitch](https://open.spotify.com/track/3MrXb1U5gZ8MQkCff0yW1X) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 4:13 | 2025-01-05 |  |
 | [Live to Win](https://open.spotify.com/track/1uFaq4v8tZbF6g7afvC8AD) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 3:36 | 2023-12-20 | 2024-06-13 |
 | [Louie Louie](https://open.spotify.com/track/1HAdmhaL114vlPpdp58Ww3) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:44 | 2023-12-13 |  |
 | [Louie Louie](https://open.spotify.com/track/5R6OAv09z0kAV7Ll8olOH4) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 2:44 | 2022-12-30 | 2023-12-14 |
@@ -86,7 +87,7 @@
 | [Orgasmatron](https://open.spotify.com/track/3RqNRquosVuv2C6AT6HLGT) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/6jHRYw1JsUNParuSI9BtFX) | 5:23 | 2022-12-30 | 2023-12-14 |
 | [Orgasmatron](https://open.spotify.com/track/3FXkhPqETD7nkZsr1Vr7qX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 5:24 | 2023-12-13 |  |
 | [Over the Top \(Live at Download Festival, Donington, England, June 13, 2008\)](https://open.spotify.com/track/1n1mXoqx7fzapLVRKq7ZBp) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 5](https://open.spotify.com/album/1TGHTdiR7QolfRrIzjzY6Z) | 2:29 | 2023-12-31 | 2024-02-10 |
-| [Over Your Shoulder \(Live\)](https://open.spotify.com/track/7GxFfjJNE3P1ZGJssYZozc) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Take No Prisoners \(The Singles 1995 \- 2006\)](https://open.spotify.com/album/6ZOKfW7b5wK3gXviW1s6l6) | 3:41 | 2024-10-29 |  |
+| [Over Your Shoulder \(Live\)](https://open.spotify.com/track/7GxFfjJNE3P1ZGJssYZozc) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Take No Prisoners \(The Singles 1995 \- 2006\)](https://open.spotify.com/album/6ZOKfW7b5wK3gXviW1s6l6) | 3:41 | 2024-10-29 | 2025-01-05 |
 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 | 2022-12-30 | 2023-12-14 |
 | [Overkill](https://open.spotify.com/track/4XvvR8F6qOcnzgChO1uTIO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 5:13 | 2023-12-13 |  |
 | [Please Don't Touch \(feat\. Motörhead\)](https://open.spotify.com/track/2fZKtGjQ5vWLDWm6AhfvQ1) | [Girlschool](https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best of Girlschool](https://open.spotify.com/album/2KN9p0XSOmycyt4ZzMKJGB) | 2:47 | 2022-12-30 | 2023-12-14 |

@@ -4,7 +4,7 @@
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-429 songs - 1 day 3 hr 26 min
+430 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Vurgunum Ama Acelesi Yok](https://open.spotify.com/track/1yiWGEADkJPYlMalqk1VfC) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:45 | 2023-03-31 | 2023-04-20 |
 | [Walk Away](https://open.spotify.com/track/0h04l7hE4CrYjdRFbk4c4O) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA) | [Walk Away](https://open.spotify.com/album/6KK8Hcp5en0xPxmOfHuen0) | 3:02 | 2024-05-03 | 2024-06-28 |
 | [Wall Of Eyes](https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:05 | 2024-02-02 | 2024-04-23 |
+| [wanderlust](https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [wanderlust](https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8) | 3:04 | 2025-01-04 |  |
 | [We Were We Still Are](https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [We Were We Still Are](https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9) | 2:57 | 2023-08-24 | 2023-10-28 |
 | [wearywatergod](https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 1:08 | 2024-03-22 | 2024-05-04 |
 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 | 2024-01-06 | 2024-01-19 |

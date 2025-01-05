@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf42",
-  "num_followers": 133738,
+  "num_followers": 133750,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,26 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
+        "name": "it takes 2",
+        "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "it takes 2",
+      "url": "https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
         "name": "Encounter",
         "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
-        "name": "it takes 2",
-        "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        },
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 220677,
-      "name": "it takes 2",
-      "url": "https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
+        "name": "C'est Plus Comme Avant (Version Acoustique)",
+        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
       },
       "artists": [
         {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 242653,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+      "duration_ms": 166306,
+      "name": "C'est Plus Comme Avant - Version Acoustique",
+      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "C'est Plus Comme Avant (Version Acoustique)",
-        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
         }
       ],
-      "duration_ms": 166306,
-      "name": "C'est Plus Comme Avant - Version Acoustique",
-      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
+      "duration_ms": 242653,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 222177,
-      "name": "Wildflower and Barley (feat. Allison Russell)",
-      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
         "name": "Dans la for\u00eat num\u00e9rique",
         "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
@@ -1555,6 +1535,22 @@
       "duration_ms": 231906,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
+        "name": "Il n'y a rien que je ne suis pas",
+        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
+      },
+      "artists": [
+        {
+          "name": "Arielle Soucy",
+          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1595,22 +1591,6 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Il n'y a rien que je ne suis pas",
-        "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
-      },
-      "artists": [
-        {
-          "name": "Arielle Soucy",
-          "url": "https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Promenade",
-      "url": "https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
         "name": "En attendant l'aube",
         "url": "https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 222186,
       "name": "En attendant l'aube",
       "url": "https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 222177,
+      "name": "Wildflower and Barley (feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
     },
     {
       "added_at": "2024-12-27 15:48:27",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-12-27 15:48:27",
       "album": {
-        "name": "Conif\u00e8re",
-        "url": "https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv"
-      },
-      "artists": [
-        {
-          "name": "Conif\u00e8re",
-          "url": "https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2"
-        }
-      ],
-      "duration_ms": 230773,
-      "name": "Les travaux",
-      "url": "https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ"
-    },
-    {
-      "added_at": "2024-12-27 15:48:27",
-      "album": {
         "name": "Espoir",
         "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 210177,
       "name": "Espoir",
       "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
+    },
+    {
+      "added_at": "2024-12-27 15:48:27",
+      "album": {
+        "name": "Conif\u00e8re",
+        "url": "https://open.spotify.com/album/3dapBvQalwo70bWX9eWzBv"
+      },
+      "artists": [
+        {
+          "name": "Conif\u00e8re",
+          "url": "https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Les travaux",
+      "url": "https://open.spotify.com/track/47jqIQwhKPUJNm6WEW8ULZ"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 27554,
+  "num_followers": 27576,
   "original_name": "Mujeres del Folclore",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-10-22 19:12:08",
       "album": {
+        "name": "Aleteo",
+        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
+      },
+      "artists": [
+        {
+          "name": "Carolina del Carmen Peleritti",
+          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Aleteo",
+      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
+    },
+    {
+      "added_at": "2024-10-22 19:12:08",
+      "album": {
         "name": "Ysyry",
         "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 154644,
       "name": "Camb\u00e1 Galleta",
       "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
-    },
-    {
-      "added_at": "2024-10-22 19:12:08",
-      "album": {
-        "name": "Aleteo",
-        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
-      },
-      "artists": [
-        {
-          "name": "Carolina del Carmen Peleritti",
-          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Aleteo",
-      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
     },
     {
       "added_at": "2024-10-22 19:12:08",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-10-22 19:12:08",
       "album": {
-        "name": "Lorena Canta al Cuchi",
-        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 260623,
-      "name": "Lavanderas de Rio Chico",
-      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
-    },
-    {
-      "added_at": "2024-10-22 19:12:08",
-      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
+    },
+    {
+      "added_at": "2024-10-22 19:12:08",
+      "album": {
+        "name": "Lorena Canta al Cuchi",
+        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 260623,
+      "name": "Lavanderas de Rio Chico",
+      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
     },
     {
       "added_at": "2024-10-22 19:12:08",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-10-22 19:12:08",
       "album": {
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD"
+    },
+    {
+      "added_at": "2024-10-22 19:12:08",
+      "album": {
         "name": "No Hacen Falta Alas",
         "url": "https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2024-10-22 19:12:08",
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP"
+        "name": "Conviccion",
+        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
       },
       "artists": [
         {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+          "name": "Rocio Araujo",
+          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
         }
       ],
-      "duration_ms": 226688,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD"
+      "duration_ms": 259573,
+      "name": "Zamba de Carnaval",
+      "url": "https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP"
     },
     {
       "added_at": "2024-10-22 19:12:08",
@@ -1599,22 +1615,6 @@
       "duration_ms": 151771,
       "name": "A la Ma\u00f1anita",
       "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
-    },
-    {
-      "added_at": "2024-10-22 19:12:08",
-      "album": {
-        "name": "Conviccion",
-        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
-      },
-      "artists": [
-        {
-          "name": "Rocio Araujo",
-          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Zamba de Carnaval",
-      "url": "https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP"
     },
     {
       "added_at": "2024-10-22 19:12:08",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-10-22 19:12:08",
       "album": {
-        "name": "Para ir a buscarte",
-        "url": "https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Farias G\u00f3mez",
-          "url": "https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure"
-        }
-      ],
-      "duration_ms": 274999,
-      "name": "Zamba de Anta",
-      "url": "https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc"
-    },
-    {
-      "added_at": "2024-10-22 19:12:08",
-      "album": {
         "name": "La Penadora",
         "url": "https://open.spotify.com/album/0KPZPiVFRU5XnzkN0xcrbw"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 143018,
       "name": "La Penadora",
       "url": "https://open.spotify.com/track/2ASlFOJiFreBzzpRIFyFZk"
+    },
+    {
+      "added_at": "2024-10-22 19:12:08",
+      "album": {
+        "name": "Para ir a buscarte",
+        "url": "https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Farias G\u00f3mez",
+          "url": "https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure"
+        }
+      ],
+      "duration_ms": 274999,
+      "name": "Zamba de Anta",
+      "url": "https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc"
     },
     {
       "added_at": "2024-10-22 19:12:08",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-10-22 19:12:08",
       "album": {
-        "name": "Guanuqueando",
-        "url": "https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB"
+        "name": "El Otro Pa\u00eds",
+        "url": "https://open.spotify.com/album/1XbuwOs0M0UTManSQD3dF1"
       },
       "artists": [
         {
-          "name": "Suna Rocha",
-          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
         }
       ],
-      "duration_ms": 259874,
-      "name": "Guanuqueando",
-      "url": "https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa"
+      "duration_ms": 266195,
+      "name": "El Otro Pa\u00eds",
+      "url": "https://open.spotify.com/track/0YlsXdXjBWt9KDLJpjwfii"
     }
   ],
   "unique_name": "Mujeres del Folclore",

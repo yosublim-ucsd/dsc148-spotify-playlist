@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,048 likes - 299 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,133 likes - 299 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Let's Go Fly a Kite](https://open.spotify.com/track/6INp5m6Ppde1EN22XXeZjy) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Let's Go Fly a Kite](https://open.spotify.com/album/1ECsmmVic7JtILMS6HW4Cy) | 2:35 |
-| 2 | [I Always Wanted A Brother](https://open.spotify.com/track/6WQyAlZ8sYKvyvSwgX85TO) | [Braelyn Rankins](https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm), [Theo Somolu](https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq), [Aaron Pierre](https://open.spotify.com/artist/20VbCdEy1hQdgUMa0rL0N6), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/5pMwIoxFUbf0mHvjlMGWLq) | 3:34 |
+| 2 | [I Always Wanted A Brother](https://open.spotify.com/track/6WQyAlZ8sYKvyvSwgX85TO) | [Braelyn Rankins](https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm), [Theo Somolu](https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq), [Aaron Pierre](https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/5pMwIoxFUbf0mHvjlMGWLq) | 3:34 |
 | 3 | [Great Big World](https://open.spotify.com/track/1r9rWCSCMJcD2VCtZRUmwZ) | [Kevin The Bear](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C) | [Great Big World](https://open.spotify.com/album/1l55DAgkMB87yvuRSVwDnA) | 2:05 |
 | 4 | [One Talk at a Time](https://open.spotify.com/track/1WaAMXC7V1lG0g8gEWhTNS) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [One Talk at a Time](https://open.spotify.com/album/0B2RIp28BPfFOlu49PgOQe) | 2:49 |
 | 5 | [Pillow Fort Song](https://open.spotify.com/track/0IHRM0JHDKNgae74AP6Tp8) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [10 Years of Curiosity](https://open.spotify.com/album/1y0wRZBLHaq5Mac8ekav5R) | 2:06 |

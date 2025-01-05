@@ -1,6 +1,6 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e \ud83e\udd94",
-  "num_followers": 183510,
+  "num_followers": 183712,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-12-09 14:25:55",
       "album": {
-        "name": "Everglow",
-        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "Everglow - Edit",
-      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
-    },
-    {
-      "added_at": "2024-12-09 14:25:55",
-      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 175853,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/5zQyqgNXKzhifkivumzxDS"
+    },
+    {
+      "added_at": "2024-12-09 14:25:55",
+      "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Everglow - Edit",
+      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
     },
     {
       "added_at": "2024-12-09 14:25:55",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-12-09 14:25:55",
       "album": {
-        "name": "Magnetised (Acoustic)",
-        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292186,
-      "name": "Magnetised - Acoustic",
-      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
-    },
-    {
-      "added_at": "2024-12-09 14:25:55",
-      "album": {
         "name": "My One And Only Thrill",
         "url": "https://open.spotify.com/album/3LNuQe1oprSo8VcxgJnKAV"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 162720,
       "name": "Your Heart Is As Black As Night",
       "url": "https://open.spotify.com/track/3afTrFAg0LjBVL54PiHZSP"
+    },
+    {
+      "added_at": "2024-12-09 14:25:55",
+      "album": {
+        "name": "Magnetised (Acoustic)",
+        "url": "https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292186,
+      "name": "Magnetised - Acoustic",
+      "url": "https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI"
     },
     {
       "added_at": "2024-12-09 14:25:55",

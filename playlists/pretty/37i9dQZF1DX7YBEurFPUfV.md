@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,462 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,475 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,20 +14,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 4 | [La Luna](https://open.spotify.com/track/0J4eAUX6z4fMmQl0DNGbEv) | [Defame](https://open.spotify.com/artist/7uYhekWGqh5EvQAaKC2WxS), [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [The NORF Tape](https://open.spotify.com/album/6FHC8uKiR12QlB4JpVgcMk) | 3:30 |
 | 5 | [AKADHIB](https://open.spotify.com/track/7wI2qRYtNmJl62mj5fUC78) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [AKADHIB](https://open.spotify.com/album/25yPGNBnqKcojCnQCNpqbL) | 3:20 |
 | 6 | [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 |
-| 7 | [Sagapo](https://open.spotify.com/track/6fFZHFNKHbBXcZPWgNqKXp) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Sagapo](https://open.spotify.com/album/0IGeayTS4H7JmOy2xEH00n) | 3:12 |
-| 8 | [Brabus](https://open.spotify.com/track/2LhLEOlgnq6ac47hTr5KYO) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Brabus](https://open.spotify.com/album/7FIcDfg2HwUAHvB1I84rk6) | 3:32 |
-| 9 | [Aayech Maak](https://open.spotify.com/track/5VPjeVY3wZ4m4q1e7Ch5NT) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Aayech Maak](https://open.spotify.com/album/6eUDSon2TBhuHzS2RWootc) | 3:45 |
+| 7 | [GELBI T3AB \(feat\. Samara\)](https://open.spotify.com/track/5O0rw93ajyfd3gIDvH4AFL) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [GELBI T3AB \(feat\. Samara\)](https://open.spotify.com/album/7kACB4BQT5tZZ3wcFdOyaY) | 4:03 |
+| 8 | [Sagapo](https://open.spotify.com/track/6fFZHFNKHbBXcZPWgNqKXp) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Sagapo](https://open.spotify.com/album/0IGeayTS4H7JmOy2xEH00n) | 3:12 |
+| 9 | [Brabus](https://open.spotify.com/track/2LhLEOlgnq6ac47hTr5KYO) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Brabus](https://open.spotify.com/album/7FIcDfg2HwUAHvB1I84rk6) | 3:32 |
 | 10 | [Happy Hour](https://open.spotify.com/track/7cKHVDykmR75pjqJp0KFaR) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Happy Hour](https://open.spotify.com/album/0ljDJIAMsQIUbS2YduqhO3) | 2:57 |
 | 11 | [YA LATIF](https://open.spotify.com/track/5vnEgymA5OFDOf3MOUshFs) | [Soldjvt](https://open.spotify.com/artist/1vLZfHcyqW1vBDy93tdTYV) | [YA LATIF](https://open.spotify.com/album/4xiBtG94NHc23MN6lPZ97j) | 2:54 |
 | 12 | [Ya Ghali](https://open.spotify.com/track/1yNQQl0pUxWwJcy2Uhln0Q) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 3:12 |
 | 13 | [Kol Manzid](https://open.spotify.com/track/6MzKnihMvYG74ZS309SjLB) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Redstar Radi](https://open.spotify.com/artist/3IMbYEUHFZ6Nkocs2GqMxp), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Kol Manzid](https://open.spotify.com/album/0AsZIVxdSVZkPdeBJHz8Ul) | 3:50 |
 | 14 | [Messyeba](https://open.spotify.com/track/5F8vsWYSBHVWtQybmaGjA5) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Feelings](https://open.spotify.com/album/4CHP2hguPDnLg89NDdG9at) | 4:43 |
 | 15 | [Cameleon](https://open.spotify.com/track/6c820sZ26OPdlurURXKT7P) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Cameleon](https://open.spotify.com/album/0qWkdirFI0cTfumPdPEt6C) | 2:26 |
-| 16 | [180 Degre](https://open.spotify.com/track/3X2Z3hZrxZEOd3QxvyQQ7M) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q), [Hameda](https://open.spotify.com/artist/7DZpYNnu5wtNuY3cwerbTb) | [180 Degre](https://open.spotify.com/album/6bthKO1rykO71a7llqYQp3) | 4:02 |
-| 17 | [Mousiba](https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [Mousiba](https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ) | 3:40 |
-| 18 | [Ya Rayah](https://open.spotify.com/track/6mYu6MhifCSC359Zf3sxG0) | [Sou Feryville](https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313) | [Ya Rayah](https://open.spotify.com/album/29MjazlAIq8Jdwh61nQx9t) | 3:23 |
-| 19 | [SECRET](https://open.spotify.com/track/68RcscBwwog1oQ96I5gnrL) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [SECRET](https://open.spotify.com/album/0kSOvC2nXGzIA4IASccBW3) | 3:16 |
-| 20 | [Barrio](https://open.spotify.com/track/4kKZkjx7LSJwEk2F65pBKj) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Barrio](https://open.spotify.com/album/080JNVqULoScoDCiLGwfG3) | 4:58 |
+| 16 | [Aayech Maak](https://open.spotify.com/track/5VPjeVY3wZ4m4q1e7Ch5NT) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Aayech Maak](https://open.spotify.com/album/6eUDSon2TBhuHzS2RWootc) | 3:45 |
+| 17 | [180 Degre](https://open.spotify.com/track/3X2Z3hZrxZEOd3QxvyQQ7M) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q), [Hameda](https://open.spotify.com/artist/7DZpYNnu5wtNuY3cwerbTb) | [180 Degre](https://open.spotify.com/album/6bthKO1rykO71a7llqYQp3) | 4:02 |
+| 18 | [Mousiba](https://open.spotify.com/track/5utdxKZbWGUwEsxHLmwx2P) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK) | [Mousiba](https://open.spotify.com/album/3tfQjGA6nl6STu7C7O2hZQ) | 3:40 |
+| 19 | [Ya Rayah](https://open.spotify.com/track/6mYu6MhifCSC359Zf3sxG0) | [Sou Feryville](https://open.spotify.com/artist/1UUiLeOXTg9ec5BEAXy313) | [Ya Rayah](https://open.spotify.com/album/29MjazlAIq8Jdwh61nQx9t) | 3:23 |
+| 20 | [SECRET](https://open.spotify.com/track/68RcscBwwog1oQ96I5gnrL) | [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [SECRET](https://open.spotify.com/album/0kSOvC2nXGzIA4IASccBW3) | 3:16 |
 | 21 | [Inti Ta3ref](https://open.spotify.com/track/3iZyYmwV3L9XXI0270hsPD) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Inti Ta3ref](https://open.spotify.com/album/6BU8Y6zEO4fzBOAcSLPFwX) | 3:14 |
 | 22 | [Bambina](https://open.spotify.com/track/6DArUaj4yioj32Q3vCRL1Q) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Bambina](https://open.spotify.com/album/6DXZbH9Gx61B5sWlVQXNzH) | 2:55 |
 | 23 | [Lambo](https://open.spotify.com/track/1XB5dbU1fQ3kMgu6xypGGX) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Lambo](https://open.spotify.com/album/1IsWDRBKI9KlqFoSvMIJci) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 49 | [Anesto](https://open.spotify.com/track/0abJ0SKsYEoShNmWbdEHp3) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Anesto](https://open.spotify.com/album/0xGNs0CD80ebpaI1C9QBLj) | 2:55 |
 | 50 | [Rjel Tunis](https://open.spotify.com/track/4I5ZyFF55zqQRNzYdhl1Od) | [Omar Laya](https://open.spotify.com/artist/3bbrfcE7yIia9BrIIMeZLF) | [Rjel Tunis](https://open.spotify.com/album/2nyIDIgnhMpVuD7MGkUO5S) | 3:33 |
 
-Snapshot ID: `Z2cV/AAAAABe29A5sDXZnnlCL2a+xGMr`
+Snapshot ID: `Z3lMXgAAAACDakrcEF9dTR1OmxY5OogY`

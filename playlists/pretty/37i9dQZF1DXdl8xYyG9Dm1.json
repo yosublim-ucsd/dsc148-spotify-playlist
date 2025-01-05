@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Olamide",
-  "num_followers": 165247,
+  "num_followers": 165336,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 182684,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "see u soon",
         "url": "https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 160557,
       "name": "show u luv",
       "url": "https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Haibo Freestyle",
-        "url": "https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 145195,
-      "name": "Haibo Freestyle",
-      "url": "https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1195,6 +1179,38 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Haibo Freestyle",
+        "url": "https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 145195,
+      "name": "Haibo Freestyle",
+      "url": "https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "coMPRess",
+        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 194811,
+      "name": "coMPRess",
+      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Shame On You",
         "url": "https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 186796,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "VIOLATION",
-        "url": "https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 148489,
-      "name": "VIOLATION",
-      "url": "https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "coMPRess",
-        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
+        "name": "VIOLATION",
+        "url": "https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         }
       ],
-      "duration_ms": 194811,
-      "name": "coMPRess",
-      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
+      "duration_ms": 148489,
+      "name": "VIOLATION",
+      "url": "https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1315,6 +1315,42 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Confuse The Enemy",
+        "url": "https://open.spotify.com/album/3afQKHp5khJj6C04a1CNIp"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "duration_ms": 123076,
+      "name": "Loaded Clip",
+      "url": "https://open.spotify.com/track/6laQhvFYyIgZG21a6zx0HW"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
+      },
+      "artists": [
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Kiki",
         "url": "https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9"
       },
@@ -1343,42 +1379,6 @@
       "duration_ms": 174731,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
-      },
-      "artists": [
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "ROLE MODEL (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        }
-      ],
-      "duration_ms": 154806,
-      "name": "PULL UP (WHERE THE MUD BE)",
-      "url": "https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk"
     }
   ],
   "unique_name": "Afro Bars ",
