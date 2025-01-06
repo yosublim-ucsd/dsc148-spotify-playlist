@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 61978,
+  "num_followers": 61997,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAABJdKctMZc9LyuW2HujFyh4",
+  "snapshot_id": "Z3h6AAAAAACIytw89A2OGQioSDQmKVFA",
   "tracks": [
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las + Tocadas",
-        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 180860,
-      "name": "El Corrido de Ramiro Quiroz",
-      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambi\u00e9n De Los Ranchos Bajan",
         "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 194146,
       "name": "En Mil Pedazos",
       "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las + Tocadas",
+        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 180860,
+      "name": "El Corrido de Ramiro Quiroz",
+      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serie Diamante-15 S\u00faper \u00c9xitos",
-        "url": "https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "Entre La Vida Y La Muerte",
-      "url": "https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Jefes",
         "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 199173,
       "name": "Lucio Pe\u00f1a",
       "url": "https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serie Diamante-15 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "Entre La Vida Y La Muerte",
+      "url": "https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-772 songs - 1 day 22 hr 29 min
+773 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Dark & Handsome](https://open.spotify.com/track/0Zgcv1wy4bRWpfsM27uPGK) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Angel's Pulse](https://open.spotify.com/album/3KLLRiCnqYvt78H52TeZ1k) | 2:33 | 2020-12-21 | 2022-04-21 |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2020-12-21 | 2022-05-07 |
 | [Dawn \- duendita Remix](https://open.spotify.com/track/7b8EmRyBoQnQIvUti4Qi52) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Dawn \(duendita Remix\)](https://open.spotify.com/album/0NMozM9EOlTVZUJVJBnNZB) | 2:42 | 2023-10-17 | 2023-11-18 |
-| [Day In The Life](https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB) | [BABYKIRA](https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX) | [Day In The Life](https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B) | 3:00 | 2024-08-16 |  |
+| [Day In The Life](https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB) | [BABYKIRA](https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX) | [Day In The Life](https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B) | 3:00 | 2024-08-16 | 2025-01-06 |
 | [DAYDREAM](https://open.spotify.com/track/2BVeeIDSD2dCnkNMhGDYK4) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 8:39 | 2022-07-20 | 2023-10-01 |
 | [Days Like This](https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 4:55 | 2023-10-17 | 2024-10-02 |
 | [Daytrip](https://open.spotify.com/track/5QTFijKBM9oCO5vH744k7r) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY), [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Daytrip](https://open.spotify.com/album/2MbEjelAESGKIBDL54OYeY) | 2:24 | 2020-12-21 | 2022-04-17 |
@@ -171,6 +171,7 @@
 | [Did I Get It Wrong](https://open.spotify.com/track/2hEFAHjkgjUJSbSWrB6uad) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Did I Get It Wrong](https://open.spotify.com/album/49IL3XMqHP7DSW39GffMgY) | 3:05 | 2021-05-01 | 2022-07-29 |
 | [Did I Get It Wrong](https://open.spotify.com/track/3uL7D152nfGyHMbJn5reCy) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Three Songs](https://open.spotify.com/album/61H9p7WayFFuWjIfb1dI3T) | 3:05 | 2022-10-28 | 2023-11-23 |
 | [Didn't Know What I Was in For](https://open.spotify.com/track/0PYdiBzO9IvWc6Y3wO1j7m) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj) | 4:03 | 2020-12-21 | 2022-04-20 |
+| [Digital Girl](https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:23 | 2024-12-20 |  |
 | [Digital Love](https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:01 | 2023-04-25 | 2023-06-17 |
 | [dimeback](https://open.spotify.com/track/3WIjTtXpbu1dViSMQYfID5) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [A Museum Of Contradiction](https://open.spotify.com/album/3m0PIFv2mh0ytlTroWklbd) | 3:18 | 2020-12-21 | 2023-11-23 |
 | [dio](https://open.spotify.com/track/0xrXdCzlbKto4zPSb5lDXd) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [Bearface](https://open.spotify.com/artist/7yjWDiLDpsHxobHP1fWYh8) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 3:51 | 2021-10-08 | 2022-07-29 |

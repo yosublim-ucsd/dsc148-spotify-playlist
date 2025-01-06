@@ -1702,10 +1702,32 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 217547,
       "name": "Ghost (feat. Caitlyn Scarlett)",
       "url": "https://open.spotify.com/track/5ZIJUowkhcLukruA52sfDI"
+    },
+    {
+      "album": {
+        "name": "Ground Control",
+        "url": "https://open.spotify.com/album/201chlVCJuhQvGZXB0wRn0"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Hardy Caprio",
+          "url": "https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193444,
+      "name": "Ghost (feat. Hardy Caprio) - Refix",
+      "url": "https://open.spotify.com/track/1MwFviJGRINOL8hQHJuw2j"
     },
     {
       "album": {

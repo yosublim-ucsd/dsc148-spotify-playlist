@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > the sweetest new indie pop, featuring Ziggy 2000 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,427 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,426 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 51 | [The End of the Contender](https://open.spotify.com/track/2LpNomwbgz7bAIDdqvX5bq) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [The End of the Contender](https://open.spotify.com/album/0wInWtAoFAQtzg9Pp4G91n) | 3:26 |
 | 52 | [Warm Body](https://open.spotify.com/track/4pIhmvniF8QKJBxE0oPQmp) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Warm Body](https://open.spotify.com/album/6zGTF7LNVhBNJGbvrcxcK5) | 4:32 |
 | 53 | [Crashmat](https://open.spotify.com/track/0YqubN3yf6rfd44lhjstR9) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Crashmat](https://open.spotify.com/album/0Wg1x7oDYJayjGsIqqgtE8) | 3:40 |
-| 54 | [Quiet & Perfect](https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Quiet & Perfect](https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn) | 3:38 |
-| 55 | [If I Was Abducted By Aliens](https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [If I Was Abducted By Aliens](https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE) | 2:46 |
+| 54 | [If I Was Abducted By Aliens](https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [If I Was Abducted By Aliens](https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE) | 2:46 |
+| 55 | [Quiet & Perfect](https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Quiet & Perfect](https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn) | 3:38 |
 | 56 | [I Think You Should Know](https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm) | [Delights](https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S) | [I Think You Should Know](https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ) | 3:37 |
 | 57 | [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 |
 | 58 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 66 | [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 |
 | 67 | [Million Dollar Baby](https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C) | 3:21 |
 | 68 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
-| 69 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 |
-| 70 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 |
+| 69 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 |
+| 70 | [Compliment Strike](https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Compliment Strike](https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC) | 3:24 |
 | 71 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
 | 72 | [Like Honey](https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Like Honey](https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F) | 3:28 |
 | 73 | [Brother](https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Brother](https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG) | 3:26 |

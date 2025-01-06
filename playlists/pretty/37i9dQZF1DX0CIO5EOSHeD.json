@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 502032,
+  "num_followers": 502051,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Dark Vacay",
+        "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Dark Vacay",
+      "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "The Middle of Nowhere",
         "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 202124,
       "name": "I'm So Sorry",
       "url": "https://open.spotify.com/track/1MlyMtFTogPbQ3xe0S4GDD"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Dark Vacay",
-        "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Dark Vacay",
-      "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Alien Lanes",
-        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
-      },
-      "artists": [
-        {
-          "name": "Guided By Voices",
-          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
-        }
-      ],
-      "duration_ms": 93306,
-      "name": "Game Of Pricks",
-      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Scream from New York, NY",
         "url": "https://open.spotify.com/album/1Wrak3bc0EjtxPySE4MPDe"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 257920,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/3ojxLlQYFkLh8WiYlkx2Yz"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Alien Lanes",
+        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
+      },
+      "artists": [
+        {
+          "name": "Guided By Voices",
+          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+        }
+      ],
+      "duration_ms": 93306,
+      "name": "Game Of Pricks",
+      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Loveseat",
-        "url": "https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 209290,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/5BghvS5F4hQlpCs4BKb1P8"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Antisocialites",
         "url": "https://open.spotify.com/album/5TGZvGolR6PoM1zYYyZNzX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/3xiMFRYBQL1zxdxbgUmBKI"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Loveseat",
+        "url": "https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 209290,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5BghvS5F4hQlpCs4BKb1P8"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "The Tw*ts",
-        "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 198417,
-      "name": "The only conscious being in the universe",
-      "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "I Want To Be With You",
         "url": "https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 317837,
       "name": "HeatDeath",
       "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "The Tw*ts",
+        "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 198417,
+      "name": "The only conscious being in the universe",
+      "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Runner",
-        "url": "https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V"
-      },
-      "artists": [
-        {
-          "name": "Mind Shrine",
-          "url": "https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM"
-        }
-      ],
-      "duration_ms": 162099,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "The Tallest Room",
         "url": "https://open.spotify.com/album/38AWwdLCyVhfxsndtizrTC"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 238058,
       "name": "Panoramic View",
       "url": "https://open.spotify.com/track/7jd7vpPlwNcKauBddT9hEf"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V"
+      },
+      "artists": [
+        {
+          "name": "Mind Shrine",
+          "url": "https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 179669,
       "name": "Warning Sign - Alt Version",
       "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
     },
     {
       "added_at": "2024-07-09 21:52:54",

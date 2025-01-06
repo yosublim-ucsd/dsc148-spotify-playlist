@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 鄭宜農 \(Enno Cheng\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,344 likes - 132 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,347 likes - 132 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 16 | [fuh](https://open.spotify.com/track/4EETwYyHMcqtBbzb1t5Mud) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [EROS](https://open.spotify.com/album/4HNWSfU1fB4LxA290mo07b) | 2:14 |
 | 17 | [踅啊踅（台北）](https://open.spotify.com/track/0VijsNooVEusOIpP6d1iyw) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9) | [踅啊踅（台北）](https://open.spotify.com/album/7K8AQNvlmlJJO8IC6lByEm) | 2:49 |
 | 18 | [胡说八道 Freestyle](https://open.spotify.com/track/4oeWDGwmQnIOfmMrFeGHKW) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth), [h.dubb](https://open.spotify.com/artist/6sNlXN8000MI4uKQkCcTIV) | [胡说八道 Freestyle](https://open.spotify.com/album/1xgPwOHJJ3R3KpwodacijH) | 2:00 |
-| 19 | [生命的關於](https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0), [黑豹乐队](https://open.spotify.com/artist/2SGTJVOtFUwbmgYHFBXRej) | [觀己](https://open.spotify.com/album/6AHjaNqXvdYbnTdi3a8IQs) | 4:08 |
+| 19 | [生命的關於](https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0) | [觀己](https://open.spotify.com/album/6AHjaNqXvdYbnTdi3a8IQs) | 4:08 |
 | 20 | [係你](https://open.spotify.com/track/2ws53Nklg7qG68NdPd8wvT) | [徐哲緯](https://open.spotify.com/artist/1DIsv0bxKrLsgzRGlVqGJp) | [艷放60](https://open.spotify.com/album/4vl1DxO5cVVhxH05Fvgg3z) | 4:45 |
 | 21 | [透明](https://open.spotify.com/track/39iHLO5VCcaWPBEj4r6HB8) | [魏诗莹](https://open.spotify.com/artist/5m8y6TUzduIjG3KQnBGQKH) | [环心之旅](https://open.spotify.com/album/1QQdMRvXCOIfvJ1NhAVCbO) | 5:28 |
 | 22 | [爱的赞美诗](https://open.spotify.com/track/04yIp0ieRclkmLul9BOkmB) | [The Life Journey](https://open.spotify.com/artist/3qs5OOuNyNxW1JGhfdgnUI) | [爱的赞美诗](https://open.spotify.com/album/6h7Gr9z8dbZFMaHxW380vV) | 4:18 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 98 | [偏南風](https://open.spotify.com/track/10nw9cTqrTj7uc9QQPIHKG) | [謝銘祐](https://open.spotify.com/artist/38kvukZeDwVBlhLnVVCKWw) | [偏南](https://open.spotify.com/album/0A4aZPUpNwHlMj6UsDnLos) | 4:33 |
 | 99 | [Say It To My Face \(feat\. ØZI\)](https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Made For You](https://open.spotify.com/album/1s5Prxw2pVBcOr6mQFPk9N) | 2:40 |
 | 100 | [你能不能真的懂我](https://open.spotify.com/track/35COvqvA8VD9XMg8paUcLz) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [你能不能真的懂我](https://open.spotify.com/album/36FKuwf0cL4BTpbkpItlMk) | 3:25 |
-| 101 | [日落擁抱](https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [日落擁抱](https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp) | 3:16 |
+| 101 | [日落擁抱](https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W) | [Ben Ladin](https://open.spotify.com/artist/12kEQTCYPhSoW54jJ0Pngm) | [日落擁抱](https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp) | 3:16 |
 | 102 | [心跳加速](https://open.spotify.com/track/0lPBgAd4IdMdOgDAIJRBLb) | [阿金 Mr\. King](https://open.spotify.com/artist/7Gw7JpKXur2ljdw4D0KHYI) | [心跳加速](https://open.spotify.com/album/0RQyiv99tQalIO1oRn5bYu) | 3:13 |
 | 103 | [片尾曲 \- 綜藝《芒果新生班·搭檔季》片尾曲](https://open.spotify.com/track/27G8OuXxVX7lUpMm3d3E53) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [片尾曲 \(綜藝《芒果新生班·搭檔季》片尾曲\)](https://open.spotify.com/album/6ghgv4f7s74Tb8L6zxPKCn) | 4:14 |
 | 104 | [撲火](https://open.spotify.com/track/154QFdFsYVS57FOJWkgPXw) | [God Øne](https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL), [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [撲火](https://open.spotify.com/album/6SdcmoRsFvG9jcTc2i8GBa) | 3:45 |

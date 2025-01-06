@@ -1,15 +1,31 @@
 {
   "description": "New music by Myke Towers, Bad Bunny, Hamilton and more! Updates every Friday.",
-  "num_followers": 603965,
+  "num_followers": 604020,
   "original_name": "All New Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du5QAAAACoByP96VH7vtIEF3x9zHey",
+  "snapshot_id": "Z3rEvgAAAABEobufWZor1NiwoPCWmJIU",
   "tracks": [
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "En Otra Vida - Con Carin Leon",
         "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
@@ -33,7 +49,7 @@
       "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Primos (feat. Dj Kiire)",
         "url": "https://open.spotify.com/album/7Lf4SMPBrEJL21n8LFnuWu"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/4udwfvT8bOZ8lfbgGRLp68"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "La Conga",
         "url": "https://open.spotify.com/album/71OEHDLQeYh3wz2LP40Cu7"
@@ -77,7 +93,27 @@
       "url": "https://open.spotify.com/track/7fIi5nRlYhIMnTshYVD8NF"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "PERFuMITO NUEVO",
+      "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
+    },
+    {
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Gas Gas",
         "url": "https://open.spotify.com/album/4A6oBgOVEeMBSCZyIbpID3"
@@ -97,7 +133,7 @@
       "url": "https://open.spotify.com/track/5pwypqvaS8HOtMoNOY40Eb"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Contacto",
         "url": "https://open.spotify.com/album/3cK989DH6rMeR7qTmsEMhm"
@@ -117,7 +153,7 @@
       "url": "https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Te Extra\u00f1o",
         "url": "https://open.spotify.com/album/6P92iJye4nm3Q7foOaoMJD"
@@ -133,7 +169,7 @@
       "url": "https://open.spotify.com/track/7CtRqSBGEMimruzHDewjPP"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Disco Verde",
         "url": "https://open.spotify.com/album/55wYGqHcnr43rL5O63KYJQ"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/2xBEGklsyGkh0PTLTAdne4"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Luck Ra: Bzrp Music Sessions, Vol. 61",
         "url": "https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX"
@@ -173,7 +209,7 @@
       "url": "https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "LYKE MIIKE",
         "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
@@ -193,7 +229,7 @@
       "url": "https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "PIToRRO DE COCO",
         "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
@@ -209,7 +245,7 @@
       "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Licuado",
         "url": "https://open.spotify.com/album/10Qr5P78EroWs4t7QyY7tT"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/1XB3kUghHiRWiq8WvcQbvq"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "BESITOS DULCES",
         "url": "https://open.spotify.com/album/6tpnJnYTgfnQse2nUdneeo"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/1AJ5rvdSGj6UMh2quis8hw"
@@ -269,7 +305,7 @@
       "url": "https://open.spotify.com/track/5iIAwqeaMfly3NIAv0F5Ga"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "LA PERLA (V. ELECTRO-CORRIDO)",
         "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
@@ -293,7 +329,7 @@
       "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/0dWXN6tsNvIKTDVfhN3tkg"
@@ -313,7 +349,7 @@
       "url": "https://open.spotify.com/track/3CLx7KyeDo3OLGKk87Pikp"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "REH\u00c9N",
         "url": "https://open.spotify.com/album/3kfGQDYPTjBUA1wa6cWQRF"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/4YwbO3lZnM5F6lbeHISMLh"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "RELAX",
         "url": "https://open.spotify.com/album/4g31XaD0VYOUOq8tU8mocL"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/0ikMrsABZtDeWypo18oLuz"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Las Estrellas",
         "url": "https://open.spotify.com/album/6m69uvNpfqUzlUe2gkatzK"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/6aOY2GNzN06DPqUkvwWF7a"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Se fue",
         "url": "https://open.spotify.com/album/6806KgUZdOWP3JSI0jxEyf"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/5gGnKeu2RKNzqALbDND2xX"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Quiero Contarte (from the Prime Video Original Movie CULPA TUYA)",
         "url": "https://open.spotify.com/album/57cxuiuQ81uxedApVcbit1"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/3rS46EYsF234vb3QM2iT2N"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Coraz\u00f3n Part\u00edo",
         "url": "https://open.spotify.com/album/5zFpjiEauzmd0quSZxEXpy"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/2LPDdnXn13fw5JmIemG4VE"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Religi\u00f3n",
         "url": "https://open.spotify.com/album/5pNBy7P93HLwNQKJK952Gf"
@@ -433,7 +469,7 @@
       "url": "https://open.spotify.com/track/44Q6j0VouHOJV7EY1JG6Yg"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
@@ -453,7 +489,7 @@
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Papi Arca",
         "url": "https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN"
@@ -477,7 +513,7 @@
       "url": "https://open.spotify.com/track/1nyAHIcRAyUOLlDJyMHcTL"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "7 Trompetas",
         "url": "https://open.spotify.com/album/5X1KeQjQuhuSdZz0FyxcGg"
@@ -493,7 +529,7 @@
       "url": "https://open.spotify.com/track/4ApLAqNEdqMwgF3Y8MRSXj"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
@@ -509,7 +545,7 @@
       "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0"
@@ -529,7 +565,7 @@
       "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Dime Que No (feat. Lenier)",
         "url": "https://open.spotify.com/album/5xE4PxaOxkQhMdL07VwZiw"
@@ -557,7 +593,7 @@
       "url": "https://open.spotify.com/track/5KqO3V6z8HomuTXfmM1bTi"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "LA CUEVA",
         "url": "https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Llame Pa Verte (REMIX)",
         "url": "https://open.spotify.com/album/1EFK2qdJ2oOOH07tHvp7eZ"
@@ -597,7 +633,7 @@
       "url": "https://open.spotify.com/track/67h6HYOtLh5eAsue8cLFDM"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "NO ES PUT@",
         "url": "https://open.spotify.com/album/6VV67YCgt40IojTOsF1OhI"
@@ -613,7 +649,7 @@
       "url": "https://open.spotify.com/track/0d1Xvy5dGxV7g0TBhYtB6p"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "BLESSS THE ALBUM",
         "url": "https://open.spotify.com/album/1y02bk1KS6PXRJDvxHdAen"
@@ -629,7 +665,7 @@
       "url": "https://open.spotify.com/track/1p4BVC11HlRaD3UYUfz224"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "SUAVEMENTE",
         "url": "https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT"
@@ -649,7 +685,7 @@
       "url": "https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Toca Toca",
         "url": "https://open.spotify.com/album/7iqZCK0dPbJlEc8fJbwM8r"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/4GTYUSraYAGDb31NRP9tRS"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Estrella Fugaz",
         "url": "https://open.spotify.com/album/4G0T2SK5Ph41HvzJEfSNVV"
@@ -689,7 +725,7 @@
       "url": "https://open.spotify.com/track/0i9vrEyQW07WdbJbavyGYw"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Aqu\u00ed No Acaba El Brillo",
         "url": "https://open.spotify.com/album/7BY3LYKRbW2ZVRFPGsCu8G"
@@ -709,7 +745,7 @@
       "url": "https://open.spotify.com/track/2k62RkN51wO1kb38EKbuQi"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Vamos Pa la Playa",
         "url": "https://open.spotify.com/album/2lOy8ijTOs3anm3SQ5GsIq"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/34BfWWtGdxnoDCn4oMlT51"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "TRES CREUS",
         "url": "https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s"
@@ -757,7 +793,7 @@
       "url": "https://open.spotify.com/track/4x4zGJYBa39QEkc1KTgqtc"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Pr\u00e9ndete",
         "url": "https://open.spotify.com/album/1FcBLtjVqFX4iD1nS0igjh"
@@ -781,7 +817,7 @@
       "url": "https://open.spotify.com/track/5n7zdeCyuNToalQ9mjvRK2"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "BANDIDAS RETIRADAS",
         "url": "https://open.spotify.com/album/7IgDo7yCiC4lgBqIn4LORd"
@@ -805,7 +841,7 @@
       "url": "https://open.spotify.com/track/2kjtg7XGjcCTBVXqwPFuZN"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Capitulo 2: El A\u00f1o Del Dragon",
         "url": "https://open.spotify.com/album/038xP0ZpQuao8QBXZ14qAQ"
@@ -821,7 +857,7 @@
       "url": "https://open.spotify.com/track/6bA5RoXzQE1M4BhiJreCBQ"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "C.O.P",
         "url": "https://open.spotify.com/album/3NSUt0YHfmhaj1K1RptnKL"
@@ -849,7 +885,7 @@
       "url": "https://open.spotify.com/track/5mMBb2qFfu3IH1oolQXlch"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "OTRA VOL\u00c1",
         "url": "https://open.spotify.com/album/2LgfQglxQ8Jf3U9zkPGdut"
@@ -869,7 +905,7 @@
       "url": "https://open.spotify.com/track/5Gfz87yOuTRd8TzBLAwZtH"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "K\u00e9 MaL (versi\u00f3n tierna)",
         "url": "https://open.spotify.com/album/36XM3kja0ssZwO5UIEiIrt"
@@ -885,7 +921,7 @@
       "url": "https://open.spotify.com/track/4j1gnPCFutZxNh9oZWCLA3"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Tiempo De Re\u00edr",
         "url": "https://open.spotify.com/album/7bqiV9UyFWWOXKmxYLNjJM"
@@ -905,7 +941,7 @@
       "url": "https://open.spotify.com/track/6lbssEp0h9KLoDk73hjdpf"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "S\u00e1lvame",
         "url": "https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB"
@@ -925,7 +961,7 @@
       "url": "https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "18 (En Vivo Estadio de Mor\u00f3n)",
         "url": "https://open.spotify.com/album/6HjKctDJBztKOh1hiuTxRg"
@@ -941,7 +977,7 @@
       "url": "https://open.spotify.com/track/6SPZgGeUJhxvO66upjxWZG"
     },
     {
-      "added_at": "2025-01-03 05:00:21",
+      "added_at": "2025-01-05 17:43:26",
       "album": {
         "name": "Huelemos Rosado",
         "url": "https://open.spotify.com/album/1n2OROTZFLYfNXT5W1BJMt"
@@ -955,50 +991,6 @@
       "duration_ms": 138129,
       "name": "Huelemos Rosado",
       "url": "https://open.spotify.com/track/23cLCLCiEdYFb5raIdmEa1"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
-        "name": "Trakata",
-        "url": "https://open.spotify.com/album/0tDnBrjWnAqAohPcU0wK0i"
-      },
-      "artists": [
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        },
-        {
-          "name": "Fifty",
-          "url": "https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk"
-        }
-      ],
-      "duration_ms": 170688,
-      "name": "Trakata",
-      "url": "https://open.spotify.com/track/5YQDQrhCQQqjG8nBqYMrPJ"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
-        "name": "Uueeeee",
-        "url": "https://open.spotify.com/album/144ipzW4clREg2EDAzrPHm"
-      },
-      "artists": [
-        {
-          "name": "Kaze",
-          "url": "https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg"
-        },
-        {
-          "name": "Beto",
-          "url": "https://open.spotify.com/artist/4Wbl3vLb9qXJdyE6mWAExA"
-        },
-        {
-          "name": "Toni Anzis",
-          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
-        }
-      ],
-      "duration_ms": 155044,
-      "name": "Uueeeee",
-      "url": "https://open.spotify.com/track/2rbveA82byggveMkKICvy2"
     }
   ],
   "unique_name": "All New Latin",

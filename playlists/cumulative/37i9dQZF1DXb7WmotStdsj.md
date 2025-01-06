@@ -4,7 +4,7 @@
 
 > Les hits Raï du moment.
 
-220 songs - 17 hr 49 min
+221 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/track/2z1eSaF4tmNJlzIrL6cupW) | [Ramzi 31](https://open.spotify.com/artist/52lAkeBbNbBfC529dteQNm) | [Matesem7ech Fi 3ach9ek](https://open.spotify.com/album/67CifKJ5B7obMBt0cNTM0P) | 7:05 | 2022-09-20 | 2022-12-01 |
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-10-19 | 2024-10-16 |
 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 | 2022-09-20 | 2023-07-28 |
-| [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 | 2022-12-29 |  |
+| [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 | 2022-12-29 | 2025-01-06 |
 | [Moul Karsan](https://open.spotify.com/track/3eQ2E727Y6KGITYZo3zX1d) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Moul Karsan](https://open.spotify.com/album/1Wz4Lb9J28dWAbV3AB42YC) | 10:00 | 2022-03-08 | 2024-01-19 |
 | [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 | 2022-05-11 | 2022-09-07 |
 | [N3ichou la vida](https://open.spotify.com/track/5wSTysykILbhPqKdD2XN2F) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Housseyn Benguerna](https://open.spotify.com/artist/2wPhldxEvEyBg9ApxTRkXy) | [N3ichou la vida](https://open.spotify.com/album/3jOBAFhJqcZC3TSmLTxFNB) | 3:41 | 2022-04-15 | 2022-07-29 |
@@ -210,6 +210,7 @@
 | [رڨصيلي كي شابة شوشو](https://open.spotify.com/track/4iGQQ8qFVv40cAWfMXHhxZ) | [Cheb Fatah Sghir](https://open.spotify.com/artist/1H57SKDukOD5AEpQkBkeyO) | [رڨصيلي كي شابة شوشو](https://open.spotify.com/album/6zzNV2C7hhBeRY1ndwtFnZ) | 2:56 | 2024-09-01 |  |
 | [زهري وميموني](https://open.spotify.com/track/58waEmZ6y9DR4Un90peUBg) | [Cheb Mustapha](https://open.spotify.com/artist/6mWYICO5NsvtzQ7VEwvOf1), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [زهري وميموني](https://open.spotify.com/album/3hkW0KlNQCAQUnqyZVlxSh) | 4:18 | 2023-06-19 | 2024-07-17 |
 | [شراب الويدان](https://open.spotify.com/track/1otNyAT6Af7ilamYB4xdId) | [Cheb Omar Chamama](https://open.spotify.com/artist/0uTDhEx6DVpEGH3rlgmFIz) | [شراب الويدان](https://open.spotify.com/album/605uxuCJibXdgmzAKxdj8B) | 5:49 | 2024-11-19 |  |
+| [شراب الويدان](https://open.spotify.com/track/7Chv3BRGYqKzYM7GdP5DSV) | [Cheb Omar Chamama](https://open.spotify.com/artist/0uTDhEx6DVpEGH3rlgmFIz) | [شراب الويدان](https://open.spotify.com/album/003tEy6YSd9JLCpyaPyJP0) | 5:49 | 2025-01-05 |  |
 | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/track/1oGCTuC3NvImizNOtJT5aC) | [Cheb Nadir 22](https://open.spotify.com/artist/3eXk15TVlyGMQiajw6ra1l) | [شعرك رطب بصح وجهك حطب](https://open.spotify.com/album/1TvQ3FKMchGMi67E2uYYrP) | 8:40 | 2023-12-28 |  |
 | [شكون لي دارلي](https://open.spotify.com/track/6lCJ2Q2aA4AlQP3mnKpC0J) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [شكون لي دارلي](https://open.spotify.com/album/0ZhIe4r9dkwRJsXHb47P3g) | 1:40 | 2024-03-16 | 2024-05-14 |
 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 | 2024-01-24 |  |

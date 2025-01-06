@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz?si=F3FZOjLkTcWkIa4cIxEM\-A>Prinx Emmanuel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,511 likes - 101 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,537 likes - 101 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

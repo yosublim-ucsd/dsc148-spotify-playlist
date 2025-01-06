@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 62017,
+  "num_followers": 62028,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Guidum",
         "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 167026,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -305,24 +305,20 @@
       "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2023-03-16 20:51:30",
       "album": {
-        "name": "2 Cartas",
-        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Antonio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 285386,
-      "name": "2 Cartas",
-      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -341,20 +337,24 @@
       "url": "https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm"
     },
     {
-      "added_at": "2023-03-16 20:51:30",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+        "name": "2 Cartas",
+        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Antonio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
         }
       ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+      "duration_ms": 285386,
+      "name": "2 Cartas",
+      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -475,38 +475,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
-    },
-    {
-      "added_at": "2024-08-29 03:09:23",
-      "album": {
-        "name": "Tlapaler\u00eda Don Chuy",
-        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
-      },
-      "artists": [
-        {
-          "name": "Tlapaler\u00eda Don Chuy",
-          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
-        }
-      ],
-      "duration_ms": 390306,
-      "name": "De All\u00ed Pa'll\u00e1",
-      "url": "https://open.spotify.com/track/7xRDAQFUvtSW4YIGFXS3Hz"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
@@ -523,6 +491,22 @@
       "duration_ms": 179511,
       "name": "Caminos de Ayer",
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
+    },
+    {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 390306,
+      "name": "De All\u00ed Pa'll\u00e1",
+      "url": "https://open.spotify.com/track/7xRDAQFUvtSW4YIGFXS3Hz"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -547,18 +531,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
       },
       "artists": [
         {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
         }
       ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -583,6 +567,22 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -711,6 +711,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Semillas De Copinol",
         "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+        "name": "D\u00edas Lentos",
+        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
       },
       "artists": [
         {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+          "name": "Ingrid Beaujean",
+          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
         }
       ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
+      "duration_ms": 214000,
+      "name": "Chorinho Blanco",
+      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -767,22 +783,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "D\u00edas Lentos",
-        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Beaujean",
-          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Chorinho Blanco",
-      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Vientos Del Norte",
         "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 236840,
       "name": "Valor De Volar",
       "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Funk da Power",
-        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
-      },
-      "artists": [
-        {
-          "name": "Fiusha",
-          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
-        }
-      ],
-      "duration_ms": 316023,
-      "name": "Let It Play",
-      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -835,6 +819,22 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Funk da Power",
+        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
+      },
+      "artists": [
+        {
+          "name": "Fiusha",
+          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
+        }
+      ],
+      "duration_ms": 316023,
+      "name": "Let It Play",
+      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
     },
     {
       "added_at": "2021-07-28 16:44:28",

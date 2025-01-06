@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 580406,
+  "num_followers": 580495,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Summer Heat",
-        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
-      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Execute",
         "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
       },
@@ -587,22 +571,6 @@
       "duration_ms": 362373,
       "name": "No Good 4 Me (feat. Megaman, Romeo and Lisa Maffia)",
       "url": "https://open.spotify.com/track/7oysiJ2yYjVYzrGSmIEzME"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "My Desire (Remixes)",
-        "url": "https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug"
-      },
-      "artists": [
-        {
-          "name": "AMIRA",
-          "url": "https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD"
-        }
-      ],
-      "duration_ms": 344957,
-      "name": "My Desire - Dreem Team Remix",
-      "url": "https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -627,6 +595,38 @@
       "duration_ms": 332746,
       "name": "Masterblaster 2000 - Oracles Remix",
       "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Summer Heat",
+        "url": "https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 219626,
+      "name": "Just In Case - Dub-A-Holics Roller's Revival Mix Edit",
+      "url": "https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "My Desire (Remixes)",
+        "url": "https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug"
+      },
+      "artists": [
+        {
+          "name": "AMIRA",
+          "url": "https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD"
+        }
+      ],
+      "duration_ms": 344957,
+      "name": "My Desire - Dreem Team Remix",
+      "url": "https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
-      },
-      "artists": [
-        {
-          "name": "R.I.P Productions",
-          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
-        }
-      ],
-      "duration_ms": 403006,
-      "name": "Pick Me Up - Licenced Mix",
-      "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Let Yourself Go",
         "url": "https://open.spotify.com/album/58iuajzHYoeJJsbD0HBD67"
       },
@@ -1239,22 +1223,6 @@
       "duration_ms": 439746,
       "name": "Let Yourself Go - Capitol Mix",
       "url": "https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Double 99 Double Pack",
-        "url": "https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz"
-      },
-      "artists": [
-        {
-          "name": "Double 99",
-          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
-        }
-      ],
-      "duration_ms": 324096,
-      "name": "Jump to It",
-      "url": "https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1279,6 +1247,38 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Double 99 Double Pack",
+        "url": "https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz"
+      },
+      "artists": [
+        {
+          "name": "Double 99",
+          "url": "https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3"
+        }
+      ],
+      "duration_ms": 324096,
+      "name": "Jump to It",
+      "url": "https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
+      },
+      "artists": [
+        {
+          "name": "R.I.P Productions",
+          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+        }
+      ],
+      "duration_ms": 403006,
+      "name": "Pick Me Up - Licenced Mix",
+      "url": "https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Smack Da House Vol.2",
         "url": "https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 329866,
       "name": "Joy",
       "url": "https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "House Tracks for the Dancefloor, Vol. One",
-        "url": "https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 372480,
-      "name": "Dancing for Heaven - Club",
-      "url": "https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "House Tracks for the Dancefloor, Vol. One",
+        "url": "https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 372480,
+      "name": "Dancing for Heaven - Club",
+      "url": "https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Becoming Remixed",
         "url": "https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1"
       },
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Flava On Wax EP",
-        "url": "https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S"
+        "name": "PAY CLOSE ATTENTION: XL Recordings",
+        "url": "https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw"
       },
       "artists": [
         {
-          "name": "R.I.P Productions",
-          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+          "name": "NuBirth",
+          "url": "https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G"
         }
       ],
-      "duration_ms": 437715,
-      "name": "Happy to Be Deep",
-      "url": "https://open.spotify.com/track/4lj7TqR5hgkvJosxlHSAvi"
+      "duration_ms": 320156,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc"
     }
   ],
   "unique_name": "UK Garage Classics",

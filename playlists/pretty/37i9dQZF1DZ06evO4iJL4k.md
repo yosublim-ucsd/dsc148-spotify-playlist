@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,205 likes - 42 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,356 likes - 42 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 29 | [Libertários Não Morrem](https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 4:10 |
 | 30 | [Louco Pra Voltar](https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:30 |
 | 31 | [Só Pra Você Lembrar](https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:54 |
-| 32 | [7 Meiota](https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:10 |
-| 33 | [PARANÓIAS](https://open.spotify.com/track/3jyLr0r8E1uWC1ZUz52KzY) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apocalipse](https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM) | 3:25 |
+| 32 | [PARANÓIAS](https://open.spotify.com/track/3jyLr0r8E1uWC1ZUz52KzY) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Apocalipse](https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM) | 3:25 |
+| 33 | [7 Meiota](https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:10 |
 | 34 | [Reús](https://open.spotify.com/track/1WI2U2pn68FMbbMjZ0iZt8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 4:03 |
 | 35 | [Poesia Acústica \#12 Pra Sempre](https://open.spotify.com/track/3aqqy9M11P6t0843xBzulv) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Poesia Acústica](https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z) | 7:52 |
 | 36 | [Isso Que É Vida](https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:56 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 41 | [Faça Você Mesmo](https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:47 |
 | 42 | [Sonho Dos Cria](https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:23 |
 
-Snapshot ID: `Z3cogAAAAABtVwKC0gBBaAsTPFYjw3wD`
+Snapshot ID: `Z3h6AAAAAACqNlho/fWIpjL2ScVPLkBz`

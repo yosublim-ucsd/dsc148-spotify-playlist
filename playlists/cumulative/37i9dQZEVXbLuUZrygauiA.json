@@ -3984,7 +3984,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 199000,
       "name": "Ay beb\u00e9",
       "url": "https://open.spotify.com/track/2Nrel4hzVFXt02o0KHVoLi"
@@ -9839,6 +9839,24 @@
     },
     {
       "album": {
+        "name": "Coqueta",
+        "url": "https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235020,
+      "name": "Coqueta",
+      "url": "https://open.spotify.com/track/5enCBu8FLjlLz60k9t15MA"
+    },
+    {
+      "album": {
         "name": "Coqueta (Remix)",
         "url": "https://open.spotify.com/album/5ahZTZNyNywBsg1O7YVINs"
       },
@@ -9906,7 +9924,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 164769,
       "name": "CORA DE HIELO",
       "url": "https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8"
@@ -11598,7 +11616,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 268053,
       "name": "Dejame Volver Contigo",
       "url": "https://open.spotify.com/track/7lBTazdXYEZT80sPDtSW8D"
@@ -13384,7 +13402,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 263320,
       "name": "D\u00e9jame Volver Contigo",
       "url": "https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj"
@@ -25368,7 +25386,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 186720,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
@@ -25386,7 +25404,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 187293,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/63Zn0XvXmCC5GO5Ed6xera"
@@ -31606,7 +31624,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 284466,
       "name": "No One Noticed (Extended Spanish)",
       "url": "https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze"
@@ -35956,7 +35974,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 291586,
       "name": "Porque Me Gusta a Morir",
       "url": "https://open.spotify.com/track/176c9PeEydG3SsDuFNmuOl"
@@ -48266,7 +48284,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 183315,
       "name": "Vibra Perfecta",
       "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"

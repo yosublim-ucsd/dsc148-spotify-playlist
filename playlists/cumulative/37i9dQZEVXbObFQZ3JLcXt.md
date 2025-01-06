@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-597 songs - 1 day 13 hr 0 min
+598 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Bertahan Terluka](https://open.spotify.com/track/3ajNIJJmIbFFJKZcTolYZO) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/1RgMS8KsAn6fTBw1maWpmo) | 4:00 | 2022-02-28 | 2022-08-29 |
 | [Bertahan Terluka](https://open.spotify.com/track/6gNG7O2IlMYUXAcCDwQrPT) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Bertahan Terluka](https://open.spotify.com/album/4UQ6dWSVD4lZUoA6KJzp5d) | 4:00 | 2022-08-28 | 2023-01-13 |
 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 | 2021-03-27\* |  |
+| [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 | 2025-01-05 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-11 |  |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-11-29 |  |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2021-03-27\* | 2023-02-11 |
@@ -181,7 +182,7 @@
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-20 | 2024-05-19 |
 | [Fortune Cookie Yang Mencinta](https://open.spotify.com/track/469lObbmed3vMkCi7EaXib) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Mahagita: Kamikyokutachi](https://open.spotify.com/album/6r0wtZqJ6giE5JieQTwPse) | 4:42 | 2022-02-17 | 2022-02-26 |
 | [Gala bunga matahari](https://open.spotify.com/track/5eBk8ZXcd0pb0AO4a5PpOg) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:29 | 2024-06-29 | 2024-12-16 |
-| [Garam & Madu](https://open.spotify.com/track/6Xsn8juDq6ebLmTNy9zvp4) | [Refa Fvnky Rimex](https://open.spotify.com/artist/1RtyD71NJEpvCkDEXsEdHZ) | [Garam & Madu](https://open.spotify.com/album/4yGwBHJ3V0cQbdfC2kSq0x) | 5:00 | 2025-01-01 |  |
+| [Garam & Madu](https://open.spotify.com/track/6Xsn8juDq6ebLmTNy9zvp4) | [Refa Fvnky Rimex](https://open.spotify.com/artist/1RtyD71NJEpvCkDEXsEdHZ) | [Garam & Madu](https://open.spotify.com/album/4yGwBHJ3V0cQbdfC2kSq0x) | 5:00 | 2025-01-01 | 2025-01-06 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-10-29 | 2022-10-16 |
 | [Glimpse of Us](https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:53 | 2022-11-05 | 2023-02-01 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-13 | 2022-11-06 |
@@ -323,7 +324,7 @@
 | [Masa Sepi](https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Masa Sepi](https://open.spotify.com/album/264G53YN0qa679J5JEDtkg) | 3:33 | 2024-08-14 | 2024-10-16 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-03-12 | 2024-07-19 |
 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2024-10-08 |  |
-| [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-03-30 | 2025-01-05 |
+| [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-03-30 |  |
 | [Melawan Restu](https://open.spotify.com/track/6shEr6AgLBDlfYlax2UzzL) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Melawan Restu](https://open.spotify.com/album/5LEnyJ9RP1ZyVgvcKfpwd0) | 3:39 | 2021-05-23 | 2023-01-14 |
 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 | 2021-03-27\* | 2021-08-13 |
 | [Mendua](https://open.spotify.com/track/5g7TAIGfB6vgbaX8AH19FG) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Terpukau](https://open.spotify.com/album/0SZMfhZNtHxdF7pYH1sirr) | 4:10 | 2024-03-24 | 2024-05-13 |
@@ -508,7 +509,7 @@
 | [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 | 2024-06-09 |
 | [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 | 2023-08-26 | 2023-11-12 |
 | [Tak Ada Ujungnya](https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Tak Ada Ujungnya](https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW) | 3:22 | 2024-12-14 |  |
-| [Tak Di Tanganku](https://open.spotify.com/track/4xmSDYn5n9Gu6mH6FSJDhf) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV), [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tak Di Tanganku](https://open.spotify.com/album/35UI6U9KndqP2jBoMz9tOn) | 3:52 | 2024-08-29 |  |
+| [Tak Di Tanganku](https://open.spotify.com/track/4xmSDYn5n9Gu6mH6FSJDhf) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV), [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tak Di Tanganku](https://open.spotify.com/album/35UI6U9KndqP2jBoMz9tOn) | 3:52 | 2024-08-29 | 2025-01-06 |
 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 | 2023-12-30 | 2024-10-13 |
 | [Tak Dianggap](https://open.spotify.com/track/66L6oBm77vpXuLCRX31iNX) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Melangkah](https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov) | 2:59 | 2024-10-12 | 2024-10-16 |
 | [Tak Ingin Usai](https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 4:38 | 2023-05-20 | 2023-09-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Ketan Sodha, Ash King & Jahnvi Shrimankar",
-  "num_followers": 72902,
+  "num_followers": 72918,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -219,30 +219,6 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
-        "name": "Kautilya (The Echo Project)",
-        "url": "https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        },
-        {
-          "name": "Naveen Kumar",
-          "url": "https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR"
-        },
-        {
-          "name": "Anuradha Pal",
-          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
-        }
-      ],
-      "duration_ms": 191063,
-      "name": "Kautilya (The Echo Project)",
-      "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -283,22 +259,6 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
-        "name": "Breathless Flute",
-        "url": "https://open.spotify.com/album/2RgIQn8jrHqlKrLx7dH0lm"
-      },
-      "artists": [
-        {
-          "name": "Ronu Majumdar",
-          "url": "https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P"
-        }
-      ],
-      "duration_ms": 397414,
-      "name": "Ronus Theme",
-      "url": "https://open.spotify.com/track/5HApx7rw1Bc6Ui0cWbrC5U"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
         "name": "Bulbuli",
         "url": "https://open.spotify.com/album/4f5KGhlRtDxxxrQwLSnhZK"
       },
@@ -315,6 +275,46 @@
       "duration_ms": 346560,
       "name": "Bulbuli",
       "url": "https://open.spotify.com/track/3UQNpb3oIk5GWNu9efvNg5"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
+        "name": "Breathless Flute",
+        "url": "https://open.spotify.com/album/2RgIQn8jrHqlKrLx7dH0lm"
+      },
+      "artists": [
+        {
+          "name": "Ronu Majumdar",
+          "url": "https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P"
+        }
+      ],
+      "duration_ms": 397414,
+      "name": "Ronus Theme",
+      "url": "https://open.spotify.com/track/5HApx7rw1Bc6Ui0cWbrC5U"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
+        "name": "Kautilya (The Echo Project)",
+        "url": "https://open.spotify.com/album/2mjGYbVGCYiSHE0ZYJS1gE"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Naveen Kumar",
+          "url": "https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR"
+        },
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "duration_ms": 191063,
+      "name": "Kautilya (The Echo Project)",
+      "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
-        "name": "Text me when you reach",
-        "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        },
-        {
-          "name": "Raj",
-          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
-        }
-      ],
-      "duration_ms": 91325,
-      "name": "Text me when you reach",
-      "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 339681,
       "name": "Khamaaj",
       "url": "https://open.spotify.com/track/1yOzcnB0kIli8JttbJFMEK"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
+        "name": "Text me when you reach",
+        "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        },
+        {
+          "name": "Raj",
+          "url": "https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF"
+        }
+      ],
+      "duration_ms": 91325,
+      "name": "Text me when you reach",
+      "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        }
+      ],
+      "duration_ms": 355441,
+      "name": "Tum Naraz Ho",
+      "url": "https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
         "name": "Jaanaan (From \"Bhoomi 2024\")",
         "url": "https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH"
       },
@@ -607,62 +623,6 @@
       "duration_ms": 306779,
       "name": "Jaanaan (From \"Bhoomi 2024\")",
       "url": "https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 7",
-        "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
-      },
-      "artists": [
-        {
-          "name": "Aima Baig",
-          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
-        },
-        {
-          "name": "Shuja Haider",
-          "url": "https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt"
-        }
-      ],
-      "duration_ms": 471195,
-      "name": "Baanware",
-      "url": "https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Ae Dil Kisi Ki Yaad Mein (Coke Studio Season 8)",
-        "url": "https://open.spotify.com/album/41JZAZycEJOq01horKNToM"
-      },
-      "artists": [
-        {
-          "name": "Sara Haider",
-          "url": "https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB"
-        },
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 355561,
-      "name": "Ae Dil Kisi Ki Yaad Mein - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
-      },
-      "artists": [
-        {
-          "name": "Sajjad Ali",
-          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
-        }
-      ],
-      "duration_ms": 355441,
-      "name": "Tum Naraz Ho",
-      "url": "https://open.spotify.com/track/7od22pmztVH9YfpzZ0205R"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -707,6 +667,66 @@
       "duration_ms": 158476,
       "name": "Garaj Garaj",
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
+        "name": "Coke Studio Season 10: Episode 7",
+        "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
+      },
+      "artists": [
+        {
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+        },
+        {
+          "name": "Shuja Haider",
+          "url": "https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt"
+        }
+      ],
+      "duration_ms": 471195,
+      "name": "Baanware",
+      "url": "https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
+        "name": "Coke Studio Season 10: Episode 3",
+        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
+      },
+      "artists": [
+        {
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+        },
+        {
+          "name": "Zaw Ali",
+          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
+        }
+      ],
+      "duration_ms": 339226,
+      "name": "Ronay Na Diya",
+      "url": "https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
+        "name": "Ae Dil Kisi Ki Yaad Mein (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/41JZAZycEJOq01horKNToM"
+      },
+      "artists": [
+        {
+          "name": "Sara Haider",
+          "url": "https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB"
+        },
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 355561,
+      "name": "Ae Dil Kisi Ki Yaad Mein - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -791,26 +811,6 @@
       "duration_ms": 412266,
       "name": "Mora Saiyaan",
       "url": "https://open.spotify.com/track/1CTFgZCW0ljb0P4mv7hzQU"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 3",
-        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
-      },
-      "artists": [
-        {
-          "name": "Sajjad Ali",
-          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
-        },
-        {
-          "name": "Zaw Ali",
-          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
-        }
-      ],
-      "duration_ms": 339226,
-      "name": "Ronay Na Diya",
-      "url": "https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc"
     },
     {
       "added_at": "2024-12-20 07:34:31",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
-        "name": "Maati Baani",
-        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        },
-        {
-          "name": "Ankita Joshi",
-          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
-        }
-      ],
-      "duration_ms": 273394,
-      "name": "Boondan Boondan (feat. Ankita Joshi)",
-      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
         "name": "Grounded in Space",
         "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 347866,
       "name": "Mind Ecology (with John McLaughlin)",
       "url": "https://open.spotify.com/track/6mPtzWgpJIE1KFsl739xX6"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
+        "name": "Maati Baani",
+        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Ankita Joshi",
+          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
+        }
+      ],
+      "duration_ms": 273394,
+      "name": "Boondan Boondan (feat. Ankita Joshi)",
+      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
     }
   ],
   "unique_name": "Fusion Finds",

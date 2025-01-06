@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 500656,
+  "num_followers": 500639,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4ZbiB5YgRoLjgeavjUPIs3"
-      },
-      "artists": [
-        {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
-        }
-      ],
-      "duration_ms": 148065,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/0ZrCsbgPF7j50Uw6ODNbFY"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "Ready To Go (My Addiction)",
         "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4ZbiB5YgRoLjgeavjUPIs3"
+      },
+      "artists": [
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        }
+      ],
+      "duration_ms": 148065,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/0ZrCsbgPF7j50Uw6ODNbFY"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
+        "name": "All Dancing Under The Same Sky",
+        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "All Dancing Under The Same Sky - Edit",
+      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/26wa33YnxTb3bmaig0U2ZD"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 147187,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/7ikaNXd2hseoALG4yu0rsy"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
-        "name": "All Dancing Under The Same Sky",
-        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "All Dancing Under The Same Sky - Edit",
-      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
+        "name": "Heartache",
+        "url": "https://open.spotify.com/album/6OUzAeknJC5vcHQ6A6aZfM"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/2P5If5ohWf4NC1nhRNwOdP"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
         "name": "The Last Time",
         "url": "https://open.spotify.com/album/39fKrm33IcGXYEd1hfwZbI"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 191250,
       "name": "Shake Body",
       "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
-        "name": "Heartache",
-        "url": "https://open.spotify.com/album/6OUzAeknJC5vcHQ6A6aZfM"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "Heartache",
-      "url": "https://open.spotify.com/track/2P5If5ohWf4NC1nhRNwOdP"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1179,6 +1179,26 @@
       "duration_ms": 161129,
       "name": "Freedom 2024",
       "url": "https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "Easy Baby",
+        "url": "https://open.spotify.com/album/7qEDuTjre2FiyLzwj7eIlw"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Mo Selleck",
+          "url": "https://open.spotify.com/artist/2TmLgEfzFDJ2afLTxXd2Aa"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Easy Baby",
+      "url": "https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1247,22 +1267,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "A Chance / Ask Yourself (Can You Dance)",
-        "url": "https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc"
-      },
-      "artists": [
-        {
-          "name": "Angelo Ferreri",
-          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
-        }
-      ],
-      "duration_ms": 216794,
-      "name": "Ask Yourself (Can You Dance)",
-      "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "Hallelujah Anyway (Larse VIP)",
         "url": "https://open.spotify.com/album/1pfV5ElQrTPWXgAZCdelbk"
       },
@@ -1279,6 +1283,22 @@
       "duration_ms": 231167,
       "name": "Hallelujah Anyway - Larse VIP",
       "url": "https://open.spotify.com/track/5fWhvRhUnRLwa0a2bSEljn"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "A Chance / Ask Yourself (Can You Dance)",
+        "url": "https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "duration_ms": 216794,
+      "name": "Ask Yourself (Can You Dance)",
+      "url": "https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1311,26 +1331,6 @@
       "duration_ms": 168750,
       "name": "LOOKING FOR JOY",
       "url": "https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
-        "name": "Easy Baby",
-        "url": "https://open.spotify.com/album/7qEDuTjre2FiyLzwj7eIlw"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Mo Selleck",
-          "url": "https://open.spotify.com/artist/2TmLgEfzFDJ2afLTxXd2Aa"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Easy Baby",
-      "url": "https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/5L6hcxhOn0VfGB7eScOEej"
+      },
+      "artists": [
+        {
+          "name": "Gissa",
+          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
+        }
+      ],
+      "duration_ms": 249469,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/5APDSxDfH84AqrpIGzDYgU"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
         "name": "The Speech (Short Edit)",
         "url": "https://open.spotify.com/album/4wwX7XqGPMd3wnpkNzoLUX"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 173896,
       "name": "The Speech - Short Edit",
       "url": "https://open.spotify.com/track/1osrEBPNlrq4M1PtSeWgWo"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
-        "name": "Sweet Love",
-        "url": "https://open.spotify.com/album/5L6hcxhOn0VfGB7eScOEej"
-      },
-      "artists": [
-        {
-          "name": "Gissa",
-          "url": "https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo"
-        }
-      ],
-      "duration_ms": 249469,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/5APDSxDfH84AqrpIGzDYgU"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/79FOIDw0PEQTqy6mVm1ysI"
-      },
-      "artists": [
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        }
-      ],
-      "duration_ms": 204651,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/7J42jTDbEHWipS0rdrviIZ"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "Beautiful Day (feat. Liisi Lafontaine)",
         "url": "https://open.spotify.com/album/1bwb9TFemPzbyJMru309sq"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 239999,
       "name": "Beautiful Day (feat. Liisi Lafontaine)",
       "url": "https://open.spotify.com/track/2bBxIUeztazGNrbDYJF9RT"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/79FOIDw0PEQTqy6mVm1ysI"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/7J42jTDbEHWipS0rdrviIZ"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1635,42 +1635,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "It Feels Alright",
-        "url": "https://open.spotify.com/album/0nm2kIt4iJ0nESh1w8NNOt"
-      },
-      "artists": [
-        {
-          "name": "Miguel Migs",
-          "url": "https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi"
-        },
-        {
-          "name": "Hiva",
-          "url": "https://open.spotify.com/artist/04e75uCkFpnyIxw54Z5ObF"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "It Feels Alright",
-      "url": "https://open.spotify.com/track/05WcCpvKQCwt4BUjG6yRFe"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/6h29RkvgIkUj96AzQPtarY"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 183475,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/1ArnBQobPlbFnrqLQ9OzFA"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/4373aVvMFGwgsfPvwhIYQI"
       },
@@ -1691,18 +1655,18 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Take Some Time",
-        "url": "https://open.spotify.com/album/59Nv1k8RX5ja09ejOATqB2"
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6h29RkvgIkUj96AzQPtarY"
       },
       "artists": [
         {
-          "name": "Kellie Allen",
-          "url": "https://open.spotify.com/artist/0ITmVPvWLd1t4emVerjKAt"
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
         }
       ],
-      "duration_ms": 245594,
-      "name": "Take Some Time",
-      "url": "https://open.spotify.com/track/7CuzqluZbLC2ByREzICmPe"
+      "duration_ms": 183475,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/1ArnBQobPlbFnrqLQ9OzFA"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1723,6 +1687,26 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
+        "name": "It Feels Alright",
+        "url": "https://open.spotify.com/album/0nm2kIt4iJ0nESh1w8NNOt"
+      },
+      "artists": [
+        {
+          "name": "Miguel Migs",
+          "url": "https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi"
+        },
+        {
+          "name": "Hiva",
+          "url": "https://open.spotify.com/artist/04e75uCkFpnyIxw54Z5ObF"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/05WcCpvKQCwt4BUjG6yRFe"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 199217,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "Take Some Time",
+        "url": "https://open.spotify.com/album/59Nv1k8RX5ja09ejOATqB2"
+      },
+      "artists": [
+        {
+          "name": "Kellie Allen",
+          "url": "https://open.spotify.com/artist/0ITmVPvWLd1t4emVerjKAt"
+        }
+      ],
+      "duration_ms": 245594,
+      "name": "Take Some Time",
+      "url": "https://open.spotify.com/track/7CuzqluZbLC2ByREzICmPe"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/3DgN8lFMK6cX8eJ5pIeUob"
+      },
+      "artists": [
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "duration_ms": 162530,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/2bmQDLkG6Ws7p5qbaoe3Rl"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
         "name": "No Competition",
         "url": "https://open.spotify.com/album/4kMhXDmECb9Xeup4PGXf4p"
       },
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/3DgN8lFMK6cX8eJ5pIeUob"
-      },
-      "artists": [
-        {
-          "name": "Low Blow",
-          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
-        }
-      ],
-      "duration_ms": 162530,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/2bmQDLkG6Ws7p5qbaoe3Rl"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "Got This Love",
         "url": "https://open.spotify.com/album/2FF5jW6XclssK21QEaYF0F"
       },
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Come Back EP",
-        "url": "https://open.spotify.com/album/35YILegVmuxMYbIarvgXIt"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        }
-      ],
-      "duration_ms": 305982,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/5qwZdH9utUYiQhx8xnHoza"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0w1IHkAv7qF69rDu0raiDH"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 316734,
       "name": "All Times Disco",
       "url": "https://open.spotify.com/track/0gc34e2YdDl8fB2bqD4LX2"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "Come Back EP",
+        "url": "https://open.spotify.com/album/35YILegVmuxMYbIarvgXIt"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 305982,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/5qwZdH9utUYiQhx8xnHoza"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW"
-      },
-      "artists": [
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        }
-      ],
-      "duration_ms": 148610,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/5u1mG6G7YKeI7mmebulqUT"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "Please Take Me There (Mak\u00e8z Vocal House Remix)",
         "url": "https://open.spotify.com/album/1tW7wKo1lhGI6tHcql8hxM"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 388193,
       "name": "Please Take Me There - Mak\u00e8z Vocal House Remix",
       "url": "https://open.spotify.com/track/0mQ5l1WmiMaKe9zpIaerT3"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW"
+      },
+      "artists": [
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "duration_ms": 148610,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/5u1mG6G7YKeI7mmebulqUT"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -2195,30 +2195,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Ivy",
-        "url": "https://open.spotify.com/album/57XjgSTUIhddMmGz8HnH3t"
-      },
-      "artists": [
-        {
-          "name": "Michael Gray",
-          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
-        },
-        {
-          "name": "Tatiana Owens",
-          "url": "https://open.spotify.com/artist/0lyl8zoYXLCiL0Ht6Fb0FY"
-        },
-        {
-          "name": "Jimpster",
-          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
-        }
-      ],
-      "duration_ms": 226341,
-      "name": "Ivy - Jimpster Remix",
-      "url": "https://open.spotify.com/track/0DtSTjldhWKc4u6nVeDvT5"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "Remix EP",
         "url": "https://open.spotify.com/album/6pcOgtpIJqA78cgNVBsQx4"
       },
@@ -2243,22 +2219,26 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Loving At First Sight",
-        "url": "https://open.spotify.com/album/6xszccmDMRUBm1weZ5nMYd"
+        "name": "Ivy",
+        "url": "https://open.spotify.com/album/57XjgSTUIhddMmGz8HnH3t"
       },
       "artists": [
         {
-          "name": "Fouk",
-          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
         },
         {
-          "name": "Deb\u00f3rah Bond",
-          "url": "https://open.spotify.com/artist/6EVVguHrZvlLiHJgYCO02e"
+          "name": "Tatiana Owens",
+          "url": "https://open.spotify.com/artist/0lyl8zoYXLCiL0Ht6Fb0FY"
+        },
+        {
+          "name": "Jimpster",
+          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
         }
       ],
-      "duration_ms": 239026,
-      "name": "Loving At First Sight - Vocal Mix Edit",
-      "url": "https://open.spotify.com/track/3Hbsj0J6L5S6cT0CgZxUvX"
+      "duration_ms": 226341,
+      "name": "Ivy - Jimpster Remix",
+      "url": "https://open.spotify.com/track/0DtSTjldhWKc4u6nVeDvT5"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -2283,6 +2263,26 @@
       "duration_ms": 199680,
       "name": "Got To Believe",
       "url": "https://open.spotify.com/track/0ohw5aRHEw91j6SHeldRn2"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "Loving At First Sight",
+        "url": "https://open.spotify.com/album/6xszccmDMRUBm1weZ5nMYd"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        },
+        {
+          "name": "Deb\u00f3rah Bond",
+          "url": "https://open.spotify.com/artist/6EVVguHrZvlLiHJgYCO02e"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Loving At First Sight - Vocal Mix Edit",
+      "url": "https://open.spotify.com/track/3Hbsj0J6L5S6cT0CgZxUvX"
     },
     {
       "added_at": "2024-12-20 09:30:55",

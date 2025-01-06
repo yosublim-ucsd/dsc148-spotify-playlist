@@ -4,7 +4,7 @@
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 40 min
+52 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [La Mejor Versión de Mi](https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Mejor Versión de Mi](https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO) | 2:17 | 2024-08-08 |  |
 | [La Que Sigue de Mi](https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:15 | 2024-08-08 |  |
 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:32 | 2024-08-08 |  |
+| [Leña De Pirul](https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [En Vivo Desde Tijuana](https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8) | 3:06 | 2025-01-06 |  |
 | [Leña de Pirul \- En Vivo](https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 3:34 | 2024-08-08 |  |
 | [Lo Que No Me Gusta](https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 4:14 | 2024-08-08 |  |
 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 | 2024-08-08 |  |
@@ -44,6 +45,7 @@
 | [Pinocho](https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:20 | 2024-08-08 |  |
 | [Por Qué No Me Esperaste?](https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Por Qué No Me Esperaste?](https://open.spotify.com/album/1hWml9piZCciySPV41eXkR) | 3:20 | 2024-08-08 |  |
 | [Por Última Vez](https://open.spotify.com/track/28M3W9I1VJqTBcibL65p29) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:35 | 2024-11-20 | 2024-12-03 |
+| [Qué Me Vas A Dar Si Vuelvo](https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [En Vivo Desde Tijuana](https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8) | 3:50 | 2025-01-06 |  |
 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Qué Tanto Es Tantito?](https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F) | 3:41 | 2024-10-28 |  |
 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:41 | 2024-08-08 | 2024-10-28 |
 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 | 2024-08-08 |  |

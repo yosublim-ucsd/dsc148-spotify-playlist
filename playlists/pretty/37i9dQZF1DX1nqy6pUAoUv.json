@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 181469,
+  "num_followers": 181484,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Wildflowers in the Graveyard",
-        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
-      },
-      "artists": [
-        {
-          "name": "Amber Rubarth",
-          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Wildflowers in the Graveyard",
-      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Wildflowers in the Graveyard",
+        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
+      },
+      "artists": [
+        {
+          "name": "Amber Rubarth",
+          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Wildflowers in the Graveyard",
+      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
       "artists": [
         {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -879,34 +879,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
       "artists": [
         {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -955,6 +939,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "The Capitalist Blues",
+      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Amythyst Kiah and Her Chest of Glass",
         "url": "https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5"
       },
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Beyond The Bloodhounds",
         "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+        "name": "Banjo Babes",
+        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
         }
       ],
-      "duration_ms": 219053,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
+      "duration_ms": 245693,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1035,22 +1051,6 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Banjo Babes",
-        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Age of a Man",
-        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 219253,
-      "name": "Age of a Man",
-      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Chain Reaction",
         "url": "https://open.spotify.com/album/0EFV8dTelIT79qbvzRtGuP"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 200161,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/2G7bNWJygXprmbBD3IQidL"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
-      },
-      "artists": [
-        {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
-        }
-      ],
-      "duration_ms": 234253,
-      "name": "Love Will Win the War",
-      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Come and Fill My Soul",
         "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 223418,
       "name": "Come and Fill My Soul",
       "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
+      },
+      "artists": [
+        {
+          "name": "Darden Smith",
+          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Love Will Win the War",
+      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
     },
     {
       "added_at": "2024-11-15 05:00:00",

@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 256839,
       "name": "Hurricane Connie",
       "url": "https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0"
@@ -3250,6 +3250,32 @@
       "duration_ms": 358760,
       "name": "Who Cares?",
       "url": "https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO"
+    },
+    {
+      "album": {
+        "name": "Why'd You Have To Go and Lie To Me Boy",
+        "url": "https://open.spotify.com/album/2Dqtu0iBpv2YdpUam2awCq"
+      },
+      "artists": [
+        {
+          "name": "Brian Charette",
+          "url": "https://open.spotify.com/artist/0BDMJnvi2kFbQAUNUqt5om"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        },
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310040,
+      "name": "Why'd You Have To Go and Lie To Me Boy",
+      "url": "https://open.spotify.com/track/1cYjSURe4iTZb6ndRFHOVr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Darkoo \(pictured\), Little Simz, SAULT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,315 likes - 72 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,324 likes - 72 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

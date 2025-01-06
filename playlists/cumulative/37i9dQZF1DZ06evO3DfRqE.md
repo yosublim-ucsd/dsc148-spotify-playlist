@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-81 songs - 5 hr 10 min
+82 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,11 +34,12 @@
 | [Honu's Dream](https://open.spotify.com/track/3R3FlqlIt3vp2X2NzS1xZl) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kohala](https://open.spotify.com/artist/019N8MmzjydRlDJ8dtxPU8) | [Putumayo Kids Presents Instrumental Dreamland](https://open.spotify.com/album/1WxMaglwkL1nkq0MfO88jC) | 2:43 | 2024-01-29 |  |
 | [Hope in the Ashes](https://open.spotify.com/track/1RoNkSXNMMbBVLmApfVlMs) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Hope in the Ashes](https://open.spotify.com/album/373OIvXeyphGoVfggcCdcr) | 2:34 | 2024-08-03 |  |
 | [Hotel California \(Duet with Jake Shimabukuro\)](https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [HandPicked](https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn) | 8:05 | 2024-01-29 |  |
-| [Hula Girl\(LIVE\)](https://open.spotify.com/track/19nr74Chrn65xHbdmDfInV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:27 | 2024-01-29 |  |
+| [Hula Girl\(LIVE\)](https://open.spotify.com/track/19nr74Chrn65xHbdmDfInV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:27 | 2024-01-29 | 2025-01-06 |
 | [I Wanna Get Funky](https://open.spotify.com/track/1xK95CjHv5jCcNBEdLrVEP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:33 | 2024-10-31 | 2024-12-13 |
 | [I'll Be There](https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 4:37 | 2024-01-29 |  |
 | [IN MY LIFE](https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 5:29 | 2024-12-17 |  |
 | [Interlude 2](https://open.spotify.com/track/5a2FWAjpOeBMdholsOEFmK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 1:19 | 2024-01-29 | 2024-04-22 |
+| [Kalenaku](https://open.spotify.com/track/3bCI14cCJKYenNUCKGqGZU) | [Kapena](https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Kalenaku](https://open.spotify.com/album/3q2F10mMSTV9eZvXEMEqJT) | 4:18 | 2025-01-06 |  |
 | [Kawaikini](https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Kawaikini](https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9) | 4:30 | 2024-01-29 | 2024-07-21 |
 | [Kiss the Girl](https://open.spotify.com/track/7yzU7C9CO3g3AfsSzU4Zfg) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:47 | 2024-02-05 |  |
 | [Kula Blues](https://open.spotify.com/track/2FOCUiF0bSZdj1iH7GWqsx) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:35 | 2024-10-28 | 2024-12-17 |

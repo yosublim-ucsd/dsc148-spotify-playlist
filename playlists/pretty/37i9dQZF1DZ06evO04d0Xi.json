@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 72638,
+  "num_followers": 72643,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAAysc1ukkwn4KAoZQaBoyS9",
+  "snapshot_id": "Z3h6AAAAAAAPMkUvGGLIriPSnaMWe9/i",
   "tracks": [
     {
       "added_at": null,
@@ -495,30 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastros de Amor (ao Vivo)",
-        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
-      },
-      "artists": [
-        {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "S\u00f3stenes Mendes",
-          "url": "https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Alto Pre\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -567,18 +543,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
+        "name": "Rastros de Amor (ao Vivo)",
+        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
       },
       "artists": [
         {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "S\u00f3stenes Mendes",
+          "url": "https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb"
         }
       ],
-      "duration_ms": 206657,
-      "name": "Seu Lugar",
-      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
+      "duration_ms": 262053,
+      "name": "Alto Pre\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 305342,
       "name": "Adorai, Adonai",
       "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Seu Lugar",
+      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escreve",
-        "url": "https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 275590,
-      "name": "Escreve",
-      "url": "https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cura-me",
         "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 228948,
       "name": "Algu\u00e9m",
       "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escreve",
+        "url": "https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 275590,
+      "name": "Escreve",
+      "url": "https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw"
     },
     {
       "added_at": null,
@@ -855,50 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 312674,
-      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Ou\u00e7o Deus Me Chamar",
-      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Bem Maior",
         "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
       },
@@ -915,74 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastros de Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
+        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
       },
       "artists": [
         {
-          "name": "Asaph Borba",
-          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
-        },
-        {
-          "name": "Paulo Figueir\u00f3",
-          "url": "https://open.spotify.com/artist/78jkf2tGpyXw7OSnCrIFPz"
-        },
-        {
-          "name": "L\u00edgia Rosana Borba",
-          "url": "https://open.spotify.com/artist/1ehwaCFeyMExOtwC2kjs2F"
-        },
-        {
-          "name": "Christie Trist\u00e3o",
-          "url": "https://open.spotify.com/artist/1UgwkRPC9yEFAtd6bKme5P"
-        },
-        {
-          "name": "Massao Sughihara",
-          "url": "https://open.spotify.com/artist/4WFSZj3tmRuxnh1PxZha4c"
-        },
-        {
-          "name": "Alda C\u00e9lia",
-          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
-        },
-        {
-          "name": "Carm\u00e9lia Tonin",
-          "url": "https://open.spotify.com/artist/1D395OIHUKfTf3PUjwqzN9"
-        },
-        {
-          "name": "DANIEL DE SOUZA",
-          "url": "https://open.spotify.com/artist/1uHg6TlW57YOJQS04ffj7e"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "Gerson Ortega",
-          "url": "https://open.spotify.com/artist/6HY61ZWvyi9VDNTvB6ydTo"
-        },
-        {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
-        },
-        {
-          "name": "Andr\u00e9 Borba",
-          "url": "https://open.spotify.com/artist/6EtZBYi9o5tLMHcYCUBC05"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "S\u00f3st",
-          "url": "https://open.spotify.com/artist/3sDHlT1fgAbyE3GmknrDGZ"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 250666,
-      "name": "H\u00e1 Muito Mais - Ao Vivo",
-      "url": "https://open.spotify.com/track/6W4iAMbZCXSG4ixmZG1A5b"
+      "duration_ms": 312674,
+      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
     },
     {
       "added_at": null,
@@ -1059,6 +963,102 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rastros de Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Paulo Figueir\u00f3",
+          "url": "https://open.spotify.com/artist/78jkf2tGpyXw7OSnCrIFPz"
+        },
+        {
+          "name": "L\u00edgia Rosana Borba",
+          "url": "https://open.spotify.com/artist/1ehwaCFeyMExOtwC2kjs2F"
+        },
+        {
+          "name": "Christie Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/1UgwkRPC9yEFAtd6bKme5P"
+        },
+        {
+          "name": "Massao Sughihara",
+          "url": "https://open.spotify.com/artist/4WFSZj3tmRuxnh1PxZha4c"
+        },
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
+        {
+          "name": "Carm\u00e9lia Tonin",
+          "url": "https://open.spotify.com/artist/1D395OIHUKfTf3PUjwqzN9"
+        },
+        {
+          "name": "DANIEL DE SOUZA",
+          "url": "https://open.spotify.com/artist/1uHg6TlW57YOJQS04ffj7e"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Gerson Ortega",
+          "url": "https://open.spotify.com/artist/6HY61ZWvyi9VDNTvB6ydTo"
+        },
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        },
+        {
+          "name": "Andr\u00e9 Borba",
+          "url": "https://open.spotify.com/artist/6EtZBYi9o5tLMHcYCUBC05"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "S\u00f3st",
+          "url": "https://open.spotify.com/artist/3sDHlT1fgAbyE3GmknrDGZ"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "H\u00e1 Muito Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/6W4iAMbZCXSG4ixmZG1A5b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
@@ -1095,6 +1095,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9s Real Pra Mim",
+        "url": "https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 334413,
+      "name": "\u00c9s Real pra Mim",
+      "url": "https://open.spotify.com/track/2hsERnD409nL9T06rhZC01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 304813,
       "name": "Te Amo Tanto (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9s Real Pra Mim",
-        "url": "https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 334413,
-      "name": "\u00c9s Real pra Mim",
-      "url": "https://open.spotify.com/track/2hsERnD409nL9T06rhZC01"
     }
   ],
   "unique_name": "This Is Fernanda Brum",

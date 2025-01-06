@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 33409,
+  "num_followers": 33415,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -303,38 +303,6 @@
     {
       "added_at": "2025-01-03 05:00:18",
       "album": {
-        "name": "Option",
-        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
-      },
-      "artists": [
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 274106,
-      "name": "Ti doudou",
-      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
-    },
-    {
-      "added_at": "2025-01-03 05:00:18",
-      "album": {
-        "name": "Chambre 12",
-        "url": "https://open.spotify.com/album/49ooEM5Xre2NvBHVcg6aFe"
-      },
-      "artists": [
-        {
-          "name": "Massiv3",
-          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Metro Gouyad",
-      "url": "https://open.spotify.com/track/32txcWZeusEWrCZAM14yJS"
-    },
-    {
-      "added_at": "2025-01-03 05:00:18",
-      "album": {
         "name": "Time To Shine",
         "url": "https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK"
       },
@@ -351,6 +319,38 @@
       "duration_ms": 285346,
       "name": "Bif",
       "url": "https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d"
+    },
+    {
+      "added_at": "2025-01-03 05:00:18",
+      "album": {
+        "name": "Option",
+        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "Ti doudou",
+      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
+    },
+    {
+      "added_at": "2025-01-03 05:00:18",
+      "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2025-01-03 05:00:18",
@@ -375,18 +375,18 @@
     {
       "added_at": "2025-01-03 05:00:18",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+        "name": "Chambre 12",
+        "url": "https://open.spotify.com/album/49ooEM5Xre2NvBHVcg6aFe"
       },
       "artists": [
         {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+          "name": "Massiv3",
+          "url": "https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr"
         }
       ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+      "duration_ms": 216333,
+      "name": "Metro Gouyad",
+      "url": "https://open.spotify.com/track/32txcWZeusEWrCZAM14yJS"
     },
     {
       "added_at": "2025-01-03 05:00:18",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-01-03 05:00:18",
       "album": {
-        "name": "JIJE'M",
-        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
-        },
-        {
-          "name": "Bedjine",
-          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
-        }
-      ],
-      "duration_ms": 316998,
-      "name": "KOUPAB",
-      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
-    },
-    {
-      "added_at": "2025-01-03 05:00:18",
-      "album": {
         "name": "Kilot",
         "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
       },
@@ -615,6 +595,26 @@
     {
       "added_at": "2025-01-03 05:00:18",
       "album": {
+        "name": "JIJE'M",
+        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Bedjine",
+          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
+        }
+      ],
+      "duration_ms": 316998,
+      "name": "KOUPAB",
+      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
+    },
+    {
+      "added_at": "2025-01-03 05:00:18",
+      "album": {
         "name": "3 Tou 9",
         "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
       },
@@ -627,38 +627,6 @@
       "duration_ms": 289537,
       "name": "San Limit",
       "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
-    },
-    {
-      "added_at": "2025-01-03 05:00:18",
-      "album": {
-        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
-        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
-      },
-      "artists": [
-        {
-          "name": "Djakout #1",
-          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
-        }
-      ],
-      "duration_ms": 332910,
-      "name": "Habitude",
-      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
-    },
-    {
-      "added_at": "2025-01-03 05:00:18",
-      "album": {
-        "name": "Degaje",
-        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
-      },
-      "artists": [
-        {
-          "name": "Harmonik",
-          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
-        }
-      ],
-      "duration_ms": 271712,
-      "name": "Cheri Benyen M'",
-      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
     },
     {
       "added_at": "2025-01-03 05:00:18",
@@ -679,6 +647,22 @@
     {
       "added_at": "2025-01-03 05:00:18",
       "album": {
+        "name": "Degaje",
+        "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
+      },
+      "artists": [
+        {
+          "name": "Harmonik",
+          "url": "https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH"
+        }
+      ],
+      "duration_ms": 271712,
+      "name": "Cheri Benyen M'",
+      "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
+    },
+    {
+      "added_at": "2025-01-03 05:00:18",
+      "album": {
         "name": "Tantan- Pam Pam Pam",
         "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 386733,
       "name": "Pam Pam Pam",
       "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
+    },
+    {
+      "added_at": "2025-01-03 05:00:18",
+      "album": {
+        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
+        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "duration_ms": 332910,
+      "name": "Habitude",
+      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
     },
     {
       "added_at": "2025-01-03 05:00:18",

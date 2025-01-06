@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADwl03/ch1peW4hMfXoMj0O",
+  "snapshot_id": "AAAAAAAAAABdsUL33//E6N4F7Ii2m5hY",
   "tracks": [
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "Dead of the Night",
-        "url": "https://open.spotify.com/album/6uFjirWACgdk6gV7MQhdz0"
+        "name": "In League With Satan",
+        "url": "https://open.spotify.com/album/6HjdAF79QWLbegb5bkJqqU"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
         }
       ],
-      "duration_ms": 222360,
-      "name": "Dead of the Night",
-      "url": "https://open.spotify.com/track/0570Fm0xQDRXHXv8aIbUXH"
+      "duration_ms": 206960,
+      "name": "In League with Satan",
+      "url": "https://open.spotify.com/track/4kS204D1uqGPYrsHaYSoz4"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
+        "name": "Field of Opportunity",
+        "url": "https://open.spotify.com/album/2FbgV0fg5jzyi9DCRSTpPY"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 187977,
+      "name": "Field of Opportunity",
+      "url": "https://open.spotify.com/track/1GfTKBIoqw7uY3nyRFH4Zp"
+    },
+    {
+      "added_at": "2025-01-03 03:00:00",
+      "album": {
         "name": "Hoja de la Suerte",
         "url": "https://open.spotify.com/album/3gQ8u5PuuPooKoOZ3lg7Gp"
       },
@@ -83,30 +99,6 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "Tchaikovsky: Swan Lake - Mazurka (Excerpt)",
-        "url": "https://open.spotify.com/album/2x0Iu90ftx4ME5Nxvlp6DP"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Alexander Titov",
-          "url": "https://open.spotify.com/artist/0i7LEbNYupmNEuVG7GJr7O"
-        },
-        {
-          "name": "Orchestra New Philharmony St. Petersburg",
-          "url": "https://open.spotify.com/artist/6PC5mHlqB8BIbsDJ9QSVZx"
-        }
-      ],
-      "duration_ms": 84135,
-      "name": "Tchaikovsky: Swan Lake - Mazurka - Excerpt",
-      "url": "https://open.spotify.com/track/2EG7fplRiQhGo5TBQcVLKW"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
         "name": "Yes I Can",
         "url": "https://open.spotify.com/album/6xnu5R7xVEm6ThD1wAAEjM"
       },
@@ -119,22 +111,6 @@
       "duration_ms": 215000,
       "name": "Yes I Can",
       "url": "https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "Field of Opportunity",
-        "url": "https://open.spotify.com/album/2FbgV0fg5jzyi9DCRSTpPY"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 187977,
-      "name": "Field of Opportunity",
-      "url": "https://open.spotify.com/track/1GfTKBIoqw7uY3nyRFH4Zp"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -163,6 +139,30 @@
       "duration_ms": 150461,
       "name": "Told You So - Lavern & VisionV Remix",
       "url": "https://open.spotify.com/track/7sq5lP2gH7lR6EiiyhEbNt"
+    },
+    {
+      "added_at": "2025-01-03 03:00:00",
+      "album": {
+        "name": "Tchaikovsky: Swan Lake - Mazurka (Excerpt)",
+        "url": "https://open.spotify.com/album/2x0Iu90ftx4ME5Nxvlp6DP"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Alexander Titov",
+          "url": "https://open.spotify.com/artist/0i7LEbNYupmNEuVG7GJr7O"
+        },
+        {
+          "name": "Orchestra New Philharmony St. Petersburg",
+          "url": "https://open.spotify.com/artist/6PC5mHlqB8BIbsDJ9QSVZx"
+        }
+      ],
+      "duration_ms": 84135,
+      "name": "Tchaikovsky: Swan Lake - Mazurka - Excerpt",
+      "url": "https://open.spotify.com/track/2EG7fplRiQhGo5TBQcVLKW"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "Shattered Chains",
-        "url": "https://open.spotify.com/album/6S0J3Zh39ofHlSmYpgwqNP"
+        "name": "Out of The Fire (Type O Negative)",
+        "url": "https://open.spotify.com/album/41bNVHNKlEgJOg6uEJ52Zb"
       },
       "artists": [
         {
-          "name": "Karnage Through Crossing",
-          "url": "https://open.spotify.com/artist/30ep5EKRT5KRTTfUJ1BkME"
+          "name": "MANRRYX",
+          "url": "https://open.spotify.com/artist/5huUl5rKzzdBsK5QX4pNeZ"
         }
       ],
-      "duration_ms": 298600,
-      "name": "Crimson",
-      "url": "https://open.spotify.com/track/5NWd5V1ryOMsqfP26wWJsw"
+      "duration_ms": 206913,
+      "name": "Out of The Fire (Type O Negative)",
+      "url": "https://open.spotify.com/track/7IYSNUz2hcXgJHpuyMI4cH"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
-        "name": "Santa Claus Is Coming To Town",
-        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 119639,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
         "name": "Sail with the Dead (Orchestral Version)",
         "url": "https://open.spotify.com/album/7JvvaFsJjCnmEr4OdjEd5v"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2025-01-03 03:00:00",
       "album": {
+        "name": "Santa Claus Is Coming To Town",
+        "url": "https://open.spotify.com/album/3TZR794ZhWKug7Dxpjnnii"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 119639,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/0sOLCWKwwxMFa56FlHw1Dv"
+    },
+    {
+      "added_at": "2025-01-03 03:00:00",
+      "album": {
         "name": "\u9065\u304b\u5f7c\u65b9 - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/59XKTuayX38F7czmh1W726"
       },
@@ -419,6 +419,34 @@
       "duration_ms": 241501,
       "name": "\u9065\u304b\u5f7c\u65b9 - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/4WEZMn207l6d31ZMhLCLZw"
+    },
+    {
+      "added_at": "2025-01-03 03:00:00",
+      "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2zPlqEQvLTqacCTohwO7l8"
+      },
+      "artists": [
+        {
+          "name": "Love Like Enemies",
+          "url": "https://open.spotify.com/artist/2VCRd5F9I0nurK4HrSpVM2"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "The Almost",
+          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
+        }
+      ],
+      "duration_ms": 216584,
+      "name": "Seasons \u00f8f Life",
+      "url": "https://open.spotify.com/track/3J2f43S2gOqEOgz0Hi5tkQ"
     },
     {
       "added_at": "2025-01-03 03:00:00",
@@ -459,34 +487,6 @@
       "duration_ms": 236213,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/6h3ss6XbugN9NoaJsBTy9n"
-    },
-    {
-      "added_at": "2025-01-03 03:00:00",
-      "album": {
-        "name": "OMEGA",
-        "url": "https://open.spotify.com/album/2zPlqEQvLTqacCTohwO7l8"
-      },
-      "artists": [
-        {
-          "name": "Love Like Enemies",
-          "url": "https://open.spotify.com/artist/2VCRd5F9I0nurK4HrSpVM2"
-        },
-        {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        },
-        {
-          "name": "The Almost",
-          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
-        }
-      ],
-      "duration_ms": 216584,
-      "name": "Seasons \u00f8f Life",
-      "url": "https://open.spotify.com/track/3J2f43S2gOqEOgz0Hi5tkQ"
     },
     {
       "added_at": "2025-01-03 03:00:00",

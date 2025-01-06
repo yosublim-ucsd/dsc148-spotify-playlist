@@ -1817,6 +1817,28 @@
     },
     {
       "album": {
+        "name": "Oscar Olivas (Live)",
+        "url": "https://open.spotify.com/album/3fM7r0c4dWEaki7Vbxry96"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251280,
+      "name": "Oscar Olivas - Live",
+      "url": "https://open.spotify.com/track/2KqfhnWTABwhaYNSca5aYW"
+    },
+    {
+      "album": {
         "name": "La Suerte",
         "url": "https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J"
       },
@@ -2042,7 +2064,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 224260,
       "name": "Rey de Corazones - En Vivo",
       "url": "https://open.spotify.com/track/0yJqHRmryTQI4MB4xTmE2B"

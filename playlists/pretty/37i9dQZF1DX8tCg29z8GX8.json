@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 15448,
+  "num_followers": 15453,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2024-12-16 09:32:40",
@@ -763,6 +763,42 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
+        "name": "Atele",
+        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 166885,
+      "name": "Atele",
+      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
+        "name": "Perfect Combi & Naana",
+        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 181063,
+      "name": "Perfect Combi",
+      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
         "name": "Very Soon",
         "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
       },
@@ -799,22 +835,6 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
-        "name": "Atele",
-        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 166885,
-      "name": "Atele",
-      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
         "name": "4x4 (feat.Tyler ICU)",
         "url": "https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 203893,
       "name": "4x4 (feat.Tyler ICU)",
       "url": "https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
-        "name": "Perfect Combi & Naana",
-        "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 181063,
-      "name": "Perfect Combi",
-      "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
     },
     {
       "added_at": "2024-12-16 09:32:40",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        }
-      ],
-      "duration_ms": 180486,
-      "name": "Aseda",
-      "url": "https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
+        "name": "Makoma",
+        "url": "https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Makoma",
+      "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 136842,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
-        "name": "Kilos Milos",
-        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Kilos Milos",
-      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
     },
     {
       "added_at": "2024-12-16 09:32:40",
@@ -1035,6 +1019,58 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
+        "name": "Kilos Milos",
+        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Kilos Milos",
+      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "duration_ms": 180486,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
         "name": "LOVE AND CHAOS",
         "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
       },
@@ -1047,22 +1083,6 @@
       "duration_ms": 176000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
-        "name": "Makoma",
-        "url": "https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Makoma",
-      "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
     },
     {
       "added_at": "2024-12-16 09:32:40",
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
         "name": "Till We Die (feat. Ruger)",
         "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 183289,
       "name": "Till We Die (feat. Ruger)",
       "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
+        "name": "Keep It Sexy",
+        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 159819,
+      "name": "Keep It Sexy",
+      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
     },
     {
       "added_at": "2024-12-16 09:32:40",
@@ -1163,70 +1179,6 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
-        "name": "For the Popping (Apicki)",
-        "url": "https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "For the Popping (Apicki)",
-      "url": "https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
-        "name": "Keep It Sexy",
-        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 159819,
-      "name": "Keep It Sexy",
-      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
-        "name": "Zormizor (Asabone)",
-        "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Zormizor (Asabone)",
-      "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
         "name": "19 & Dangerous (Deluxe)",
         "url": "https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8"
       },
@@ -1247,22 +1199,66 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 146000,
-      "name": "ROAD RUNNERS (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
+      "duration_ms": 154455,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
+        "name": "Zormizor (Asabone)",
+        "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Zormizor (Asabone)",
+      "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
+        "name": "For the Popping (Apicki)",
+        "url": "https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "For the Popping (Apicki)",
+      "url": "https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
     },
     {
       "added_at": "2024-12-16 09:32:40",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
-        "name": "Otan",
-        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 196951,
-      "name": "Otan",
-      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
     },
     {
       "added_at": "2024-12-16 09:32:40",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Country Side (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
         "name": "JEJEREJE (with Ginton)",
         "url": "https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ"
       },
@@ -1407,22 +1427,6 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
       },
@@ -1459,26 +1463,6 @@
     {
       "added_at": "2024-12-16 09:32:40",
       "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Country Side (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
-    },
-    {
-      "added_at": "2024-12-16 09:32:40",
-      "album": {
         "name": "Outside / obaa sima",
         "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 168346,
       "name": "Fefe Ne Fe",
       "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
+    },
+    {
+      "added_at": "2024-12-16 09:32:40",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2024-12-16 09:32:40",

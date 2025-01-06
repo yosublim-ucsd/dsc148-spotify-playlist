@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica che ti fa stare così ༼ ༎ຶ ෴ ༎ຶ༽ lola young in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,856 likes - 91 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,855 likes - 91 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 12 | [VETRI ROTTI](https://open.spotify.com/track/3doSfUwo0BiL9nHaVO4lb8) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [VETRI ROTTI](https://open.spotify.com/album/5046TrLvlgrtcQL8BghWrh) | 2:14 |
 | 13 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 |
 | 14 | [Tutte Le Mie Colpe](https://open.spotify.com/track/3tXB96HIvqA5mYSZ2EpB3w) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [Shama, Salvati](https://open.spotify.com/album/5NnlqYncA6BOFHTVlu7KM1) | 3:13 |
-| 15 | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
+| 15 | [BITTER](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
 | 16 | [Sospiro](https://open.spotify.com/track/2WNYbH0ry1XSMqNs7ZCo2m) | [PIÑACOLADA](https://open.spotify.com/artist/4LfIb06g3s3uQkkz2QW84i), [micol](https://open.spotify.com/artist/14XfK2OCx8cd8XSYlRmgtB), [Tomato Strafford](https://open.spotify.com/artist/18nKF1ARKBRn99kSMhpoUT), [mezzocammello](https://open.spotify.com/artist/5sQgIRNEUGevhQzxZk6leD) | [Sospiro](https://open.spotify.com/album/0FFO6qAixjhXfoxg9GIJGj) | 2:18 |
 | 17 | [Alice](https://open.spotify.com/track/17MHwcCbt1LtDGjsWHVSNg) | [Silvia](https://open.spotify.com/artist/2cXIOrLJ2m1YNBhhU6ga27) | [Alice](https://open.spotify.com/album/7ksimrRDVyIsa5ygulR9Po) | 2:36 |
 | 18 | [BUIO \(feat\. Sally Cruz\)](https://open.spotify.com/track/2d1ok1lJagwTQB22k8R6Nq) | [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM), [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc) | [ERA](https://open.spotify.com/album/27nDdzr7C5sOAnB0iHr0Rc) | 2:43 |

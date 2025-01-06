@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 707440,
+  "num_followers": 707504,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/6bGjpzX1wMp0NYX3ZiPUnf"
-      },
-      "artists": [
-        {
-          "name": "Nicotine Dolls",
-          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
-        }
-      ],
-      "duration_ms": 228948,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/4DsxMZjoeXSI3dpQC0kCOj"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/6bGjpzX1wMp0NYX3ZiPUnf"
+      },
+      "artists": [
+        {
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+        }
+      ],
+      "duration_ms": 228948,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/4DsxMZjoeXSI3dpQC0kCOj"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
-      },
-      "artists": [
-        {
-          "name": "Tenacious D",
-          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
-        }
-      ],
-      "duration_ms": 109900,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Greatest Hits '93 - '03",
         "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
       },
@@ -623,26 +607,6 @@
       "duration_ms": 211693,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3mtukCAgd0mE260QcBfXAX"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "Black Haired Girl",
-        "url": "https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7"
-      },
-      "artists": [
-        {
-          "name": "Jesse Malin",
-          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
-        },
-        {
-          "name": "Billie Joe Armstrong",
-          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Black Haired Girl",
-      "url": "https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -683,6 +647,26 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "Black Haired Girl",
+        "url": "https://open.spotify.com/album/7qbPwATVYs5drh2TcURDt7"
+      },
+      "artists": [
+        {
+          "name": "Jesse Malin",
+          "url": "https://open.spotify.com/artist/6zKkaqMGGmaKLUSLTcsrls"
+        },
+        {
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Black Haired Girl",
+      "url": "https://open.spotify.com/track/2TwPYiJmam0lmuscobFGML"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "duration_ms": 109900,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "God's Gonna Cut You Down",
-        "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 160538,
-      "name": "God's Gonna Cut You Down",
-      "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/59GwovfBk0Kp2HJw1G7E5Q"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4zzvMG8KrsykYtvFEJ99Cl"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "God's Gonna Cut You Down",
+        "url": "https://open.spotify.com/album/1aGCsyMzwIyDgkfUwSwFcf"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 160538,
+      "name": "God's Gonna Cut You Down",
+      "url": "https://open.spotify.com/track/0FkcmHJOsWE80rlpzfT0Pq"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Pisces Iscariot (Remastered)",
-        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Landslide - Remastered",
-      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Pisces Iscariot (Remastered)",
+        "url": "https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Landslide - Remastered",
+      "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "What's Love Got To Do With It",
         "url": "https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Mississippi Queen/Slow Hand",
-        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
-      },
-      "artists": [
-        {
-          "name": "Joyous Wolf",
-          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "One Step Closer \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 146526,
       "name": "One Step Closer \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Mississippi Queen/Slow Hand",
+        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
+      },
+      "artists": [
+        {
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Comandante",
-        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 312262,
-      "name": "Voodoo Child",
-      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 184417,
       "name": "Hey Ya! - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Comandante",
+        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 312262,
+      "name": "Voodoo Child",
+      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 262967,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Ramble On",
         "url": "https://open.spotify.com/album/6wFpk4lFTAhrmfkvZxf6Gg"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 262293,
       "name": "Ramble On",
       "url": "https://open.spotify.com/track/0OQLMQBKeaFuA2PJRdMuik"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 262967,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
     }
   ],
   "unique_name": "Rock Covers",

@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-721 songs - 2 day 0 hr 44 min
+722 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Dark Wing](https://open.spotify.com/track/6pBqdX2uWt9fZOLZ5tnz6w) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [Dark Wing](https://open.spotify.com/album/52RrqDeEPeiA5JWrnLWIb8) | 3:37 | 2022-06-03 | 2025-01-01 |
 | [Darkness](https://open.spotify.com/track/1O2O3i80RzKsaW3xvCXIJ0) | [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z), [Torcha](https://open.spotify.com/artist/4T3lVWSpnJHDwHMubsVjAl) | [Darkness](https://open.spotify.com/album/7z863ZdG17dRULD4JCkyeE) | 3:05 | 2024-09-06 |  |
 | [Darkness Interim](https://open.spotify.com/track/0yFjx1pX9fDhREx0NZjoyL) | [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [Darkness Interim](https://open.spotify.com/album/4x0qmzoQosyWmx4GtnwWlq) | 3:12 | 2022-09-02 | 2023-07-12 |
-| [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 | 2023-08-18 |  |
+| [Day After Day](https://open.spotify.com/track/4yZAw6l61oja9LMyUIq3i1) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O) | [Day After Day](https://open.spotify.com/album/6qP0GN2lyL13XlxLusWNTO) | 3:42 | 2025-01-04 |  |
+| [Dead Meat](https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ), [tiedye ky](https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x) | [Dead Meat](https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ) | 2:45 | 2023-08-18 | 2025-01-06 |
 | [Death Row](https://open.spotify.com/track/7GLQdG2KbAA7VXPtkj9RTO) | [Madcore](https://open.spotify.com/artist/1271NVXrouqOPPxx8K5TUP), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [Death Row](https://open.spotify.com/album/7zSGRoJPUYKU4xxUCm3xr5) | 2:54 | 2023-02-17 | 2023-07-06 |
 | [Deep Fall](https://open.spotify.com/track/4tLbTzUXzzuz6EGU7wb3aU) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Al Controlled](https://open.spotify.com/album/3ejog3FXoAW8lOwIzHcr0V) | 3:08 | 2023-01-06 | 2023-02-27 |
 | [Deep Fall](https://open.spotify.com/track/5j7p02mLq0q7FWcePhzZeJ) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Al Controlled](https://open.spotify.com/album/61HwK93KgSfmCsbL1uqvDT) | 3:08 | 2023-02-17 | 2024-03-23 |

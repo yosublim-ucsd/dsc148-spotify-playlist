@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,152 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,155 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 3 | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [MMM MMM \(feat\. ATL Jacob\)](https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu) | 2:17 |
 | 4 | [Flush Em](https://open.spotify.com/track/3p7YpF8O3osTzx6i5ZxEI3) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 3:16 |
 | 5 | [K Toven](https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [K Toven](https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA) | 2:06 |
-| 6 | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc) | 3:10 |
-| 7 | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 |
+| 6 | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [You Wish \(with Missy Elliott & Kaliii\) – Remix](https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK) | 2:37 |
+| 7 | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc) | 3:10 |
 | 8 | [Hot Girl Maybach](https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Hot Girl Maybach](https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC) | 2:20 |
 | 9 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
 | 10 | [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 49 | [Spend Dat](https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:18 |
 | 50 | [Run It Up](https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:18 |
 
-Snapshot ID: `Z3cogAAAAADyMap72bdFQY6cXO0yMV8G`
+Snapshot ID: `Z3h6AAAAAABwXsbVYksO9+jes5C242H2`

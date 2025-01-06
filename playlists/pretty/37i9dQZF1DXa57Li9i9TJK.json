@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Con Camila Fern\u00e1ndez en portada ",
-  "num_followers": 19609,
+  "num_followers": 19627,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,26 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -215,6 +235,22 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
         "name": "\u00bfQui\u00e9n?",
         "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
       },
@@ -231,18 +267,22 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+      "duration_ms": 209492,
+      "name": "POR QU\u00c9 SER\u00c1",
+      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -279,42 +319,18 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
+        "name": "Sue\u00f1o Y Realidad",
+        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
         }
       ],
-      "duration_ms": 224920,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 209492,
-      "name": "POR QU\u00c9 SER\u00c1",
-      "url": "https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO"
+      "duration_ms": 177040,
+      "name": "Piensa En M\u00ed",
+      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -331,22 +347,6 @@
       "duration_ms": 202453,
       "name": "Yo Todo Lo Doy",
       "url": "https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
-        "name": "Sue\u00f1o Y Realidad",
-        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 177040,
-      "name": "Piensa En M\u00ed",
-      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Historia sin fin",
-        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Historia sin fin",
-      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Secreto De Amor",
         "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 273008,
       "name": "Secreto De Amor",
       "url": "https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Historia sin fin",
+      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Nunca Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Nunca Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Qu\u00e9 Agon\u00eda",
         "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 156946,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 179533,
       "name": "Yo Sin Tu Amor",
       "url": "https://open.spotify.com/track/3zuiOe6mJQ2fNe67FyqcrT"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156946,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "7x7",
-      "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 136182,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
+      "duration_ms": 165957,
+      "name": "7x7",
+      "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1255,6 +1239,22 @@
       "duration_ms": 184864,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 136182,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Mi Eterno Amor Secreto",
-        "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 232321,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Ya acab\u00f3 (Con Becky G)",
         "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 176458,
       "name": "Ya acab\u00f3 - Con Becky G",
       "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Mi Eterno Amor Secreto",
+        "url": "https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 232321,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "LA MALA",
-        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 144602,
-      "name": "LA MALA",
-      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Encuentro Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 223466,
       "name": "En realidad",
       "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "LA MALA",
+        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 144602,
+      "name": "LA MALA",
+      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "16 Reales hits",
-        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
+        "name": "Pasa Tips",
+        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
       },
       "artists": [
         {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 167120,
-      "name": "Le\u00f1a de pirul",
-      "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
+      "duration_ms": 167250,
+      "name": "Pasa Tips",
+      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Pasa Tips",
-        "url": "https://open.spotify.com/album/5P43UV8CfStgrgvkgeou6y"
+        "name": "16 Reales hits",
+        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 167250,
-      "name": "Pasa Tips",
-      "url": "https://open.spotify.com/track/1GwBfU9CDCiuJh8P5Ocgxx"
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Coketa",
-        "url": "https://open.spotify.com/album/4AclNlBnOpdUSmHwnZnggt"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Coketa",
-      "url": "https://open.spotify.com/track/2BqyIc9IIWS7Mrwfl2taOv"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "No Es Cierto",
         "url": "https://open.spotify.com/album/2w4KFlhTGrlXzj7GE0wvh0"
       },
@@ -1739,6 +1723,38 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
+        "name": "Antes Muertas Que Sencillas",
+        "url": "https://open.spotify.com/album/0afOzI8hKSRU3QV0cdf0NO"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 170960,
+      "name": "Antes Muerta Que Sencilla",
+      "url": "https://open.spotify.com/track/7tKDsV1gA7iVJHep2KZKOj"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Coketa",
+        "url": "https://open.spotify.com/album/4AclNlBnOpdUSmHwnZnggt"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Coketa",
+      "url": "https://open.spotify.com/track/2BqyIc9IIWS7Mrwfl2taOv"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
         "name": "Zona De Amigos",
         "url": "https://open.spotify.com/album/7gAhjACosQbflBrOG1pHOD"
       },
@@ -1751,26 +1767,6 @@
       "duration_ms": 174813,
       "name": "Zona De Amigos",
       "url": "https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
-        "name": "Tu Maniqu\u00ed",
-        "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 154834,
-      "name": "Tu Maniqu\u00ed",
-      "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
     }
   ],
   "unique_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",

@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Pari Pandher
 
-167 songs - 8 hr 38 min
+168 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 | 2023-11-17 |  |
 | [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 | 2023-03-18 | 2024-12-23 |
 | [Defaulter](https://open.spotify.com/track/260lfDzVnZHXmIXIvKUNVz) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Defaulter](https://open.spotify.com/album/4iGipyYHimj6ZMsAzkhQDQ) | 3:21 | 2023-03-18 | 2024-10-04 |
-| [Dhill](https://open.spotify.com/track/0r2wxY718iQRndDklGbt21) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Dhill](https://open.spotify.com/album/1MDXzIwFBqaNm3VsW7kQ0Q) | 2:57 | 2024-10-03 |  |
+| [Dhill](https://open.spotify.com/track/0r2wxY718iQRndDklGbt21) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Dhill](https://open.spotify.com/album/1MDXzIwFBqaNm3VsW7kQ0Q) | 2:57 | 2024-10-03 | 2025-01-06 |
 | [Dhola](https://open.spotify.com/track/0ozR2yQS7gY27fywJkaOb1) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Dhola](https://open.spotify.com/album/7EHkKYRXhXNiKDGU07Z7Xv) | 3:15 | 2024-10-01 |  |
 | [Dil Te](https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Dil Te](https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco) | 2:51 | 2023-03-18 | 2024-08-28 |
 | [Dil Tutteya](https://open.spotify.com/track/48IF4LGpBuSitHqaiPua95) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Dil Tutteya](https://open.spotify.com/album/0VT9ERykGHCBKSn2eqbFAg) | 3:47 | 2023-03-18 | 2023-11-22 |
@@ -99,6 +99,7 @@
 | [Life](https://open.spotify.com/track/2W1iYW6m4hW9EOApubE9Tf) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Life](https://open.spotify.com/album/6ezeADqN6YlvTaG5w5Cmv5) | 3:18 | 2023-03-18 | 2024-09-04 |
 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-30 | 2024-10-04 |
 | [Limitless Pyar \- Live](https://open.spotify.com/track/1EIRP3SLryo1HoDhdHUsnn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [KAURA \(Live\)](https://open.spotify.com/album/3UkkmmklJZzgDr4tRcMQhP) | 3:42 | 2024-10-21 | 2024-11-07 |
+| [Lost in You](https://open.spotify.com/track/6b4f1fyQRgfi3sck7vMkVB) | [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v) | [Lost in You](https://open.spotify.com/album/1grvHU03zKWUMHhyt4IdwT) | 2:03 | 2025-01-05 |  |
 | [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/track/0MLIDC4d0g3s4u26mgggKB) | [Suchita](https://open.spotify.com/artist/0YpMBPKadGsRHptQU2kh9V), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV), [Sam Narula](https://open.spotify.com/artist/4jXfmkek5ImVxeZAKs74F2) | [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/album/4Gqdj7ldijmnfPXzkzTaUt) | 2:38 | 2024-11-22 | 2024-12-05 |
 | [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-24 | 2024-05-10 |
 | [Main Tenu](https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Main Tenu](https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko) | 2:31 | 2023-10-03 | 2024-10-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa Pihlaja.",
-  "num_followers": 24308,
+  "num_followers": 24309,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "2 hands",
+        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+      "duration_ms": 181820,
+      "name": "2 hands",
+      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "2 hands",
-        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 181820,
-      "name": "2 hands",
-      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "number one girl",
-        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "Still Into You",
         "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 154126,
       "name": "Sympathy is a knife featuring ariana grande",
       "url": "https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "last night's mascara",
-        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 177350,
-      "name": "last night's mascara",
-      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "Days On End",
         "url": "https://open.spotify.com/album/3fsJkD4GuO8IAQBzxMr0cV"
       },
@@ -1155,38 +1139,6 @@
       "duration_ms": 208476,
       "name": "Days On End",
       "url": "https://open.spotify.com/track/0jCeblxsZemjNoHAvYD5iU"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
-        "name": "1432",
-        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 158936,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1207,18 +1159,34 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+        "name": "last night's mascara",
+        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
+      "duration_ms": 177350,
+      "name": "last night's mascara",
+      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 158936,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1235,6 +1203,38 @@
       "duration_ms": 195859,
       "name": "DELUSIONAL",
       "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "added_at": "2025-01-02 22:01:09",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-01-02 22:01:09",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 167507,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/4MH3D8angFt2z5B8yO3xnG"
-    },
-    {
-      "added_at": "2025-01-02 22:01:09",
-      "album": {
         "name": "Mr Lover",
         "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 136266,
       "name": "Mr Lover",
       "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
+    },
+    {
+      "added_at": "2025-01-02 22:01:09",
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/4MH3D8angFt2z5B8yO3xnG"
     },
     {
       "added_at": "2025-01-02 22:01:09",

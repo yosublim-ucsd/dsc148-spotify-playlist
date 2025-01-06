@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,530 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,560 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 24 | [ロマンティックあげるよ \(21st century ver.\) \(ドラゴンボール\)](https://open.spotify.com/track/7mLJwAZidHg2NCZekzBb5k) | [橋本潮](https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q) | [イナズマchallenger](https://open.spotify.com/album/0hpMu2hY2AgNAdSAiTLJxk) | 3:59 |
 | 25 | [摩訶不思議アドベンチャー! \(2005 Ver.\)](https://open.spotify.com/track/0lxh7xJI8smaLySC8dhfcY) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [摩訶不思議アドベンチャー! \(2005ver.\)](https://open.spotify.com/album/3TAO77XY0Aq5OKf0rixkLG) | 3:53 |
 | 26 | [ペガサス幻想 \(21st century ver.\)](https://open.spotify.com/track/61XLSs4TKj8Ac0LFWz0j0L) | [Make\-Up](https://open.spotify.com/artist/0zCouXT81OzO9waNn1PjAh) | [The Voice From Yesterday](https://open.spotify.com/album/1upxJvZfXW9MotDke2YARu) | 3:37 |
-| 27 | [はじめてのチュウ](https://open.spotify.com/track/5B18jtARfah9NG5CwfUXDL) | [あんしんパパ](https://open.spotify.com/artist/2TREGA3AQEMeHdG7q8cCXf) | [藤子・F・不二雄 生誕90周年 藤子・F・不二雄 TV MUSIC HISTORY II \-藤子・F・不二雄作品集2\-](https://open.spotify.com/album/1DUfMzTPxkCXgXVyXGOSTc) | 4:25 |
-| 28 | [うしろゆびさされ組](https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | [∞](https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN) | 4:23 |
-| 29 | [少年期](https://open.spotify.com/track/1ReCdmB1c7TCxTcaxYK8Z7) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:11 |
+| 27 | [少年期](https://open.spotify.com/track/1ReCdmB1c7TCxTcaxYK8Z7) | [Tetsuya Takeda](https://open.spotify.com/artist/69XPjjmtVFyntrir7ZHfnk) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:11 |
+| 28 | [はじめてのチュウ](https://open.spotify.com/track/5B18jtARfah9NG5CwfUXDL) | [あんしんパパ](https://open.spotify.com/artist/2TREGA3AQEMeHdG7q8cCXf) | [藤子・F・不二雄 生誕90周年 藤子・F・不二雄 TV MUSIC HISTORY II \-藤子・F・不二雄作品集2\-](https://open.spotify.com/album/1DUfMzTPxkCXgXVyXGOSTc) | 4:25 |
+| 29 | [うしろゆびさされ組](https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW) | [Ushiroyubi Sasaregumi](https://open.spotify.com/artist/41Sy2SaLzGisGM4k2SOH1l) | [∞](https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN) | 4:23 |
 | 30 | [Super Girl](https://open.spotify.com/track/5yMu18uQFNtEimQiPoUaSc) | [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL) | [DATE](https://open.spotify.com/album/5ltGSWQwkdLmeLko4znnWG) | 4:47 |
 | 31 | [ドラえもんのうた](https://open.spotify.com/track/2KOlWlyl0iZ4aFcvUQOsPN) | [大杉久美子](https://open.spotify.com/artist/4m9E6QuKZkgXk6TTeuB4gd), [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:57 |
 | 32 | [陽だまり](https://open.spotify.com/track/78xp4c2NQbOM2ox1JU6aTQ) | [Kozo Murashita](https://open.spotify.com/artist/1LfONXXt0ekrr4FoA93CPz) | [七夕夜想曲〜村下孝蔵最高選曲集　其の壱](https://open.spotify.com/album/0mSArU5DtMhrICuIxA5TAW) | 4:01 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 44 | [愛・おぼえていますか](https://open.spotify.com/track/2uTwJLK1BaFVbEX5qX9D1W) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [「映画 超時空要塞マクロス」 愛・おぼえていますか ＜音楽篇＞](https://open.spotify.com/album/4M8FC84kiEbXl7W49WxspP) | 5:09 |
 | 45 | [ゴーゴーヘブン](https://open.spotify.com/track/2PKirbdnc1XrAo3zDETpUP) | [Yoshiyuki Osawa](https://open.spotify.com/artist/6q2ER3oBZtM5EvmDoUz8ek) | [The LEGEND](https://open.spotify.com/album/1FYghKHKG1FGS6Mco7D0LL) | 3:59 |
 | 46 | [キン肉マン Go Fight! \(キン肉マン\)](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈！アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 |
-| 47 | [コン・バトラ－Vのテーマ \(超電磁ロボ コン・バトラーV\)](https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [スーパーロボット大戦 ボーカルコレクション ROBONATION.1](https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz) | 2:55 |
-| 48 | [炎のさだめ](https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x) | [TETSU](https://open.spotify.com/artist/5wzkp9gTXh1630T8JTTxfV) | [装甲騎兵ボトムズ TV版 オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/353tlzrqPB83dc5xyV30es) | 3:20 |
+| 47 | [炎のさだめ](https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x) | [TETSU](https://open.spotify.com/artist/5wzkp9gTXh1630T8JTTxfV) | [装甲騎兵ボトムズ TV版 オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/353tlzrqPB83dc5xyV30es) | 3:20 |
+| 48 | [コン・バトラ－Vのテーマ \(超電磁ロボ コン・バトラーV\)](https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [スーパーロボット大戦 ボーカルコレクション ROBONATION.1](https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz) | 2:55 |
 | 49 | [デリケートに好きして \(21st century ver.\) \(魔法の天使クリィミーマミ\)](https://open.spotify.com/track/6iP39aqgnGFb621ZpvD8IZ) | [太田貴子](https://open.spotify.com/artist/36OGxNSKeYNF8epyYkiF4T) | [デリケートに好きして\(21st Century ver.\)](https://open.spotify.com/album/0Ywrek3xm2gid0NfYnltsm) | 3:58 |
 | 50 | [夢色チェイサー\(Single Version\)](https://open.spotify.com/track/3OcGWymNkOoeRVbs3aUL6a) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [MELTING POINT](https://open.spotify.com/album/0d582RFpgLNzWqokg4JCOv) | 3:33 |
 

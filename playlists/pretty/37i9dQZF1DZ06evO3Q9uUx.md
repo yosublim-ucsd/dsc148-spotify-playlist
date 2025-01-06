@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,106 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,112 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 7 | [Miami \(feat\. BIA\)](https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 4:03 |
 | 8 | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH) | 2:08 |
 | 9 | [Suéltate \(From Sing 2\) \(with Sam i & Jarina De Marco feat\. Anitta, BIA\)](https://open.spotify.com/track/5GFcYCn3ciDSFTRYOi4oVY) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Suéltate \(From Sing 2\)](https://open.spotify.com/album/1XVamMw0XzgCe7SStQTlai) | 3:30 |
-| 10 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 |
-| 11 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
+| 10 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
+| 11 | [PISSED OFF](https://open.spotify.com/track/3JM5u17oBXiwif2EG9pKXv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [PISSED OFF](https://open.spotify.com/album/1EOlxTFy3bmyFZGfiYz45e) | 2:41 |
 | 12 | [Mami \(feat\. BIA\)](https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:58 |
 | 13 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
 | 14 | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [AUTOMATIC \(feat\. Doe Boy & 42 Dugg\)](https://open.spotify.com/track/0PDno6z7Wn9gPYLn75QEMZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:09 |
 | 50 | [One Minute Warning](https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [One Minute Warning](https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR) | 1:01 |
 
-Snapshot ID: `Z3cogAAAAAAico6Smt5zRGcwtjcQxP1K`
+Snapshot ID: `Z3h6AAAAAACthhd2XQtpCwAprh7E9jDl`

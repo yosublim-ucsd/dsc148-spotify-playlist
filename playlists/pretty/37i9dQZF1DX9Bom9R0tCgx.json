@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 400324,
+  "num_followers": 400384,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -591,30 +591,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Like A G6 (with Naeleck)",
-        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        }
-      ],
-      "duration_ms": 148751,
-      "name": "Like A G6 (with Naeleck)",
-      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 191200,
       "name": "Tell Me Why - Maddix Remix",
       "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Like A G6 (with Naeleck)",
+        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "duration_ms": 148751,
+      "name": "Like A G6 (with Naeleck)",
+      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "My Mama Dropped LSD in the 90's",
         "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 176817,
       "name": "My Mama Dropped LSD in the 90's",
       "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Stumblin' In (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Stumblin' In (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Jerk It Out",
+        "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/1H1GJEjVgFwKc9BdxtLLKy"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 123669,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Jerk It Out",
-        "url": "https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY"
-      },
-      "artists": [
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Bel Mercy (Techno)",
-        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
-      },
-      "artists": [
-        {
-          "name": "Paayne",
-          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Bel Mercy - Techno",
-      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Convivium",
         "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 133200,
       "name": "Convivium",
       "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Bel Mercy (Techno)",
+        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
+      },
+      "artists": [
+        {
+          "name": "Paayne",
+          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Bel Mercy - Techno",
+      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "watch your tone",
+        "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
+      },
+      "artists": [
+        {
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "watch your tone",
+      "url": "https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Hey Ya",
         "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 134749,
       "name": "Hey Ya",
       "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "watch your tone",
-        "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
-      },
-      "artists": [
-        {
-          "name": "joki",
-          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "watch your tone",
-      "url": "https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "My Beat Goes",
+        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "My Beat Goes",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Dance All Night",
         "url": "https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "My Beat Goes",
-        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "My Beat Goes",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI"
       },
@@ -1607,6 +1607,26 @@
       "duration_ms": 156328,
       "name": "No Time",
       "url": "https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1643,26 +1663,6 @@
       "duration_ms": 159483,
       "name": "Explode",
       "url": "https://open.spotify.com/track/04ErJiS734u76JgX5JQayC"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "KAJAK",
-          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5n4x0b0lhEqDA7BFFCrZI2"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 137250,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3z9DRLo5VolGPWO27Lapx5"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Anyplace Anywhere Anytime",
-        "url": "https://open.spotify.com/album/72Qo17coNcjPEz4wRPecyV"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 170535,
-      "name": "Anyplace Anywhere Anytime",
-      "url": "https://open.spotify.com/track/6Je0JUhGDrSRECb8s4Aqve"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 179555,
       "name": "Move",
       "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Anyplace Anywhere Anytime",
+        "url": "https://open.spotify.com/album/72Qo17coNcjPEz4wRPecyV"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 170535,
+      "name": "Anyplace Anywhere Anytime",
+      "url": "https://open.spotify.com/track/6Je0JUhGDrSRECb8s4Aqve"
     },
     {
       "added_at": "2024-12-12 23:00:06",

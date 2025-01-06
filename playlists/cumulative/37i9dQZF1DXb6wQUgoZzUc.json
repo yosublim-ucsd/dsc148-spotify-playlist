@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 223366,
       "name": "Entre Comillas",
       "url": "https://open.spotify.com/track/3DZbD0uamk2l6pm9p9hyWP"
@@ -4332,6 +4332,32 @@
       "duration_ms": 224972,
       "name": "Intro Telefono 1 - Remix",
       "url": "https://open.spotify.com/track/7uSvtldc5qiqcjmpeEk0gB"
+    },
+    {
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/61gt12xt4MhfXFnNmRJBQz"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Gold Music",
+          "url": "https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128465,
+      "name": "Invicto",
+      "url": "https://open.spotify.com/track/0TqJnlDKmYdGS5gYalMuDj"
     },
     {
       "album": {
@@ -7625,6 +7651,28 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "PERFuMITO NUEVO",
+      "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
+    },
+    {
+      "album": {
         "name": "Perreito (Remix)",
         "url": "https://open.spotify.com/album/3JqLCPTj2fKbbrB9E0hSFZ"
       },
@@ -8036,7 +8084,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 201596,
       "name": "Poblado",
       "url": "https://open.spotify.com/track/47gSYfwFBbV1BXHfXEq1qs"
@@ -10918,7 +10966,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 165582,
       "name": "UN PREVIEW",
       "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
@@ -11338,6 +11386,24 @@
       "duration_ms": 206639,
       "name": "Volar",
       "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156364,
+      "name": "VOY A LLeVARTE PA PR",
+      "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
     },
     {
       "album": {

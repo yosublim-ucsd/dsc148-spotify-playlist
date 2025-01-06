@@ -1,6 +1,6 @@
 {
   "description": "easy and breezy",
-  "num_followers": 168291,
+  "num_followers": 168279,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
@@ -167,30 +167,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "LAST CALL",
-          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
-        },
-        {
-          "name": "Horxata",
-          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Hold Me Tight",
         "url": "https://open.spotify.com/album/40k7bDPnaMfxP2FLqrd039"
       },
@@ -239,6 +215,26 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
+        "name": "Sandcastles",
+        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Sandcastles",
+      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
         "name": "As It Was (Chill Edit)",
         "url": "https://open.spotify.com/album/4xxolV9UD43C5JcWhEAbOT"
       },
@@ -259,22 +255,26 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Sandcastles",
-        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd"
       },
       "artists": [
         {
-          "name": "Nate VanDeusen",
-          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        },
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Sandcastles",
-      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
+      "duration_ms": 152000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "I Can See",
-      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Trampolines",
         "url": "https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 242500,
       "name": "The Sun Will Come Again",
       "url": "https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -675,30 +675,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-        },
-        {
-          "name": "Alon",
-          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
-        }
-      ],
-      "duration_ms": 148522,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/4KV4UQydIms28mOGsIHWDj"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 186984,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        },
+        {
+          "name": "Alon",
+          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
+        }
+      ],
+      "duration_ms": 148522,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "Safe and Sound",
-        "url": "https://open.spotify.com/album/0W8pgf0TWJ60iL3SKfL2Iq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 214434,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/5J9V8D72Oj6Mp8aHUhMFqq"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Jazz Trumpet",
         "url": "https://open.spotify.com/album/5j5KW1mpcGUXsjWjm7Gszb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 120782,
       "name": "Jazz Trumpet",
       "url": "https://open.spotify.com/track/07pOBQWh8PgFR5TC0KMgBq"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "Safe and Sound",
+        "url": "https://open.spotify.com/album/0W8pgf0TWJ60iL3SKfL2Iq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 214434,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/5J9V8D72Oj6Mp8aHUhMFqq"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -891,6 +891,30 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/2WFPwXK9f3JKD2BMoM3CKY"
+      },
+      "artists": [
+        {
+          "name": "Da\u00eftshi",
+          "url": "https://open.spotify.com/artist/6dYujIzzHgSWODbmPYoJVC"
+        },
+        {
+          "name": "Teva",
+          "url": "https://open.spotify.com/artist/5WTpFFRY0beVL2B70gAzYS"
+        },
+        {
+          "name": "Tim d'Aboville",
+          "url": "https://open.spotify.com/artist/0zuBsRJaNfrNuUuF6oSdXn"
+        }
+      ],
+      "duration_ms": 170086,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/1Pd5wADGQFTDKZsSpuMlVS"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
         "name": "Nomads",
         "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 122000,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/2WFPwXK9f3JKD2BMoM3CKY"
-      },
-      "artists": [
-        {
-          "name": "Da\u00eftshi",
-          "url": "https://open.spotify.com/artist/6dYujIzzHgSWODbmPYoJVC"
-        },
-        {
-          "name": "Teva",
-          "url": "https://open.spotify.com/artist/5WTpFFRY0beVL2B70gAzYS"
-        },
-        {
-          "name": "Tim d'Aboville",
-          "url": "https://open.spotify.com/artist/0zuBsRJaNfrNuUuF6oSdXn"
-        }
-      ],
-      "duration_ms": 170086,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/1Pd5wADGQFTDKZsSpuMlVS"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu"
-      },
-      "artists": [
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/2h0Dp9MCVUU0Vp8wyHAMt8"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 142909,
       "name": "Together",
       "url": "https://open.spotify.com/track/50FC8Y5QFcRA8VtI2qiGDV"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu"
+      },
+      "artists": [
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j"
     },
     {
       "added_at": "2024-12-12 23:00:54",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-12-12 23:00:54",
       "album": {
+        "name": "Iawah",
+        "url": "https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt"
+      },
+      "artists": [
+        {
+          "name": "SIQUE",
+          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
+        }
+      ],
+      "duration_ms": 141954,
+      "name": "Iawah",
+      "url": "https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS"
+    },
+    {
+      "added_at": "2024-12-12 23:00:54",
+      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 207457,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/3WzOeH9J5yHXDMX3urdLCJ"
-    },
-    {
-      "added_at": "2024-12-12 23:00:54",
-      "album": {
-        "name": "Iawah",
-        "url": "https://open.spotify.com/album/3xGdWWsFebqULLTKXBvlqt"
-      },
-      "artists": [
-        {
-          "name": "SIQUE",
-          "url": "https://open.spotify.com/artist/5kI4yBIQJPlI00krjJ98NB"
-        }
-      ],
-      "duration_ms": 141954,
-      "name": "Iawah",
-      "url": "https://open.spotify.com/track/17VWtILiXRAg9hr4XE32ZS"
     },
     {
       "added_at": "2024-12-12 23:00:54",

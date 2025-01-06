@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,389 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,425 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 3 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
 | 4 | [noor](https://open.spotify.com/track/0cZPLO12oRuVQUGQqgkCPn) | [Dev Raiyani](https://open.spotify.com/artist/6qrB13mmk7jADWqdYUXvRB), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [noor](https://open.spotify.com/album/38RR075DZB1HF4B7sqN2fP) | 2:38 |
 | 5 | [Aaj Bhi](https://open.spotify.com/track/2w9KJ4hHUJZq2kqcQt5CPb) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU), [Sanjay\-Aditya](https://open.spotify.com/artist/6mwBx00BmtwLeHQeDMXOj1), [Abhishek T](https://open.spotify.com/artist/17UDlf4LCPZdWnS6QPZRvf) | [Aaj Bhi](https://open.spotify.com/album/1y9DiLSl3NACA8ttjc16oR) | 3:33 |
-| 6 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
-| 7 | [Kinaare](https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Kinaare](https://open.spotify.com/album/1atSYZFpKekl0u4JlEuzRC) | 2:41 |
-| 8 | [Shikwe Gile \- Live](https://open.spotify.com/track/1iJz2tL0JkK7Q2HjJKUzli) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shikwe Gile \(Live\)](https://open.spotify.com/album/0q1R5J48FwvvLT2HW3RW0a) | 2:32 |
-| 9 | [Khabar](https://open.spotify.com/track/08M1HqLsOYeWetO7WYNrIf) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Khabar](https://open.spotify.com/album/37fNvMhuiO1O2F4EdCCKqq) | 3:33 |
-| 10 | [Tu Mera Nahin](https://open.spotify.com/track/1ZDkLqm9XBEzFqd42UZcSc) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Ises](https://open.spotify.com/artist/7AJZUJGavrMJCJtXcf5ChC) | [Tu Mera Nahin](https://open.spotify.com/album/0SynqkoxEsW3wtCv5OUWOP) | 3:25 |
-| 11 | [Miley Ho Jabse Tum](https://open.spotify.com/track/5ntKA7jOftFX3P4DMsMSmM) | [Mohit Pathak](https://open.spotify.com/artist/7JAb5WcSjSHwqFR1Pstmuz) | [Miley Ho Jabse Tum](https://open.spotify.com/album/6x4hATQjmDmL77YB03Xkdq) | 3:33 |
-| 12 | [Akele Hum](https://open.spotify.com/track/192CtcgIfCN3iDiqlbAji3) | [SiiD Sehwag](https://open.spotify.com/artist/4t5vmmffsJQtcMDGx84Ryb), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Akele Hum](https://open.spotify.com/album/2t4xuDh2rTPnePIlMeXfo2) | 2:32 |
-| 13 | [Ja Ve Ja](https://open.spotify.com/track/1ElzcbjqvQVfMeFM7t4kfS) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Ja Ve Ja](https://open.spotify.com/album/3zN6lfX3PbBlasITyYCXpi) | 2:23 |
+| 6 | [Tu Mera](https://open.spotify.com/track/28NU6UqoWWOUdR71Hh8jQQ) | [Adhyay](https://open.spotify.com/artist/6hFCrGWF14mnyOZMVU43kK) | [Tu Mera](https://open.spotify.com/album/1xbAC0d42PUiSipmSmqVUx) | 3:19 |
+| 7 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
+| 8 | [Adhoora](https://open.spotify.com/track/5rwva1AuukXKbL3EYbewmb) | [Rudhraa Boi](https://open.spotify.com/artist/2IsbOR37f9yz5cAU1ZF3pd) | [Adhoora](https://open.spotify.com/album/2k6l6yckXzxowISogE9UEB) | 2:58 |
+| 9 | [Kinaare](https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Kinaare](https://open.spotify.com/album/1atSYZFpKekl0u4JlEuzRC) | 2:41 |
+| 10 | [Shikwe Gile \- Live](https://open.spotify.com/track/1iJz2tL0JkK7Q2HjJKUzli) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shikwe Gile \(Live\)](https://open.spotify.com/album/0q1R5J48FwvvLT2HW3RW0a) | 2:32 |
+| 11 | [Tu Mera Nahin](https://open.spotify.com/track/1ZDkLqm9XBEzFqd42UZcSc) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Ises](https://open.spotify.com/artist/7AJZUJGavrMJCJtXcf5ChC) | [Tu Mera Nahin](https://open.spotify.com/album/0SynqkoxEsW3wtCv5OUWOP) | 3:25 |
+| 12 | [Miley Ho Jabse Tum](https://open.spotify.com/track/5ntKA7jOftFX3P4DMsMSmM) | [Mohit Pathak](https://open.spotify.com/artist/7JAb5WcSjSHwqFR1Pstmuz) | [Miley Ho Jabse Tum](https://open.spotify.com/album/6x4hATQjmDmL77YB03Xkdq) | 3:33 |
+| 13 | [Akele Hum](https://open.spotify.com/track/192CtcgIfCN3iDiqlbAji3) | [SiiD Sehwag](https://open.spotify.com/artist/4t5vmmffsJQtcMDGx84Ryb), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Akele Hum](https://open.spotify.com/album/2t4xuDh2rTPnePIlMeXfo2) | 2:32 |
 | 14 | [Do Kadam](https://open.spotify.com/track/5CS1fDgk3HzMcOVXReT0mx) | [Mohit dogra](https://open.spotify.com/artist/0YhaFoYZeuu2Bnuf2EnjVH) | [Do Kadam](https://open.spotify.com/album/330MWDrYiPvDAkjagR7bzD) | 2:54 |
 | 15 | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/track/70oyK852uX6zmyCfu3bdIj) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/album/6u7VqWwhENXdzqg0cue6Rp) | 2:29 |
 | 16 | [Suljhey](https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Suljhey](https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Ishq Ho Jaane Do](https://open.spotify.com/track/4oDOTGCw3zyhoOjUK0V9q5) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Ishq Ho Jaane Do](https://open.spotify.com/album/6BjedZFO41pDpGSVou0T3w) | 3:11 |
 | 75 | [nadaaniyan \(with Jonita Gandhi\)](https://open.spotify.com/track/3bCtOEC3jLaxwpfQMb5f68) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [nadaaniyan \(with Jonita Gandhi\)](https://open.spotify.com/album/7CzvCp9WP896ZTH2JZpbLD) | 2:51 |
 
-Snapshot ID: `Z3dhqgAAAABiWLup7u3/dE3uvUZWPMgk`
+Snapshot ID: `Z3pwWQAAAAA2dlv/XAUg0zUsXbXKSjA4`

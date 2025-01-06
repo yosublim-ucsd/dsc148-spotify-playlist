@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,894 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,900 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 32 | [Georgia on My Mind](https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Rhymes and Reasons](https://open.spotify.com/album/6Jj2Qzi6a9x8FPWNe10x8I) | 3:20 |
 | 33 | [Spring Again](https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 4:26 |
 | 34 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 |
-| 35 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 |
-| 36 | [Ain't That Loving You \(For More Reasons Than One\)](https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:38 |
-| 37 | [From Now On](https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:54 |
+| 35 | [Ain't That Loving You \(For More Reasons Than One\)](https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:38 |
+| 36 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 |
+| 37 | [Time](https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 2:53 |
 | 38 | [Early Morning Love](https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 5:39 |
 | 39 | [Willow Weep For Me](https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 5:57 |
 | 40 | [Let's Burn Down The Cornfield \- 2006 Remaster](https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Best Of Lou Rawls \- The Capitol Jazz & Blues Sessions](https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp) | 3:03 |
-| 41 | [Time](https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 2:53 |
+| 41 | [From Now On](https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:54 |
 | 42 | [I'd Rather Drink Muddy Water \- 2006 Remaster](https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Black And Blue](https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS) | 3:35 |
-| 43 | [You've Made Me So Very Happy \- 2000 Digital Remaster](https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 4:27 |
-| 44 | [All The Way](https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 2:43 |
+| 43 | [All The Way](https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 2:43 |
+| 44 | [You've Made Me So Very Happy \- 2000 Digital Remaster](https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 4:27 |
 | 45 | [For What It's Worth](https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:56 |
 | 46 | [Be Anything \(But Be Mine\)](https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Shades of Blue](https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN) | 3:43 |
 | 47 | [Wind Beneath My Wings \- Single Version](https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Lou Rawls \- The Very Best Of](https://open.spotify.com/album/0fHzoR2PfTW5FhpVBcNJVN) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 49 | [They Can't Take That Away from Me](https://open.spotify.com/track/5wxU0hgoQovDevPToz0Urd) | [Les Brown & His Band Of Renown](https://open.spotify.com/artist/4Xg35Eo56SHMw5oWbCmw9O), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Session \#55 \(1936\-2001\)](https://open.spotify.com/album/4fwPNbWSGj9VgPlPNufj65) | 2:45 |
 | 50 | [Evil Woman](https://open.spotify.com/track/7j4uxZq7o8QtoYzrTlYNtZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [I Can't Make It Alone: The Axelrod Years](https://open.spotify.com/album/1Kx9ACe5cRS0qlwUDp15MU) | 2:36 |
 
-Snapshot ID: `Z3cogAAAAAAn5+TOSgpaT6OSw2ivAbVq`
+Snapshot ID: `Z3h6AAAAAACYipYfrQHq45CJ08dAwb6v`

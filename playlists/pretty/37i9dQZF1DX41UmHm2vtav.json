@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 476230,
+  "num_followers": 476346,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -211,30 +211,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
-        "url": "https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L"
-      },
-      "artists": [
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Cazt",
-          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 152851,
-      "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
-      "url": "https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Table For 2",
         "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
       },
@@ -267,6 +243,30 @@
       "duration_ms": 200574,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
+        "url": "https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L"
+      },
+      "artists": [
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Cazt",
+          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 152851,
+      "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
+      "url": "https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -431,26 +431,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -475,22 +455,22 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         },
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
         }
       ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -519,6 +499,26 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "It's Your Life",
         "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
       },
@@ -543,50 +543,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "T\u00f4 de F\u00e9rias",
-        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 168449,
-      "name": "T\u00f4 de F\u00e9rias",
-      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Descobridor dos Sete Mares: Remix",
         "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
       },
@@ -607,22 +563,26 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         }
       ],
-      "duration_ms": 166299,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+      "duration_ms": 160645,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -667,6 +627,26 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "T\u00f4 de F\u00e9rias",
+        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 168449,
+      "name": "T\u00f4 de F\u00e9rias",
+      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Amor Pra Recome\u00e7ar",
         "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 158095,
       "name": "Amor Pra Recome\u00e7ar",
       "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -735,30 +735,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "E Depois (Que Sorte A Minha)",
-        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "E Depois (Que Sorte A Minha)",
-      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 174193,
       "name": "Dias Melhores - Remix",
       "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "E Depois (Que Sorte A Minha)",
+        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "E Depois (Que Sorte A Minha)",
+      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -971,6 +971,34 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "AVIAN GRAYS",
+          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
+        },
+        {
+          "name": "TRIXL",
+          "url": "https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 160429,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
         "name": "Lil\u00e1s",
         "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
       },
@@ -1079,34 +1107,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/4c4mMrajgxaTdPyYaDcCSf"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "AVIAN GRAYS",
-          "url": "https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5"
-        },
-        {
-          "name": "TRIXL",
-          "url": "https://open.spotify.com/artist/0XzpwgL4nNoiTPbqztylMz"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 160429,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
       },
@@ -1123,6 +1123,26 @@
       "duration_ms": 212640,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1227,26 +1247,6 @@
     {
       "added_at": "2024-12-06 13:56:24",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
         "name": "Os Paralamas Do Sucesso - 10 Remixes",
         "url": "https://open.spotify.com/album/55eL9FgxWbZL93XdlDbwOu"
       },
@@ -1287,6 +1287,26 @@
       "duration_ms": 194905,
       "name": "Carla - Remix",
       "url": "https://open.spotify.com/track/4P4e4EyMLqYq2XACkIhMny"
+    },
+    {
+      "added_at": "2024-12-06 13:56:24",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2024-12-06 13:56:24",
@@ -1359,26 +1379,6 @@
       "duration_ms": 194767,
       "name": "When In Rome",
       "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
-    },
-    {
-      "added_at": "2024-12-06 13:56:24",
-      "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2024-12-06 13:56:24",

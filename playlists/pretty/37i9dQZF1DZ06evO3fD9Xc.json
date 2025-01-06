@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103537,
+  "num_followers": 103536,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAADIsR4IjHXnd53s52CKxB+n",
+  "snapshot_id": "Z3h6AAAAAACYJc8GU0ZgzeVQRmA+/N0C",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 204778,
-      "name": "Me Sobrabas T\u00fa",
-      "url": "https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 6",
         "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 213902,
       "name": "A Lo Mejor",
       "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 204778,
+      "name": "Me Sobrabas T\u00fa",
+      "url": "https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 175543,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 6",
         "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 148656,
       "name": "La Mejor Versi\u00f3n de M\u00ed",
       "url": "https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 175543,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 182787,
-      "name": "Nadie Es Indispensable",
-      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 5",
         "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 191460,
       "name": "Mi Mayor Anhelo",
       "url": "https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226708,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 169750,
       "name": "Decide Qu\u00e9 Somos",
       "url": "https://open.spotify.com/track/0gYEHUYvIBgNnNLiUKYoHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226708,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 209702,
       "name": "Para No Pensar En Ti",
       "url": "https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226618,
       "name": "El Barco",
       "url": "https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 164040,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pu\u00f1etas Mentales",
-        "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 139571,
-      "name": "Pu\u00f1etas Mentales",
-      "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 201802,
       "name": "Cuando Caiga La Noche",
       "url": "https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pu\u00f1etas Mentales",
+        "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 139571,
+      "name": "Pu\u00f1etas Mentales",
+      "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
     },
     {
       "added_at": null,

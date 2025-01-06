@@ -1,6 +1,6 @@
 {
   "description": "Turma do Pagode e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 373419,
+  "num_followers": 373401,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
+        "name": "Instinto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
+      },
+      "artists": [
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Instinto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
         "name": "Sempre na Simplicidade",
         "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 300000,
       "name": "Sempre na Simplicidade",
       "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
-        "name": "Instinto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
-      },
-      "artists": [
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": "Instinto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -259,6 +259,38 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
+        "name": "Filha do Deputado",
+        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 371852,
+      "name": "Filha do Deputado",
+      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
         "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
       },
@@ -311,38 +343,6 @@
       "duration_ms": 228568,
       "name": "Garota Nota 100",
       "url": "https://open.spotify.com/track/1ZyrfB6T0Cm9wFXAjJQQWE"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
-        "name": "Filha do Deputado",
-        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 371852,
-      "name": "Filha do Deputado",
-      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -479,6 +479,26 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
         "name": "TunTunTun (Spotify Singles)",
         "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 351496,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/6IbR0fjohcdQa3Ml3RfSFg"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
+        "name": "Replay - Spotify Singles",
+        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "Replay - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -923,18 +939,22 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Replay - Spotify Singles",
-        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+        "name": "Sorte (Ao Vivo / EP02)",
+        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 150093,
-      "name": "Replay - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
+      "duration_ms": 182694,
+      "name": "Febre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -979,78 +999,6 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Sorte (Ao Vivo / EP02)",
-        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 182694,
-      "name": "Febre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
-        "name": "M.A.D 2",
-        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
-        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Amanda Amado",
-          "url": "https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD"
-        },
-        {
-          "name": "Mannda Lym",
-          "url": "https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO"
-        }
-      ],
-      "duration_ms": 297974,
-      "name": "Dependente / Pirata e Tesouro / Fala - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GJs1j7djCRBS7mns7T6ze"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
         "name": "Quebradas 2",
         "url": "https://open.spotify.com/album/59Vwfgt1SoNC6G7CRAfSlB"
       },
@@ -1091,6 +1039,30 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
+        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Amanda Amado",
+          "url": "https://open.spotify.com/artist/5XxWSpbD4LTTKYnKxJVZPD"
+        },
+        {
+          "name": "Mannda Lym",
+          "url": "https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO"
+        }
+      ],
+      "duration_ms": 297974,
+      "name": "Dependente / Pirata e Tesouro / Fala - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GJs1j7djCRBS7mns7T6ze"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
         "name": "Saudade Tatuada (Ao Vivo)",
         "url": "https://open.spotify.com/album/7H8CjnywEdYNBZHreuQ2Mr"
       },
@@ -1103,6 +1075,34 @@
       "duration_ms": 193192,
       "name": "Saudade Tatuada - Ao Vivo",
       "url": "https://open.spotify.com/track/5ibWIyNrLGnweranaclVis"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
     },
     {
       "added_at": "2025-01-03 14:39:51",

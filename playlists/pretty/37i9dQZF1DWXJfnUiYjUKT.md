@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. <br/><br/>Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,751 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,764 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 26 | [Shandy in the Graveyard](https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Shandy in the Graveyard](https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L) | 2:57 |
 | 27 | [TEN](https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/0iIC693yA29mHcT8j08osB) | 2:09 |
 | 28 | [Souvenirs](https://open.spotify.com/track/61gTjqzNXQ1U0MbKk0y36H) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Still Living With My Parents](https://open.spotify.com/album/2O5eUmi2KeXNYqghiw4XBj) | 4:16 |
-| 29 | [Straight 2 It](https://open.spotify.com/track/6PoEMojqfKaqAEKYApiSvl) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Straight 2 It](https://open.spotify.com/album/0crC5o0385xu2tRv4EMqEN) | 2:21 |
+| 29 | [STRAIGHT 2 IT](https://open.spotify.com/track/6PoEMojqfKaqAEKYApiSvl) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [STRAIGHT 2 IT](https://open.spotify.com/album/0crC5o0385xu2tRv4EMqEN) | 2:21 |
 | 30 | [My Decision \(feat\. Rotimi\)](https://open.spotify.com/track/0drzSnszAebLEAGxf3ZSh0) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [My Decision \(feat\. Rotimi\)](https://open.spotify.com/album/6w4NIQM5esFvkBPQizv2XY) | 3:06 |
 | 31 | [Work On Me](https://open.spotify.com/track/4kt5T1dZ2cS09Ba0U4cGzL) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Work On Me](https://open.spotify.com/album/6xfvvvUtSeFoxz5ZNFGGZB) | 2:57 |
 | 32 | [enough for you](https://open.spotify.com/track/0MVuOqwCCcEAb7iQATWBJ5) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [enough for you](https://open.spotify.com/album/2sMBLpd0aSDyWv1hCBXzcV) | 3:30 |

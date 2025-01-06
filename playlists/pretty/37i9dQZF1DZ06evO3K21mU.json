@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 905862,
+  "num_followers": 905929,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAAy/eR/I3GkWdi7hBo/rGpA",
+  "snapshot_id": "Z3h6AAAAAACYBOszeKvF4FUHQK0aaXXh",
   "tracks": [
     {
       "added_at": null,
@@ -547,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
       "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 209080,
-      "name": "She's Mine Pt. 1",
-      "url": "https://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif"
+      "duration_ms": 240320,
+      "name": "Planez",
+      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
     },
     {
       "added_at": null,
@@ -579,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
       "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 240320,
-      "name": "Planez",
-      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
+      "duration_ms": 209080,
+      "name": "She's Mine Pt. 1",
+      "url": "https://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+        "name": "Snow On Tha Bluff",
+        "url": "https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 180238,
-      "name": "Back to the Topic",
-      "url": "https://open.spotify.com/track/0HwVkiEvW3yTFbUQ45RXPB"
+      "duration_ms": 235480,
+      "name": "Snow On Tha Bluff",
+      "url": "https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
       "duration_ms": 331480,
       "name": "Change",
       "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Snow On Tha Bluff",
-        "url": "https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Snow On Tha Bluff",
-      "url": "https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog"
     },
     {
       "added_at": null,
@@ -804,29 +788,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 263765,
-      "name": "Before I'm Gone",
-      "url": "https://open.spotify.com/track/5isZz9H9yWJgOjFxrTeZm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruby Rosary (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 256786,
-      "name": "Ruby Rosary (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
+      "duration_ms": 180238,
+      "name": "Back to the Topic",
+      "url": "https://open.spotify.com/track/0HwVkiEvW3yTFbUQ45RXPB"
     },
     {
       "added_at": null,
@@ -855,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ruby Rosary (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 256786,
+      "name": "Ruby Rosary (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4 Your Eyez Only",
         "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 278920,
       "name": "She's Mine Pt. 2",
       "url": "https://open.spotify.com/track/5rmcjZTrE9JR1YrbNZDFNW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 263765,
+      "name": "Before I'm Gone",
+      "url": "https://open.spotify.com/track/5isZz9H9yWJgOjFxrTeZm6"
     },
     {
       "added_at": null,
@@ -895,34 +895,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
       "artists": [
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 229115,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5FNs6bh3rJfayr3kaxlFzF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Warm Up",
-        "url": "https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY"
-      },
-      "artists": [
+        },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 140760,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/4wKDjsdjSEL4ykcyoHV0pq"
+      "duration_ms": 266291,
+      "name": "l e t . g o . m y . h a n d (with Bas & 6LACK)",
+      "url": "https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB"
     },
     {
       "added_at": null,
@@ -939,6 +931,22 @@
       "duration_ms": 194346,
       "name": "Ville Mentality",
       "url": "https://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 229115,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5FNs6bh3rJfayr3kaxlFzF"
     }
   ],
   "unique_name": "This Is J. Cole",

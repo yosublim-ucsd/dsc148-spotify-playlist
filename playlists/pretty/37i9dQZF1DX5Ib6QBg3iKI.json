@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 145338,
+  "num_followers": 145288,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
-      "url": "https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 218465,
       "name": "White Christmas (with Shania Twain)",
       "url": "https://open.spotify.com/track/114461rbzcgTriw8n4FOPW"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "url": "https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "Night Before Christmas",
         "url": "https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 282536,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/4BxLl0Pc6wvDX7iHX1xrMV"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
     },
     {
       "added_at": "2024-12-13 09:34:44",

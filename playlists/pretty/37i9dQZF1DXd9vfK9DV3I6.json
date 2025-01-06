@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 346883,
+  "num_followers": 346991,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Overdose (Sait Esmeray Remix)",
-        "url": "https://open.spotify.com/album/1IhXKGtdrHwt4hdRh3G3sq"
+        "name": "Give a Little (feat. Naila)",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
       },
       "artists": [
         {
-          "name": "Sasha Lopez",
-          "url": "https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         },
         {
-          "name": "BRUJA",
-          "url": "https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9"
-        },
-        {
-          "name": "Sait Esmeray",
-          "url": "https://open.spotify.com/artist/0ay99LpZruYu1GkaQxWWe4"
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
         }
       ],
-      "duration_ms": 158677,
-      "name": "Overdose - Sait Esmeray Remix",
-      "url": "https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW"
+      "duration_ms": 234838,
+      "name": "Give a Little (feat. Naila)",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -99,22 +95,26 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Give a Little (feat. Naila)",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
+        "name": "Overdose (Sait Esmeray Remix)",
+        "url": "https://open.spotify.com/album/1IhXKGtdrHwt4hdRh3G3sq"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Sasha Lopez",
+          "url": "https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF"
         },
         {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+          "name": "BRUJA",
+          "url": "https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9"
+        },
+        {
+          "name": "Sait Esmeray",
+          "url": "https://open.spotify.com/artist/0ay99LpZruYu1GkaQxWWe4"
         }
       ],
-      "duration_ms": 234838,
-      "name": "Give a Little (feat. Naila)",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
+      "duration_ms": 158677,
+      "name": "Overdose - Sait Esmeray Remix",
+      "url": "https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "MIRAN",
         "url": "https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 129145,
       "name": "MIRAN",
       "url": "https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
       },
@@ -963,6 +943,26 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
       "artists": [
         {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
         }
       ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
       },
       "artists": [
         {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "The Universe of Buddha Bar",
         "url": "https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm"
       },
@@ -1195,26 +1179,18 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Hajaruni (Suray Remix)",
-        "url": "https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH"
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
       },
       "artists": [
         {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Suray",
-          "url": "https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn"
-        },
-        {
-          "name": "Hossam wahab",
-          "url": "https://open.spotify.com/artist/57XN19Qw07kzvBN9sHQq8C"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
         }
       ],
-      "duration_ms": 331530,
-      "name": "Hajaruni (Suray Remix)",
-      "url": "https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac"
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1235,6 +1211,30 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Hajaruni (Suray Remix)",
+        "url": "https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Suray",
+          "url": "https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn"
+        },
+        {
+          "name": "Hossam wahab",
+          "url": "https://open.spotify.com/artist/57XN19Qw07kzvBN9sHQq8C"
+        }
+      ],
+      "duration_ms": 331530,
+      "name": "Hajaruni (Suray Remix)",
+      "url": "https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "My Useless Life",
-        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
-      },
-      "artists": [
-        {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Odarka",
-          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
-        }
-      ],
-      "duration_ms": 141779,
-      "name": "My Useless Life",
-      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Bladi B3ida",
         "url": "https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 319851,
       "name": "Bladi B3ida",
       "url": "https://open.spotify.com/track/2h519R5O4HhdPjboqsOond"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "My Useless Life",
+        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
+      },
+      "artists": [
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Odarka",
+          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
+        }
+      ],
+      "duration_ms": 141779,
+      "name": "My Useless Life",
+      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1443,30 +1443,6 @@
       "duration_ms": 180983,
       "name": "Oh Lor My Love",
       "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
-      },
-      "artists": [
-        {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
-        }
-      ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1539,6 +1515,30 @@
       "duration_ms": 159272,
       "name": "Sahra On The Moon",
       "url": "https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Arabian Soul",
+        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        }
+      ],
+      "duration_ms": 312125,
+      "name": "Arabian Soul",
+      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Mindreader",
         "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 186184,
       "name": "Mazrub",
       "url": "https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Arabian Soul",
-        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        }
-      ],
-      "duration_ms": 312125,
-      "name": "Arabian Soul",
-      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
     },
     {
       "added_at": "2024-11-22 18:05:57",

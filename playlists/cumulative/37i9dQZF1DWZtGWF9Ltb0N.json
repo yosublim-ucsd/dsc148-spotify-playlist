@@ -2841,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "Day After Day",
+        "url": "https://open.spotify.com/album/6qP0GN2lyL13XlxLusWNTO"
+      },
+      "artists": [
+        {
+          "name": "Brendan Angelides",
+          "url": "https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O"
+        }
+      ],
+      "date_added": "2025-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222710,
+      "name": "Day After Day",
+      "url": "https://open.spotify.com/track/4yZAw6l61oja9LMyUIq3i1"
+    },
+    {
+      "album": {
         "name": "Dead Meat",
         "url": "https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ"
       },
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 165339,
       "name": "Dead Meat",
       "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"

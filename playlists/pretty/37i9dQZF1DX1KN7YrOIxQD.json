@@ -1,12 +1,12 @@
 {
-  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica. Portada: Rauw Alejandro, Bad Bunny",
-  "num_followers": 347559,
+  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica. Portada: Bad Bunny",
+  "num_followers": 347614,
   "original_name": "\u00c9xitos Centroam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3gxjAAAAADdxCJRZVu16PaQRGiG4a0i",
+  "snapshot_id": "Z3q/uQAAAABSYJLaZ7J9vd+3gxHi6RxD",
   "tracks": [
     {
       "added_at": "2024-11-22 00:25:25",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
     },
     {
+      "added_at": "2025-01-05 17:02:32",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
       "added_at": "2024-08-01 22:07:50",
       "album": {
         "name": "Hasta Aqu\u00ed Llegu\u00e9",
@@ -179,6 +195,26 @@
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "added_at": "2025-01-05 17:02:32",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "PERFuMITO NUEVO",
+      "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
     },
     {
       "added_at": "2024-12-05 22:31:37",
@@ -633,38 +669,6 @@
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "WYA REMIX RED",
-        "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
-      },
-      "artists": [
-        {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 321741,
-      "name": "WYA REMIX RED",
-      "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
-    },
-    {
       "added_at": "2024-08-23 00:48:52",
       "album": {
         "name": "PERO NO TE ENAMORES",
@@ -679,26 +683,6 @@
       "duration_ms": 149073,
       "name": "NEL",
       "url": "https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4"
-    },
-    {
-      "added_at": "2024-11-22 00:25:25",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 240179,
-      "name": "Se Fue",
-      "url": "https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C"
     },
     {
       "added_at": "2024-01-26 05:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 426127,
+  "num_followers": 426200,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-11-29 01:02:00",
       "album": {
-        "name": "Aba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 348364,
-      "name": "Aba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
-    },
-    {
-      "added_at": "2024-11-29 01:02:00",
-      "album": {
         "name": "Aline Barros - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 314746,
       "name": "Atos 2",
       "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
+    },
+    {
+      "added_at": "2024-11-29 01:02:00",
+      "album": {
+        "name": "Aba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 348364,
+      "name": "Aba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
     },
     {
       "added_at": "2024-11-29 01:02:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-11-29 01:02:00",
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 239211,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
-    },
-    {
-      "added_at": "2024-11-29 01:02:00",
-      "album": {
         "name": "Inexplic\u00e1vel Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/5omeFeze6ByNZC4A7xWYpu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 259691,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
+    },
+    {
+      "added_at": "2024-11-29 01:02:00",
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 239211,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
     },
     {
       "added_at": "2024-11-29 01:02:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-29 01:02:00",
       "album": {
-        "name": "Aos P\u00e9s da Cruz",
-        "url": "https://open.spotify.com/album/1ZkYnMRXuCh6GigjaGeBI4"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 244924,
-      "name": "Aos P\u00e9s da Cruz",
-      "url": "https://open.spotify.com/track/6MH2UdjbDRXLmOcnSJAJuE"
-    },
-    {
-      "added_at": "2024-11-29 01:02:00",
-      "album": {
         "name": "Se N\u00e3o Fosse Ele",
         "url": "https://open.spotify.com/album/2F7TQ8zJLPEbmwsbaP3EOp"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
+    },
+    {
+      "added_at": "2024-11-29 01:02:00",
+      "album": {
+        "name": "Aos P\u00e9s da Cruz",
+        "url": "https://open.spotify.com/album/1ZkYnMRXuCh6GigjaGeBI4"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 244924,
+      "name": "Aos P\u00e9s da Cruz",
+      "url": "https://open.spotify.com/track/6MH2UdjbDRXLmOcnSJAJuE"
     },
     {
       "added_at": "2024-11-29 01:02:00",

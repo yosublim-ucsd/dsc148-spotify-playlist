@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214 likes - 67 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 214 likes - 68 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 61 | [I Tried](https://open.spotify.com/track/3QSogFXUWdiZ2akyXQQpWI) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Watching You \- EP](https://open.spotify.com/album/3ZMFWfliUQROBkFP5oPBWa) | 3:07 |
 | 62 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 |
 | 63 | [Don't Wake Me Up](https://open.spotify.com/track/1CqdtosAf3DaK6HWbee2JX) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [JEMKA](https://open.spotify.com/artist/5eeQYpsEkVTJCXPZnp5gTt), [RED](https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b) | [Don't Wake Me Up](https://open.spotify.com/album/2DOtUcaMZeiUkQ1qB5nDBb) | 2:14 |
-| 64 | [miss you](https://open.spotify.com/track/2p5PjL2TLhongka8qsHTco) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [this is iggy](https://open.spotify.com/album/0kyjMpCVzimrmEspVwx8TX) | 2:29 |
-| 65 | [My Fault](https://open.spotify.com/track/1YcoVVvOeJRCPD8P7zvvmX) | [Jenna Lotti](https://open.spotify.com/artist/7dIm02RDiyp2Nmdsx4H8Gc) | [My Fault](https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL) | 1:57 |
-| 66 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
-| 67 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
+| 64 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
+| 65 | [miss you](https://open.spotify.com/track/2p5PjL2TLhongka8qsHTco) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [this is iggy](https://open.spotify.com/album/0kyjMpCVzimrmEspVwx8TX) | 2:29 |
+| 66 | [My Fault](https://open.spotify.com/track/1YcoVVvOeJRCPD8P7zvvmX) | [Jenna Lotti](https://open.spotify.com/artist/7dIm02RDiyp2Nmdsx4H8Gc) | [My Fault](https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL) | 1:57 |
+| 67 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
+| 68 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Abl/1AAAAACPSwNa4Jj22IioXtzIDdK0`
+Snapshot ID: `AbmFdAAAAAAc+64shr1eSiXSqgdi8Pnb`

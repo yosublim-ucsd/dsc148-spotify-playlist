@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-303 songs - 19 hr 33 min
+304 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [For You](https://open.spotify.com/track/0tejqLrXfsXT5SEDld8fKk) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Cinderella & Four Knights, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3heg9wwUtmvksQ1s68OZBT) | 4:19 | 2024-04-04 |  |
 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 | 2022-05-11 |  |
 | [Forgetting You](https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr) | 3:12 | 2024-04-03 |  |
-| [From now on](https://open.spotify.com/track/6vic1TI7BdzAc9HM0LnAF0) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3) | 3:10 | 2024-04-04 |  |
+| [From now on](https://open.spotify.com/track/6vic1TI7BdzAc9HM0LnAF0) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3) | 3:10 | 2024-04-04 | 2025-01-06 |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2022-06-09 | 2023-06-04 |
 | [Gift](https://open.spotify.com/track/3SLTWrFWIR2Pxnwak20oWc) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Lovely Runner, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/7C639nugyBt3TboUcUJMas) | 4:49 | 2024-10-10 |  |
 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 | 2022-05-11 |  |
@@ -250,6 +250,7 @@
 | [The Painted On The Moonlight](https://open.spotify.com/track/2SCOjgC1DSu7XskVTo0Wzl) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [My Dearest \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0xxKDsA1uPsxzqIE5wTneS) | 4:04 | 2024-04-04 | 2024-04-20 |
 | [Think of You](https://open.spotify.com/track/3fnhqgNnzE3eALxismWcpv) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Her Private Life \(Original Television Soundtrack\)](https://open.spotify.com/album/6KtI28DkWKsxRvLm9ylKU3) | 4:23 | 2022-05-11 | 2022-07-29 |
 | [This Love](https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 | 2024-04-03 |  |
+| [THUMPING](https://open.spotify.com/track/0OliIx9VT7zckrj1abkjoN) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [She Was Prettty OST Part.1](https://open.spotify.com/album/4X7muDCMjHRPOF7nu9on1U) | 3:25 | 2024-10-10 |  |
 | [Time, like a shining star](https://open.spotify.com/track/4SBbY7GP2BCugTmZ8uhzC9) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5qcdTdgUCunW6VV7Mkblpx) | 3:18 | 2022-05-11 | 2022-07-29 |
 | [To You](https://open.spotify.com/track/0cHL0qsKF9csr6JasAEdzj) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/0bWtzPnraDWlMFClaXDwNQ) | 3:43 | 2022-05-11 | 2022-07-26 |
 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 | 2024-04-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,653 likes - 186 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,654 likes - 186 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 108 | [Already Rich \(feat\. CeeLo Green\)](https://open.spotify.com/track/3D51UEumRbQZSjQbA3VTkj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [TM104: The Legend of the Snowman](https://open.spotify.com/album/3eYmN6spICNGH3gmdPpDtm) | 3:10 |
 | 109 | [Happy Hour](https://open.spotify.com/track/5wYWwEQ6hu58m2ALDC7Rih) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [3 Words](https://open.spotify.com/album/3ao7El5qj953dxb01PBhPG) | 4:06 |
 | 110 | [Conversation](https://open.spotify.com/track/5LmRRJ2MfXxhmZfwcsvLad) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:08 |
-| 111 | [Black Moses \(feat\. Priscilla Renea\)](https://open.spotify.com/track/04ylFi2OxZ1yrN3azXLMQn) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:03 |
-| 112 | [Butterfly Effect](https://open.spotify.com/track/0lmBL4iK4PpXF0YUlaopxs) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:39 |
+| 111 | [Butterfly Effect](https://open.spotify.com/track/0lmBL4iK4PpXF0YUlaopxs) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:39 |
+| 112 | [Black Moses \(feat\. Priscilla Renea\)](https://open.spotify.com/track/04ylFi2OxZ1yrN3azXLMQn) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:03 |
 | 113 | [lovesick \(feat\. Punipuni Denki\)](https://open.spotify.com/track/52k1ag0HWVCKF6V29jlLBx) | [kamome sano](https://open.spotify.com/artist/0XraR5DqW6Vpp86omsB88K), [Punipuni Denki](https://open.spotify.com/artist/6ub48gO434947cXXjRnr8l) | [SPD GAR 002](https://open.spotify.com/album/60Uue4WTdLXjr9QL2BSymy) | 4:19 |
 | 114 | [Turn It Up](https://open.spotify.com/track/596pPwqpEzZeH57CcY75W4) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Here I Am \(Int'l Version\)](https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR) | 3:35 |
 | 115 | [Yes I Am](https://open.spotify.com/track/6JX1b07GtvRuCivrLy8Yoc) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken \(Deluxe Edition\)](https://open.spotify.com/album/1TRvDpZjCWms0eUads1xP2) | 3:01 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 136 | [Risk It All](https://open.spotify.com/track/7jDwn8Uc7ijT0SdVHPGs2q) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Woman](https://open.spotify.com/album/6RoTHNbxFtxUejrmNiKMMa) | 4:46 |
 | 137 | [Snow](https://open.spotify.com/track/4ey9YmqIBB6SAAMiwKjpdU) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Better](https://open.spotify.com/album/4CYPYrVKLRv1QFvTiCQwIg) | 3:30 |
 | 138 | [Offended](https://open.spotify.com/track/5dpGpYsL7BMLrxkMuX8cxV) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 2:56 |
-| 139 | [Chainzzz \(feat\. Muni Long\) \- Instrumental](https://open.spotify.com/track/4RllcpxnzD9Qe979bGgn3A) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Toxic Chocolate \(Instrumental\)](https://open.spotify.com/album/4rV8dGCg1AThAVdZDd3VcZ) | 2:33 |
-| 140 | [Type Questions](https://open.spotify.com/track/7uDBTbCy7mgDZkeL3cTVqa) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:38 |
+| 139 | [Type Questions](https://open.spotify.com/track/7uDBTbCy7mgDZkeL3cTVqa) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:38 |
+| 140 | [Chainzzz \(feat\. Muni Long\) \- Instrumental](https://open.spotify.com/track/4RllcpxnzD9Qe979bGgn3A) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Toxic Chocolate \(Instrumental\)](https://open.spotify.com/album/4rV8dGCg1AThAVdZDd3VcZ) | 2:33 |
 | 141 | [Late Night Nigga](https://open.spotify.com/track/2pDyTMcoVT3d13jbbrpSrL) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:48 |
 | 142 | [Hummingbird](https://open.spotify.com/track/37DUsZ2LqrWtBjRuNFoMvj) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Messy Little Raindrops](https://open.spotify.com/album/1oqE0q5ajF0gAj17OGjXz8) | 3:10 |
 | 143 | [Time to Move On](https://open.spotify.com/track/62tQqcU5KUIL8ES3T0Udxi) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [American Nights](https://open.spotify.com/album/04spQ6Xvmym46ohPvZlebg) | 3:03 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 185 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 186 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `Abl/3gAAAAC787ZS0m9pmCndjNS+TdS3`
+Snapshot ID: `AbmFdAAAAABgEXunBp1GWbMO3B/ae9Wl`

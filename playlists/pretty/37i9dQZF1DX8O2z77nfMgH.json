@@ -1,12 +1,12 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Yami Safdie, Lasso, Carin Le\u00f3n",
-  "num_followers": 887583,
+  "num_followers": 887601,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du6AAAAAB8VoWb8+hK6vIjC4djhdO9",
+  "snapshot_id": "Z3qzIwAAAAAtuQPRsFBFynLFcS6C3GWW",
   "tracks": [
     {
       "added_at": "2025-01-03 05:00:24",
@@ -33,6 +33,22 @@
       "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
     },
     {
+      "added_at": "2025-01-05 16:28:19",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
       "added_at": "2025-01-02 03:23:16",
       "album": {
         "name": "Luck Ra: Bzrp Music Sessions, Vol. 61",
@@ -53,22 +69,6 @@
       "url": "https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a"
     },
     {
-      "added_at": "2024-12-27 05:00:42",
-      "album": {
-        "name": "PIToRRO DE COCO",
-        "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 206627,
-      "name": "PIToRRO DE COCO",
-      "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
-    },
-    {
       "added_at": "2025-01-03 05:00:24",
       "album": {
         "name": "Contacto",
@@ -87,6 +87,26 @@
       "duration_ms": 162807,
       "name": "Contacto",
       "url": "https://open.spotify.com/track/5Gi5Cd3jpRM1wSOJBFOJXi"
+    },
+    {
+      "added_at": "2025-01-05 16:28:19",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "PERFuMITO NUEVO",
+      "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
     },
     {
       "added_at": "2025-01-03 05:00:24",
@@ -655,6 +675,22 @@
     {
       "added_at": "2024-12-27 05:00:42",
       "album": {
+        "name": "PIToRRO DE COCO",
+        "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206627,
+      "name": "PIToRRO DE COCO",
+      "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
+    },
+    {
+      "added_at": "2024-12-27 05:00:42",
+      "album": {
         "name": "Caracas",
         "url": "https://open.spotify.com/album/2be77YRwAOtXsGBIAR79gK"
       },
@@ -929,30 +965,6 @@
       "url": "https://open.spotify.com/track/0cdKJgwwt2HeVJkiTX8wpl"
     },
     {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
-        "name": "En Otra Vida - Versi\u00f3n Cuarteto",
-        "url": "https://open.spotify.com/album/5iMYvZp2PQDHiC1s3P4rRA"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "En Otra Vida - Versi\u00f3n Cuarteto",
-      "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
-    },
-    {
       "added_at": "2024-12-20 06:00:08",
       "album": {
         "name": "Llame Pa Verte (REMIX)",
@@ -1039,22 +1051,6 @@
     {
       "added_at": "2024-12-20 06:00:08",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4qWape5h2Cs3MrfvYTLBrU"
-      },
-      "artists": [
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
-        }
-      ],
-      "duration_ms": 146605,
-      "name": "Amorfoda - Spotify Singles",
-      "url": "https://open.spotify.com/track/3cio3keUESsgJJezSNhE6O"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
         "name": "Trakata",
         "url": "https://open.spotify.com/album/0tDnBrjWnAqAohPcU0wK0i"
       },
@@ -1091,42 +1087,6 @@
       "duration_ms": 181739,
       "name": "ABC",
       "url": "https://open.spotify.com/track/4x4zGJYBa39QEkc1KTgqtc"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "nssmnsb",
-      "url": "https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "O Embaixador - The Legacy (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 171116,
-      "name": "Espetinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/52yvnBV90B2ZUC5b25cFer"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -1195,22 +1155,6 @@
       "duration_ms": 193153,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "En Esta Navidad",
-        "url": "https://open.spotify.com/album/6wQ55kPo3cstdf6YErh9LT"
-      },
-      "artists": [
-        {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "En Esta Navidad",
-      "url": "https://open.spotify.com/track/1E31hpB8ulMj7UEXMMbmt4"
     },
     {
       "added_at": "2024-12-20 06:00:08",
@@ -1419,30 +1363,6 @@
     {
       "added_at": "2024-12-20 06:00:08",
       "album": {
-        "name": "Rulay",
-        "url": "https://open.spotify.com/album/301x93rh9EiZPusi4gDwNU"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rivera",
-          "url": "https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        },
-        {
-          "name": "Daveartt",
-          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
-        }
-      ],
-      "duration_ms": 151935,
-      "name": "Rulay",
-      "url": "https://open.spotify.com/track/3dqJJ2o12aqMArDLs7v9nu"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
         "name": "Silla",
         "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
       },
@@ -1459,22 +1379,6 @@
       "duration_ms": 141355,
       "name": "Silla",
       "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
-    },
-    {
-      "added_at": "2024-12-20 06:00:08",
-      "album": {
-        "name": "Papelito",
-        "url": "https://open.spotify.com/album/0wcWlYYFJc6TjDDPv6iLFH"
-      },
-      "artists": [
-        {
-          "name": "La Pardo",
-          "url": "https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Papelito",
-      "url": "https://open.spotify.com/track/4do9SGv2DQ1irWpwqxXANJ"
     }
   ],
   "unique_name": "Novedades Viernes Latinoam\u00e9rica",

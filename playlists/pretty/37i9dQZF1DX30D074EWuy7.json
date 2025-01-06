@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 31499,
+  "num_followers": 31506,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "L'indispensabile",
-        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
-      },
-      "artists": [
-        {
-          "name": "Vinicio Capossela",
-          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
-        }
-      ],
-      "duration_ms": 407760,
-      "name": "Ultimo amore",
-      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Scenario",
-        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
+        "name": "L'indispensabile",
+        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
       "artists": [
         {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+          "name": "Vinicio Capossela",
+          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
         }
       ],
-      "duration_ms": 218533,
-      "name": "Kids are electric",
-      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
+      "duration_ms": 407760,
+      "name": "Ultimo amore",
+      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -791,6 +775,22 @@
       "duration_ms": 177124,
       "name": "Perdiamoci",
       "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Scenario",
+        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Kids are electric",
+      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
-      },
-      "artists": [
-        {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
-        }
-      ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Under Italian Skies",
         "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+      },
+      "artists": [
+        {
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+        }
+      ],
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "NAXOS",
+        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
+      },
+      "artists": [
+        {
+          "name": "Francesco Buzzurro",
+          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Song for Django",
+      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Cosmica Italiana",
         "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 222391,
       "name": "Movimento Astratto",
       "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "NAXOS",
-        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
-      },
-      "artists": [
-        {
-          "name": "Francesco Buzzurro",
-          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Song for Django",
-      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
+        "name": "Julia de Palma In Concert",
+        "url": "https://open.spotify.com/album/3Jwv7FkYyegDB5Pl6V8pQL"
+      },
+      "artists": [
+        {
+          "name": "Jula De Palma",
+          "url": "https://open.spotify.com/artist/5lW8wX7Dvny7gTTfql8755"
+        }
+      ],
+      "duration_ms": 283977,
+      "name": "Bugiardo, incosciente",
+      "url": "https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
         "name": "Impulsi",
         "url": "https://open.spotify.com/album/5Yimn2Kv6tcODUaPOsNy6t"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Julia de Palma In Concert",
-        "url": "https://open.spotify.com/album/3Jwv7FkYyegDB5Pl6V8pQL"
+        "name": "The Tales Of Doctor 3",
+        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
       },
       "artists": [
         {
-          "name": "Jula De Palma",
-          "url": "https://open.spotify.com/artist/5lW8wX7Dvny7gTTfql8755"
+          "name": "Doctor 3",
+          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
         }
       ],
-      "duration_ms": 283977,
-      "name": "Bugiardo, incosciente",
-      "url": "https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V"
+      "duration_ms": 422573,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "The Tales Of Doctor 3",
-        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
       },
       "artists": [
         {
-          "name": "Doctor 3",
-          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
         }
       ],
-      "duration_ms": 422573,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Franco Cerri Jazz",
-        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
-      },
-      "artists": [
-        {
-          "name": "Franco Cerri",
-          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
-        }
-      ],
-      "duration_ms": 79041,
-      "name": "Generazia",
-      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Senza Fine",
         "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 137613,
       "name": "Napule \u00c8",
       "url": "https://open.spotify.com/track/2eRACc3Rpdo187IiE1gyF9"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Franco Cerri Jazz",
+        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
+      },
+      "artists": [
+        {
+          "name": "Franco Cerri",
+          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
+        }
+      ],
+      "duration_ms": 79041,
+      "name": "Generazia",
+      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1751,18 +1767,18 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+        "name": "Stefano Di Battista",
+        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
       },
       "artists": [
         {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+          "name": "Stefano Di Battista",
+          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
         }
       ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
+      "duration_ms": 310480,
+      "name": "Anastasia",
+      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 340493,
       "name": "My Heart in a Song",
       "url": "https://open.spotify.com/track/5PcNrgBKBr1r4NTmTlH5Am"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Stefano Di Battista",
-        "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
-      },
-      "artists": [
-        {
-          "name": "Stefano Di Battista",
-          "url": "https://open.spotify.com/artist/3VPgBrIwuucYkLoZ2yHMjK"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Anastasia",
-      "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-12-05 23:01:00",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 289634,
-      "name": "Transe Napolitaine",
-      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
         "name": "Ampia",
         "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
       },
@@ -1875,6 +1859,42 @@
       "duration_ms": 370080,
       "name": "Traspare",
       "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "L'AMANTE BUGIARDO",
+        "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Uri Caine",
+          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "L'AMANTE BUGIARDO",
+      "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 289634,
+      "name": "Transe Napolitaine",
+      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1899,42 +1919,6 @@
       "duration_ms": 291080,
       "name": "Frevo",
       "url": "https://open.spotify.com/track/4NpETaj70DmYarCLbPqLyv"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "Roaming Heart",
-        "url": "https://open.spotify.com/album/3KINBz0xl2QEttJhyIwen0"
-      },
-      "artists": [
-        {
-          "name": "Dino Rubino",
-          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
-        }
-      ],
-      "duration_ms": 271923,
-      "name": "Roaming Heart",
-      "url": "https://open.spotify.com/track/6kdEov88xek2IQaYw54DVl"
-    },
-    {
-      "added_at": "2024-12-05 23:01:00",
-      "album": {
-        "name": "L'AMANTE BUGIARDO",
-        "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Uri Caine",
-          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "L'AMANTE BUGIARDO",
-      "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
     },
     {
       "added_at": "2024-12-05 23:01:00",
@@ -1987,6 +1971,22 @@
       "duration_ms": 293866,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
+    },
+    {
+      "added_at": "2024-12-05 23:01:00",
+      "album": {
+        "name": "Roaming Heart",
+        "url": "https://open.spotify.com/album/3KINBz0xl2QEttJhyIwen0"
+      },
+      "artists": [
+        {
+          "name": "Dino Rubino",
+          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
+        }
+      ],
+      "duration_ms": 271923,
+      "name": "Roaming Heart",
+      "url": "https://open.spotify.com/track/6kdEov88xek2IQaYw54DVl"
     }
   ],
   "unique_name": "Jazz Italia",

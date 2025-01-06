@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 45005,
+  "num_followers": 45050,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAAA32rbgHZ/yUij5ErieoJT",
+  "snapshot_id": "Z3h6AAAAAAD39D5t6Tdm1KdRkp2oGZz8",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mid-Twenties Crisis",
-        "url": "https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8"
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
       "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        },
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Stick to My Guns (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW"
+      "duration_ms": 188426,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+        "name": "Mid-Twenties Crisis",
+        "url": "https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8"
       },
       "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        },
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 188426,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/7lBkuyDfK0y6x6N6Zd1Z0U"
+      "duration_ms": 185333,
+      "name": "Stick to My Guns (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rub A Little Dirt On It (feat. Riley Green)",
-        "url": "https://open.spotify.com/album/0QKrhZJZJ5hUmM37OBZyXU"
-      },
-      "artists": [
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 165803,
-      "name": "Rub A Little Dirt On It (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/6pnAkWB4997saPywsPSMha"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If It Wasn't For Trucks",
         "url": "https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 231466,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rub A Little Dirt On It (feat. Riley Green)",
+        "url": "https://open.spotify.com/album/0QKrhZJZJ5hUmM37OBZyXU"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 165803,
+      "name": "Rub A Little Dirt On It (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/6pnAkWB4997saPywsPSMha"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runnin' With An Angel",
-        "url": "https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Runnin' With An Angel",
-      "url": "https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If It Wasn't For Trucks",
         "url": "https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 180360,
       "name": "If I Didn\u2019t Wear Boots",
       "url": "https://open.spotify.com/track/2imQgpXrOacGLfgx9nevja"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Runnin' With An Angel",
+        "url": "https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Runnin' With An Angel",
+      "url": "https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se"
     }
   ],
   "unique_name": "This Is Riley Green",

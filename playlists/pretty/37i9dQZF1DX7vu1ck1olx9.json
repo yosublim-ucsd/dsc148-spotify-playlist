@@ -1,6 +1,6 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 95588,
+  "num_followers": 95658,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "adjustment",
-        "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
-      },
-      "artists": [
-        {
-          "name": "Ryder 003",
-          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "adjustment",
-      "url": "https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Drowsy Delight",
         "url": "https://open.spotify.com/album/3w8L1yP27kRt2j3ccsFnd0"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 123469,
       "name": "rem junction",
       "url": "https://open.spotify.com/track/6c7gHxC1Y9SNw1ScCctQiH"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "adjustment",
+        "url": "https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz"
+      },
+      "artists": [
+        {
+          "name": "Ryder 003",
+          "url": "https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "adjustment",
+      "url": "https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Cozy Cabin",
-        "url": "https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9"
-      },
-      "artists": [
-        {
-          "name": "Fiber Zone",
-          "url": "https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA"
-        }
-      ],
-      "duration_ms": 128072,
-      "name": "Cozy Cabin",
-      "url": "https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Grounding",
         "url": "https://open.spotify.com/album/2KqN3WUFFfQmRhRtVacP4N"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 162349,
       "name": "Grounding",
       "url": "https://open.spotify.com/track/5wMvw6fFXoeINA8v4Ru13n"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Cozy Cabin",
+        "url": "https://open.spotify.com/album/3T3BtxzWbTK7oO7KQ72JE9"
+      },
+      "artists": [
+        {
+          "name": "Fiber Zone",
+          "url": "https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA"
+        }
+      ],
+      "duration_ms": 128072,
+      "name": "Cozy Cabin",
+      "url": "https://open.spotify.com/track/2bQr2fVvAnyq5Wg7l1xkhW"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Woollen Potato",
-        "url": "https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2"
-      },
-      "artists": [
-        {
-          "name": "Yoga at the Disco",
-          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Woollen Potato",
-      "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "lightweight",
         "url": "https://open.spotify.com/album/2EYX11kUH7SUsVpKWUePDD"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 120633,
       "name": "lightweight",
       "url": "https://open.spotify.com/track/3b546lgRsZJ7TFlXdmiQ7u"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Woollen Potato",
+        "url": "https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2"
+      },
+      "artists": [
+        {
+          "name": "Yoga at the Disco",
+          "url": "https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Woollen Potato",
+      "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "duplicated",
-        "url": "https://open.spotify.com/album/1M1MJjpxKpr3xC9fCbOATA"
-      },
-      "artists": [
-        {
-          "name": "gamuri shun",
-          "url": "https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "duplicated",
-      "url": "https://open.spotify.com/track/58AWkT7R6szgzK9nin9oUv"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Mist And Dust",
         "url": "https://open.spotify.com/album/6UwgOJGv46mupcigqLET9y"
       },
@@ -1007,6 +991,38 @@
       "duration_ms": 174000,
       "name": "Mist And Dust",
       "url": "https://open.spotify.com/track/5Js1urkjZ11PkD7cPwUGHb"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "exhale",
+        "url": "https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6"
+      },
+      "artists": [
+        {
+          "name": "Parelo",
+          "url": "https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0"
+        }
+      ],
+      "duration_ms": 139900,
+      "name": "exhale",
+      "url": "https://open.spotify.com/track/5fuN7iE4fymbpYdegHyM6Y"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "duplicated",
+        "url": "https://open.spotify.com/album/1M1MJjpxKpr3xC9fCbOATA"
+      },
+      "artists": [
+        {
+          "name": "gamuri shun",
+          "url": "https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "duplicated",
+      "url": "https://open.spotify.com/track/58AWkT7R6szgzK9nin9oUv"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1043,22 +1059,6 @@
       "duration_ms": 147230,
       "name": "questa terra",
       "url": "https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "exhale",
-        "url": "https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6"
-      },
-      "artists": [
-        {
-          "name": "Parelo",
-          "url": "https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0"
-        }
-      ],
-      "duration_ms": 139900,
-      "name": "exhale",
-      "url": "https://open.spotify.com/track/5fuN7iE4fymbpYdegHyM6Y"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 146206,
-      "name": "Encounter",
-      "url": "https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "dozen",
         "url": "https://open.spotify.com/album/0dizKykE5UNTDJ3qgAHjPw"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 122422,
       "name": "dozen",
       "url": "https://open.spotify.com/track/5kfiW0zjkX0ykCCphv3KpG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "duration_ms": 146206,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Warm Weather",
+        "url": "https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt"
+      },
+      "artists": [
+        {
+          "name": "ATONED",
+          "url": "https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM"
+        }
+      ],
+      "duration_ms": 149119,
+      "name": "Warm Weather",
+      "url": "https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "after dark",
         "url": "https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 141886,
       "name": "after dark",
       "url": "https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Warm Weather",
-        "url": "https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt"
-      },
-      "artists": [
-        {
-          "name": "ATONED",
-          "url": "https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM"
-        }
-      ],
-      "duration_ms": 149119,
-      "name": "Warm Weather",
-      "url": "https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "LEVITATE",
-        "url": "https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk"
-      },
-      "artists": [
-        {
-          "name": "Mel Atonin",
-          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "LEVITATE",
-      "url": "https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "restful",
         "url": "https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 126338,
       "name": "restful",
       "url": "https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "LEVITATE",
+        "url": "https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk"
+      },
+      "artists": [
+        {
+          "name": "Mel Atonin",
+          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "LEVITATE",
+      "url": "https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Inceptions",
-        "url": "https://open.spotify.com/album/52OgGdDDUt2tkFe6z4hT2P"
-      },
-      "artists": [
-        {
-          "name": "Mel Atonin",
-          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Inceptions",
-      "url": "https://open.spotify.com/track/0sqk7TgOIVVp6zFCccxRNU"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "lushus",
         "url": "https://open.spotify.com/album/04oFHAAaGt8r2e0CadyobL"
       },
@@ -1779,22 +1763,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "under water",
-        "url": "https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi"
-      },
-      "artists": [
-        {
-          "name": "bax iv",
-          "url": "https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42"
-        }
-      ],
-      "duration_ms": 126160,
-      "name": "under water",
-      "url": "https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Trouble In Smoky Paradise",
         "url": "https://open.spotify.com/album/6LvEYsVFTVzi0Mcllrt2jd"
       },
@@ -1807,6 +1775,38 @@
       "duration_ms": 148657,
       "name": "Trouble In Smoky Paradise",
       "url": "https://open.spotify.com/track/4xbDrO1BWWmmMpShGcCYTf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Inceptions",
+        "url": "https://open.spotify.com/album/52OgGdDDUt2tkFe6z4hT2P"
+      },
+      "artists": [
+        {
+          "name": "Mel Atonin",
+          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Inceptions",
+      "url": "https://open.spotify.com/track/0sqk7TgOIVVp6zFCccxRNU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "under water",
+        "url": "https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi"
+      },
+      "artists": [
+        {
+          "name": "bax iv",
+          "url": "https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42"
+        }
+      ],
+      "duration_ms": 126160,
+      "name": "under water",
+      "url": "https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2167,6 +2167,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Act I",
+        "url": "https://open.spotify.com/album/5Zkht2CtX4CWk2b1UCxKXO"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Mardal",
+          "url": "https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V"
+        },
+        {
+          "name": "Hush Child",
+          "url": "https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Act I",
+      "url": "https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Low Tension",
         "url": "https://open.spotify.com/album/4qIPpwbfTuy8jNPEzI9Jmp"
       },
@@ -2195,26 +2215,6 @@
       "duration_ms": 114500,
       "name": "cellular",
       "url": "https://open.spotify.com/track/4PeBAw8arxHxoMH6T1g0VU"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Act I",
-        "url": "https://open.spotify.com/album/5Zkht2CtX4CWk2b1UCxKXO"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Mardal",
-          "url": "https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V"
-        },
-        {
-          "name": "Hush Child",
-          "url": "https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Act I",
-      "url": "https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao"
     },
     {
       "added_at": "2024-08-23 04:00:00",

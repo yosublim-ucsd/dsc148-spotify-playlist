@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Inhaler
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,558 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,705 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 69 | [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 |
 | 70 | [Rust](https://open.spotify.com/track/20aegDZC6JqMj5zrOopRzJ) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Rust](https://open.spotify.com/album/0O71DHS2Bk5As3ZQNOBrPy) | 2:48 |
 | 71 | [King Baby](https://open.spotify.com/track/1hmeufH2R0CSwweMj6TlKu) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [King Baby](https://open.spotify.com/album/1cRf0gH7hkVHZQVZHwVXV7) | 3:12 |
-| 72 | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
+| 72 | [BITTER](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
 | 73 | [How To Hide A Body](https://open.spotify.com/track/1IdJzfAHivOqqxrKJV7vPc) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [How To Hide A Body](https://open.spotify.com/album/2KtAUlsmDGvAJztdw25nAN) | 2:41 |
 | 74 | [Hurts To Fall In Love](https://open.spotify.com/track/61DemwtAaOETDEvOkaEgZc) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF) | [hara\-kiri](https://open.spotify.com/album/10pNBvKvxocr6QKihfbAuM) | 2:03 |
 | 75 | [Colourblind](https://open.spotify.com/track/5q1Zaz0jxxPPrU67ddj0us) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Colourblind](https://open.spotify.com/album/47vmh3q3TOtDdLTJPvd9Yk) | 2:44 |

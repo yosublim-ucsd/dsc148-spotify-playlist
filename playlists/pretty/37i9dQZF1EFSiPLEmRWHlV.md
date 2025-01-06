@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 129 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 270 likes - 129 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 88 | [When I'm Alone](https://open.spotify.com/track/5Dk6mLcQ5EKYEkWSmLgQb5) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Joston](https://open.spotify.com/artist/7BZRNGgJbXaXPxtCQp3eSV), [Clementine Douglas](https://open.spotify.com/artist/5JK1Ax0uAufztPzZB0WqHa) | [Find the Sunrise](https://open.spotify.com/album/1WCqIa46hsuHtjhiFGT2ln) | 3:40 |
 | 89 | [Somebody To](https://open.spotify.com/track/1dJL5R596TtsWmQrES7l1b) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:52 |
 | 90 | [Forever](https://open.spotify.com/track/3K8xkM4XtDBUQ84UOxwHMn) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Forever](https://open.spotify.com/album/4KpQinESn0cY0Sa1Alf18v) | 3:36 |
-| 91 | [Night To Remember](https://open.spotify.com/track/2t0foGmnz3XeGyAT7qs6QR) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Sylvia Mwenze](https://open.spotify.com/artist/0tlyRkMBhTczE7WwefhApo) | [Night To Remember](https://open.spotify.com/album/0SKTNZZUfr0iXAalJxhLce) | 2:55 |
-| 92 | [10,000](https://open.spotify.com/track/08GQ59X7CfBA2fcauFZft5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 4:22 |
+| 91 | [10,000](https://open.spotify.com/track/08GQ59X7CfBA2fcauFZft5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 4:22 |
+| 92 | [Night To Remember](https://open.spotify.com/track/2t0foGmnz3XeGyAT7qs6QR) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Sylvia Mwenze](https://open.spotify.com/artist/0tlyRkMBhTczE7WwefhApo) | [Night To Remember](https://open.spotify.com/album/0SKTNZZUfr0iXAalJxhLce) | 2:55 |
 | 93 | [Here With Me](https://open.spotify.com/track/0Bq6F58iu7wRKOTaOm7Oke) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Here With Me](https://open.spotify.com/album/3LfpH2HGdyq4sDbJWiqwHn) | 2:28 |
 | 94 | [Dancing By Myself](https://open.spotify.com/track/13cgTDCZJj2AI9gfXIOmH4) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8) | [Dancing By Myself](https://open.spotify.com/album/1Pe38x5lQLhbTJ9st2wDHa) | 3:24 |
 | 95 | [Untold Business](https://open.spotify.com/track/6t0kYXM5ng8Pc4twDZjHoF) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 4:00 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 128 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 129 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `Abl/3gAAAAAGnJt4rktJgiNQvyabFsBV`
+Snapshot ID: `AbmFdAAAAADrvfmttbmjd/oAY8cCZ0eH`

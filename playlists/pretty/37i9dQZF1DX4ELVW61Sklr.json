@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 222127,
+  "num_followers": 222060,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,30 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "Fall in Love at Christmas",
+        "url": "https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Fall in Love at Christmas",
+      "url": "https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Christmas With PJ Morton",
         "url": "https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 287426,
       "name": "I Can Hardly Wait 'Til Christmas",
       "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Fall in Love at Christmas",
-        "url": "https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Fall in Love at Christmas",
-      "url": "https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -607,6 +607,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Christmas with PJ Morton (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 203207,
       "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
       "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
     },
     {
       "added_at": "2024-12-13 10:14:16",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Winter Loversland",
-        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        }
-      ],
-      "duration_ms": 117520,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Christmas Special",
@@ -751,6 +735,22 @@
       "duration_ms": 188533,
       "name": "Christmas Special",
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Winter Loversland",
+        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "duration_ms": 117520,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
-      "added_at": "2023-11-03 05:45:27",
-      "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 152205,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC"
-    },
-    {
       "added_at": "2024-11-22 08:50:08",
       "album": {
         "name": "Coco By The Fireplace",
@@ -851,6 +835,22 @@
       "duration_ms": 161684,
       "name": "Santa Is Me",
       "url": "https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD"
+    },
+    {
+      "added_at": "2023-11-03 05:45:27",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 152205,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC"
     },
     {
       "added_at": "2024-11-22 08:50:08",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/6UkM1RIxrnkEIIvyjmyD2Q"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "In Love at Christmas",
-      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
-    },
-    {
       "added_at": "2024-12-20 17:23:28",
       "album": {
         "name": "Secret Santa",
@@ -1119,6 +1103,22 @@
       "duration_ms": 140140,
       "name": "Santa Baby (with Summer Walker)",
       "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "In Love at Christmas",
+      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
     },
     {
       "added_at": "2023-12-08 05:22:39",
@@ -1277,6 +1277,38 @@
       "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
     },
     {
+      "added_at": "2024-12-13 10:14:16",
+      "album": {
+        "name": "Mrs Clause",
+        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
+      },
+      "artists": [
+        {
+          "name": "NYA",
+          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
+        }
+      ],
+      "duration_ms": 223071,
+      "name": "Mrs Clause",
+      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Spotify Singles - Holiday",
@@ -1295,22 +1327,6 @@
       "duration_ms": 186098,
       "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
-    },
-    {
-      "added_at": "2024-12-13 10:14:16",
-      "album": {
-        "name": "Mrs Clause",
-        "url": "https://open.spotify.com/album/3AeSLsmkyRANALmJEzDeOL"
-      },
-      "artists": [
-        {
-          "name": "NYA",
-          "url": "https://open.spotify.com/artist/5uERvTFbsm2Py897MvRSAs"
-        }
-      ],
-      "duration_ms": 223071,
-      "name": "Mrs Clause",
-      "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
     },
     {
       "added_at": "2023-11-03 05:45:27",
@@ -1367,22 +1383,6 @@
       "duration_ms": 253046,
       "name": "Here (For Christmas)",
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1573,22 +1573,6 @@
       "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Your Favorite Christmas Songs",
-        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 160083,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Christmas With Brandy",
@@ -1603,6 +1587,22 @@
       "duration_ms": 190799,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
     },
     {
       "added_at": "2023-11-18 05:00:00",

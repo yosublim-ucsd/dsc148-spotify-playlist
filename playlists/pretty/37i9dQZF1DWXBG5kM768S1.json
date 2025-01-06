@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 77274,
+  "num_followers": 77289,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "Og s\u00e5 kom resten av livet",
-        "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
-      },
-      "artists": [
-        {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
-        }
-      ],
-      "duration_ms": 311453,
-      "name": "E du nord",
-      "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
-    },
-    {
-      "added_at": "2025-01-02 23:00:08",
-      "album": {
         "name": "Godmorgen, s\u00f8ster",
         "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 270693,
       "name": "Tir n'a Noir",
       "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
+    },
+    {
+      "added_at": "2025-01-02 23:00:08",
+      "album": {
+        "name": "Og s\u00e5 kom resten av livet",
+        "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
+      },
+      "artists": [
+        {
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "E du nord",
+      "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
     },
     {
       "added_at": "2025-01-02 23:00:08",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "S\u00f8vnlaus",
-        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
-      },
-      "artists": [
-        {
-          "name": "Hellbillies",
-          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "20 \u00e5r p\u00e5 vegen",
-      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
-    },
-    {
-      "added_at": "2025-01-02 23:00:08",
-      "album": {
         "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
         "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 266328,
       "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
       "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+    },
+    {
+      "added_at": "2025-01-02 23:00:08",
+      "album": {
+        "name": "S\u00f8vnlaus",
+        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
+      },
+      "artists": [
+        {
+          "name": "Hellbillies",
+          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "20 \u00e5r p\u00e5 vegen",
+      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
     },
     {
       "added_at": "2025-01-02 23:00:08",
@@ -207,38 +207,6 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "Svarte Skyer",
-        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
-      },
-      "artists": [
-        {
-          "name": "Hanne S\u00f8rvaag",
-          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
-        }
-      ],
-      "duration_ms": 180328,
-      "name": "Svarte Skyer",
-      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
-    },
-    {
-      "added_at": "2025-01-02 23:00:08",
-      "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
-    },
-    {
-      "added_at": "2025-01-02 23:00:08",
-      "album": {
         "name": "Kamilla Og Tyven",
         "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
       },
@@ -255,22 +223,18 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "Underlig Frihet",
-        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
       },
       "artists": [
         {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
         }
       ],
-      "duration_ms": 265400,
-      "name": "Ka e du redd for",
-      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2025-01-02 23:00:08",
@@ -323,6 +287,42 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
+        "name": "Svarte Skyer",
+        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
+      },
+      "artists": [
+        {
+          "name": "Hanne S\u00f8rvaag",
+          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
+        }
+      ],
+      "duration_ms": 180328,
+      "name": "Svarte Skyer",
+      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
+    },
+    {
+      "added_at": "2025-01-02 23:00:08",
+      "album": {
+        "name": "Underlig Frihet",
+        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
+      },
+      "artists": [
+        {
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        }
+      ],
+      "duration_ms": 265400,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
+    },
+    {
+      "added_at": "2025-01-02 23:00:08",
+      "album": {
         "name": "Fra 4 Til 70",
         "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
       },
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "Til deg (Single Version)",
-        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
-      },
-      "artists": [
-        {
-          "name": "Marthe Wang",
-          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Til deg - Single Version",
-      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
-    },
-    {
-      "added_at": "2025-01-02 23:00:08",
-      "album": {
         "name": "Linedans",
         "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 230973,
       "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
       "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
+    },
+    {
+      "added_at": "2025-01-02 23:00:08",
+      "album": {
+        "name": "Til deg (Single Version)",
+        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
+      },
+      "artists": [
+        {
+          "name": "Marthe Wang",
+          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Til deg - Single Version",
+      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
     },
     {
       "added_at": "2025-01-02 23:00:08",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Sommerfuggel I Vinterland",
-      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
-    },
-    {
-      "added_at": "2025-01-02 23:00:08",
-      "album": {
         "name": "Kr\u00e5keviks Songbok",
         "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "Kom ut kom fram",
-        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
       },
       "artists": [
         {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Lilla vackra Anna",
-      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     },
     {
       "added_at": "2025-01-02 23:00:08",
@@ -639,6 +623,22 @@
       "duration_ms": 239586,
       "name": "Mysteriet deg",
       "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
+    },
+    {
+      "added_at": "2025-01-02 23:00:08",
+      "album": {
+        "name": "Kom ut kom fram",
+        "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
+      },
+      "artists": [
+        {
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Lilla vackra Anna",
+      "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
     },
     {
       "added_at": "2025-01-02 23:00:08",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "Stille Vann",
-      "url": "https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0"
-    },
-    {
-      "added_at": "2025-01-02 23:00:08",
-      "album": {
         "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
         "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "Ennu her",
-        "url": "https://open.spotify.com/album/3kFboxbUwWBzFBHfNwQqZ0"
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
       "artists": [
         {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
         }
       ],
-      "duration_ms": 212817,
-      "name": "Folk som ingen ser",
-      "url": "https://open.spotify.com/track/3Fk2KahVKObtHOfLzKm0RZ"
+      "duration_ms": 181413,
+      "name": "Stille Vann",
+      "url": "https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0"
     },
     {
       "added_at": "2025-01-02 23:00:08",
@@ -775,6 +759,22 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
+        "name": "Ennu her",
+        "url": "https://open.spotify.com/album/3kFboxbUwWBzFBHfNwQqZ0"
+      },
+      "artists": [
+        {
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+        }
+      ],
+      "duration_ms": 212817,
+      "name": "Folk som ingen ser",
+      "url": "https://open.spotify.com/track/3Fk2KahVKObtHOfLzKm0RZ"
+    },
+    {
+      "added_at": "2025-01-02 23:00:08",
+      "album": {
         "name": "Savner deg",
         "url": "https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 181282,
       "name": "Savner deg",
       "url": "https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt"
-    },
-    {
-      "added_at": "2025-01-02 23:00:08",
-      "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 260778,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
     },
     {
       "added_at": "2025-01-02 23:00:08",
@@ -835,18 +819,38 @@
     {
       "added_at": "2025-01-02 23:00:08",
       "album": {
-        "name": "Aldri i livet",
-        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
       "artists": [
         {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 188796,
-      "name": "Aldri i livet",
-      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
+      "duration_ms": 260778,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
+    },
+    {
+      "added_at": "2025-01-02 23:00:08",
+      "album": {
+        "name": "Heimlandsong",
+        "url": "https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 286675,
+      "name": "Heimlandsong",
+      "url": "https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ"
     }
   ],
   "unique_name": "Norske viser",

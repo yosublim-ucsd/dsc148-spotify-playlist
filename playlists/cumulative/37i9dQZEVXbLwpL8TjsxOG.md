@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,062 songs - 2 day 13 hr 50 min
+1,063 songs - 2 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-09 | 2023-09-13 |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2024-12-27 |  |
 | [Blue Blood](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:47 | 2023-04-12 | 2023-04-14 |
+| [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-05 |  |
 | [Born Singer](https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:58 | 2022-06-11 | 2022-06-13 |
 | [Boss](https://open.spotify.com/track/4xqUroNrreYU2CobUl84NH) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Boss](https://open.spotify.com/album/1ITsvXJZiUbOQGEfdGdMXv) | 4:02 | 2021-06-11 | 2021-09-11 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-19 | 2023-03-28 |
@@ -980,7 +981,7 @@
 | [第二人格](https://open.spotify.com/track/3N1Gv5Qtv22eFB3gWLCCOy) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [第二人格](https://open.spotify.com/album/6J5HvuoektIH4d7uoHJjV0) | 4:34 | 2023-06-16 | 2023-07-08 |
 | [筆友 \(電影《我談的那場戀愛》主題曲\)](https://open.spotify.com/track/6K0vTwio6ps1a33FWv06KT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [筆友 \(電影《我談的那場戀愛》主題曲\)](https://open.spotify.com/album/5sATazRtoCgwqf4ZnUys9P) | 4:20 | 2024-09-11 | 2025-01-05 |
 | [紅顏如霜](https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-16 | 2022-07-25 |
-| [純銀子彈](https://open.spotify.com/track/00l58ywFDoFBShu2vvFsIz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [純銀子彈](https://open.spotify.com/album/4oNpm1CABK7baRx8DLtxvN) | 4:50 | 2025-01-04 |  |
+| [純銀子彈](https://open.spotify.com/track/00l58ywFDoFBShu2vvFsIz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [純銀子彈](https://open.spotify.com/album/4oNpm1CABK7baRx8DLtxvN) | 4:50 | 2025-01-04 | 2025-01-06 |
 | [細胞](https://open.spotify.com/track/7LFX60BiB9VlEC6SWaV1ar) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [跟你開玩笑](https://open.spotify.com/album/4OOTFitJeeM3rjP0sWFsNG) | 2:30 | 2022-10-18 | 2022-10-20 |
 | [給你幸福 所以幸福](https://open.spotify.com/track/6UuJk5rvrxSnOAwv6uSr5b) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給你幸福 所以幸福](https://open.spotify.com/album/2rOeZHhWQCveBEPb3tslYB) | 4:04 | 2023-10-25 | 2024-10-17 |
 | [給缺席的人唱首歌](https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Love & Loss](https://open.spotify.com/album/2irTqW2Js2rvHWJPxW39XO) | 3:57 | 2023-01-24 | 2023-09-10 |

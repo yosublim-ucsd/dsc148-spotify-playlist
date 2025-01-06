@@ -4,12 +4,12 @@
 
 > 100% indie floorfillers.
 
-638 songs - 1 day 15 hr 53 min
+639 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11th Dimension](https://open.spotify.com/track/10thiO3wUYUguz1VvkIiVN) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [11th Dimension](https://open.spotify.com/album/6UDdbVDJvh8ofbUfG1CzEN) | 4:03 | 2023-07-21 | 2024-07-10 |
-| [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-11-27 |  |
+| [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-11-27 | 2025-01-06 |
 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-07-21 | 2024-12-20 |
 | [20th Century Boy](https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(Deluxe Edition\)](https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J) | 3:41 | 2023-07-21 | 2024-12-20 |
 | [3D Feelings](https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr) | 3:17 | 2022-11-27 | 2023-09-28 |
@@ -523,6 +523,7 @@
 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 | 2022-11-27 |  |
 | [Sur la planche 2013](https://open.spotify.com/track/1su9FWmWVgf71pqY78k5Ib) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Psycho Tropical Berlin](https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp) | 3:49 | 2022-11-27 | 2024-12-20 |
 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 | 2022-11-27 | 2024-04-19 |
+| [Switch](https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Switch](https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI) | 2:21 | 2024-12-30 |  |
 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 | 2022-11-27 |  |
 | [Take Back The Track](https://open.spotify.com/track/1ZIyfyeq7bJUf6BVb7RZGE) | [The Magic Gang](https://open.spotify.com/artist/52pNByiBWx6SVMMqqcCA74) | [Death of the Party \(Bonus Track Version\)](https://open.spotify.com/album/6Y1TYw4PUhsg7TtDIKRoAq) | 3:28 | 2024-12-20 | 2024-12-31 |
 | [Take Me Out](https://open.spotify.com/track/0ancVQ9wEcHVd0RrGICTE4) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/03akiuheNt5mJqltALnalP) | 3:57 | 2024-12-20 | 2024-12-31 |

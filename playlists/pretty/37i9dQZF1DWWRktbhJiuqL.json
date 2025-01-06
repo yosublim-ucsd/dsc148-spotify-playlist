@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2013190,
+  "num_followers": 2013223,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -119,38 +103,6 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -171,6 +123,54 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 304840,
       "name": "Uprising",
       "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me - Remastered 2017",
       "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 211960,
       "name": "Come with Me Now",
       "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "One Last Dance (From \"Venom: The Last Dance\")",
         "url": "https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 150636,
       "name": "One Last Dance (From \"Venom: The Last Dance\")",
       "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Unforgettable Fire (Remastered)",
-        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 228426,
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
-      "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Seal The Deal & Let's Boogie",
         "url": "https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+        "name": "The Unforgettable Fire (Remastered)",
+        "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
       },
       "artists": [
         {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
+      "duration_ms": 228426,
+      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Get Born",
+        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Are You Gonna Be My Girl",
+      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Dogs Of War",
+        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Dogs Of War",
+      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Rescued",
         "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Dogs Of War",
-        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Dogs Of War",
-      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Ten Tonne Skeleton",
-      "url": "https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Just Another Rainbow",
         "url": "https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 336218,
       "name": "Just Another Rainbow",
       "url": "https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Ten Tonne Skeleton",
+      "url": "https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Suck The Cherry",
+        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 183246,
+      "name": "Suck The Cherry",
+      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Patient Number 9",
         "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Suck The Cherry",
-        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 183246,
-      "name": "Suck The Cherry",
-      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/1hegGWYQg8BIOxUYOiLV39"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 258122,
-      "name": "Picture Of You (X+W)",
-      "url": "https://open.spotify.com/track/6VuW1nDQkjDklEa0Z4MHIe"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Imminent Redemption",
         "url": "https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi"
       },
@@ -2671,26 +2655,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
-        "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1hegGWYQg8BIOxUYOiLV39"
       },
       "artists": [
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 278297,
-      "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
-      "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
+      "duration_ms": 258122,
+      "name": "Picture Of You (X+W)",
+      "url": "https://open.spotify.com/track/6VuW1nDQkjDklEa0Z4MHIe"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2739,6 +2715,30 @@
       "duration_ms": 242576,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/51cFoZgKkZJhQa9iHy0EcD"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
+        "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        }
+      ],
+      "duration_ms": 278297,
+      "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
+      "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2859,22 +2859,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Ready For Something",
-        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Ready For Something",
-      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Welcome to Silvertown",
         "url": "https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY"
       },
@@ -2891,18 +2875,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Everyone's On Dope",
-        "url": "https://open.spotify.com/album/3M1Z7Qh9FgQ0muxhshho87"
+        "name": "Ready For Something",
+        "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
       },
       "artists": [
         {
-          "name": "Crossbone Skully",
-          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
         }
       ],
-      "duration_ms": 197225,
-      "name": "Everyone's On Dope",
-      "url": "https://open.spotify.com/track/0fxyJKQxMB8wi1efCN3LEm"
+      "duration_ms": 237560,
+      "name": "Ready For Something",
+      "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2923,6 +2907,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Everyone's On Dope",
+        "url": "https://open.spotify.com/album/3M1Z7Qh9FgQ0muxhshho87"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        }
+      ],
+      "duration_ms": 197225,
+      "name": "Everyone's On Dope",
+      "url": "https://open.spotify.com/track/0fxyJKQxMB8wi1efCN3LEm"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0OGPbEiLcVPG0Ie47FVjSE"
       },
@@ -2935,22 +2935,6 @@
       "duration_ms": 168204,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5HOSm48F0JwaxYaiEuX9j0"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "The Longest Kiss (Radio Edit)",
-        "url": "https://open.spotify.com/album/5fPJk3b3OVytk7bz2U0433"
-      },
-      "artists": [
-        {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
-        }
-      ],
-      "duration_ms": 164047,
-      "name": "The Longest Kiss - Radio Edit",
-      "url": "https://open.spotify.com/track/70SGUSGBpAD1FIEkmWM4PX"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2971,6 +2955,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "The Longest Kiss (Radio Edit)",
+        "url": "https://open.spotify.com/album/5fPJk3b3OVytk7bz2U0433"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 164047,
+      "name": "The Longest Kiss - Radio Edit",
+      "url": "https://open.spotify.com/track/70SGUSGBpAD1FIEkmWM4PX"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Blizzard of Ozz (Expanded Edition)",
         "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
       },
@@ -2983,6 +2983,22 @@
       "duration_ms": 296200,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/4eMG0IE1T1tko7r7YEa5xE"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "duration_ms": 193969,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3003,22 +3019,6 @@
       "duration_ms": 258000,
       "name": "I'd Like To Help You With Your Problem",
       "url": "https://open.spotify.com/track/7owBMA9eVGOxPyvFzbDMMk"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/4eMG0IE1T1tko7r7YEa5xE"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 193969,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Goin' Back Where I Came From",
-        "url": "https://open.spotify.com/album/0psPRMswWP2YrKN26weCIl"
-      },
-      "artists": [
-        {
-          "name": "Bones Owens",
-          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "Goin' Back Where I Came From",
-      "url": "https://open.spotify.com/track/1c5q7DAa1EoEDf4qVymvMs"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Charlie Patton Highway (Turn it Up, Pt. 1)",
         "url": "https://open.spotify.com/album/5XVZRM83dfA9YGj2hsaOSs"
       },
@@ -3115,6 +3099,22 @@
       "duration_ms": 260360,
       "name": "Charlie Patton Highway (Turn it Up, Pt. 1)",
       "url": "https://open.spotify.com/track/126giU8BEn5WzeJGkFhD0d"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Goin' Back Where I Came From",
+        "url": "https://open.spotify.com/album/0psPRMswWP2YrKN26weCIl"
+      },
+      "artists": [
+        {
+          "name": "Bones Owens",
+          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Goin' Back Where I Came From",
+      "url": "https://open.spotify.com/track/1c5q7DAa1EoEDf4qVymvMs"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3151,18 +3151,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+      "duration_ms": 231800,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3199,18 +3199,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
       "artists": [
         {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip"
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -3263,22 +3263,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "HEAVY META",
         "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
       },
@@ -3291,6 +3275,22 @@
       "duration_ms": 220538,
       "name": "Young Lady, You're Scaring Me",
       "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 274133,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
     }
   ],
   "unique_name": "Pure Rock & Roll",

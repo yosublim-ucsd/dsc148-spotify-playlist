@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 240459,
+  "num_followers": 240481,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAABj4p+M7GyXMmNeM6r5gZDS",
+  "snapshot_id": "Z3h6AAAAAAAyGjQ1PE2QxxphwcPz6eJb",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EKKSTACY",
-        "url": "https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC"
+        "name": "Diva (feat. Lil Tecca)",
+        "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        },
-        {
           "name": "The Kid LAROI",
           "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 129880,
-      "name": "alright (feat. The Kid LAROI)",
-      "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
+      "duration_ms": 172004,
+      "name": "Diva (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
     },
     {
       "added_at": null,
@@ -415,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diva (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
+        "name": "EKKSTACY",
+        "url": "https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         },
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 172004,
-      "name": "Diva (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
+      "duration_ms": 129880,
+      "name": "alright (feat. The Kid LAROI)",
+      "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
     },
     {
       "added_at": null,

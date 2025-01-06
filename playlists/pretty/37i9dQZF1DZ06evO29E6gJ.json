@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 11832,
+  "num_followers": 11831,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAC1a6tBtGVUvbc0Tw7/OXGD",
+  "snapshot_id": "Z3h6AAAAAADbMQfnNqXkRnO72FQinoOO",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f1onazos Norte\u00f1os",
-        "url": "https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 152493,
-      "name": "Cajita de Oro",
-      "url": "https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Alegres De Ter\u00e1n, Sus Mejores Corridos Y Rancheras Contestadas",
         "url": "https://open.spotify.com/album/43Eu9c8JiKyvuWMAnJCuxc"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ca\u00f1onazos Norte\u00f1os",
+        "url": "https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 152493,
+      "name": "Cajita de Oro",
+      "url": "https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Contestadas",
         "url": "https://open.spotify.com/album/6ho7Igzb95M9rfpkU5ARXd"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1as de Oro",
-        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "La Mula Bronca",
-      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Gran Coleccion de Oro, Vol. 1",
         "url": "https://open.spotify.com/album/7FgTvoZPZEOarrn1kKHWa0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 166053,
       "name": "Hablando Claro",
       "url": "https://open.spotify.com/track/7cXUofSYEealMPBcymmKGp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte\u00f1as de Oro",
+        "url": "https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "La Mula Bronca",
+      "url": "https://open.spotify.com/track/3XYKkhVYeNveTUFgGPj4ip"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 11280,
+  "num_followers": 11287,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAABy6gFTB7r+Jaobci9zxh7C",
+  "snapshot_id": "Z3h6AAAAAADi+apX7+Cl8I2GwRKbSpId",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 334186,
+      "name": "Nobody - Live",
+      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anyhow",
         "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 238098,
       "name": "Anyhow - Radio Edit",
       "url": "https://open.spotify.com/track/4YYMP4WMs75a36aHeMOBEX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 406946,
-      "name": "Chasing After You (The Morning Song)",
-      "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 334186,
-      "name": "Nobody - Live",
-      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
+      "duration_ms": 406946,
+      "name": "Chasing After You (The Morning Song)",
+      "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
     },
     {
       "added_at": null,
@@ -540,25 +540,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 50188,
-      "name": "There Is Nothing Like - Live",
-      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "No Way (The G.A. Chant)",
-      "url": "https://open.spotify.com/track/796T4AcNsk8eFPrJRViYMX"
+      "duration_ms": 101106,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/2vpzga018mYLVXkE77wEds"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
       "duration_ms": 392586,
       "name": "Give Thanks - Live",
       "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "No Way (The G.A. Chant)",
+      "url": "https://open.spotify.com/track/796T4AcNsk8eFPrJRViYMX"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 101106,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/2vpzga018mYLVXkE77wEds"
+      "duration_ms": 50188,
+      "name": "There Is Nothing Like - Live",
+      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 198226,
-      "name": "1-2 (Victory Check) - Live",
-      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
+      "duration_ms": 327400,
+      "name": "Hallelujah To Your Name - Live",
+      "url": "https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 327400,
-      "name": "Hallelujah To Your Name - Live",
-      "url": "https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ"
+      "duration_ms": 336080,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
     }
   ],
   "unique_name": "This Is Tye Tribbett",

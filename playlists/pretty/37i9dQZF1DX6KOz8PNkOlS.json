@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 488557,
+  "num_followers": 488674,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2024-10-24 20:16:32",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
-      "added_at": "2024-10-24 20:21:59",
-      "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 198463,
-      "name": "Already Yours",
-      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "5",
@@ -379,6 +363,22 @@
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2024-10-24 20:21:59",
+      "album": {
+        "name": "Sof\u00eda Vald\u00e9s",
+        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 198463,
+      "name": "Already Yours",
+      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz"
     },
     {
-      "added_at": "2023-04-05 03:29:43",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "ALPHA",
@@ -529,6 +513,38 @@
       "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
+      "added_at": "2023-04-05 03:29:43",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "I'll Come Too",
+      "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
+    },
+    {
       "added_at": "2024-06-27 18:37:57",
       "album": {
         "name": "Notes from a Quiet Life",
@@ -577,22 +593,6 @@
       "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "I'll Come Too",
-      "url": "https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl"
-    },
-    {
       "added_at": "2024-05-02 22:57:54",
       "album": {
         "name": "Love from the Other Side",
@@ -607,6 +607,26 @@
       "duration_ms": 249405,
       "name": "Love from the Other Side",
       "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2023-04-14 00:36:48",
@@ -675,38 +695,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
-    },
-    {
-      "added_at": "2022-10-05 01:25:40",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 182710,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2022-04-18 03:39:12",
@@ -723,6 +723,22 @@
       "duration_ms": 173774,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
+    },
+    {
+      "added_at": "2022-10-05 01:25:40",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 182710,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
     },
     {
       "added_at": "2022-09-29 00:10:44",
@@ -779,6 +795,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Red Room",
         "url": "https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj"
       },
@@ -823,22 +855,6 @@
       "duration_ms": 140898,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -905,22 +921,6 @@
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
-    },
-    {
       "added_at": "2023-04-05 03:20:02",
       "album": {
         "name": "For Granted",
@@ -951,6 +951,22 @@
       "duration_ms": 252693,
       "name": "Spotlight - Single Edit",
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2024-10-16 01:56:16",
@@ -1033,22 +1049,6 @@
       "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
       "added_at": "2023-12-20 03:34:06",
       "album": {
         "name": "Fuse",
@@ -1063,26 +1063,6 @@
       "duration_ms": 219240,
       "name": "Run A Red Light",
       "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
-    },
-    {
-      "added_at": "2024-07-09 04:30:16",
-      "album": {
-        "name": "In The Half Light",
-        "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
-      },
-      "artists": [
-        {
-          "name": "Swim Surreal",
-          "url": "https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B"
-        },
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
     },
     {
       "added_at": "2022-01-12 18:14:24",
@@ -1103,6 +1083,26 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
+    },
+    {
+      "added_at": "2024-07-09 04:30:16",
+      "album": {
+        "name": "In The Half Light",
+        "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
+      },
+      "artists": [
+        {
+          "name": "Swim Surreal",
+          "url": "https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B"
+        },
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
     },
     {
       "added_at": "2023-01-04 01:09:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Sounds Of Blue",
-        "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
-      },
-      "artists": [
-        {
-          "name": "Morcheeba",
-          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
-        }
-      ],
-      "duration_ms": 214897,
-      "name": "Sounds Of Blue",
-      "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Sounds Of Blue",
+        "url": "https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc"
+      },
+      "artists": [
+        {
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        }
+      ],
+      "duration_ms": 214897,
+      "name": "Sounds Of Blue",
+      "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
     },
     {
       "added_at": "2023-05-24 02:01:11",
@@ -1289,6 +1289,22 @@
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
     },
     {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+    },
+    {
       "added_at": "2023-06-02 01:19:32",
       "album": {
         "name": "Giver Taker",
@@ -1341,20 +1357,20 @@
       "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-09-13 16:09:15",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
         }
       ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1393,22 +1409,6 @@
       "url": "https://open.spotify.com/track/76J5USnS7KSKZVwZURVlMI"
     },
     {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
-    },
-    {
       "added_at": "2023-08-31 18:57:48",
       "album": {
         "name": "After Hours (Yu Su Remix)",
@@ -1445,38 +1445,6 @@
       "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
     },
     {
-      "added_at": "2022-01-26 18:13:44",
-      "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Virtual U",
-        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
-      },
-      "artists": [
-        {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
-        }
-      ],
-      "duration_ms": 302190,
-      "name": "Virtual U",
-      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
-    },
-    {
       "added_at": "2023-04-11 00:45:41",
       "album": {
         "name": "Sundown",
@@ -1493,6 +1461,22 @@
       "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
     },
     {
+      "added_at": "2022-01-26 18:13:44",
+      "album": {
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
+    },
+    {
       "added_at": "2023-03-22 17:53:19",
       "album": {
         "name": "SMT",
@@ -1507,6 +1491,22 @@
       "duration_ms": 197600,
       "name": "SMT",
       "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Virtual U",
+        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 302190,
+      "name": "Virtual U",
+      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "pop songs 2020",
         "url": "https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 207535,
       "name": "Black Light",
       "url": "https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2021-10-15 03:01:31",

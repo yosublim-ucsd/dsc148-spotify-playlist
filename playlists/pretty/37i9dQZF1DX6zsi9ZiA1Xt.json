@@ -1,6 +1,6 @@
 {
   "description": "Con un poco de buena salsa todo queda limpio y reluciente.",
-  "num_followers": 35978,
+  "num_followers": 35989,
   "original_name": "\u00a1A Limpiar con Salsa!",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,26 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
         "name": "Cheo",
         "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
       },
@@ -143,42 +163,6 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Salsa De La Mata, Vol. 2",
-        "url": "https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk"
-      },
-      "artists": [
-        {
-          "name": "Wayne Gorbea",
-          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
-        }
-      ],
-      "duration_ms": 291970,
-      "name": "Alo Alo",
-      "url": "https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
         "name": "Numero 7",
         "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 298515,
       "name": "Un verano en Nueva York",
       "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "Salsa De La Mata, Vol. 2",
+        "url": "https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk"
+      },
+      "artists": [
+        {
+          "name": "Wayne Gorbea",
+          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
+        }
+      ],
+      "duration_ms": 291970,
+      "name": "Alo Alo",
+      "url": "https://open.spotify.com/track/5X67X7Nfl8V9EigDe1p4cE"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
         "name": "El Agua de la Vida",
         "url": "https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 282981,
       "name": "El Manicero",
       "url": "https://open.spotify.com/track/1xTtQuHbtAh6WvzZZNXbIu"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -395,6 +395,22 @@
       "duration_ms": 373560,
       "name": "Juan Pachanga",
       "url": "https://open.spotify.com/track/1jUMNoLhnrD3c8iWncVFSr"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 249373,
+      "name": "Azuquita Pa'l Cafe",
+      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -455,22 +471,6 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Apollo Sound 5",
-        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 287586,
-      "name": "Cui Cui",
-      "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
         "name": "The Very Best Of Beny More Vol. 1",
         "url": "https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq"
       },
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+        "name": "Apollo Sound 5",
+        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
         }
       ],
-      "duration_ms": 249373,
-      "name": "Azuquita Pa'l Cafe",
-      "url": "https://open.spotify.com/track/3ZmIxCahvjC07OaxCIoCsM"
+      "duration_ms": 287586,
+      "name": "Cui Cui",
+      "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
     },
     {
       "added_at": "2023-02-14 01:28:06",
@@ -779,38 +779,6 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Fuego En El 23",
-        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Fuego En El 23",
-      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
-        "name": "La Rockola Salsa, Vol. 1",
-        "url": "https://open.spotify.com/album/5Mm4NtnQ4QyM2VuGvbEnHn"
-      },
-      "artists": [
-        {
-          "name": "Wayne Gorbea",
-          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Estamos en Salsa",
-      "url": "https://open.spotify.com/track/0M1R4sg4ANP9lsTeAszqQH"
-    },
-    {
-      "added_at": "2023-02-14 01:28:06",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
       },
@@ -847,6 +815,38 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
+        "name": "La Rockola Salsa, Vol. 1",
+        "url": "https://open.spotify.com/album/5Mm4NtnQ4QyM2VuGvbEnHn"
+      },
+      "artists": [
+        {
+          "name": "Wayne Gorbea",
+          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Estamos en Salsa",
+      "url": "https://open.spotify.com/track/0M1R4sg4ANP9lsTeAszqQH"
+    },
+    {
+      "added_at": "2023-02-14 01:28:06",
+      "album": {
         "name": "Old Love Dies Hard",
         "url": "https://open.spotify.com/album/3TMmBldOjrRCwxJd2czJ1B"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-02-14 01:28:06",
       "album": {
-        "name": "Selecciones Fania",
-        "url": "https://open.spotify.com/album/55Upg44ZfWsYFHNQnRPK43"
+        "name": "The Original Gangster",
+        "url": "https://open.spotify.com/album/3JeCqt5x6vtDbGPYhGDmW6"
       },
       "artists": [
         {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 312640,
-      "name": "Catalina La O",
-      "url": "https://open.spotify.com/track/5w5B1ccui0lRPR7Qh3yVyA"
+      "duration_ms": 228373,
+      "name": "Calle Luna Calle Sol",
+      "url": "https://open.spotify.com/track/1R8FUoJjGt0YUzHFvrQ46E"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Salsa!",

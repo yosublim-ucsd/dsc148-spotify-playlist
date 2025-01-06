@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,070 likes - 981 songs - 2 day 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,066 likes - 981 songs - 2 day 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 6 | [火柴 \- Acoustic / Spotify Singles](https://open.spotify.com/track/28F59BoXW9aXhx9TiPB1OH) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [火柴 \(Acoustic / Spotify Singles\)](https://open.spotify.com/album/0Rw8xSIqO7KCXwMXZDLXtO) | 2:52 |
 | 7 | [Hate myself \- Spotify Singles](https://open.spotify.com/track/79KrPknij8FGaflUga6YII) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [Hate myself \- Spotify Singles](https://open.spotify.com/album/4n4DKBWB5hlIeTRV4z5ttP) | 2:35 |
 | 8 | [Love You & Your Friends \- Spotify Singles](https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [Spotify Singles](https://open.spotify.com/album/6yjyYKA3hVLAIMRi5rsDdk) | 3:53 |
-| 9 | [終究還是因為愛 \- Spotify Singles](https://open.spotify.com/track/5eDqchkLCMsJCkSqGm9NyB) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [Spotify Singles](https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr) | 4:23 |
-| 10 | [偷偷想念你 \- Spotify Singles \(feat\. 方晨\)](https://open.spotify.com/track/5YTMxQ8Famc23QQIZizvh0) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ), [方晨](https://open.spotify.com/artist/5Nd4foqBx41TIEW2VXyENC) | [Spotify Singles](https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr) | 3:42 |
+| 9 | [終究還是因為愛 \- Spotify Singles](https://open.spotify.com/track/5eDqchkLCMsJCkSqGm9NyB) | [Ben Ladin](https://open.spotify.com/artist/12kEQTCYPhSoW54jJ0Pngm) | [Spotify Singles](https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr) | 4:23 |
+| 10 | [偷偷想念你 \- Spotify Singles \(feat\. 方晨\)](https://open.spotify.com/track/5YTMxQ8Famc23QQIZizvh0) | [Ben Ladin](https://open.spotify.com/artist/12kEQTCYPhSoW54jJ0Pngm), [方晨](https://open.spotify.com/artist/5Nd4foqBx41TIEW2VXyENC) | [Spotify Singles](https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr) | 3:42 |
 | 11 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 12 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
 | 13 | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4) | 4:02 |

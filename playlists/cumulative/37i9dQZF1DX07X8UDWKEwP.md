@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Tiago PZK & Grupo Frontera
 
-555 songs - 1 day 7 hr 37 min
+556 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bailando](https://open.spotify.com/track/1FLjWgNJWxFlCWLYQJGOg1) | [Gerardo Nieto](https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2) | [Bailando](https://open.spotify.com/album/0agZ0V8dJEiQjLoBiMuY1D) | 5:02 | 2022-01-01 | 2022-06-30 |
 | [Bailando](https://open.spotify.com/track/0Yefo9JzrxBPXDMkxhjGCK) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Bailando](https://open.spotify.com/album/2ah2BPczU5pjr3aR85Uscj) | 3:25 | 2022-03-04 | 2022-06-30 |
 | [Bailando Así \- Remix](https://open.spotify.com/track/14K9CZLBACYUtZt1CvyI5M) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Bailando Así \(Remix\)](https://open.spotify.com/album/45XoCdig4NWjtZT0mDtgUx) | 2:28 | 2024-10-18 | 2024-11-30 |
+| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-05 |  |
 | [Bailemos](https://open.spotify.com/track/0znCmmewRJCV7UBiUKA2fC) | [Michael Stuart](https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe) | [Bailemos](https://open.spotify.com/album/4ahp7Jk38bP5LMUYa9otdE) | 3:31 | 2022-06-29 | 2023-01-14 |
 | [Bajo la Luna](https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Bajo la Luna](https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY) | 3:49 | 2024-10-11 |  |
 | [Bam Bam](https://open.spotify.com/track/7d8RnfiIRy8WXDPWbSyd1F) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Bam Bam](https://open.spotify.com/album/6R2HxOJdDHXW1l856TWRdM) | 4:15 | 2024-09-27 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-3,428 songs - 7 day 14 hr 57 min
+3,429 songs - 7 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1603,7 +1603,7 @@
 | [Kingdom](https://open.spotify.com/track/3gILDObZFV7LD5pmjSr9zo) | [Downstait](https://open.spotify.com/artist/4g6EnIPhmYBTZ7vsmxDkxH) | [Kingdom](https://open.spotify.com/album/0x4hB9vx14nmKhnI3br9wh) | 3:30 | 2024-04-09 | 2024-04-20 |
 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-10-15 | 2024-10-23 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-07-13 | 2024-09-04 |
-| [kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [kisses in the wind](https://open.spotify.com/album/3cT1UauYmRuXSvISJAcocn) | 2:28 | 2025-01-04 |  |
+| [kisses in the wind](https://open.spotify.com/track/6hOzyj0ywlDrxOXGP44b4U) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [kisses in the wind](https://open.spotify.com/album/3cT1UauYmRuXSvISJAcocn) | 2:28 | 2025-01-04 | 2025-01-06 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-18 | 2023-04-20 |
 | [KNOCK](https://open.spotify.com/track/6KiEF5zqzHiFjzdm8gChz7) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Over The Moon](https://open.spotify.com/album/0WGMSrfOSPh1vctL94IWD3) | 2:53 | 2023-05-09 | 2023-05-15 |
 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 | 2023-05-10 | 2023-05-30 |
@@ -1792,6 +1792,7 @@
 | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/track/5ZF6l3xKi3m6YK2dDXAsR5) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Love Me Back \(Fayahh Beat\)](https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s) | 3:13 | 2022-04-28 | 2022-05-04 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-05-14 | 2024-05-29 |
 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 | 2022-02-08 | 2022-02-16 |
+| [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-01-05 |  |
 | [Love on me](https://open.spotify.com/track/2qHTaWYpcuWoOh8bZBhbrI) | [Jtbazz](https://open.spotify.com/artist/3nBrq5WZyZk1t88my2lqXc) | [Love on me](https://open.spotify.com/album/6PbMVt3SFeIQO2EaxMd32v) | 1:29 | 2023-12-29 | 2024-01-18 |
 | [Love Potions](https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY) | [BJ Lips](https://open.spotify.com/artist/22jHNXFZFhbCjUcEAm5xl9), [princess paparazzi](https://open.spotify.com/artist/2avrAiKHyEOuZq92O1yIxV) | [Cum n Cocaine](https://open.spotify.com/album/2blliGGUSb0eMWp9iFHI6h) | 2:53 | 2024-08-10 | 2024-09-11 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-11-05 | 2024-11-18 |

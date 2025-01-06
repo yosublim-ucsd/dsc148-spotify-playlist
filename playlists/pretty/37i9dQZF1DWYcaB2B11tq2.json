@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcos Witt",
-  "num_followers": 442825,
+  "num_followers": 443000,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,38 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 211995,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 310961,
+      "name": "Alaba A Dios",
+      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -531,22 +563,6 @@
       "duration_ms": 252493,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 211995,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 310961,
-      "name": "Alaba A Dios",
-      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+        "name": "Voy A Profetizar",
+        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
       },
       "artists": [
         {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
         }
       ],
-      "duration_ms": 251429,
-      "name": "S\u00e9 fuerte",
-      "url": "https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv"
+      "duration_ms": 284238,
+      "name": "El Rey Te Mand\u00f3 Llamar",
+      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -691,6 +691,22 @@
       "duration_ms": 324493,
       "name": "Inexplicable",
       "url": "https://open.spotify.com/track/5L4hDAnKu7btTTyM3ucm24"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 251429,
+      "name": "S\u00e9 fuerte",
+      "url": "https://open.spotify.com/track/4bqXBoZT5yzGmMoppIeuvv"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -727,22 +743,6 @@
       "duration_ms": 338015,
       "name": "Fiesta en el desierto (la la la)",
       "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Voy A Profetizar",
-        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 284238,
-      "name": "El Rey Te Mand\u00f3 Llamar",
-      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -867,46 +867,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "ResplanDC",
-        "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
-      },
-      "artists": [
-        {
-          "name": "Visi\u00f3n Juvenil",
-          "url": "https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 408026,
-      "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
-      "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "CONXSI\u00d3N",
-        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Lo Que Se Va",
-      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "En Esto Creo (Live)",
         "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
@@ -923,30 +883,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Coritos (En Vivo)",
-        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
+        "name": "ResplanDC",
+        "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+          "name": "Visi\u00f3n Juvenil",
+          "url": "https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r"
         },
         {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
         }
       ],
-      "duration_ms": 687091,
-      "name": "Coritos (En Vivo)",
-      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
+      "duration_ms": 408026,
+      "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
+      "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -983,6 +935,54 @@
       "duration_ms": 488927,
       "name": "Danzando - Live",
       "url": "https://open.spotify.com/track/2XjDhJaZnBT2G2a08Gtbky"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "CONXSI\u00d3N",
+        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Lo Que Se Va",
+      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Coritos (En Vivo)",
+        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 687091,
+      "name": "Coritos (En Vivo)",
+      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Todos Unidos (Discograf\u00eda Completa)",
-        "url": "https://open.spotify.com/album/1XgXnV9pF7ITKOaOf6EPrs"
-      },
-      "artists": [
-        {
-          "name": "Jackson Gomez",
-          "url": "https://open.spotify.com/artist/3HsDckNcQ0EqJ5HhhodhCP"
-        }
-      ],
-      "duration_ms": 344283,
-      "name": "Leon de Jud\u00e1",
-      "url": "https://open.spotify.com/track/3rCg0CNahe2SnzGefriBgO"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Vivir",
         "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 285288,
       "name": "Yo Tengo un Nuevo Amor",
       "url": "https://open.spotify.com/track/6sbYCeaRR96YVxQCdG10qd"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Todos Unidos (Discograf\u00eda Completa)",
+        "url": "https://open.spotify.com/album/1XgXnV9pF7ITKOaOf6EPrs"
+      },
+      "artists": [
+        {
+          "name": "Jackson Gomez",
+          "url": "https://open.spotify.com/artist/3HsDckNcQ0EqJ5HhhodhCP"
+        }
+      ],
+      "duration_ms": 344283,
+      "name": "Leon de Jud\u00e1",
+      "url": "https://open.spotify.com/track/3rCg0CNahe2SnzGefriBgO"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Bendecir Tu Nombre",
-        "url": "https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rojas",
-          "url": "https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z"
-        }
-      ],
-      "duration_ms": 266947,
-      "name": "Bendecir Tu Nombre",
-      "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Cordero Inmolado (Live)",
         "url": "https://open.spotify.com/album/4nHUmEs17FbQwjhm5O43RY"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 995605,
       "name": "Cordero Inmolado - Live",
       "url": "https://open.spotify.com/track/1vF4AjVzhyGYqy7MQRpw35"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Bendecir Tu Nombre",
+        "url": "https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rojas",
+          "url": "https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z"
+        }
+      ],
+      "duration_ms": 266947,
+      "name": "Bendecir Tu Nombre",
+      "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "El Milagro",
-        "url": "https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 234475,
-      "name": "El Milagro",
-      "url": "https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Tu Luz",
         "url": "https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad"
       },
@@ -1795,22 +1779,18 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "#DesdeCasa - Parte B",
-        "url": "https://open.spotify.com/album/0CgtYj03PrOBNkZrdKPSal"
+        "name": "El Milagro",
+        "url": "https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM"
       },
       "artists": [
         {
-          "name": "Comunidad Music",
-          "url": "https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd"
-        },
-        {
-          "name": "Jhonny Caprini",
-          "url": "https://open.spotify.com/artist/23bRlgh4Ej3jQ2oZKzQB9F"
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Latido",
-      "url": "https://open.spotify.com/track/0LbNO9UA0I8EDHLwIZ3dXa"
+      "duration_ms": 234475,
+      "name": "El Milagro",
+      "url": "https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1831,6 +1811,26 @@
       "duration_ms": 230476,
       "name": "Da\u00f1ar el Jangueo",
       "url": "https://open.spotify.com/track/2G57GCgrChXL9CQ0yUMX7f"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "#DesdeCasa - Parte B",
+        "url": "https://open.spotify.com/album/0CgtYj03PrOBNkZrdKPSal"
+      },
+      "artists": [
+        {
+          "name": "Comunidad Music",
+          "url": "https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd"
+        },
+        {
+          "name": "Jhonny Caprini",
+          "url": "https://open.spotify.com/artist/23bRlgh4Ej3jQ2oZKzQB9F"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Latido",
+      "url": "https://open.spotify.com/track/0LbNO9UA0I8EDHLwIZ3dXa"
     },
     {
       "added_at": "2024-12-11 11:03:37",

@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 100691,
+  "num_followers": 100714,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Naufragios",
         "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 312400,
       "name": "Tabaco y Chanel",
       "url": "https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -275,38 +275,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Tu Calorro",
-      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Furia Latina",
         "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
       },
@@ -339,6 +307,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
         "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
       },
@@ -355,18 +339,34 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Que Salga El Sol Por Donde Quiera",
-        "url": "https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya"
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
       "artists": [
         {
-          "name": "El Arrebato",
-          "url": "https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 228800,
-      "name": "B\u00fascate un hombre que te quiera",
-      "url": "https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh"
+      "duration_ms": 190626,
+      "name": "Tu Calorro",
+      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Aviones",
+        "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Lady Madrid",
+      "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Que Salga El Sol Por Donde Quiera",
+        "url": "https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya"
+      },
+      "artists": [
+        {
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "B\u00fascate un hombre que te quiera",
+      "url": "https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Los Secretos",
         "url": "https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Aviones",
-        "url": "https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Lady Madrid",
-      "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Personas",
         "url": "https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 259720,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Una Peque\u00f1a Parte Del Mundo",
+        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "C\u00f3mo hablar",
+      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -471,22 +487,6 @@
       "duration_ms": 202146,
       "name": "Pan y mantequilla",
       "url": "https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Una Peque\u00f1a Parte Del Mundo",
-        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 241266,
-      "name": "C\u00f3mo hablar",
-      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "La taberna del Buda",
+        "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "La taberna del Buda",
+      "url": "https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Confidencial/New Booklet",
         "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 266623,
       "name": "Carreteras Infinitas",
       "url": "https://open.spotify.com/track/2Q6qD1YTFn7NHuy2WmMGPG"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "La taberna del Buda",
-        "url": "https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "La taberna del Buda",
-      "url": "https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Vestidos De Domingo (+ Remixes)",
         "url": "https://open.spotify.com/album/1zIyzZFhqB27mVPqnwJpTs"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 254653,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/1pX5XE5hajZQ4lB6HuMVKa"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/6uojMoKuVkIVEeqH4JCBAr"
     },
     {
       "added_at": "2022-01-25 22:47:02",

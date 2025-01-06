@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Sergio George, Lenny Tavárez, Christian Alicea & Rafa Pabön
 
-290 songs - 21 hr 13 min
+291 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Así Es la Vida](https://open.spotify.com/track/72AMsl79P96E6rz36zQ7Rc) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Mis Favoritas](https://open.spotify.com/album/2egG2DlANQY3fxAI3gOaCZ) | 4:41 | 2022-01-01 | 2022-07-29 |
 | [Ayúdame Inspiración](https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ayúdame Inspiración](https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO) | 4:07 | 2022-01-01 | 2022-02-01 |
 | [Bailando A Tu Son](https://open.spotify.com/track/3vrPR7zhJKvVG5INzVu8l6) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Debut y Segunda Tanda, Vol.1](https://open.spotify.com/album/1m8xBkNoOgnAPnHL5VLdem) | 4:36 | 2022-09-09 | 2024-03-18 |
+| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-05 |  |
 | [Basta Ya](https://open.spotify.com/track/5LpobtWokaLmZW87M52tgL) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Basta Ya](https://open.spotify.com/album/6DOxLq4YiYcq815ABk5PB8) | 3:02 | 2024-04-12 | 2024-04-28 |
 | [Besos de Amor](https://open.spotify.com/track/1mjnPkzmQBrm5x4p1dpxnP) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Besos de Amor](https://open.spotify.com/album/7uopsqM4qKfK7M8TwLqqm7) | 4:32 | 2022-03-18 | 2022-05-27 |
 | [Bochinchero](https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG) | [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Bochinchero](https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY) | 3:19 | 2024-02-16 | 2024-10-10 |
@@ -147,7 +148,7 @@
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2022-05-20 | 2024-04-19 |
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/7HL0P35A96wkutKopiovaX) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Festejá con ritmos latinos](https://open.spotify.com/album/3nnjSxO8sva22SJQgOwKYL) | 4:38 | 2022-09-09 | 2022-11-14 |
 | [La Vida Es Una Fiesta](https://open.spotify.com/track/2fR4C0tal4V0MV4SAcSFEH) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [La Vida Es Una Fiesta](https://open.spotify.com/album/16a8ideBSg8vQrmhQy8xSZ) | 3:20 | 2024-07-26 |  |
-| [Llorar Bonito](https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Llorar Bonito](https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT) | 3:55 | 2024-05-24 |  |
+| [Llorar Bonito](https://open.spotify.com/track/1fMrqP0wLuJiVRZnxZlqvz) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Llorar Bonito](https://open.spotify.com/album/46HRM7k8BxkyhhzDTjkbxT) | 3:55 | 2024-05-24 | 2025-01-06 |
 | [Llorarás](https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Los Oscares De Oscar](https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ) | 3:48 | 2022-01-01 |  |
 | [Lo Dudo](https://open.spotify.com/track/0mZqBGmiNEmhDyUnfKrj9A) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [Celebrando Otro Aniversario](https://open.spotify.com/album/6D3WhKedEYDPQjuWSo6Aph) | 5:08 | 2022-01-01 | 2022-05-26 |
 | [Lo Dudo \(feat\. Frankie Ruiz & Hector Trioche\)](https://open.spotify.com/track/3eT851yEUBZFxqVPxzO5pi) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Hector Trioche](https://open.spotify.com/artist/0dCUgh9eADnLsyDWCY2iNK) | [Celebrando Otro Aniversario \(feat\. Frankie Ruiz & Hector Trioche\)](https://open.spotify.com/album/5jNfI4zTzOYFdycIzK1pkQ) | 5:08 | 2022-05-20 | 2023-07-25 |

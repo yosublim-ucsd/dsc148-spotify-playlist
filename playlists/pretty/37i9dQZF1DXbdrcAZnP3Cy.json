@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 178956,
+  "num_followers": 179019,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -211,38 +211,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 156520,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Una Lluvia De Rosas",
         "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
@@ -255,6 +223,22 @@
       "duration_ms": 181306,
       "name": "17 A\u00f1os",
       "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -287,6 +271,22 @@
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Zool\u00f3gico Tropical",
-        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Cumbia De La Cobra",
-      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+        "name": "Zool\u00f3gico Tropical",
+        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
         }
       ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+      "duration_ms": 198613,
+      "name": "Cumbia De La Cobra",
+      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -455,22 +439,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Los Locos Del Corrido",
         "url": "https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo"
       },
@@ -483,6 +451,38 @@
       "duration_ms": 236640,
       "name": "Agua De T\u00e9",
       "url": "https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Fiesta Mexicana Con La Banda",
         "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 139186,
       "name": "El Mech\u00f3n",
       "url": "https://open.spotify.com/track/7dbOcZwBpDCUqR7sIz3djU"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D"
-      },
-      "artists": [
-        {
-          "name": "Caballo Dorado",
-          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "No rompas mi coraz\u00f3n - Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Exitos Inolvidables",
         "url": "https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 177053,
       "name": "Cahuates, Pistaches",
       "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D"
+      },
+      "artists": [
+        {
+          "name": "Caballo Dorado",
+          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "No rompas mi coraz\u00f3n - Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -875,38 +875,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Camale\u00f3n",
-        "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 186546,
-      "name": "El Camale\u00f3n",
-      "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "C\u00f3mo Te Voy A Olvidar \u00a1Edici\u00f3n De S\u00faper Lujo!",
         "url": "https://open.spotify.com/album/6Deil0rDdWFnJfYWryngKd"
       },
@@ -927,18 +895,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Arrempujala Arremangala",
-        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
+        "name": "Camale\u00f3n",
+        "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
       },
       "artists": [
         {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
         }
       ],
-      "duration_ms": 197982,
-      "name": "Arrempujala Arremangala",
-      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
+      "duration_ms": 186546,
+      "name": "El Camale\u00f3n",
+      "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -955,6 +923,38 @@
       "duration_ms": 230306,
       "name": "Sshh!!",
       "url": "https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Arrempujala Arremangala",
+        "url": "https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM"
+      },
+      "artists": [
+        {
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+        }
+      ],
+      "duration_ms": 197982,
+      "name": "Arrempujala Arremangala",
+      "url": "https://open.spotify.com/track/00xWJo63OSXjWyihycznbe"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1007,38 +1007,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Se Menea Se Menea",
-        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
-      },
-      "artists": [
-        {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 226360,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Dime C\u00f3mo Quieres",
         "url": "https://open.spotify.com/album/627Wbeny1n8Wuu2zISsiiS"
       },
@@ -1059,6 +1027,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "El Sonidito",
         "url": "https://open.spotify.com/album/7517072y7Mved9OzrsTB4E"
       },
@@ -1075,22 +1059,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Pistear, Pistear",
-        "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 165946,
-      "name": "Pistear, Pistear, Pistear",
-      "url": "https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Estamos Locos",
         "url": "https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L"
       },
@@ -1103,6 +1071,38 @@
       "duration_ms": 191333,
       "name": "La Inconforme - Sonidera",
       "url": "https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Se Menea Se Menea",
+        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
+      },
+      "artists": [
+        {
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Pistear, Pistear",
+        "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 165946,
+      "name": "Pistear, Pistear, Pistear",
+      "url": "https://open.spotify.com/track/6lsukPXxhMdPfG6nVtLE2R"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Tengo Una Illusi\u00f3n",
-        "url": "https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Qu\u00e9 Bonita",
-      "url": "https://open.spotify.com/track/6uJ0y1FoiRjVUpCPGdsydA"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Vida Sinaloense",
         "url": "https://open.spotify.com/album/3vzcZsjleuBE5niZpNrK2e"
       },
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/6M870HixVgIS4VTudBHcz8"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
@@ -1299,6 +1267,38 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/6M870HixVgIS4VTudBHcz8"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Tengo Una Illusi\u00f3n",
+        "url": "https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Qu\u00e9 Bonita",
+      "url": "https://open.spotify.com/track/6uJ0y1FoiRjVUpCPGdsydA"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/19sUt3izOtuq4tRI5iSwe7"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 121026,
       "name": "Arrem\u00e1ngala Arremp\u00fajala",
       "url": "https://open.spotify.com/track/16RyGCJmiM2GPdTuikdEkM"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 113306,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Durmiendo en el Lugar Equivocado",
         "url": "https://open.spotify.com/album/50x6RBfdV0Ao2eX3T2ekty"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+      "duration_ms": 113306,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1423,22 +1423,6 @@
       "duration_ms": 237960,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "18 Grandes Exitos Bailables",
-        "url": "https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "La Quebradora",
-      "url": "https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1495,34 +1479,34 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/2BFbazOqKrNnhed71Kfqw0"
+        "name": "18 Grandes Exitos Bailables",
+        "url": "https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/7d00W7wOsi1V9nKxcedEi7"
+      "duration_ms": 191200,
+      "name": "La Quebradora",
+      "url": "https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD"
     },
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/0ucwoASnxx3Y3pt7vy2esy"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
         }
       ],
-      "duration_ms": 145826,
-      "name": "En Vida",
-      "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/7GVxAP3rK73EvCoAqxk5vJ"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/2BFbazOqKrNnhed71Kfqw0"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/7d00W7wOsi1V9nKxcedEi7"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Mi Historia - Mi Banda El Mexicano",
         "url": "https://open.spotify.com/album/7n5pvyK4eUJxmrcMYlBecR"
       },
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/0ucwoASnxx3Y3pt7vy2esy"
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
       "artists": [
         {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/7GVxAP3rK73EvCoAqxk5vJ"
+      "duration_ms": 145826,
+      "name": "En Vida",
+      "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
     },
     {
       "added_at": "2024-08-30 08:25:49",

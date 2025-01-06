@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6236,
+  "num_followers": 6240,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAADAFDthRWKT1l20H5LySGNn",
+  "snapshot_id": "Z3h6AAAAAABis1Y9fQDK+unhB0G0E3Lv",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Heaven I Need",
+        "url": "https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 197456,
+      "name": "The Heaven I Need (Backing Track)",
+      "url": "https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits (Re-recorded)",
         "url": "https://open.spotify.com/album/5UDCcqlQ9mEJ1Bhgy4mcL6"
       },
@@ -479,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heaven I Need",
-        "url": "https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm"
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
       },
       "artists": [
         {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 197456,
-      "name": "The Heaven I Need (Backing Track)",
-      "url": "https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl"
+      "duration_ms": 244626,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4qnrPJTT53BkMjolkDxRI7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 164306,
       "name": "Rosegarden",
       "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
-        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 124200,
-      "name": "Gee Baby (I'm Sorry)",
-      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Three Degrees Live",
         "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 163626,
       "name": "Free Ride - Live at Bailey's, London, England - 1975",
       "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
+        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "Gee Baby (I'm Sorry)",
+      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
     },
     {
       "added_at": null,
@@ -652,25 +668,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 153560,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look in My Eyes",
-        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Look in My Eyes",
-      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
+      "duration_ms": 196546,
+      "name": "I Do Take You",
+      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
       "duration_ms": 159626,
       "name": "There's So Much Love All Around Me",
       "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Look in My Eyes",
+      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
     },
     {
       "added_at": null,
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 196546,
-      "name": "I Do Take You",
-      "url": "https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy"
+      "duration_ms": 232906,
+      "name": "Isn't It a Pity",
+      "url": "https://open.spotify.com/track/4wlBhCofkw3WkNKXo9wWni"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 244866,
       "name": "Lonelier Are Fools",
       "url": "https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Isn't It a Pity",
-      "url": "https://open.spotify.com/track/4wlBhCofkw3WkNKXo9wWni"
     },
     {
       "added_at": null,

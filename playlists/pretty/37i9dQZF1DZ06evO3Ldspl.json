@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 9369,
+  "num_followers": 9375,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAA2NajjHFswdtsMofduuX31",
+  "snapshot_id": "Z3h6AAAAAAC1LtNh4bYFzDhDlel58EoL",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "Te Lo Dije Mujer",
+      "url": "https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fuera De Serie",
         "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 311573,
       "name": "Enamorado De Ti",
       "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Superior",
-        "url": "https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Miedo Al Amor",
-      "url": "https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Elegidos",
-        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
+        "name": "Superior",
+        "url": "https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 266480,
-      "name": "Te Lo Dije Mujer",
-      "url": "https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s"
+      "duration_ms": 250933,
+      "name": "Miedo Al Amor",
+      "url": "https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad"
     },
     {
       "added_at": null,

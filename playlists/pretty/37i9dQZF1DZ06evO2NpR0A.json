@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 271224,
+  "num_followers": 271304,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAC43GVI60pmioEV2HosSt8H",
+  "snapshot_id": "Z3h6AAAAAABSLy6acpLZ6CMACR5oe5Hs",
   "tracks": [
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 196360,
-      "name": "iMi",
-      "url": "https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf"
+      "duration_ms": 262266,
+      "name": "Naeem",
+      "url": "https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 262266,
-      "name": "Naeem",
-      "url": "https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf"
+      "duration_ms": 196360,
+      "name": "iMi",
+      "url": "https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 3795,
+  "num_followers": 3827,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 148225,
+      "name": "AZAMAN",
+      "url": "https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Ogechi (feat. Davido) [Remix]",
         "url": "https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 424800,
       "name": "Yebo Lapho (Gogo) (feat. DJ Maphorisa & Djy Biza)",
       "url": "https://open.spotify.com/track/0NLRYW9HyqHcbyzfAwskKN"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 148225,
-      "name": "AZAMAN",
-      "url": "https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Lomo Lomo",
-        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 175130,
-      "name": "Lomo Lomo",
-      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
         "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 390873,
       "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
       "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Lomo Lomo",
+        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 175130,
+      "name": "Lomo Lomo",
+      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -783,6 +783,46 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
+        "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Masterpiece YVK",
+          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        },
+        {
+          "name": "Silas Africa",
+          "url": "https://open.spotify.com/artist/6a4F8FONY3tD2Jidnm4bIG"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        }
+      ],
+      "duration_ms": 443556,
+      "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
+      "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Oblee (Remix)",
         "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
       },
@@ -827,46 +867,6 @@
       "duration_ms": 161515,
       "name": "Puff & Pass (Remix)",
       "url": "https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
-        "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
-      },
-      "artists": [
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Masterpiece YVK",
-          "url": "https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b"
-        },
-        {
-          "name": "Ceeka RSA",
-          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
-        },
-        {
-          "name": "M.J",
-          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
-        },
-        {
-          "name": "Silas Africa",
-          "url": "https://open.spotify.com/artist/6a4F8FONY3tD2Jidnm4bIG"
-        },
-        {
-          "name": "Al Xapo",
-          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
-        }
-      ],
-      "duration_ms": 443556,
-      "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
-      "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
     },
     {
       "added_at": "2024-12-19 13:12:01",

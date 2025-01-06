@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 772434,
+  "num_followers": 772490,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
-        "name": "Alors On Danse (DubDogz Remix)",
-        "url": "https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Alors On Danse - DubDogz Remix",
-      "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
-    },
-    {
-      "added_at": "2024-12-16 13:10:15",
-      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "added_at": "2024-12-16 13:10:15",
+      "album": {
+        "name": "Alors On Danse (DubDogz Remix)",
+        "url": "https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Alors On Danse - DubDogz Remix",
+      "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
     },
     {
       "added_at": "2024-12-16 13:10:15",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
+    },
+    {
+      "added_at": "2024-12-16 13:10:15",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
-    },
-    {
-      "added_at": "2024-12-16 13:10:15",
-      "album": {
-        "name": "Crusade",
-        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Crusade - Club Edit",
-      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
     },
     {
       "added_at": "2024-12-16 13:10:15",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
+        "name": "BASS DOWN LOW",
+        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
+      },
+      "artists": [
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        }
+      ],
+      "duration_ms": 166124,
+      "name": "BASS DOWN LOW",
+      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
+    },
+    {
+      "added_at": "2024-12-16 13:10:15",
+      "album": {
         "name": "Bittersweet Goodbye",
         "url": "https://open.spotify.com/album/1KZIiURBJs63wz3uuCapCu"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
-        "name": "BASS DOWN LOW",
-        "url": "https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1"
-      },
-      "artists": [
-        {
-          "name": "Lupage",
-          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
-        }
-      ],
-      "duration_ms": 166124,
-      "name": "BASS DOWN LOW",
-      "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
-    },
-    {
-      "added_at": "2024-12-16 13:10:15",
-      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2024-12-16 13:10:15",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "PHANTOMA",
-          "url": "https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC"
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
         }
       ],
-      "duration_ms": 147680,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
+      "duration_ms": 158161,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d"
     },
     {
       "added_at": "2024-12-16 13:10:15",

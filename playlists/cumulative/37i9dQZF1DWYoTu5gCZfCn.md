@@ -4,14 +4,17 @@
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-38 songs - 2 hr 22 min
+42 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,000 Miles](https://open.spotify.com/track/7M5nhzGuEj5qJN0rlTApYG) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [1,000 Miles](https://open.spotify.com/album/0YQwNHKzCenO4sMdRZ7Qgi) | 3:38 | 2024-11-24 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-12-22 |  |
+| [Ain't Done Losing Yet](https://open.spotify.com/track/4L72ZizqSL74TLb3G7x0Le) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:18 | 2025-01-05 |  |
 | [Another Bad Apple](https://open.spotify.com/track/5DXkH66yHd6nTMlby8AwHD) | [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Another Bad Apple](https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB) | 3:03 | 2024-11-17 |  |
 | [Bad Medicine](https://open.spotify.com/track/08tIZEQ7lyJQv4tqhxUXx4) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 5:12 | 2024-11-17 |  |
+| [Bailazo](https://open.spotify.com/track/5Ha0N3HPC6CcziS8wfRUnP) | [Bang Data](https://open.spotify.com/artist/1z0s3ikCPDZcV6ppW7ER6b) | [Mucho Poco](https://open.spotify.com/album/5pChmvhk2CTx3BmKfx7wkW) | 3:30 | 2025-01-05 |  |
+| [Blue Collar](https://open.spotify.com/track/4bZdDIc6Lvpw6rDvK3feZD) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 2:19 | 2025-01-05 |  |
 | [Boomtown](https://open.spotify.com/track/30Qd2fAamvGXHhoZKAgObe) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 3:20 | 2024-11-17 |  |
 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 | 2024-12-29 |  |
 | [Crossing Lines](https://open.spotify.com/track/1BuwcJ4WYxvKsIG3nZeGn3) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu) | 2:50 | 2024-12-29 |  |
@@ -32,6 +35,7 @@
 | [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 | 2024-11-17 |  |
 | [Mean Old Sun](https://open.spotify.com/track/1DFAVRFF65zqaOUQtLoEtx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 4:08 | 2024-11-17 |  |
 | [Moment of Truth](https://open.spotify.com/track/714tF0Vt9ohC9uWwEyIRAo) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 5:39 | 2024-12-22 |  |
+| [Neon & Off](https://open.spotify.com/track/2btwLUidUoOusavbTdcs0s) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [The Loneliest Girl In The World](https://open.spotify.com/album/0HVOnM5SIfxb4ph3Syagha) | 3:51 | 2025-01-05 |  |
 | [No Vacancy](https://open.spotify.com/track/3pVs5Zehts89WLyBPiYfxG) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:04 | 2024-11-17 |  |
 | [She's No Good](https://open.spotify.com/track/738oxPa234CXaqKH9bPHA4) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:26 | 2024-12-22 |  |
 | [Snakebite](https://open.spotify.com/track/3DmVV5vWnmswl6ZBNVWzbs) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Snakebite](https://open.spotify.com/album/45fU9PwOnq38Nhg3rLJjLF) | 3:48 | 2024-11-17 |  |

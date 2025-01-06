@@ -219,6 +219,22 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
+        "name": "PROBATION",
+        "url": "https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 219584,
+      "name": "PROBATION",
+      "url": "https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
         "name": "These Walls (feat. Pierre de Maere)",
         "url": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 217597,
       "name": "These Walls (feat. Pierre de Maere)",
       "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
-        "name": "PROBATION",
-        "url": "https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 219584,
-      "name": "PROBATION",
-      "url": "https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F"
     },
     {
       "added_at": "2025-01-03 05:00:21",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
         "name": "penelope",
         "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
         "name": "IMPOSTEUR",
         "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
       },
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
+        "name": "Tu vas me quitter encore longtemps ?",
+        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Tu vas me quitter encore longtemps ?",
+      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 194311,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
-        "name": "Tu vas me quitter encore longtemps ?",
-        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "Tu vas me quitter encore longtemps ?",
-      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
     },
     {
       "added_at": "2025-01-03 05:00:21",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "CAPITALE DU CRIME RADIO",
-        "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
-      },
-      "artists": [
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "En rapide",
-      "url": "https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
         "name": "MON ANN\u00c9E",
         "url": "https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi"
       },
@@ -759,22 +739,22 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "\u00c9videmment",
-        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
+        "name": "CAPITALE DU CRIME RADIO",
+        "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
       },
       "artists": [
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
         },
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 183960,
-      "name": "\u00c9videmment",
-      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
+      "duration_ms": 154285,
+      "name": "En rapide",
+      "url": "https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX"
     },
     {
       "added_at": "2025-01-03 05:00:21",
@@ -819,22 +799,42 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
-        "name": "Faux Paradis",
-        "url": "https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr"
+        "name": "\u00c9videmment",
+        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
       },
       "artists": [
         {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
         },
         {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Faux Paradis",
-      "url": "https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q"
+      "duration_ms": 183960,
+      "name": "\u00c9videmment",
+      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "Hockey",
+        "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Hockey",
+      "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
     },
     {
       "added_at": "2025-01-03 05:00:21",
@@ -855,6 +855,42 @@
     {
       "added_at": "2025-01-03 05:00:21",
       "album": {
+        "name": "Faux Paradis",
+        "url": "https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Faux Paradis",
+      "url": "https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
+        "name": "Essonne History X",
+        "url": "https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Belle madame",
+      "url": "https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj"
+    },
+    {
+      "added_at": "2025-01-03 05:00:21",
+      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/6pOnhEjbFYuCube8Mz9b6X"
       },
@@ -871,46 +907,6 @@
       "duration_ms": 234680,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/7Bpms8NIDxsJ7lqfyLfoyv"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
-        "name": "BBL.00",
-        "url": "https://open.spotify.com/album/3cVUQkTMX95geb9vV6KXZ1"
-      },
-      "artists": [
-        {
-          "name": "Arma Jackson",
-          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
-        },
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "BBL.00",
-      "url": "https://open.spotify.com/track/5bNNfbBd4IWXxiuCa9Ahjs"
-    },
-    {
-      "added_at": "2025-01-03 05:00:21",
-      "album": {
-        "name": "Je me demande (feat. Louane)",
-        "url": "https://open.spotify.com/album/0NTdPo37VXl3Tj01PqE1UZ"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 195545,
-      "name": "Je me demande (feat. Louane)",
-      "url": "https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

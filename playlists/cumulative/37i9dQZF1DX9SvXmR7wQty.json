@@ -5004,7 +5004,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 159666,
       "name": "BBL.00",
       "url": "https://open.spotify.com/track/5bNNfbBd4IWXxiuCa9Ahjs"
@@ -5248,6 +5248,24 @@
       "duration_ms": 118802,
       "name": "Belle (Okok)",
       "url": "https://open.spotify.com/track/6QzDu1PBj7po6J7uaJZLIk"
+    },
+    {
+      "album": {
+        "name": "Essonne History X",
+        "url": "https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Belle madame",
+      "url": "https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj"
     },
     {
       "album": {
@@ -20911,6 +20929,28 @@
     },
     {
       "album": {
+        "name": "Hockey",
+        "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176027,
+      "name": "Hockey",
+      "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
+    },
+    {
+      "album": {
         "name": "Hold it down",
         "url": "https://open.spotify.com/album/1W30EfvKo5lbKhBcsooDD8"
       },
@@ -23854,7 +23894,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 195545,
       "name": "Je me demande (feat. Louane)",
       "url": "https://open.spotify.com/track/5BgR2DVIzZipmmQQ0yuiJZ"

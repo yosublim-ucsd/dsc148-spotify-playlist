@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 488283,
+  "num_followers": 488268,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Old Sob Story",
-        "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Old Sob Story",
-      "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Topaz",
         "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 244160,
       "name": "How Low",
       "url": "https://open.spotify.com/track/6aKbgrbGG8KUU6WNSaOWR9"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "Old Sob Story",
+        "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Old Sob Story",
+      "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Tried to Tell You",
         "url": "https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Looking for Love",
-      "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 208800,
       "name": "Kitchen Table",
       "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0gfT2lXIBkjYHUYqQwLGqm"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Looking for Love",
+      "url": "https://open.spotify.com/track/3s3NKsV3p6hCAh23j1H4W7"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "I'm Not There",
-        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
-      },
-      "artists": [
-        {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "I'm Not There",
-      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0Lnu3IpqBS3BW8EhiOL9iC"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
+        "name": "I'm Not There",
+        "url": "https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy"
       },
       "artists": [
         {
-          "name": "Willy Mason",
-          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
         }
       ],
-      "duration_ms": 184500,
-      "name": "Outwit the Devil",
-      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
+      "duration_ms": 243706,
+      "name": "I'm Not There",
+      "url": "https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 175485,
       "name": "Joni",
       "url": "https://open.spotify.com/track/37MV1pyLP9V5E3KnuumoCL"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/3b21RhhOLcTI7rY6JdeFIM"
+      },
+      "artists": [
+        {
+          "name": "Willy Mason",
+          "url": "https://open.spotify.com/artist/2uYZJqMXH5Q6xvPU6BPySL"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Outwit the Devil",
+      "url": "https://open.spotify.com/track/6W7CkWDUexJnzDBqC1a27c"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Cyclades",
-        "url": "https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 284538,
-      "name": "Cyclades",
-      "url": "https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Topaz",
         "url": "https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 231341,
       "name": "Canyonheart",
       "url": "https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "Cyclades",
+        "url": "https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 284538,
+      "name": "Cyclades",
+      "url": "https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel"
     },
     {
       "added_at": "2024-10-15 04:00:00",

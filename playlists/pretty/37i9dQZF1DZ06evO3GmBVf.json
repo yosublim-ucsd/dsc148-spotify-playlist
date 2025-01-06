@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 190311,
+  "num_followers": 190371,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAADZWuEs8WGPo1WuKR4NJe4Q",
+  "snapshot_id": "Z3h6AAAAAAA2CQoLA8oxEkoGtGFdrsZq",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diganle",
+        "url": "https://open.spotify.com/album/6UIzmCyfkz90JlYM9Xeenr"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Diganle",
+      "url": "https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mexicano",
         "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 174193,
       "name": "Mexicano",
       "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diganle",
-        "url": "https://open.spotify.com/album/6UIzmCyfkz90JlYM9Xeenr"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Diganle",
-      "url": "https://open.spotify.com/track/0j9r3PY022HrFfOmQgGZvr"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Por Favor (Si No Me Quieres Ni Modo)",
-        "url": "https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "Ni Por Favor (Si No Me Quieres Ni Modo",
-      "url": "https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bueno Pa Lo Malo",
         "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 399230,
       "name": "Bueno Pa Lo Malo",
       "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Por Favor (Si No Me Quieres Ni Modo)",
+        "url": "https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "Ni Por Favor (Si No Me Quieres Ni Modo",
+      "url": "https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ingrata",
-        "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 214471,
-      "name": "Ingrata",
-      "url": "https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 227000,
       "name": "Est\u00e1 Caliente",
       "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ingrata",
+        "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 214471,
+      "name": "Ingrata",
+      "url": "https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shit Masiva",
-        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Se\u00f1orita Licor",
-      "url": "https://open.spotify.com/track/0XhfUuzitgJkATaO7eS86r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Sali\u00f3 Caro",
         "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 177312,
       "name": "Me Sali\u00f3 Caro",
       "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shit Masiva",
+        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Se\u00f1orita Licor",
+      "url": "https://open.spotify.com/track/0XhfUuzitgJkATaO7eS86r"
     },
     {
       "added_at": null,

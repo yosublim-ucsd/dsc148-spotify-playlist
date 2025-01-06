@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: BAH.ROMA
 
-246 songs - 12 hr 56 min
+247 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [ЗОРЯ](https://open.spotify.com/track/6SMUvGu39x4fVxYECykiY1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [Паросток](https://open.spotify.com/album/00pfDMrDUczHopHvzlQ57z) | 3:43 | 2024-11-07 | 2024-12-16 |
 | [Зорі](https://open.spotify.com/track/3hfNeUEeo0PdYPrF5Tu6R9) | [INGRET](https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy) | [Зорі](https://open.spotify.com/album/0PXdikZSX69hwMmQ48av23) | 3:07 | 2024-10-18 | 2024-11-08 |
 | [Зупиняти кров](https://open.spotify.com/track/118w7P41WH2GEKrscAiUU5) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Зупиняти кров](https://open.spotify.com/album/3xzpyOqDj7t8hwodw1EnXV) | 3:36 | 2024-06-27 | 2024-08-04 |
-| [Зірки](https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Зірки](https://open.spotify.com/album/1B6W1lCgv5xN3MmAPm0cyh) | 2:57 | 2024-10-18 |  |
+| [Зірки](https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Зірки](https://open.spotify.com/album/1B6W1lCgv5xN3MmAPm0cyh) | 2:57 | 2024-10-18 | 2025-01-06 |
 | [Касабланка](https://open.spotify.com/track/1cGIrj2xrj54O8r8t12GEw) | [Максим Тощо](https://open.spotify.com/artist/3Ep1gS5T8izuWbdLi02gLQ), [Тощо](https://open.spotify.com/artist/5xtYAoNSDJqff7kKvLp1VZ) | [Касабланка](https://open.spotify.com/album/1lMlJgqMlxd7GBjv1V57Xw) | 3:07 | 2024-09-13 | 2024-10-05 |
 | [Квартали](https://open.spotify.com/track/1x2CbvlWtd8GAX9A1gZV3S) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Квартали](https://open.spotify.com/album/1G8H3PamI9TrUcoHBbOGhn) | 2:51 | 2024-06-27 | 2024-12-07 |
 | [квітка](https://open.spotify.com/track/6OTVx468BE04UttbKJjh7S) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [квітка](https://open.spotify.com/album/7yVcH9pGSNDgFZIBOlZz5Z) | 5:01 | 2024-10-04 | 2024-10-19 |
@@ -173,6 +173,7 @@
 | [Порцелянові очі](https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Порцелянові очі](https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E) | 3:23 | 2024-06-27 | 2025-01-03 |
 | [Поряд](https://open.spotify.com/track/3qXd5OCgwndMG0fJyxnvMK) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz) | [Поряд](https://open.spotify.com/album/5dyrxOBHgL8t1XwHmkMv8z) | 2:38 | 2024-06-27 | 2024-07-12 |
 | [Прилинь](https://open.spotify.com/track/0v2u6wL3yYe0LFyUT3V6xN) | [haterappers](https://open.spotify.com/artist/1bHckzPqm3JIv1lnt7PD5N) | [Прилинь](https://open.spotify.com/album/1QAKc2WTQbLrbap6zlJyCU) | 2:36 | 2024-07-12 | 2024-08-18 |
+| [Примітивний](https://open.spotify.com/track/0SiCtqnViaabYPeEJxcjox) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Примітивний](https://open.spotify.com/album/4UWUsjM3sloiM6OPfhuLcq) | 3:13 | 2025-01-02 |  |
 | [Промовч](https://open.spotify.com/track/2hfxAYt2nERjPsTezsDaNG) | [Один День Потому](https://open.spotify.com/artist/15UAxg7BSpf0NadMP1HVGk) | [Промовч](https://open.spotify.com/album/4r5nB3bLpeRxJoMy7eEjIj) | 2:07 | 2024-10-18 | 2024-11-08 |
 | [Простотак](https://open.spotify.com/track/0A9HYuDGMInNrbM7iIZ1KD) | [thekomakoma](https://open.spotify.com/artist/2ce8oHn9K9U9aXOtTPxkZf) | [Майбутній альбом](https://open.spotify.com/album/2V4XWUQmIh8ofD2hyo1fwk) | 1:25 | 2024-06-27 | 2024-12-13 |
 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 | 2024-09-13 |  |

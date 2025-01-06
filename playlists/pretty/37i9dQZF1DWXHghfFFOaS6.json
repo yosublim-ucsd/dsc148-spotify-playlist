@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 351381,
+  "num_followers": 351475,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Space Cowboy",
-      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Jazzmatazz Volume 1",
         "url": "https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ"
       },
@@ -243,22 +227,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Jazzmatazz Volume II: The New Reality",
-        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
       "artists": [
         {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
-        },
-        {
-          "name": "Baybe",
-          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 253373,
-      "name": "Lifesaver",
-      "url": "https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx"
+      "duration_ms": 386973,
+      "name": "Space Cowboy",
+      "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -291,6 +271,26 @@
       "duration_ms": 240920,
       "name": "Searching",
       "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Jazzmatazz Volume II: The New Reality",
+        "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
+      },
+      "artists": [
+        {
+          "name": "Guru",
+          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
+        },
+        {
+          "name": "Baybe",
+          "url": "https://open.spotify.com/artist/1dpH2N2f3HJ3D48z2q78br"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Lifesaver",
+      "url": "https://open.spotify.com/track/6pvd8OBnYlV6FqskUOvWlx"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Brass Construction",
         "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 494960,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Groove Collective",
-        "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
-      },
-      "artists": [
-        {
-          "name": "Groove Collective",
-          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
-        }
-      ],
-      "duration_ms": 394826,
-      "name": "Whatchugot",
-      "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
     },
     {
       "added_at": "2024-03-26 13:55:21",
@@ -1007,6 +991,22 @@
       "duration_ms": 267066,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Groove Collective",
+        "url": "https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N"
+      },
+      "artists": [
+        {
+          "name": "Groove Collective",
+          "url": "https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg"
+        }
+      ],
+      "duration_ms": 394826,
+      "name": "Whatchugot",
+      "url": "https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The Acid Jazz Collection: Jazz",
-        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
-      },
-      "artists": [
-        {
-          "name": "Max Beesley's High Vibes",
-          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
-        }
-      ],
-      "duration_ms": 244080,
-      "name": "Mr. Jeckle",
-      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Woman Of The Ghetto (Reimagined)",
         "url": "https://open.spotify.com/album/2rjniBoJTfY4IIn8aPaR19"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 297631,
       "name": "Woman Of The Ghetto - Reimagined",
       "url": "https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Acid Jazz Collection: Jazz",
+        "url": "https://open.spotify.com/album/079VY3Bq21ahpq9lAvfNpc"
+      },
+      "artists": [
+        {
+          "name": "Max Beesley's High Vibes",
+          "url": "https://open.spotify.com/artist/3g3DY4k7sZVhr7qyXHXvtd"
+        }
+      ],
+      "duration_ms": 244080,
+      "name": "Mr. Jeckle",
+      "url": "https://open.spotify.com/track/44gelCZF88DC5IRz5XmckW"
     },
     {
       "added_at": "2022-07-14 19:24:43",

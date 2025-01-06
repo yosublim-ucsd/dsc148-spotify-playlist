@@ -2045,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Ho\u015f\u00e7akal",
+        "url": "https://open.spotify.com/album/5GtVQ7Akf89tLbeO4VkcjN"
+      },
+      "artists": [
+        {
+          "name": "Ferdi Tayfur",
+          "url": "https://open.spotify.com/artist/6WLkcqDXHgfe80TNMH1C5z"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361666,
+      "name": "Bana Sor",
+      "url": "https://open.spotify.com/track/0P9nLef6NAjgDJAbgYFHbg"
+    },
+    {
+      "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
       },
@@ -4922,7 +4940,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 587364,
       "name": "Dancing Through Life",
       "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
@@ -6584,7 +6602,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 134499,
       "name": "Evil Jordan",
       "url": "https://open.spotify.com/track/0efLlKsfxZRupQc4JHymJQ"
@@ -10807,6 +10825,36 @@
     },
     {
       "album": {
+        "name": "Mufasa: Der K\u00f6nig der L\u00f6wen (Deutscher Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/4Wawsr2fSXYOkEKRbNOEGL"
+      },
+      "artists": [
+        {
+          "name": "Toni Wegewitz",
+          "url": "https://open.spotify.com/artist/2zDyzsNkFqamk0McVKRtJa"
+        },
+        {
+          "name": "Bryan Abubakari",
+          "url": "https://open.spotify.com/artist/79hc1hCa6Wiz3GqrthyFmN"
+        },
+        {
+          "name": "Arne Stephan",
+          "url": "https://open.spotify.com/artist/1ZSevBWR9DEYulD7E3GpHE"
+        },
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214506,
+      "name": "Ich wollte immer einen Bruder",
+      "url": "https://open.spotify.com/track/2x1dkjz30TxRRKb5wYbDZx"
+    },
+    {
+      "album": {
         "name": "pretty",
         "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
@@ -12176,6 +12224,24 @@
       "duration_ms": 222000,
       "name": "Kop That Shit",
       "url": "https://open.spotify.com/track/0DsFdhimhkfSGEuBqY5kwE"
+    },
+    {
+      "album": {
+        "name": "K\u00f6nigin der Nacht",
+        "url": "https://open.spotify.com/album/03pFzaRXlVcmKsLIDKfQid"
+      },
+      "artists": [
+        {
+          "name": "LaFee",
+          "url": "https://open.spotify.com/artist/3qhf2c1F1pN57xQ6cqoBwI"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160441,
+      "name": "K\u00f6nigin der Nacht",
+      "url": "https://open.spotify.com/track/6SQcoO3H6MzcV6dhqIN1bW"
     },
     {
       "album": {
@@ -16484,7 +16550,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 168400,
       "name": "Ohne Dich",
       "url": "https://open.spotify.com/track/5TDNhpRcLFgf4Rm9ku1QaI"

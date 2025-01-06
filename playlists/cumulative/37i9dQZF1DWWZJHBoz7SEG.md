@@ -4,7 +4,7 @@
 
 > ¡Guarda espacio para la Rosca! Empezamos el año con música nueva y un estreno de José Madero, en portada.
 
-7,512 songs - 17 day 0 hr 6 min
+7,514 songs - 17 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [Bailando Por Ti](https://open.spotify.com/track/36o3tX1dcTJ5rwFRk5aOPx) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando Por Ti](https://open.spotify.com/album/69eUUgCWiR86DCzjWCQbY0) | 2:45 | 2024-06-21 | 2024-06-29 |
 | [Bailar](https://open.spotify.com/track/1c7mns2I81sJ4QWYcvHvec) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailar](https://open.spotify.com/album/0amD7KdCrcQDorc6Ljd58H) | 3:11 | 2025-01-03 |  |
 | [Bailarina](https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:05 | 2024-04-05 | 2024-04-13 |
+| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-05 |  |
 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 | 2022-06-24 | 2022-07-02 |
 | [Bailemos Lento](https://open.spotify.com/track/4pSXXK4eaqiyqzoBcx96Zx) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Bailemos Lento](https://open.spotify.com/album/6QecJLKYZzzT1ah4PfBPx8) | 3:49 | 2022-09-30 | 2022-10-08 |
 | [Bailemos Pegaito](https://open.spotify.com/track/26QWpLs8JZGtknCpV8J1Ir) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Bailemos Pegaito](https://open.spotify.com/album/5T41MVjFQH1ygleeTeACIs) | 2:17 | 2022-11-11 | 2022-11-19 |
@@ -5112,6 +5113,7 @@
 | [Perfecta \(Versión 2023\)](https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perfecta \(Versión 2023\)](https://open.spotify.com/album/66H0ONEidLsiliImzsMkeM) | 3:41 | 2023-04-21 | 2023-04-29 |
 | [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 | 2023-06-23 | 2023-07-01 |
 | [Perfume](https://open.spotify.com/track/3h402jVwaLyiD54T0ayC0q) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Perfume](https://open.spotify.com/album/2M5pHukoqhcqCDLJ0TH4Dp) | 3:27 | 2022-07-22 | 2022-07-30 |
+| [PERFuMITO NUEVO](https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:20 | 2025-01-05 |  |
 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-08-18 | 2023-08-26 |
 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 | 2022-09-30 | 2022-10-08 |
 | [Permíteme aplaudir](https://open.spotify.com/track/4MnNlhp7YJ4AZJey7Ma1Fz) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [ADN](https://open.spotify.com/album/6obP0j3QiE8zclzohFE4rA) | 2:07 | 2024-06-07 | 2024-06-15 |

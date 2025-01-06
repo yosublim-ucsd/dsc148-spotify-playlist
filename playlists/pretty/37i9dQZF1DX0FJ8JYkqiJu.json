@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 396751,
+  "num_followers": 396815,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Inhale / Exhale",
         "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 243760,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Break My Love",
-        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Break My Love",
-      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "DO 4 LOVE (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 224281,
       "name": "DO 4 LOVE - Black Coffee Remix",
       "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -399,26 +399,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 320533,
-      "name": "Cmon",
-      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Hero / It Can Be Better Now",
         "url": "https://open.spotify.com/album/7MMKbbtCfQNZvghKM5V3bd"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 191379,
       "name": "It Can Be Better Now",
       "url": "https://open.spotify.com/track/4sQ7BGTw2GOnMvtwdCp25R"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 320533,
+      "name": "Cmon",
+      "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "How It Feels",
-        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 138951,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Amman",
         "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 208290,
       "name": "Amman",
       "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 138951,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/2a35iz5BRbEgGydrMSTMpA"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 175292,
       "name": "Say It",
       "url": "https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 242376,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "All Good (Jasper Tygner Remix)",
         "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 242376,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Grapevine",
         "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
       },
@@ -751,6 +751,26 @@
       "duration_ms": 381463,
       "name": "Grapevine",
       "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "duration_ms": 230163,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -811,26 +831,6 @@
       "duration_ms": 290625,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
-        }
-      ],
-      "duration_ms": 230163,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
         "name": "What a Wonderful World (Krister Remix)",
         "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
-      },
-      "artists": [
-        {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
-        }
-      ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
@@ -1023,26 +1023,6 @@
       "duration_ms": 197994,
       "name": "can you see me?",
       "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
-        "name": "A Different Path",
-        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
-      },
-      "artists": [
-        {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
-        },
-        {
-          "name": "Trippynova",
-          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
-        }
-      ],
-      "duration_ms": 135600,
-      "name": "A Different Path",
-      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1063,6 +1043,26 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "A Different Path",
+        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Trippynova",
+          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
+        }
+      ],
+      "duration_ms": 135600,
+      "name": "A Different Path",
+      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 217708,
-      "name": "If Love Is A Skill",
-      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 258644,
       "name": "Control",
       "url": "https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 217708,
+      "name": "If Love Is A Skill",
+      "url": "https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8"
     },
     {
       "added_at": "2024-12-16 03:00:17",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-12-16 03:00:17",
       "album": {
-        "name": "All Dancing Under The Same Sky",
-        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "All Dancing Under The Same Sky - Edit",
-      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
-    },
-    {
-      "added_at": "2024-12-16 03:00:17",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 251694,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2024-12-16 03:00:17",
+      "album": {
+        "name": "All Dancing Under The Same Sky",
+        "url": "https://open.spotify.com/album/7neGZmdsrMN8lCICKR7LuR"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "All Dancing Under The Same Sky - Edit",
+      "url": "https://open.spotify.com/track/0frHXJxi2rKff0hY5hrqC2"
     }
   ],
   "unique_name": "Just Chill",

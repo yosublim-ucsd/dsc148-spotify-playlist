@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,015 likes - 136 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,046 likes - 136 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 30 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
 | 31 | [Corner Boys](https://open.spotify.com/track/6PVBY2cZJ0jdzPNiN5S2AO) | [Crying Day Care Choir](https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl), [Painaway](https://open.spotify.com/artist/5sXuMtnirJrHjsXwHs7xQK) | [From the Inside \(Music from the Original TV Series Från Insidan\)](https://open.spotify.com/album/7C2cmxwKD6XhanOCk3Jo4N) | 3:26 |
 | 32 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
-| 33 | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER \(feat\. Max Fry\)](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
+| 33 | [BITTER](https://open.spotify.com/track/1gtDvibBfwX4TBszRh4UNT) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [BITTER](https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1) | 2:40 |
 | 34 | [Cursing And Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/track/0siUepaRdN2ZdOxxkUMNLB) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV), [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Cursing and Lying! \(feat\. Drew Sycamore\)](https://open.spotify.com/album/67C5FPDCt4ftxYwvMAX4xo) | 3:05 |
 | 35 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 |
 | 36 | [Candy Says](https://open.spotify.com/track/3kqBmvGhDR5TpwWci9vMHn) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Candy says](https://open.spotify.com/album/5PKcI4pE9f3m5JFHZ1ztfM) | 3:36 |

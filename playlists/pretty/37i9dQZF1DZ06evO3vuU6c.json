@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1415872,
+  "num_followers": 1415941,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAADpj5lsZWn9P6BAbLImGBmx",
+  "snapshot_id": "Z3h6AAAAAACOq01NG/l7OrXInSMZgR4M",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel By The Wings",
-        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "Angel By The Wings",
-      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Give Up (From \"Lion\" Soundtrack)",
         "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 221986,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel By The Wings",
+        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 319200,
+      "name": "Angel By The Wings",
+      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Bird Set Free",
-      "url": "https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drinking From The Sun",
         "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 226413,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Bird Set Free",
+      "url": "https://open.spotify.com/track/6MowG7MRVgPfGlCMsXKMJ2"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Still Here",
-        "url": "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 241910,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 205207,
       "name": "Together",
       "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Still Here",
+        "url": "https://open.spotify.com/album/61rbnX1w8qupnV0CyNH1Or"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 241910,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/5KGTKwOePys7aH4o6EzXEP"
     },
     {
       "added_at": null,

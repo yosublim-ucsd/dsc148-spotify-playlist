@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,987 likes - 44 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,994 likes - 44 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 22 | [Going Back Home](https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Smokestack Lightning /The Complete Chess Masters 1951\-1960](https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q) | 2:39 |
 | 23 | [Louise](https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:45 |
 | 24 | [Just Like I Treat You \- Single Version](https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:55 |
-| 25 | [Commit A Crime](https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Chess Box](https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B) | 3:07 |
-| 26 | [Ooh, Baby / Wrecking My Love Life \- Medley](https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 6:34 |
+| 25 | [Ooh, Baby / Wrecking My Love Life \- Medley](https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 6:34 |
+| 26 | [Commit A Crime](https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Chess Box](https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B) | 3:07 |
 | 27 | [Rockin' Daddy](https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:43 |
 | 28 | [My Life \- Single Version](https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 3:01 |
 | 29 | [You Gonna Wreck My Life](https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 43 | [Oh Red](https://open.spotify.com/track/3rWhFabcpnpCF9iSWAZqKo) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:44 |
 | 44 | [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 |
 
-Snapshot ID: `Z3cogAAAAAAt9YYcn1YPjlYyDF6NAUqf`
+Snapshot ID: `Z3h6AAAAAACtig4s9FP4dNHqWhs8wV2q`

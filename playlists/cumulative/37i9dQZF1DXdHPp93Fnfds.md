@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Mica Sotera.
 
-597 songs - 1 day 9 hr 53 min
+598 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Labios de Miel](https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn) | [Labios de Miel](https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0) | 2:20 | 2023-08-18 | 2023-09-26 |
 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 | 2024-01-18 | 2024-03-21 |
 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 | 2023-05-26 | 2024-08-16 |
+| [Las Cosas Claras](https://open.spotify.com/track/5KHdGQ13I1ZnPH2wC3b2xl) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Las Cosas Claras](https://open.spotify.com/album/5qRH0kzhjQ0M67YwncAg1z) | 3:37 | 2024-09-12 |  |
 | [Las Cosas Simples](https://open.spotify.com/track/7pTuLsDFrHXwuWddo1nnP7) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Cecilia](https://open.spotify.com/album/04tPJyxfLKaTZ65DDZrd6p) | 3:10 | 2022-09-09 | 2022-10-21 |
 | [Legionario](https://open.spotify.com/track/0b65Z7BqOl8Qyq8aRlfkP7) | [Romina Pechin](https://open.spotify.com/artist/7fzUQFFjRbuTNthKsJNEpk) | [Legionario](https://open.spotify.com/album/6VCFn5LoIqyYid7OpjCvAg) | 4:11 | 2022-01-21 | 2022-06-07 |
 | [Lejos Libre Sola](https://open.spotify.com/track/7BhaJfyOOvuzoznVNh1BoB) | [Lali Gaspari](https://open.spotify.com/artist/0IcHojewbT2XZUs7Sb2bTX) | [Nuevas Intenciones](https://open.spotify.com/album/4nJd7rSTeFOZnmwoWCUhmw) | 3:37 | 2022-04-01 | 2022-04-14 |
@@ -354,7 +355,7 @@
 | [Mujer del Desierto](https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Mujer del Desierto](https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG) | 3:30 | 2022-04-12 | 2022-07-28 |
 | [Mujer Desastre](https://open.spotify.com/track/0MDddkIkVQENJvv80qb1ji) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mujer Desastre](https://open.spotify.com/album/6Xw32mmXgiPFQcLK2Dc0SX) | 3:17 | 2022-01-21 | 2022-07-28 |
 | [Mujeres](https://open.spotify.com/track/4dmZt98r9LvtuEAFIaV1x5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Banda Filarmónica Tukyo’m ët xuxp de San Pedro y San Pablo Ayutla, Oaxaca](https://open.spotify.com/artist/33OkyAZ5fzcbQeqcZSHyGm) | [Julieta Venegas con la Banda Filarmónica Tukyo’m ët xuxp de San Pedro y San Pablo Ayutla, Oaxaca](https://open.spotify.com/album/6HvTbXLflRkGbFlsabDbv7) | 3:26 | 2022-01-21 | 2022-07-28 |
-| [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 | 2022-01-21 |  |
+| [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 | 2022-01-21 | 2025-01-06 |
 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 | 2023-08-18 |  |
 | [Muñequita Linda](https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [AMA](https://open.spotify.com/album/4jfzDg1g67lwmVYemdoVPd) | 3:01 | 2022-01-14 | 2024-11-02 |
 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 | 2023-06-02 |  |

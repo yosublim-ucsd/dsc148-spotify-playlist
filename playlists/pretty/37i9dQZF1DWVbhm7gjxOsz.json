@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 98013,
+  "num_followers": 98194,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 186567,
       "name": "Oogum Boogum Song",
       "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Baby, I'm For Real",
-        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
-      },
-      "artists": [
-        {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Baby, I'm For Real",
-      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Oogum Boogum",
         "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 141329,
       "name": "Gimme Little Sign",
       "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Baby, I'm For Real",
+        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Baby, I'm For Real",
+      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Duke Of Earl",
-        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
       },
       "artists": [
         {
-          "name": "Gene Chandler",
-          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
         }
       ],
-      "duration_ms": 147841,
-      "name": "Duke of Earl",
-      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+      "duration_ms": 166960,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
+        "name": "The Duke Of Earl",
+        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
       "artists": [
         {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+          "name": "Gene Chandler",
+          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
         }
       ],
-      "duration_ms": 166960,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
+      "duration_ms": 147841,
+      "name": "Duke of Earl",
+      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Delfonics",
-        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Didn't I (Blow Your Mind This Time)",
-      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The Best Of The Temprees",
         "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 261826,
       "name": "Love...Can Be So Wonderful",
       "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Delfonics",
+        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Too Hot to Handle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 377106,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Baby, I'm Yours",
         "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
       },
@@ -639,6 +623,38 @@
       "duration_ms": 151453,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 377106,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The Never Ending Impressions",
         "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 171506,
       "name": "I'm So Proud",
       "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -723,22 +739,6 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Skyliners",
-        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Since I Don't Have You (Alternative Take)",
-      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 285098,
       "name": "Make It With You",
       "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Dry Your Eyes",
+        "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
+      },
+      "artists": [
+        {
+          "name": "Brenda And The Tabulations",
+          "url": "https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "The Very Best Of The Dramatics",
         "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Dry Your Eyes",
-        "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
+        "name": "I Do Love You",
+        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
       "artists": [
         {
-          "name": "Brenda And The Tabulations",
-          "url": "https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn"
+          "name": "Billy Stewart",
+          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
         }
       ],
-      "duration_ms": 164133,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR"
+      "duration_ms": 177946,
+      "name": "I Do Love You",
+      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -887,18 +903,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Presenting The Danleers",
-        "url": "https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R"
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
       "artists": [
         {
-          "name": "The Danleers",
-          "url": "https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 133226,
-      "name": "One Summer Night",
-      "url": "https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4"
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -935,34 +951,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+        "name": "Presenting The Danleers",
+        "url": "https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R"
       },
       "artists": [
         {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+          "name": "The Danleers",
+          "url": "https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv"
         }
       ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "I Do Love You",
-        "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
-      },
-      "artists": [
-        {
-          "name": "Billy Stewart",
-          "url": "https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "I Do Love You",
-      "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+      "duration_ms": 133226,
+      "name": "One Summer Night",
+      "url": "https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117133,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 117133,
+      "name": "Sad Girl",
+      "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Show and Tell: The Best of Al Wilson",
         "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 207986,
       "name": "Show and Tell",
       "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Bump City",
-        "url": "https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 337040,
-      "name": "You're Still a Young Man",
-      "url": "https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Ultimate Chi-Lites",
-        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
-      },
-      "artists": [
-        {
-          "name": "The Chi-Lites",
-          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
-        }
-      ],
-      "duration_ms": 310746,
-      "name": "Have You Seen Her",
-      "url": "https://open.spotify.com/track/01cQPNCptd662nikuY42zw"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Oh, How It Hurts",
         "url": "https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh"
       },
@@ -1263,6 +1231,38 @@
       "duration_ms": 179733,
       "name": "Oh, How It Hurts",
       "url": "https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Bump City",
+        "url": "https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 337040,
+      "name": "You're Still a Young Man",
+      "url": "https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Ultimate Chi-Lites",
+        "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
+      },
+      "artists": [
+        {
+          "name": "The Chi-Lites",
+          "url": "https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued"
+        }
+      ],
+      "duration_ms": 310746,
+      "name": "Have You Seen Her",
+      "url": "https://open.spotify.com/track/01cQPNCptd662nikuY42zw"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Dreams Of Contentment (Special Deluxe Collection)",
-        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
-      },
-      "artists": [
-        {
-          "name": "The Dells",
-          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Oh What A Nite",
-      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
         "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Essential Deniece Williams (The Columbia Years)",
-        "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
+        "name": "Dreams Of Contentment (Special Deluxe Collection)",
+        "url": "https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI"
       },
       "artists": [
         {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+          "name": "The Dells",
+          "url": "https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S"
         }
       ],
-      "duration_ms": 250813,
-      "name": "It's Gonna Take a Miracle",
-      "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
+      "duration_ms": 176493,
+      "name": "Oh What A Nite",
+      "url": "https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1543,6 +1527,22 @@
       "duration_ms": 165133,
       "name": "Nite Owl (A.K.A. Night Owl)",
       "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Essential Deniece Williams (The Columbia Years)",
+        "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "It's Gonna Take a Miracle",
+      "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Two Lovers",
-        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 170439,
-      "name": "Laughing Boy",
-      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Dedicated to the Ones I Love, Vol. 2",
         "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 231360,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 170439,
+      "name": "Laughing Boy",
+      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
-      },
-      "artists": [
-        {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
-        }
-      ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "I Love You for All Seasons",
         "url": "https://open.spotify.com/album/06difTfbdKd1uUlYeOxllX"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 196170,
       "name": "I Love You for All Seasons",
       "url": "https://open.spotify.com/track/7tZFmAL5qNhry1hCWIUyng"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+      },
+      "artists": [
+        {
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+        }
+      ],
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Between The Sheets",
+        "url": "https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 338133,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
       },
@@ -2475,22 +2491,6 @@
       "duration_ms": 160080,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/6p3bMHTo45nQZTg3ntxPzt"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Between The Sheets",
-        "url": "https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 338133,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX"
     },
     {
       "added_at": "2024-08-14 08:31:40",

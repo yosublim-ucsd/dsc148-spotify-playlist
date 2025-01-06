@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1437182,
+  "num_followers": 1437175,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 297103,
+      "name": "Orange Juice",
+      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 297103,
-      "name": "Orange Juice",
-      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Stick Season (We'll All Be Here Forever)",
+        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 213817,
+      "name": "Dial Drunk",
+      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "The Way We Move",
         "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Stick Season (We'll All Be Here Forever)",
-        "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 213817,
-      "name": "Dial Drunk",
-      "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "On The Road Again",
         "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 173969,
       "name": "On The Road Again",
       "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -575,38 +575,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "Loose Change",
-      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "American Novel: Ch. I",
         "url": "https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX"
       },
@@ -635,6 +603,38 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/2ZR7DiAXXAOUr85ZBreWt4"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 142840,
+      "name": "Loose Change",
+      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 239586,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "October (October Version)",
-        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 277777,
-      "name": "October (October Version)",
-      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Reckless Skyline",
         "url": "https://open.spotify.com/album/7DjQyYdYrfB3DcgoULegGK"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 224713,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/61YuCtYvNxDecX2qlR62z3"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "October (October Version)",
+        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 277777,
+      "name": "October (October Version)",
+      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Hold Me Like A Fire",
+        "url": "https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p"
+      },
+      "artists": [
+        {
+          "name": "Reuben And The Dark",
+          "url": "https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO"
+        }
+      ],
+      "duration_ms": 192733,
+      "name": "Hold Me Like A Fire",
+      "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 216038,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
-        "name": "Hold Me Like A Fire",
-        "url": "https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p"
-      },
-      "artists": [
-        {
-          "name": "Reuben And The Dark",
-          "url": "https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO"
-        }
-      ],
-      "duration_ms": 192733,
-      "name": "Hold Me Like A Fire",
-      "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 209426,
       "name": "When Creation Was Young",
       "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 242844,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Daniel",
         "url": "https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 220205,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/16rosLVYEGV8TO8VQqxxmm"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 242844,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "What Will We Do",
-        "url": "https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X"
-      },
-      "artists": [
-        {
-          "name": "Lula Wiles",
-          "url": "https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Love Gone Wrong",
-      "url": "https://open.spotify.com/track/4x3c8AbiCt9HV9E4rXsseZ"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "See You Through",
         "url": "https://open.spotify.com/album/353tLGGcwv0kloIVqZ1Jbx"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 161746,
       "name": "See You Through",
       "url": "https://open.spotify.com/track/0cKIRmig7MRxQm2MqrPQF8"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "What Will We Do",
+        "url": "https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X"
+      },
+      "artists": [
+        {
+          "name": "Lula Wiles",
+          "url": "https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Love Gone Wrong",
+      "url": "https://open.spotify.com/track/4x3c8AbiCt9HV9E4rXsseZ"
     },
     {
       "added_at": "2024-09-03 18:29:36",

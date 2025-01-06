@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain](/playlists/plain/37i9dQZF1DWWX93cOoPbrf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWX93cOoPbrf)
 
-### [Corridos 2024](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
+### [Corridos 2025](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
 > Lo más fresco de la cosecha 2024\. Tony Aguirre en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,106 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,337 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 99 | [El Equipo Del 08](https://open.spotify.com/track/6ALiOE20fBw7Esx3vE3mRf) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [El Equipo Del 08](https://open.spotify.com/album/66OZ2i2kaIuF24PKEwWtzE) | 2:50 |
 | 100 | [Todo Marcha Bien](https://open.spotify.com/track/3ZrDGZeQPkh1SRCIDTdxBt) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Cheko Mg](https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA) | [Todo Marcha Bien](https://open.spotify.com/album/4oxmEgTKEEGghIEUQcNoc9) | 2:21 |
 
-Snapshot ID: `Z3gi6AAAAAD5JAYuW50JLI7cXkAJOqU0`
+Snapshot ID: `Z3rRNwAAAACzh+90WYd+qYkIIMoEcBQF`

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-267 songs - 15 hr 17 min
+268 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2023-05-06 |  |
 | [ゴチャゴチャうるせー！](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス＼\(^o^\)／](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 | 2022-09-02 |  |
 | [ゴー・トゥ・大都会 \(feat\. GUMI\)](https://open.spotify.com/track/12epYxzmLOXyd3bMMM7ELE) | [月裏, ニャントンロン](https://open.spotify.com/artist/2PuJ8LNdrbEHA5yaLhlVR6) | [ゴー・トゥ・大都会](https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV) | 2:50 | 2022-12-12 |  |
+| [シュガーコート](https://open.spotify.com/track/0zIQRErzk1eNU4Pd1Tnxcg) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [orbit](https://open.spotify.com/album/5pdTN60HCRnXnTP3kDUS8Y) | 3:05 | 2025-01-05 |  |
 | [シロガネ](https://open.spotify.com/track/1r6RyFGvZ2fnTaYyki8M78) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [シロガネ](https://open.spotify.com/album/1bz2zVtFmsvAS2eeAAelBt) | 3:31 | 2024-09-08 |  |
 | [ジャンキーナイトタウンオーケストラ](https://open.spotify.com/track/3ASzfo5SRD3TioeUWJbHse) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [pandemic](https://open.spotify.com/album/6KTTXEM3HpdEv4iAmyKPZJ) | 3:33 | 2022-07-06 |  |
 | [ジンクス \(feat\. Such\)](https://open.spotify.com/track/7kR1OuHrMYjtgb5yAE9dkf) | [RuLu](https://open.spotify.com/artist/0xFS8oBdlugpwYgW8dxoQm), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [RuLu](https://open.spotify.com/album/38J7AksAHQ2EIIlmzuMYza) | 3:53 | 2024-01-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 麋先生 \(Ｍixer\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,698 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,702 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 3 | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/track/0hcKfrkRn9sNlrKJLM7ZQh) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj), [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [一個吻的時間 \(feat\. 冰球樂團\)](https://open.spotify.com/album/7HmD13Vr6HKEPYxpMEflCa) | 2:55 |
 | 4 | [詩山郭忠福](https://open.spotify.com/track/1pbwMfakKk4RkU5Om2NeuQ) | [草屯囝仔](https://open.spotify.com/artist/4iWbokr6sX6boUL1Jlxj28) | [詩山郭忠福](https://open.spotify.com/album/16ql0oejBYDJJC8fNHdpK0) | 4:04 |
 | 5 | [爱的赞美诗](https://open.spotify.com/track/04yIp0ieRclkmLul9BOkmB) | [The Life Journey](https://open.spotify.com/artist/3qs5OOuNyNxW1JGhfdgnUI) | [爱的赞美诗](https://open.spotify.com/album/6h7Gr9z8dbZFMaHxW380vV) | 4:18 |
-| 6 | [生命的關於](https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0), [黑豹乐队](https://open.spotify.com/artist/2SGTJVOtFUwbmgYHFBXRej) | [觀己](https://open.spotify.com/album/6AHjaNqXvdYbnTdi3a8IQs) | 4:08 |
+| 6 | [生命的關於](https://open.spotify.com/track/0S54tEUDFV1Z9svTR6iwcS) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0) | [觀己](https://open.spotify.com/album/6AHjaNqXvdYbnTdi3a8IQs) | 4:08 |
 | 7 | [bing chillin' dream](https://open.spotify.com/track/1M94ecrXz6qmCi0cWnbEEH) | [RIKI](https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z), [晨昏星 Morning Dusk Stars](https://open.spotify.com/artist/0L7Hbd9lDbbsJZ69DDf4Ma) | [fashion mushroom ltd.](https://open.spotify.com/album/2vj6O9pDvgdLPl0ogApdfP) | 3:13 |
 | 8 | [我們都是外星人](https://open.spotify.com/track/4tiTaI5SKN5GlLRUINJ7ou) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P) | [我們都是外星人](https://open.spotify.com/album/12fV5cMZHcVBXFOM2QIYmr) | 3:55 |
 | 9 | [盼](https://open.spotify.com/track/7jtugiIDk6e96QmjfTyXcu) | [感覺莓果](https://open.spotify.com/artist/53JmjSxMNGjiQXrQejmdXJ) | [盼](https://open.spotify.com/album/5HR6ACu190HKBtSlExZMJR) | 5:05 |

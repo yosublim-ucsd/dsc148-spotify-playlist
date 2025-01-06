@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36926,
+  "num_followers": 36932,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 214404,
+      "name": "Fcuk!",
+      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 151845,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 214404,
-      "name": "Fcuk!",
-      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
+        "name": "Heaven or Hell",
+        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 187854,
+      "name": "Heaven or Hell",
+      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
         "name": "i always remember all of my dreams",
         "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
       },
@@ -527,6 +543,22 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
         "name": "Warrior",
         "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
       },
@@ -543,34 +575,18 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Heaven or Hell",
-        "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 187854,
-      "name": "Heaven or Hell",
-      "url": "https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 182033,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -595,34 +611,18 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+      "duration_ms": 182033,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -639,6 +639,22 @@
       "duration_ms": 179617,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 184192,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -671,22 +687,6 @@
       "duration_ms": 197992,
       "name": "Tribut",
       "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
-        "name": "oxygen",
-        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 184192,
-      "name": "oxygen",
-      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
+        "name": "Hearts Lust",
+        "url": "https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 142294,
+      "name": "Hearts Lust",
+      "url": "https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
         "name": "Wasteland",
         "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
-        "name": "Hearts Lust",
-        "url": "https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 142294,
-      "name": "Hearts Lust",
-      "url": "https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Generation",
-        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+        "name": "I'll Never Tire of Loving You",
+        "url": "https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
         }
       ],
-      "duration_ms": 182609,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
+      "duration_ms": 166253,
+      "name": "I'll Never Tire of Loving You",
+      "url": "https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "I'll Never Tire of Loving You",
-        "url": "https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R"
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
       },
       "artists": [
         {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
         }
       ],
-      "duration_ms": 166253,
-      "name": "I'll Never Tire of Loving You",
-      "url": "https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS"
+      "duration_ms": 182609,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -1039,22 +1039,6 @@
       "duration_ms": 162836,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
-        "name": "Trade Hearts",
-        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "Trade Hearts",
-      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
     },
     {
       "added_at": "2025-01-02 23:00:02",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
+        "name": "Trade Hearts",
+        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "Trade Hearts",
+      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-01-02 23:00:02",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 167911,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"
-    },
-    {
-      "added_at": "2025-01-02 23:00:02",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 170146,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC"
+    },
+    {
+      "added_at": "2025-01-02 23:00:02",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 167911,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT"
     },
     {
       "added_at": "2025-01-02 23:00:02",

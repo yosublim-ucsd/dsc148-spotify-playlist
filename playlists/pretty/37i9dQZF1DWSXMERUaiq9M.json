@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 NYE takeover: All tracks picked by Marlon Hoffstadt aka DJ Daddy Trance \ud83d\ude80",
-  "num_followers": 297028,
+  "num_followers": 297080,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-12-28 23:00:36",
       "album": {
-        "name": "Knees Break",
-        "url": "https://open.spotify.com/album/77FcRYFTPoemKvDGLZ4s0Q"
-      },
-      "artists": [
-        {
-          "name": "Malugi",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        },
-        {
-          "name": "MCYL",
-          "url": "https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Knees Break",
-      "url": "https://open.spotify.com/track/0SyWhkrm6yBPgqliVB7MP9"
-    },
-    {
-      "added_at": "2024-12-28 23:00:36",
-      "album": {
         "name": "Why Can't We Live Forever?",
         "url": "https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 164826,
       "name": "While U Sleep",
       "url": "https://open.spotify.com/track/1DNvYQWmYVnKzXZUYssNhX"
+    },
+    {
+      "added_at": "2024-12-28 23:00:36",
+      "album": {
+        "name": "Knees Break",
+        "url": "https://open.spotify.com/album/77FcRYFTPoemKvDGLZ4s0Q"
+      },
+      "artists": [
+        {
+          "name": "Malugi",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        },
+        {
+          "name": "MCYL",
+          "url": "https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Knees Break",
+      "url": "https://open.spotify.com/track/0SyWhkrm6yBPgqliVB7MP9"
     },
     {
       "added_at": "2024-12-28 23:00:36",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-12-28 23:00:36",
       "album": {
-        "name": "Move My Body (feat. Lucy Dye)",
-        "url": "https://open.spotify.com/album/4BAyc37k3eWHs93aMT21XA"
-      },
-      "artists": [
-        {
-          "name": "Malugi",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        },
-        {
-          "name": "Lucy Dye",
-          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
-        }
-      ],
-      "duration_ms": 167820,
-      "name": "Move My Body (feat. Lucy Dye)",
-      "url": "https://open.spotify.com/track/26xw61UppTKPySjw3RLvx6"
-    },
-    {
-      "added_at": "2024-12-28 23:00:36",
-      "album": {
         "name": "Forever 2 (Crush Mix) [Malugi Remix]",
         "url": "https://open.spotify.com/album/4GVMrNM51OLbs6tR5gnCUU"
       },
@@ -611,22 +591,6 @@
     {
       "added_at": "2024-12-28 23:00:36",
       "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/5u6OdIduUpROG052H662kO"
-      },
-      "artists": [
-        {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        }
-      ],
-      "duration_ms": 198098,
-      "name": "Still Need U",
-      "url": "https://open.spotify.com/track/2z0aTFF696oXVdN1sfzKi7"
-    },
-    {
-      "added_at": "2024-12-28 23:00:36",
-      "album": {
         "name": "FTS",
         "url": "https://open.spotify.com/album/0rXON439n3w0JaRaugKasV"
       },
@@ -639,6 +603,42 @@
       "duration_ms": 329264,
       "name": "FTS - Original Mix",
       "url": "https://open.spotify.com/track/5CLruz22PAlhr07V7ULV5u"
+    },
+    {
+      "added_at": "2024-12-28 23:00:36",
+      "album": {
+        "name": "Move My Body (feat. Lucy Dye)",
+        "url": "https://open.spotify.com/album/4BAyc37k3eWHs93aMT21XA"
+      },
+      "artists": [
+        {
+          "name": "Malugi",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        },
+        {
+          "name": "Lucy Dye",
+          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
+        }
+      ],
+      "duration_ms": 167820,
+      "name": "Move My Body (feat. Lucy Dye)",
+      "url": "https://open.spotify.com/track/26xw61UppTKPySjw3RLvx6"
+    },
+    {
+      "added_at": "2024-12-28 23:00:36",
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/5u6OdIduUpROG052H662kO"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "duration_ms": 198098,
+      "name": "Still Need U",
+      "url": "https://open.spotify.com/track/2z0aTFF696oXVdN1sfzKi7"
     },
     {
       "added_at": "2024-12-28 23:00:36",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-12-28 23:00:36",
       "album": {
-        "name": "Europatr\u00e4ume",
-        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 216592,
-      "name": "Europatr\u00e4ume",
-      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
-    },
-    {
-      "added_at": "2024-12-28 23:00:36",
-      "album": {
         "name": "ELEMENTS 2",
         "url": "https://open.spotify.com/album/5rYkb1JeOzm6I1QzDV5ozq"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 231204,
       "name": "ELEMENTS 2",
       "url": "https://open.spotify.com/track/41ms08jzNzvkdFjWVyeiE7"
+    },
+    {
+      "added_at": "2024-12-28 23:00:36",
+      "album": {
+        "name": "Europatr\u00e4ume",
+        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 216592,
+      "name": "Europatr\u00e4ume",
+      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
     },
     {
       "added_at": "2024-12-28 23:00:36",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-12-28 23:00:36",
       "album": {
-        "name": "Slash 010 - 5 Mins of Acid",
-        "url": "https://open.spotify.com/album/26ayGAZ0l07lcNiVfabCpA"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "5 Mins of Acid",
-      "url": "https://open.spotify.com/track/02A5ut8OcBcuXKPmT9e2RN"
-    },
-    {
-      "added_at": "2024-12-28 23:00:36",
-      "album": {
         "name": "BK: A Hard Dance Revolution",
         "url": "https://open.spotify.com/album/7hCJ52mJpTJcvUAmyIeiy0"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 497214,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/1AnxEM9vX1KT0RcxVOP9ob"
+    },
+    {
+      "added_at": "2024-12-28 23:00:36",
+      "album": {
+        "name": "Slash 010 - 5 Mins of Acid",
+        "url": "https://open.spotify.com/album/26ayGAZ0l07lcNiVfabCpA"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "5 Mins of Acid",
+      "url": "https://open.spotify.com/track/02A5ut8OcBcuXKPmT9e2RN"
     },
     {
       "added_at": "2024-12-28 23:00:36",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-12-28 23:00:36",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/6IZ2x8Yhy8SoUHMMq1kpY7"
-      },
-      "artists": [
-        {
-          "name": "Dangerous Dreaming",
-          "url": "https://open.spotify.com/artist/0vWXZcuwvJKsjqzpunhy4i"
-        }
-      ],
-      "duration_ms": 217858,
-      "name": "Take Care of You",
-      "url": "https://open.spotify.com/track/7AeN1ihkjZeNE2XiCL5YQI"
-    },
-    {
-      "added_at": "2024-12-28 23:00:36",
-      "album": {
         "name": "WHISTLE TOOL",
         "url": "https://open.spotify.com/album/7tDm86k732HXLWEgBLm3kZ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 267724,
       "name": "WHISTLE TOOL",
       "url": "https://open.spotify.com/track/0cFtnEsoorifLEDjrDZVRb"
+    },
+    {
+      "added_at": "2024-12-28 23:00:36",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/6IZ2x8Yhy8SoUHMMq1kpY7"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Dreaming",
+          "url": "https://open.spotify.com/artist/0vWXZcuwvJKsjqzpunhy4i"
+        }
+      ],
+      "duration_ms": 217858,
+      "name": "Take Care of You",
+      "url": "https://open.spotify.com/track/7AeN1ihkjZeNE2XiCL5YQI"
     },
     {
       "added_at": "2024-12-28 23:00:36",

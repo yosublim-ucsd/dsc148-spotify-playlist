@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256902,
+  "num_followers": 256908,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 370700,
+      "name": "1960",
+      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
-        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Siento que merezco m\u00e1s",
-      "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
@@ -211,22 +211,6 @@
       "duration_ms": 202500,
       "name": "Tarde o temprano",
       "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "ARMAGED\u00d3N",
-        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 370700,
-      "name": "1960",
-      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -255,6 +239,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
+        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Siento que merezco m\u00e1s",
+      "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "XQ ERES AS\u00cd",
         "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "DOM1NGO",
-      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "La Vida Sin Ti",
         "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 164470,
       "name": "La Vida Sin Ti",
       "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "DOM1NGO",
+      "url": "https://open.spotify.com/track/7Ec2XdY7cs14ONZMgsDx4K"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "No Sabe Igual",
-        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "No Sabe Igual",
-      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Mi Novio Tiene Novia (W Sound 02)",
         "url": "https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 162207,
       "name": "Mi Novio Tiene Novia - W Sound 02",
       "url": "https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "No Sabe Igual",
+        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "No Sabe Igual",
+      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "CONF\u00cdO",
+        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 179645,
+      "name": "CONF\u00cdO",
+      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "YE YE",
         "url": "https://open.spotify.com/album/6CoUCIlyLE6YFVCVDadC7B"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 190685,
       "name": "Siguiendo Tu Voz",
       "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "CONF\u00cdO",
-        "url": "https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "CONF\u00cdO",
-      "url": "https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Hablas",
-        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 156013,
-      "name": "Hablas",
-      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+        "name": "Hablas",
+        "url": "https://open.spotify.com/album/2t7SJdhcGT3v1H7Zg3jdMm"
       },
       "artists": [
         {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+      "duration_ms": 156013,
+      "name": "Hablas",
+      "url": "https://open.spotify.com/track/7vqNI6EQcCSE8ZCsjeidPE"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Le hac\u00e9s falta vos",
-        "url": "https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp"
-      },
-      "artists": [
-        {
-          "name": "BROKIX",
-          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
-        }
-      ],
-      "duration_ms": 167668,
-      "name": "Le hac\u00e9s falta vos",
-      "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "SANDRO",
         "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
       },
@@ -1779,22 +1763,18 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "LA PRIMERA VEZ",
-        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+        "name": "Le hac\u00e9s falta vos",
+        "url": "https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
         }
       ],
-      "duration_ms": 171826,
-      "name": "LA PRIMERA VEZ",
-      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
+      "duration_ms": 167668,
+      "name": "Le hac\u00e9s falta vos",
+      "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1811,6 +1791,26 @@
       "duration_ms": 131200,
       "name": "SIN PERDER, NUNK CUENTA",
       "url": "https://open.spotify.com/track/6UsEb9zlBkbU6ZMMFkgkdE"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1859,34 +1859,18 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
-        "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
+        "name": "Caballo Negro",
+        "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Lucauy",
-          "url": "https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4"
-        },
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        },
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 206000,
-      "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
-      "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
+      "duration_ms": 177548,
+      "name": "Caballo Negro",
+      "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
     }
   ],
   "unique_name": "R&B Latino",

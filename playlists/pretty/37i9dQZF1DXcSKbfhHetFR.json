@@ -1,6 +1,6 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 10864,
+  "num_followers": 10867,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Sans foi ni loi",
+        "url": "https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Grossi\u00e8re ind\u00e9cence",
+      "url": "https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Les tremblements s'immobilisent",
         "url": "https://open.spotify.com/album/6P6e4WkfYYx1cUa265Ibwj"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 307586,
       "name": "V\u00e9nus du Mile-End",
       "url": "https://open.spotify.com/track/4t2Lu1XHneDYLvFARnpyhz"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Sans foi ni loi",
-        "url": "https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ"
-      },
-      "artists": [
-        {
-          "name": "Les Pistolets Roses",
-          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Grossi\u00e8re ind\u00e9cence",
-      "url": "https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9"
     },
     {
       "added_at": "2024-04-05 04:00:00",

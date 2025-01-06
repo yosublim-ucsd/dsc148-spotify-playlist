@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 293369,
+  "num_followers": 293386,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAAH3e+NdsF34OekhECC03X7",
+  "snapshot_id": "Z3h6AAAAAAARc9FljEjykmeoEMia8J+E",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
+      "duration_ms": 250506,
+      "name": "A Bit on the Side",
+      "url": "https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 250506,
-      "name": "A Bit on the Side",
-      "url": "https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1"
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw"
+      "duration_ms": 220506,
+      "name": "Lazy Sod",
+      "url": "https://open.spotify.com/track/227uVURfzGhYMJlKUMfPjT"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
+        "name": "Burn (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 391533,
-      "name": "Anya",
-      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
+      "duration_ms": 287906,
+      "name": "You Fool No One - Remastered 2004",
+      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
     },
     {
       "added_at": null,
@@ -740,15 +740,15 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 220506,
-      "name": "Lazy Sod",
-      "url": "https://open.spotify.com/track/227uVURfzGhYMJlKUMfPjT"
+      "duration_ms": 239400,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1MYTg8tznXrUL9DeYqdJrw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Burn (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 287906,
-      "name": "You Fool No One - Remastered 2004",
-      "url": "https://open.spotify.com/track/1rbWklbXlVEDjCL5uuWuVg"
+      "duration_ms": 391533,
+      "name": "Anya",
+      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
     },
     {
       "added_at": null,

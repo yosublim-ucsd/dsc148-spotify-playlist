@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-673 songs - 1 day 16 hr 7 min
+674 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Cowboy Kid](https://open.spotify.com/track/6HQDLJ0hcek1X70QOP6e3x) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Cowboy Kid](https://open.spotify.com/album/6aNpBKhFEU5CBJ8vY1TLk0) | 3:31 | 2023-10-13 | 2024-01-13 |
 | [Cowboys & Tequila](https://open.spotify.com/track/0R4SGCi7wBvjhnZvuWEXkI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Cowboys & Tequila](https://open.spotify.com/album/3REWO8PbGAiEaOu9t6Zef0) | 3:31 | 2022-05-06 | 2022-07-29 |
 | [Cowboys Don't Cry](https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Cowboys Don't Cry](https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE) | 3:09 | 2022-07-22 | 2023-03-25 |
+| [Cowgirl](https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U) | [Jake Bush](https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF) | [Where 90's Meets Now](https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm) | 3:23 | 2025-01-03 |  |
 | [Cozy](https://open.spotify.com/track/7vtdJnOxzDbRPtzge0KNqY) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Cozy](https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9) | 3:37 | 2024-09-06 |  |
 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [Creepin up on Me](https://open.spotify.com/track/4C2RJVUMlDlPFT1vo1Qbja) | [Carter Lybrand](https://open.spotify.com/artist/0ophv4tU6QFbsUQ0DwotdM) | [Creepin up on Me](https://open.spotify.com/album/7cFZBIt7E41fBinNftbq5x) | 3:39 | 2021-12-17 | 2022-03-19 |
@@ -680,6 +681,6 @@
 | [You To Me](https://open.spotify.com/track/6gIhOCip5eeREn4sQj8NMw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [You To Me](https://open.spotify.com/album/1wr3A9DOyF5ooxpLrYlEb2) | 3:14 | 2023-11-17 | 2024-01-18 |
 | [Young Man's Game](https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Young Man's Game](https://open.spotify.com/album/7d1ev8ZOIejEvyeNxIs6mL) | 3:34 | 2022-02-11 | 2022-03-19 |
 | [Your Alpine](https://open.spotify.com/track/0zxMh6r7kGqomTu9KzcYbi) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Your Alpine](https://open.spotify.com/album/786tMhrL0dSlsMkauWbOUv) | 4:39 | 2023-10-06 | 2023-12-16 |
-| [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 |  |
+| [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 | 2025-01-06 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

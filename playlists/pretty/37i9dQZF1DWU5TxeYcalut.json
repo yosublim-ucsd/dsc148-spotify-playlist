@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 162632,
+  "num_followers": 162629,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
+        "name": "A Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+      },
+      "artists": [
+        {
+          "name": "Carlos Buzelin",
+          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+        }
+      ],
+      "duration_ms": 225184,
+      "name": "Porto Rio",
+      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
         "name": "Mister Am\u00e9rico / Bolero de M\u00e3e (feat. Thiago Rabello & Salom\u00e3o Soares)",
         "url": "https://open.spotify.com/album/3v7S75Lv2e02tUHWQpbV6f"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Melanina",
-        "url": "https://open.spotify.com/album/1P0HvpkRAA1wCFm75DzcKr"
-      },
-      "artists": [
-        {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
-        }
-      ],
-      "duration_ms": 261342,
-      "name": "Melanina",
-      "url": "https://open.spotify.com/track/0fWqIbWJcfITkbWAa5i5hO"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Encontro",
         "url": "https://open.spotify.com/album/5xxHuhQzVrlAvZqR0W3c9t"
       },
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "A Ma\u00e7\u00e3",
-        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+        "name": "Melanina",
+        "url": "https://open.spotify.com/album/1P0HvpkRAA1wCFm75DzcKr"
       },
       "artists": [
         {
-          "name": "Carlos Buzelin",
-          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
         }
       ],
-      "duration_ms": 225184,
-      "name": "Porto Rio",
-      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+      "duration_ms": 261342,
+      "name": "Melanina",
+      "url": "https://open.spotify.com/track/0fWqIbWJcfITkbWAa5i5hO"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -399,6 +399,26 @@
       "duration_ms": 297293,
       "name": "Coisa Mais Linda",
       "url": "https://open.spotify.com/track/21Xc3sjRqdXwW7YEVfN9CL"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "A Pegada Agora \u00c9 Essa (The Sway Now)",
+        "url": "https://open.spotify.com/album/4GaKzRdEl4lIcJdiCOsRvH"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Neves",
+          "url": "https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683"
+        },
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "Lamento de um Perplexo",
+      "url": "https://open.spotify.com/track/3fyjwGSehpTJVUvnDJd9Qc"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -423,26 +443,6 @@
       "duration_ms": 367240,
       "name": "Quisiera Tenerte a Mi Lado",
       "url": "https://open.spotify.com/track/0nABj1vTjAHoIQsC2VSmRj"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
-        "name": "A Pegada Agora \u00c9 Essa (The Sway Now)",
-        "url": "https://open.spotify.com/album/4GaKzRdEl4lIcJdiCOsRvH"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Neves",
-          "url": "https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683"
-        },
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        }
-      ],
-      "duration_ms": 303750,
-      "name": "Lamento de um Perplexo",
-      "url": "https://open.spotify.com/track/3fyjwGSehpTJVUvnDJd9Qc"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -587,6 +587,34 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
+        "name": "Harmonize",
+        "url": "https://open.spotify.com/album/6NFkTdPsZ5rs7otLuVTG0i"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Daniel Santiago",
+          "url": "https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+        },
+        {
+          "name": "Thiago Espirito Santo",
+          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
+        }
+      ],
+      "duration_ms": 402929,
+      "name": "Nasceu o Amor",
+      "url": "https://open.spotify.com/track/2D7B9s6wpCSlMMzroUXTlR"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
         "name": "Trio Baru: Dez Anos (Live)",
         "url": "https://open.spotify.com/album/5AzuLOIMaMqp6IKbdJ6CfV"
       },
@@ -699,34 +727,6 @@
       "duration_ms": 840973,
       "name": "Su\u00edte Amer\u00edndia",
       "url": "https://open.spotify.com/track/50i63kSRpuJXi9tAgrpDQF"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
-        "name": "Harmonize",
-        "url": "https://open.spotify.com/album/6NFkTdPsZ5rs7otLuVTG0i"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Daniel Santiago",
-          "url": "https://open.spotify.com/artist/6JZugDfOOstJ1GDwZ4md5g"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Thiago Espirito Santo",
-          "url": "https://open.spotify.com/artist/7a0rMCZhzQfOiAR5ZfvbGx"
-        }
-      ],
-      "duration_ms": 402929,
-      "name": "Nasceu o Amor",
-      "url": "https://open.spotify.com/track/2D7B9s6wpCSlMMzroUXTlR"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
-      },
-      "artists": [
-        {
-          "name": "Marcio Riscado",
-          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
-        }
-      ],
-      "duration_ms": 126647,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/5v9ejdE6VaWwJ3rlCLC0lo"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 270012,
       "name": "With Ernesto",
       "url": "https://open.spotify.com/track/3ufrJqihyJzskjw6NVL7RD"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+      },
+      "artists": [
+        {
+          "name": "Marcio Riscado",
+          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+        }
+      ],
+      "duration_ms": 126647,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1011,34 +1011,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "If\u00e8",
-        "url": "https://open.spotify.com/album/3JK98v9dwUpZWIvU575dvR"
-      },
-      "artists": [
-        {
-          "name": "Allan Abbadia",
-          "url": "https://open.spotify.com/artist/52hUaUblYVaGpylzGlNx3w"
-        },
-        {
-          "name": "Leandro Oliveira",
-          "url": "https://open.spotify.com/artist/5YbKr2VGVKS0e0yaO6NqU9"
-        },
-        {
-          "name": "Larissa Oliveira",
-          "url": "https://open.spotify.com/artist/64lv0QK6SDrUNpugdxpVTQ"
-        },
-        {
-          "name": "Wellington Souza",
-          "url": "https://open.spotify.com/artist/4POlzPtfnfv4oyzGn4sl7R"
-        }
-      ],
-      "duration_ms": 317986,
-      "name": "Mem\u00f3rias",
-      "url": "https://open.spotify.com/track/1Ir2uQSAIZt9vRAunNCRQJ"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "When the Answer Is a Question",
         "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
       },
@@ -1067,26 +1039,30 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Factotum",
-        "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
+        "name": "If\u00e8",
+        "url": "https://open.spotify.com/album/3JK98v9dwUpZWIvU575dvR"
       },
       "artists": [
         {
-          "name": "Gabriel Ballest\u00e9",
-          "url": "https://open.spotify.com/artist/5Mpgro8TiHUY9WAkHuSUOC"
+          "name": "Allan Abbadia",
+          "url": "https://open.spotify.com/artist/52hUaUblYVaGpylzGlNx3w"
         },
         {
-          "name": "Emile Saubole",
-          "url": "https://open.spotify.com/artist/0ECgND59XbeVYWNwkBuYTx"
+          "name": "Leandro Oliveira",
+          "url": "https://open.spotify.com/artist/5YbKr2VGVKS0e0yaO6NqU9"
         },
         {
-          "name": "Pablo Arruda",
-          "url": "https://open.spotify.com/artist/4MQMAQPoIxPt8HAQGFCWGS"
+          "name": "Larissa Oliveira",
+          "url": "https://open.spotify.com/artist/64lv0QK6SDrUNpugdxpVTQ"
+        },
+        {
+          "name": "Wellington Souza",
+          "url": "https://open.spotify.com/artist/4POlzPtfnfv4oyzGn4sl7R"
         }
       ],
-      "duration_ms": 396106,
-      "name": "Factotum",
-      "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
+      "duration_ms": 317986,
+      "name": "Mem\u00f3rias",
+      "url": "https://open.spotify.com/track/1Ir2uQSAIZt9vRAunNCRQJ"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1107,6 +1083,30 @@
       "duration_ms": 266226,
       "name": "Novidade",
       "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Factotum",
+        "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Ballest\u00e9",
+          "url": "https://open.spotify.com/artist/5Mpgro8TiHUY9WAkHuSUOC"
+        },
+        {
+          "name": "Emile Saubole",
+          "url": "https://open.spotify.com/artist/0ECgND59XbeVYWNwkBuYTx"
+        },
+        {
+          "name": "Pablo Arruda",
+          "url": "https://open.spotify.com/artist/4MQMAQPoIxPt8HAQGFCWGS"
+        }
+      ],
+      "duration_ms": 396106,
+      "name": "Factotum",
+      "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1143,34 +1143,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Pro Carnaval Voltar",
-        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
-      },
-      "artists": [
-        {
-          "name": "Oran Etkin",
-          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        }
-      ],
-      "duration_ms": 481925,
-      "name": "Pro Carnaval Voltar",
-      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Kurukere",
         "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
       },
@@ -1195,18 +1167,30 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Can\u00e7\u00e3o da Odalisca",
-        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+        "name": "Pro Carnaval Voltar",
+        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
       },
       "artists": [
         {
-          "name": "Caetano Brasil",
-          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+          "name": "Oran Etkin",
+          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
+        },
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
         }
       ],
-      "duration_ms": 365120,
-      "name": "Can\u00e7\u00e3o da Odalisca",
-      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+      "duration_ms": 481925,
+      "name": "Pro Carnaval Voltar",
+      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
+        "name": "Can\u00e7\u00e3o da Odalisca",
+        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+      },
+      "artists": [
+        {
+          "name": "Caetano Brasil",
+          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+        }
+      ],
+      "duration_ms": 365120,
+      "name": "Can\u00e7\u00e3o da Odalisca",
+      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
         "name": "AMF",
         "url": "https://open.spotify.com/album/3dB8a8vroSsE20RMZmJuBf"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 334890,
       "name": "Serena",
       "url": "https://open.spotify.com/track/12pbppQGlnGQHd4cRxEYDO"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
-        "name": "Jazz & Java",
-        "url": "https://open.spotify.com/album/1tYhHFAzdyoFvEtZkZvp1b"
-      },
-      "artists": [
-        {
-          "name": "Tiago Cardoso",
-          "url": "https://open.spotify.com/artist/2bjS53npGokjRRCfBB9Ar3"
-        }
-      ],
-      "duration_ms": 230179,
-      "name": "Latte Lounge",
-      "url": "https://open.spotify.com/track/3gYXfglUVYmiPsoxEFjjmL"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1307,6 +1291,22 @@
       "duration_ms": 289434,
       "name": "In The Still Of The Night",
       "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Jazz & Java",
+        "url": "https://open.spotify.com/album/1tYhHFAzdyoFvEtZkZvp1b"
+      },
+      "artists": [
+        {
+          "name": "Tiago Cardoso",
+          "url": "https://open.spotify.com/artist/2bjS53npGokjRRCfBB9Ar3"
+        }
+      ],
+      "duration_ms": 230179,
+      "name": "Latte Lounge",
+      "url": "https://open.spotify.com/track/3gYXfglUVYmiPsoxEFjjmL"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Experimento 1",
         "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 576170,
       "name": "Experimento 1",
       "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Someone To Watch Over Me (Meet Tetel)",
-        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
-      },
-      "artists": [
-        {
-          "name": "Tetel Di Babuya",
-          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
-        },
-        {
-          "name": "Daniel Grajew",
-          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Someone To Watch Over Me - Meet Tetel",
-      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
-    },
-    {
-      "added_at": "2024-07-12 23:48:42",
-      "album": {
         "name": "Sidiel Vieira Quinteto",
         "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
       },
@@ -1727,26 +1707,22 @@
     {
       "added_at": "2024-07-12 23:48:42",
       "album": {
-        "name": "Rosi",
-        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
+        "name": "Someone To Watch Over Me (Meet Tetel)",
+        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
       },
       "artists": [
         {
-          "name": "Rubinho Antunes",
-          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
+          "name": "Tetel Di Babuya",
+          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
         },
         {
-          "name": "Nailor \"Proveta\" Azevedo",
-          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
-        },
-        {
-          "name": "Rosicler Barbosa",
-          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
+          "name": "Daniel Grajew",
+          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
         }
       ],
-      "duration_ms": 239992,
-      "name": "Rosi",
-      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
+      "duration_ms": 220560,
+      "name": "Someone To Watch Over Me - Meet Tetel",
+      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
     },
     {
       "added_at": "2024-07-12 23:48:42",
@@ -1783,6 +1759,30 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
+    },
+    {
+      "added_at": "2024-07-12 23:48:42",
+      "album": {
+        "name": "Rosi",
+        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
+      },
+      "artists": [
+        {
+          "name": "Rubinho Antunes",
+          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
+        },
+        {
+          "name": "Nailor \"Proveta\" Azevedo",
+          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
+        },
+        {
+          "name": "Rosicler Barbosa",
+          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
+        }
+      ],
+      "duration_ms": 239992,
+      "name": "Rosi",
+      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
     },
     {
       "added_at": "2024-07-12 23:48:42",

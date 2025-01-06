@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAABHReYUZkHODzMpO8sX1F18",
+  "snapshot_id": "Z3h6AAAAAABsWktgE5xTOYw6ckYmDe7s",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
-        "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
-      "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRANSFORMANDO",
         "url": "https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 176538,
       "name": "TRANSFORMANDO - feat. Ximena Sari\u00f1ana",
       "url": "https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara [En Vivo]",
+        "url": "https://open.spotify.com/album/2pYAi581eUrOxSGWMuN5dH"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Amor, Amor de Mis Amores (with Ximena Sari\u00f1ana) - En Vivo [Sala Telef\u00f3nica del Centro Cultural Roberto Cantoral]",
+      "url": "https://open.spotify.com/track/1xUUwulH27eH1TPa1faebX"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mediocre",
+        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 263386,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Confieso",
         "url": "https://open.spotify.com/album/7xsJj0Y8SGK5PlEhJUyKa5"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 253714,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/0DiDWvm0wS3kGncKLVlHbE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mediocre",
-        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 263386,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
     },
     {
       "added_at": null,
@@ -999,18 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No todo lo puedes dar",
-        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
       },
       "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 228640,
-      "name": "La Vida No Es F\u00e1cil",
-      "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
+      "duration_ms": 228906,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
     },
     {
       "added_at": null,
@@ -1035,22 +1039,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+        "name": "No todo lo puedes dar",
+        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
       },
       "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 228906,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
+      "duration_ms": 228640,
+      "name": "La Vida No Es F\u00e1cil",
+      "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

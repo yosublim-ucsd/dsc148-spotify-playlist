@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,806 likes - 320 songs - 16 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,805 likes - 320 songs - 16 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 70 | [She For Keeps](https://open.spotify.com/track/4OnWIMfSOXvAdbBCRosqhS) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:57 |
 | 71 | [Far Gone \(feat\. Lil Baby\)](https://open.spotify.com/track/6RiMRVxOiEYd4QSu1cxrls) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 3:56 |
 | 72 | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve) | 2:51 |
-| 73 | [Beast](https://open.spotify.com/track/5kuxtUHQr23zov47Wn35Of) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:20 |
-| 74 | [Clicc Clacc](https://open.spotify.com/track/2odeWIBW5susyP8MOg10rm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/6li8kT6o9RM59IxRyZZJYh) | 1:53 |
+| 73 | [Clicc Clacc](https://open.spotify.com/track/2odeWIBW5susyP8MOg10rm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/6li8kT6o9RM59IxRyZZJYh) | 1:53 |
+| 74 | [Beast](https://open.spotify.com/track/5kuxtUHQr23zov47Wn35Of) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:20 |
 | 75 | [NORTHSIDE](https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 3:29 |
 | 76 | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4) | 3:12 |
 | 77 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
@@ -235,8 +235,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 225 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
 | 226 | [A Lot of Miles](https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:57 |
 | 227 | [Ride With Shordie, Pt\. 2](https://open.spotify.com/track/05uAvu6nskpw3PNjsOStGd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:50 |
-| 228 | [Can't Believe It](https://open.spotify.com/track/4H4LrBR0vTvXwtc5ty42ap) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Rich Ni\*\*a Timeline](https://open.spotify.com/album/0lfwxoyCgsqxo6GGBRQc6j) | 3:54 |
-| 229 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 228 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 229 | [Can't Believe It](https://open.spotify.com/track/4H4LrBR0vTvXwtc5ty42ap) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Rich Ni\*\*a Timeline](https://open.spotify.com/album/0lfwxoyCgsqxo6GGBRQc6j) | 3:54 |
 | 230 | [Head Tap \(feat\. Tee Grizzley\)](https://open.spotify.com/track/15oUNnj8unqJJlbYbH1dAs) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Don Talk](https://open.spotify.com/album/3DZBQwtLEZSiuWXYAjLdbZ) | 3:09 |
 | 231 | [Get Em In \(Mango Foo, Offset\)](https://open.spotify.com/track/5KD7Le9Mt7dclKEMawarAi) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:42 |
 | 232 | [Grandiose](https://open.spotify.com/track/2Tl9IbMw4llG7yFzJPyEuN) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 2:54 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 319 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 320 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `Abl/1AAAAABzeFim4SwrWe9qMIyQi8Wy`
+Snapshot ID: `AbmFdAAAAAAJy9ygWwRTKuKijk5VZo2+`

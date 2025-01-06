@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 264 songs - 15 hr 3 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 265 songs - 15 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,5 +272,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 262 | [Mellow mellow Lily](https://open.spotify.com/track/68GkZrkZVZQlv9eXZofLL0) | [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO) | [ヤリチン☆ビッチ部 キャラクターソングシリーズ「いちご味」](https://open.spotify.com/album/5JiJPMzj7fN1UZzzWmghml) | 3:28 |
 | 263 | [Gaikotsu Gakudan To Riria](https://open.spotify.com/track/1joOPSOAwgGOHZxUSaK9rC) | [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Seitou No Marche \(Standard Edition\)](https://open.spotify.com/album/5bjcGpvKfRk4ai8cJEcvbZ) | 3:21 |
 | 264 | [NYAN \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/7iqm8tmLgRSMkkNTw9FAww) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [NYAN \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/608oZh12hfBNawDa1ahW7K) | 3:24 |
+| 265 | [シュガーコート](https://open.spotify.com/track/0zIQRErzk1eNU4Pd1Tnxcg) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [orbit](https://open.spotify.com/album/5pdTN60HCRnXnTP3kDUS8Y) | 3:05 |
 
-Snapshot ID: `AAAI5W57akkP2RGI3ifS7C2bEE1NSy39`
+Snapshot ID: `AAAI5sxNJf5ebYzGfq5QdfqDd1kKmLlK`

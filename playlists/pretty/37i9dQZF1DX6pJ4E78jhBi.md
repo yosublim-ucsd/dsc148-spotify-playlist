@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,397 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,310 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 21 | [In the Bleak Midwinter \(Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/track/6dAWKg1egU4uBjLGj2EUL3) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [In the Bleak Midwinter \(Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/album/6ud4LYbVUC9gd8EvKGOrWT) | 2:06 |
 | 22 | [Till Next Christmas](https://open.spotify.com/track/3WpFtDbpurmHXBp3jlCrCT) | [Eunike Tanzil](https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [Till Next Christmas](https://open.spotify.com/album/3d7hTNC0OGogdNx1EJMZOD) | 4:06 |
 | 23 | [Lonely Christmas \(After Mendelssohn: Hark! The Herald Angels Sing, Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/track/56JT1vypieGlV7NfwOKlrp) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Lonely Christmas \(After Mendelssohn: Hark! The Herald Angels Sing, Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/album/4pEbRYuBxCo5pOmGKrut6I) | 2:14 |
-| 24 | [Still, Still, Still](https://open.spotify.com/track/28hC0zMOkbVZBNPw0NJTdN) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 1:52 |
+| 24 | [Still, Still, Still](https://open.spotify.com/track/28hC0zMOkbVZBNPw0NJTdN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 1:52 |
 | 25 | [Christmas Time Is Here](https://open.spotify.com/track/2ji89oNo5cUOEzYTKnR9qq) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Christmas Time Is Here](https://open.spotify.com/album/76b4BCoBMb3fxyxBYBJKle) | 2:51 |
 | 26 | [Jingle Bells Reimagined](https://open.spotify.com/track/5HY2b7hBXZhOv3VNqoq22U) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Jingle Bells Reimagined](https://open.spotify.com/album/1ZhlvU4jWfrMGMaxcNDi80) | 2:35 |
 | 27 | [Bethlehem Down](https://open.spotify.com/track/2HJfbaED8RpSad8pUE9Toe) | [Peter Warlock](https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Warlock: Bethlehem Down](https://open.spotify.com/album/0j71fTpamXeMd4yRMbbeXx) | 2:54 |

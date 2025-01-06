@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,475 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,483 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 |
-| 2 | [3A9LIYA](https://open.spotify.com/track/0Qleubp4EIjr18kyiPrqFM) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [3A9LIYA](https://open.spotify.com/album/0LtRM2zIldzy1kfbXyfT58) | 3:19 |
-| 3 | [Dernier But](https://open.spotify.com/track/3kMhlmBTwtJZpnQ0fRusIm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Dernier But](https://open.spotify.com/album/5sQkqxcvyC4hJBlvWx0Gro) | 3:04 |
+| 1 | [Dernier But](https://open.spotify.com/track/3kMhlmBTwtJZpnQ0fRusIm) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Dernier But](https://open.spotify.com/album/5sQkqxcvyC4hJBlvWx0Gro) | 3:04 |
+| 2 | [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 |
+| 3 | [3A9LIYA](https://open.spotify.com/track/0Qleubp4EIjr18kyiPrqFM) | [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP), [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [3A9LIYA](https://open.spotify.com/album/0LtRM2zIldzy1kfbXyfT58) | 3:19 |
 | 4 | [La Luna](https://open.spotify.com/track/0J4eAUX6z4fMmQl0DNGbEv) | [Defame](https://open.spotify.com/artist/7uYhekWGqh5EvQAaKC2WxS), [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [The NORF Tape](https://open.spotify.com/album/6FHC8uKiR12QlB4JpVgcMk) | 3:30 |
 | 5 | [AKADHIB](https://open.spotify.com/track/7wI2qRYtNmJl62mj5fUC78) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [AKADHIB](https://open.spotify.com/album/25yPGNBnqKcojCnQCNpqbL) | 3:20 |
 | 6 | [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 49 | [Anesto](https://open.spotify.com/track/0abJ0SKsYEoShNmWbdEHp3) | [Esserpent](https://open.spotify.com/artist/0IgVFHpTug7gJIKUqsve0q) | [Anesto](https://open.spotify.com/album/0xGNs0CD80ebpaI1C9QBLj) | 2:55 |
 | 50 | [Rjel Tunis](https://open.spotify.com/track/4I5ZyFF55zqQRNzYdhl1Od) | [Omar Laya](https://open.spotify.com/artist/3bbrfcE7yIia9BrIIMeZLF) | [Rjel Tunis](https://open.spotify.com/album/2nyIDIgnhMpVuD7MGkUO5S) | 3:33 |
 
-Snapshot ID: `Z3lMXgAAAACDakrcEF9dTR1OmxY5OogY`
+Snapshot ID: `Z3qSVAAAAACzPtYX9hYUxNfr+pvx677z`

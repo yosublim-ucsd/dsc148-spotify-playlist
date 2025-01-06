@@ -2,7 +2,7 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : Rauw Alejandro et Bad Bunny
+> Tous les hits latino du moment sont ici\. Photo : Bad Bunny
 
 181 songs - 9 hr 35 min
 

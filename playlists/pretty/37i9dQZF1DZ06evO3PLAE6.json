@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 10993,
+  "num_followers": 10994,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAACLiRmpwic4oWvmP84FSEpA",
+  "snapshot_id": "Z3h6AAAAAABoy1gl4dyefBx1uxMVsdgy",
   "tracks": [
     {
       "added_at": null,
@@ -746,11 +746,15 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 282226,
-      "name": "Dart n Feather",
-      "url": "https://open.spotify.com/track/2TNR9F58sNXu11tVezcnGh"
+      "duration_ms": 210899,
+      "name": "My Kingdom Come",
+      "url": "https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu"
     },
     {
       "added_at": null,

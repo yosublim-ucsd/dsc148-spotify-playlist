@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 354579,
+  "num_followers": 354605,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 313198,
+      "name": "Sin Freno",
+      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "B\u00faho",
         "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 230893,
       "name": "Deja",
       "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Astra",
-        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        },
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 313198,
-      "name": "Sin Freno",
-      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -443,26 +443,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Como Lo Ped\u00ed",
-      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Desierto",
         "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
       },
@@ -475,26 +455,6 @@
       "duration_ms": 173043,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Bleu de lune (El Buho Remix)",
-        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
-      },
-      "artists": [
-        {
-          "name": "Zoufris Maracas",
-          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Bleu de lune (El Buho Remix)",
-      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -535,6 +495,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Bleu de lune (El Buho Remix)",
+        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
+      },
+      "artists": [
+        {
+          "name": "Zoufris Maracas",
+          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Bleu de lune (El Buho Remix)",
+      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Solpor",
         "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 319169,
       "name": "Mu\u00ed\u00f1o",
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Como Lo Ped\u00ed",
+      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -603,22 +603,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "ATO 3: Am\u00e9rica do Sol",
-        "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
       },
       "artists": [
         {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Claudia Manzo",
-          "url": "https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg"
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
         }
       ],
-      "duration_ms": 157746,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -643,6 +639,26 @@
       "duration_ms": 194531,
       "name": "La Que Es",
       "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "ATO 3: Am\u00e9rica do Sol",
+        "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Claudia Manzo",
+          "url": "https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -683,22 +699,6 @@
       "duration_ms": 190840,
       "name": "No Soy Tu Princesa - Remix",
       "url": "https://open.spotify.com/track/5mRscP08EbnCmAuMnMhQa1"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Misturas",
-        "url": "https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ"
-      },
-      "artists": [
-        {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "Aliboria",
-          "url": "https://open.spotify.com/artist/7snXGTX2QLVH8buiuH8t2L"
-        }
-      ],
-      "duration_ms": 228754,
-      "name": "Olv\u00eddame",
-      "url": "https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Tierra Moj\u00e1 (Dub Mix)",
         "url": "https://open.spotify.com/album/5nNgttpJa3yf9foArittyG"
       },
@@ -823,22 +803,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Chinito Rulo (Remix)",
-        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
+        "name": "Misturas",
+        "url": "https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ"
       },
       "artists": [
         {
-          "name": "Shushupe",
-          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
         },
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Aliboria",
+          "url": "https://open.spotify.com/artist/7snXGTX2QLVH8buiuH8t2L"
         }
       ],
-      "duration_ms": 187198,
-      "name": "Chinito Rulo (Remix)",
-      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
+      "duration_ms": 228754,
+      "name": "Olv\u00eddame",
+      "url": "https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -855,6 +835,26 @@
       "duration_ms": 300000,
       "name": "Levanta Muertos",
       "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Chinito Rulo (Remix)",
+        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
+      },
+      "artists": [
+        {
+          "name": "Shushupe",
+          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 187198,
+      "name": "Chinito Rulo (Remix)",
+      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1027,6 +1027,30 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Ultravioleta Remixes",
+        "url": "https://open.spotify.com/album/7ouXMhGcqxCHJzptPUZXhM"
+      },
+      "artists": [
+        {
+          "name": "Landikhan",
+          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
+        },
+        {
+          "name": "Dat Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
+        },
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 287903,
+      "name": "Ultravioleta - DJ Raff Remix",
+      "url": "https://open.spotify.com/track/5yoxKVZ1cqiB0ocI03iFeq"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "El Corredor Del Jaguar",
         "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
       },
@@ -1067,26 +1091,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Ultravioleta Remixes",
-        "url": "https://open.spotify.com/album/7ouXMhGcqxCHJzptPUZXhM"
+        "name": "El Cafetal",
+        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
       },
       "artists": [
         {
-          "name": "Landikhan",
-          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
-        },
-        {
-          "name": "Dat Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
-        },
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
         }
       ],
-      "duration_ms": 287903,
-      "name": "Ultravioleta - DJ Raff Remix",
-      "url": "https://open.spotify.com/track/5yoxKVZ1cqiB0ocI03iFeq"
+      "duration_ms": 244660,
+      "name": "El Cafetal",
+      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1119,22 +1135,6 @@
       "duration_ms": 179634,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "El Cafetal",
-        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 244660,
-      "name": "El Cafetal",
-      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,805 likes - 41 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,810 likes - 41 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 40 | [Complicit](https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Complicit](https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn) | 3:58 |
 | 41 | [\(I'm\) Stranded \- triple j Like A Version](https://open.spotify.com/track/0WdlwRBR5aTJ8eGZq4tWeP) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(I'm\) Stranded \(triple j Like A Version\)](https://open.spotify.com/album/65Hgy4fFkdo5SnBW1sZIAu) | 3:10 |
 
-Snapshot ID: `Z3cogAAAAAAnUA1zE8ZJGib8cLczvYjZ`
+Snapshot ID: `Z3h6AAAAAADGUNaI9jWndxepSlxAFmWs`

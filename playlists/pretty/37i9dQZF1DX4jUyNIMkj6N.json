@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 210437,
+  "num_followers": 210509,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 172304,
+      "name": "Cemetery",
+      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
         "name": "Avignon",
         "url": "https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 152874,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 172304,
-      "name": "Cemetery",
-      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "A Dangerous Thing",
-        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "Viking Fair",
         "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 67112,
       "name": "Viking Fair",
       "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "A Dangerous Thing",
+        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
         "name": "All for You",
         "url": "https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb"
       },
@@ -723,66 +707,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Have This Dance",
-        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
       "artists": [
         {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 214380,
-      "name": "Have This Dance",
-      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "The State of the World",
-        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
-      },
-      "artists": [
-        {
-          "name": "Kalandra",
-          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
-        }
-      ],
-      "duration_ms": 258880,
-      "name": "The State of the World",
-      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "Late December",
-        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
-      },
-      "artists": [
-        {
-          "name": "Mathias Gundhus",
-          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
-        }
-      ],
-      "duration_ms": 179545,
-      "name": "Late December",
-      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
-    },
-    {
-      "added_at": "2024-12-05 23:00:00",
-      "album": {
-        "name": "When You Touch The Sky",
-        "url": "https://open.spotify.com/album/3g37CMgco7Cock6BsoSAJO"
-      },
-      "artists": [
-        {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
-        }
-      ],
-      "duration_ms": 179273,
-      "name": "When You Touch The Sky",
-      "url": "https://open.spotify.com/track/0bxlJWWvXMV83KNgb543uQ"
+      "duration_ms": 182946,
+      "name": "Pixie's Parasol",
+      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -803,18 +739,18 @@
     {
       "added_at": "2024-12-05 23:00:00",
       "album": {
-        "name": "Doves",
-        "url": "https://open.spotify.com/album/1jZSsjU84SBeiLlk7iQs65"
+        "name": "Have This Dance",
+        "url": "https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5"
       },
       "artists": [
         {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
         }
       ],
-      "duration_ms": 251180,
-      "name": "Doves",
-      "url": "https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW"
+      "duration_ms": 214380,
+      "name": "Have This Dance",
+      "url": "https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF"
     },
     {
       "added_at": "2024-12-05 23:00:00",
@@ -831,6 +767,70 @@
       "duration_ms": 164083,
       "name": "I Live After I Died",
       "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "The State of the World",
+        "url": "https://open.spotify.com/album/3ljKtIU7yeXyzKehTUsL39"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "The State of the World",
+      "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "When You Touch The Sky",
+        "url": "https://open.spotify.com/album/3g37CMgco7Cock6BsoSAJO"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "duration_ms": 179273,
+      "name": "When You Touch The Sky",
+      "url": "https://open.spotify.com/track/0bxlJWWvXMV83KNgb543uQ"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Late December",
+        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
+      },
+      "artists": [
+        {
+          "name": "Mathias Gundhus",
+          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+        }
+      ],
+      "duration_ms": 179545,
+      "name": "Late December",
+      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
+    },
+    {
+      "added_at": "2024-12-05 23:00:00",
+      "album": {
+        "name": "Doves",
+        "url": "https://open.spotify.com/album/1jZSsjU84SBeiLlk7iQs65"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 251180,
+      "name": "Doves",
+      "url": "https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW"
     },
     {
       "added_at": "2024-12-05 23:00:00",

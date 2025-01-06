@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-584 songs - 1 day 3 hr 58 min
+585 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 | 2024-09-27 |  |
 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 | 2024-08-29 |  |
 | [Marry](https://open.spotify.com/track/1RdJBwpiYkf3mB8Tlak7ck) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Marry](https://open.spotify.com/album/6FOPrXcN2OdzaTJeV4mwL4) | 3:19 | 2023-12-22 | 2024-02-20 |
+| [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 | 2024-12-16 |  |
 | [MEGA MONEY MEGA](https://open.spotify.com/track/0GtkFcwZrNVpkPOavG1gfZ) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [MEGA MONEY MEGA](https://open.spotify.com/album/77bphBtAaaTCuM7pkFO7YV) | 2:48 | 2024-12-16 |  |
 | [Men Don Show Face](https://open.spotify.com/track/7LHFDvkmLUnPigyHDZpwIX) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:02 | 2024-10-07 | 2024-12-10 |
 | [Mentali](https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Mentali](https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH) | 2:30 | 2024-10-14 | 2024-12-17 |
@@ -501,7 +502,7 @@
 | [Small Money](https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Small Money](https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4) | 2:25 | 2024-04-26 | 2024-10-01 |
 | [Snapchat](https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:26 | 2022-06-09 | 2023-11-01 |
 | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF) | 2:46 | 2024-03-29 | 2024-04-12 |
-| [Something Something \- Remix](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something \(Remix\)](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 | 2024-08-02 |  |
+| [Something Something \- Remix](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something \(Remix\)](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 | 2024-08-02 | 2025-01-06 |
 | [Sometimes \- Remix](https://open.spotify.com/track/6rDbIKxHWteL6TnhLtj634) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Sometimes \(Remix\)](https://open.spotify.com/album/0CP8QDMjNwtWkIcQ30P2pc) | 3:08 | 2022-06-09 | 2023-01-21 |
 | [Sooner](https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:33 | 2024-03-15 | 2024-11-22 |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2022-07-14 | 2023-09-29 |

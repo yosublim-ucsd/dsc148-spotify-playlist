@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-175 songs - 11 hr 51 min
+176 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Honeysuckle Rose](https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:50 | 2022-10-12 |  |
 | [Hope](https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:01 | 2023-08-31 | 2024-04-19 |
 | [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-08 | 2023-08-31 |
-| [Hurricane Connie](https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:16 | 2022-01-13 |  |
+| [Hurricane Connie](https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:16 | 2022-01-13 | 2025-01-06 |
 | [I Ain't Got Nobody](https://open.spotify.com/track/1mYU1xNK2THM44DpukZGY4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Capitol Collector's Series](https://open.spotify.com/album/0L3a0HwsJSOR0dARdZuWzs) | 2:24 | 2022-01-13 | 2023-01-12 |
 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 | 2021-12-16 | 2023-02-02 |
 | [I Could Write A Book](https://open.spotify.com/track/7M3mkGFmV8YMJXcxJ14OJ3) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 4:28 | 2021-12-16 |  |
@@ -176,6 +176,7 @@
 | [When You're Smiling](https://open.spotify.com/track/25scgTXCu6BVxDoBcz7uLA) | [Lee Konitz Quartet](https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj) | [Tranquility](https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F) | 3:46 | 2021-12-16 | 2022-01-14 |
 | [When You're Smiling \(The Whole World Smiles With You\) \- 1999 Remastered](https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Swingin' Session!!! And More \(Remastered / Expanded Edition\)](https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF) | 2:00 | 2022-01-13 |  |
 | [Who Cares?](https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Know What I Mean? \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX) | 5:58 | 2021-12-16 | 2024-03-25 |
+| [Why'd You Have To Go and Lie To Me Boy](https://open.spotify.com/track/1cYjSURe4iTZb6ndRFHOVr) | [Brian Charette](https://open.spotify.com/artist/0BDMJnvi2kFbQAUNUqt5om), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy), [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [Why'd You Have To Go and Lie To Me Boy](https://open.spotify.com/album/2Dqtu0iBpv2YdpUam2awCq) | 5:10 | 2024-11-29 |  |
 | [Wonder Why](https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 5:15 | 2021-12-16 |  |
 | [Yes Sir, That's My Baby](https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 4:20 | 2021-12-16 |  |
 | [You Can Have Him](https://open.spotify.com/track/1FIkhPVchSeLTinKQcC5tV) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:46 | 2021-12-16 | 2022-08-30 |

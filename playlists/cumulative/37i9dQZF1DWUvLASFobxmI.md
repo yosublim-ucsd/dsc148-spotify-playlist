@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUvLASFobxmI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUvLASFobxmI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUvLASFobxmI)
 
-### [Norteño 2024](https://open.spotify.com/playlist/37i9dQZF1DWUvLASFobxmI)
+### [Norteño 2025](https://open.spotify.com/playlist/37i9dQZF1DWUvLASFobxmI)
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, El Frizian en portada.
 
-633 songs - 1 day 9 hr 33 min
+634 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [El H](https://open.spotify.com/track/2JSp7tQTyQz6GA8Ko3m0Lw) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que las Cuartitos No Falten](https://open.spotify.com/album/63zx8Ne7jC03DB4w2yyQ6k) | 2:44 | 2022-03-11 | 2022-08-30 |
 | [El H](https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:55 | 2022-01-14 | 2024-04-27 |
 | [El H](https://open.spotify.com/track/6cGFQKwBZomwMQMiKf48ny) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:55 | 2022-08-29 | 2024-04-19 |
+| [El Hidrocalido \- En Vivo](https://open.spotify.com/track/0323VoZcVS98E3iy9wTSSu) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [El Hidrocalido \(En Vivo\)](https://open.spotify.com/album/0NcThX7jvJg4R01hxEOVnz) | 3:01 | 2025-01-05 |  |
 | [El Hijo De La Santa](https://open.spotify.com/track/1jMYQmiY4xWG8FWYD77Shy) | [Códice](https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ) | [El Hijo De La Santa](https://open.spotify.com/album/1JGSeqSB92UsSNQxa1Q9pR) | 2:46 | 2024-01-12 | 2024-01-27 |
 | [EL INFIERNO](https://open.spotify.com/track/2DhbJTNWJ4ChxnMEcY0WAq) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [EL INFIERNO](https://open.spotify.com/album/5zM5b1Ha8HwK6w5xRO4DFf) | 3:37 | 2022-07-01 | 2023-08-28 |
 | [El Invierno Pasado](https://open.spotify.com/track/68tZC61FSDP2WgdQAoImQG) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Jean Piero](https://open.spotify.com/artist/038hutZ2g8qq1UjZZGfTIs) | [El Invierno Pasado](https://open.spotify.com/album/7r0Et078YgtOvouUWg0UgY) | 4:08 | 2022-08-29 | 2022-10-01 |
@@ -252,7 +253,7 @@
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-01-13 |  |
 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2023-12-15 |  |
 | [Flaco Salgueiro](https://open.spotify.com/track/26gjboIAI5bQevZS7aRg8C) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Flaco Salgueiro](https://open.spotify.com/album/4qM2J7FwcX2wCo1hxZEH10) | 3:02 | 2023-02-24 | 2023-03-09 |
-| [Flor Hermosa](https://open.spotify.com/track/2QV8D1bkEoHCccO3n7YypR) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 3:01 | 2024-12-20 |  |
+| [Flor Hermosa](https://open.spotify.com/track/2QV8D1bkEoHCccO3n7YypR) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 3:01 | 2024-12-20 | 2025-01-06 |
 | [Flore$](https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Tino Acosta](https://open.spotify.com/artist/2KDJtRiuNSnTiyxYZnhhBN) | [Flore$](https://open.spotify.com/album/1BjftBli83SYZBcvDEuSQH) | 2:06 | 2024-07-12 | 2024-12-21 |
 | [Flores](https://open.spotify.com/track/2n6qEM9e2a6yS50fWyaPQT) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Flores](https://open.spotify.com/album/35f4q9OIhEtZy9FErsdrqx) | 2:38 | 2022-06-24 | 2022-08-30 |
 | [Frapesito](https://open.spotify.com/track/4RKPYB0pkiajIXSBxP4Jf9) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9), [DEZIDIA](https://open.spotify.com/artist/6tsOr8f9lX6fxZbbP0zmdC) | [Frapesito](https://open.spotify.com/album/2lpBWUBaTD0HwXir204fTF) | 3:14 | 2024-08-30 | 2024-09-21 |

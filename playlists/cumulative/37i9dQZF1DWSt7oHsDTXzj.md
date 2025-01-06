@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-271 songs - 14 hr 50 min
+272 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Holiday Dreaming](https://open.spotify.com/track/659yAq4DwQRjuHkP0K9Pz8) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [The Molly Burch Christmas Album](https://open.spotify.com/album/1aigDgjQuiFg77aCRnyTTq) | 3:30 | 2022-12-23 | 2022-12-26 |
 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 | 2021-11-12 |  |
 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 | 2021-11-12 |  |
+| [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 | 2024-12-13 |  |
 | [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 | 2021-12-15 | 2023-11-18 |
 | [I Dream Of Christmas](https://open.spotify.com/track/1w9L9fIwzau66Old8bYW5F) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:23 | 2023-10-16 | 2024-04-19 |
 | [I Wish It Was Christmas Today](https://open.spotify.com/track/0PHOkI70DXxOyPqQ6a7wQz) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [I Wish It Was Christmas Today](https://open.spotify.com/album/409ST2qM9KvT8OFIYPMI5w) | 3:11 | 2021-11-12 | 2022-07-29 |
@@ -255,7 +256,7 @@
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2021-11-12 | 2024-04-19 |
 | [White Winter Hymnal](https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 2:27 | 2022-11-11 | 2022-11-13 |
 | [White Winter Hymnal](https://open.spotify.com/track/1kqG1PQ2DQxd9XD6ofoOD9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [White Winter Hymnal](https://open.spotify.com/album/1dR5MaLcuyQFAtS8k6Xs84) | 2:27 | 2021-11-12 |  |
-| [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 | 2023-11-17 |  |
+| [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 | 2023-11-17 | 2025-01-06 |
 | [Winter Hat](https://open.spotify.com/track/1RhMRGtAwqdLKR4zembdN9) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Winter Hat](https://open.spotify.com/album/3F5Wd8RB1tll3qQn7f1zYx) | 2:54 | 2024-12-09 |  |
 | [Winter Hat](https://open.spotify.com/track/3vAo3NF0Qox87OLt1fAN5W) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Winter Hat](https://open.spotify.com/album/6SQhxj5Xmpv9P4YiTg6EX0) | 2:54 | 2024-11-15 | 2024-12-02 |
 | [Winter Love](https://open.spotify.com/track/5oXaaoRtvQ93u0bOBNS13D) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Winter Love](https://open.spotify.com/album/2898n8ziD4YJzeLfmc9XEN) | 2:49 | 2021-11-12 | 2022-07-16 |

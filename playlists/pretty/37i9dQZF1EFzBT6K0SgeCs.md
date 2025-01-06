@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 98 | [I'm in Love Without You](https://open.spotify.com/track/1qMNtybhEGAUFLtwlnxsMK) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [I'm in Love Without You](https://open.spotify.com/album/3N5KHNxl029ukoyPRkbVqv) | 3:21 |
 | 99 | [Life Moves On](https://open.spotify.com/track/62BQnLUbtX7MVdLPjGAHek) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Life Moves On](https://open.spotify.com/album/1Tc5orxZ6YQSmjKH16tP6N) | 4:11 |
 | 100 | [Only A Lifetime](https://open.spotify.com/track/7zODPHkwNgDFZzhv5NhhVw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 4:16 |
-| 101 | [Can't Wait To Be Dead](https://open.spotify.com/track/5dDSX2zoMVSDmz1TPxPMYO) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Can't Wait To Be Dead](https://open.spotify.com/album/0wKWpWU5S5EwkLKsdcTRz1) | 2:55 |
-| 102 | [The 90s](https://open.spotify.com/track/7pNcOZGxBHXuNKT2YUABzr) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:23 |
+| 101 | [The 90s](https://open.spotify.com/track/7pNcOZGxBHXuNKT2YUABzr) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:23 |
+| 102 | [Can't Wait To Be Dead](https://open.spotify.com/track/5dDSX2zoMVSDmz1TPxPMYO) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Can't Wait To Be Dead](https://open.spotify.com/album/0wKWpWU5S5EwkLKsdcTRz1) | 2:55 |
 | 103 | [i still say goodnight](https://open.spotify.com/track/2RwpoqhsYOZSGsF69KqjwP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:08 |
 | 104 | [So Will I](https://open.spotify.com/track/35hWvR2SVsWwzScQ4UEMED) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead \(Deluxe\)](https://open.spotify.com/album/3h7X7RcVxhSNLCCxJ7I9ar) | 4:11 |
 | 105 | [Happy Now?](https://open.spotify.com/track/4aMr7YCW9UgPn9dAjJPkYg) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:52 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 138 | [True Blue](https://open.spotify.com/track/613vBSqpLBri5QONztpUSt) | [bbygirl](https://open.spotify.com/artist/7COWUsAnHT3kAyHpDUoFxM) | [Blue](https://open.spotify.com/album/6GOsMwTFJh6GcPfX0EK8xK) | 2:45 |
 | 139 | [Wash You Off](https://open.spotify.com/track/5P9Wd1OpXa9IbP6mLMI9c2) | [Kenzie Nimmo](https://open.spotify.com/artist/1L3mQeJx5YUcTqhIHD7pjV) | [Reckless Mess](https://open.spotify.com/album/2uESJILWyhUM6QvD1enlDP) | 3:19 |
 
-Snapshot ID: `Abl/ygAAAAAQx32MuerxPKCXUNqVXGVy`
+Snapshot ID: `AbmFVgAAAADs5NzJlaBqy4sHqA//Zyw1`

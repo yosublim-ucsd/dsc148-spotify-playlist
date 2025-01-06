@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 230007,
+  "num_followers": 230016,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
     },
     {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
       "added_at": "2023-07-04 22:20:24",
       "album": {
         "name": "yeti",
@@ -587,38 +603,6 @@
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
-    },
-    {
-      "added_at": "2024-03-22 14:38:07",
-      "album": {
-        "name": "Is This What Love Is?",
-        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 217002,
-      "name": "Is This What Love Is?",
-      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
-    },
-    {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2024-05-10 16:04:45",
@@ -657,6 +641,22 @@
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
     },
     {
+      "added_at": "2024-03-22 14:38:07",
+      "album": {
+        "name": "Is This What Love Is?",
+        "url": "https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 217002,
+      "name": "Is This What Love Is?",
+      "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
+    },
+    {
       "added_at": "2024-03-28 22:30:08",
       "album": {
         "name": "Fate",
@@ -687,6 +687,22 @@
       "duration_ms": 203826,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
+    },
+    {
+      "added_at": "2023-01-13 13:15:53",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 59026,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -735,22 +751,6 @@
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
-    },
-    {
-      "added_at": "2023-01-13 13:15:53",
-      "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 59026,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 241168,
-      "name": "Sorry I Am",
-      "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Let's Get Out Of This Country",
@@ -879,6 +863,22 @@
       "duration_ms": 231160,
       "name": "Lloyd, I'm Ready To Be Heartbroken",
       "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 241168,
+      "name": "Sorry I Am",
+      "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 220208,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "If You're Feeling Sinister",
         "url": "https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Blouse",
-        "url": "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo"
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 195376,
-      "name": "Blouse",
-      "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
+      "duration_ms": 220208,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1055,6 +1039,22 @@
       "duration_ms": 149426,
       "name": "Halloween Costume",
       "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Blouse",
+        "url": "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195376,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Smile in the Face of the Devil",
         "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
@@ -1363,6 +1379,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Margaux",
+        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 146810,
+      "name": "Margaux",
+      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP"
       },
@@ -1375,22 +1407,6 @@
       "duration_ms": 256639,
       "name": "My House",
       "url": "https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1423,22 +1439,6 @@
       "duration_ms": 243206,
       "name": "flame",
       "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Margaux",
-        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 146810,
-      "name": "Margaux",
-      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1509,6 +1509,22 @@
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
     },
     {
+      "added_at": "2024-08-08 19:46:47",
+      "album": {
+        "name": "Meet Cute",
+        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "Meet Cute",
+      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
+    },
+    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "You Do Not Have To Be Good",
@@ -1561,22 +1577,6 @@
       "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
     },
     {
-      "added_at": "2024-08-08 19:46:47",
-      "album": {
-        "name": "Meet Cute",
-        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Meet Cute",
-      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
-    },
-    {
       "added_at": "2024-02-21 11:44:23",
       "album": {
         "name": "One More Thing",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Me and My Friends",
-        "url": "https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Me and My Friends",
-      "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
-    },
-    {
       "added_at": "2024-07-12 12:27:26",
       "album": {
         "name": "2much2soon",
@@ -1643,6 +1627,22 @@
       "duration_ms": 181920,
       "name": "2much2soon",
       "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Me and My Friends",
+        "url": "https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Me and My Friends",
+      "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 23223,
+  "num_followers": 23250,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAAjtFN8CzfnvuDTg7xp/3/7",
+  "snapshot_id": "Z3h6AAAAAADa6h3F1uIVGqek3fsWCG3m",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
-        "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
-      "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Embrace It Remix",
         "url": "https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 202434,
       "name": "Embrace It - Remix",
       "url": "https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
+        "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
+      "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bow Bow Bow (F My Baby Dad)",
-        "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
-      },
-      "artists": [
-        {
-          "name": "chriseanrock",
-          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 84768,
-      "name": "Bow Bow Bow (F My Baby Dad)",
-      "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Almighty So 2",
         "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 303000,
       "name": "Grape Trees (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bow Bow Bow (F My Baby Dad)",
+        "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
+      },
+      "artists": [
+        {
+          "name": "chriseanrock",
+          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 84768,
+      "name": "Bow Bow Bow (F My Baby Dad)",
+      "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
     },
     {
       "added_at": null,

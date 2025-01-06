@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 116456,
+  "num_followers": 116465,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAABRHjThU06T+j0sb3+fQRnp",
+  "snapshot_id": "Z3h6AAAAAACokAEz0pe+c24uAyYqQnRs",
   "tracks": [
     {
       "added_at": null,
@@ -1011,22 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 200485,
-      "name": "Don't Lose Me",
-      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive (with Offset & 2 Chainz)",
         "url": "https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 235897,
       "name": "Alive (with Offset & 2 Chainz)",
       "url": "https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 200485,
+      "name": "Don't Lose Me",
+      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
     },
     {
       "added_at": null,

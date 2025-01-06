@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-324 songs - 20 hr 22 min
+325 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Lord, Search My Heart](https://open.spotify.com/track/2nXkGzpGGUQuRtI2pXkfxg) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:55 | 2024-10-28 | 2025-01-04 |
 | [Lord, Stand By Me](https://open.spotify.com/track/43YFUTTItto66K15U3PdIi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-27 | 2024-11-20 |
 | [Lost Boy In The Wilderness](https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:59 | 2022-05-31 |  |
-| [Lovin' Spoonful](https://open.spotify.com/track/0ip6BefXd5LbaNsSwTLRZj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 4:34 | 2022-05-25 |  |
+| [Lovin' Spoonful](https://open.spotify.com/track/0ip6BefXd5LbaNsSwTLRZj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 4:34 | 2022-05-25 | 2025-01-06 |
 | [Make Believe Stunt \- Live](https://open.spotify.com/track/69Yvqq5ffEYjB1FMZnVAce) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live and Kickin'](https://open.spotify.com/album/3AFJAp5xnLiMPBuncEdU79) | 5:01 | 2024-01-03 | 2024-01-05 |
 | [Make Believe Stunt \- Live in Seattle, WA](https://open.spotify.com/track/1181LWHR3KtdStrZUKeWLi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 4:55 | 2023-06-15 | 2023-06-17 |
 | [Make Believe Stunt \- Live in Seattle, WA](https://open.spotify.com/track/7HsvWUlpVwxHjJKAVSMXFG) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 4:55 | 2022-11-15 | 2022-11-18 |
@@ -254,6 +254,7 @@
 | [Soldier's March](https://open.spotify.com/track/3WkhHCTYPDowmEUXCkGU3Y) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 7:54 | 2022-07-21 | 2022-07-23 |
 | [Sonny Go Down](https://open.spotify.com/track/376YOi3CzrxyFENN8jcPKc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 3:17 | 2023-05-29 | 2024-05-24 |
 | [Soon My Work Will All Be Done](https://open.spotify.com/track/0UOLaiZRhOMtfJfFbfwydK) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 3:44 | 2022-05-25 | 2024-10-27 |
+| [Soon My Work Will All Be Done](https://open.spotify.com/track/2hWGyYyvnLivZfdoBmCTpW) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:45 | 2025-01-06 |  |
 | [Soon My Work Will All Be Done](https://open.spotify.com/track/72Sk3xw6VP5vACVTQ6o3wi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 4:00 | 2023-03-13 | 2023-04-11 |
 | [Spoonful](https://open.spotify.com/track/3K0kTc57OMOwxqcoPjGPBe) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:12 | 2024-05-03 | 2024-11-20 |
 | [Spoonful](https://open.spotify.com/track/7KxYAPiTd63VItfXxtKRrn) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:12 | 2023-06-20 | 2023-06-24 |

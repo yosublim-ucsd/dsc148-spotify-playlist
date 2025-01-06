@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 54239,
+  "num_followers": 54250,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 272500,
+      "name": "way back",
+      "url": "https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 272500,
-      "name": "way back",
-      "url": "https://open.spotify.com/track/2Zy7XVdxyZQB8xp5xbpJdl"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -291,38 +291,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
       "artists": [
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 166911,
-      "name": "How It Feels",
-      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 207038,
-      "name": "Sauce It Up",
-      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
+      "duration_ms": 191583,
+      "name": "Humble",
+      "url": "https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -343,6 +323,22 @@
       "duration_ms": 199093,
       "name": "Maybach (feat. Future)",
       "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 207038,
+      "name": "Sauce It Up",
+      "url": "https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -395,6 +391,26 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 166911,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Wins & Losses",
         "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
       },
@@ -407,6 +423,22 @@
       "duration_ms": 282666,
       "name": "1942 Flows",
       "url": "https://open.spotify.com/track/7sLDnUauivS2vN6Z9EfUJT"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "late at night",
+        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 174682,
+      "name": "late at night",
+      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -443,38 +475,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "late at night",
-        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "late at night",
-      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 191583,
-      "name": "Humble",
-      "url": "https://open.spotify.com/track/6heRfvHrUIIPx9TqRg8SCq"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -503,42 +503,6 @@
       "duration_ms": 187748,
       "name": "4 da Gang",
       "url": "https://open.spotify.com/track/3IJ6BBFLD2I2CH3hHFQj3O"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Drip Season 3 (Deluxe)",
-        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Toast Up",
-      "url": "https://open.spotify.com/track/0nlQLaytSQwrY6d5cS2X2i"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/1DM42neJgK1N8ZfgtsPrqe"
-        }
-      ],
-      "duration_ms": 135682,
-      "name": "Ain't Hard Enough (feat. Mozzy)",
-      "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -579,18 +543,46 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Future Hndrxx Presents: The WIZRD",
-        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/1DM42neJgK1N8ZfgtsPrqe"
         }
       ],
-      "duration_ms": 137133,
-      "name": "Jumpin on a Jet",
-      "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
+      "duration_ms": 135682,
+      "name": "Ain't Hard Enough (feat. Mozzy)",
+      "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 193617,
+      "name": "Lick Back Remix (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -619,26 +611,34 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+        "name": "Drip Season 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Toast Up",
+      "url": "https://open.spotify.com/track/0nlQLaytSQwrY6d5cS2X2i"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 193617,
-      "name": "Lick Back Remix (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
+      "duration_ms": 137133,
+      "name": "Jumpin on a Jet",
+      "url": "https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -671,6 +671,22 @@
       "duration_ms": 205666,
       "name": "U See Us",
       "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 156032,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -715,18 +731,18 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/5VVILXgB1joAxfZkOlWs8U"
+        "name": "Flamerz Flow",
+        "url": "https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
         }
       ],
-      "duration_ms": 156032,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/1ZRjLZcNTm1vUgrexBp3px"
+      "duration_ms": 100465,
+      "name": "Flamerz Flow",
+      "url": "https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -743,22 +759,6 @@
       "duration_ms": 104803,
       "name": "BET",
       "url": "https://open.spotify.com/track/7mKJak60o7cmixVEfggraL"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Flamerz Flow",
-        "url": "https://open.spotify.com/album/69Fj23LvwqsYsPE0roNuzl"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 100465,
-      "name": "Flamerz Flow",
-      "url": "https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU"
     },
     {
       "added_at": "2022-10-01 20:14:07",

@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -13936,7 +13936,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 265000,
       "name": "\u4efb\u6027 (\u96fb\u8996\u5287\u300a\u96e3\u54c4\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr"
@@ -14588,7 +14588,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 319838,
       "name": "\u53cb\u8c0a\u957f\u5b58",
       "url": "https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2"
@@ -16629,6 +16629,24 @@
     },
     {
       "album": {
+        "name": "\u5fc3\u4e2d\u7684\u65e5\u6708",
+        "url": "https://open.spotify.com/album/3OSXrxKQIaMxLGMjo1arFw"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "\u611b\u932f",
+      "url": "https://open.spotify.com/track/4vdX5mQE0oXkflFqsqQkUP"
+    },
+    {
+      "album": {
         "name": "BITE BACK",
         "url": "https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM"
       },
@@ -18322,7 +18340,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 253723,
       "name": "\u6d6a\u6d41\u9023",
       "url": "https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI"
@@ -20212,7 +20230,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 252000,
       "name": "\u9019\u9ebc\u591a\u5e74",
       "url": "https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc"

@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-55 songs - 1 hr 42 min
+56 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,12 +40,13 @@
 | [it will be okay!!](https://open.spotify.com/track/1S3tp6591XdTxZw7Q1PQQr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [it will be okay!!](https://open.spotify.com/album/5L5c4lAg9iFRR1o3MkdUNw) | 2:22 | 2024-12-14 |  |
 | [it's all love](https://open.spotify.com/track/6dXOhwojU2t3lLooHqt4Td) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [it's all love](https://open.spotify.com/album/0R86wIqXX0KzwYX1QyD1wM) | 1:57 | 2024-12-14 |  |
 | [jus make it go boom remake](https://open.spotify.com/track/5uvFhFuHy9sI9ZXf05mOn9) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [jus make it go boom remake](https://open.spotify.com/album/6QewYZxJeZJT1kYQ74fQtV) | 1:32 | 2024-12-14 |  |
-| [LFG](https://open.spotify.com/track/4v0LYAYKIfl66eNmKz6pXA) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LFG](https://open.spotify.com/album/4mXKmWhpnjnEl3K3ltodyU) | 2:46 | 2025-01-05 |  |
+| [LFG](https://open.spotify.com/track/4v0LYAYKIfl66eNmKz6pXA) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LFG](https://open.spotify.com/album/4mXKmWhpnjnEl3K3ltodyU) | 2:46 | 2025-01-05 | 2025-01-06 |
 | [LIES](https://open.spotify.com/track/42NO1CgBdqn9jm0bZ2zpQp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LIES](https://open.spotify.com/album/6H2AwWRJKRixHw7wcUliAx) | 1:05 | 2024-12-14 |  |
 | [LOSE LOSE LOSE](https://open.spotify.com/track/5pgw9c91m8MrdU2R7t0DAX) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LOSE LOSE LOSE](https://open.spotify.com/album/4nT5Eq450S1xfQ37dpAGjP) | 1:28 | 2024-12-14 |  |
 | [MAX LVL FIXATED!!](https://open.spotify.com/track/2bZb9Zfw2mvjnwnbeqA36G) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [MAX LVL FIXATED!!](https://open.spotify.com/album/2TjEZDDEujxCQ5w8Mr88h6) | 1:18 | 2024-12-14 |  |
 | [METAL PIPE CORE](https://open.spotify.com/track/2Zm9axLuY8BY6REDeih0Da) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [METAL PIPE CORE](https://open.spotify.com/album/6x4XyWM4D8lo7WdjB4IbHY) | 1:44 | 2024-12-14 |  |
 | [microtonal ghost](https://open.spotify.com/track/6YAq0AsR5qLv38dAylq96b) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [microtonal ghost](https://open.spotify.com/album/78k3fA3wgT4cNynmZE9Dpe) | 2:32 | 2024-12-14 |  |
+| [my wedding vows \(bandlab draft\)](https://open.spotify.com/track/20tyjhMlh86gHLvWEglLwc) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [my wedding vows \(bandlab draft\)](https://open.spotify.com/album/4Kj2mizREDHrPPu4e7KSsg) | 1:51 | 2025-01-06 |  |
 | [no inbetween](https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no inbetween](https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp) | 1:51 | 2024-12-14 |  |
 | [no reception](https://open.spotify.com/track/4UMwxOfR9UMHRl6EOVnxBE) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:46 | 2024-12-14 |  |
 | [no response](https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no response](https://open.spotify.com/album/3cgXBePYbhtd8qlpFGTGMm) | 2:01 | 2024-12-14 |  |

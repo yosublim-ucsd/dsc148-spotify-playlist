@@ -1,6 +1,6 @@
 {
   "description": "Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.",
-  "num_followers": 178278,
+  "num_followers": 178311,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Your Mother's Name",
         "url": "https://open.spotify.com/album/71Ylf2ND4lfFUJmJ4gTk3U"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "She Likes a Boy",
-        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "She Likes a Boy",
-      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "She Likes a Boy",
+        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "She Likes a Boy",
+      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y"
     },
     {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "del mar county fair 2008",
+        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 174888,
+      "name": "del mar county fair 2008",
+      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
+    },
+    {
       "added_at": "2024-06-21 15:51:27",
       "album": {
         "name": "THE BLOB",
@@ -835,22 +851,6 @@
       "duration_ms": 142467,
       "name": "THE BLOB",
       "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "del mar county fair 2008",
-        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 174888,
-      "name": "del mar county fair 2008",
-      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr"
     },
     {
+      "added_at": "2024-06-21 15:51:27",
+      "album": {
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "duration_ms": 215426,
+      "name": "Suburbia",
+      "url": "https://open.spotify.com/track/5e6F64qyjBbXiPmktOax3t"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "So Clear",
@@ -951,22 +967,6 @@
       "duration_ms": 197277,
       "name": "Crazy Again",
       "url": "https://open.spotify.com/track/49eDe6Sk39RHcMtrtol9IC"
-    },
-    {
-      "added_at": "2024-06-21 15:51:27",
-      "album": {
-        "name": "Stay Proud of Me",
-        "url": "https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 215426,
-      "name": "Suburbia",
-      "url": "https://open.spotify.com/track/5e6F64qyjBbXiPmktOax3t"
     },
     {
       "added_at": "2024-06-21 04:00:00",

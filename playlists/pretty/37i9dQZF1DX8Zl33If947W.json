@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 179121,
+  "num_followers": 179151,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7trUmg86DFfcs1uRRiv8GY"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 268515,
       "name": "So wie du bist",
       "url": "https://open.spotify.com/track/12SH8NE1e17yItgsb2gitp"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Von Anfang An",
-        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnchener Freiheit",
-          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
-      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Nador",
         "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 161956,
       "name": "Nur ein bisschen",
       "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Mailbox",
         "url": "https://open.spotify.com/album/2cTfCop3R7KmCc9NGiu5Sa"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 174500,
       "name": "mailbox",
       "url": "https://open.spotify.com/track/4pmbb2QmCMrfNT9kL0nVtG"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Katharina",
-      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Zwischen meinen Zeilen (Deluxe)",
+        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Zu dir",
+      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Diese Eine",
         "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 147826,
       "name": "Wei\u00dfes Kleid",
       "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Zwischen meinen Zeilen (Deluxe)",
-        "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
-      },
-      "artists": [
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Zu dir",
-      "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
+      },
+      "artists": [
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        }
+      ],
+      "duration_ms": 259346,
+      "name": "Der Weg",
+      "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 207501,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Was Muss Muss - Best Of",
-        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
-      },
-      "artists": [
-        {
-          "name": "Herbert Gr\u00f6nemeyer",
-          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
-        }
-      ],
-      "duration_ms": 259346,
-      "name": "Der Weg",
-      "url": "https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
+      },
+      "artists": [
+        {
+          "name": "Andreas Bourani",
+          "url": "https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "Ultraleicht",
+      "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Was Muss Muss - Best Of",
         "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
       },
@@ -995,30 +1011,6 @@
       "duration_ms": 209720,
       "name": "Demo (Letzter Tag)",
       "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Sommer",
-        "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
-      },
-      "artists": [
-        {
-          "name": "Beatzarre & Djorkaeff",
-          "url": "https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD"
-        },
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        },
-        {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Sommer",
-      "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
     }
   ],
   "unique_name": "Liebeslieder",

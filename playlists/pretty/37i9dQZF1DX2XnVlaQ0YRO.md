@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,188 likes - 153 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,180 likes - 153 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 66 | [When You Wish Upon a Star](https://open.spotify.com/track/2NG0HrvHdH5xs5s9V3U2m2) | [Jason Jx](https://open.spotify.com/artist/6lMDF5oPSyrMEPrmBb6zLM) | [When You Wish Upon a Star](https://open.spotify.com/album/4CrquHUPgAGkal3NcjufrB) | 2:19 |
 | 67 | [Winter Vibin'](https://open.spotify.com/track/3iYC7w2rOQav3BQlibwJqp) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [A Christmas Present For You](https://open.spotify.com/album/43APl6GrPHaOG3zxXHhJ41) | 2:11 |
 | 68 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 |
-| 69 | [Silver bells](https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Silver bells](https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U) | 2:28 |
-| 70 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
+| 69 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
+| 70 | [Silver bells](https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Silver bells](https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U) | 2:28 |
 | 71 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
 | 72 | [Soaring Reindeer](https://open.spotify.com/track/4MQW3WYzs5EVQr96g5r4MZ) | [Tiger Movie](https://open.spotify.com/artist/1XDpB5sGAzaiBV1qFYs84m) | [Have a Lofi Christmas](https://open.spotify.com/album/5zEOGPCoL5NDWyk2XutPss) | 2:38 |
 | 73 | [Sleigh Ride](https://open.spotify.com/track/2j8FSM3mItIqzkvN5Ljfz9) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Lofi Christmas](https://open.spotify.com/album/1DVFsVbYH3y2YhvH3Q4j2P) | 2:01 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 103 | [merry lofi](https://open.spotify.com/track/0sYMwcydVgZk8aYESIG2gM) | [maja andino](https://open.spotify.com/artist/4zGvgGIRSFQmOjfLG5qQuh) | [merry lofi](https://open.spotify.com/album/62W803hCRq4i2aq3WINogd) | 2:10 |
 | 104 | [Merry 'Lil Christmas](https://open.spotify.com/track/2vNjURpX7uHPUXJYqZbEXD) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 2:23 |
 | 105 | [Cold Wonderland](https://open.spotify.com/track/3WKOaCXGUQ3uFRwQbnyb4G) | [Melteoria](https://open.spotify.com/artist/270POK21q60lx287MFYyXm) | [Cold Wonderland](https://open.spotify.com/album/31QrLCguWzOuK11DPdaKhl) | 2:07 |
-| 106 | [Jingle Jungle](https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Jingle Jungle](https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE) | 2:20 |
-| 107 | [Joyeux Noël Mes Amis](https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Joyeux Noël Mes Amis](https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN) | 2:38 |
+| 106 | [Joyeux Noël Mes Amis](https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Joyeux Noël Mes Amis](https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN) | 2:38 |
+| 107 | [Jingle Jungle](https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Jingle Jungle](https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE) | 2:20 |
 | 108 | [Chill Flakes](https://open.spotify.com/track/2QRBcKxcMYVdApicXoR1Tz) | [Fnk Yi](https://open.spotify.com/artist/4yK25kbuGLtrXl9DCGlRJ1) | [Chill Flakes](https://open.spotify.com/album/2t8AoxumVlfNrN4WZ9Q7TW) | 1:31 |
 | 109 | [El Tamborillero](https://open.spotify.com/track/5FhKEzzYnquRmc6yoMfZLq) | [Floating Bits](https://open.spotify.com/artist/4CmfscPBgrYJQuZP1nTQbs) | [El Tamborillero](https://open.spotify.com/album/3BFtMfVWEq5rdN2GUIPGEu) | 2:46 |
 | 110 | [miztle](https://open.spotify.com/track/5ImHG3884XuiC3zNQ0iL0c) | [Adrianeck](https://open.spotify.com/artist/1cMDy15rx7PXkheWsdXqUo) | [miztle](https://open.spotify.com/album/25DbPAfVXxVYeTN4o2yg8f) | 1:54 |
@@ -152,9 +152,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 142 | [Driving Home For Christmas](https://open.spotify.com/track/2P1YLhhyZ4GJaQn7kKDPk1) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Driving Home For Christmas](https://open.spotify.com/album/4gILcAQcb1HG8UNBizfq10) | 3:02 |
 | 143 | [White Christmas](https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg) | [Jazztroopers](https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI) | [Mistletoe Melodies](https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs) | 2:20 |
 | 144 | [Santa's Delight](https://open.spotify.com/track/2CISlQAxMNLeEvOQqxYUzC) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Santa's Delight](https://open.spotify.com/album/6P8hC3DkP5TDiCM6mq6E3Z) | 2:08 |
-| 145 | [Let it Snow](https://open.spotify.com/track/7H9dIO8amBy9ZipeovDK5C) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Let it Snow](https://open.spotify.com/album/57NjLRggkOYTDTz7HGW3I9) | 2:14 |
-| 146 | [christmas in prague](https://open.spotify.com/track/5cLlTS6OxiD2NoobLw4ycI) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [christmas in prague](https://open.spotify.com/album/4ZczbP017oKAexAR4jMQaS) | 2:30 |
-| 147 | [Deck the halls](https://open.spotify.com/track/4taPyMLDSfabMHeIJ4lNeA) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Deck the halls](https://open.spotify.com/album/0EQvJ7JspgRjDVzwnD1P5j) | 1:31 |
+| 145 | [christmas in prague](https://open.spotify.com/track/5cLlTS6OxiD2NoobLw4ycI) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [christmas in prague](https://open.spotify.com/album/4ZczbP017oKAexAR4jMQaS) | 2:30 |
+| 146 | [Deck the halls](https://open.spotify.com/track/4taPyMLDSfabMHeIJ4lNeA) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Deck the halls](https://open.spotify.com/album/0EQvJ7JspgRjDVzwnD1P5j) | 1:31 |
+| 147 | [Let it Snow](https://open.spotify.com/track/7H9dIO8amBy9ZipeovDK5C) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Let it Snow](https://open.spotify.com/album/57NjLRggkOYTDTz7HGW3I9) | 2:14 |
 | 148 | [Frosty the Snowman](https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH) | [Ginobu](https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6) | [Frosty the Snowman](https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj) | 2:47 |
 | 149 | [All I Want For Xmas](https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [All I Want For Xmas](https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE) | 2:18 |
 | 150 | [Cookies for Santa](https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC) | [tonierki](https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY) | [Cookies for Santa](https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2) | 2:01 |

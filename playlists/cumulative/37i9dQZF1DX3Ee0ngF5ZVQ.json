@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Where 90's Meets Now",
+        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
+      },
+      "artists": [
+        {
+          "name": "Jake Bush",
+          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203861,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
+    },
+    {
+      "album": {
         "name": "Cozy",
         "url": "https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9"
       },
@@ -12552,7 +12570,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"

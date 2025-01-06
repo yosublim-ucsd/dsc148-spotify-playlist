@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby,  The Alchemist, BAK Jay and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,690 likes - 49 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,901 likes - 49 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 2 | [Floppy Disks](https://open.spotify.com/track/53nyIwxHPbQO6QEwhKYE7v) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Floppy Disks](https://open.spotify.com/album/1KWscxrKzDgwkFKwO6DqEE) | 2:00 |
 | 3 | [Needed Them](https://open.spotify.com/track/6x2QOjQ5OdAmdtMlDHMYvK) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Needed Them](https://open.spotify.com/album/6OJ2SZ5MgthlikDDI2i7bK) | 2:21 |
 | 4 | [ALRIGHT OK](https://open.spotify.com/track/5sy1XZd8J7kwN14qUO6E2d) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [ALRIGHT OK](https://open.spotify.com/album/3qgIiX5tMvks68Mc7MIhpW) | 2:51 |
-| 5 | [Straight 2 It](https://open.spotify.com/track/6PoEMojqfKaqAEKYApiSvl) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Straight 2 It](https://open.spotify.com/album/0crC5o0385xu2tRv4EMqEN) | 2:21 |
+| 5 | [STRAIGHT 2 IT](https://open.spotify.com/track/6PoEMojqfKaqAEKYApiSvl) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [STRAIGHT 2 IT](https://open.spotify.com/album/0crC5o0385xu2tRv4EMqEN) | 2:21 |
 | 6 | [what3ver](https://open.spotify.com/track/0Hp2r3xb1Th9ZEeuQGOGiS) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [what3ver](https://open.spotify.com/album/5hEcSnIt8esLenvAP1f2qv) | 2:55 |
 | 7 | [Telephono](https://open.spotify.com/track/4HGBmgdhZm2qePauePp4pf) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [RichGains](https://open.spotify.com/artist/2jmNddoRXuXqJgvaHASbNK) | [Murder During Drug Traffic](https://open.spotify.com/album/0JaNSvyoolSl21bvZxL8G9) | 3:33 |
 | 8 | [S3DUC3](https://open.spotify.com/track/37On492KuYovJHIovTHRj4) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [S3DUC3](https://open.spotify.com/album/6FxsewprDXxY5CZqHrP4JG) | 2:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 706 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 29 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 |
 | 30 | [Moy Si Merak](https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq), [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Moy Si Merak](https://open.spotify.com/album/29a6tSrFHK5ztt2lAC2Jvx) | 2:59 |
 | 31 | [Ne me zasluzhavash](https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Dokato sartseto bie](https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl) | 3:33 |
-| 32 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:27 |
+| 32 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 |
 | 33 | [Мама миа](https://open.spotify.com/track/1VN1sfcpaC7y7dimb0ZihK) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq), [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Мама миа](https://open.spotify.com/album/1TBwnIPebX0VAWrbwtNm3Q) | 3:06 |
 | 34 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 35 | [Моята принцеса](https://open.spotify.com/track/2niJWeSoQwV4LZtHtj4mpj) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Tomas](https://open.spotify.com/artist/48MmYtebtmsS7LjcYwGBWk) | [Моята принцеса](https://open.spotify.com/album/6QrIOUASlWIq4MW4tsCGTb) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Монопол](https://open.spotify.com/track/3AyQkHqh5cENWthtwRL6oS) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Монопол](https://open.spotify.com/album/38Jzp2ZUjd3UkBSy7Vemzn) | 2:40 |
 | 50 | [Полудей](https://open.spotify.com/track/65b2wOG8iqfiZeWZ9bsLWw) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Полудей](https://open.spotify.com/album/6BdG8UCV6g1w2lCPjXkkFp) | 3:26 |
 
-Snapshot ID: `LwykIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lw31oAAAAAAAAAAAAAAAAAAAAAAAAGVu`

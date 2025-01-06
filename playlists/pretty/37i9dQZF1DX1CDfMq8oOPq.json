@@ -1,6 +1,6 @@
 {
   "description": "big d com a senha da cena, fenomenal!",
-  "num_followers": 62456,
+  "num_followers": 62511,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,46 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
+        "name": "WILLY",
+        "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "WILLY",
+      "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "Espero Que Entendam (Freestyle)",
+        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Espero Que Entendam - Freestyle",
+      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -199,26 +239,6 @@
       "duration_ms": 150616,
       "name": "Disk P@#$%&!",
       "url": "https://open.spotify.com/track/6X8aYB2eFCge9jpkgjecPR"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
-        "name": "WILLY",
-        "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Pizzol",
-          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "WILLY",
-      "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -251,6 +271,22 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
+        "name": "Voc\u00ea Parece Com Vergonha",
+        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Voc\u00ea Parece Com Vergonha",
+      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
         "name": "Nuvem de Testemunhas - Spotify Singles",
         "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
       },
@@ -267,8 +303,48 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "Espero Que Entendam (Freestyle)",
-        "url": "https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu"
+        "name": "Eu amo ser negona",
+        "url": "https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "G.a.B.o",
+          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+        }
+      ],
+      "duration_ms": 157013,
+      "name": "Eu amo ser negona",
+      "url": "https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 140208,
+      "name": "Big D!!!!! Pt. 2",
+      "url": "https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "5min",
+        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
       },
       "artists": [
         {
@@ -276,29 +352,21 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 211859,
-      "name": "Espero Que Entendam - Freestyle",
-      "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
-        "name": "Voc\u00ea Parece Com Vergonha",
-        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
-      },
-      "artists": [
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
         {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Voc\u00ea Parece Com Vergonha",
-      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
+      "duration_ms": 128181,
+      "name": "5min",
+      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -335,22 +403,22 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "Eu amo ser negona",
-        "url": "https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG"
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
       "artists": [
         {
-          "name": "Afreekassia",
-          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "G.a.B.o",
-          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
         }
       ],
-      "duration_ms": 157013,
-      "name": "Eu amo ser negona",
-      "url": "https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h"
+      "duration_ms": 190722,
+      "name": "Homens Como Voc\u00ea",
+      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -379,98 +447,6 @@
       "duration_ms": 150508,
       "name": "Seu Nome",
       "url": "https://open.spotify.com/track/50JauwWdLI3L5oTw5UZmuP"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 140208,
-      "name": "Big D!!!!! Pt. 2",
-      "url": "https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        }
-      ],
-      "duration_ms": 190722,
-      "name": "Homens Como Voc\u00ea",
-      "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
-        "name": "Fra\u00e7\u00e3o 3/4",
-        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 158884,
-      "name": "+18",
-      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
-        "name": "5min",
-        "url": "https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 128181,
-      "name": "5min",
-      "url": "https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -515,6 +491,30 @@
       "duration_ms": 151400,
       "name": "Minha Vizinha",
       "url": "https://open.spotify.com/track/5paFjobSdeJRkL8HpponA3"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "Fra\u00e7\u00e3o 3/4",
+        "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 158884,
+      "name": "+18",
+      "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -643,26 +643,22 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "Piranha",
-        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+        "name": "Primeiro de Maio (Gostosas Inteligentes)",
+        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
       },
       "artists": [
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         },
         {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
         }
       ],
-      "duration_ms": 176098,
-      "name": "Piranha",
-      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
+      "duration_ms": 130369,
+      "name": "Primeiro de Maio (Gostosas Inteligentes)",
+      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -683,6 +679,30 @@
       "duration_ms": 136888,
       "name": "Nega Doce",
       "url": "https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -735,26 +755,6 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "Primeiro de Maio (Gostosas Inteligentes)",
-        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "Primeiro de Maio (Gostosas Inteligentes)",
-      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
         "name": "Date",
         "url": "https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK"
       },
@@ -771,6 +771,30 @@
       "duration_ms": 160000,
       "name": "Date",
       "url": "https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "Nega Doce",
+        "url": "https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Fitas",
+      "url": "https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -843,26 +867,6 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "Regras",
-        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        },
-        {
-          "name": "Plvco",
-          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Regras",
-      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -883,26 +887,22 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "Nega Doce",
-        "url": "https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8"
+        "name": "Regras",
+        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
       },
       "artists": [
         {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
         },
         {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
-        },
-        {
-          "name": "JOTA",
-          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
+          "name": "Plvco",
+          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Fitas",
-      "url": "https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2"
+      "duration_ms": 122500,
+      "name": "Regras",
+      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
     },
     {
       "added_at": "2024-12-13 13:06:33",

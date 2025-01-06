@@ -8016,7 +8016,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 214000,
       "name": "Beyond Me",
       "url": "https://open.spotify.com/track/7tLV8vkj5DhpA9E4nHNB5h"
@@ -13778,7 +13778,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 190252,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/6IyBay9DO8UQrrLizSampu"
@@ -19568,7 +19568,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 173142,
       "name": "Don't Tell Daddy",
       "url": "https://open.spotify.com/track/4PfdlT7EnLLUB0bbJql3eE"
@@ -56670,7 +56670,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 195562,
       "name": "Post It",
       "url": "https://open.spotify.com/track/1cFZYuvIvG2x0N0zvRSpZy"
@@ -61126,7 +61126,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 288343,
       "name": "Sad Little World",
       "url": "https://open.spotify.com/track/6tk5QzoqyLMSm8k9Zm5y7H"
@@ -64258,6 +64258,24 @@
       "duration_ms": 148345,
       "name": "Slide Don't Make a Cruise",
       "url": "https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72"
+    },
+    {
+      "album": {
+        "name": "Modern Life",
+        "url": "https://open.spotify.com/album/47iSFfmdFnspzi2K4nsjmK"
+      },
+      "artists": [
+        {
+          "name": "Moongold",
+          "url": "https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/4daGwGbV3fEgpoUnpR1xa4"
     },
     {
       "album": {
@@ -78642,6 +78660,24 @@
       "duration_ms": 286451,
       "name": "WE LE LE",
       "url": "https://open.spotify.com/track/1qb355GEuTidwStoROG5zh"
+    },
+    {
+      "album": {
+        "name": "We Need",
+        "url": "https://open.spotify.com/album/0RlfiuZOHF5lfer91kGveC"
+      },
+      "artists": [
+        {
+          "name": "Cloud Ray",
+          "url": "https://open.spotify.com/artist/3dL5rP9PjkUR5xniV38mg1"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "We Need",
+      "url": "https://open.spotify.com/track/6noYxnpmqg5ILjLXy8Ui5N"
     },
     {
       "album": {

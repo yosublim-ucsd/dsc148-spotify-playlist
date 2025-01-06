@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,282 likes - 35 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,336 likes - 35 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

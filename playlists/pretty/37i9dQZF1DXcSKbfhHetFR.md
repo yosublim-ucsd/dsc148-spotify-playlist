@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,864 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,867 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 37 | [Big Bang](https://open.spotify.com/track/7bfnzQ0SdG1mi3pItHO4n7) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/01eDW3QDT4HjJ7vWa6tIup) | 3:20 |
 | 38 | [Gwen Et Les Rats](https://open.spotify.com/track/40HtuAsUDbDG8FDjLUyaxj) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [L'amour la haine les animaux les automobiles](https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA) | 3:08 |
 | 39 | [Ton amour est trop lourd](https://open.spotify.com/track/4PxZdHDHTSS5R1BcIuXpj2) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3vcEGTInZLMpu9zuXASsrk) | 1:57 |
-| 40 | [Le coup d'état](https://open.spotify.com/track/6vNUd4oWXksZURkuaZ0fti) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/6P6e4WkfYYx1cUa265Ibwj) | 4:22 |
-| 41 | [Vénus du Mile\-End](https://open.spotify.com/track/4t2Lu1XHneDYLvFARnpyhz) | [Les Chiens](https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe) | [Le long sentier \(Une anthologie\)](https://open.spotify.com/album/68ypZdUt5HvLjwRdFGolAH) | 5:07 |
-| 42 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
+| 40 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
+| 41 | [Le coup d'état](https://open.spotify.com/track/6vNUd4oWXksZURkuaZ0fti) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/6P6e4WkfYYx1cUa265Ibwj) | 4:22 |
+| 42 | [Vénus du Mile\-End](https://open.spotify.com/track/4t2Lu1XHneDYLvFARnpyhz) | [Les Chiens](https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe) | [Le long sentier \(Une anthologie\)](https://open.spotify.com/album/68ypZdUt5HvLjwRdFGolAH) | 5:07 |
 | 43 | [Crabe](https://open.spotify.com/track/5JwQ3e38RKMV1esgmFYYJ2) | [Les Goules](https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA) | [Les Goules](https://open.spotify.com/album/79zqkuFtrJvlekhAzyUj6b) | 3:38 |
 | 44 | [Fuck'n'shit baby love!](https://open.spotify.com/track/35StJYMU9mlooTcnkJKD9W) | [Le Karlof Orchestra](https://open.spotify.com/artist/5jVN6sAwSOygXSPevl10xV) | [Fuck'n'shit baby love!](https://open.spotify.com/album/2Yr16L6r9thevk4K5OWeNh) | 2:07 |
 | 45 | [Thermoplastique](https://open.spotify.com/track/3Y8b1xouQZqv56Wh66ssHr) | [Les Secrétaires Volantes](https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF) | [Thermoplastique](https://open.spotify.com/album/79Ltg7vbVX3SoqSgVYaFjs) | 2:53 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,115 songs - 2 day 17 hr 59 min
+1,116 songs - 2 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-19 | 2022-06-01 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-31 | 2024-09-04 |
 | [CRAZY](https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 | 2024-09-03 | 2024-11-23 |
-| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-07-09 | 2025-01-05 |
+| [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-07-09 |  |
 | [Crush On](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 3:01 | 2021-10-07 | 2023-01-24 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-14 | 2023-05-23 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-17 | 2023-06-08 |
@@ -742,7 +742,7 @@
 | [仗着](https://open.spotify.com/track/1jIVULaXnINSJMcEvcrgHt) | [陈壹千](https://open.spotify.com/artist/21pP8kvWpNCDhy2fMOTOAf) | [仗着](https://open.spotify.com/album/2bw4rMkuOI4tEiIp9XhoNG) | 3:38 | 2023-03-01 | 2023-04-27 |
 | [仗着](https://open.spotify.com/track/2hSRWmpK1gSuMTF3IvXfcC) | [陈壹千](https://open.spotify.com/artist/21pP8kvWpNCDhy2fMOTOAf) | [仗着](https://open.spotify.com/album/78i6GdaQxd3WAEcjDOVPY6) | 3:38 | 2023-04-26 | 2023-09-14 |
 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 | 2022-01-05 | 2022-01-21 |
-| [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 | 2024-12-31 |  |
+| [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 | 2024-12-31 | 2025-01-06 |
 | [但](https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 2:22 | 2023-05-22 | 2023-06-03 |
 | [但](https://open.spotify.com/track/76UXxB4NOsMLZqBQs0pBO5) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/5moXyP1DlFOPXyN8a0GqBW) | 2:22 | 2023-05-13 | 2023-05-18 |
 | [但](https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 2:22 | 2023-04-15 | 2023-05-14 |
@@ -778,7 +778,7 @@
 | [勵志論 \(C’MON\)](https://open.spotify.com/track/2PHoNQCaWKVshZp2huRP2Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [勵志論 \(C’MON\)](https://open.spotify.com/album/47gHdmxuBmTlIgIQnWeSfM) | 3:00 | 2021-10-01 | 2021-10-14 |
 | [又到天黑](https://open.spotify.com/track/2TYYKysNZDTFzrm7Mr443o) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:49 | 2023-02-15 | 2023-03-04 |
 | [又到天黑](https://open.spotify.com/track/3uvoZKtpufJ9F2ETKGPlh5) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [又到天黑](https://open.spotify.com/album/0BJ6iLH2EvtD0ukvsReMAp) | 4:50 | 2023-02-01 | 2023-02-16 |
-| [友谊长存](https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [友谊长存](https://open.spotify.com/album/0teughBYfffqo1RhvAX51S) | 5:19 | 2024-04-22 |  |
+| [友谊长存](https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [友谊长存](https://open.spotify.com/album/0teughBYfffqo1RhvAX51S) | 5:19 | 2024-04-22 | 2025-01-06 |
 | [句號](https://open.spotify.com/track/66YKSygcUZHHqHJZcWslI3) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 3:55 | 2021-03-27\* | 2021-07-08 |
 | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/track/7cwB09xvS1ArgeXozdf3dU) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [赵露思](https://open.spotify.com/artist/02kfzFGTg4N70xlIO3hDvv) | [只想把你偷偷藏好\(《偷偷藏不住》电视剧主题曲/片头曲\)](https://open.spotify.com/album/096qr8b6jJm2oICXJF39tX) | 3:14 | 2023-07-06 | 2023-07-31 |
 | [可](https://open.spotify.com/track/5mQzXOKoAwbpE7Y4cGO9Gc) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN), [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [可](https://open.spotify.com/album/6JcXxjHrSXgLCxMiObeOV9) | 4:40 | 2022-06-17 | 2022-06-25 |
@@ -888,6 +888,7 @@
 | [愛情的大壞蛋](https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:07 | 2024-10-08 |  |
 | [愛我的時候](https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [愛我的時候](https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh) | 3:44 | 2021-03-27\* | 2021-08-21 |
 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 | 2024-12-30 |  |
+| [愛錯](https://open.spotify.com/track/4vdX5mQE0oXkflFqsqQkUP) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心中的日月](https://open.spotify.com/album/3OSXrxKQIaMxLGMjo1arFw) | 3:58 | 2025-01-05 |  |
 | [感情用事](https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:57 | 2024-02-07 | 2024-03-12 |
 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2021-03-27\* | 2024-02-09 |
 | [慣老闆 \(feat\. 瘦子E.SO\)](https://open.spotify.com/track/18TOtGEE15qjoaYvB7SB6f) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [慣老闆 \(feat\. 瘦子E.SO\)](https://open.spotify.com/album/4605CoBjrc184bE7N3kSFJ) | 4:52 | 2024-07-03 | 2024-07-20 |
@@ -979,7 +980,7 @@
 | [沒有關係](https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [沒有關係](https://open.spotify.com/album/56TgG6JFlQHeQFMbXDg4Wt) | 2:40 | 2022-12-08 | 2023-04-23 |
 | [流沙](https://open.spotify.com/track/5ZZwQy1wofQhj7LJDNLflT) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [陶喆同名專輯](https://open.spotify.com/album/433Xh8UtsKASBYCt0QNk4Q) | 4:02 | 2024-09-23 | 2024-09-25 |
 | [浪子回頭](https://open.spotify.com/track/2YA5IfmQwAmVzHRP3SVnEd) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:19 | 2021-04-13 | 2021-05-14 |
-| [浪流連](https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/0mnRDacFJUE7YDLLIUwTbL) | 4:13 | 2024-08-19 | 2024-12-07 |
+| [浪流連](https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/0mnRDacFJUE7YDLLIUwTbL) | 4:13 | 2024-08-19 |  |
 | [浪流連](https://open.spotify.com/track/7a6VJHMS9ttKsj55cKC51G) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/3gSVbEaY8DpXpTK7BDUj1C) | 4:13 | 2021-04-04 | 2022-02-17 |
 | [浪費時間](https://open.spotify.com/track/4vSEkALKd7ksHwphWg3oNS) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [浪費時間](https://open.spotify.com/album/3CSze05DeS7ElFA5ppOcNP) | 3:05 | 2022-01-05 | 2022-01-07 |
 | [消費期限](https://open.spotify.com/track/5fGPL6O3H62p3EWog3lJyq) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [消費期限](https://open.spotify.com/album/5qC9E44PTiWzNySKhKFcP8) | 3:10 | 2024-11-12 | 2024-11-14 |
@@ -1080,7 +1081,7 @@
 | [逆光](https://open.spotify.com/track/78MS9OT9Flm2V78fhTw4rk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:57 | 2022-08-22 | 2022-09-19 |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2022-02-28 | 2022-04-24 |
 | [這世界那麼多人 \- 電影《我要我們在一起》主題曲](https://open.spotify.com/track/7uupMVckq9ta7ei9ghX8q0) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [這世界那麼多人 \(電影《我要我們在一起》主題曲\)](https://open.spotify.com/album/5FnNKdAIdmlLIabRoAuL90) | 4:45 | 2021-05-14 | 2021-05-21 |
-| [這麼多年](https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 4:12 | 2024-11-09 |  |
+| [這麼多年](https://open.spotify.com/track/4kmr3vOJq52QS7WUh3aRyc) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 4:12 | 2024-11-09 | 2025-01-06 |
 | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [這麼多年 \- 電影《我想和你在一起》插曲](https://open.spotify.com/album/2FNcaYMCTEtkEOugvt8PtG) | 4:12 | 2024-06-13 | 2024-11-10 |
 | [連名帶姓](https://open.spotify.com/track/4a5FvWpFaCs3YOzEnnpgR0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/181c4IPOvcJphA0ZKAZIeW) | 5:33 | 2024-12-30 | 2025-01-04 |
 | [遇見](https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [The Moment](https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr) | 3:29 | 2023-01-17 | 2023-03-02 |

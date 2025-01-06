@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Sue\u00f1o A Marte \u2728",
-  "num_followers": 53386,
+  "num_followers": 53389,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
+        "name": "Paradisco",
+        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 233042,
+      "name": "Paradisco",
+      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
         "name": "amor universal",
         "url": "https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
-        "name": "Paradisco",
-        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 233042,
-      "name": "Paradisco",
-      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
         "name": "Muchas Cosas",
         "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 238315,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
-        "name": "Siempre Hago Lo Que Quiero",
-        "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        },
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Siempre Hago Lo Que Quiero",
-      "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
         "name": "invisible",
         "url": "https://open.spotify.com/album/5SBLJieZS1BQbNOqTXnQ01"
       },
@@ -903,6 +883,26 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
+        "name": "Siempre Hago Lo Que Quiero",
+        "url": "https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        },
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Siempre Hago Lo Que Quiero",
+      "url": "https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
         "name": "Nada Es Personal",
         "url": "https://open.spotify.com/album/52yWKA2Vj0q9EQ0i9Xavd0"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 180384,
       "name": "Nada Es Personal",
       "url": "https://open.spotify.com/track/3o9mEhwHeYUZCDgxOYxsF9"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -951,22 +935,18 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
-        "name": "Stuck in California",
-        "url": "https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt"
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
       },
       "artists": [
         {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        },
-        {
-          "name": "Aldo Carpes",
-          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
         }
       ],
-      "duration_ms": 126720,
-      "name": "Stuck in California",
-      "url": "https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik"
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -987,6 +967,26 @@
       "duration_ms": 201625,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
+        "name": "Stuck in California",
+        "url": "https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "Aldo Carpes",
+          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "Stuck in California",
+      "url": "https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik"
     },
     {
       "added_at": "2024-10-11 19:33:46",

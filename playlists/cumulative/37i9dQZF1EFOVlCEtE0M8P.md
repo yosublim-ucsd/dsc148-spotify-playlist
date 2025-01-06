@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-255 songs - 14 hr 52 min
+256 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 | 2024-03-07 |  |
 | [Free](https://open.spotify.com/track/4xTg0C2hbt19hlRA7HFWqU) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:27 | 2024-03-07 |  |
 | [Friends](https://open.spotify.com/track/3nY9b9eUYtu9gftZAuqiro) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [Friends](https://open.spotify.com/album/1u5T8uIGTvUmgVe2OrGZJ8) | 3:14 | 2024-03-07 |  |
-| [Ghost \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/5ZIJUowkhcLukruA52sfDI) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Distinction EP](https://open.spotify.com/album/0xiqgV5gVnjsKVWpBqXyaO) | 3:37 | 2024-03-07 |  |
+| [Ghost \(feat\. Caitlyn Scarlett\)](https://open.spotify.com/track/5ZIJUowkhcLukruA52sfDI) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Distinction EP](https://open.spotify.com/album/0xiqgV5gVnjsKVWpBqXyaO) | 3:37 | 2024-03-07 | 2025-01-06 |
+| [Ghost \(feat\. Hardy Caprio\) \- Refix](https://open.spotify.com/track/1MwFviJGRINOL8hQHJuw2j) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd) | [Ground Control](https://open.spotify.com/album/201chlVCJuhQvGZXB0wRn0) | 3:13 | 2025-01-05 |  |
 | [Girl Of My Dreams](https://open.spotify.com/track/6BYYyhZk9fJEWo8OcKxQB9) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:32 | 2024-03-07 |  |
 | [GIRLS](https://open.spotify.com/track/1sn7q04dXzhpGfltvgqy56) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/6Q6SdHFruQVMkyXjAaP8BU) | 3:24 | 2024-03-07 |  |
 | [Give Me The Keys](https://open.spotify.com/track/13MQ5ZJrwqW8CW3eMehlqv) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 2:43 | 2024-03-07 |  |

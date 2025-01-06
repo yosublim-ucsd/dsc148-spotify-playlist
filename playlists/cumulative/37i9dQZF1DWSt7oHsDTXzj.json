@@ -2275,6 +2275,28 @@
     },
     {
       "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Sofia Bolt",
+          "url": "https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv"
+        }
+      ],
+      "date_added": "2024-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207560,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA"
+    },
+    {
+      "album": {
         "name": "I Dream Of Christmas (Extended)",
         "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
       },
@@ -4630,7 +4652,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 134320,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"

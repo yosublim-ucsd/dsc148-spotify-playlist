@@ -670,7 +670,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 177000,
       "name": "Dhill",
       "url": "https://open.spotify.com/track/0r2wxY718iQRndDklGbt21"
@@ -1984,6 +1984,24 @@
       "duration_ms": 222293,
       "name": "Limitless Pyar - Live",
       "url": "https://open.spotify.com/track/1EIRP3SLryo1HoDhdHUsnn"
+    },
+    {
+      "album": {
+        "name": "Lost in You",
+        "url": "https://open.spotify.com/album/1grvHU03zKWUMHhyt4IdwT"
+      },
+      "artists": [
+        {
+          "name": "Sara Gurpal",
+          "url": "https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123062,
+      "name": "Lost in You",
+      "url": "https://open.spotify.com/track/6b4f1fyQRgfi3sck7vMkVB"
     },
     {
       "album": {

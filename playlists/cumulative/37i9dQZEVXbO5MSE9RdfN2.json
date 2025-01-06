@@ -4258,7 +4258,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
@@ -9227,6 +9227,24 @@
     },
     {
       "album": {
+        "name": "I Would Like",
+        "url": "https://open.spotify.com/album/4i6O7brkhX97ZNvyUCfFx9"
+      },
+      "artists": [
+        {
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138565,
+      "name": "I Would Like",
+      "url": "https://open.spotify.com/track/1EwclTZTt1eR8ZMfslR7FE"
+    },
+    {
+      "album": {
         "name": "Fall out of Line",
         "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
       },
@@ -10388,6 +10406,28 @@
       "duration_ms": 260997,
       "name": "just stand there",
       "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
+    },
+    {
+      "album": {
+        "name": "Mutual Pleasure 002",
+        "url": "https://open.spotify.com/album/4vhEZGwPicD4gD8WCaNnkP"
+      },
+      "artists": [
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        },
+        {
+          "name": "Juicy Romance",
+          "url": "https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260475,
+      "name": "K On My D + C",
+      "url": "https://open.spotify.com/track/3r4S22VWkg8wTpLSicsQnQ"
     },
     {
       "album": {
@@ -16672,7 +16712,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 157664,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn"
@@ -17568,7 +17608,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
@@ -20031,6 +20071,28 @@
     },
     {
       "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/71naf0dyKUCucdXEODamHK"
+      },
+      "artists": [
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        },
+        {
+          "name": "2HOT2PLAY",
+          "url": "https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178362,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/1NyGisWiw1SxUXCaINfCx1"
+    },
+    {
+      "album": {
         "name": "Think I'm In Love With You (With Dua Lipa) (Live From The 59th ACM Awards)",
         "url": "https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY"
       },
@@ -20454,7 +20516,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -20622,7 +20684,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 218500,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"

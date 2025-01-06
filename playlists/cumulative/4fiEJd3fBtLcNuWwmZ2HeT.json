@@ -3585,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "orbit",
+        "url": "https://open.spotify.com/album/5pdTN60HCRnXnTP3kDUS8Y"
+      },
+      "artists": [
+        {
+          "name": "DAZBEE",
+          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "\u30b7\u30e5\u30ac\u30fc\u30b3\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/0zIQRErzk1eNU4Pd1Tnxcg"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30ed\u30ac\u30cd",
         "url": "https://open.spotify.com/album/1bz2zVtFmsvAS2eeAAelBt"
       },

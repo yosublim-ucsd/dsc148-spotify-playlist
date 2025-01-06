@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 180279,
       "name": "Day In The Life",
       "url": "https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB"
@@ -3072,6 +3072,24 @@
       "duration_ms": 243226,
       "name": "Didn't Know What I Was in For",
       "url": "https://open.spotify.com/track/0PYdiBzO9IvWc6Y3wO1j7m"
+    },
+    {
+      "album": {
+        "name": "Haunted Disc",
+        "url": "https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203864,
+      "name": "Digital Girl",
+      "url": "https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS"
     },
     {
       "album": {

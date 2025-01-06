@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 76 | [Bad One](https://open.spotify.com/track/5yvjSEYLx7wwPmnhPIIqBr) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 2:28 |
 | 77 | [Parallel Universe](https://open.spotify.com/track/6OQdl6HFCNOFXMw9wHJ4Dd) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Quitter](https://open.spotify.com/album/4goBfD1y92lRNsftSKeEsF) | 3:34 |
 | 78 | [Honest With You](https://open.spotify.com/track/5lpueZOrw3vAJEKamjLXyG) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [YOU](https://open.spotify.com/album/5Eh8ODdlIAB91UYfgNUgFi) | 3:17 |
-| 79 | [Little White Lie](https://open.spotify.com/track/2W9nB27fIUYTXxH8m6hgd0) | [Filipa](https://open.spotify.com/artist/0qLIVG05oC1d125MrkKZk7) | [Little White Lie](https://open.spotify.com/album/6ZHdsxehEzq0ByQoEyavkr) | 3:24 |
-| 80 | [hold my beer](https://open.spotify.com/track/2UKLvUzuRTaX2lrn4xy2a2) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:42 |
+| 79 | [hold my beer](https://open.spotify.com/track/2UKLvUzuRTaX2lrn4xy2a2) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:42 |
+| 80 | [Little White Lie](https://open.spotify.com/track/2W9nB27fIUYTXxH8m6hgd0) | [Filipa](https://open.spotify.com/artist/0qLIVG05oC1d125MrkKZk7) | [Little White Lie](https://open.spotify.com/album/6ZHdsxehEzq0ByQoEyavkr) | 3:24 |
 | 81 | [Cue](https://open.spotify.com/track/3fIMNQaY7AuZRtP18zWhtb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:34 |
 | 82 | [The End](https://open.spotify.com/track/4ZaGaxFe7JVFkhejHgB75M) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:38 |
 | 83 | [Let's get married](https://open.spotify.com/track/7bp8Hrl65fhUKiyoAfR5WA) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:41 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 111 | [Playing House](https://open.spotify.com/track/3fRUCNwZ5mwpkknsocNW5Q) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 2:35 |
 | 112 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 
-Snapshot ID: `Abl/1AAAAAC92HHHrCmKda2j0LLpHM5O`
+Snapshot ID: `AbmFdAAAAAACEUIAWlzN2vs1DBPNnvIn`

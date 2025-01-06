@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 937105,
+  "num_followers": 937136,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+        "name": "Let Me Think About It Again",
+        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
         }
       ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+      "duration_ms": 195813,
+      "name": "Let Me Think About It Again",
+      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -531,22 +535,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Let Me Think About It Again",
-        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
       },
       "artists": [
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 195813,
-      "name": "Let Me Think About It Again",
-      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -599,22 +599,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6OMHgy8Biljd8XCAhIyjMD"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+      "duration_ms": 158571,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1Fu1vVpBhR2SvMOgifFsuT"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -659,18 +655,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/6OMHgy8Biljd8XCAhIyjMD"
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 158571,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1Fu1vVpBhR2SvMOgifFsuT"
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/4JNwJJVKB8xlIAVeyrnH1g"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/78lvhUGgTPdc9A4hWaJy0X"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "The Don",
         "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 166237,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/4JNwJJVKB8xlIAVeyrnH1g"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/78lvhUGgTPdc9A4hWaJy0X"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Run It!",
-        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
-      },
-      "artists": [
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 139842,
-      "name": "Run It!",
-      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "The Drop (Ownboss Remix)",
         "url": "https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 176328,
       "name": "The Drop - \u00d6wnboss Remix",
       "url": "https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Run It!",
+        "url": "https://open.spotify.com/album/4suAzTG2sNogEbZztfseGt"
+      },
+      "artists": [
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "duration_ms": 139842,
+      "name": "Run It!",
+      "url": "https://open.spotify.com/track/0nlbvUhFP15mqJHBaiT8ZU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "2 Things",
-        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "2 Things",
-      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Bumba Bass",
         "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 172800,
       "name": "Welcome To The Future",
       "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "2 Things",
+        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "2 Things",
+      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 181934,
       "name": "Anywhere You Go",
       "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "it boy",
-        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "it boy",
-      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Still Cutting Shapes",
         "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "it boy",
+        "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "it boy",
+      "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Losing My Head",
         "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
       },
@@ -1487,6 +1487,30 @@
       "duration_ms": 189289,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Addicted (feat. Haley Maze)",
+        "url": "https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "ZOOTAH",
+          "url": "https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1"
+        },
+        {
+          "name": "Haley Maze",
+          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Addicted (feat. Haley Maze)",
+      "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1519,26 +1543,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Addicted (feat. Haley Maze)",
-        "url": "https://open.spotify.com/album/05P0tk5IqCsSBqgA1al8cK"
+        "name": "808",
+        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
       },
       "artists": [
         {
-          "name": "Sikdope",
-          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "ZOOTAH",
-          "url": "https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1"
-        },
-        {
-          "name": "Haley Maze",
-          "url": "https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug"
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Addicted (feat. Haley Maze)",
-      "url": "https://open.spotify.com/track/1XplgLNxXve58U6Xhxn6B5"
+      "duration_ms": 176692,
+      "name": "808",
+      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1603,26 +1623,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/5h0TaUubhbW4bdK0sIziVh"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "808",
-      "url": "https://open.spotify.com/track/4QcKL5gDKXl75hx6mGoTV0"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "I DON'T KNOW",
         "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
       },
@@ -1703,38 +1683,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Ravers",
-        "url": "https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h"
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         },
         {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
         }
       ],
-      "duration_ms": 153749,
-      "name": "Ravers",
-      "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Bass Down Low",
-        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Bass Down Low",
-      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
+      "duration_ms": 230625,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1791,6 +1755,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Ravers",
+        "url": "https://open.spotify.com/album/4JuA2DPEmIV0EUeDikpy2h"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        }
+      ],
+      "duration_ms": 153749,
+      "name": "Ravers",
+      "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Move It (with Luciana)",
         "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 135238,
       "name": "Move It (with Luciana)",
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "NRG",
         "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
@@ -1887,6 +1871,46 @@
       "duration_ms": 220898,
       "name": "NRG",
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 137204,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1935,30 +1959,6 @@
       "duration_ms": 177120,
       "name": "I Wanna Talk",
       "url": "https://open.spotify.com/track/0ql60H0AnQOdxiC7Oh3pJN"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "TikTak",
-        "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 137204,
-      "name": "TikTak",
-      "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
     }
   ],
   "unique_name": "Shuffle Syndrome",

@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3921108,
+  "num_followers": 3921215,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
-        "name": "The Kind of Love",
-        "url": "https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ"
-      },
-      "artists": [
-        {
-          "name": "Luca",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": "The Kind of Love",
-      "url": "https://open.spotify.com/track/7CyStHLAihLyfUX738UElG"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
         "name": "One Last Call",
         "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
       },
@@ -575,6 +559,38 @@
       "duration_ms": 256859,
       "name": "One Last Call",
       "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
+        "name": "Wanna Be Somewhere With You",
+        "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 220959,
+      "name": "Wanna Be Somewhere With You",
+      "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
+        "name": "The Kind of Love",
+        "url": "https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ"
+      },
+      "artists": [
+        {
+          "name": "Luca",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "The Kind of Love",
+      "url": "https://open.spotify.com/track/7CyStHLAihLyfUX738UElG"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -619,22 +635,6 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
-        "name": "Wanna Be Somewhere With You",
-        "url": "https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 220959,
-      "name": "Wanna Be Somewhere With You",
-      "url": "https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH"
       },
@@ -671,6 +671,26 @@
       "duration_ms": 202997,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -727,6 +747,26 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        },
+        {
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
+        }
+      ],
+      "duration_ms": 199450,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -747,26 +787,6 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 222092,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
         "name": "U REALLY HURT ME",
         "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 162406,
       "name": "U REALLY HURT ME",
       "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        },
-        {
-          "name": "Ren Ocean",
-          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
-        }
-      ],
-      "duration_ms": 199450,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
-        "name": "Selfreflection",
-        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Stop the time",
-      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK"
       },
@@ -999,6 +983,42 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
+        "name": "Selfreflection",
+        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Stop the time",
+      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1043,6 +1063,26 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 273442,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/7isqXxKW4kNV5CkFOmaXup"
       },
@@ -1079,6 +1119,26 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
+        "name": "sun goes down",
+        "url": "https://open.spotify.com/album/2Xcc4avjo74XPgl6B5mKkR"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "duration_ms": 148548,
+      "name": "sun goes down",
+      "url": "https://open.spotify.com/track/5v11oJ61beKkh7Ls2ukLPt"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
         "name": "Light up my dark",
         "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
@@ -1091,26 +1151,6 @@
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1135,22 +1175,22 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
-        "name": "sun goes down",
-        "url": "https://open.spotify.com/album/2Xcc4avjo74XPgl6B5mKkR"
+        "name": "Favourite Place",
+        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
       },
       "artists": [
         {
-          "name": "puulse",
-          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         },
         {
-          "name": "maybealice",
-          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
         }
       ],
-      "duration_ms": 148548,
-      "name": "sun goes down",
-      "url": "https://open.spotify.com/track/5v11oJ61beKkh7Ls2ukLPt"
+      "duration_ms": 180100,
+      "name": "Favourite Place",
+      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1175,26 +1215,6 @@
       "duration_ms": 273170,
       "name": "Stay Still",
       "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
-        "name": "Favourite Place",
-        "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
-        }
-      ],
-      "duration_ms": 180100,
-      "name": "Favourite Place",
-      "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1235,6 +1255,26 @@
       "duration_ms": 239717,
       "name": "Best Life",
       "url": "https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
+        "name": "Circle In Time: Bonus Tracks",
+        "url": "https://open.spotify.com/album/4GSP5gbqCUpGwLz0BtbmEC"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 273624,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1283,26 +1323,6 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 273442,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
         "name": "Hold You EP",
         "url": "https://open.spotify.com/album/1MMSYCvxazCIppC38xNlRt"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 265960,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/4gRrOMSqIVWH3og9uuIk3l"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
-        "name": "Circle In Time: Bonus Tracks",
-        "url": "https://open.spotify.com/album/4GSP5gbqCUpGwLz0BtbmEC"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 273624,
-      "name": "No Way Back",
-      "url": "https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
+        "name": "Lost Home / Solitude",
+        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Lost Home",
+      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
         "name": "No Ending (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/4hrRW25xx2jiQqFe5pSbjs"
       },
@@ -1515,26 +1531,6 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC"
-      },
-      "artists": [
-        {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
-        },
-        {
-          "name": "Bye Ocean",
-          "url": "https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x"
-        }
-      ],
-      "duration_ms": 160256,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
         "name": "It's Ok It's Alright",
         "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
       },
@@ -1547,22 +1543,6 @@
       "duration_ms": 243934,
       "name": "It's Ok It's Alright",
       "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
-        "name": "Lost Home / Solitude",
-        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        }
-      ],
-      "duration_ms": 226115,
-      "name": "Lost Home",
-      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1599,6 +1579,26 @@
       "duration_ms": 394838,
       "name": "Pipi Dormir",
       "url": "https://open.spotify.com/track/0ba74twsUUtdjG6nTc1b83"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC"
+      },
+      "artists": [
+        {
+          "name": "Sum Wave",
+          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+        },
+        {
+          "name": "Bye Ocean",
+          "url": "https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x"
+        }
+      ],
+      "duration_ms": 160256,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/2tzqeQpRsRyg9xYeVUbIu7"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/5xdxb391UwEIUp9AB0uloL"
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
       },
       "artists": [
         {
-          "name": "D.Polo",
-          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
         },
         {
-          "name": "Passing Clouds",
-          "url": "https://open.spotify.com/artist/1kadXKsRuqG8fbGB8nAvO6"
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/73Ro9Wi19muexSwwV4vTm1"
+      "duration_ms": 248000,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1775,42 +1775,22 @@
     {
       "added_at": "2025-01-04 02:09:43",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/5xdxb391UwEIUp9AB0uloL"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+          "name": "D.Polo",
+          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
         },
         {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+          "name": "Passing Clouds",
+          "url": "https://open.spotify.com/artist/1kadXKsRuqG8fbGB8nAvO6"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
-    },
-    {
-      "added_at": "2025-01-04 02:09:43",
-      "album": {
-        "name": "The Learning of Urgency",
-        "url": "https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED"
-      },
-      "artists": [
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "PEARL",
-          "url": "https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW"
-        }
-      ],
-      "duration_ms": 197910,
-      "name": "Carry Your Name",
-      "url": "https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R"
+      "duration_ms": 147000,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/73Ro9Wi19muexSwwV4vTm1"
     },
     {
       "added_at": "2025-01-04 02:09:43",
@@ -1831,6 +1811,26 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2025-01-04 02:09:43",
+      "album": {
+        "name": "The Learning of Urgency",
+        "url": "https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "PEARL",
+          "url": "https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW"
+        }
+      ],
+      "duration_ms": 197910,
+      "name": "Carry Your Name",
+      "url": "https://open.spotify.com/track/1LaDyabD9KcfJAIv7lJ99R"
     },
     {
       "added_at": "2025-01-04 02:09:43",

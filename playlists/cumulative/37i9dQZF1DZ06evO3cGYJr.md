@@ -4,7 +4,7 @@
 
 > This is Learke\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 29 min
+52 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [falling into place \(the cat's out!\)](https://open.spotify.com/track/74XYX1aXsDJYbbVXed7CWO) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [falling into place \(the cat's out!\)](https://open.spotify.com/album/7c1VHKmc6CjVsXeklEcow9) | 3:06 | 2024-12-14 |  |
 | [Feel Alive](https://open.spotify.com/track/5OabzNT40lkFdWNwuzx4EW) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 2:51 | 2024-12-14 | 2024-12-20 |
 | [Filter](https://open.spotify.com/track/4PafYT8SHOTEGag0tLgglQ) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/4917GZU57YmatuEbuvZRcW) | 2:53 | 2024-12-14 |  |
-| [Fool \- 2021 Version](https://open.spotify.com/track/3WQ94WkALajwI5HDkwkZaj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [w.hateverm](https://open.spotify.com/artist/1uREPVdK2MvzaV52XCD40R) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:01 | 2024-12-14 |  |
+| [Fool \- 2021 Version](https://open.spotify.com/track/3WQ94WkALajwI5HDkwkZaj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [w.hateverm](https://open.spotify.com/artist/1uREPVdK2MvzaV52XCD40R) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:01 | 2024-12-14 | 2025-01-06 |
 | [fragments of your presence](https://open.spotify.com/track/0mYw7Se3zNLlTVQwwWrCdq) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [fragments of your presence](https://open.spotify.com/album/1dv9nkQRXLJOwLShUvxuiP) | 2:52 | 2024-12-14 |  |
 | [Futile](https://open.spotify.com/track/6xikCzoVRP5knZLZKszqsX) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [maybe i need to know myself](https://open.spotify.com/album/4917GZU57YmatuEbuvZRcW) | 4:20 | 2024-12-14 |  |
 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 | 2024-12-29 |  |
@@ -45,6 +45,7 @@
 | [nine forty\-five](https://open.spotify.com/track/2QgWTuCGjygT6O6EpTBqqu) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [i don't think you understand what i mean](https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2) | 3:00 | 2024-12-14 |  |
 | [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:42 | 2024-12-14 |  |
 | [Racing](https://open.spotify.com/track/6TkXn1xvss49UOIWT5MTRG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [ALTERED FUTURE: HALCYON PT.I](https://open.spotify.com/album/5LQdUz31WT8U1BfajznbHg) | 3:39 | 2024-12-14 |  |
+| [Ramblings of the Lost Man \- 2021 Version](https://open.spotify.com/track/1nFMcGlbCsw6yqz7pSDyzh) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 3:05 | 2025-01-06 |  |
 | [Re:Start \- 2021 Version](https://open.spotify.com/track/3TJ2wxqp3kShbKczbVc2D0) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Xernia \(2021 Version\)](https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy) | 2:26 | 2024-12-14 |  |
 | [Rewind](https://open.spotify.com/track/68Gp6rEh4esguX6AMMN7VU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:13 | 2024-12-14 |  |
 | [secrets \- natural accent version](https://open.spotify.com/track/0n0NOHtckswKyJWlP3r7aj) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [secrets!](https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM) | 3:49 | 2024-12-14 |  |

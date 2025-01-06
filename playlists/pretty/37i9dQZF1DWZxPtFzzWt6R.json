@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Luciano Camargo",
-  "num_followers": 91658,
+  "num_followers": 91726,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,58 @@
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
+        "name": "A Casa",
+        "url": "https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Gretter Records",
+          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
+        }
+      ],
+      "duration_ms": 293540,
+      "name": "A Casa",
+      "url": "https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa",
+        "url": "https://open.spotify.com/album/50E3HpxrrCnKufDBgwkWgM"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 217697,
+      "name": "Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa",
+      "url": "https://open.spotify.com/track/5CeWqSYsDIFj56f45yBU33"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 215357,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
         "name": "Contigo At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
       },
@@ -199,58 +251,6 @@
       "duration_ms": 249824,
       "name": "Somente Filho (Ao Vivo)",
       "url": "https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 215357,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
-        "name": "Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa",
-        "url": "https://open.spotify.com/album/50E3HpxrrCnKufDBgwkWgM"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 217697,
-      "name": "Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa",
-      "url": "https://open.spotify.com/track/5CeWqSYsDIFj56f45yBU33"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
-        "name": "A Casa",
-        "url": "https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Gretter Records",
-          "url": "https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP"
-        }
-      ],
-      "duration_ms": 293540,
-      "name": "A Casa",
-      "url": "https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG"
     },
     {
       "added_at": "2024-12-13 12:32:13",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "Viola e Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "O Crente e a Palmeira",
-      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
         "name": "Estou Contigo",
         "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
       },
@@ -339,22 +323,6 @@
       "duration_ms": 249344,
       "name": "Estou Contigo",
       "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
-        "name": "Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 272695,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
     },
     {
       "added_at": "2024-12-13 12:32:13",
@@ -375,38 +343,6 @@
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "Triunfo de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 336796,
-      "name": "O Pr\u00f3digo Vai Voltar",
-      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
       },
@@ -419,6 +355,38 @@
       "duration_ms": 271166,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 272695,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "Viola e Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "O Crente e a Palmeira",
+      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
     },
     {
       "added_at": "2024-12-13 12:32:13",
@@ -463,34 +431,50 @@
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "N\u00f3s (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI"
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
       },
       "artists": [
         {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 255250,
-      "name": "N\u00f3s - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj"
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "Volta pra Casa",
-        "url": "https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC"
+        "name": "Triunfo de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
       },
       "artists": [
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
         }
       ],
-      "duration_ms": 289411,
-      "name": "Volta pra Casa",
-      "url": "https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd"
+      "duration_ms": 336796,
+      "name": "O Pr\u00f3digo Vai Voltar",
+      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 284505,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
     },
     {
       "added_at": "2024-12-13 12:32:13",
@@ -531,24 +515,8 @@
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 284505,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
-        "name": "Sem Mim",
-        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
+        "name": "N\u00f3s (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI"
       },
       "artists": [
         {
@@ -556,9 +524,57 @@
           "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 226469,
-      "name": "Sem Mim",
-      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
+      "duration_ms": 255250,
+      "name": "N\u00f3s - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "Volta pra Casa",
+        "url": "https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 289411,
+      "name": "Volta pra Casa",
+      "url": "https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "A Resposta \u00c9 Deus",
+        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 256450,
+      "name": "A Resposta \u00c9 Deus",
+      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2024-12-13 12:32:13",
@@ -579,18 +595,18 @@
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "Estou de Volta",
-        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
+        "name": "Chuva de Poder",
+        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
       },
       "artists": [
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Gabriela Rodrigues",
+          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Estou de Volta",
-      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
+      "duration_ms": 196000,
+      "name": "Chuva de Poder",
+      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
     },
     {
       "added_at": "2024-12-13 12:32:13",
@@ -615,50 +631,18 @@
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+        "name": "Sem Mim",
+        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
       },
       "artists": [
         {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
-        "name": "Chuva de Poder",
-        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rodrigues",
-          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Chuva de Poder",
-      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
-    },
-    {
-      "added_at": "2024-12-13 12:32:13",
-      "album": {
-        "name": "De Volta \u00e0 Inoc\u00eancia",
-        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
-      },
-      "artists": [
-        {
-          "name": "Alvaro & Daniel",
-          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
-        }
-      ],
-      "duration_ms": 288012,
-      "name": "De Volta \u00e0 Inoc\u00eancia",
-      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
+      "duration_ms": 226469,
+      "name": "Sem Mim",
+      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
     },
     {
       "added_at": "2024-12-13 12:32:13",
@@ -679,38 +663,34 @@
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "A Resposta \u00c9 Deus",
-        "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
+        "name": "Estou de Volta",
+        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
       },
       "artists": [
         {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 256450,
-      "name": "A Resposta \u00c9 Deus",
-      "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+      "duration_ms": 245000,
+      "name": "Estou de Volta",
+      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
     },
     {
       "added_at": "2024-12-13 12:32:13",
       "album": {
-        "name": "N\u00e3o Saia do Meu Lado",
-        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
+        "name": "De Volta \u00e0 Inoc\u00eancia",
+        "url": "https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf"
       },
       "artists": [
         {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+          "name": "Alvaro & Daniel",
+          "url": "https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2"
         }
       ],
-      "duration_ms": 216127,
-      "name": "N\u00e3o Saia do Meu Lado",
-      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
+      "duration_ms": 288012,
+      "name": "De Volta \u00e0 Inoc\u00eancia",
+      "url": "https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv"
     },
     {
       "added_at": "2024-12-13 12:32:13",
@@ -779,6 +759,26 @@
       "duration_ms": 163258,
       "name": "Assim Como Deus Quer",
       "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
+    },
+    {
+      "added_at": "2024-12-13 12:32:13",
+      "album": {
+        "name": "N\u00e3o Saia do Meu Lado",
+        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "duration_ms": 216127,
+      "name": "N\u00e3o Saia do Meu Lado",
+      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
     },
     {
       "added_at": "2024-12-13 12:32:13",

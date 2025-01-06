@@ -4,7 +4,7 @@
 
 > 🍂
 
-141 songs - 7 hr 10 min
+142 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Hvit sommer](https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Hvit sommer](https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u) | 2:28 | 2024-06-27 | 2024-10-11 |
 | [I don't want nobody but your body](https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [I don't want nobody but your body](https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD) | 2:51 | 2024-09-19 | 2024-10-28 |
 | [Ikke lenger din](https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 2:31 | 2024-10-24 | 2025-01-02 |
-| [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 |  |
+| [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 | 2025-01-06 |
 | [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 | 2024-06-27 |  |
 | [Keeps Me Going](https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Keeps Me Going](https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2) | 3:19 | 2024-06-27 |  |
 | [Klisje](https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Celine Madelen](https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE) | [Klisje](https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA) | 2:18 | 2024-06-27 |  |
@@ -105,6 +105,7 @@
 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 | 2024-10-10 |  |
 | [Rekk opp hånda](https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Rekk opp hånda](https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN) | 3:00 | 2024-06-27 | 2024-12-12 |
 | [Revolve](https://open.spotify.com/track/4c4SBx9iL4E8qqxOCNBHLP) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Revolve](https://open.spotify.com/album/5gl0GYihYgfulQPOEZMKEH) | 3:29 | 2024-10-10 |  |
+| [Ringdans](https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ringdans](https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A) | 3:32 | 2024-12-19 |  |
 | [Rød cabriolet](https://open.spotify.com/track/2aFUqqRsbBBC7Bt58xRE9j) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Rød cabriolet](https://open.spotify.com/album/2RZ8spqQAxYFb22GdB2FZg) | 3:43 | 2024-09-16 | 2024-10-11 |
 | [Sent](https://open.spotify.com/track/1zrVgwczGA9gJ0cIq89yt0) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Sent](https://open.spotify.com/album/2qMklbVaUEqHxL4PgpKEy3) | 2:15 | 2024-06-27 | 2024-07-16 |
 | [shine.](https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [reasons why u should text me\. \(+1 \(818\) 643\-6885\)](https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi) | 2:27 | 2024-11-28 |  |

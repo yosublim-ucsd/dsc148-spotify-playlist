@@ -135,6 +135,32 @@
     },
     {
       "album": {
+        "name": "A World For Two",
+        "url": "https://open.spotify.com/album/3wMjKEpqqZU3S49h04V2Kr"
+      },
+      "artists": [
+        {
+          "name": "Chris Ruo",
+          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
+        },
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        },
+        {
+          "name": "veranda life",
+          "url": "https://open.spotify.com/artist/4TuhUuVGlN2W79M1OKJnfr"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162360,
+      "name": "A World For Two",
+      "url": "https://open.spotify.com/track/7jRG5RxnRs3drnTk9AZsHa"
+    },
+    {
+      "album": {
         "name": "afterglow",
         "url": "https://open.spotify.com/album/3BAIQJ314MKCfhyjHI64Di"
       },
@@ -9260,7 +9286,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 150280,
       "name": "New Day",
       "url": "https://open.spotify.com/track/4oZEjbLDmBuJaC9VgEFi2M"
@@ -11373,6 +11399,28 @@
     },
     {
       "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/0FnWVGiavhMhsvhBqeDItg"
+      },
+      "artists": [
+        {
+          "name": "Plivi",
+          "url": "https://open.spotify.com/artist/33HO8ijj4DeZbwKn0fWChb"
+        },
+        {
+          "name": "connormitchell",
+          "url": "https://open.spotify.com/artist/0VWW8H3WhQz4kn2yOSdEZX"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/2xEhpOuiUqkVkI8OzrFXD5"
+    },
+    {
+      "album": {
         "name": "Sing To You",
         "url": "https://open.spotify.com/album/5oqiNDfc4Q2NyxojCjgWOo"
       },
@@ -11466,7 +11514,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 170303,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/24dat5FuBrBOtXNcxygpny"
@@ -13530,7 +13578,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 173477,
       "name": "Tore Me Up",
       "url": "https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g"
@@ -13810,7 +13858,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 157201,
       "name": "Waiting For A Better Day",
       "url": "https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY"

@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1048949,
+  "num_followers": 1048990,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,30 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Piece Of Your Heart (Alok Remix)",
         "url": "https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq"
       },
@@ -359,30 +383,6 @@
       "duration_ms": 241874,
       "name": "Tuesday (feat. Danelle Sandoval)",
       "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 229184,
-      "name": "Giant (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Giant (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 229184,
+      "name": "Giant (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -703,46 +703,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 161444,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "All of Me (Ti\u00ebsto's Birthday Treatment Remix - Radio Edit)",
         "url": "https://open.spotify.com/album/4c2rSdHI9WUXn0zyXoWtbB"
       },
@@ -763,6 +723,26 @@
       "duration_ms": 251613,
       "name": "All of Me - Ti\u00ebsto's Birthday Treatment Remix - Radio Edit",
       "url": "https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 161444,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -807,6 +787,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Better When You're Gone",
         "url": "https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o"
       },
@@ -827,6 +827,54 @@
       "duration_ms": 192402,
       "name": "Better When You're Gone",
       "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Agora \u00e9 Tudo Meu",
+        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Agora \u00e9 Tudo Meu",
+      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Goodbye (feat. Nicki Minaj & Willy William)",
+        "url": "https://open.spotify.com/album/5dL5RSd455FewNptPgtBTS"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 195419,
+      "name": "Goodbye (feat. Nicki Minaj & Willy William)",
+      "url": "https://open.spotify.com/track/5Xn4IyTtW6FUGIUyWjbUHG"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -871,54 +919,6 @@
       "duration_ms": 163636,
       "name": "Whenever (feat. Conor Maynard)",
       "url": "https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Goodbye (feat. Nicki Minaj & Willy William)",
-        "url": "https://open.spotify.com/album/5dL5RSd455FewNptPgtBTS"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 195419,
-      "name": "Goodbye (feat. Nicki Minaj & Willy William)",
-      "url": "https://open.spotify.com/track/5Xn4IyTtW6FUGIUyWjbUHG"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Agora \u00e9 Tudo Meu",
-        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Agora \u00e9 Tudo Meu",
-      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1203,26 +1203,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
-        "url": "https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q"
+        "name": "Save Me (feat. MKLA)",
+        "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
       },
       "artists": [
         {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Adam K",
+          "url": "https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb"
         },
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
         }
       ],
-      "duration_ms": 213000,
-      "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
-      "url": "https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g"
+      "duration_ms": 193548,
+      "name": "Save Me (feat. MKLA)",
+      "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1251,26 +1251,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Save Me (feat. MKLA)",
-        "url": "https://open.spotify.com/album/7pOKGKmHi9U8NM0aJ49QBo"
+        "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
+        "url": "https://open.spotify.com/album/1WowOfXnw3DlwgjyzlAU4Q"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
         },
         {
-          "name": "Adam K",
-          "url": "https://open.spotify.com/artist/0A8ej3hXTozbQAMhcU8RNb"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         },
         {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         }
       ],
-      "duration_ms": 193548,
-      "name": "Save Me (feat. MKLA)",
-      "url": "https://open.spotify.com/track/5WxtmHAcrDbghHVGupu18h"
+      "duration_ms": 213000,
+      "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
+      "url": "https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Kisses",
-        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 195619,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Infinito Particular (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
       },
@@ -1399,22 +1379,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Alien (Topic Remix)",
-        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
       },
       "artists": [
         {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 159927,
-      "name": "Alien - Topic Remix",
-      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
+      "duration_ms": 195619,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1443,18 +1423,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Iguana",
-        "url": "https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O"
+        "name": "Alien (Topic Remix)",
+        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
       },
       "artists": [
         {
-          "name": "Louie Austen",
-          "url": "https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X"
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         }
       ],
-      "duration_ms": 301800,
-      "name": "Glamour Girl",
-      "url": "https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC"
+      "duration_ms": 159927,
+      "name": "Alien - Topic Remix",
+      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1479,30 +1463,38 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Brother Louie",
-        "url": "https://open.spotify.com/album/7sXd9MLEYPHUvQJzIdhSBV"
+        "name": "Iguana",
+        "url": "https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Dieter Bohlen",
-          "url": "https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Louie Austen",
+          "url": "https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X"
         }
       ],
-      "duration_ms": 172459,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/1rIIZijH9LIMqtdY5x9Ebe"
+      "duration_ms": 301800,
+      "name": "Glamour Girl",
+      "url": "https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Ralk",
+          "url": "https://open.spotify.com/artist/5fL22gqogawtrDsvcNVyyC"
+        }
+      ],
+      "duration_ms": 172340,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Ralk Remix",
+      "url": "https://open.spotify.com/track/08E0nvXBTp8ayyOaXwEtue"
     }
   ],
   "unique_name": "Projeto Ver\u00e3o",

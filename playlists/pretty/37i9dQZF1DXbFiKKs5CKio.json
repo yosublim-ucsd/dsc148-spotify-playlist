@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 64834,
+  "num_followers": 64845,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
         "name": "MOVA - Algumas Verdades, Outras Mentiras",
         "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 214090,
       "name": "Duvido",
       "url": "https://open.spotify.com/track/47oHb5kfI2EycPbyT4oR7Y"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "M\u00fasica",
-        "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
-      },
-      "artists": [
-        {
-          "name": "YAZI",
-          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
-        },
-        {
-          "name": "A Timeline",
-          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
-        }
-      ],
-      "duration_ms": 203584,
-      "name": "M\u00fasica",
-      "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "Hip Hop Machine #18",
         "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 357248,
       "name": "Se Foi",
       "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "M\u00fasica",
+        "url": "https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L"
+      },
+      "artists": [
+        {
+          "name": "YAZI",
+          "url": "https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP"
+        },
+        {
+          "name": "A Timeline",
+          "url": "https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed"
+        }
+      ],
+      "duration_ms": 203584,
+      "name": "M\u00fasica",
+      "url": "https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "Theodoro Nag\u00f4: We4Sessions",
-        "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
-      },
-      "artists": [
-        {
-          "name": "Theodoro Nag\u00f4",
-          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
-        },
-        {
-          "name": "WE4Sessions",
-          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
-        }
-      ],
-      "duration_ms": 220037,
-      "name": "Entrelace",
-      "url": "https://open.spotify.com/track/52DfqqsZ1RgMpI9Bw9MMki"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 171176,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "Theodoro Nag\u00f4: We4Sessions",
+        "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
+      },
+      "artists": [
+        {
+          "name": "Theodoro Nag\u00f4",
+          "url": "https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "duration_ms": 220037,
+      "name": "Entrelace",
+      "url": "https://open.spotify.com/track/52DfqqsZ1RgMpI9Bw9MMki"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "Cuz I Really Feel It",
         "url": "https://open.spotify.com/album/2fn3Ud9RQECGPUZ8Oc5BHd"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 167088,
       "name": "Tudo O Que Eu Posso Te Dar",
       "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2024-12-13 16:47:52",

@@ -1,6 +1,6 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1970207,
+  "num_followers": 1970698,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
-      "added_at": "2024-03-21 16:46:52",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Feels Like Rain",
@@ -235,6 +219,22 @@
       "duration_ms": 238533,
       "name": "I'm Your Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -327,22 +327,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "The Fabulous Thunderbirds",
         "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 289560,
       "name": "Leaving Trunk",
       "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Cream Of Clapton",
-        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Crossroads - Live",
-      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Live And Well",
@@ -499,6 +483,22 @@
       "duration_ms": 517400,
       "name": "Why I Sing The Blues",
       "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Cream Of Clapton",
+        "url": "https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Crossroads - Live",
+      "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -531,6 +531,22 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -579,22 +595,6 @@
       "duration_ms": 235880,
       "name": "Blues for Mama",
       "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "Chicago Bound",
         "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 167266,
       "name": "Walking By Myself",
       "url": "https://open.spotify.com/track/36ccrof5DFicLrejE4hEye"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Best Of Duke-Peacock Blues",
-        "url": "https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q"
-      },
-      "artists": [
-        {
-          "name": "Larry Davis",
-          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Sufferin' Mind",
@@ -1107,6 +1091,22 @@
       "duration_ms": 180453,
       "name": "The Things That I Used To Do",
       "url": "https://open.spotify.com/track/3NWDb3bbMBTArBblzG4jMX"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Best Of Duke-Peacock Blues",
+        "url": "https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q"
+      },
+      "artists": [
+        {
+          "name": "Larry Davis",
+          "url": "https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9"
     },
     {
       "added_at": "2021-06-18 04:29:20",

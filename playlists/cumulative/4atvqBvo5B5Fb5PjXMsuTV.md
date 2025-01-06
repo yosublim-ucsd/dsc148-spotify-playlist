@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 04 Jan 19:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 06 Jan 23:02 UTC.
 
-3,880 songs - 8 day 23 hr 29 min
+3,882 songs - 8 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,7 +1194,7 @@
 | [Floppy Disks](https://open.spotify.com/track/53nyIwxHPbQO6QEwhKYE7v) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Floppy Disks](https://open.spotify.com/album/1KWscxrKzDgwkFKwO6DqEE) | 2:00 | 2025-01-03 |  |
 | [Florenz](https://open.spotify.com/track/74vE9sxMnFuxzp4uDkrwKW) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Florenz](https://open.spotify.com/album/4QzKGQFEbtq1cSeluRu2or) | 2:32 | 2024-06-06 | 2024-06-11 |
 | [Flores](https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Flores](https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl) | 2:16 | 2024-09-20 | 2024-09-26 |
-| [FLOW](https://open.spotify.com/track/1IrfhbQTbH2ikKHxAuBeab) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [FLOW](https://open.spotify.com/album/4ZVDy93t8G2t4LnwIxy6bR) | 1:49 | 2024-12-20 |  |
+| [FLOW](https://open.spotify.com/track/1IrfhbQTbH2ikKHxAuBeab) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [FLOW](https://open.spotify.com/album/4ZVDy93t8G2t4LnwIxy6bR) | 1:49 | 2024-12-20 | 2025-01-06 |
 | [Flower Burial](https://open.spotify.com/track/41uLJSrY3KqlLXd952wSiD) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Flower Burial](https://open.spotify.com/album/0XwtjCyCxVPus0ZEiMvmPV) | 4:57 | 2024-11-05 | 2024-11-08 |
 | [Flowers](https://open.spotify.com/track/55qMAQxnxF1chuekaqOwoJ) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Flowers](https://open.spotify.com/album/3me9thHbtjc4oj9nKmNYHG) | 3:53 | 2024-08-16 | 2024-08-21 |
 | [Flukey S\*\*t](https://open.spotify.com/track/6nenywDHYaLrvqIMFmAiqh) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Flukey S\*\*t](https://open.spotify.com/album/7b9owa72QRrthREfeMNnxy) | 2:57 | 2024-10-16 | 2024-10-18 |
@@ -1726,6 +1726,7 @@
 | [Ingo Swann](https://open.spotify.com/track/0MorRE2kwzea56XwkFMUYE) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Ingo Swann](https://open.spotify.com/album/1u1jySXUZv9b9vvHMwjf4r) | 3:37 | 2024-10-08 | 2024-10-11 |
 | [Insanium](https://open.spotify.com/track/5nukIG524dZy2jmU5PfVkj) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Insanium](https://open.spotify.com/album/3vJDzTb8gOw2ipTGYQY4t5) | 2:38 | 2024-09-13 | 2024-09-18 |
 | [Inside](https://open.spotify.com/track/1WkMsQWSAmljoLv381oL6m) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Eklipse](https://open.spotify.com/artist/2ycTuWzeewjBC6SHxF1gID), [Niceboy](https://open.spotify.com/artist/6ITQCtp87jIWIrHDBdkJm6) | [Inside](https://open.spotify.com/album/7BcRTefPbw55v2rfOjEio0) | 2:28 | 2024-11-29 | 2024-12-04 |
+| [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 | 2025-01-05 |  |
 | [INSTAGRAM BANNED ME AT 200K WTF](https://open.spotify.com/track/0GYEjdcSHYwKE2Lg1MAfyj) | [Joey Trap](https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce) | [INSTAGRAM BANNED ME AT 200K WTF](https://open.spotify.com/album/5AfSdARR4YYaWqVWALgfPI) | 2:18 | 2024-08-09 | 2024-08-14 |
 | [INSTANT TRANSFER](https://open.spotify.com/track/1duL1mw9wWk0Dj0WfvQQD2) | [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [INSTANT TRANSFER](https://open.spotify.com/album/32r3qSRm8OvUcT8UaUmb88) | 2:49 | 2024-08-07 | 2024-08-09 |
 | [iNSTEAD!](https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Open ♭eta v6.4](https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk) | 2:57 | 2024-09-09 | 2024-09-13 |
@@ -3241,6 +3242,7 @@
 | [Temptress](https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Temptress](https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG) | 2:56 | 2024-10-11 | 2024-10-14 |
 | [Ten Below \- Live at the Acropolis](https://open.spotify.com/track/3jjf3VATerUH0LjbbDttZF) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Ten Below \(Live at the Acropolis\)](https://open.spotify.com/album/3ebwpA8Whtro4Gdn6XBbtd) | 4:04 | 2024-12-18 | 2024-12-21 |
 | [Ten Digits Away \- Deluxe](https://open.spotify.com/track/7prs826yu72cFE8GJzp1uo) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Mile A Minute](https://open.spotify.com/album/0Q4sb6SSenLenPbHFoZgpB) | 3:54 | 2024-11-12 | 2024-11-26 |
+| [Tendrils](https://open.spotify.com/track/7ggzbRpEY7hHkBP7z9Oxvo) | [Saetia](https://open.spotify.com/artist/5piONaqFh85tIjxSQgZuWA) | [Tendrils](https://open.spotify.com/album/6Y7x0pwhQauG8zQdFtle1k) | 4:06 | 2025-01-05 |  |
 | [Tengo Un Pensamiento](https://open.spotify.com/track/3S2W0ZX1Cc74sl7ch0ZYQ3) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Tengo Un Pensamiento](https://open.spotify.com/album/5r96rEUXrojKL6nTWWiQSY) | 2:45 | 2024-12-20 | 2024-12-22 |
 | [TENHO QUE COMER](https://open.spotify.com/track/4RBBbqIeRvAs4m24X0nfvi) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [TENHO QUE COMER](https://open.spotify.com/album/1qgPD20cFm602zCKUE6ySe) | 1:52 | 2024-06-24 | 2024-06-26 |
 | [Terminal](https://open.spotify.com/track/5UiBPe2tMACirmcdSpjP13) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Terminal](https://open.spotify.com/album/4BtoDXCj6ktolMeu3Okxma) | 3:10 | 2024-09-09 | 2024-09-13 |
@@ -3693,7 +3695,7 @@
 | [Who Did You Touch?](https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7) | 3:28 | 2024-05-31 | 2024-06-02 |
 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-10-16 | 2024-10-19 |
 | [Who the 1](https://open.spotify.com/track/4SaFPZMWRFp46VviecQrMN) | [CHRIST DILLINGER](https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3), [Shadow Wizard Money Gang](https://open.spotify.com/artist/34ESFFvfP5f465MC2V6E64), [Dj Smokey](https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy) | [Who the 1](https://open.spotify.com/album/2L3BY7ko8BL4l3FQyVszcL) | 2:15 | 2024-12-12 | 2024-12-14 |
-| [Whole Block Know](https://open.spotify.com/track/0yJiK3DZ4ypc3HL2AGxvPR) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Whole Block Know](https://open.spotify.com/album/4DgvIYNDA1MTPC4RkzJYN0) | 2:01 | 2024-12-20 |  |
+| [Whole Block Know](https://open.spotify.com/track/0yJiK3DZ4ypc3HL2AGxvPR) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Whole Block Know](https://open.spotify.com/album/4DgvIYNDA1MTPC4RkzJYN0) | 2:01 | 2024-12-20 | 2025-01-06 |
 | [WHOUWITHHO+](https://open.spotify.com/track/3VVddUsXWLhortUvZLnf0j) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [WHOUWITHHO+](https://open.spotify.com/album/48eAXMPibnXLfO60apVIwe) | 3:13 | 2024-12-13 | 2024-12-15 |
 | [Why Aren't You Dancing?](https://open.spotify.com/track/7xNQbooHAWyxVcS2yfq3JL) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Why Aren't You Dancing?](https://open.spotify.com/album/10AFHiIJfgEtxRn6EcFC73) | 3:26 | 2024-04-30 | 2024-05-02 |
 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 | 2024-10-11 | 2024-10-17 |

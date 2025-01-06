@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwfR6Tizy8P.md) - [plain]
 
 > Pura malhação retrô para você suar as polâinas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,544 likes - 44 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,678 likes - 44 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

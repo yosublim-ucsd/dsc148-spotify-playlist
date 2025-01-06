@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u5f35\u60e0\u59b9 (A-mei)",
+  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u6881\u975c\u8339 (Fish Leong)",
   "name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 280933,
       "name": "May I Love You",
       "url": "https://open.spotify.com/track/3wecc01DZyS7W0wfPzn1p4"
+    },
+    {
+      "album": {
+        "name": "May I Love You",
+        "url": "https://open.spotify.com/album/4D4NC5uuvuZcmzZa5OCV6b"
+      },
+      "artists": [
+        {
+          "name": "Z-Chen",
+          "url": "https://open.spotify.com/artist/5rG61ghWZ2R4TDvCO7d0jw"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280933,
+      "name": "May I Love You",
+      "url": "https://open.spotify.com/track/6Mo7B3TPKV7ku9GXCVRadj"
     },
     {
       "album": {
@@ -492,7 +510,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 241000,
       "name": "\u4e0d\u662f\u771f\u7684\u611b\u6211",
       "url": "https://open.spotify.com/track/7wz6mHHnJXPVpC64CXwlMh"
@@ -622,7 +640,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 254546,
       "name": "\u4ed6\u9084\u662f\u4e0d\u61c2",
       "url": "https://open.spotify.com/track/0zIoXGZZfbo1wnHfW7pAqk"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 273920,
       "name": "\u4f60\u4e0d\u5728",
       "url": "https://open.spotify.com/track/2sky5wSdKFF7nuoA8kB5dx"
@@ -922,6 +940,24 @@
       "duration_ms": 274466,
       "name": "\u5206\u624b",
       "url": "https://open.spotify.com/track/2bDDLSG2ykS4bX5F0svmlU"
+    },
+    {
+      "album": {
+        "name": "\u7121\u6cd5\u5b9a\u7fa9\u9ec3\u7fa9\u9054",
+        "url": "https://open.spotify.com/album/0qcKn9dQd9czP5YFqipykR"
+      },
+      "artists": [
+        {
+          "name": "Yida Huang",
+          "url": "https://open.spotify.com/artist/7kaq0LysuRSgBZSorlZ7Vj"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287133,
+      "name": "\u533f\u540d\u7684\u5bf6\u8c9d",
+      "url": "https://open.spotify.com/track/0pol1KdiAZ8qnXwdSrRq1Y"
     },
     {
       "album": {
@@ -1437,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "\u5b64\u55ae\u82ad\u857e",
+        "url": "https://open.spotify.com/album/7Jmp54FbHLfvT5ZylLKe3q"
+      },
+      "artists": [
+        {
+          "name": "\u8a31\u6167\u6b23",
+          "url": "https://open.spotify.com/artist/6DWn9cu2UVLQ61pjyBHjuL"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230906,
+      "name": "\u5b78\u6703",
+      "url": "https://open.spotify.com/track/1gN3B3WFPHjjMd3nwWep7b"
+    },
+    {
+      "album": {
         "name": "\u5b8c\u6574",
         "url": "https://open.spotify.com/album/6Wo1NcIVH1i6Is4yjgQU5E"
       },
@@ -1842,7 +1896,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 244026,
       "name": "\u611b\u4e00\u76f4\u9583\u4eae",
       "url": "https://open.spotify.com/track/0PpjWheZ4Dsb3j8OYuXXnM"
@@ -2008,6 +2062,24 @@
       "duration_ms": 304386,
       "name": "\u6200\u4e0a\u53e6\u4e00\u500b\u4eba",
       "url": "https://open.spotify.com/track/4sq1AOtKS8L73gARXhxPig"
+    },
+    {
+      "album": {
+        "name": "\u6200\u4e0a\u6e38\u9d3b\u660e 2002\u60c5\u6b4c\u5275\u4f5c\u7cbe\u9078\u96c6",
+        "url": "https://open.spotify.com/album/1p3PfPVbcLLoZZuOjkVP5Q"
+      },
+      "artists": [
+        {
+          "name": "Chris Yu",
+          "url": "https://open.spotify.com/artist/1AZC6jC2Y5aQPeMWfVAqon"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306866,
+      "name": "\u6200\u4e0a\u53e6\u4e00\u500b\u4eba",
+      "url": "https://open.spotify.com/track/6GSZBwcCfMeIdVJoATwwrc"
     },
     {
       "album": {
@@ -2584,7 +2656,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 245440,
       "name": "\u67d0\u5e74\u67d0\u6708\u67d0\u4e00\u5929",
       "url": "https://open.spotify.com/track/3nxCXEhBhtEcEQEWKyHehc"
@@ -2916,7 +2988,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 232410,
       "name": "\u70ba\u6211\u597d",
       "url": "https://open.spotify.com/track/0dBYIJnLEIzeFo0u1MZmDj"
@@ -3194,7 +3266,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 256440,
       "name": "\u75db\u5f7b\u5fc3\u6249",
       "url": "https://open.spotify.com/track/1VMG7u0zVW0uSRM9NvdNGt"
@@ -3450,7 +3522,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 261237,
       "name": "\u7f8e\u9e97\u7684\u8aa4\u6703",
       "url": "https://open.spotify.com/track/6d9O3cEk5YBOoNJhG3Johv"
@@ -3522,7 +3594,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 268226,
       "name": "\u82b1\u9999",
       "url": "https://open.spotify.com/track/5y50nlDq1xmsV59Z643eeA"
@@ -3944,7 +4016,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 270093,
       "name": "\u90a3\u5973\u5b69\u5c0d\u6211\u8aaa",
       "url": "https://open.spotify.com/track/4lD40vyG33AcLiftmxQSC8"

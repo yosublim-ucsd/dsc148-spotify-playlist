@@ -1,6 +1,6 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 909318,
+  "num_followers": 909542,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Imagine - Remastered 2010",
-      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Imagine - Remastered 2010",
+      "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
     },
     {
       "added_at": "2024-08-23 14:56:31",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Redemption Song",
-      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 164813,
       "name": "Me and Julio Down by the Schoolyard",
       "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
     },
     {
       "added_at": "2024-08-23 14:56:31",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Rust Never Sleeps",
-        "url": "https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 227705,
-      "name": "My My, Hey Hey (Out of the Blue) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
         "name": "The Very Best Of The Commodores",
         "url": "https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 129106,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
+        "name": "Rust Never Sleeps",
+        "url": "https://open.spotify.com/album/2QqocFdpBkxOBLcIRo6UuJ"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 227705,
+      "name": "My My, Hey Hey (Out of the Blue) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw"
     },
     {
       "added_at": "2024-08-23 14:56:31",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Moondance",
-        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 272160,
-      "name": "And It Stoned Me - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
         "name": "Tea For The Tillerman (Remastered)",
         "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
+        "name": "Moondance",
+        "url": "https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 272160,
+      "name": "And It Stoned Me - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
         "name": "Vanilla Sky (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 262600,
       "name": "Solsbury Hill",
       "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "All Things Must Pass - Remastered 2014",
-      "url": "https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh"
     },
     {
       "added_at": "2024-08-23 14:56:31",
@@ -983,6 +967,22 @@
       "duration_ms": 203333,
       "name": "Something On Your Mind",
       "url": "https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "All Things Must Pass - Remastered 2014",
+      "url": "https://open.spotify.com/track/6QLFNz62dpOgQTloWuUbNh"
     }
   ],
   "unique_name": "70s & 80s Acoustic",

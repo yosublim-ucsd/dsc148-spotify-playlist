@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 655046,
+  "num_followers": 655093,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "She Bangs the Drums - Remastered 2009",
-      "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "International Velvet",
         "url": "https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a"
       },
@@ -267,22 +251,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "All Change",
-        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "This Is My Truth Tell Me Yours",
         "url": "https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW"
       },
@@ -295,6 +263,22 @@
       "duration_ms": 260506,
       "name": "You Stole the Sun from My Heart",
       "url": "https://open.spotify.com/track/75Ii3Myt6vRsbjzaTbwDQt"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "She Bangs the Drums - Remastered 2009",
+      "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -331,18 +315,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+        "name": "All Change",
+        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
         }
       ],
-      "duration_ms": 492946,
-      "name": "I Am the Resurrection - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
+      "duration_ms": 217293,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -425,6 +409,22 @@
       "url": "https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg"
     },
     {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 492946,
+      "name": "I Am the Resurrection - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
+    },
+    {
       "added_at": "2024-09-01 15:34:53",
       "album": {
         "name": "Definitely Maybe (30th Anniversary Deluxe Edition)",
@@ -439,6 +439,22 @@
       "duration_ms": 392306,
       "name": "Slide Away - Remastered",
       "url": "https://open.spotify.com/track/6Uj8JjB6rrRpUwkr5cczaH"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -471,22 +487,6 @@
       "duration_ms": 199493,
       "name": "Inbetweener",
       "url": "https://open.spotify.com/track/4GoqaAdOZqS1lyYODRwxlO"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
-        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
-      },
-      "artists": [
-        {
-          "name": "Ocean Colour Scene",
-          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "The Riverboat Song",
-      "url": "https://open.spotify.com/track/1oPg2EYKf2hbS7aDyE8j3S"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Pablo Honey",
         "url": "https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 218999,
       "name": "I Want to Be There - When You Come",
       "url": "https://open.spotify.com/track/471Zj8j2ioowDrIhOzaZdy"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
+        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
+      },
+      "artists": [
+        {
+          "name": "Ocean Colour Scene",
+          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "The Riverboat Song",
+      "url": "https://open.spotify.com/track/1oPg2EYKf2hbS7aDyE8j3S"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Forever Delayed",
+        "url": "https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 305693,
+      "name": "Motorcycle Emptiness",
+      "url": "https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Forever Delayed",
-        "url": "https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 305693,
-      "name": "Motorcycle Emptiness",
-      "url": "https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "In It For The Money",
+        "url": "https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Richard III",
+      "url": "https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
       },
@@ -795,38 +811,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "In It For The Money",
-        "url": "https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Richard III",
-      "url": "https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "His 'N' Hers",
         "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 244826,
       "name": "Babies",
       "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
+        "name": "Different Class / Deluxe Edition",
+        "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
+      "duration_ms": 273733,
+      "name": "Disco 2000",
+      "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -979,34 +979,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Going For Gold",
-        "url": "https://open.spotify.com/album/31ecsOgZxowxwp717fYqIu"
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
       },
       "artists": [
         {
-          "name": "Shed Seven",
-          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 267493,
-      "name": "Going For Gold",
-      "url": "https://open.spotify.com/track/2q1VaYfLyPur3bwZswF5o2"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Different Class / Deluxe Edition",
-        "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 273733,
-      "name": "Disco 2000",
-      "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
+      "duration_ms": 156866,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1023,6 +1007,22 @@
       "duration_ms": 289146,
       "name": "Cigarettes & Alcohol - Remastered",
       "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Going For Gold",
+        "url": "https://open.spotify.com/album/31ecsOgZxowxwp717fYqIu"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Going For Gold",
+      "url": "https://open.spotify.com/track/2q1VaYfLyPur3bwZswF5o2"
     },
     {
       "added_at": "2024-03-18 22:10:08",

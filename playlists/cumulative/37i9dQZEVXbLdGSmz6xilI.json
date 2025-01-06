@@ -4022,7 +4022,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "CH\u00c2N TH\u00c0NH (feat. RHYDER, Captain, Quang H\u00f9ng MasterD, WEAN & Ali Ho\u00e0ng D\u01b0\u01a1ng)",
       "url": "https://open.spotify.com/track/26zqmmkqUK6mCc87XDzPym"
@@ -5146,6 +5146,24 @@
       "duration_ms": 220000,
       "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
       "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
+    },
+    {
+      "album": {
+        "name": "L\u1eb7ng",
+        "url": "https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN"
+      },
+      "artists": [
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "C\u00f3 \u0110\u00f4i \u0110i\u1ec1u",
+      "url": "https://open.spotify.com/track/2Pwou3Q2Cf59RxdX2V6MgV"
     },
     {
       "album": {
@@ -13530,7 +13548,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 193049,
       "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/1J12HjUuXfJnaUdubTEzSR"
@@ -17494,7 +17512,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -22782,7 +22800,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 293112,
       "name": "\u00c2m Th\u1ea7m B\u00ean Em",
       "url": "https://open.spotify.com/track/2wZAvkgiOE5tyrnqhB69KA"
@@ -22880,7 +22898,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 200000,
       "name": "\u0110i V\u1ec1 Nh\u00e0",
       "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"

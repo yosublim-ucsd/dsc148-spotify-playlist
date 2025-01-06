@@ -4,7 +4,7 @@
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Oscar Ortiz y Los Primos del Este
 
-400 songs - 23 hr 54 min
+401 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Como Decirte Adios](https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5) | 3:27 | 2023-05-01 | 2024-04-19 |
 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 | 2022-04-29 | 2023-05-02 |
 | [Como si no nos amáramos](https://open.spotify.com/track/0xsA8UB6GyQ1xCl3uJ7zeG) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Como si no nos amáramos](https://open.spotify.com/album/1tyKtvkr2cw7HbkU0ec5bW) | 3:11 | 2024-11-22 |  |
-| [COMO TE LLAMAS](https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [COMO TE LLAMAS](https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW) | 2:38 | 2024-05-03 |  |
+| [COMO TE LLAMAS](https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [COMO TE LLAMAS](https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW) | 2:38 | 2024-05-03 | 2025-01-06 |
 | [Conga Y Timbal](https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Conga Y Timbal](https://open.spotify.com/album/5Lzi3hgh55BuQEj1RsD2VO) | 3:39 | 2023-05-01 | 2024-04-19 |
 | [CONTACTO CERO](https://open.spotify.com/track/2KLl3FnpYYmNNTRWIg2nRv) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [CONTACTO CERO](https://open.spotify.com/album/7xjCBEtL7v7AIDN5OUXicZ) | 2:03 | 2024-11-22 |  |
 | [Corazón Adolorido](https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [20 Cumbias Andinas](https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R) | 3:50 | 2023-05-01 |  |
@@ -300,6 +300,7 @@
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2023-05-01 | 2024-05-03 |
 | [Peligrosa y Linda](https://open.spotify.com/track/67H1L34DWG4M0wr4Y0VuNj) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX), [Wilceu Pause](https://open.spotify.com/artist/44Eoyx3pVM83sgqDzyY7sk) | [Peligrosa y Linda](https://open.spotify.com/album/1Ja4Zw46RSoClT3fBjFv3G) | 3:30 | 2024-05-03 |  |
 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 | 2024-06-28 |  |
+| [Periquito](https://open.spotify.com/track/1vqFPo2MG1uAsXLgA2yo02) | [Salo Venegas](https://open.spotify.com/artist/3T3RSeGnajowqGtFhXRqrN) | [Periquito](https://open.spotify.com/album/6DqfYxqqPhpNrOW9PJLK9F) | 3:38 | 2025-01-05 |  |
 | [Pero La Recuerdo](https://open.spotify.com/track/5aTH2uXcAXh36qd4iYzx99) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Los Gigantes De La Cumbia](https://open.spotify.com/album/6X18OZwslOKTDm43TmOF4M) | 4:02 | 2022-01-14 | 2022-11-13 |
 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 | 2023-05-01 | 2023-07-17 |
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-05-03 |  |

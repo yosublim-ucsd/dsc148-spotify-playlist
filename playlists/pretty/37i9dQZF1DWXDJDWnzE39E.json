@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 717920,
+  "num_followers": 718051,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "The Strange Case of...",
-        "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "I Miss the Misery",
-      "url": "https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 276200,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "The Strange Case of...",
+        "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "I Miss the Misery",
+      "url": "https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
+        "name": "The Open Door",
+        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Call Me When You're Sober",
+      "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
         "name": "BIRTH OF VENUS",
         "url": "https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 290946,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
-        "name": "The Open Door",
-        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Call Me When You're Sober",
-      "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4e8HF8QcD4HlfgRT6TGDlO"
+      "duration_ms": 327333,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/1TU3KOnNwSERgNbF2Yzl7N"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -303,34 +303,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "The Phantom Agony (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
       "artists": [
         {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 289306,
-      "name": "Sensorium",
-      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
-        "name": "I Disagree",
-        "url": "https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 193499,
-      "name": "I Disagree",
-      "url": "https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ"
+      "duration_ms": 177600,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4e8HF8QcD4HlfgRT6TGDlO"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -351,18 +335,34 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        "name": "I Disagree",
+        "url": "https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 327333,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/1TU3KOnNwSERgNbF2Yzl7N"
+      "duration_ms": 193499,
+      "name": "I Disagree",
+      "url": "https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "The Phantom Agony (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Sensorium",
+      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
         "name": "MUD",
         "url": "https://open.spotify.com/album/2n5Xis2doysiKlNtSoY6ZV"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Spit",
-        "url": "https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 150440,
-      "name": "Spit",
-      "url": "https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Spit.",
         "url": "https://open.spotify.com/album/4N8vRR39A9ttCbAVW5Gztx"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Metal Resistance",
-        "url": "https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 263773,
-      "name": "Karate",
-      "url": "https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Comalies",
         "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 286533,
       "name": "Heaven's a Lie",
       "url": "https://open.spotify.com/track/0I7y3aEavUHgkt4aCreBDa"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Metal Resistance",
+        "url": "https://open.spotify.com/album/2Xzz2rVZIwoJr1S3btHPho"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 263773,
+      "name": "Karate",
+      "url": "https://open.spotify.com/track/4H3FpMCBuyUfYjyxeaCeC3"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Cry (feat. Grimes)",
         "url": "https://open.spotify.com/album/0osHesMrCdavp471L78uwu"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
       "artists": [
         {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Antagonist",
-      "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -719,6 +703,22 @@
       "duration_ms": 192919,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Antagonist",
+      "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
+        "name": "Sonic Jihad",
+        "url": "https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq"
+      },
+      "artists": [
+        {
+          "name": "Snake River Conspiracy",
+          "url": "https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
         "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
         "url": "https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 148500,
       "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
       "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
-        "name": "Sonic Jihad",
-        "url": "https://open.spotify.com/album/393lg8s4V5bOSXosvsNANq"
-      },
-      "artists": [
-        {
-          "name": "Snake River Conspiracy",
-          "url": "https://open.spotify.com/artist/4D9z4fup1x9lkmrPTOWw8A"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/4seT68ahatRnkpnlkADLWy"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 147664,
-      "name": "Play The Greatest Hits",
-      "url": "https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Deceiver, Deceiver",
         "url": "https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 231773,
       "name": "Deceiver, Deceiver",
       "url": "https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 147664,
+      "name": "Play The Greatest Hits",
+      "url": "https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Sunset over the Empire",
-        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
         }
       ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Sleeping with the Enemy",
-        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 212927,
-      "name": "Sleeping with the Enemy",
-      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "FYB",
         "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
       },
@@ -1243,6 +1211,22 @@
       "duration_ms": 106331,
       "name": "FYB",
       "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Sunset over the Empire",
+        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1263,6 +1247,22 @@
       "duration_ms": 270214,
       "name": "And So It Went (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/03Szk0skbXqllHkNCVZI9p"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Sleeping with the Enemy",
+        "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        }
+      ],
+      "duration_ms": 212927,
+      "name": "Sleeping with the Enemy",
+      "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
     },
     {
       "added_at": "2024-07-19 14:26:43",

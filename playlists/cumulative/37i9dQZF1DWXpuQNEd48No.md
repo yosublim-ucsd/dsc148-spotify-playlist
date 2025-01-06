@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXpuQNEd48No.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXpuQNEd48No) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXpuQNEd48No)
 
-### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
+### [Rap91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-327 songs - 16 hr 52 min
+328 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Jhotte](https://open.spotify.com/track/5AbkBdjwjALBd3h4rNgJeX) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Jhotte](https://open.spotify.com/album/0UCnUqid4KKnDXIlpwyy4U) | 3:37 | 2023-03-28 | 2024-08-13 |
 | [Jigre](https://open.spotify.com/track/2GJKwk6Npj65gaKyrqTbxL) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Jigre](https://open.spotify.com/album/1ZBZS8SEkciA40OwXKRJ7d) | 3:52 | 2023-12-18 |  |
 | [Jija](https://open.spotify.com/track/2LVEdZetab21aTPOHPMEoD) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Jija](https://open.spotify.com/album/2HUBhHvHWs9W4D875rv7Th) | 2:38 | 2024-04-09 |  |
-| [Jijaa](https://open.spotify.com/track/03Yc0hbeAZxyMEP6KItfUs) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Jijaa](https://open.spotify.com/album/2o0uMjKc7zQqW1Uzrc3HHB) | 2:48 | 2024-12-05 |  |
+| [Jijaa](https://open.spotify.com/track/03Yc0hbeAZxyMEP6KItfUs) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Jijaa](https://open.spotify.com/album/2o0uMjKc7zQqW1Uzrc3HHB) | 2:48 | 2024-12-05 | 2025-01-06 |
 | [Kaal](https://open.spotify.com/track/2yhtMM4qhk145z3U9SnUfX) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Kaal](https://open.spotify.com/album/7ivhVNZTF2KKZl1ZvjU7GT) | 4:15 | 2024-04-09 | 2024-04-29 |
 | [Kaand](https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa) | [Kaand](https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs) | 3:06 | 2023-09-27 |  |
 | [Kakori Kaand \- Red Bull 64 Bars](https://open.spotify.com/track/4mjXv3zHXqj1K9eYmT008b) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Kakori Kaand \(Red Bull 64 Bars\)](https://open.spotify.com/album/4rB2c6zsOWgxr3Fslrw2cG) | 2:55 | 2024-12-17 |  |
@@ -312,6 +312,7 @@
 | [Tell Me Who?](https://open.spotify.com/track/16ArpcNGoQE6ZN4YochJd4) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Tell Me Who?](https://open.spotify.com/album/17RZZWoh6BOD2Dav0mRbi3) | 3:30 | 2024-08-12 | 2024-08-31 |
 | [Tera Palla Latke](https://open.spotify.com/track/2DSdPwYAH97elUhD58bUOp) | [Mintu Bhardwaj](https://open.spotify.com/artist/3cZMCslaxeiYoXwRzTaTaR), [RB Gujjar](https://open.spotify.com/artist/2scdOxmJM6OYHj16gjaEl0) | [Tera Palla Latke](https://open.spotify.com/album/4qVs4MTsk6p21jEKLKZuED) | 4:37 | 2024-09-17 | 2024-10-01 |
 | [Tera Shahar](https://open.spotify.com/track/2Ve3umbXJFvaACYqqOzGz5) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [21.22](https://open.spotify.com/album/35h1PeLLCEpMfZ0O7qFTvM) | 3:00 | 2024-02-16 | 2024-02-21 |
+| [Thappi](https://open.spotify.com/track/4Bxtass6sSfqj0My1Coswh) | [Vikram Malik](https://open.spotify.com/artist/05mkBonlxw525IElRofCpI) | [Thappi](https://open.spotify.com/album/2kugOdODrnlqL0rMs7mo7S) | 2:24 | 2025-01-05 |  |
 | [The Haryanvi Mashup 13](https://open.spotify.com/track/58RrIwnTYX6uKBj53ght8Q) | [Lokesh Gurjar](https://open.spotify.com/artist/6N9B1KW4wRl02vWTdSlwjE), [Gurmeet Bhadana](https://open.spotify.com/artist/58K23kT7FusjF4OBXzb5NI), [Desi King](https://open.spotify.com/artist/3Ip2KXe1kSAIpNd0q2aykb), [Baba Bhairupia](https://open.spotify.com/artist/45dDwb9r8jbiKt5j09ZB1V), [Totaram Sondhiya](https://open.spotify.com/artist/1xUgYsuIwMzWa2BFf8U9UX), [Priyanka Nagar](https://open.spotify.com/artist/7rdtBsOUkb4pictjWwQ0QA) | [The Haryanvi Mashup 13](https://open.spotify.com/album/17Pb3XoGyK6du7RkdEoGbi) | 6:11 | 2023-03-28 | 2023-08-31 |
 | [The Man](https://open.spotify.com/track/3K0egsuQ6XWbF7FFB4wwJ9) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [WARTIME](https://open.spotify.com/album/4gsRmTAbP7Sj6pvnNDS7gW) | 2:40 | 2024-11-06 | 2024-11-15 |
 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 | 2023-07-24 |  |

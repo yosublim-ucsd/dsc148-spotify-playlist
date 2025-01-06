@@ -1,6 +1,6 @@
 {
   "description": "The biggest rock artists in Japan right now!  Cover: Ichika Nito",
-  "num_followers": 291911,
+  "num_followers": 291936,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 193990,
-      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
-      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -739,18 +739,34 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "Delusion:All",
-        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
+        "name": "\u7d76\u4f53\u7d76\u547d",
+        "url": "https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         }
       ],
-      "duration_ms": 184909,
-      "name": "Delusion:All",
-      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
+      "duration_ms": 162280,
+      "name": "\u541b\u3068\u7f8a\u3068\u9752",
+      "url": "https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 207368,
+      "name": "\u3068\u3082\u306b",
+      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -767,22 +783,6 @@
       "duration_ms": 251333,
       "name": "I'm a mess",
       "url": "https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
-        "name": "\u7d76\u4f53\u7d76\u547d",
-        "url": "https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 162280,
-      "name": "\u541b\u3068\u7f8a\u3068\u9752",
-      "url": "https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z"
       },
       "artists": [
         {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 207368,
-      "name": "\u3068\u3082\u306b",
-      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
+      "duration_ms": 193990,
+      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 219530,
+      "name": "\u30b7\u30b0\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
         "name": "Bu-ikikaesu",
         "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 209777,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 219530,
-      "name": "\u30b7\u30b0\u30ca\u30eb",
-      "url": "https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1079,34 +1079,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
-        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
       },
       "artists": [
         {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
         }
       ],
-      "duration_ms": 253413,
-      "name": "\u7a81\u7834\u53e3",
-      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
-        "name": "Teenage Blue",
-        "url": "https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 225644,
-      "name": "Teenage Blue",
-      "url": "https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE"
+      "duration_ms": 169697,
+      "name": "\u3084\u3063\u3066\u307f\u3088\u3046",
+      "url": "https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1127,34 +1111,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "Everybody!!",
-        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
       },
       "artists": [
         {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
         }
       ],
-      "duration_ms": 169697,
-      "name": "\u3084\u3063\u3066\u307f\u3088\u3046",
-      "url": "https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
-        "name": "FIXION",
-        "url": "https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "\u72c2\u4e71 Hey Kids!!",
-      "url": "https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk"
+      "duration_ms": 253413,
+      "name": "\u7a81\u7834\u53e3",
+      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1171,6 +1139,38 @@
       "duration_ms": 324767,
       "name": "\u9752\u306e\u6714\u65e5",
       "url": "https://open.spotify.com/track/4juomwTgjpVtOKLaiSsJKS"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "Teenage Blue",
+        "url": "https://open.spotify.com/album/3gM1zCIe4OEvLZRms1x1GF"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 225644,
+      "name": "Teenage Blue",
+      "url": "https://open.spotify.com/track/4Fm8ggLr1zXelWShFbqiZE"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "FIXION",
+        "url": "https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "\u72c2\u4e71 Hey Kids!!",
+      "url": "https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "DocumentaLy",
-        "url": "https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 246759,
-      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
         "name": "\u5fd8\u30ec\u30ca\u5504",
         "url": "https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 176406,
       "name": "\u5fd8\u30ec\u30ca\u5504",
       "url": "https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "DocumentaLy",
+        "url": "https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 246759,
+      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "Bu-ikikaesu",
-        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
-      },
-      "artists": [
-        {
-          "name": "MAXIMUM THE HORMONE",
-          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "Zetsubou Billy",
-      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
         "name": "Magic Number",
         "url": "https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 199826,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "Bu-ikikaesu",
+        "url": "https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K"
+      },
+      "artists": [
+        {
+          "name": "MAXIMUM THE HORMONE",
+          "url": "https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Zetsubou Billy",
+      "url": "https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
-        "url": "https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
-      "url": "https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO"
-    },
-    {
-      "added_at": "2024-12-24 15:00:30",
-      "album": {
         "name": "todayyyyy",
         "url": "https://open.spotify.com/album/7Fnokrva48vBdYrFOMXO7c"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 252385,
       "name": "Re\u65b9\u7a0b\u5f0f",
       "url": "https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH"
+    },
+    {
+      "added_at": "2024-12-24 15:00:30",
+      "album": {
+        "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
+        "url": "https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
+      "url": "https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO"
     },
     {
       "added_at": "2024-12-24 15:00:30",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-12-24 15:00:30",
       "album": {
-        "name": "\u5fc3\u5909\u308f\u308a",
-        "url": "https://open.spotify.com/album/6TCrimUaueZD1u6QVlWHX3"
+        "name": "The End of Yesterday",
+        "url": "https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9"
       },
       "artists": [
         {
-          "name": "indigo la End",
-          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
         }
       ],
-      "duration_ms": 223657,
-      "name": "\u5fc3\u5909\u308f\u308a",
-      "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
+      "duration_ms": 214213,
+      "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
     }
   ],
   "unique_name": "Big in Japan",

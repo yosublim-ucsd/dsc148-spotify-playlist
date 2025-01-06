@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,383 likes - 116 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,385 likes - 116 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 42 | [Second Guessing \- From Songland](https://open.spotify.com/track/08IV5RiD02METcqtfzDeqj) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:07 |
 | 43 | [Greenlight \- From "Songland"](https://open.spotify.com/track/5HgbcQFIHjNcn46w8ORwhu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greenlight \(From "Songland"\)](https://open.spotify.com/album/3RRyP3NlMJOrPGxjrRfK5l) | 3:00 |
 | 44 | [Lost In Paradise](https://open.spotify.com/track/0coJqb1j6Ym9OMz2i2MuyC) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:35 |
-| 45 | [Farewell](https://open.spotify.com/track/7dBwdlk3s6BSEtm2GuijHO) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 4:16 |
-| 46 | [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4yb2x8ZxKSszH0TX4rJI8M) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:42 |
+| 45 | [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4yb2x8ZxKSszH0TX4rJI8M) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:42 |
+| 46 | [Farewell](https://open.spotify.com/track/7dBwdlk3s6BSEtm2GuijHO) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 4:16 |
 | 47 | [I Love You This Big](https://open.spotify.com/track/3wtKovRRtvu6wbTjeKA26Q) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 4:06 |
 | 48 | [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 |
 | 49 | [She Lovin It](https://open.spotify.com/track/1jQjQZXwyPfwimdPRMm7MB) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Tremaine the Album](https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C) | 3:09 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 115 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 116 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `Abl/1AAAAABpG4e14bzW/l/nq9hVMZqf`
+Snapshot ID: `AbmFdAAAAABwGYUIHgpfnE30Qv89Pyc6`

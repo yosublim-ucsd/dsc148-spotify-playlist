@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 345498,
+  "num_followers": 345549,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "mainstream sellout (life in pink deluxe)",
-        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 174991,
-      "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
-      "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 181893,
       "name": "The Messenger",
       "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "mainstream sellout (life in pink deluxe)",
+        "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 174991,
+      "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
+      "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Hard To Be Alone",
+        "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Hard To Be Alone",
+      "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Muscle Museum",
         "url": "https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Hard To Be Alone",
-        "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Hard To Be Alone",
-      "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Dallas Buyers Club (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/5Eq7NDVWgHCPnkLloTg36m"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "blindfolded (acoustic)",
-        "url": "https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 204563,
-      "name": "blindfolded (acoustic)",
-      "url": "https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
         "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 231653,
       "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
       "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "blindfolded (acoustic)",
+        "url": "https://open.spotify.com/album/4yReYM4NUqCJS1jJBme8bW"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 204563,
+      "name": "blindfolded (acoustic)",
+      "url": "https://open.spotify.com/track/1FEcTIxhkqJAE1RlHnpRO7"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Soul Revolution: ACOUSTIC VIBES",
-        "url": "https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu"
-      },
-      "artists": [
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 249274,
-      "name": "Be Free - Acoustic",
-      "url": "https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Never Said Goodbye (Stripped)",
         "url": "https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 202000,
       "name": "Never Said Goodbye - Stripped",
       "url": "https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Soul Revolution: ACOUSTIC VIBES",
+        "url": "https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu"
+      },
+      "artists": [
+        {
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+        }
+      ],
+      "duration_ms": 249274,
+      "name": "Be Free - Acoustic",
+      "url": "https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi"
     },
     {
       "added_at": "2024-07-05 19:40:49",

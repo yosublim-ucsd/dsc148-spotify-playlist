@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 122003,
+  "num_followers": 122033,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -139,70 +139,6 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Sentimiento y Estilo",
-        "url": "https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs"
-      },
-      "artists": [
-        {
-          "name": "La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
-        }
-      ],
-      "duration_ms": 209962,
-      "name": "Ya No Te Buscar\u00e9",
-      "url": "https://open.spotify.com/track/4A8c2GJnvpq9DIy85VW24v"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
-        "name": "PARTIDO EN DOS",
-        "url": "https://open.spotify.com/album/3Lpl5qOMQqiO4mN9TNT6Fg"
-      },
-      "artists": [
-        {
-          "name": "La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
-        }
-      ],
-      "duration_ms": 217250,
-      "name": "PARTIDO EN DOS",
-      "url": "https://open.spotify.com/track/7sPqCI54XxKNaOoGooaeCp"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
-        "name": "Primicias y \u00c9xitos",
-        "url": "https://open.spotify.com/album/5pzyQ9Ytd01DXdhZUCmgQ2"
-      },
-      "artists": [
-        {
-          "name": "Armonia 10",
-          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
-        }
-      ],
-      "duration_ms": 121339,
-      "name": "Serpiente",
-      "url": "https://open.spotify.com/track/2OXYYCVlDZfiVtktj00ul5"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx"
-      },
-      "artists": [
-        {
-          "name": "Orquesta La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Cual Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5bivFU6gebehzoGKdslN3F"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
         "name": "Mi Princesa, Vol. 3",
         "url": "https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG"
       },
@@ -219,22 +155,18 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Noche de Oro (En Vivo)",
-        "url": "https://open.spotify.com/album/639y9TFplTFnb6WeqB4c9d"
+        "name": "PARTIDO EN DOS",
+        "url": "https://open.spotify.com/album/3Lpl5qOMQqiO4mN9TNT6Fg"
       },
       "artists": [
         {
-          "name": "Grupo 5",
-          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
-        },
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
         }
       ],
-      "duration_ms": 226877,
-      "name": "Amor Vuelve - (En Vivo)",
-      "url": "https://open.spotify.com/track/29QkpKsdxiChq3xsmu5VDG"
+      "duration_ms": 217250,
+      "name": "PARTIDO EN DOS",
+      "url": "https://open.spotify.com/track/7sPqCI54XxKNaOoGooaeCp"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -264,9 +196,45 @@
           "url": "https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK"
         }
       ],
-      "duration_ms": 224104,
-      "name": "Si Esta Casa Hablara",
-      "url": "https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3"
+      "duration_ms": 205714,
+      "name": "Cual Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5bivFU6gebehzoGKdslN3F"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
+        "name": "Primicias y \u00c9xitos",
+        "url": "https://open.spotify.com/album/5pzyQ9Ytd01DXdhZUCmgQ2"
+      },
+      "artists": [
+        {
+          "name": "Armonia 10",
+          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
+        }
+      ],
+      "duration_ms": 121339,
+      "name": "Serpiente",
+      "url": "https://open.spotify.com/track/2OXYYCVlDZfiVtktj00ul5"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
+        "name": "Noche de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/639y9TFplTFnb6WeqB4c9d"
+      },
+      "artists": [
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 226877,
+      "name": "Amor Vuelve - (En Vivo)",
+      "url": "https://open.spotify.com/track/29QkpKsdxiChq3xsmu5VDG"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -287,18 +255,18 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Vol.11 Tu amor fu\u00e9 una mentira",
-        "url": "https://open.spotify.com/album/01MVw4qCCfafHo3k894gHT"
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx"
       },
       "artists": [
         {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+          "name": "Orquesta La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK"
         }
       ],
-      "duration_ms": 216866,
-      "name": "Tu amor fue una mentira",
-      "url": "https://open.spotify.com/track/62JXVPey9QjeB8mxAQDLLu"
+      "duration_ms": 224104,
+      "name": "Si Esta Casa Hablara",
+      "url": "https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -319,18 +287,18 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "Sentimiento y Estilo",
-        "url": "https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs"
+        "name": "Vol.11 Tu amor fu\u00e9 una mentira",
+        "url": "https://open.spotify.com/album/01MVw4qCCfafHo3k894gHT"
       },
       "artists": [
         {
-          "name": "La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
         }
       ],
-      "duration_ms": 196265,
-      "name": "Asesina de Amor",
-      "url": "https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m"
+      "duration_ms": 216866,
+      "name": "Tu amor fue una mentira",
+      "url": "https://open.spotify.com/track/62JXVPey9QjeB8mxAQDLLu"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -347,6 +315,22 @@
       "duration_ms": 208080,
       "name": "Llorando Se Fue \"Lambada\"",
       "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
+        "name": "Sentimiento y Estilo",
+        "url": "https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs"
+      },
+      "artists": [
+        {
+          "name": "La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
+        }
+      ],
+      "duration_ms": 209962,
+      "name": "Ya No Te Buscar\u00e9",
+      "url": "https://open.spotify.com/track/4A8c2GJnvpq9DIy85VW24v"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -451,6 +435,22 @@
       "duration_ms": 191085,
       "name": "Si Saben Como Me Pongo Pa Que Me Invitan",
       "url": "https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
+        "name": "Sentimiento y Estilo",
+        "url": "https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs"
+      },
+      "artists": [
+        {
+          "name": "La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
+        }
+      ],
+      "duration_ms": 196265,
+      "name": "Asesina de Amor",
+      "url": "https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
+        "name": "Cerveza",
+        "url": "https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez"
+      },
+      "artists": [
+        {
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        }
+      ],
+      "duration_ms": 189730,
+      "name": "Cerveza",
+      "url": "https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
         "name": "Julio Jaramillo",
         "url": "https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 143250,
       "name": "Julio Jaramillo",
       "url": "https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
-        "name": "Cerveza",
-        "url": "https://open.spotify.com/album/2lpuYOEhZG1vqeNgYHdxez"
-      },
-      "artists": [
-        {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
-        }
-      ],
-      "duration_ms": 189730,
-      "name": "Cerveza",
-      "url": "https://open.spotify.com/track/33ek6CHUmrNH33hfYlUl7B"
     },
     {
       "added_at": "2024-12-05 22:29:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-05 22:29:07",
       "album": {
-        "name": "\u00c1mame Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G"
-      },
-      "artists": [
-        {
-          "name": "El Encanto De Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2"
-        }
-      ],
-      "duration_ms": 256255,
-      "name": "Loco Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs"
-    },
-    {
-      "added_at": "2024-12-05 22:29:07",
-      "album": {
         "name": "Nuestros 30 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/7uWi6ggwuyvGPmUn5QIKB1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 336683,
       "name": "Tu Ausencia - En Vivo",
       "url": "https://open.spotify.com/track/4Vy8gFPwZHuR35cwlYNoSE"
+    },
+    {
+      "added_at": "2024-12-05 22:29:07",
+      "album": {
+        "name": "\u00c1mame Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G"
+      },
+      "artists": [
+        {
+          "name": "El Encanto De Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2"
+        }
+      ],
+      "duration_ms": 256255,
+      "name": "Loco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs"
     },
     {
       "added_at": "2024-12-05 22:29:07",

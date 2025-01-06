@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Javier Blake en portada.",
-  "num_followers": 32344,
+  "num_followers": 32354,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -211,38 +211,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Todo cambia",
         "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
       },
@@ -255,6 +223,22 @@
       "duration_ms": 210127,
       "name": "Todo cambia",
       "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -295,6 +279,22 @@
       "duration_ms": 210970,
       "name": "Que nadie me llore",
       "url": "https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Los de Siempre",
-        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Los de Siempre",
-      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Miel de Azar",
         "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 192197,
       "name": "Como Queremos",
       "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Los de Siempre",
+        "url": "https://open.spotify.com/album/0ZTXk5KOlu9XtJ2XUdW9IP"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Los de Siempre",
+      "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "No lo Entiendo",
-        "url": "https://open.spotify.com/album/7CvTYtmwM9m59TP0Fn1jLG"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 210449,
-      "name": "No lo Entiendo",
-      "url": "https://open.spotify.com/track/0K859Tz6Fu6TkuSWl4Rm5r"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 264749,
       "name": "Amanecidos",
       "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "No lo Entiendo",
+        "url": "https://open.spotify.com/album/7CvTYtmwM9m59TP0Fn1jLG"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 210449,
+      "name": "No lo Entiendo",
+      "url": "https://open.spotify.com/track/0K859Tz6Fu6TkuSWl4Rm5r"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "\u00daltimo D\u00eda",
-      "url": "https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "7 Secretos",
         "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 191107,
       "name": "Dame Love - Remix",
       "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "\u00daltimo D\u00eda",
+      "url": "https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Elemento Noches De Sal\u00f3n",
-        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 223990,
-      "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
-      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Marta tiene un marcapasos",
         "url": "https://open.spotify.com/album/3MMHQ8sRJO9QW6znUhgQBW"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 178535,
       "name": "Marta tiene un marcapasos",
       "url": "https://open.spotify.com/track/7shspTz6FNQstsNXsKPiGe"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Elemento Noches De Sal\u00f3n",
+        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 223990,
+      "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Tesis",
-        "url": "https://open.spotify.com/album/6sT7h11fZe8KYvvhQ1ZSDg"
+        "name": "Clich\u00e9s",
+        "url": "https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Tesis",
-      "url": "https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23"
+      "duration_ms": 198133,
+      "name": "Clich\u00e9s",
+      "url": "https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Clich\u00e9s",
-        "url": "https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc"
+        "name": "Tesis",
+        "url": "https://open.spotify.com/album/6sT7h11fZe8KYvvhQ1ZSDg"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Clich\u00e9s",
-      "url": "https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX"
+      "duration_ms": 260760,
+      "name": "Tesis",
+      "url": "https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Pienso En Vos",
-        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Pienso En Vos",
-      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+        "name": "Pienso En Vos",
+        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+      "duration_ms": 146000,
+      "name": "Pienso En Vos",
+      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
         "name": "Rey Ahogado",
         "url": "https://open.spotify.com/album/5KHUN8igWIO1NCCJug8gNJ"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 245586,
       "name": "Rey Ahogado",
       "url": "https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193360,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
     },
     {
       "added_at": "2025-01-03 06:00:20",

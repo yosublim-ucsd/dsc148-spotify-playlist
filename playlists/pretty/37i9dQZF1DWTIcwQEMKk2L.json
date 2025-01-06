@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 69955,
+  "num_followers": 69961,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Deck the Halls ~ Solo Piano Christmas",
-        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
-      },
-      "artists": [
-        {
-          "name": "Brad Jacobsen",
-          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "In Love In Vain",
         "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+      },
+      "artists": [
+        {
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
         "name": "The Secret Piano",
         "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
-        }
-      ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "I'll Take Romance",
         "url": "https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 189923,
       "name": "I'll Take Romance",
       "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
+        }
+      ],
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
-      },
-      "artists": [
-        {
-          "name": "Brandon Mills",
-          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
-        }
-      ],
-      "duration_ms": 179810,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Sagittabondo",
         "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 133500,
       "name": "Sagittabondo",
       "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
+      },
+      "artists": [
+        {
+          "name": "Brandon Mills",
+          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
+        }
+      ],
+      "duration_ms": 179810,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "In The Stillness",
-        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
-      },
-      "artists": [
-        {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
-        }
-      ],
-      "duration_ms": 184389,
-      "name": "Grounded Mind",
-      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Stella's lullaby",
         "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 145874,
       "name": "Stella's lullaby",
       "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "In The Stillness",
+        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
+      },
+      "artists": [
+        {
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+        }
+      ],
+      "duration_ms": 184389,
+      "name": "Grounded Mind",
+      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1271,38 +1271,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Sleepy Mountains",
-        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
-      },
-      "artists": [
-        {
-          "name": "Charlie Key",
-          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
-        }
-      ],
-      "duration_ms": 224741,
-      "name": "Evening Message",
-      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
-        "name": "Sand Time",
-        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
-      },
-      "artists": [
-        {
-          "name": "Emil Negri",
-          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
-        }
-      ],
-      "duration_ms": 178585,
-      "name": "Sand Time",
-      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -1315,6 +1283,22 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Sleepy Mountains",
+        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
+      },
+      "artists": [
+        {
+          "name": "Charlie Key",
+          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
+        }
+      ],
+      "duration_ms": 224741,
+      "name": "Evening Message",
+      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1335,6 +1319,22 @@
       "duration_ms": 125133,
       "name": "13 Pieces, Op. 76: No. 10 Elegiaco",
       "url": "https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Sand Time",
+        "url": "https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B"
+      },
+      "artists": [
+        {
+          "name": "Emil Negri",
+          "url": "https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6"
+        }
+      ],
+      "duration_ms": 178585,
+      "name": "Sand Time",
+      "url": "https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "See you in the morning",
-        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See you in the morning",
-      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
+        "name": "See you in the morning",
+        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "See you in the morning",
+      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
         "name": "Avenues",
         "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 139663,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2024-12-23 02:16:21",
       "album": {
-        "name": "Paragon",
-        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Pascoal",
-          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Paragon",
-      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
         "name": "I See the Light - From \"Tangled\"",
         "url": "https://open.spotify.com/album/5dcUAPK0jMufmUiKT5oJW0"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 200812,
       "name": "I See the Light - From \"Tangled\"",
       "url": "https://open.spotify.com/track/5aKL7u6Xo3oonSggaHlr7K"
+    },
+    {
+      "added_at": "2024-12-23 02:16:21",
+      "album": {
+        "name": "Paragon",
+        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Pascoal",
+          "url": "https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Paragon",
+      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
     },
     {
       "added_at": "2024-12-23 02:16:21",
@@ -1575,22 +1591,6 @@
       "duration_ms": 179000,
       "name": "\u00c8 ora di dormire",
       "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
-    },
-    {
-      "added_at": "2024-12-23 02:16:21",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
-      },
-      "artists": [
-        {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
-        }
-      ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2024-12-23 02:16:21",

@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1396522,
+  "num_followers": 1396962,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -135,26 +135,6 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Luv(sic.) pt3 (feat. Shing02)",
-      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
-    },
-    {
-      "added_at": "2025-01-03 23:18:30",
-      "album": {
         "name": "Summer Drop (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
       },
@@ -171,26 +151,6 @@
       "duration_ms": 168573,
       "name": "Summer Drop (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
-    },
-    {
-      "added_at": "2025-01-03 23:18:30",
-      "album": {
-        "name": "Acaecer",
-        "url": "https://open.spotify.com/album/3PRvbNxj1nyt2n71V06qTo"
-      },
-      "artists": [
-        {
-          "name": "La Brigida Orquesta",
-          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Acaecer",
-      "url": "https://open.spotify.com/track/0TXJsbQDxbUlsjsk2FttAb"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -219,18 +179,22 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+        "name": "Acaecer",
+        "url": "https://open.spotify.com/album/3PRvbNxj1nyt2n71V06qTo"
       },
       "artists": [
         {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+          "name": "La Brigida Orquesta",
+          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 183269,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+      "duration_ms": 224906,
+      "name": "Acaecer",
+      "url": "https://open.spotify.com/track/0TXJsbQDxbUlsjsk2FttAb"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -247,6 +211,42 @@
       "duration_ms": 275342,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+    },
+    {
+      "added_at": "2025-01-03 23:18:30",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+    },
+    {
+      "added_at": "2025-01-03 23:18:30",
+      "album": {
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Luv(sic.) pt3 (feat. Shing02)",
+      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -379,6 +379,42 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
+        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
+    },
+    {
+      "added_at": "2025-01-03 23:18:30",
+      "album": {
+        "name": "IN LOVING MEMORY+",
+        "url": "https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "GREY SKIES",
+      "url": "https://open.spotify.com/track/0DNdegnDivB7c0PfXlzTX3"
+    },
+    {
+      "added_at": "2025-01-03 23:18:30",
+      "album": {
         "name": "Metaphorical Music",
         "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
       },
@@ -403,18 +439,22 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "IN LOVING MEMORY+",
-        "url": "https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/6E5Xxv3BekgDEtPhiGhQoM"
       },
       "artists": [
         {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 158117,
-      "name": "GREY SKIES",
-      "url": "https://open.spotify.com/track/0DNdegnDivB7c0PfXlzTX3"
+      "duration_ms": 139867,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/6CEJ0mhZO62EdNo5YvycXG"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -443,46 +483,6 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/6E5Xxv3BekgDEtPhiGhQoM"
-      },
-      "artists": [
-        {
-          "name": "Jimmie D",
-          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 139867,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/6CEJ0mhZO62EdNo5YvycXG"
-    },
-    {
-      "added_at": "2025-01-03 23:18:30",
-      "album": {
-        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
-    },
-    {
-      "added_at": "2025-01-03 23:18:30",
-      "album": {
         "name": "The Actual Proof",
         "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
       },
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
-    },
-    {
-      "added_at": "2025-01-03 23:18:30",
-      "album": {
         "name": "You're the Only One Watching",
         "url": "https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 127000,
       "name": "You're the Only One Watching",
       "url": "https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq"
+    },
+    {
+      "added_at": "2025-01-03 23:18:30",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
-    },
-    {
-      "added_at": "2025-01-03 23:18:30",
-      "album": {
         "name": "GREEN LIGHT",
         "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2025-01-03 23:18:30",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "Escape Music",
-        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
       },
       "artists": [
         {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 223772,
-      "name": "Got Me Thinkin' (feat. Sparkz)",
-      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
+      "duration_ms": 190116,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -1075,22 +1071,6 @@
       "duration_ms": 178554,
       "name": "aslongas",
       "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
-    },
-    {
-      "added_at": "2025-01-03 23:18:30",
-      "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 190116,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -1151,6 +1131,26 @@
       "duration_ms": 213566,
       "name": "3:AM (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
+    },
+    {
+      "added_at": "2025-01-03 23:18:30",
+      "album": {
+        "name": "Escape Music",
+        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 223772,
+      "name": "Got Me Thinkin' (feat. Sparkz)",
+      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+      },
+      "artists": [
+        {
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2025-01-03 23:18:30",
+      "album": {
         "name": "New Day (feat. Illa J)",
         "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 145051,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
-    },
-    {
-      "added_at": "2025-01-03 23:18:30",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
-      },
-      "artists": [
-        {
-          "name": "freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
-        }
-      ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "They Ain't Want Us",
-        "url": "https://open.spotify.com/album/435MUSLZrcdgYWmdppSpXg"
-      },
-      "artists": [
-        {
-          "name": "Wakai",
-          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
-        },
-        {
-          "name": "Samant",
-          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
-        }
-      ],
-      "duration_ms": 222027,
-      "name": "PARADIGM",
-      "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"
-    },
-    {
-      "added_at": "2025-01-03 23:18:30",
-      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -1815,22 +1795,22 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "Protea",
-        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+        "name": "They Ain't Want Us",
+        "url": "https://open.spotify.com/album/435MUSLZrcdgYWmdppSpXg"
       },
       "artists": [
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
         },
         {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
         }
       ],
-      "duration_ms": 200775,
-      "name": "Super Rare",
-      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
+      "duration_ms": 222027,
+      "name": "PARADIGM",
+      "url": "https://open.spotify.com/track/0nwo2syHpAMtqTC2vnq2u1"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -1855,6 +1835,26 @@
       "duration_ms": 334374,
       "name": "Tulips",
       "url": "https://open.spotify.com/track/43nvSCEaxW5t26KEbDfmvg"
+    },
+    {
+      "added_at": "2025-01-03 23:18:30",
+      "album": {
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 200775,
+      "name": "Super Rare",
+      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
     },
     {
       "added_at": "2025-01-03 23:18:30",
@@ -1975,22 +1975,22 @@
     {
       "added_at": "2025-01-03 23:18:30",
       "album": {
-        "name": "Premium",
-        "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
+        "name": "Still Not In Space",
+        "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
       },
       "artists": [
         {
-          "name": "Padre T\u00f3xico",
-          "url": "https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ"
+          "name": "wnbl",
+          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
         },
         {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+          "name": "Mike Nasa",
+          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Premium",
-      "url": "https://open.spotify.com/track/4d2VRSpCPthFd4UUZdRVTf"
+      "duration_ms": 176149,
+      "name": "Still Not In Space",
+      "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
     }
   ],
   "unique_name": "Jazz Rap",

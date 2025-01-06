@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,000 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,047 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [Favela Vive 2](https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Favela Vive 2](https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3) | 7:02 |
 | 50 | [ROMPEU O COURO.](https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv) | [Assim Tocam os MEUS TAMBORES](https://open.spotify.com/album/0iU74EJRxkNbobROM1bKiP) | 4:30 |
 
-Snapshot ID: `Z3cogAAAAAAkRSf5YQHDwimgTwKjhs71`
+Snapshot ID: `Z3h6AAAAAACYt6udaF0zl9s06wcMXBor`

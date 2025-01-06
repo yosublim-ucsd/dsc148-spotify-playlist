@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 87537,
+  "num_followers": 87540,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "Glue Song (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
-    },
-    {
-      "added_at": "2024-12-17 15:18:21",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 180000,
       "name": "Cool About It",
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
+    },
+    {
+      "added_at": "2024-12-17 15:18:21",
+      "album": {
+        "name": "Glue Song (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
     },
     {
       "added_at": "2024-12-17 15:18:21",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
-      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
-    },
-    {
-      "added_at": "2024-12-17 15:18:21",
-      "album": {
         "name": "Thrill of the Arts",
         "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 227663,
       "name": "Do You Like Me?",
       "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
+    },
+    {
+      "added_at": "2024-12-17 15:18:21",
+      "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
     },
     {
       "added_at": "2024-12-17 15:18:21",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "we",
-        "url": "https://open.spotify.com/album/2UqlRqWxfYnlQFEgNoot7v"
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
       "artists": [
         {
-          "name": "gnash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
         }
       ],
-      "duration_ms": 197216,
-      "name": "imagine if",
-      "url": "https://open.spotify.com/track/7nDdxPUC5LbxmspeqkOzt8"
+      "duration_ms": 243213,
+      "name": "Like A Star",
+      "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
     },
     {
       "added_at": "2024-12-17 15:18:21",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+        "name": "we",
+        "url": "https://open.spotify.com/album/2UqlRqWxfYnlQFEgNoot7v"
       },
       "artists": [
         {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+          "name": "gnash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
         }
       ],
-      "duration_ms": 243213,
-      "name": "Like A Star",
-      "url": "https://open.spotify.com/track/5Anh8jULgeUgciLHCR25Mk"
+      "duration_ms": 197216,
+      "name": "imagine if",
+      "url": "https://open.spotify.com/track/7nDdxPUC5LbxmspeqkOzt8"
     },
     {
       "added_at": "2024-12-17 15:18:21",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "Fire On Fire (From \"Watership Down\")",
-        "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
+        "name": "O",
+        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 246735,
-      "name": "Fire On Fire - From \"Watership Down\"",
-      "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea"
     },
     {
       "added_at": "2024-12-17 15:18:21",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
+        "name": "Fire On Fire (From \"Watership Down\")",
+        "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea"
+      "duration_ms": 246735,
+      "name": "Fire On Fire - From \"Watership Down\"",
+      "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
     },
     {
       "added_at": "2024-12-17 15:18:21",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213136,
+      "name": "Mad About You",
+      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
+    },
+    {
+      "added_at": "2024-12-17 15:18:21",
+      "album": {
         "name": "Music And Lyrics - Music From and Inspired By The Motion Picture (International Release)",
         "url": "https://open.spotify.com/album/67icItKFH7ZFd5FdAZdlhI"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 227506,
       "name": "Everglow - Edit",
       "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
-    },
-    {
-      "added_at": "2024-12-17 15:18:21",
-      "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213136,
-      "name": "Mad About You",
-      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
     },
     {
       "added_at": "2024-12-17 15:18:21",
@@ -1475,22 +1475,18 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "Think I'm Gonna Love You",
-        "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
         {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        },
-        {
-          "name": "Caleb Hearn",
-          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 164494,
-      "name": "Think I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
+      "duration_ms": 183466,
+      "name": "Dying Man",
+      "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
     },
     {
       "added_at": "2024-12-17 15:18:21",
@@ -1511,18 +1507,22 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+        "name": "Think I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        },
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
         }
       ],
-      "duration_ms": 183466,
-      "name": "Dying Man",
-      "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
+      "duration_ms": 164494,
+      "name": "Think I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
     },
     {
       "added_at": "2024-12-17 15:18:21",

@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 53092,
+  "num_followers": 53147,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,42 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 457600,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "I Got What It Takes",
         "url": "https://open.spotify.com/album/6Ia8ZSI8AkeaSz7ILpd7MU"
       },
@@ -227,22 +263,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 457600,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "On The Boards",
         "url": "https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8"
       },
@@ -255,42 +275,6 @@
       "duration_ms": 216426,
       "name": "Railway And Gun",
       "url": "https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Blues & Trouble (Blues Reference 1983-1985)",
-        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
-      },
-      "artists": [
-        {
-          "name": "Buster Benton",
-          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "Can't Wait to See My Baby's Face",
-      "url": "https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -319,18 +303,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+        "name": "Blues & Trouble (Blues Reference 1983-1985)",
+        "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Buster Benton",
+          "url": "https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4"
         }
       ],
-      "duration_ms": 144933,
-      "name": "Outside Woman Blues",
-      "url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
+      "duration_ms": 298013,
+      "name": "Can't Wait to See My Baby's Face",
+      "url": "https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -363,6 +347,22 @@
       "duration_ms": 528133,
       "name": "Voodoo Chile Blues",
       "url": "https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Outside Woman Blues",
+      "url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Tons Of Sobs",
-        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+        "name": "Goin' To Chicago",
+        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
         }
       ],
-      "duration_ms": 254746,
-      "name": "The Hunter",
-      "url": "https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT"
+      "duration_ms": 154786,
+      "name": "Left My Happy Home",
+      "url": "https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Goin' To Chicago",
-        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
-      },
-      "artists": [
-        {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Left My Happy Home",
-      "url": "https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Electric Mud",
         "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 217640,
       "name": "Tom Cat",
       "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Tons Of Sobs",
+        "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "The Hunter",
+      "url": "https://open.spotify.com/track/6zFFYdst2u4PIKykSU7HOT"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+        "name": "The Best of Peter Green's Fleetwood Mac",
+        "url": "https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 144493,
-      "name": "Just Your Fool",
-      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+      "duration_ms": 177026,
+      "name": "My Heart Beat Like a Hammer",
+      "url": "https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "The Best of Peter Green's Fleetwood Mac",
-        "url": "https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 177026,
-      "name": "My Heart Beat Like a Hammer",
-      "url": "https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW"
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 125106,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Tons Of Sobs",
         "url": "https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Five Live Yardbirds (Live at the Marquee Club, London 1964 - 2015 Remaster)",
-        "url": "https://open.spotify.com/album/1916j8cvFXL67burTXJ0Mv"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 336215,
-      "name": "Smokestack Lightning - Live at the Marquee Club, 1964",
-      "url": "https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Completely Well",
         "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 387333,
       "name": "Cryin' Won't Help You Now",
       "url": "https://open.spotify.com/track/6KtESjDOSUU8xftDla9i5d"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Five Live Yardbirds (Live at the Marquee Club, London 1964 - 2015 Remaster)",
+        "url": "https://open.spotify.com/album/1916j8cvFXL67burTXJ0Mv"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 336215,
+      "name": "Smokestack Lightning - Live at the Marquee Club, 1964",
+      "url": "https://open.spotify.com/track/0L4v0fDHbaWeAaIB7Vpirj"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 309293,
-      "name": "Blue Shadows",
-      "url": "https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
         "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 172720,
       "name": "Black Rat - Take 4",
       "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 309293,
+      "name": "Blue Shadows",
+      "url": "https://open.spotify.com/track/6rGuOsQMY1UsvyPcpvbE4i"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Door To Door",
-        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Callin' For My Darlin'",
-      "url": "https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "I Was Walking Through The Woods (Expanded Edition)",
         "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
@@ -1087,30 +1071,6 @@
       "duration_ms": 139626,
       "name": "I Got My Eyes On You",
       "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 254506,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1143,6 +1103,46 @@
       "duration_ms": 146000,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/7dnH4MKOS40E0h0WtWCkYh"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
+        "name": "Door To Door",
+        "url": "https://open.spotify.com/album/5f25lxtzGj0mRtDpn50YBP"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Callin' For My Darlin'",
+      "url": "https://open.spotify.com/track/1X6ZMDWmDRWmyyx94DrvxM"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+      },
+      "artists": [
+        {
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "So Unkind - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Chicago Blues Session Volume 12",
         "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 160853,
       "name": "You Put the Heart on Me",
       "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
-      },
-      "artists": [
-        {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "So Unkind - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ"
     },
     {
       "added_at": "2024-05-29 07:10:09",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
-        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
-        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
-      },
-      "artists": [
-        {
-          "name": "Bobby 'Guitar' Bennett",
-          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
-        }
-      ],
-      "duration_ms": 102733,
-      "name": "She's so Fine",
-      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
         "name": "Cracked Spanner Head",
         "url": "https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk"
       },
@@ -1831,6 +1815,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
+        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
+      },
+      "artists": [
+        {
+          "name": "Bobby 'Guitar' Bennett",
+          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
+        }
+      ],
+      "duration_ms": 102733,
+      "name": "She's so Fine",
+      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "King Of The Boogie",
         "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
       },
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2024-05-29 07:10:09",
       "album": {
+        "name": "Cracked Spanner Head",
+        "url": "https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 234293,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ"
+    },
+    {
+      "added_at": "2024-05-29 07:10:09",
+      "album": {
         "name": "Twice Removed from Yesterday",
         "url": "https://open.spotify.com/album/4xR6Pp6PnfaYn07jqQ33be"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 195720,
       "name": "Don't Stay Out All Night",
       "url": "https://open.spotify.com/track/5nNLdUPVy9J0fYdlS6al2i"
-    },
-    {
-      "added_at": "2024-05-29 07:10:09",
-      "album": {
-        "name": "Cracked Spanner Head",
-        "url": "https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 234293,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ"
     },
     {
       "added_at": "2024-05-29 07:10:09",

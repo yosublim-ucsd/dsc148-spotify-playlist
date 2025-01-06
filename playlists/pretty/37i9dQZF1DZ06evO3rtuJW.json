@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33381,
+  "num_followers": 33382,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAAdRvy14zn5xC9UMzPYz7Gs",
+  "snapshot_id": "Z3h6AAAAAADyixN/Yc0GPwVFFUfkuBtH",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland",
-        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 199302,
-      "name": "Write Your Name",
-      "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLICK ALMIGHTY",
         "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 204750,
       "name": "Drench Gang (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2s8jq5UcAjIsRCo4VYvQrW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 199302,
+      "name": "Write Your Name",
+      "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"
     },
     {
       "added_at": null,
@@ -375,6 +375,26 @@
       "duration_ms": 214344,
       "name": "Honestly (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rookie Of The Year",
+        "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 175729,
+      "name": "Onna Come Up (feat. G Herbo) [Remix]",
+      "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
     },
     {
       "added_at": null,
@@ -419,26 +439,6 @@
       "duration_ms": 183600,
       "name": "Play Your Part (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rookie Of The Year",
-        "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
-      },
-      "artists": [
-        {
-          "name": "Lil Eazzyy",
-          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 175729,
-      "name": "Onna Come Up (feat. G Herbo) [Remix]",
-      "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
     },
     {
       "added_at": null,
@@ -639,6 +639,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm on 4.0",
+        "url": "https://open.spotify.com/album/3HTzCvsNFUCUVp2ZwSaGF7"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 348553,
+      "name": "I'm on 4.0",
+      "url": "https://open.spotify.com/track/6seyIInTwPGCr18JBSCDRo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Almighty So 2",
         "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
       },
@@ -719,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIG SCOOM (Vol. 1)",
+        "url": "https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 173565,
+      "name": "Throw (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strictly 4 My Fans",
         "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
       },
@@ -791,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG SCOOM (Vol. 1)",
-        "url": "https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49"
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
       "artists": [
         {
-          "name": "MAF Teeski",
-          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 173565,
-      "name": "Throw (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb"
+      "duration_ms": 174266,
+      "name": "Chiraq Demons (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
     },
     {
       "added_at": null,
@@ -827,26 +907,6 @@
       "duration_ms": 219788,
       "name": "In The Air (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Chiraq Demons (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
     },
     {
       "added_at": null,
@@ -1023,30 +1083,6 @@
       "duration_ms": 243530,
       "name": "Body Count (feat. King Von & G Herbo)",
       "url": "https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 167965,
-      "name": "DON'T LEAVE ME (feat. G Herbo & Lil Durk)",
-      "url": "https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP"
     }
   ],
   "unique_name": "This Is G Herbo",

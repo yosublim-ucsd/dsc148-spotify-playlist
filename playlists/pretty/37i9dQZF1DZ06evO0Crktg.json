@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 269947,
+  "num_followers": 270096,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cogAAAAAAE4mranTi6d3zcLiNgyzQB",
+  "snapshot_id": "Z3h6AAAAAADA1p3ABPVltri7vs4SHNl5",
   "tracks": [
     {
       "added_at": null,
@@ -339,42 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Hurt (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Unpretty",
-      "url": "https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -395,6 +359,42 @@
       "duration_ms": 239592,
       "name": "Creature",
       "url": "https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Unpretty",
+      "url": "https://open.spotify.com/track/6eyFfSsaYDSGYWOHXTuJsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Hurt (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
     },
     {
       "added_at": null,

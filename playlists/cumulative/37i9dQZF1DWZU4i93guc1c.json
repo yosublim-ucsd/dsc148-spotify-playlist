@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-06",
       "duration_ms": 177120,
       "name": "\u0417\u0456\u0440\u043a\u0438",
       "url": "https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC"
@@ -3100,6 +3100,24 @@
       "duration_ms": 156923,
       "name": "\u041f\u0440\u0438\u043b\u0438\u043d\u044c",
       "url": "https://open.spotify.com/track/0v2u6wL3yYe0LFyUT3V6xN"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0440\u0438\u043c\u0456\u0442\u0438\u0432\u043d\u0438\u0439",
+        "url": "https://open.spotify.com/album/4UWUsjM3sloiM6OPfhuLcq"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "\u041f\u0440\u0438\u043c\u0456\u0442\u0438\u0432\u043d\u0438\u0439",
+      "url": "https://open.spotify.com/track/0SiCtqnViaabYPeEJxcjox"
     },
     {
       "album": {

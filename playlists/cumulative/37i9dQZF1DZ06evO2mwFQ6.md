@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 30 min
+97 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [It's Five O'clock Somewhere](https://open.spotify.com/track/5x4tZpxfhFZ7EUnK04Fc76) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:36 | 2024-12-08 |  |
 | [Last Man Standing](https://open.spotify.com/track/1RkP3rb9e601IGBW9JkyJ3) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:17 | 2023-06-17 | 2023-06-24 |
 | [Life's Been Good To Me](https://open.spotify.com/track/0sgvwsjxu8MrMqeuSFg6wQ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 2:56 | 2023-08-25 | 2024-10-25 |
+| [Little Less Lonely](https://open.spotify.com/track/1TagtwRUJ8S2gxYq7DgD23) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 3:15 | 2025-01-06 |  |
 | [Little Less Lonely](https://open.spotify.com/track/5KISgft3lX4Gou5ymweGcN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:15 | 2023-06-17 | 2024-12-10 |
 | [Love Away The Night](https://open.spotify.com/track/6AyfvtOk91Iyaa4sfEo9jJ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:38 | 2023-06-17 |  |
 | [Love Away The Night \- with Adam Brand](https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Oxygen](https://open.spotify.com/album/30EVdt1AjTXmPDeHDBnxZv) | 3:38 | 2023-06-17 |  |
@@ -97,7 +98,7 @@
 | [Way Out West](https://open.spotify.com/track/079DxgUPBayPga0ijJymx0) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:53 | 2024-12-08 |  |
 | [Way Out West](https://open.spotify.com/track/1Fec9MLNzxEcdEtLPlBMlQ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 3:53 | 2023-06-17 | 2024-12-08 |
 | [Way Out West](https://open.spotify.com/track/24c3i7eM7aSQnUlcnTFPcS) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [TANIA KERNAGHAN](https://open.spotify.com/artist/1ebUo23AWCxBfiXQgWSr8e), [Brewn](https://open.spotify.com/artist/19ulwp3gtl233K8WVCegeP), [Bec Lavelle](https://open.spotify.com/artist/4zRwzsHNKXXMaOELVbfEIX), [Ben Ransom](https://open.spotify.com/artist/2SNFDfoQucCJ9PqJKgNuy5), [Paul Costa](https://open.spotify.com/artist/3bewnvoOe0gd88OyFziiFQ) | [Way Out West](https://open.spotify.com/album/2RbC672tpulMdA4fG5zLNh) | 3:58 | 2023-06-17 | 2024-04-19 |
-| [We're Makin' Up](https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:03 | 2023-06-18 |  |
+| [We're Makin' Up](https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:03 | 2023-06-18 | 2025-01-06 |
 | [What Your Love Looks Like](https://open.spotify.com/track/3f7R49NWWrJc9OHRdXLJqj) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Side Of The Street](https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF) | 3:37 | 2024-12-07 | 2024-12-08 |
 | [When The Needle Hits The Vinyl](https://open.spotify.com/track/6fZosvn3HVvfG9L4U9MQbW) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:34 | 2024-01-15 | 2024-02-28 |
 | [You Are Not Alone](https://open.spotify.com/track/5mP1Lr0EfB2rj2BAfYaZag) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [Speed of Life](https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng) | 3:25 | 2024-12-08 |  |

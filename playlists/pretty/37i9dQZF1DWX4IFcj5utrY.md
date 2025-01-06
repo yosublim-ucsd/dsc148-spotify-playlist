@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"> Nitefreak </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,136 likes - 61 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,145 likes - 61 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

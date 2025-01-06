@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "$10 Cowboy",
+        "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198872,
+      "name": "Ain't Done Losing Yet",
+      "url": "https://open.spotify.com/track/4L72ZizqSL74TLb3G7x0Le"
+    },
+    {
+      "album": {
         "name": "Another Bad Apple",
         "url": "https://open.spotify.com/album/5O8QT0vzGanGGu8DZAiitB"
       },
@@ -74,6 +92,42 @@
       "duration_ms": 312826,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/08tIZEQ7lyJQv4tqhxUXx4"
+    },
+    {
+      "album": {
+        "name": "Mucho Poco",
+        "url": "https://open.spotify.com/album/5pChmvhk2CTx3BmKfx7wkW"
+      },
+      "artists": [
+        {
+          "name": "Bang Data",
+          "url": "https://open.spotify.com/artist/1z0s3ikCPDZcV6ppW7ER6b"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210382,
+      "name": "Bailazo",
+      "url": "https://open.spotify.com/track/5Ha0N3HPC6CcziS8wfRUnP"
+    },
+    {
+      "album": {
+        "name": "A Hard up Life",
+        "url": "https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi"
+      },
+      "artists": [
+        {
+          "name": "Drayton Farley",
+          "url": "https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139688,
+      "name": "Blue Collar",
+      "url": "https://open.spotify.com/track/4bZdDIc6Lvpw6rDvK3feZD"
     },
     {
       "album": {
@@ -434,6 +488,24 @@
       "duration_ms": 339401,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/714tF0Vt9ohC9uWwEyIRAo"
+    },
+    {
+      "album": {
+        "name": "The Loneliest Girl In The World",
+        "url": "https://open.spotify.com/album/0HVOnM5SIfxb4ph3Syagha"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231140,
+      "name": "Neon & Off",
+      "url": "https://open.spotify.com/track/2btwLUidUoOusavbTdcs0s"
     },
     {
       "album": {

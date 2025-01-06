@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 414516,
+  "num_followers": 414639,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,30 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist",
+          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
+        },
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        },
+        {
+          "name": "Maija Kauhanen",
+          "url": "https://open.spotify.com/artist/4IfPb99Q6EIAGqE1w9Gw4q"
+        }
+      ],
+      "duration_ms": 366133,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "In This Moment",
         "url": "https://open.spotify.com/album/0UFAX4kDWFNLpXWAjrBq4G"
       },
@@ -331,30 +355,6 @@
       "duration_ms": 235773,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist",
-          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
-        },
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        },
-        {
-          "name": "Maija Kauhanen",
-          "url": "https://open.spotify.com/artist/4IfPb99Q6EIAGqE1w9Gw4q"
-        }
-      ],
-      "duration_ms": 366133,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "Where Will the River Flow",
         "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 334925,
       "name": "Hopeful Morning",
       "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "The Velvet Blues",
         "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 276040,
       "name": "Somewhere over the Rainbow",
       "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "On the Second Day",
         "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 272794,
       "name": "On The Second Day",
       "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 185613,
       "name": "Compromises",
       "url": "https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "P\u00e5 nye eventyr",
+        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "duration_ms": 322253,
+      "name": "P\u00e5 nye eventyr",
+      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 317545,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "P\u00e5 nye eventyr",
-        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 322253,
-      "name": "P\u00e5 nye eventyr",
-      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -967,18 +967,26 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
       },
       "artists": [
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
+        },
+        {
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+      "duration_ms": 283266,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1007,26 +1015,18 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Going Home",
-        "url": "https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8"
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
       },
       "artists": [
         {
-          "name": "Arne Torvik Trio",
-          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
-        },
-        {
-          "name": "Bj\u00f8rnar Kaldefoss Tveite",
-          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
-        },
-        {
-          "name": "\u00d8ystein Aarnes Vik",
-          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 283266,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa"
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Boo's Blues",
+        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 205094,
+      "name": "Boo's Blues",
+      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
         "url": "https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 354000,
       "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
       "url": "https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Boo's Blues",
-        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 205094,
-      "name": "Boo's Blues",
-      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "You Had Me at Goodbye",
-        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Grinde",
-      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 386786,
       "name": "Uncle John\u2019s Band",
       "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "You Had Me at Goodbye",
+        "url": "https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Grinde",
+      "url": "https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Lonely Nights",
+        "url": "https://open.spotify.com/album/6ISlh3JpauVe5p08WbUqvB"
+      },
+      "artists": [
+        {
+          "name": "Jumaane Smith",
+          "url": "https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8"
+        }
+      ],
+      "duration_ms": 279520,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/4m7MH411WVmBWq0bagAuTC"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "First Quartet",
         "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 290506,
       "name": "First Day",
       "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Lonely Nights",
-        "url": "https://open.spotify.com/album/6ISlh3JpauVe5p08WbUqvB"
-      },
-      "artists": [
-        {
-          "name": "Jumaane Smith",
-          "url": "https://open.spotify.com/artist/1XH2bt9r3GiWNb1C4v73l8"
-        }
-      ],
-      "duration_ms": 279520,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/4m7MH411WVmBWq0bagAuTC"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1575,30 +1575,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
-      },
-      "artists": [
-        {
-          "name": "Robert Ke\u00dfler",
-          "url": "https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0"
-        },
-        {
-          "name": "Andreas Henze",
-          "url": "https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39"
-        },
-        {
-          "name": "Tobias Backhaus",
-          "url": "https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg"
-        }
-      ],
-      "duration_ms": 359982,
-      "name": "Theo",
-      "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "Afternoon Conversations",
         "url": "https://open.spotify.com/album/5ZQdJ3xqZQXoYClA67Od1b"
       },
@@ -1619,6 +1595,30 @@
       "duration_ms": 323296,
       "name": "Freddie Freeloader",
       "url": "https://open.spotify.com/track/1cMJXSb5eCpd4AU7zByvN5"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
+      },
+      "artists": [
+        {
+          "name": "Robert Ke\u00dfler",
+          "url": "https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0"
+        },
+        {
+          "name": "Andreas Henze",
+          "url": "https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39"
+        },
+        {
+          "name": "Tobias Backhaus",
+          "url": "https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg"
+        }
+      ],
+      "duration_ms": 359982,
+      "name": "Theo",
+      "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "central park west",
-        "url": "https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG"
-      },
-      "artists": [
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 268915,
-      "name": "central park west",
-      "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "Lookin' Up",
         "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 182412,
       "name": "Lookin' Up",
       "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "central park west",
+        "url": "https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 268915,
+      "name": "central park west",
+      "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1835,6 +1835,34 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Peaceful Paranoia",
+        "url": "https://open.spotify.com/album/3kNuLBmAPGG41sQtAj29Ph"
+      },
+      "artists": [
+        {
+          "name": "Niclas Knudsen Trio",
+          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+        },
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+        }
+      ],
+      "duration_ms": 265826,
+      "name": "Peaceful Paranoia",
+      "url": "https://open.spotify.com/track/2oTKvPW7xQCJArXNDDfJd6"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Closeness",
         "url": "https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT"
       },
@@ -1855,6 +1883,22 @@
       "duration_ms": 329333,
       "name": "Strange Flower",
       "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Love Is in the Air",
+        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225707,
+      "name": "Love Is in the Air",
+      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1891,50 +1935,6 @@
       "duration_ms": 327642,
       "name": "Sweet Smile",
       "url": "https://open.spotify.com/track/6io9TUXA4dff0Lh0eHpW6c"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Love Is in the Air",
-        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225707,
-      "name": "Love Is in the Air",
-      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Peaceful Paranoia",
-        "url": "https://open.spotify.com/album/3kNuLBmAPGG41sQtAj29Ph"
-      },
-      "artists": [
-        {
-          "name": "Niclas Knudsen Trio",
-          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
-        },
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        },
-        {
-          "name": "Anders Christensen",
-          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
-        },
-        {
-          "name": "Niclas Knudsen",
-          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
-        }
-      ],
-      "duration_ms": 265826,
-      "name": "Peaceful Paranoia",
-      "url": "https://open.spotify.com/track/2oTKvPW7xQCJArXNDDfJd6"
     },
     {
       "added_at": "2024-11-22 09:27:14",

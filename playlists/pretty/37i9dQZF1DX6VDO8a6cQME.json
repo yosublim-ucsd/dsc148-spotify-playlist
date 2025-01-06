@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '90s. Cover: TLC",
-  "num_followers": 3680181,
+  "num_followers": 3680521,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
         }
       ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
+      "duration_ms": 214400,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
     },
     {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Poison",
@@ -247,22 +263,6 @@
       "duration_ms": 261853,
       "name": "Poison",
       "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
     },
     {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
+      },
+      "artists": [
+        {
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
+    },
+    {
       "added_at": "2023-08-25 07:08:29",
       "album": {
         "name": "The Miseducation of Lauryn Hill",
@@ -347,22 +363,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 440466,
       "name": "No Ordinary Love",
       "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "100% Ginuwine",
+        "url": "https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "So Anxious",
+      "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -427,22 +443,6 @@
       "duration_ms": 260666,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "100% Ginuwine",
-        "url": "https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "So Anxious",
-      "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
         "name": "Pronounced Jah-Nay",
         "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "Brandy",
         "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 291666,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Release Some Tension",
-        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -707,6 +691,22 @@
       "duration_ms": 291400,
       "name": "At Your Best (You Are Love)",
       "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Release Some Tension",
+        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
-    },
-    {
       "added_at": "2023-08-25 07:08:29",
       "album": {
         "name": "The Miseducation of Lauryn Hill",
@@ -825,6 +809,22 @@
       "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
     },
     {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Fever for da Flavor",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Do You Wanna Ride?",
-        "url": "https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk"
-      },
-      "artists": [
-        {
-          "name": "Adina Howard",
-          "url": "https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Freak Like Me",
-      "url": "https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Secrets",
@@ -871,6 +855,22 @@
       "duration_ms": 267440,
       "name": "You're Makin' Me High",
       "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Do You Wanna Ride?",
+        "url": "https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk"
+      },
+      "artists": [
+        {
+          "name": "Adina Howard",
+          "url": "https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -903,6 +903,22 @@
       "duration_ms": 166693,
       "name": "Where My Girls At",
       "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 350000,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -955,22 +971,6 @@
       "duration_ms": 250173,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "I'm So Into You",
-      "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Brown Sugar",
@@ -1195,6 +1179,22 @@
       "duration_ms": 262893,
       "name": "Brown Sugar",
       "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "I'm So Into You",
+      "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
     },
     {
       "added_at": "2021-08-20 04:02:00",

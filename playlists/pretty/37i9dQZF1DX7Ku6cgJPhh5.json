@@ -1,6 +1,6 @@
 {
   "description": "Amp up your commute with rock hits, new and old. ",
-  "num_followers": 524072,
+  "num_followers": 524284,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -187,6 +203,22 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "What I've Done",
+      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
         "name": "In Utero (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
@@ -219,38 +251,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "What I've Done",
-      "url": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "Three Days Grace",
         "url": "https://open.spotify.com/album/13topfW33NjnACjnRiZBX7"
       },
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -363,6 +363,38 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Animal I Have Become",
+      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Like a Stone",
+      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
         "name": "Human Clay",
         "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
       },
@@ -411,38 +443,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "One-X",
-        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Animal I Have Become",
-      "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Like a Stone",
-      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Stadium Arcadium",
-        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "Dani California",
-      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "Dani California",
+      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 279213,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 209266,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Crossfade",
-        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
-      },
-      "artists": [
-        {
-          "name": "Crossfade",
-          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "My Own Prison",
         "url": "https://open.spotify.com/album/50EmY7MXVsXoUEdwieYbud"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 298800,
       "name": "My Own Prison",
       "url": "https://open.spotify.com/track/5vRPXm59z8ewWO6WiJHg3m"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
+        "name": "Crossfade",
+        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
+      },
+      "artists": [
+        {
+          "name": "Crossfade",
+          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
+        "name": "Disclaimer II",
+        "url": "https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
         "name": "Faceless",
         "url": "https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu"
       },
@@ -1147,22 +1167,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "The Sound of Madness",
-        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "Sound of Madness",
-      "url": "https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "From The Fires",
         "url": "https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w"
       },
@@ -1179,6 +1183,22 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
+        "name": "The Sound of Madness",
+        "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "Sound of Madness",
+      "url": "https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 206200,
       "name": "Guerrilla Radio",
       "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
-        "name": "Disclaimer II",
-        "url": "https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        },
-        {
-          "name": "Amy Lee",
-          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
+        "name": "Leave a Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "45",
+      "url": "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
         "name": "The Real Thing",
         "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
       },
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Leave a Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "45",
-      "url": "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "Violator (Deluxe)",
         "url": "https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Hash Pipe",
-      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "Mer De Noms",
         "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 247266,
       "name": "Judith",
       "url": "https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Hash Pipe",
+      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "Frogstomp (Deluxe Edition) [Remastered]",
-        "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 266280,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "The Autumn Effect",
         "url": "https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 229866,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
+        "name": "Frogstomp (Deluxe Edition) [Remastered]",
+        "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 266280,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 274160,
       "name": "Renegades Of Funk",
       "url": "https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2024-10-04 05:18:12",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-10-04 05:18:12",
       "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Walk On Water",
-      "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
-    },
-    {
-      "added_at": "2024-10-04 05:18:12",
-      "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 200546,
       "name": "The Diary of Jane - Single Version",
       "url": "https://open.spotify.com/track/5pvJ59i7JxylN8VB24xdMs"
+    },
+    {
+      "added_at": "2024-10-04 05:18:12",
+      "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Walk On Water",
+      "url": "https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n"
     },
     {
       "added_at": "2024-10-04 05:18:12",

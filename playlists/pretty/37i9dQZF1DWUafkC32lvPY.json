@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 23372,
+  "num_followers": 23384,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
-      },
-      "artists": [
-        {
-          "name": "Maple Syrup",
-          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
-        }
-      ],
-      "duration_ms": 116447,
-      "name": "Tudo Bem",
-      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "spirits",
         "url": "https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 137522,
       "name": "spirits",
       "url": "https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
+      },
+      "artists": [
+        {
+          "name": "Maple Syrup",
+          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
+        }
+      ],
+      "duration_ms": 116447,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Barrio",
-        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
-      },
-      "artists": [
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 125861,
-      "name": "Barrio",
-      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Aves del Sur",
         "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 189811,
       "name": "Aves del Sur",
       "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Barrio",
+        "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
+      },
+      "artists": [
+        {
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 125861,
+      "name": "Barrio",
+      "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 190000,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Sample Saga: Brazil",
-        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
-      },
-      "artists": [
-        {
-          "name": "Beagle Bonnie",
-          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
-        },
-        {
-          "name": "DJ No\u00e9",
-          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
-        }
-      ],
-      "duration_ms": 117446,
-      "name": "Devagar",
-      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
       },
@@ -775,6 +755,42 @@
       "duration_ms": 136000,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Uno Es M\u00ednimo Dos",
+        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Sample Saga: Brazil",
+        "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
+      },
+      "artists": [
+        {
+          "name": "Beagle Bonnie",
+          "url": "https://open.spotify.com/artist/65HQEC5WeBptTMf5RSAoA3"
+        },
+        {
+          "name": "DJ No\u00e9",
+          "url": "https://open.spotify.com/artist/0MATnW9msuttarmwEUQYu3"
+        }
+      ],
+      "duration_ms": 117446,
+      "name": "Devagar",
+      "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -835,22 +851,6 @@
       "duration_ms": 127749,
       "name": ":(",
       "url": "https://open.spotify.com/track/1JrsBQYxkbLbGvCyo7dgmJ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Uno Es M\u00ednimo Dos",
-        "url": "https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1007,6 +1007,42 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Ciudad de Papel",
+        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 129767,
+      "name": "Ciudad de Papel",
+      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "soltarte (instrumental)",
+        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        },
+        {
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+        }
+      ],
+      "duration_ms": 176202,
+      "name": "soltarte (instrumental)",
+      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Monstera",
         "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
       },
@@ -1051,42 +1087,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ciudad de Papel",
-        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 129767,
-      "name": "Ciudad de Papel",
-      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "soltarte (instrumental)",
-        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        },
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        }
-      ],
-      "duration_ms": 176202,
-      "name": "soltarte (instrumental)",
-      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "lucky monkey",
         "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Quiet Process",
-        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
-      },
-      "artists": [
-        {
-          "name": "Baskito",
-          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "LA FALDA (LoFi)",
         "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Quiet Process",
+        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
+      },
+      "artists": [
+        {
+          "name": "Baskito",
+          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "un atardecer a tu lado",
         "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 101065,
       "name": "bailar contigo",
       "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Sunset on Vallarta",
+        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Sunset on Vallarta",
+      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 146239,
       "name": "Cholomuco",
       "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Sunset on Vallarta",
-        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Sunset on Vallarta",
-      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Todo Tranqui",
-        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 100738,
-      "name": "Todo Tranqui",
-      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Guaran\u00ed Landscape",
         "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
       },
@@ -1335,6 +1319,42 @@
       "duration_ms": 189629,
       "name": "Guaran\u00ed Landscape",
       "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Hora Azul",
+        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "duration_ms": 165976,
+      "name": "Lunes Azul",
+      "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Todo Tranqui",
+        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 100738,
+      "name": "Todo Tranqui",
+      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1399,26 +1419,6 @@
       "duration_ms": 98653,
       "name": "Alc\u00e1zar",
       "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Hora Azul",
-        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
-        }
-      ],
-      "duration_ms": 165976,
-      "name": "Lunes Azul",
-      "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
     },
     {
       "added_at": "2024-10-04 04:00:00",

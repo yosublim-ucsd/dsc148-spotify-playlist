@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-139 songs - 9 hr 29 min
+140 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,13 +115,14 @@
 | [Pecado de Amor](https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:16 | 2023-10-05 |  |
 | [Por Andar de Patas Negras](https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Por Andar de Patas Negras](https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7) | 3:54 | 2023-03-03 |  |
 | [Por Debajo del Agua](https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 4:39 | 2023-03-03 |  |
+| [Quisiera y No Quisiera](https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Quisiera y No Quisiera](https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat) | 2:34 | 2024-12-06 |  |
 | [Si Te Falta Alguien](https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l) | [Líderes de Chile](https://open.spotify.com/artist/12zgyV8SaxwtdtS3E7mCUj), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Escribiendo Nuestra Historia](https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb) | 3:20 | 2023-03-03 |  |
 | [Simplemente Amigos](https://open.spotify.com/track/2TwD17Rh4xZH9YO585V0AU) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 4:18 | 2023-03-03 |  |
 | [Sin Coronas Ni Reinas](https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Para Nuestra Gente](https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK) | 3:20 | 2023-03-03 |  |
 | [Sola Con Mi Soledad / Y Voy a Ser Feliz](https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 4:27 | 2023-03-03 |  |
 | [Sombrero Vaquero](https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Nacieron para Triunfar, Vol\. 1](https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0) | 2:49 | 2023-03-03 |  |
 | [Somos Infieles](https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Somos Infieles](https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC) | 3:19 | 2023-03-03 |  |
-| [Son Solo Palabritas](https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Para Nuestra Gente](https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N) | 3:31 | 2023-03-03 |  |
+| [Son Solo Palabritas](https://open.spotify.com/track/0Hi28eLBFZNmtXFsdqd4Es) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Para Nuestra Gente](https://open.spotify.com/album/15HAfwDUkpyOBdYGFmce2N) | 3:31 | 2023-03-03 | 2025-01-06 |
 | [Sufriendo por Tu Amor](https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:11 | 2023-05-29 |  |
 | [Sácale Leche a la Vaca](https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO) | [Alex y el Clan Azabache](https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr) | [Alex y el Clan Azabache](https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ) | 3:00 | 2023-03-03 |  |
 | [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 | 2023-03-03 | 2024-10-15 |

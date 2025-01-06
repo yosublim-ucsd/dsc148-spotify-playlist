@@ -1,6 +1,6 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 54242,
+  "num_followers": 54240,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "relationshit",
-        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "do me right",
-      "url": "https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
+        "name": "relationshit",
+        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "do me right",
+      "url": "https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
         "name": "It's Never Easy",
         "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
       },
@@ -307,38 +291,6 @@
       "duration_ms": 150720,
       "name": "Whiskey Bottle",
       "url": "https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
-        "name": "Malampagi",
-        "url": "https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO"
-      },
-      "artists": [
-        {
-          "name": "Saixse",
-          "url": "https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ"
-        }
-      ],
-      "duration_ms": 246225,
-      "name": "Malampagi",
-      "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
-        "name": "relationshit",
-        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 147891,
-      "name": "whoops",
-      "url": "https://open.spotify.com/track/0RkW1ZtqR30QtxyUKHCmQv"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -359,6 +311,38 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
+        "name": "Malampagi",
+        "url": "https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO"
+      },
+      "artists": [
+        {
+          "name": "Saixse",
+          "url": "https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ"
+        }
+      ],
+      "duration_ms": 246225,
+      "name": "Malampagi",
+      "url": "https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/52oE4nDKCn2ib916I5RzZW"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 171130,
       "name": "BUBBLY",
       "url": "https://open.spotify.com/track/6bc2ROroe6mWMUu6BjN0pl"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "Dancing with my phone",
-        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
         }
       ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
+      "duration_ms": 175853,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -420,41 +420,9 @@
           "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         }
       ],
-      "duration_ms": 201818,
-      "name": "talking to myself",
-      "url": "https://open.spotify.com/track/0sSyDptzNXHBODOssLukZT"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV"
-      },
-      "artists": [
-        {
-          "name": "Coldiac",
-          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
-        }
-      ],
-      "duration_ms": 175853,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh"
+      "duration_ms": 147891,
+      "name": "whoops",
+      "url": "https://open.spotify.com/track/0RkW1ZtqR30QtxyUKHCmQv"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -507,6 +475,22 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
+        "name": "Dancing with my phone",
+        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
         "name": "Maybe?",
         "url": "https://open.spotify.com/album/70EUDwRcVADcdFtVTMuGkt"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
+        "name": "relationshit",
+        "url": "https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "talking to myself",
+      "url": "https://open.spotify.com/track/0sSyDptzNXHBODOssLukZT"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -555,22 +555,18 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "sharp knife",
-        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
+        "name": "dear me,",
+        "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
         }
       ],
-      "duration_ms": 170204,
-      "name": "sharp knife",
-      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
+      "duration_ms": 165967,
+      "name": "dear me,",
+      "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -611,6 +607,22 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj"
+      },
+      "artists": [
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -631,18 +643,22 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "dear me,",
-        "url": "https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl"
+        "name": "sharp knife",
+        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
         }
       ],
-      "duration_ms": 165967,
-      "name": "dear me,",
-      "url": "https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA"
+      "duration_ms": 170204,
+      "name": "sharp knife",
+      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj"
-      },
-      "artists": [
-        {
-          "name": "rhyu",
-          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
         "name": "Hostage",
         "url": "https://open.spotify.com/album/4025C1FxZ4AyhxOD6TMpxh"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 189931,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/1DYqJtsqLYXCKh7CIgZ4bG"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
+        "name": "shortcut to heaven",
+        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 184343,
+      "name": "shortcut to heaven",
+      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -711,22 +727,6 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever (ft. Billkin)",
       "url": "https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
-        "name": "shortcut to heaven",
-        "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 184343,
-      "name": "shortcut to heaven",
-      "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
+        "name": "Like All My Friends",
+        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
+      },
+      "artists": [
+        {
+          "name": "Francis Karel",
+          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
+        }
+      ],
+      "duration_ms": 187918,
+      "name": "Like All My Friends",
+      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
         "name": "It's You (feat. Kaleb J)",
         "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 269712,
       "name": "It's You (feat. Kaleb J)",
       "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
-        "name": "Like All My Friends",
-        "url": "https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq"
-      },
-      "artists": [
-        {
-          "name": "Francis Karel",
-          "url": "https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6"
-        }
-      ],
-      "duration_ms": 187918,
-      "name": "Like All My Friends",
-      "url": "https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -859,30 +859,6 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "bad together",
-        "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        },
-        {
-          "name": "TY:DEL",
-          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
-        },
-        {
-          "name": "Irwinandfire",
-          "url": "https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "bad together",
-      "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
         "name": "BRB",
         "url": "https://open.spotify.com/album/59gHk4tDlPnS9PUxdxYQ99"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 216530,
       "name": "the boy",
       "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
+        "name": "bad together",
+        "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        },
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        },
+        {
+          "name": "Irwinandfire",
+          "url": "https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "bad together",
+      "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
     },
     {
       "added_at": "2024-08-13 06:40:38",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-08-13 06:40:38",
       "album": {
-        "name": "parasite",
-        "url": "https://open.spotify.com/album/6wXSu1dznZzEXakEeMmPca"
-      },
-      "artists": [
-        {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
-        },
-        {
-          "name": "Ethan Low",
-          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
-        }
-      ],
-      "duration_ms": 131891,
-      "name": "parasite",
-      "url": "https://open.spotify.com/track/4ASoS06kltBvEel1ekoziv"
-    },
-    {
-      "added_at": "2024-08-13 06:40:38",
-      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 198612,
       "name": "Killer",
       "url": "https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz"
+    },
+    {
+      "added_at": "2024-08-13 06:40:38",
+      "album": {
+        "name": "parasite",
+        "url": "https://open.spotify.com/album/6wXSu1dznZzEXakEeMmPca"
+      },
+      "artists": [
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        },
+        {
+          "name": "Ethan Low",
+          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
+        }
+      ],
+      "duration_ms": 131891,
+      "name": "parasite",
+      "url": "https://open.spotify.com/track/4ASoS06kltBvEel1ekoziv"
     },
     {
       "added_at": "2024-08-13 06:40:38",
