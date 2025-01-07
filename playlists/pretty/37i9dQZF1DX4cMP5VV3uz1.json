@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 161314,
+  "num_followers": 161329,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "FORWARDS",
+        "url": "https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        },
+        {
+          "name": "Cameron Hayes",
+          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
+        }
+      ],
+      "duration_ms": 253371,
+      "name": "SECRETS",
+      "url": "https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "flight fm",
         "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 204000,
       "name": "Savage",
       "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
-        "name": "FORWARDS",
-        "url": "https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Cameron Hayes",
-          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
-        }
-      ],
-      "duration_ms": 253371,
-      "name": "SECRETS",
-      "url": "https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD"
+      },
+      "artists": [
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "Slumber",
         "url": "https://open.spotify.com/album/4iX57BmbUQ6UyFvZ18YTdI"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 180689,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD"
-      },
-      "artists": [
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 159545,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
-        "name": "Don't Wanna Wake Up",
-        "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Don't Wanna Wake Up",
-      "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
         "name": "Geeked Up (feat. Tayylor Made)",
         "url": "https://open.spotify.com/album/210Qa4bQUZbdp5eap1EgqA"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 182079,
       "name": "Geeked Up (feat. Tayylor Made)",
       "url": "https://open.spotify.com/track/0fzOjto8tbCRRu8lbI8tll"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
+        "name": "Don't Wanna Wake Up",
+        "url": "https://open.spotify.com/album/041BgCygr8ruF5sCYmxdBi"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Don't Wanna Wake Up",
+      "url": "https://open.spotify.com/track/5Hjb5dh9ze2rI9RfnoBGpS"
     },
     {
       "added_at": "2024-12-13 09:50:31",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-12-13 09:50:31",
       "album": {
+        "name": "Wassup",
+        "url": "https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        }
+      ],
+      "duration_ms": 181034,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"
+    },
+    {
+      "added_at": "2024-12-13 09:50:31",
+      "album": {
         "name": "RAW!",
         "url": "https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 187750,
       "name": "RAW!",
       "url": "https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp"
-    },
-    {
-      "added_at": "2024-12-13 09:50:31",
-      "album": {
-        "name": "Wassup",
-        "url": "https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83"
-      },
-      "artists": [
-        {
-          "name": "Rusko",
-          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
-        }
-      ],
-      "duration_ms": 181034,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"
     },
     {
       "added_at": "2024-12-13 09:50:31",

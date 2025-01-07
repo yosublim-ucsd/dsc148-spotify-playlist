@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-917 songs - 1 day 22 hr 48 min
+919 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Flute Mimosa](https://open.spotify.com/track/5Cmt1yKf2gJWtmGmbklxBR) | [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN) | [Flute Mimosa](https://open.spotify.com/album/3cxR5iAjBuLgmvptTCnD3B) | 2:47 | 2023-02-12 | 2023-04-13 |
 | [Fly](https://open.spotify.com/track/6JRiVkvqD9fINi6TRsxTyN) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [Fly](https://open.spotify.com/album/1flr6nyfMV6RA1E01vBUDt) | 2:57 | 2023-09-08 | 2023-12-14 |
 | [Fool \(feat\. Betty Bloom\)](https://open.spotify.com/track/0z1keLvev9EbAXycMboeRt) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Betty Bloom](https://open.spotify.com/artist/028AENVWICmqAiAj5xXncO) | [Fool \(feat\. Betty Bloom\)](https://open.spotify.com/album/4dasbc6vD7yjIufobTnoOF) | 2:32 | 2024-12-05 |  |
+| [Foreplay](https://open.spotify.com/track/7zeytstyMc7wsX2e3tu6ME) | [Oscar N \(USA\)](https://open.spotify.com/artist/2Iftoi7IM3hKePgIb85EqG) | [Foreplay](https://open.spotify.com/album/73mvLSXIpIc1HveylH4PwK) | 3:19 | 2025-01-06 |  |
 | [Found My Way](https://open.spotify.com/track/6mmMwIHSjffwyz1n91py9s) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD) | [Found My Way](https://open.spotify.com/album/5bYYvUjqFjDGipDsiO5opJ) | 2:26 | 2024-12-05 |  |
 | [Found Myself](https://open.spotify.com/track/0y5cXO3YMMTw7I7uniOIpo) | [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u), [Febration](https://open.spotify.com/artist/2nJONDf5g9CPy0oH9mGQEM) | [Found Myself](https://open.spotify.com/album/61wXkMuDCQxg9z0IMn9naR) | 2:56 | 2023-02-12 | 2023-03-25 |
 | [Freak In The Weekend](https://open.spotify.com/track/6DePSYDCW0ujpW5cUEVqoM) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Freak In The Weekend](https://open.spotify.com/album/5nLLM6BAWl88JPwlGcVMjo) | 2:52 | 2024-02-29 | 2024-10-11 |
@@ -918,6 +919,7 @@
 | [You Can Call Me Al](https://open.spotify.com/track/5aBFkKoHQj5zQVJetH0FED) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn), [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R) | [You Can Call Me Al](https://open.spotify.com/album/3CovV89Q7P54dxeefsiQm1) | 2:53 | 2024-12-05 |  |
 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 | 2023-02-12 | 2023-04-13 |
 | [You Got Heat \- Radio edit](https://open.spotify.com/track/6hH6ecSGyv2kXfMbknEX9S) | [Mick Jansen](https://open.spotify.com/artist/3GTeyz3C1JlYooq2HzwwcT), [Jerry Luca](https://open.spotify.com/artist/6rHDQG5EAhPAO9tLNh8LQr) | [You Got Heat](https://open.spotify.com/album/40YAosrDFxpayxG1FGoTRk) | 3:33 | 2024-07-29 |  |
+| [YOU KNOW WHAT I LIKE](https://open.spotify.com/track/5fgzqeqdL1bKiGwz8Q6Ydl) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [YOU KNOW WHAT I LIKE](https://open.spotify.com/album/41Vu3tBpDnOzoboY6B2X34) | 3:34 | 2025-01-06 |  |
 | [You Know Why](https://open.spotify.com/track/3DmgJJ6pYbfZQyPsVU2EOC) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [You Know Why](https://open.spotify.com/album/1HocLD4SG28EmjAZJLdr60) | 2:20 | 2023-09-29 | 2023-12-23 |
 | [You Talkin'](https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [You Talkin'](https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY) | 2:47 | 2023-06-02 | 2023-06-09 |
 | [You Want It](https://open.spotify.com/track/3x8DRRXJWjOvcs6pnJPqQ8) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [You Want It](https://open.spotify.com/album/7CfHCIkumlzy6es6UDaFLo) | 2:49 | 2023-10-26 | 2024-09-26 |

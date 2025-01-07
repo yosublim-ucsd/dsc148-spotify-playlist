@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 533 songs - 1 day 11 hr 47 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 532 songs - 1 day 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -537,9 +537,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 527 | [Downhill](https://open.spotify.com/track/2DkJKUMgylaBK5H5GXPaNc) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Mirror Starts Moving Without Me](https://open.spotify.com/album/0D1VuKK2MQA5d25Nn2gyEK) | 3:06 |
 | 528 | [Wanna](https://open.spotify.com/track/7uLBdV19ad7kAjU2oB1l6p) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 2:15 |
 | 529 | [if im honest](https://open.spotify.com/track/0Fv07HimnYZTgDxoVkPt4t) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [somebody in hell loves you](https://open.spotify.com/album/73L8Gv41xHG3RYdhXoFggn) | 2:50 |
-| 530 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/3WY21ibZasLGJE1U6Apmzj) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:54 |
-| 531 | [Wild Guess](https://open.spotify.com/track/4xtOrlx513T58qXxUwo9ui) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Mountainhead](https://open.spotify.com/album/1s3ypfinSBGQl36cJSRjOv) | 4:02 |
-| 532 | [The Fringe](https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 2:36 |
-| 533 | [Whispers In The Echo Chamber](https://open.spotify.com/track/0CrP9rtIvD8qeJJq0cJ05t) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [She Reaches Out To She Reaches Out To She](https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6) | 4:01 |
+| 530 | [Wild Guess](https://open.spotify.com/track/4xtOrlx513T58qXxUwo9ui) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Mountainhead](https://open.spotify.com/album/1s3ypfinSBGQl36cJSRjOv) | 4:02 |
+| 531 | [Whispers In The Echo Chamber](https://open.spotify.com/track/0CrP9rtIvD8qeJJq0cJ05t) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [She Reaches Out To She Reaches Out To She](https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6) | 4:01 |
+| 532 | [Closer](https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Fabiana Palladino](https://open.spotify.com/album/42oaWsdIjvtngWBANg0tux) | 3:35 |
 
-Snapshot ID: `AAAG1NMqt7LKybB1cITMqGtLHWg7v0fq`
+Snapshot ID: `AAAG2GwvcFUvhBV4ETdTvS4zZ5+vuib4`

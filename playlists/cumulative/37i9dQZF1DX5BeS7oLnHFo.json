@@ -439,6 +439,28 @@
     },
     {
       "album": {
+        "name": "KUNG FU",
+        "url": "https://open.spotify.com/album/4nNge4R3KOJ3FXgUrclICp"
+      },
+      "artists": [
+        {
+          "name": "Vortex",
+          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        },
+        {
+          "name": "LBandy",
+          "url": "https://open.spotify.com/artist/0KgDFmrEx0ezsgblUjCxoA"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "KUNG FU",
+      "url": "https://open.spotify.com/track/1fBF7Bn3QYK53XHpttpoyl"
+    },
+    {
+      "album": {
         "name": "Lajl Aldar",
         "url": "https://open.spotify.com/album/6j0XfhZLiWgfjb4m3x8mYB"
       },

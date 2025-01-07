@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6301,
+  "num_followers": 6306,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3h6AAAAAABDcHOx/TKIoxLMJMysKOb/",
+  "snapshot_id": "Z3nLgAAAAACLYLJx6KVXk8RPKjwwfVJD",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meneaito",
-        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 217234,
-      "name": "Meneaito",
-      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con La Vallarta Show y Marco Flores",
         "url": "https://open.spotify.com/album/3KQst1V31AZN80Ff5jlKu7"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 241650,
       "name": "Celoso - En Vivo",
       "url": "https://open.spotify.com/track/3hKZdVQm4E5N5Ds1nqSm23"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 217234,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
     },
     {
       "added_at": null,

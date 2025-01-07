@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293203,
+  "num_followers": 293234,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -555,30 +555,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "ESTANTE DE LIVROS",
-        "url": "https://open.spotify.com/album/1QsCjSE0pz021Mg7jOYfRc"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "BADZILLA",
-          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "ESTANTE DE LIVROS",
-      "url": "https://open.spotify.com/track/4IFIDMqYhdC7aVd8QbudX6"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Te Pe\u00e7o Pra Ficar",
         "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 235862,
       "name": "Te Pe\u00e7o Pra Ficar",
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "ESTANTE DE LIVROS",
+        "url": "https://open.spotify.com/album/1QsCjSE0pz021Mg7jOYfRc"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "BADZILLA",
+          "url": "https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "ESTANTE DE LIVROS",
+      "url": "https://open.spotify.com/track/4IFIDMqYhdC7aVd8QbudX6"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -855,30 +855,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "\u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -899,6 +875,30 @@
       "duration_ms": 192786,
       "name": "Pensando Em N\u00f3s",
       "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Sabores",
+        "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
+      },
+      "artists": [
+        {
+          "name": "N\u00fabia",
+          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Sabores",
+      "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Pra Casar",
         "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 162780,
       "name": "Pra Casar",
       "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Sabores",
-        "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
-      },
-      "artists": [
-        {
-          "name": "N\u00fabia",
-          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Sabores",
-      "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "O Som do Litoral",
-        "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
-      },
-      "artists": [
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Lucas Baha",
-          "url": "https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v"
-        },
-        {
-          "name": "Prodbythb",
-          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
-        }
-      ],
-      "duration_ms": 174064,
-      "name": "Espa\u00e7o Aberto",
-      "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "O Som do Litoral",
+        "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Lucas Baha",
+          "url": "https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v"
+        },
+        {
+          "name": "Prodbythb",
+          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
+        }
+      ],
+      "duration_ms": 174064,
+      "name": "Espa\u00e7o Aberto",
+      "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        },
-        {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
-        }
-      ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 92960,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        }
+      ],
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2024-12-20 03:25:46",

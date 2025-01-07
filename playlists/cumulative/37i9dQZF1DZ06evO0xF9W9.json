@@ -1014,10 +1014,28 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 200306,
       "name": "Quedate (feat. King Jeff) - Discoteca",
       "url": "https://open.spotify.com/track/78AfS03RiKgjvT8TuJGeX0"
+    },
+    {
+      "album": {
+        "name": "Quedate (Live)",
+        "url": "https://open.spotify.com/album/72eyHgIDWShgeAhq5kBETD"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Quedate - Live",
+      "url": "https://open.spotify.com/track/73CWEtik68Te87lTeI7AJS"
     },
     {
       "album": {

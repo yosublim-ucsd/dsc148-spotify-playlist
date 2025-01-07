@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (29/12/2024)",
+  "name": "LA LLISTA DE FLAIXBAC (05/01/2025)",
   "tracks": [
     {
       "album": {
@@ -998,7 +998,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -1972,6 +1972,32 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
+        "name": "Sushi Poke",
+        "url": "https://open.spotify.com/album/0QhKmDHcAZxkV1kRCCl122"
+      },
+      "artists": [
+        {
+          "name": "dani6ix",
+          "url": "https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz"
+        },
+        {
+          "name": "IZZKID",
+          "url": "https://open.spotify.com/artist/1I8wzpYHQW1GMiPgycZyIW"
+        },
+        {
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142908,
+      "name": "Sushi Poke",
+      "url": "https://open.spotify.com/track/4oGvBNpgLClPi0hsvIFyFK"
     },
     {
       "album": {

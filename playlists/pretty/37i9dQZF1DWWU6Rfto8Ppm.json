@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3632579,
+  "num_followers": 3633079,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
+        "name": "Mi Ni\u00f1a Bonita - Reloaded",
+        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
         "name": "Reggaeton Rulers: Los Que Ponen",
         "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 182186,
       "name": "Sensacion Del Bloque",
       "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "Mi Ni\u00f1a Bonita - Reloaded",
-        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "El Pat\u00e1n",
-        "url": "https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Daga Adicta",
-      "url": "https://open.spotify.com/track/1BvoLDKmotg5dqfVW8y8KR"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 232587,
       "name": "Hay Algo en Ti",
       "url": "https://open.spotify.com/track/15PxHZffHMndHQjmzYuGUv"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "El Pat\u00e1n",
+        "url": "https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 236893,
+      "name": "Daga Adicta",
+      "url": "https://open.spotify.com/track/1BvoLDKmotg5dqfVW8y8KR"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 205976,
       "name": "Donde Hubo Fuego",
       "url": "https://open.spotify.com/track/5rhdmtFyYixhT2XZPjzcGb"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi"
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
       },
       "artists": [
         {
-          "name": "Yelsid",
-          "url": "https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 224725,
-      "name": "El Bus",
-      "url": "https://open.spotify.com/track/3phGZ5oFBLaEluf23rcvVJ"
+      "duration_ms": 199933,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Yelsid",
+          "url": "https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R"
         }
       ],
-      "duration_ms": 199933,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
+      "duration_ms": 224725,
+      "name": "El Bus",
+      "url": "https://open.spotify.com/track/3phGZ5oFBLaEluf23rcvVJ"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3047,22 +3047,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "It's My Time",
-        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 157291,
-      "name": "El Tra",
-      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -3075,6 +3059,22 @@
       "duration_ms": 171066,
       "name": "Voz Sensual",
       "url": "https://open.spotify.com/track/4eBRM5oc92XWVomWI3OsUf"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "It's My Time",
+        "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 157291,
+      "name": "El Tra",
+      "url": "https://open.spotify.com/track/14nnQDyyoTuRYfOgGQBjDD"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3271,22 +3271,6 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Cantinero",
-        "url": "https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1"
-      },
-      "artists": [
-        {
-          "name": "Fusion Perreo",
-          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
-        }
-      ],
-      "duration_ms": 221074,
-      "name": "Cantinero",
-      "url": "https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
         "name": "J Balvin Mix Tape",
         "url": "https://open.spotify.com/album/1xMq6o4CDAa2X0WquvhHkX"
       },
@@ -3299,6 +3283,22 @@
       "duration_ms": 189026,
       "name": "Sin Compromiso",
       "url": "https://open.spotify.com/track/3yoO9jbPHRxAsoUuyx4gG3"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Cantinero",
+        "url": "https://open.spotify.com/album/5COfnmgB3zAma9C2PSFWS1"
+      },
+      "artists": [
+        {
+          "name": "Fusion Perreo",
+          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
+        }
+      ],
+      "duration_ms": 221074,
+      "name": "Cantinero",
+      "url": "https://open.spotify.com/track/2bJVNlb6SsjseSti5jnxqc"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3347,18 +3347,18 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "En Honor A La Verdad",
-        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
+        "name": "Echo Presenta: Invasion",
+        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
       },
       "artists": [
         {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+          "name": "Dalmata",
+          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
         }
       ],
-      "duration_ms": 177373,
-      "name": "5 de Septiembre - Reggaeton Version",
-      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
+      "duration_ms": 183706,
+      "name": "Como Toda Una Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3383,34 +3383,18 @@
     {
       "added_at": "2024-11-13 13:43:46",
       "album": {
-        "name": "Echo Presenta: Invasion",
-        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
+        "name": "En Honor A La Verdad",
+        "url": "https://open.spotify.com/album/5SPZrujb8SCEAi4nobYNKW"
       },
       "artists": [
         {
-          "name": "Dalmata",
-          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 183706,
-      "name": "Como Toda Una Se\u00f1ora",
-      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
-    },
-    {
-      "added_at": "2024-11-13 13:43:46",
-      "album": {
-        "name": "Los Compadres - La Perfecta Ocasi\u00f3n",
-        "url": "https://open.spotify.com/album/1xQAjttf7mpnsiinRkm7yj"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 195093,
-      "name": "La Perfecta Ocasi\u00f3n",
-      "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
+      "duration_ms": 177373,
+      "name": "5 de Septiembre - Reggaeton Version",
+      "url": "https://open.spotify.com/track/4FFJMmVTeDKKlXYQmgNPMn"
     },
     {
       "added_at": "2024-11-13 13:43:46",
@@ -3431,6 +3415,22 @@
       "duration_ms": 225055,
       "name": "Pum Pum",
       "url": "https://open.spotify.com/track/27cJ2fmLUPntkn86UVe1BR"
+    },
+    {
+      "added_at": "2024-11-13 13:43:46",
+      "album": {
+        "name": "Los Compadres - La Perfecta Ocasi\u00f3n",
+        "url": "https://open.spotify.com/album/1xQAjttf7mpnsiinRkm7yj"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "La Perfecta Ocasi\u00f3n",
+      "url": "https://open.spotify.com/track/6jkzF40g6U3S9dJlHed6nJ"
     },
     {
       "added_at": "2024-11-13 13:43:46",

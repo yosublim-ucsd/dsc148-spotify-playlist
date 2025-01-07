@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-364 songs - 14 hr 31 min
+366 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Corrente](https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Corrente](https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E) | 2:02 | 2023-05-15 |  |
 | [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 | 2024-01-09 |  |
 | [Crimson](https://open.spotify.com/track/50nkap2cbLP4X1VzDt1qtR) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Crimson](https://open.spotify.com/album/0wMx534abVWJwncT3JAP6i) | 2:15 | 2024-01-09 |  |
+| [Dancing Light](https://open.spotify.com/track/2rfxsIrZkWXDPtRVb738B7) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Dancing Light](https://open.spotify.com/album/69tuCuRBv2FQ5I9k2dfzAO) | 2:20 | 2025-01-06 |  |
 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 | 2023-05-15 |  |
 | [Darkness of days](https://open.spotify.com/track/7Jo0X730aLdGcB9rgkSOgl) | [Jens Larsson](https://open.spotify.com/artist/35Qsb23bqJr3tzyA7GICWT) | [Darkness of days](https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J) | 3:10 | 2023-05-15 |  |
 | [Dawn](https://open.spotify.com/track/1E0RGmeX5QjPeWTdd99mAh) | [Landwerm](https://open.spotify.com/artist/2YDG8LcPW20IKhL1GgQmDJ) | [Dawn](https://open.spotify.com/album/3j4pp3rJJGI43C1SbK0wnR) | 1:49 | 2021-06-27 | 2023-05-16 |
@@ -189,6 +190,7 @@
 | [Les mots](https://open.spotify.com/track/0KCHUInxtCsvyMP51FbpIv) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Les mots](https://open.spotify.com/album/2kTguPsPBlP4vxONM6FUUh) | 1:57 | 2023-05-15 | 2023-08-16 |
 | [Lever du Soleil](https://open.spotify.com/track/3Ct59fvUQpwTyaAvi4fCEL) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Lever du Soleil](https://open.spotify.com/album/4vuAjANHzQMGIJu9fN4c3q) | 2:36 | 2024-05-29 |  |
 | [Liebevoll](https://open.spotify.com/track/5M4W1gIBx3eqCoxZWy48zE) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Liebevoll](https://open.spotify.com/album/5lp9wSSEvsgowFwuhrJ4Z8) | 2:24 | 2023-10-24 |  |
+| [Like Heaven](https://open.spotify.com/track/3i1graVguc53XFT7wNduKn) | [Saveliy Lleu](https://open.spotify.com/artist/6GR4x2rlUUYUrj2mimfXm9) | [Like Heaven](https://open.spotify.com/album/5qJjXznm3PkQNwbZ6SMdgF) | 2:50 | 2025-01-06 |  |
 | [Limitation \(Scaled Down Version\)](https://open.spotify.com/track/4ZTvGA5KudTVKbhmaH3CLb) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 2:12 | 2022-07-05 | 2023-05-16 |
 | [Limitation \(Scaled Down Version\)](https://open.spotify.com/track/5pEXKNDXvtfW0XE1YL4tZM) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/4XBlcBU2srxJEXFgToYOTi) | 2:12 | 2021-06-27 | 2022-07-29 |
 | [Little Boy](https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Little Boy](https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT) | 2:02 | 2024-03-19 |  |

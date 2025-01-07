@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM?si=AbHmjeqYTwyZlt\-FhV7JCg>Dunsin Oyekan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,828 likes - 103 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,859 likes - 103 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

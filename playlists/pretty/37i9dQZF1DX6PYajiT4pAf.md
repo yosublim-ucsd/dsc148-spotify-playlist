@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Morad y el resto de novedades más importantes de las 2 últimas semanas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,800 likes - 34 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,832 likes - 34 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

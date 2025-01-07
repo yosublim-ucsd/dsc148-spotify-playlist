@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 
 > Our picks for the best kids songs of 2024\. Cover: John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,636 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,652 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 | 47 | [Time to Go \(Sing\-a\-Long\)](https://open.spotify.com/track/3aqtSvRwKSDX6sz5yXocgo) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Now, Let's Play \(Sing\-a\-Long\) Toddler Tunes](https://open.spotify.com/album/5QTxqGDTF9jtOA6yZjQlMP) | 1:15 |
 | 48 | [Big Feelings](https://open.spotify.com/track/3d05iVzuY8F9wjD87ciT0e) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [Big Feelings](https://open.spotify.com/album/2aW9TbZPlTk74HCP2Zqpwn) | 3:01 |
 | 49 | [Clipperty Clop](https://open.spotify.com/track/7fzvLNXrhWiV5ZG7JwVfsA) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [Marc & Katt](https://open.spotify.com/artist/2xngCNPOK7JnX9yqEeThoC) | [Clipperty Clop](https://open.spotify.com/album/4gO2JdIdYWATxXsy8h04mn) | 2:12 |
-| 50 | [Count to 10](https://open.spotify.com/track/3xjKspoLsRmwaeUvnIcNEW) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Wake Up From Your Nap and Other Circle Time Songs](https://open.spotify.com/album/0iLSa8xXBV3iXHZ41oy1Ti) | 2:37 |
+| 50 | [Count to 10](https://open.spotify.com/track/3xjKspoLsRmwaeUvnIcNEW) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Circle Time](https://open.spotify.com/album/0iLSa8xXBV3iXHZ41oy1Ti) | 2:37 |
 
 Snapshot ID: `Z1BIAAAAAACpFcTFoaOkDxpMZOfq6uI9`

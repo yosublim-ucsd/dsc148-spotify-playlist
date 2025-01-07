@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover: Ben Cristovao
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,345 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,458 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [omluva](https://open.spotify.com/track/0cvBT4NeKjhFBI6IdSgtVK) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [omluva](https://open.spotify.com/album/512WYq3D0ghh9iAbkWUuKf) | 3:10 |
-| 2 | [Pistácie \(feat\. Sofian Medjmedj\)](https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 2:54 |
+| 1 | [Pistácie \(feat\. Sofian Medjmedj\)](https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 2:54 |
+| 2 | [omluva](https://open.spotify.com/track/0cvBT4NeKjhFBI6IdSgtVK) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [omluva](https://open.spotify.com/album/512WYq3D0ghh9iAbkWUuKf) | 3:10 |
 | 3 | [Cígo a káva \(feat\. Saul\)](https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 3:03 |
-| 4 | [GHETTO ROMANTIKA](https://open.spotify.com/track/49ftZlRiBEGzNzKsYFiLd0) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [GHETTO ROMANTIKA](https://open.spotify.com/album/4OisfrfFJtYGkNZGgEGX1m) | 2:33 |
-| 5 | [Vítej mezi náma \(feat\. STEIN27\)](https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 3:13 |
+| 4 | [Vítej mezi náma \(feat\. STEIN27\)](https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 3:13 |
+| 5 | [GHETTO ROMANTIKA](https://open.spotify.com/track/49ftZlRiBEGzNzKsYFiLd0) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [GHETTO ROMANTIKA](https://open.spotify.com/album/4OisfrfFJtYGkNZGgEGX1m) | 2:33 |
 | 6 | [Pro štěstí](https://open.spotify.com/track/6KrZjI3fqzqctnmO0MjC4d) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Pro štěstí](https://open.spotify.com/album/0PjQfJtve9FGWFyVwaGKL2) | 2:47 |
 | 7 | [NENI STRE$S](https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [VOJNA](https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ) | 2:49 |
 | 8 | [Syndrom](https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:46 |
 | 9 | [KSN](https://open.spotify.com/track/7AlwfbJ4nhr7JnYwoSgAkM) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 3:01 |
 | 10 | [Kiki](https://open.spotify.com/track/4zBNmCPinwFF4mGgN8WqfN) | [Trabo](https://open.spotify.com/artist/19HPN1TcUQ4L5gPdRIELlr) | [Kiki](https://open.spotify.com/album/6jnEQrCjjByCACb1Q7Gx7y) | 2:53 |
 | 11 | [KARTÁČEK](https://open.spotify.com/track/2ybp61FAvNxmAe8XvmYWqW) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [SPEKTRUM](https://open.spotify.com/album/7aCWUL2zlwAftKiOE93Khv) | 2:15 |
-| 12 | [Iné Plemená](https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Iné Plemená](https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV) | 3:08 |
-| 13 | [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 |
-| 14 | [Rest In Piss](https://open.spotify.com/track/237OELq03CgubC3t7LwvUq) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [Rest In Piss](https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I) | 2:31 |
-| 15 | [ULICE DRUHÁ MÁMA](https://open.spotify.com/track/00Imdq7NDBO3zbbREGgUOM) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI) | [GLOBAL](https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX) | 3:06 |
+| 12 | [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 |
+| 13 | [Rest In Piss](https://open.spotify.com/track/237OELq03CgubC3t7LwvUq) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [Rest In Piss](https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I) | 2:31 |
+| 14 | [ULICE DRUHÁ MÁMA](https://open.spotify.com/track/00Imdq7NDBO3zbbREGgUOM) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI) | [GLOBAL](https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX) | 3:06 |
+| 15 | [Iné Plemená](https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Iné Plemená](https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV) | 3:08 |
 | 16 | [V Hlavě](https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 3:08 |
 | 17 | [Sunset](https://open.spotify.com/track/4URDQWhb7ylkhuTY2W6hfG) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Jerry Lee](https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Sunset](https://open.spotify.com/album/3UhqPWwNPWA6uAB6eVUYOd) | 2:35 |
 | 18 | [cool](https://open.spotify.com/track/3ccodz9WzM5L385hQbxbYW) | [Grey256](https://open.spotify.com/artist/66bgEhG3GXDBGNZEJKs8bM) | [cool](https://open.spotify.com/album/0lcEeyRb0qLz0ZDq2iZ37Y) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 49 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 50 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 
-Snapshot ID: `Z3Lo3wAAAACvjufla5KMNLHEXO9SxoKU`
+Snapshot ID: `Z3uHVgAAAAB7CUGbTMwNzCrhGFBjdn7o`

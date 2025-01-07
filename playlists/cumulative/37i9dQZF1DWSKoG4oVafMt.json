@@ -8797,6 +8797,32 @@
     },
     {
       "album": {
+        "name": "Khyaal Tere",
+        "url": "https://open.spotify.com/album/2MEvMWbAowbJde4MMFjL1Q"
+      },
+      "artists": [
+        {
+          "name": "Rohanpreet Singh",
+          "url": "https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        },
+        {
+          "name": "Mirroronly",
+          "url": "https://open.spotify.com/artist/5Z4xc8enAcMaWp5xkRA5ej"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174059,
+      "name": "Khyaal Tere",
+      "url": "https://open.spotify.com/track/5pTvUNfVWWV2mzxbSBSkmk"
+    },
+    {
+      "album": {
         "name": "Ki Kar Gaiyaan",
         "url": "https://open.spotify.com/album/4q1rMKC7XSD07kNcTo9gcl"
       },
@@ -17650,7 +17676,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 184000,
       "name": "Tera Mera Viah",
       "url": "https://open.spotify.com/track/0J8pFQmRY3T5Fo1eRMgZ49"

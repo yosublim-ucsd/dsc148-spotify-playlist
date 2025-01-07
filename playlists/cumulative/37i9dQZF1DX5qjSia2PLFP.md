@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:5fi7lIgJGH3RgUpJYcffQ7">4batz</a>
 
-1,102 songs - 2 day 3 hr 0 min
+1,103 songs - 2 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Breathe Me](https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:21 | 2024-03-22 | 2024-03-30 |
 | [Breathtaking Flows](https://open.spotify.com/track/0TN6inRWqZ6OU8XU2kRZhc) | [TYL3R DAVIS](https://open.spotify.com/artist/1ywKAvVzeUd6GkzxvGm5jA), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [If You're Checking for Me \(Deluxe Version\)](https://open.spotify.com/album/1Zrod8vPdr7YaVaStkFX87) | 3:20 | 2024-01-12 | 2024-02-17 |
 | [Broadway](https://open.spotify.com/track/3vZmKHwmyQOMaIyjMo3q1l) | [Quinton Brock](https://open.spotify.com/artist/1abW5Py6b6FSSpirm5Fkqq) | [Broadway](https://open.spotify.com/album/2lKI84ls52lb8IGD3LytkI) | 3:33 | 2024-02-16 | 2024-03-02 |
-| [Brokey](https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:37 | 2024-10-04 |  |
+| [Brokey](https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:37 | 2024-10-04 | 2025-01-07 |
 | [BROTHER](https://open.spotify.com/track/27xFlKtzTMEOgqBDX7skYn) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [BROTHER](https://open.spotify.com/album/7xtm4CRIYJHvnJ657iIu8S) | 2:18 | 2024-07-12 | 2024-09-14 |
 | [Bruddanem \(feat\. Lil Durk\)](https://open.spotify.com/track/3n31mf1JGlRxAGwHwx3pDd) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:55 | 2023-10-25 | 2023-11-01 |
 | [brush u](https://open.spotify.com/track/6tJBebmFkwDHCznVLzjIdc) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [WOAH](https://open.spotify.com/album/7kQvu3PNdlvpTmyKBih4fC) | 1:51 | 2021-09-01 | 2022-03-05 |
@@ -1010,6 +1010,7 @@
 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 | 2023-12-15 | 2024-01-13 |
 | [TURNITUP](https://open.spotify.com/track/65CfL5jiTfK2DCWqzv43gb) | [JIREH](https://open.spotify.com/artist/7aEkh8osePkHEee0Xi947K) | [TURNITUP](https://open.spotify.com/album/2BBdKR857YO3iQtkqiVjn6) | 3:26 | 2024-06-21 | 2024-06-29 |
 | [Tweak \(with Kyle Richh, Jenn Carter & TaTa\)](https://open.spotify.com/track/7H29Nxj2XqsUNGkO6vH2MZ) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Tweak](https://open.spotify.com/album/2A5sxDsXqXaqQ9whtIJpol) | 2:58 | 2024-05-03 | 2024-05-11 |
+| [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 | 2025-01-06 |  |
 | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7) | 2:38 | 2024-09-06 | 2024-09-14 |
 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 | 2024-05-24 |  |
 | [U4EA](https://open.spotify.com/track/4AYQzjTMJTyQj6Rfh7A0Yx) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Synthesis+](https://open.spotify.com/album/6GCQOfKDbr84KCS9LX8oTb) | 3:01 | 2023-08-25 | 2023-10-26 |

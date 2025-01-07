@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/61xuizm8At6DCwGHJZTmB7.md) - cumulative - [plain](/playlists/plain/61xuizm8At6DCwGHJZTmB7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/61xuizm8At6DCwGHJZTmB7)
 
-### [Top Christian Worship 2024](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
+### [Top Christian Worship 2025](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Top Christian Worship 2024 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
+> Top Christian Worship 2025 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-549 songs - 2 day 5 hr 23 min
+550 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Bless God \- Live](https://open.spotify.com/track/3iIpkJIcgWtAXIjEOXIo7a) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Bless God \(Live\)](https://open.spotify.com/album/4Gq29SPRne0lNf7FZPbJz5) | 6:04 | 2023-07-28 | 2024-04-19 |
 | [Bless God \- Live From Passion 2024](https://open.spotify.com/track/55891kIDHcEGReUrpD461w) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Bless God](https://open.spotify.com/album/074Y58Kfks4iXnPCGWlo0O) | 5:14 | 2024-04-05 |  |
 | [Bless The Lord](https://open.spotify.com/track/72kofsjFXx2FaajQOSHbjK) | [Rose Worship](https://open.spotify.com/artist/6SIyNWjA9wTHoHcotZV3Rj), [Julia Damazio](https://open.spotify.com/artist/2pE1zVa1OtCCmO4ufiO7Nl), [Kirk Anderson](https://open.spotify.com/artist/7JMsKiRKiqFgMiWE3PwiTY) | [Bless The Lord](https://open.spotify.com/album/5FvCXd6ct6lMybM7BoVTzs) | 7:54 | 2024-02-23 | 2024-03-02 |
+| [Blood of Jesus \- Live](https://open.spotify.com/track/75kvOR4YandG5GCLUdQQzt) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Blood Of Jesus \(Live\)](https://open.spotify.com/album/5yo7sW9VJcJNERPpjNsNDv) | 4:35 | 2025-01-06 |  |
 | [Break Every Chain](https://open.spotify.com/track/1kSQjzusL5j9Vvy67krOjy) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Break Every Chain](https://open.spotify.com/album/0S8VvN9QY0Ivbpm3ZHRLmr) | 8:20 | 2022-04-22 | 2023-01-05 |
 | [Break Every Chain \- Live](https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 8:18 | 2023-03-31 | 2024-09-10 |
 | [Breakthrough Miracle Power](https://open.spotify.com/track/7ATRQZwETMu5jFYzXiMjNc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:52 | 2022-03-15 | 2022-06-10 |

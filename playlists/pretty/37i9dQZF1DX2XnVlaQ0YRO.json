@@ -1,6 +1,6 @@
 {
   "description": "shop, wrap, bake, study or just chill to these cozy christmas beats.",
-  "num_followers": 5180,
+  "num_followers": 5165,
   "original_name": "lofi christmas chill\ud83c\udf84\u2744\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
+        "name": "It's Beginning To Look A Lot Like Christmas",
+        "url": "https://open.spotify.com/album/7xEfLRvlPdubpUoq3DXrBG"
+      },
+      "artists": [
+        {
+          "name": "DJ Carol",
+          "url": "https://open.spotify.com/artist/3raipqm7bm4EkhMYssAo0U"
+        }
+      ],
+      "duration_ms": 120243,
+      "name": "It's Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/2eLHITisbzNK8FA6W7d51V"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
         "name": "8 Days of Christmas",
         "url": "https://open.spotify.com/album/3uPA4i195y3KYZOuMBZeYY"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 128043,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/23E5XFraifxkUJglRpBm9m"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
-        "name": "It's Beginning To Look A Lot Like Christmas",
-        "url": "https://open.spotify.com/album/7xEfLRvlPdubpUoq3DXrBG"
-      },
-      "artists": [
-        {
-          "name": "DJ Carol",
-          "url": "https://open.spotify.com/artist/3raipqm7bm4EkhMYssAo0U"
-        }
-      ],
-      "duration_ms": 120243,
-      "name": "It's Beginning To Look A Lot Like Christmas",
-      "url": "https://open.spotify.com/track/2eLHITisbzNK8FA6W7d51V"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "O Christmas Chill",
-        "url": "https://open.spotify.com/album/4hknqOVnHmbEriOiMbakTA"
-      },
-      "artists": [
-        {
-          "name": "Amethyst Voyage",
-          "url": "https://open.spotify.com/artist/7qtiZX6nbdr4hwHxMnizT0"
-        }
-      ],
-      "duration_ms": 126374,
-      "name": "O Christmas Chill",
-      "url": "https://open.spotify.com/track/57eaor5p4n2fVunmw5A43c"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Lo-fi Christmas",
         "url": "https://open.spotify.com/album/5a4JddrBEJGsKbMzzunBIH"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 103514,
       "name": "Yuletide",
       "url": "https://open.spotify.com/track/4SqfEcfHRqR522BleRT5Rr"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "O Christmas Chill",
+        "url": "https://open.spotify.com/album/4hknqOVnHmbEriOiMbakTA"
+      },
+      "artists": [
+        {
+          "name": "Amethyst Voyage",
+          "url": "https://open.spotify.com/artist/7qtiZX6nbdr4hwHxMnizT0"
+        }
+      ],
+      "duration_ms": 126374,
+      "name": "O Christmas Chill",
+      "url": "https://open.spotify.com/track/57eaor5p4n2fVunmw5A43c"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Under The Mistletoe",
-        "url": "https://open.spotify.com/album/5UnhWQflxrR1Gh0gNO7oG8"
-      },
-      "artists": [
-        {
-          "name": "Rushee",
-          "url": "https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw"
-        }
-      ],
-      "duration_ms": 196681,
-      "name": "Under The Mistletoe",
-      "url": "https://open.spotify.com/track/529eSxqoHAUFj9RJLcPDTG"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "all i want for christmas is you",
         "url": "https://open.spotify.com/album/5aOjU3qM5OTjAdYHSemefq"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 152836,
       "name": "all i want for christmas is you",
       "url": "https://open.spotify.com/track/4P9eg12prbMxyI1OsU8hyD"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Under The Mistletoe",
+        "url": "https://open.spotify.com/album/5UnhWQflxrR1Gh0gNO7oG8"
+      },
+      "artists": [
+        {
+          "name": "Rushee",
+          "url": "https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw"
+        }
+      ],
+      "duration_ms": 196681,
+      "name": "Under The Mistletoe",
+      "url": "https://open.spotify.com/track/529eSxqoHAUFj9RJLcPDTG"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Togetherness",
-        "url": "https://open.spotify.com/album/61KdA5AeurS6FPon5tcLYf"
-      },
-      "artists": [
-        {
-          "name": "Jingle Feelz",
-          "url": "https://open.spotify.com/artist/3IWqTmtQEwVejePSf3LXil"
-        }
-      ],
-      "duration_ms": 107666,
-      "name": "Togetherness",
-      "url": "https://open.spotify.com/track/0tFIloIXXvtGeIkC1fRmIN"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 187723,
       "name": "Angels We Have Heard on High",
       "url": "https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Togetherness",
+        "url": "https://open.spotify.com/album/61KdA5AeurS6FPon5tcLYf"
+      },
+      "artists": [
+        {
+          "name": "Jingle Feelz",
+          "url": "https://open.spotify.com/artist/3IWqTmtQEwVejePSf3LXil"
+        }
+      ],
+      "duration_ms": 107666,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/0tFIloIXXvtGeIkC1fRmIN"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/0OTyUrITns5JqLRMFzPnvL"
-      },
-      "artists": [
-        {
-          "name": "Holiday Beats",
-          "url": "https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/7Kg4sOMxvWqoYlpmiZSn8f"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Bluewerks Vol. 5: Warm Up",
         "url": "https://open.spotify.com/album/4S7q5icPiLQmsb0OrkxBDo"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 126896,
       "name": "Ice Skating",
       "url": "https://open.spotify.com/track/1ASyxb9ktut4HcI74g7YPJ"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/0OTyUrITns5JqLRMFzPnvL"
+      },
+      "artists": [
+        {
+          "name": "Holiday Beats",
+          "url": "https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3"
+        }
+      ],
+      "duration_ms": 164444,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/7Kg4sOMxvWqoYlpmiZSn8f"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "duration_ms": 117041,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
         "name": "It's Christmas Lofi Beats",
         "url": "https://open.spotify.com/album/0NKh4PhgA3OFX078fBGGmX"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Hark! The Herald Angels Sing",
-        "url": "https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU"
+        "name": "night bells",
+        "url": "https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI"
       },
       "artists": [
         {
-          "name": "louke's beats",
-          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+          "name": "Lomery",
+          "url": "https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj"
         }
       ],
-      "duration_ms": 117041,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS"
+      "duration_ms": 118560,
+      "name": "night bells",
+      "url": "https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "night bells",
-        "url": "https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI"
-      },
-      "artists": [
-        {
-          "name": "Lomery",
-          "url": "https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj"
-        }
-      ],
-      "duration_ms": 118560,
-      "name": "night bells",
-      "url": "https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "merry lofi",
         "url": "https://open.spotify.com/album/62W803hCRq4i2aq3WINogd"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 130123,
       "name": "merry lofi",
       "url": "https://open.spotify.com/track/0sYMwcydVgZk8aYESIG2gM"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Joyeux No\u00ebl Mes Amis",
+        "url": "https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN"
+      },
+      "artists": [
+        {
+          "name": "Astair\u00e9",
+          "url": "https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc"
+        }
+      ],
+      "duration_ms": 158070,
+      "name": "Joyeux No\u00ebl Mes Amis",
+      "url": "https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1695,22 +1711,6 @@
       "duration_ms": 127376,
       "name": "Cold Wonderland",
       "url": "https://open.spotify.com/track/3WKOaCXGUQ3uFRwQbnyb4G"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
-        "name": "Joyeux No\u00ebl Mes Amis",
-        "url": "https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN"
-      },
-      "artists": [
-        {
-          "name": "Astair\u00e9",
-          "url": "https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc"
-        }
-      ],
-      "duration_ms": 158070,
-      "name": "Joyeux No\u00ebl Mes Amis",
-      "url": "https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6"
     },
     {
       "added_at": "2024-12-20 07:58:31",

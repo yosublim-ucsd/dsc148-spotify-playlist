@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 66820,
+  "num_followers": 66842,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Odyssey (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
-      },
-      "artists": [
-        {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
-        }
-      ],
-      "duration_ms": 336466,
-      "name": "Native New Yorker - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Music Speaks Louder Than Words",
         "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 209826,
       "name": "Nights on Broadway",
       "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Odyssey (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 336466,
+      "name": "Native New Yorker - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "The Best of Candi Staton",
-        "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 317480,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Jean Carn",
         "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 255400,
       "name": "Time Waits for No One",
       "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Best of Candi Staton",
+        "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 317480,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
     },
     {
       "added_at": "2024-09-07 16:02:33",

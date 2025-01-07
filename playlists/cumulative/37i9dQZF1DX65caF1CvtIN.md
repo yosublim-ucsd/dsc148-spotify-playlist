@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-221 songs - 9 hr 53 min
+222 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Retreat](https://open.spotify.com/track/2FXitAjMmxdA1bvdUiuq5y) | [Eric Wilhelm](https://open.spotify.com/artist/7pMZdUh8fBuVoUpARYPuoQ) | [Retreat](https://open.spotify.com/album/22yD4WvTz00AYshsHQU5vs) | 1:56 | 2022-08-03 | 2024-11-06 |
 | [Route To Ukraine](https://open.spotify.com/track/42sVqeLhT6bb01PbkSh1gi) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Route To Ukraine](https://open.spotify.com/album/4hmnvOQGYQGDH4g7OM6UXN) | 4:15 | 2022-08-03 |  |
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2022-08-03 | 2023-06-21 |
+| [Sad Moments](https://open.spotify.com/track/4ZgngkORCnHjiXHmZbIFJT) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Sad Moments](https://open.spotify.com/album/4yueXDq97H7jHHnYYYc1JJ) | 2:34 | 2025-01-06 |  |
 | [San Siro](https://open.spotify.com/track/2XXnGBKuvfcpfVvRgBEdvP) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [San Remo](https://open.spotify.com/album/7n4ZFIcNUM7GjyLd9FWNnA) | 2:50 | 2022-08-03 |  |
 | [Satie: Gymnopédie No.1](https://open.spotify.com/track/5aRTQmLKpQ7tqW7HL5jS1h) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Émilie Austen](https://open.spotify.com/artist/0VBM7sf39UxouwL5uw0tdf) | [Satie for Reading](https://open.spotify.com/album/5nQ5rhLxxdpwN6Zd8kH1Ie) | 3:52 | 2022-08-03 |  |
 | [Scelta del percorso](https://open.spotify.com/track/2n5aztOAXcDEw7ssl1ORkN) | [Riccardo Lettiere](https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x) | [Scelta del percorso](https://open.spotify.com/album/2gZekZwpvqoTHPG6zRpVRv) | 2:06 | 2022-08-03 |  |

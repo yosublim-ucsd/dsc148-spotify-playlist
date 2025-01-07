@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Parhaat uutuusbiisit samassa paketissa\. Kannessa Costi ja Sexmane.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,564 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,557 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 35 | [Forever \(feat\. Malou & Yuna\) \- MEDUZA Remix](https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\) \[MEDUZA Remix\]](https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp) | 2:41 |
 | 36 | [Merkintöjä Wilmaan](https://open.spotify.com/track/7DBm74Mgj7MU7trLS5K5hy) | [RAPFAIJA](https://open.spotify.com/artist/2eGbmJfjYbZatbebJxY6PD), [SATUSETÄ](https://open.spotify.com/artist/6QqIsJig6o8XYLqxjI4eQJ) | [Merkintöjä Wilmaan](https://open.spotify.com/album/5jX9AM8001JYRiUIvDUQqn) | 2:38 |
 | 37 | [Shit Show \(feat\. Veeze & Lil Yachty\)](https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:45 |
-| 38 | [Giannis Remix](https://open.spotify.com/track/5xL9W7jjSWUYqFizzN29Rp) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Giannis Remix](https://open.spotify.com/album/4KQ8bZDQDaG7ipj1ZQKVGu) | 3:57 |
+| 38 | [Giannis Remix](https://open.spotify.com/track/5xL9W7jjSWUYqFizzN29Rp) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Giannis Remix](https://open.spotify.com/album/4KQ8bZDQDaG7ipj1ZQKVGu) | 2:53 |
 | 39 | [Gorgeous](https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Gorgeous](https://open.spotify.com/album/0bCdGyOL3c0jJlKvxisXeE) | 3:34 |
 | 40 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
 | 41 | [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ego \(feat\. GIMS & Lola Indigo\)](https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf) | 3:28 |

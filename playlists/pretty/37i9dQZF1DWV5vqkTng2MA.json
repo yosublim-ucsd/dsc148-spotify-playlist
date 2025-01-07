@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 414507,
+  "num_followers": 414545,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Jackie and Wilson",
-      "url": "https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Staring at the Wall",
         "url": "https://open.spotify.com/album/5tknEZvydcc1zkg5CWOcym"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 271257,
       "name": "Staring at the Wall",
       "url": "https://open.spotify.com/track/1vaE2g2ECAPiSDve8ApSGm"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Jackie and Wilson",
+      "url": "https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Utah",
+        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "The People's House (with The War And Treaty)",
         "url": "https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 265846,
       "name": "The People's House (with The War And Treaty)",
       "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Utah",
-        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/1Q9BAEptV3nrj8sXBHU70M"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 166106,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
+      "duration_ms": 221280,
+      "name": "Devil in Me",
+      "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 221280,
-      "name": "Devil in Me",
-      "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
+      "duration_ms": 166106,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Hey Mama",
-        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
-      },
-      "artists": [
-        {
-          "name": "Great Caesar",
-          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 219880,
       "name": "Will I Ever Know",
       "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
+      },
+      "artists": [
+        {
+          "name": "Great Caesar",
+          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "The Dark Of The Morning EP",
-        "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "When We Were On Fire",
-      "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Electric Fever",
         "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 227567,
       "name": "Electric Fever",
       "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "The Dark Of The Morning EP",
+        "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "When We Were On Fire",
+      "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
     },
     {
       "added_at": "2024-09-06 04:00:00",

@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/4oyt4GXDxOpPQgeZLhXibx"
+      },
+      "artists": [
+        {
+          "name": "Taylor Deupree",
+          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245973,
+      "name": "(We Share the) Dust Garden",
+      "url": "https://open.spotify.com/track/0zVOttPkbmOR8kmT7MCOta"
+    },
+    {
+      "album": {
         "name": "+puzzle",
         "url": "https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7"
       },
@@ -1411,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "album": {
         "name": "hands some",
         "url": "https://open.spotify.com/album/5SwzrEmMrRJj4eX4iPIOwz"
       },
@@ -1444,6 +1480,24 @@
       "duration_ms": 552837,
       "name": "Biologic Music",
       "url": "https://open.spotify.com/track/7GAAU8RkjWniIjELzfNru5"
+    },
+    {
+      "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207419,
+      "name": "Bird Language",
+      "url": "https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz"
     },
     {
       "album": {
@@ -2854,7 +2908,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 219960,
       "name": "Denial, Creation",
       "url": "https://open.spotify.com/track/6IheMaJSyIfRpXgMDE1Ajw"
@@ -3630,6 +3684,24 @@
       "duration_ms": 298909,
       "name": "Fallin Into Space",
       "url": "https://open.spotify.com/track/0mRI398jCGgDuJXoG79LSz"
+    },
+    {
+      "album": {
+        "name": "How Much Time it is Between You and Me?",
+        "url": "https://open.spotify.com/album/2MqJM7oZ4FOCowQORhfBKc"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298909,
+      "name": "Fallin Into Space",
+      "url": "https://open.spotify.com/track/2AxGUdCW0me3Wkx5SAh3im"
     },
     {
       "album": {
@@ -6308,7 +6380,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 530894,
       "name": "Movement 6",
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
@@ -6326,7 +6398,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 331916,
       "name": "Multifolds",
       "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
@@ -6544,6 +6616,24 @@
       "duration_ms": 586440,
       "name": "New Grass",
       "url": "https://open.spotify.com/track/51Lt2RN3W0u2xI0LiARCRm"
+    },
+    {
+      "album": {
+        "name": "Intrinsic Rhythm",
+        "url": "https://open.spotify.com/album/3ucKEWX6guOdBhRTZQ9GJV"
+      },
+      "artists": [
+        {
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123437,
+      "name": "Nia",
+      "url": "https://open.spotify.com/track/0ZbUsVTjgbeq4Uhj9k7N9J"
     },
     {
       "album": {
@@ -9040,7 +9130,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 466420,
       "name": "that love",
       "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
@@ -10537,6 +10627,24 @@
     },
     {
       "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/0fkdChNifpc3QI6UyXCDpo"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221958,
+      "name": "Volver - Oboe Remix",
+      "url": "https://open.spotify.com/track/0LB9eAqowGmeZlML4nbzuh"
+    },
+    {
+      "album": {
         "name": "Waende",
         "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
       },
@@ -10556,7 +10664,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 232742,
       "name": "Waende",
       "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
@@ -11094,7 +11202,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 238003,
       "name": "\u65e5\u672c\u306e\u7a7a\u6c17 - Air of Japan",
       "url": "https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw"

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Aayiram Aura",
+        "url": "https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256488,
+      "name": "Aayiram Aura",
+      "url": "https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1"
+    },
+    {
+      "album": {
         "name": "Alif",
         "url": "https://open.spotify.com/album/2OG7wgIZqAxzTiUBT4zVhU"
       },
@@ -190,6 +208,36 @@
       "duration_ms": 179478,
       "name": "Beevi",
       "url": "https://open.spotify.com/track/4JgRTf5gf9DtWFeeaOAZ5V"
+    },
+    {
+      "album": {
+        "name": "Blood (From \"Marco\")",
+        "url": "https://open.spotify.com/album/1vuCvWPTaPVYd2Cki6s78w"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Rohith Siddappa",
+          "url": "https://open.spotify.com/artist/6gGKW0XAgIiSlr7ZOnLjbR"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209530,
+      "name": "Blood (From \"Marco\")",
+      "url": "https://open.spotify.com/track/2xufy4wGqo7ax8caPKyMw6"
     },
     {
       "album": {
@@ -456,7 +504,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 221538,
       "name": "Jupiter Mazha",
       "url": "https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p"
@@ -778,7 +826,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 200000,
       "name": "Manavaalan Thug - From \"Thallumaala\"",
       "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"

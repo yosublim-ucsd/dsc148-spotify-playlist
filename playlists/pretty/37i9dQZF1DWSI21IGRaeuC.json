@@ -1,6 +1,6 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 47284,
+  "num_followers": 47351,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -831,8 +831,8 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Little Man (Proud Of You)",
-        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
+        "name": "FREAK IN THE SHEETS",
+        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
         }
       ],
-      "duration_ms": 120902,
-      "name": "Little Man (Proud Of You)",
-      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
+      "duration_ms": 193500,
+      "name": "FREAK IN THE SHEETS",
+      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -927,8 +927,8 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "FREAK IN THE SHEETS",
-        "url": "https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi"
+        "name": "Little Man (Proud Of You)",
+        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
         }
       ],
-      "duration_ms": 193500,
-      "name": "FREAK IN THE SHEETS",
-      "url": "https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU"
+      "duration_ms": 120902,
+      "name": "Little Man (Proud Of You)",
+      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
     },
     {
       "added_at": "2024-12-13 05:00:18",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Flawless",
         "url": "https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 200221,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/0I8ZLNl7Hf51kuOSFJvZIC"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Bad City",
-        "url": "https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        }
-      ],
-      "duration_ms": 381821,
-      "name": "Bad City",
-      "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Work It EP",
         "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 194887,
       "name": "Work It",
       "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Bad City",
+        "url": "https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "duration_ms": 381821,
+      "name": "Bad City",
+      "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "ENDZ058",
-        "url": "https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi"
+        "name": "Go Deeper EP",
+        "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
       },
       "artists": [
         {
-          "name": "DXNBY",
-          "url": "https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8"
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
         }
       ],
-      "duration_ms": 374754,
-      "name": "Bumpin'",
-      "url": "https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a"
+      "duration_ms": 202781,
+      "name": "Go Deeper",
+      "url": "https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1415,6 +1415,22 @@
       "duration_ms": 148153,
       "name": "Take",
       "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "ENDZ058",
+        "url": "https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi"
+      },
+      "artists": [
+        {
+          "name": "DXNBY",
+          "url": "https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8"
+        }
+      ],
+      "duration_ms": 374754,
+      "name": "Bumpin'",
+      "url": "https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1455,22 +1471,6 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Go Deeper EP",
-        "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 202781,
-      "name": "Go Deeper",
-      "url": "https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf"
-      },
-      "artists": [
-        {
-          "name": "Bastian Bux",
-          "url": "https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD"
-        },
-        {
-          "name": "Daniel Orpi",
-          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Origins EP",
         "url": "https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 236279,
       "name": "Origins - 3AM Tusi Mix",
       "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf"
+      },
+      "artists": [
+        {
+          "name": "Bastian Bux",
+          "url": "https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD"
+        },
+        {
+          "name": "Daniel Orpi",
+          "url": "https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD"
     },
     {
       "added_at": "2024-11-06 22:50:08",

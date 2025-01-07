@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 114130,
       "name": "An Introduction",
       "url": "https://open.spotify.com/track/3NXSkfqQ6ASC588TuWkqTe"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 220800,
       "name": "Halcyon",
       "url": "https://open.spotify.com/track/3eAMZYxihi4IQomVVBqDep"
@@ -548,10 +548,28 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 197973,
       "name": "I spend too much time on the internet to care about the small things",
       "url": "https://open.spotify.com/track/34R8ji5n7cAog721QglSiy"
+    },
+    {
+      "album": {
+        "name": "HALCYON",
+        "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "I spend too much time on the internet to care about the small things",
+      "url": "https://open.spotify.com/track/7fpBdwBWexTHYW22kF053l"
     },
     {
       "album": {
@@ -685,6 +703,24 @@
     },
     {
       "album": {
+        "name": "HALCYON",
+        "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Racing",
+      "url": "https://open.spotify.com/track/4NUrUFTFvLZj0BmsdAp4d2"
+    },
+    {
+      "album": {
         "name": "ALTERED FUTURE: HALCYON PT.I",
         "url": "https://open.spotify.com/album/5LQdUz31WT8U1BfajznbHg"
       },
@@ -696,7 +732,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 219130,
       "name": "Racing",
       "url": "https://open.spotify.com/track/6TkXn1xvss49UOIWT5MTRG"

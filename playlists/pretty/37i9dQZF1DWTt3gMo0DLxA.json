@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Game Changer",
-  "num_followers": 250460,
+  "num_followers": 251346,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0rzoAAAAAAl/2Il87DKAqY5ihrunPxF",
+  "snapshot_id": "Z3vbSAAAAADPAB5JflWEHS1SLGfsSDe1",
   "tracks": [
     {
       "added_at": "2024-11-28 12:52:51",
@@ -35,6 +35,106 @@
       "duration_ms": 272908,
       "name": "NaaNaa Hyraanaa (From \"Game Changer\") (Telugu)",
       "url": "https://open.spotify.com/track/1vkRcRkNTujACs7wdHRBc3"
+    },
+    {
+      "added_at": "2025-01-06 08:20:46",
+      "album": {
+        "name": "Swathi Reddy (From \"Mad Square\")",
+        "url": "https://open.spotify.com/album/6Nc85QdkWlxzfEMNL1R15A"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Swathi Reddy UK",
+          "url": "https://open.spotify.com/artist/3lgDXKavd9zCXvaEEAYpib"
+        },
+        {
+          "name": "Suresh Gangula",
+          "url": "https://open.spotify.com/artist/3BzOPKZs10Ov6IOg5m9d01"
+        }
+      ],
+      "duration_ms": 209369,
+      "name": "Swathi Reddy (From \"Mad Square\")",
+      "url": "https://open.spotify.com/track/4LitAOz0wo4rmVI6sstajG"
+    },
+    {
+      "added_at": "2025-01-06 08:20:46",
+      "album": {
+        "name": "Dammunte Pattukora (From \"Pushpa 2 The Rule\")",
+        "url": "https://open.spotify.com/album/6gb6tODN0jR5zbRtSChUST"
+      },
+      "artists": [
+        {
+          "name": "Allu Arjun",
+          "url": "https://open.spotify.com/artist/4rGOogZjLpCyotqO0AN0lz"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sukumar",
+          "url": "https://open.spotify.com/artist/4NHool5HnylYzBdCKVveVG"
+        }
+      ],
+      "duration_ms": 93083,
+      "name": "Dammunte Pattukora (From \"Pushpa 2 The Rule\")",
+      "url": "https://open.spotify.com/track/0cBin9IP9kRzFAkpm2XUSa"
+    },
+    {
+      "added_at": "2025-01-06 12:52:53",
+      "album": {
+        "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
+        "url": "https://open.spotify.com/album/2i9vfuJlSNoVVaSHTu2dnC"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Kumara Vagdevi",
+          "url": "https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 241507,
+      "name": "Dabidi Dibidi (From \"Daaku Maharaaj\")",
+      "url": "https://open.spotify.com/track/67V0RZx812gG2GQjOA4vPD"
+    },
+    {
+      "added_at": "2025-01-06 08:20:46",
+      "album": {
+        "name": "Godari Gattu Meedha (From \"Sankranthiki Vasthunam\")",
+        "url": "https://open.spotify.com/album/4JN5Q1xZ0rcCTgMHAxsMLq"
+      },
+      "artists": [
+        {
+          "name": "Ramana Gogula",
+          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+        },
+        {
+          "name": "Madhupriya",
+          "url": "https://open.spotify.com/artist/1r3SXXFQepYKsZbV8ZqPue"
+        },
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "duration_ms": 250083,
+      "name": "Godari Gattu Meedha (From \"Sankranthiki Vasthunam\")",
+      "url": "https://open.spotify.com/track/0ibgjKZZ56aoelJ76o7OW9"
     },
     {
       "added_at": "2024-08-05 12:07:26",
@@ -237,30 +337,6 @@
       "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
     },
     {
-      "added_at": "2024-08-13 12:02:34",
-      "album": {
-        "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
-        "url": "https://open.spotify.com/album/4lkXZmx0fyol03xmpQcqV3"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Sanapati Bharadwaj Patrudu",
-          "url": "https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL"
-        }
-      ],
-      "duration_ms": 250761,
-      "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
-      "url": "https://open.spotify.com/track/0qdiNx11tQtjFCqbko9i2k"
-    },
-    {
       "added_at": "2024-02-12 09:26:05",
       "album": {
         "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
@@ -299,46 +375,6 @@
       "duration_ms": 138190,
       "name": "Devara Thandavam (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/6oNYUEGuQdpwwj0xWnzSP5"
-    },
-    {
-      "added_at": "2024-10-22 06:55:01",
-      "album": {
-        "name": "Pranam Kanna (From \"Love Reddy\")",
-        "url": "https://open.spotify.com/album/3nH8d80gGkk4zzuSJuH7jb"
-      },
-      "artists": [
-        {
-          "name": "Prince Henry",
-          "url": "https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY"
-        },
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Pranam Kanna (From \"Love Reddy\")",
-      "url": "https://open.spotify.com/track/0Uclctufownqgjwo1IRLFc"
-    },
-    {
-      "added_at": "2024-11-04 10:32:46",
-      "album": {
-        "name": "Kakinada Kaja",
-        "url": "https://open.spotify.com/album/1ArG0dGBVn5cO475ftFkzz"
-      },
-      "artists": [
-        {
-          "name": "Roll Rida",
-          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
-        },
-        {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Kakinada Kaja",
-      "url": "https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS"
     },
     {
       "added_at": "2024-08-09 13:11:08",
@@ -675,22 +711,6 @@
       "duration_ms": 204181,
       "name": "Samayama (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Manmadhudu",
-        "url": "https://open.spotify.com/album/2aNP8WRBq1cUgP4hvblCVa"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        }
-      ],
-      "duration_ms": 258090,
-      "name": "Andhamyna Bhamalu",
-      "url": "https://open.spotify.com/track/1JJjHoFLuQQKddOzD8pYsS"
     },
     {
       "added_at": "2023-08-30 10:44:11",

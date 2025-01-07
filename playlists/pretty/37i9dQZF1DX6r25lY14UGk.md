@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,204 likes - 299 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,282 likes - 299 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 29 | [Everything Song](https://open.spotify.com/track/6kSrWKD0yDZ39QT1WOEjB1) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Songs About Stuff Vol\. 1](https://open.spotify.com/album/3InqVjhnEyfdzcHBBmnsWf) | 2:14 |
 | 30 | [Bubbles Everywhere](https://open.spotify.com/track/1WUJuH92wHK8Zfsvd4myl4) | [Rosita](https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf), [Zoë](https://open.spotify.com/artist/5uFSdSPi2EWoMfS5GeJIJr), [Sesame Street’s Charlie](https://open.spotify.com/artist/4bfEr94LI5n6CTxlWRA6fX), [Sesame Street’s Alan](https://open.spotify.com/artist/1vyD0pSb8LF7tHsKQ8fUgC), [Sesame Street’s Chris](https://open.spotify.com/artist/6WBDv5HWvcuZV9F5H4O93O), [Sesame Street's Nina](https://open.spotify.com/artist/7fogFx1w3SiLDqHnODpLCL), [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Bubbles Everywhere](https://open.spotify.com/album/1rkdZYCLDEEhrz7vCHN3BF) | 1:12 |
 | 31 | [Smile and Roar](https://open.spotify.com/track/1LOcWc29BlHNEGrWSHHMfH) | [D.I.N.O.](https://open.spotify.com/artist/4sZ3HWBA7p8ijTBLIwbJ0j) | [Smile and Roar](https://open.spotify.com/album/7teO541Mbi2wT6TrIUadwS) | 1:40 |
-| 32 | [Wake Up From Your Nap](https://open.spotify.com/track/0FSxDMjcKBYwUJWPf2xWxj) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Wake Up From Your Nap and Other Circle Time Songs](https://open.spotify.com/album/0iLSa8xXBV3iXHZ41oy1Ti) | 2:17 |
+| 32 | [Wake Up From Your Nap](https://open.spotify.com/track/0FSxDMjcKBYwUJWPf2xWxj) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Circle Time](https://open.spotify.com/album/0iLSa8xXBV3iXHZ41oy1Ti) | 2:17 |
 | 33 | [Cherish In The Dark](https://open.spotify.com/track/5f3rHcLiOVXgdHSNBsq9cV) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Cherish In The Dark](https://open.spotify.com/album/5Nwi6iHE0TTMhtZRKdeVC1) | 3:25 |
 | 34 | [Gobble Gobble Burp \- Live](https://open.spotify.com/track/2X7EQQB0gafoVKDUMLiTjo) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa) | [Chowtown: Music With A Flair For Flavor](https://open.spotify.com/album/1KL7yu3pAhJBlbTHpybX6U) | 2:41 |
 | 35 | [Im a Bee](https://open.spotify.com/track/02YNzLnyUgizmbZywyGq2C) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [I'm a Bee](https://open.spotify.com/album/6UlbR7nskSRuV7L9cS0tnY) | 2:26 |

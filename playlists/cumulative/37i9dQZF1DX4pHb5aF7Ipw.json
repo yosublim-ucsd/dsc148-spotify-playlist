@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-30",
   "description": "Fresh Punjabi Rap. Cover: Chani Nattan, Inderpal Moga & Sukha",
-  "name": "Burrh Rap",
+  "name": "New Rap Punjabi",
   "tracks": [
     {
       "album": {
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 216122,
       "name": "Cash/Clash",
       "url": "https://open.spotify.com/track/3gSfDI7AfANo5xInuGO6s4"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 146625,
       "name": "Cee",
       "url": "https://open.spotify.com/track/1fFlCCS4QhAbKWJ7K5xqWn"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 168228,
       "name": "Challa",
       "url": "https://open.spotify.com/track/02CNhdsx0gHla9gNpuMc3E"
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 138557,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/2LEKpJgwLQTOmGXcTggJcc"
@@ -3230,6 +3230,28 @@
       "duration_ms": 154197,
       "name": "Jawani",
       "url": "https://open.spotify.com/track/2Ymc0aIHa3ifiHlXHvrQhI"
+    },
+    {
+      "album": {
+        "name": "Jungli",
+        "url": "https://open.spotify.com/album/3iPPqaX73obBXLWbkB7PXK"
+      },
+      "artists": [
+        {
+          "name": "Xadeh Shah",
+          "url": "https://open.spotify.com/artist/4z42SlUklPLEgBSyeFUp1P"
+        },
+        {
+          "name": "Zaidi",
+          "url": "https://open.spotify.com/artist/1lbzsxQ6DwSqEje7lxEhIt"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209554,
+      "name": "Jungli",
+      "url": "https://open.spotify.com/track/61Ttaf7MkJWuZo1nWH4ZGU"
     },
     {
       "album": {
@@ -4759,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "Parda",
+        "url": "https://open.spotify.com/album/3SMcUd4TseNNWRstFAF3Y4"
+      },
+      "artists": [
+        {
+          "name": "Arjun Bajwa",
+          "url": "https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179058,
+      "name": "Parda",
+      "url": "https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV"
+    },
+    {
+      "album": {
         "name": "Pariyan Di Rani",
         "url": "https://open.spotify.com/album/35qtP5Lz0fGjFumPhGVg26"
       },
@@ -5062,7 +5102,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 169846,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/0XVzJfjKAZMAab3YRroPSI"
@@ -6670,6 +6710,24 @@
       "duration_ms": 313411,
       "name": "Wrong Life",
       "url": "https://open.spotify.com/track/7F4c5Xio4eQLI1VuzPAOaO"
+    },
+    {
+      "album": {
+        "name": "Yaari Hood",
+        "url": "https://open.spotify.com/album/1TbrlWZMAK2Cqni47DRdI6"
+      },
+      "artists": [
+        {
+          "name": "Manny Bawa",
+          "url": "https://open.spotify.com/artist/4Vp4bkNva3T5C8Lh1AO1pS"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199999,
+      "name": "Yaari Hood",
+      "url": "https://open.spotify.com/track/72lykxjGBmwCq8RMtchJDS"
     },
     {
       "album": {

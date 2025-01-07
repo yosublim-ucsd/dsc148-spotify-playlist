@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 139375,
       "name": "Blanche, Op. 10",
       "url": "https://open.spotify.com/track/3WIIFZRWbPORTJarz8ozTL"
@@ -434,6 +434,24 @@
       "duration_ms": 123461,
       "name": "Com Sono",
       "url": "https://open.spotify.com/track/7oOdPpgbxnNVnlEQedAdg6"
+    },
+    {
+      "album": {
+        "name": "Como angel",
+        "url": "https://open.spotify.com/album/0V51ebp4dxKHeNyFtseoZO"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171966,
+      "name": "Como angel",
+      "url": "https://open.spotify.com/track/4JQhc5MAQi0NswoAy0F4vW"
     },
     {
       "album": {
@@ -1381,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Olivanders",
+        "url": "https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Olivanders",
+      "url": "https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu"
+    },
+    {
+      "album": {
         "name": "Prendre cong\u00e9",
         "url": "https://open.spotify.com/album/0BdqQv0UlcZCQc28XaEy1H"
       },
@@ -1774,7 +1810,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 146535,
       "name": "Saga",
       "url": "https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf"
@@ -2116,7 +2152,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 98078,
       "name": "Starlight Canyon",
       "url": "https://open.spotify.com/track/2ZNtfHoeaslSqK2UbtK2S6"
@@ -2620,7 +2656,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 161010,
       "name": "When She Smiles",
       "url": "https://open.spotify.com/track/6MvHCW8J9cOp5Ojjz74yyT"

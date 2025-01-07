@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Dhola",
+        "url": "https://open.spotify.com/album/2870WWZANLoQX7blYvBluB"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142392,
+      "name": "Dhola",
+      "url": "https://open.spotify.com/track/3mG2vx5a7GJAI8hJo5vqP4"
+    },
+    {
+      "album": {
         "name": "Dil Te",
         "url": "https://open.spotify.com/album/7ymbaDDS8DT9ObivkZ5bco"
       },
@@ -820,7 +838,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 149000,
       "name": "Doubts",
       "url": "https://open.spotify.com/track/4UX3EfWupj4gu9dGd3Yt0a"
@@ -2373,6 +2391,28 @@
     },
     {
       "album": {
+        "name": "My Dil Goes",
+        "url": "https://open.spotify.com/album/1SpbFGHXAhmeqr5jWnhqVB"
+      },
+      "artists": [
+        {
+          "name": "Raveena Mehta",
+          "url": "https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb"
+        },
+        {
+          "name": "Rishi Rich",
+          "url": "https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "My Dil Goes",
+      "url": "https://open.spotify.com/track/5pVaSZRi5mLAuNYFAz7XUU"
+    },
+    {
+      "album": {
         "name": "Na Na Na",
         "url": "https://open.spotify.com/album/1uVZpHsFhGt48a5b8awBPm"
       },
@@ -2528,7 +2568,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 206875,
       "name": "Nepal",
       "url": "https://open.spotify.com/track/2S371A2FhkVALcLr8uMRMv"

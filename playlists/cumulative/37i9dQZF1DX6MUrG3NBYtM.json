@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "a craving",
+        "url": "https://open.spotify.com/album/4QNr6M9uj3a15zz8RigvjB"
+      },
+      "artists": [
+        {
+          "name": "POM",
+          "url": "https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "a craving",
+      "url": "https://open.spotify.com/track/2vKehcuTw3lNaP2Q2wvNWr"
+    },
+    {
+      "album": {
         "name": "a great escape",
         "url": "https://open.spotify.com/album/4qg53329LKLOYckoAyer2D"
       },
@@ -20,6 +38,24 @@
       "duration_ms": 190893,
       "name": "a great escape",
       "url": "https://open.spotify.com/track/6FzaEGFfG3mVPPQCKBLkFU"
+    },
+    {
+      "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
     },
     {
       "album": {
@@ -326,7 +362,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 186831,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
@@ -549,6 +585,24 @@
     },
     {
       "album": {
+        "name": "The Hard Quartet",
+        "url": "https://open.spotify.com/album/7tCKr50KVtUpGHGlWMhBsR"
+      },
+      "artists": [
+        {
+          "name": "The Hard Quartet",
+          "url": "https://open.spotify.com/artist/2fU2w19foGHouVAiJR7DJ6"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269160,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/1ycdEKUvL03LLyexLASRxU"
+    },
+    {
+      "album": {
         "name": "Hocus Pocus",
         "url": "https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF"
       },
@@ -654,6 +708,24 @@
       "duration_ms": 172570,
       "name": "I Like Boys",
       "url": "https://open.spotify.com/track/6R3uOuN5VN0BEzbtA2mKH4"
+    },
+    {
+      "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "If Our Love Is Dead",
+      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
     },
     {
       "album": {
@@ -899,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Living A Lie",
+        "url": "https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273337,
+      "name": "Living A Lie",
+      "url": "https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
       },
@@ -932,6 +1022,24 @@
       "duration_ms": 258939,
       "name": "Lost In Space",
       "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
+    },
+    {
+      "album": {
+        "name": "miss u",
+        "url": "https://open.spotify.com/album/0NRm4VWhqazZsWtXu4LAIl"
+      },
+      "artists": [
+        {
+          "name": "Luna Morgenstern",
+          "url": "https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202028,
+      "name": "miss u",
+      "url": "https://open.spotify.com/track/4BQFr6YeljwNfs9g3DL6Nc"
     },
     {
       "album": {
@@ -1018,7 +1126,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 184676,
       "name": "My Kinda Woman",
       "url": "https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T"
@@ -1192,7 +1300,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 242838,
       "name": "On The Game",
       "url": "https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V"
@@ -1358,7 +1466,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 223374,
       "name": "Rat King",
       "url": "https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP"
@@ -1401,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Hell Go Rhythm",
+        "url": "https://open.spotify.com/album/4EwrO3QrAG3IywH5jX1fsc"
+      },
+      "artists": [
+        {
+          "name": "Komodo",
+          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198675,
+      "name": "See What Sticks",
+      "url": "https://open.spotify.com/track/1kWMfZuciYaWSYIa4QrbKT"
+    },
+    {
+      "album": {
         "name": "Shades",
         "url": "https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu"
       },
@@ -1412,7 +1538,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 197548,
       "name": "Shades",
       "url": "https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa"
@@ -1430,7 +1556,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 203769,
       "name": "Sick Of The Blues",
       "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
@@ -1484,7 +1610,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 204000,
       "name": "Sound Of Age",
       "url": "https://open.spotify.com/track/3IaPpzSeQbjD6J3knuC3Nd"
@@ -1617,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "The Rules",
+        "url": "https://open.spotify.com/album/6ixQBPjQSxlp1ITpzyzTHj"
+      },
+      "artists": [
+        {
+          "name": "Plume",
+          "url": "https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209823,
+      "name": "The Rules",
+      "url": "https://open.spotify.com/track/7KaxdBwLy3WaZHOaZQwaw2"
+    },
+    {
+      "album": {
         "name": "The Sadness In You, The Sadness In Me",
         "url": "https://open.spotify.com/album/7xzJjmtUWwWubWB4DX5sLy"
       },
@@ -1646,7 +1790,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 213750,
       "name": "Things I've Been Telling Myself for Years",
       "url": "https://open.spotify.com/track/0ZmtGhT8Iyih7dlscccung"
@@ -1791,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Wake Up With You (WUWU)",
+        "url": "https://open.spotify.com/album/6DORT5jfOBMzqZFC6634cU"
+      },
+      "artists": [
+        {
+          "name": "Mood Bored",
+          "url": "https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189489,
+      "name": "Wake Up With You (WUWU)",
+      "url": "https://open.spotify.com/track/1wo2tSP1qZcryzCSNZ3htC"
+    },
+    {
+      "album": {
         "name": "Walk Through Fire",
         "url": "https://open.spotify.com/album/7vn1PoVj0mi2MgASHVQoYc"
       },
@@ -1864,7 +2026,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 321047,
       "name": "Where The Names Are Real",
       "url": "https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR"

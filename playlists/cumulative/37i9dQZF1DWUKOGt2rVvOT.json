@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u7406\u60f3\u6df7\u86cb (Bestards)",
+  "description": "\u9019\u4e9b\u6b4c\u9084\u5f88\u7d05\u4e5f\uff01\u5df2\u7d93\u6709\u5169\u4e09\u5e74\u4e86\uff1f\u9ad8\u4eba\u6c23\u91d1\u66f2\u8b93\u4f60\u4e00\u8def\u807d\u4e0b\u53bb\uff01Cover: \u83f2\u9053\u723e (Firdhaus)",
   "name": "\u9ad8\u4eba\u6c23\u91d1\u66f2",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 175058,
       "name": "r u happy now?",
       "url": "https://open.spotify.com/track/5xnFjYxsjhIM2YHoUa3grT"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 153253,
       "name": "\u5168\u4e16\u754c\u6211\u53ea\u60f3\u4fdd\u8b77\u4f60",
       "url": "https://open.spotify.com/track/2vBVm6KI77nG25Rj1ulVZy"
@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "\u522b\u8bf4\u5bf9\u4e0d\u8d77",
+        "url": "https://open.spotify.com/album/0j8PK0UTmebDSblzMyvzyr"
+      },
+      "artists": [
+        {
+          "name": "en",
+          "url": "https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203832,
+      "name": "\u522b\u8bf4\u5bf9\u4e0d\u8d77",
+      "url": "https://open.spotify.com/track/070ymbFHgUCZBdLtCHJG5G"
+    },
+    {
+      "album": {
         "name": "\u6c92\u6709\u4eba\u5beb\u6b4c\u7d66\u4f60\u904e\u5427",
         "url": "https://open.spotify.com/album/2KFILcMINkSVFZKkrw8Yfp"
       },
@@ -1044,6 +1062,24 @@
       "duration_ms": 199310,
       "name": "\u5341\u5c40\u4e0a\u534a",
       "url": "https://open.spotify.com/track/3YCWozDHFG8NX6BNKnyx7w"
+    },
+    {
+      "album": {
+        "name": "\u5e36\u4f60\u98db",
+        "url": "https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy"
+      },
+      "artists": [
+        {
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289639,
+      "name": "\u53c8\u5230\u5929\u9ed1",
+      "url": "https://open.spotify.com/track/2TYYKysNZDTFzrm7Mr443o"
     },
     {
       "album": {
@@ -1120,6 +1156,24 @@
       "duration_ms": 205843,
       "name": "\u54ce\u5440\u54ce\u5440",
       "url": "https://open.spotify.com/track/6IUp0Bmt1yKiYqd8CVnhft"
+    },
+    {
+      "album": {
+        "name": "\u552f\u4e00",
+        "url": "https://open.spotify.com/album/4o9Q4RFqR6deYGWOgUQ3nC"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253735,
+      "name": "\u552f\u4e00",
+      "url": "https://open.spotify.com/track/6ENf77i5DmXDimXle5Ux3C"
     },
     {
       "album": {
@@ -1246,7 +1300,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
@@ -1456,7 +1510,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 295466,
       "name": "\u597d\u4e0d\u5bb9\u6613 (\u300a\u83ef\u71c8\u521d\u4e0a\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/6jNy9WM3zyvG9E5bdVALl8"
@@ -2088,7 +2142,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-29",
+      "date_removed": null,
       "duration_ms": 195483,
       "name": "\u6211\u4f1a\u7b49",
       "url": "https://open.spotify.com/track/5Rzpn60KTM11EBETHaF9Kt"
@@ -2622,7 +2676,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 177392,
       "name": "\u6e05\u7a7a",
       "url": "https://open.spotify.com/track/5HGvMmgabU7ZkF94klVhdm"
@@ -2770,7 +2824,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 250047,
       "name": "\u7576\u6211\u8b8a\u6210\u6211\u5011",
       "url": "https://open.spotify.com/track/0llQRKKNRIr7yKtzZOPdcH"
@@ -2936,7 +2990,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 177653,
       "name": "\u7a7a",
       "url": "https://open.spotify.com/track/51LtYR0cpjc8wW33Dx0AWV"
@@ -3778,6 +3832,24 @@
       "duration_ms": 238333,
       "name": "\u9999\u83dc (\u82ab\u837d)",
       "url": "https://open.spotify.com/track/2oLDMhreNKHSMuYEREox2E"
+    },
+    {
+      "album": {
+        "name": "\u9ad2\u85dd\u8853\u5bb6",
+        "url": "https://open.spotify.com/album/5qfvZYTRNedzR4sNWKc73k"
+      },
+      "artists": [
+        {
+          "name": "MC HotDog",
+          "url": "https://open.spotify.com/artist/4maR8o69pil8CrclOiFVVW"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200224,
+      "name": "\u9ad2\u85dd\u8853\u5bb6",
+      "url": "https://open.spotify.com/track/3AWR7lmFL1PYL3afeeeMVp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUKOGt2rVvOT"

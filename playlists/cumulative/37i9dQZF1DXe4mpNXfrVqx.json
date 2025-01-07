@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 122972,
       "name": "Ampulheta",
       "url": "https://open.spotify.com/track/4JDFZho5o7NiDmN3u8AwBR"
@@ -376,6 +376,28 @@
       "duration_ms": 121031,
       "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1jJsTPqYYiILO9dTyMk2PR"
+      },
+      "artists": [
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "A$HP",
+          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109687,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/1NA9tV7Wb2ZwCroXglVpzk"
     },
     {
       "album": {

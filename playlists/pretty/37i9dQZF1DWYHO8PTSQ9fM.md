@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Morocco’s biggest playlist featuring the hottest 50 tracks\. Cover: ROSÉ & Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,171 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,210 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

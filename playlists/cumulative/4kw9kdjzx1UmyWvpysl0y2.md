@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-885 songs - 2 day 2 hr 19 min
+886 songs - 2 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Lost Call](https://open.spotify.com/track/3zpbvOJzNlCm6BsDmegds3) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Lost Call / Underwater](https://open.spotify.com/album/3NIN1m1TRqzS3H28lE1jeV) | 4:37 | 2024-04-18 | 2024-07-09 |
 | [Lost My Way](https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Lost My Way](https://open.spotify.com/album/5H5zxFoWa7WZkwG9SiXBQ7) | 3:06 | 2023-11-03 | 2024-02-16 |
 | [Lotus](https://open.spotify.com/track/3phEyCMH5CW7e21bSfTJpx) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V) | [Lotus](https://open.spotify.com/album/06AIpflCIvYljD1FPbrU8J) | 3:24 | 2024-04-23 | 2024-07-12 |
+| [love & hardcore](https://open.spotify.com/track/1vLnkEgggQsD5sv5UFTedf) | [gladde paling](https://open.spotify.com/artist/6GVd3327JY65jGWX4X3wHS) | [love & hardcore](https://open.spotify.com/album/2bHtt9XVu8blZVdY34acmI) | 1:36 | 2025-01-06 |  |
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-03-24 |
 | [Love Me](https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Love Me](https://open.spotify.com/album/2n3BfSQ9ey2xQP4sr9DGfr) | 3:42 | 2023-02-03 | 2023-04-21 |
 | [Love Runs Out](https://open.spotify.com/track/62Il6xcyOlZ3oB4qvQ33sj) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Dror](https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO) | [Love Runs Out](https://open.spotify.com/album/03DTFehGzdj45KPNxxpGxg) | 4:02 | 2023-02-21 | 2023-05-13 |
@@ -511,7 +512,7 @@
 | [Neck Snap](https://open.spotify.com/track/5cz9A9XWyLJ6lISe5EYkRK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Neck Snap](https://open.spotify.com/album/4H37lVlKGjTCzusxKyXrlo) | 2:54 | 2023-05-25 | 2023-08-20 |
 | [Need Some Space](https://open.spotify.com/track/7GLT8yTNRIkSCTVEm6ZjUu) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need Some Space](https://open.spotify.com/album/5QPa9SE7V6Hhuaho9UKOKc) | 2:22 | 2024-09-17 | 2024-12-11 |
 | [Need You](https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [Need You](https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t) | 3:12 | 2024-01-09 | 2024-04-02 |
-| [Nervous System](https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Nervous System](https://open.spotify.com/album/2xoCvCKhj0dIyZz8bXdLnI) | 3:40 | 2024-09-27 |  |
+| [Nervous System](https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Nervous System](https://open.spotify.com/album/2xoCvCKhj0dIyZz8bXdLnI) | 3:40 | 2024-09-27 | 2025-01-07 |
 | [Nevada \- Sped Up](https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/7eNKd847sotWHdAOKujY43) | 3:04 | 2023-09-08 | 2024-01-11 |
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 | 2022-04-29 |
 | [Never Cared](https://open.spotify.com/track/1eFlpHjgc4OCRMo4TgAh5g) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Never Cared](https://open.spotify.com/album/1P1wiF5kauftUiGBrZCs3Y) | 3:39 | 2022-02-14 | 2022-04-23 |

@@ -2,9 +2,9 @@
 
 ### [بوب مصري](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: تامر عاشور
+> أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: تامر حسني و رامي صبري
 
-373 songs - 22 hr 12 min
+374 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [علي بالي](https://open.spotify.com/track/4owd2rdO6oWKdI4lFq9mBz) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [علي بالي](https://open.spotify.com/album/2Acmjhosur2I8HWvYMmgPB) | 3:26 | 2024-07-24 | 2024-08-17 |
 | [غايب](https://open.spotify.com/track/6wKPp7L7Z3oT9F0yMkSPEF) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [غايب](https://open.spotify.com/album/0jw2tIICpbcCZJagN0pEm8) | 3:16 | 2024-11-18 |  |
 | [غلبان](https://open.spotify.com/track/0dRTAnQLjml9xfFKQDCGfQ) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [شايفه فيك](https://open.spotify.com/album/6ylllDswM090TsaEqRXsci) | 3:21 | 2023-01-10 | 2023-07-12 |
+| [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 | 2025-01-06 |  |
 | [في بالي](https://open.spotify.com/track/3n2pKLjes1ZeItC7au8BSw) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [في بالي](https://open.spotify.com/album/3VKqDho2Cc2w6vUtn6EsiW) | 3:15 | 2024-02-06 | 2024-07-30 |
 | [فيها إيه](https://open.spotify.com/track/33fpkOti6JPNktMxWabYlc) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فيها إيه](https://open.spotify.com/album/4dnnRb5jHDejdzWvRrHNyk) | 3:26 | 2024-08-16 |  |
 | [فيها رجوع](https://open.spotify.com/track/07In0ltXKnIgifYI1Vnu0E) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [فيها رجوع](https://open.spotify.com/album/2VHlNXTDinW5ok7tVMcWFX) | 3:19 | 2024-12-19 |  |

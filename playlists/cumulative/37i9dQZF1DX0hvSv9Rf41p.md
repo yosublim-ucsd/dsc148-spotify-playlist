@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Jon Casey
 
-1,099 songs - 2 day 13 hr 39 min
+1,100 songs - 2 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Chemical Bond](https://open.spotify.com/track/5kn2FMZoBVClbA9CV7w3k5) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [Chemical Bond](https://open.spotify.com/album/4HAEHinatEsoXSDd4rBQy6) | 2:22 | 2021-12-17 | 2022-05-07 |
 | [Chemicals](https://open.spotify.com/track/6u2buWQK4lGRUcHsyqPNEk) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Catlea](https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV) | [Chemicals](https://open.spotify.com/album/7aI7DD29eHD9yO4Aed3rDQ) | 3:21 | 2023-07-14 | 2023-09-25 |
 | [CHOMP](https://open.spotify.com/track/6ehkaqY90vXs9noImg2AVT) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [CHOMPO](https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT) | [CHOMP](https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5) | 3:18 | 2023-03-24 | 2023-09-16 |
+| [Choppa](https://open.spotify.com/track/53QkBB86T4FMmhKT952l2s) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY), [Skellytn](https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3), [Gravity](https://open.spotify.com/artist/7LGmzpEzhmalpuXaKD5tPB) | [Choppa](https://open.spotify.com/album/0SUVXcOng0R5aixhVnoC3h) | 3:36 | 2024-12-20 |  |
 | [Choppas](https://open.spotify.com/track/53KC0vl1WMkoMYrJkqwygf) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL) | [Choppas](https://open.spotify.com/album/2tL2mYx1by5C0Vne9ilN5Q) | 2:58 | 2023-12-08 | 2024-01-13 |
 | [CLICK](https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [PSYCHEDELIC](https://open.spotify.com/artist/5BTAISzCbD7fqC7yd8HQ4p) | [CLICK](https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH) | 3:45 | 2024-04-05 | 2024-05-25 |
 | [close to the ground](https://open.spotify.com/track/4c9I1KjgMjT5d5kTqr4kVs) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [close to the ground](https://open.spotify.com/album/0HE3Jrsok3ALc5XRPrpVxN) | 2:45 | 2022-11-11 | 2023-07-15 |
@@ -250,7 +251,7 @@
 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 | 2024-03-15 | 2024-08-03 |
 | [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 | 2022-06-03 | 2022-09-03 |
 | [Die With It](https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz) | [Azide](https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h), [J Swey](https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht) | [Die With It](https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW) | 2:19 | 2023-10-06 | 2023-11-21 |
-| [Different Shit](https://open.spotify.com/track/3Jp6kKe9kPVQJvkC9kUIGz) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Different Shit](https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu) | 3:12 | 2024-12-13 |  |
+| [Different Shit](https://open.spotify.com/track/3Jp6kKe9kPVQJvkC9kUIGz) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Different Shit](https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu) | 3:12 | 2024-12-13 | 2025-01-07 |
 | [Different Worlds](https://open.spotify.com/track/240IKl4yYUPjffy6x8Ym6z) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Different Worlds](https://open.spotify.com/album/1pXRDHqHGVaVYyTIIvOq2g) | 3:25 | 2021-12-17 | 2022-02-18 |
 | [Digital Night Drive](https://open.spotify.com/track/4NTkICndpBrjwZLwNofVBQ) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf) | [Digital Night Drive](https://open.spotify.com/album/0jvggA0QufnaIbh4S0as91) | 4:28 | 2024-11-08 | 2024-12-10 |
 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-21 | 2023-06-02 |

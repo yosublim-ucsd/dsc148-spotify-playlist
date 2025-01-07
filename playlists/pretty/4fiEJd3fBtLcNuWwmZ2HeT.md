@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 265 songs - 15 hr 6 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 266 songs - 15 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,5 +273,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 263 | [Gaikotsu Gakudan To Riria](https://open.spotify.com/track/1joOPSOAwgGOHZxUSaK9rC) | [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Seitou No Marche \(Standard Edition\)](https://open.spotify.com/album/5bjcGpvKfRk4ai8cJEcvbZ) | 3:21 |
 | 264 | [NYAN \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/7iqm8tmLgRSMkkNTw9FAww) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [NYAN \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/608oZh12hfBNawDa1ahW7K) | 3:24 |
 | 265 | [シュガーコート](https://open.spotify.com/track/0zIQRErzk1eNU4Pd1Tnxcg) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [orbit](https://open.spotify.com/album/5pdTN60HCRnXnTP3kDUS8Y) | 3:05 |
+| 266 | [Envy Cat Walk](https://open.spotify.com/track/1YgxBIyu2z4hRQuAx7Yw8j) | [RIB](https://open.spotify.com/artist/5YGU6VC4rMn4s5tScJG8WY) | [Rib On](https://open.spotify.com/album/1HN8yEXVd7oKn1RGV2V0BD) | 3:43 |
 
-Snapshot ID: `AAAI5sxNJf5ebYzGfq5QdfqDd1kKmLlK`
+Snapshot ID: `AAAI6WShvnHp5NzC09FHT2wSlBNNkzTs`

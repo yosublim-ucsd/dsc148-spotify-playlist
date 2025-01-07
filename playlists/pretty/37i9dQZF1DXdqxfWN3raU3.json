@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256908,
+  "num_followers": 256931,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Amor \u2260 Cristal",
-        "url": "https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL"
-      },
-      "artists": [
-        {
-          "name": "Flavio Rodriguez",
-          "url": "https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 172888,
-      "name": "Amor \u2260 Cristal",
-      "url": "https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "T\u00edrame Un Hello (Remix)",
         "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "Amor \u2260 Cristal",
+        "url": "https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL"
+      },
+      "artists": [
+        {
+          "name": "Flavio Rodriguez",
+          "url": "https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 172888,
+      "name": "Amor \u2260 Cristal",
+      "url": "https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Dreams & Love",
-        "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 141692,
-      "name": "Dreams & Love",
-      "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "posta",
         "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 121290,
       "name": "posta",
       "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "Dreams & Love",
+        "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 141692,
+      "name": "Dreams & Love",
+      "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "Obra de Dios",
+        "url": "https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 217936,
+      "name": "Obra de Dios",
+      "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "paladar",
         "url": "https://open.spotify.com/album/33uR9L3WrJoBCcmAa8AkwA"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 192106,
       "name": "paladar",
       "url": "https://open.spotify.com/track/6u6mp12wioT53HAvOyakcq"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "Obra de Dios",
-        "url": "https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 217936,
-      "name": "Obra de Dios",
-      "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Siguiendo Tu Voz",
         "url": "https://open.spotify.com/album/3aMx835NabvoX55u65N42y"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 190685,
       "name": "Siguiendo Tu Voz",
       "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "Caballo Negro",
+        "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 177548,
+      "name": "Caballo Negro",
+      "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Tus Ojos Me Hablaron",
         "url": "https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "Caballo Negro",
-        "url": "https://open.spotify.com/album/6NDji7IoUuqsiH5lchiCGS"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 177548,
-      "name": "Caballo Negro",
-      "url": "https://open.spotify.com/track/4RH8pnfg0PYU8yIWMzwMi6"
     }
   ],
   "unique_name": "R&B Latino",

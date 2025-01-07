@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Are Square",
-  "num_followers": 16903,
+  "num_followers": 16916,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "\u611b\u306e\u584a",
-        "url": "https://open.spotify.com/album/1rt6JoEFx3Yiih3Z6Ef35l"
-      },
-      "artists": [
-        {
-          "name": "the paddles",
-          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
-        }
-      ],
-      "duration_ms": 185986,
-      "name": "\u611b\u306e\u584a",
-      "url": "https://open.spotify.com/track/0q29xZIGmITMLVfANVDBxY"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "\u982d\u306e\u4e2d\u306e\u5b87\u5b99",
         "url": "https://open.spotify.com/album/6LvIKCAja7q2RtBEpi1FTn"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 207179,
       "name": "\u982d\u306e\u4e2d\u306e\u5b87\u5b99",
       "url": "https://open.spotify.com/track/0XNWTfaqQY9oHKawoKLal3"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "\u611b\u306e\u584a",
+        "url": "https://open.spotify.com/album/1rt6JoEFx3Yiih3Z6Ef35l"
+      },
+      "artists": [
+        {
+          "name": "the paddles",
+          "url": "https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO"
+        }
+      ],
+      "duration_ms": 185986,
+      "name": "\u611b\u306e\u584a",
+      "url": "https://open.spotify.com/track/0q29xZIGmITMLVfANVDBxY"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
-        "url": "https://open.spotify.com/album/6h8M1OdYODvjyLoEgH7sbV"
-      },
-      "artists": [
-        {
-          "name": "Ryukku to Soine Gohan",
-          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
-      "url": "https://open.spotify.com/track/5CgGj8pJIvPiX9hHsi1WCa"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "\u4e00\u7d1a\u54c1",
         "url": "https://open.spotify.com/album/6zhHgXrsu6oiyKI0JClQUK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 154733,
       "name": "ook",
       "url": "https://open.spotify.com/track/4n9TLhUesjEQHdBf3z8SuK"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
+        "url": "https://open.spotify.com/album/6h8M1OdYODvjyLoEgH7sbV"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
+      "url": "https://open.spotify.com/track/5CgGj8pJIvPiX9hHsi1WCa"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -907,38 +907,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "\u3042\u304f\u3073\u304c\u3046\u3064\u308b",
-        "url": "https://open.spotify.com/album/2UNqIk9W4FWvE4e8pUvWcu"
-      },
-      "artists": [
-        {
-          "name": "\u30ac\u30e9\u30af\u30bf",
-          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "\u3042\u304f\u3073\u304c\u3046\u3064\u308b",
-      "url": "https://open.spotify.com/track/6KvgHYLTnrIo5LW503B3HC"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
-        "name": "3036",
-        "url": "https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX"
-      },
-      "artists": [
-        {
-          "name": "Hump Back",
-          "url": "https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI"
-        }
-      ],
-      "duration_ms": 70110,
-      "name": "3036",
-      "url": "https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "Week\uff01",
         "url": "https://open.spotify.com/album/1HqhcZC7mBjKguaXpG2u9E"
       },
@@ -951,6 +919,22 @@
       "duration_ms": 64348,
       "name": "Week\uff01",
       "url": "https://open.spotify.com/track/1Mbc9LoJTXSimwXLo2Awdm"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "\u3042\u304f\u3073\u304c\u3046\u3064\u308b",
+        "url": "https://open.spotify.com/album/2UNqIk9W4FWvE4e8pUvWcu"
+      },
+      "artists": [
+        {
+          "name": "\u30ac\u30e9\u30af\u30bf",
+          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "\u3042\u304f\u3073\u304c\u3046\u3064\u308b",
+      "url": "https://open.spotify.com/track/6KvgHYLTnrIo5LW503B3HC"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 247400,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/5zXeude0odJVoUc1EA4OrS"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "3036",
+        "url": "https://open.spotify.com/album/76eUSTo7xPCKnXMOjWqDdX"
+      },
+      "artists": [
+        {
+          "name": "Hump Back",
+          "url": "https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI"
+        }
+      ],
+      "duration_ms": 70110,
+      "name": "3036",
+      "url": "https://open.spotify.com/track/6OhKCdcuurrj5aQn9zLwfW"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "\u660e\u308b\u3044\u846c\u5f0f",
-        "url": "https://open.spotify.com/album/0lyQYuoZecfVrVx9SRYYqi"
-      },
-      "artists": [
-        {
-          "name": "Hump Back",
-          "url": "https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI"
-        }
-      ],
-      "duration_ms": 247590,
-      "name": "\u660e\u308b\u3044\u846c\u5f0f",
-      "url": "https://open.spotify.com/track/6BBKSAhUwEyPc3M4IlcKBv"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "\u63fa\u308c\u308b\u30d4\u30a2\u30b9",
         "url": "https://open.spotify.com/album/6sNb4Es48e6uuQ4lohhcAD"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
+        "name": "\u660e\u308b\u3044\u846c\u5f0f",
+        "url": "https://open.spotify.com/album/0lyQYuoZecfVrVx9SRYYqi"
       },
       "artists": [
         {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+          "name": "Hump Back",
+          "url": "https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI"
         }
       ],
-      "duration_ms": 157889,
-      "name": "Ebi Fry",
-      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
+      "duration_ms": 247590,
+      "name": "\u660e\u308b\u3044\u846c\u5f0f",
+      "url": "https://open.spotify.com/track/6BBKSAhUwEyPc3M4IlcKBv"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1QaRQKrmKIMfcX5Yxpicen"
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/2UpgW9LlQ550eLX5fChNWz"
       },
       "artists": [
         {
-          "name": "\u30a2\u30f3\u3068\u79c1",
-          "url": "https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J"
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
         }
       ],
-      "duration_ms": 304565,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7p06kfM1f4o0fbiv0vgrCJ"
+      "duration_ms": 157889,
+      "name": "Ebi Fry",
+      "url": "https://open.spotify.com/track/2TXvQuZfzTQ4bLDkWEbU8Y"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -1211,6 +1195,38 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1QaRQKrmKIMfcX5Yxpicen"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u3068\u79c1",
+          "url": "https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J"
+        }
+      ],
+      "duration_ms": 304565,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7p06kfM1f4o0fbiv0vgrCJ"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "\u5ca1\u5d0e\u4eac\u5b50\u306e\u3042\u306e\u5a18\u306b\u306a\u308a\u305f\u304b\u3063\u305f",
+        "url": "https://open.spotify.com/album/60Y0XZI1pKhS7ZDd2YczWC"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u521d\u671f\u885d\u52d5",
+          "url": "https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "\u5ca1\u5d0e\u4eac\u5b50\u306e\u3042\u306e\u5a18\u306b\u306a\u308a\u305f\u304b\u3063\u305f",
+      "url": "https://open.spotify.com/track/0wykwC7fLm3kn6cw5DfAr5"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
         "name": "\u30b5\u30e9\u30c0\u30dc\u30a6\u30eb",
         "url": "https://open.spotify.com/album/42l75d6XCba07pKpFgyS3U"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 229986,
       "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/5bahvNcLpmfTgbk05thpER"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
-        "name": "\u5ca1\u5d0e\u4eac\u5b50\u306e\u3042\u306e\u5a18\u306b\u306a\u308a\u305f\u304b\u3063\u305f",
-        "url": "https://open.spotify.com/album/60Y0XZI1pKhS7ZDd2YczWC"
-      },
-      "artists": [
-        {
-          "name": "\u6771\u4eac\u521d\u671f\u885d\u52d5",
-          "url": "https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "\u5ca1\u5d0e\u4eac\u5b50\u306e\u3042\u306e\u5a18\u306b\u306a\u308a\u305f\u304b\u3063\u305f",
-      "url": "https://open.spotify.com/track/0wykwC7fLm3kn6cw5DfAr5"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/2lGTukjPRNEe2HgiCcf2pl"
-      },
-      "artists": [
-        {
-          "name": "LONGMAN",
-          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
-        }
-      ],
-      "duration_ms": 167813,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/3Oo3qBCkQO14COXfAaf4Ae"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "Inside you",
         "url": "https://open.spotify.com/album/7zx6musaQVUiMPSHMMBDX6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 241033,
       "name": "Inside you",
       "url": "https://open.spotify.com/track/6T37DPZOSMl9xbzAPuiYjI"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2lGTukjPRNEe2HgiCcf2pl"
+      },
+      "artists": [
+        {
+          "name": "LONGMAN",
+          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
+        }
+      ],
+      "duration_ms": 167813,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/3Oo3qBCkQO14COXfAaf4Ae"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "Magic Shower",
-        "url": "https://open.spotify.com/album/1Zx2pMLz47gpQjvFdjWJVa"
-      },
-      "artists": [
-        {
-          "name": "Dannie May",
-          "url": "https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "\u30de\u30b8\u30c3\u30af\u30b7\u30e3\u30ef\u30fc",
-      "url": "https://open.spotify.com/track/175POwOG7I0bsi8tKRE6EN"
-    },
-    {
-      "added_at": "2024-12-24 15:00:00",
-      "album": {
         "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u3068\u5e78\u798f\u8ad6(\u4e0b\u66f8\u304d)",
         "url": "https://open.spotify.com/album/3kYXPZbrKoQs9kHfsRq44q"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 240621,
       "name": "\u30ef\u30f3\u30eb\u30fc\u30e0\u3068\u5e78\u798f\u8ad6(\u4e0b\u66f8\u304d)",
       "url": "https://open.spotify.com/track/3pwVPL9Ois6b4h747xkFQ4"
+    },
+    {
+      "added_at": "2024-12-24 15:00:00",
+      "album": {
+        "name": "Magic Shower",
+        "url": "https://open.spotify.com/album/1Zx2pMLz47gpQjvFdjWJVa"
+      },
+      "artists": [
+        {
+          "name": "Dannie May",
+          "url": "https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7"
+        }
+      ],
+      "duration_ms": 251800,
+      "name": "\u30de\u30b8\u30c3\u30af\u30b7\u30e3\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/175POwOG7I0bsi8tKRE6EN"
     },
     {
       "added_at": "2024-12-24 15:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-12-24 15:00:00",
       "album": {
-        "name": "\u30cd\u30d0\u30fc\u30a8\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/67drP4eCmv4vlp8cvyVZDW"
+        "name": "\u50b7\u8de1",
+        "url": "https://open.spotify.com/album/13WIHO1uO0zw2G6zYUeMeO"
       },
       "artists": [
         {
-          "name": "Apes",
-          "url": "https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4"
+          "name": "\u304a\u3082\u304b\u3052",
+          "url": "https://open.spotify.com/artist/4LnTqxRKY11tPnw1FFFzE2"
         }
       ],
-      "duration_ms": 213666,
-      "name": "\u30cd\u30d0\u30fc\u30a8\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/2CekXhKBUmnBOKdy9ATx6W"
+      "duration_ms": 310125,
+      "name": "\u50b7\u8de1",
+      "url": "https://open.spotify.com/track/10qrUYu6ucdUPvDuCDC1YA"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

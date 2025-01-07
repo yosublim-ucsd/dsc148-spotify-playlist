@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 106583,
+  "num_followers": 106609,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Mulher Realizada",
+        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 257648,
+      "name": "Mulher Realizada",
+      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Mulher Realizada",
-        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 257648,
-      "name": "Mulher Realizada",
-      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Chave do Amor",
+        "url": "https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp"
+      },
+      "artists": [
+        {
+          "name": "Kelwin Ramos",
+          "url": "https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4"
+        },
+        {
+          "name": "Michely Manuely",
+          "url": "https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV"
+        }
+      ],
+      "duration_ms": 190377,
+      "name": "Chave do Amor",
+      "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Sobre o Amor",
         "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 285544,
       "name": "Amar pra Sempre",
       "url": "https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Chave do Amor",
-        "url": "https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp"
-      },
-      "artists": [
-        {
-          "name": "Kelwin Ramos",
-          "url": "https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4"
-        },
-        {
-          "name": "Michely Manuely",
-          "url": "https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV"
-        }
-      ],
-      "duration_ms": 190377,
-      "name": "Chave do Amor",
-      "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
     },
     {
       "added_at": "2024-07-11 15:58:05",

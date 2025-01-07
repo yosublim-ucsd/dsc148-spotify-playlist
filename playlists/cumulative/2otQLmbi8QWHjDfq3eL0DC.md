@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-273 songs - 13 hr 13 min
+274 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Strangers](https://open.spotify.com/track/1RWbjWcCDhwS8oyOIb2Qdo) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [healing girl era](https://open.spotify.com/album/7qHHvVE9YvRO0xTIe8xXGX) | 2:52 | 2023-11-03 | 2023-11-25 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-11-24 |  |
 | [Stuck In My Head](https://open.spotify.com/track/11HvSQfrH10VPKN6ldSJ60) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Stuck In My Head](https://open.spotify.com/album/6GU79ScuP8XkpKkF9XYl2O) | 2:57 | 2023-11-03 | 2024-02-24 |
+| [Stuck On You](https://open.spotify.com/track/3k4qmP1Hd6twhGFbdqS1ZI) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Stuck On You](https://open.spotify.com/album/0EXBRGNeUF2Uxq3kwqmf6T) | 2:38 | 2025-01-06 |  |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2023-12-01 | 2024-06-01 |
 | [Sunglasses at Night](https://open.spotify.com/track/1LiMNzbo4XYzsZ0Odg3OW7) | [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Sunglasses at Night](https://open.spotify.com/album/2WL25jOF2CEzuH1D7oJIYM) | 2:50 | 2024-01-26 |  |
 | [Sunshine](https://open.spotify.com/track/0EAUdSBW9ORNl65la2O1CF) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/5NhHcumFShNPu1RtNRUKvq) | 2:42 | 2024-07-12 | 2024-12-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Thomas Rhett",
-  "num_followers": 452554,
+  "num_followers": 452528,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-12-20 05:00:23",
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2024-12-20 05:00:23",
+      "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:23",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2024-12-20 05:00:23",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-12-20 05:00:23",
       "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU"
-    },
-    {
-      "added_at": "2024-12-20 05:00:23",
-      "album": {
         "name": "Two Of Us",
         "url": "https://open.spotify.com/album/67CYhfUWA7AuKQwFqfw2ac"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 194800,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/0XjVqPBriEaw2aDQixHSi1"
+    },
+    {
+      "added_at": "2024-12-20 05:00:23",
+      "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU"
     },
     {
       "added_at": "2024-12-20 05:00:23",

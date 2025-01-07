@@ -3249,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "STRAYS",
+        "url": "https://open.spotify.com/album/6nHFC0hHXDYXGxnkWLWW5B"
+      },
+      "artists": [
+        {
+          "name": "ground score",
+          "url": "https://open.spotify.com/artist/1IqXxACKoGdw5fz7dE6DSi"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165992,
+      "name": "BEWARE",
+      "url": "https://open.spotify.com/track/3sEFNNYKsyumHJEbPwzhbU"
+    },
+    {
+      "album": {
         "name": "Beyond Control",
         "url": "https://open.spotify.com/album/0QRl8qbcWiCOmEE8yX4LoL"
       },
@@ -6254,6 +6272,28 @@
       "duration_ms": 310647,
       "name": "Cream",
       "url": "https://open.spotify.com/track/5mdwk9BIUDh2CvWdqfv7Qw"
+    },
+    {
+      "album": {
+        "name": "Creme Brulee Incubus (Hi5 Remix)",
+        "url": "https://open.spotify.com/album/3fArg5v2hFYm0O5IP3a7XY"
+      },
+      "artists": [
+        {
+          "name": "Lucas Valiante",
+          "url": "https://open.spotify.com/artist/69VubI8slxiAXvV36Axtuc"
+        },
+        {
+          "name": "Hi5",
+          "url": "https://open.spotify.com/artist/0zBrIhPBSJbGTckvHfWCaY"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343384,
+      "name": "Creme Brulee Incubus (Hi5 Remix)",
+      "url": "https://open.spotify.com/track/5VlY3Q6ejfPjtSEASgBa8k"
     },
     {
       "album": {
@@ -14358,6 +14398,24 @@
       "duration_ms": 167880,
       "name": "Hot Honey",
       "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
+    },
+    {
+      "album": {
+        "name": "Hot One",
+        "url": "https://open.spotify.com/album/33UtIjvekMGn8QbIDpM1mH"
+      },
+      "artists": [
+        {
+          "name": "name unknown",
+          "url": "https://open.spotify.com/artist/7E75QbjZ3KDgQXVAHxCKp2"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/4CmRBWRqISfQ5U5Qn8vjYI"
     },
     {
       "album": {

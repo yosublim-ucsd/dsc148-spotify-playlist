@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30277,
+  "num_followers": 30281,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3h6AAAAAACNANGJiEPeJMWIYJi0k9on",
+  "snapshot_id": "Z3nLgAAAAADl3+zgsjO+K4MY/N4XDMvN",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cad\u00ea o vencedor?",
-        "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 222602,
-      "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
-      "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vai Ficar Bem",
         "url": "https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 116640,
       "name": "Vai Ficar Bem",
       "url": "https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cad\u00ea o vencedor?",
+        "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 222602,
+      "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
+      "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
     },
     {
       "added_at": null,

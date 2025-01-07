@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/3G2KQP6expATleHvaHvWJT"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/5yqC8eYWTwcY6LcvzMmtKJ"
+    },
+    {
+      "album": {
         "name": "2017",
         "url": "https://open.spotify.com/album/52Qmkzk3agkxltlgcDxAid"
       },
@@ -216,6 +234,24 @@
       "duration_ms": 170630,
       "name": "23",
       "url": "https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0"
+    },
+    {
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3k8KS3JIhc7mdrtX46JbFd"
+      },
+      "artists": [
+        {
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131261,
+      "name": "25",
+      "url": "https://open.spotify.com/track/6PBphKhLXuAMBW6yWUNXby"
     },
     {
       "album": {
@@ -2865,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Dat Je Danst",
+        "url": "https://open.spotify.com/album/5BSrIh7wpgBno69FWayt3f"
+      },
+      "artists": [
+        {
+          "name": "Adriaan Persons",
+          "url": "https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198225,
+      "name": "Dat Je Danst",
+      "url": "https://open.spotify.com/track/6qv1dNAkOxfxL7G3sCGoDc"
+    },
+    {
+      "album": {
         "name": "Dat Kan Je Niet Kopen",
         "url": "https://open.spotify.com/album/1OhO6YPOWCLiGFBM3PcYes"
       },
@@ -3028,7 +3082,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 174957,
       "name": "De Laatste Keer Dat Ik Huil",
       "url": "https://open.spotify.com/track/1IFzQTzO3M8TFkGEX8NxtR"
@@ -5338,7 +5392,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 203439,
       "name": "Het Is Voorbij",
       "url": "https://open.spotify.com/track/5EcWtCCPsmWOIJUakcjdiG"
@@ -5564,7 +5618,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 158377,
       "name": "Hoe Gaat Het Met Je Dromen",
       "url": "https://open.spotify.com/track/1bhO0NZP6TvRKZ5P0kGXCj"
@@ -5708,7 +5762,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 146393,
       "name": "Hoofdpijn",
       "url": "https://open.spotify.com/track/75rVydp41sqyqMgCK2EPFR"
@@ -6092,6 +6146,28 @@
       "duration_ms": 182606,
       "name": "Idool",
       "url": "https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD"
+    },
+    {
+      "album": {
+        "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
+        "url": "https://open.spotify.com/album/5M6BCWP2bNLQd35bksJ1NC"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        },
+        {
+          "name": "Matheu",
+          "url": "https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165493,
+      "name": "Iedereen is van de wereld (Titelsong Van De Film 'Iedereen is van de wereld')",
+      "url": "https://open.spotify.com/track/3oom0huw1DOVJp9PvhbPEv"
     },
     {
       "album": {
@@ -6678,7 +6754,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 203349,
       "name": "Je Draagt Het Niet Alleen",
       "url": "https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo"
@@ -7140,6 +7216,24 @@
       "duration_ms": 146785,
       "name": "Kleine Dingen",
       "url": "https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo"
+    },
+    {
+      "album": {
+        "name": "Kleine Jongens",
+        "url": "https://open.spotify.com/album/6Lkl0a1Ug6OeypcVYA2fbt"
+      },
+      "artists": [
+        {
+          "name": "Guusje",
+          "url": "https://open.spotify.com/artist/3JrsxoRQjMCK7UjatNPTGx"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147920,
+      "name": "Kleine Jongens",
+      "url": "https://open.spotify.com/track/0WYPSajarDSHx28mbjYMYf"
     },
     {
       "album": {
@@ -8652,7 +8746,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
@@ -9356,7 +9450,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 167512,
       "name": "Niemand Die Ons Ziet",
       "url": "https://open.spotify.com/track/1ZfHgxaPfhlAdYiFLE4LMw"
@@ -10107,6 +10201,36 @@
     },
     {
       "album": {
+        "name": "Op Jou Heb Ik Gewacht",
+        "url": "https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2"
+      },
+      "artists": [
+        {
+          "name": "De Poema's",
+          "url": "https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        },
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175979,
+      "name": "Op Jou Heb Ik Gewacht",
+      "url": "https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn"
+    },
+    {
+      "album": {
         "name": "Op Mezelf",
         "url": "https://open.spotify.com/album/2jri1gFMyIKRaurCQMfhmD"
       },
@@ -10400,6 +10524,24 @@
       "duration_ms": 152324,
       "name": "Plaatje",
       "url": "https://open.spotify.com/track/1RCxak1HohZMPlZMFaeg63"
+    },
+    {
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/198gEH3NTgiHknrfHvSENC"
+      },
+      "artists": [
+        {
+          "name": "Van Den Hil",
+          "url": "https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/6cZNZFoP6zlMdqpOjyt15N"
     },
     {
       "album": {
@@ -11936,6 +12078,24 @@
       "duration_ms": 131796,
       "name": "Sugardaddy",
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "album": {
+        "name": "Suicide Vest",
+        "url": "https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ"
+      },
+      "artists": [
+        {
+          "name": "Massi",
+          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242286,
+      "name": "Suicide Vest",
+      "url": "https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU"
     },
     {
       "album": {
@@ -14152,7 +14312,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 199258,
       "name": "Wie Ik Ben",
       "url": "https://open.spotify.com/track/07B6KYHiFPUYTUC5dK2LDN"

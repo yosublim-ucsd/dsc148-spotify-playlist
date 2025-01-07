@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 518536,
+  "num_followers": 518700,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Amana",
-        "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 338210,
-      "name": "Amana",
-      "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Corpo e Can\u00e7\u00e3o (Club Mix)",
         "url": "https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 275409,
       "name": "Corpo e Can\u00e7\u00e3o - Club Mix",
       "url": "https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Amana",
+        "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "duration_ms": 338210,
+      "name": "Amana",
+      "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Ethnica (Pasilda)",
-        "url": "https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Vanetty",
-          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
-        },
-        {
-          "name": "Afro Medusa",
-          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
-        }
-      ],
-      "duration_ms": 170157,
-      "name": "Ethnica (Pasilda)",
-      "url": "https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD"
       },
@@ -1327,6 +1303,30 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Ethnica (Pasilda)",
+        "url": "https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Vanetty",
+          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
+        },
+        {
+          "name": "Afro Medusa",
+          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
+        }
+      ],
+      "duration_ms": 170157,
+      "name": "Ethnica (Pasilda)",
+      "url": "https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 223774,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "Born In Blue",
         "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
       },
@@ -1615,18 +1631,22 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
+        "name": "Naam",
+        "url": "https://open.spotify.com/album/0wRb8oASXsFk5UxQINFMoO"
       },
       "artists": [
         {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
         }
       ],
-      "duration_ms": 223774,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
+      "duration_ms": 225245,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/5cP2qpLkDYDuPEtVBuOpUV"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1647,26 +1667,6 @@
       "duration_ms": 239492,
       "name": "W4U (feat. Jen)",
       "url": "https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "Naam",
-        "url": "https://open.spotify.com/album/0wRb8oASXsFk5UxQINFMoO"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Naam",
-      "url": "https://open.spotify.com/track/5cP2qpLkDYDuPEtVBuOpUV"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1719,22 +1719,22 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "TERRITORY (SOMMA REMIX)",
-        "url": "https://open.spotify.com/album/0iRdy6JJlVlZ52ZUXodKpA"
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
       },
       "artists": [
         {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
         },
         {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
         }
       ],
-      "duration_ms": 389395,
-      "name": "TERRITORY - SOMMA REMIX",
-      "url": "https://open.spotify.com/track/2wKT63Yyolf89Pxc8eKaZI"
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "TERRITORY (SOMMA REMIX)",
+        "url": "https://open.spotify.com/album/0iRdy6JJlVlZ52ZUXodKpA"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        },
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        }
+      ],
+      "duration_ms": 389395,
+      "name": "TERRITORY - SOMMA REMIX",
+      "url": "https://open.spotify.com/track/2wKT63Yyolf89Pxc8eKaZI"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1"
       },
@@ -1791,26 +1811,6 @@
       "duration_ms": 202741,
       "name": "Flora",
       "url": "https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "Longlivedad",
+        "url": "https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 215322,
+      "name": "Longlivedad",
+      "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "H\u00e9roe de M\u00e9xico",
         "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 212231,
       "name": "Yara",
       "url": "https://open.spotify.com/track/0ahreZE7HlAcG4UguRmjnV"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "Longlivedad",
-        "url": "https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 215322,
-      "name": "Longlivedad",
-      "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4UPQzYDK0VzZwVeNH63xxR"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 248135,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0NUnub47unjOgFG3Q11ZTE"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
-      },
-      "artists": [
-        {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
-        }
-      ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b"
-      },
-      "artists": [
-        {
-          "name": "Jamek Ortega",
-          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
-        }
-      ],
-      "duration_ms": 298125,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Gorah (Francis Mercier Midnight Mix)",
         "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
       },
@@ -2231,22 +2215,18 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "After The Love",
-        "url": "https://open.spotify.com/album/3YVBWKuuAMf6NB0tMk5RnH"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b"
       },
       "artists": [
         {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
         }
       ],
-      "duration_ms": 180000,
-      "name": "After The Love",
-      "url": "https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5"
+      "duration_ms": 298125,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2271,6 +2251,42 @@
       "duration_ms": 188608,
       "name": "Been There Before",
       "url": "https://open.spotify.com/track/6unWfD9WVxx7e0ue3MYX15"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "After The Love",
+        "url": "https://open.spotify.com/album/3YVBWKuuAMf6NB0tMk5RnH"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "After The Love",
+      "url": "https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/5Lk26tM06VG5x3k7hYyxCU"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 246904,
+      "name": "Polar",
+      "url": "https://open.spotify.com/track/2rJYfTsmOyq79XJMYo5grJ"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2303,22 +2319,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/5Lk26tM06VG5x3k7hYyxCU"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 246904,
-      "name": "Polar",
-      "url": "https://open.spotify.com/track/2rJYfTsmOyq79XJMYo5grJ"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Titatite",
         "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
       },
@@ -2331,6 +2331,22 @@
       "duration_ms": 161311,
       "name": "Titatite - Radio Edit",
       "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2375,22 +2391,6 @@
       "duration_ms": 284461,
       "name": "Like Forever - Hernan Cattaneo and Kevin Di Serna Remix",
       "url": "https://open.spotify.com/track/2KXLXUoc4IvnF53qDJH3L7"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
-      },
-      "artists": [
-        {
-          "name": "Moojo",
-          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Boy You Got Me",
-        "url": "https://open.spotify.com/album/3JkftDHh7leHlfY1IEqZnG"
-      },
-      "artists": [
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "Boy You Got Me",
-      "url": "https://open.spotify.com/track/5x7uCstXGVFFgEokfdIRFG"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Promised Land (Solomun Remix)",
         "url": "https://open.spotify.com/album/5M06GH1qZPiVoOdfO3D19v"
       },
@@ -2655,6 +2639,22 @@
       "duration_ms": 191812,
       "name": "Promised Land - Solomun Remix",
       "url": "https://open.spotify.com/track/04BIRcOMlj5DBtjXOBqW7s"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Boy You Got Me",
+        "url": "https://open.spotify.com/album/3JkftDHh7leHlfY1IEqZnG"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 207141,
+      "name": "Boy You Got Me",
+      "url": "https://open.spotify.com/track/5x7uCstXGVFFgEokfdIRFG"
     },
     {
       "added_at": "2025-01-04 02:16:35",

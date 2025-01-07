@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Colombia.",
-  "num_followers": 34594,
+  "num_followers": 34611,
   "original_name": "Top Songs - Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lw31oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lw9EyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-01-03 12:55:44",
@@ -475,8 +475,8 @@
     {
       "added_at": "2025-01-03 12:55:44",
       "album": {
-        "name": "Listos para Bailar",
-        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
+        "name": "De Peligro",
+        "url": "https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
         }
       ],
-      "duration_ms": 226730,
+      "duration_ms": 230306,
       "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
+      "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
     },
     {
       "added_at": "2025-01-03 12:55:44",
@@ -583,8 +583,8 @@
     {
       "added_at": "2025-01-03 12:55:44",
       "album": {
-        "name": "\u00c9xitos Armando Hern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+        "name": "El Mejor Int\u00e9rprete Tropical - 16 Exitos",
+        "url": "https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
         }
       ],
-      "duration_ms": 287459,
+      "duration_ms": 287146,
       "name": "Loquito por Ti",
-      "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
+      "url": "https://open.spotify.com/track/1pCNUXYpoEzI4eA38NgHcz"
     },
     {
       "added_at": "2025-01-03 12:55:44",
@@ -707,8 +707,8 @@
     {
       "added_at": "2025-01-03 12:55:44",
       "album": {
-        "name": "\u00c9xitos los Corraleros de Majagual",
-        "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
+        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 158515,
+      "duration_ms": 162826,
       "name": "Los Sabanales",
-      "url": "https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3"
+      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
     },
     {
       "added_at": "2025-01-03 12:55:44",
@@ -783,8 +783,8 @@
     {
       "added_at": "2025-01-03 12:55:44",
       "album": {
-        "name": "Una Leyenda: Rodolfo Aicardi (Exitos)",
-        "url": "https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn"
+        "name": "De Triunfo en Triunfo",
+        "url": "https://open.spotify.com/album/5pefwZ3srZQo7kBZgIBnkk"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
         }
       ],
-      "duration_ms": 187045,
+      "duration_ms": 189453,
       "name": "Adonay",
-      "url": "https://open.spotify.com/track/4yzEzfJRG2KpT6JBed7Wzw"
+      "url": "https://open.spotify.com/track/6aMhENDm72fgzbg3HkGExn"
     },
     {
       "added_at": "2025-01-03 12:55:44",
@@ -891,18 +891,22 @@
     {
       "added_at": "2025-01-03 12:55:44",
       "album": {
-        "name": "Listos para Bailar",
-        "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
+        "name": "Qu\u00e9 Ch\u00e9vere",
+        "url": "https://open.spotify.com/album/4wDJkHIq0hCqnmO3mqamJC"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+          "name": "Ricardo Aicardi",
+          "url": "https://open.spotify.com/artist/32xYg2QsAOB8Nrmr2koY2P"
+        },
+        {
+          "name": "Los Hermanos Aicardi",
+          "url": "https://open.spotify.com/artist/1ad7426spDWBAEabgT2iHn"
         }
       ],
-      "duration_ms": 219498,
-      "name": "Se Va la Vida",
-      "url": "https://open.spotify.com/track/5ayLeELVP0BNklcdHvSiDj"
+      "duration_ms": 218920,
+      "name": "Se V\u00e1 la Vida",
+      "url": "https://open.spotify.com/track/7o2YP2J1ygAv9ebgCPjxhs"
     },
     {
       "added_at": "2025-01-03 12:55:44",

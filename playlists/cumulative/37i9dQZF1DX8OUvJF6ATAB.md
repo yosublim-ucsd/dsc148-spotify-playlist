@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-342 songs - 1 day 5 hr 59 min
+343 songs - 1 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Like a Glacier Waiting for the Summer](https://open.spotify.com/track/0Q7WpjZChzlK6isNOjmS37) | [Carlos Metta](https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB) | [Like a Glacier Waiting for the Summer](https://open.spotify.com/album/1upyh5DmPzcRycLOZMdl4P) | 9:53 | 2024-09-06 |  |
 | [Lizard Point \- Remastered 2004](https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 4:34 | 2024-01-03 |  |
 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 | 2022-03-11 |  |
+| [Looming Brittle](https://open.spotify.com/track/3Mz1GYV0mDWPypqUPF5Epu) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Ash](https://open.spotify.com/album/4oyt4GXDxOpPQgeZLhXibx) | 3:41 | 2025-01-07 |  |
 | [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/track/0z4uaqGpA3APE8dqvuUZ3l) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Origin EP](https://open.spotify.com/album/6n7fakB3pKRvA7fqpSDvNk) | 4:26 | 2021-10-06 | 2022-07-20 |
 | [Lueena Coast](https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:12 | 2021-10-06 |  |
 | [Lux1](https://open.spotify.com/track/5GWSvEJ9CLeg438Lc4h6gB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Starethrough EP](https://open.spotify.com/album/3zQKEOD2AsQDAzBPR2DVYD) | 6:03 | 2021-10-06 | 2022-07-15 |
@@ -259,7 +260,7 @@
 | [Sep 11th](https://open.spotify.com/track/19vWwOL1w8crdrgFEbrEaG) | [Matthew Cardinal](https://open.spotify.com/artist/2sQcQc1C5ns0yPsDHGo2Sp) | [Asterisms](https://open.spotify.com/album/3B2Zd9kIYg8ET4l1txZfTw) | 2:28 | 2021-10-06 | 2022-07-24 |
 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 | 2021-10-06 |  |
 | [Shadows \(The Light of Light\)](https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [Shadows \(The Light of Light\)](https://open.spotify.com/album/2iGsHH8dXl9VHM0JtGiDo2) | 4:34 | 2021-10-06 |  |
-| [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 | 2021-10-06 |  |
+| [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 | 2021-10-06 | 2025-01-07 |
 | [Silver](https://open.spotify.com/track/5bAXwSGe8VudUcZCQs8avp) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Silver](https://open.spotify.com/album/1ACYcJOkXukOYC1hVwLnFq) | 2:50 | 2024-10-23 |  |
 | [Sky Hooks](https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Sky Hooks](https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp) | 6:03 | 2024-08-12 |  |
 | [Snowflakes](https://open.spotify.com/track/3PryCUaKSzRhMB0D1xr1Tt) | [Zabala](https://open.spotify.com/artist/1XsGvEIqRwfXb3iZ8Jq5cr) | [Vik](https://open.spotify.com/album/09VRYoZ63rZQujaRMwJO1w) | 2:54 | 2021-10-06 | 2022-07-22 |

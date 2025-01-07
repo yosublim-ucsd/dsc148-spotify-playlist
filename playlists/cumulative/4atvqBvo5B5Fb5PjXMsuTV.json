@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 06 Jan 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Jan 23:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3224,6 +3224,24 @@
       "duration_ms": 228040,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
+    },
+    {
+      "album": {
+        "name": "ALRIGHT OK",
+        "url": "https://open.spotify.com/album/3qgIiX5tMvks68Mc7MIhpW"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171620,
+      "name": "ALRIGHT OK",
+      "url": "https://open.spotify.com/track/5sy1XZd8J7kwN14qUO6E2d"
     },
     {
       "album": {
@@ -17180,7 +17198,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 169714,
       "name": "Dobra Robota",
       "url": "https://open.spotify.com/track/3oEfyXMcd2KQq5rjhSbr9o"
@@ -21899,6 +21917,24 @@
     },
     {
       "album": {
+        "name": "Ferry Lady",
+        "url": "https://open.spotify.com/album/1CwMlbr0CQJxdPQtlcLFT4"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282042,
+      "name": "Ferry Lady",
+      "url": "https://open.spotify.com/track/0d3jI3SmR8cFpp6fYOvyWa"
+    },
+    {
+      "album": {
         "name": "Field Of Dreams",
         "url": "https://open.spotify.com/album/7cG8sPXDf4E3vi8fnIpxmU"
       },
@@ -23494,7 +23530,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 142288,
       "name": "Fr!ed",
       "url": "https://open.spotify.com/track/5jAqmqobpvY4BDxcdQVoSP"
@@ -42174,7 +42210,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 179893,
       "name": "Mother Teresa",
       "url": "https://open.spotify.com/track/0BuHt4GZ9uqDtPxUsYfEsy"
@@ -61798,6 +61834,24 @@
       "duration_ms": 174374,
       "name": "taki ma\u0142y ja",
       "url": "https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7"
+    },
+    {
+      "album": {
+        "name": "Taking Inventory Of A Frozen Lake",
+        "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257084,
+      "name": "Taking Inventory Of A Frozen Lake",
+      "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
     },
     {
       "album": {

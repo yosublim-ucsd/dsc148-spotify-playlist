@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3-KJ75hjpI0_Q\">21 Promo & Pengii</a> ",
-  "num_followers": 2159,
+  "num_followers": 2160,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
+        "name": "Op Fok",
+        "url": "https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL"
+      },
+      "artists": [
+        {
+          "name": "KerwieG",
+          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
+        }
+      ],
+      "duration_ms": 128419,
+      "name": "Op Fok",
+      "url": "https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca"
+    },
+    {
+      "added_at": "2024-12-19 22:00:25",
+      "album": {
         "name": "Raak Taatie",
         "url": "https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy"
       },
@@ -555,18 +571,34 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "Op Fok",
-        "url": "https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL"
+        "name": "Goated",
+        "url": "https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP"
       },
       "artists": [
         {
-          "name": "KerwieG",
-          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
+          "name": "Chesrae Megan",
+          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
         }
       ],
-      "duration_ms": 128419,
-      "name": "Op Fok",
-      "url": "https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca"
+      "duration_ms": 131813,
+      "name": "Goated",
+      "url": "https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R"
+    },
+    {
+      "added_at": "2024-12-19 22:00:25",
+      "album": {
+        "name": "When days are dark",
+        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 170657,
+      "name": "When days are dark",
+      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -595,38 +627,6 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "When days are dark",
-        "url": "https://open.spotify.com/album/761h656NyhlwFRUJpir3mx"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        }
-      ],
-      "duration_ms": 170657,
-      "name": "When days are dark",
-      "url": "https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM"
-    },
-    {
-      "added_at": "2024-12-19 22:00:25",
-      "album": {
-        "name": "Goated",
-        "url": "https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP"
-      },
-      "artists": [
-        {
-          "name": "Chesrae Megan",
-          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
-        }
-      ],
-      "duration_ms": 131813,
-      "name": "Goated",
-      "url": "https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R"
-    },
-    {
-      "added_at": "2024-12-19 22:00:25",
-      "album": {
         "name": "Need Her",
         "url": "https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A"
       },
@@ -647,22 +647,18 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "Carefull Wies",
-        "url": "https://open.spotify.com/album/0gBgGLy1gl2JKIH3tnEUP1"
+        "name": "Doen Net Jou Ding",
+        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
       },
       "artists": [
         {
-          "name": "KerwieG",
-          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
-        },
-        {
-          "name": "YB Benzy",
-          "url": "https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm"
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
         }
       ],
-      "duration_ms": 201926,
-      "name": "Carefull Wies",
-      "url": "https://open.spotify.com/track/3y0aL9TpnDojMhBNYfcwkV"
+      "duration_ms": 185395,
+      "name": "Doen Net Jou Ding",
+      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
     },
     {
       "added_at": "2024-12-19 22:00:25",
@@ -687,18 +683,22 @@
     {
       "added_at": "2024-12-19 22:00:25",
       "album": {
-        "name": "Doen Net Jou Ding",
-        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
+        "name": "Carefull Wies",
+        "url": "https://open.spotify.com/album/0gBgGLy1gl2JKIH3tnEUP1"
       },
       "artists": [
         {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+          "name": "KerwieG",
+          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
+        },
+        {
+          "name": "YB Benzy",
+          "url": "https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm"
         }
       ],
-      "duration_ms": 185395,
-      "name": "Doen Net Jou Ding",
-      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
+      "duration_ms": 201926,
+      "name": "Carefull Wies",
+      "url": "https://open.spotify.com/track/3y0aL9TpnDojMhBNYfcwkV"
     },
     {
       "added_at": "2024-12-19 22:00:25",

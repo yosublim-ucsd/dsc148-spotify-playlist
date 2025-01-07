@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,346 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,467 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 6 | [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 |
 | 7 | [Tareef](https://open.spotify.com/track/76kJt6gHCqCYhRGI0ifp53) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tareef](https://open.spotify.com/album/102wTfX90nx1r2i5aCTgUo) | 3:06 |
 | 8 | [Rangeen](https://open.spotify.com/track/1ChFEDpGjf0hNniMelD2n8) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Rangeen](https://open.spotify.com/album/35dlHWLrLqGVncm3EnjuAl) | 3:05 |
-| 9 | [Big Flex](https://open.spotify.com/track/4GrMhP5ePbKxBcErPQhmOb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:46 |
-| 10 | [Lahore](https://open.spotify.com/track/3A6W2pP8OVyuRNNIgrkleZ) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Lahore](https://open.spotify.com/album/2roWWIoVTJwNMU7Y5h4V97) | 2:56 |
-| 11 | [Sunshine](https://open.spotify.com/track/2d9WYBbws5n0RdWjAfxeYF) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Sunshine](https://open.spotify.com/album/0V8Sv9wmfvqnSIB3QreqW5) | 3:05 |
-| 12 | [Tera Mera Viah](https://open.spotify.com/track/0J8pFQmRY3T5Fo1eRMgZ49) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX) | [Tera Mera Viah](https://open.spotify.com/album/5U4oL6plxYADp3AH321W4u) | 3:04 |
+| 9 | [Khyaal Tere](https://open.spotify.com/track/5pTvUNfVWWV2mzxbSBSkmk) | [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y), [Mirroronly](https://open.spotify.com/artist/5Z4xc8enAcMaWp5xkRA5ej) | [Khyaal Tere](https://open.spotify.com/album/2MEvMWbAowbJde4MMFjL1Q) | 2:54 |
+| 10 | [Big Flex](https://open.spotify.com/track/4GrMhP5ePbKxBcErPQhmOb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:46 |
+| 11 | [Lahore](https://open.spotify.com/track/3A6W2pP8OVyuRNNIgrkleZ) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Lahore](https://open.spotify.com/album/2roWWIoVTJwNMU7Y5h4V97) | 2:56 |
+| 12 | [Sunshine](https://open.spotify.com/track/2d9WYBbws5n0RdWjAfxeYF) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Sunshine](https://open.spotify.com/album/0V8Sv9wmfvqnSIB3QreqW5) | 3:05 |
 | 13 | [Tangy](https://open.spotify.com/track/4Ym5YCUWgjpVtHubOtp48E) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Tangy](https://open.spotify.com/album/7a7Q85pwhJVdtHyRhlgoX5) | 1:53 |
 | 14 | [Possessive](https://open.spotify.com/track/48VkZK0b7YDFP94dbj19L1) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [1:11](https://open.spotify.com/album/26IuSr3QbfNkzw1cx1NT9o) | 2:25 |
 | 15 | [Garam Taseer](https://open.spotify.com/track/4yVKgKagOZiLmOcyk16O1b) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Garam Taseer](https://open.spotify.com/album/0kOeacJvdJGV1yFxLQo28E) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Sira E Hou](https://open.spotify.com/track/2GDWnzRp5wsBXMBtR25dzv) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [All Bamb](https://open.spotify.com/album/4UT2rfObHL3Y9rrsbGtD2A) | 3:20 |
 | 75 | [Setting](https://open.spotify.com/track/3HJRVmgJQ8Bg1guFckZKh9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Setting](https://open.spotify.com/album/1JFhr0vyVxFixL5DBM2fQr) | 2:40 |
 
-Snapshot ID: `Z3dm5gAAAAD9e4UA+N6YYjWNWTZcIL/A`
+Snapshot ID: `Z3txiAAAAACvzrxGk3WlFIXS8GBQVVx7`

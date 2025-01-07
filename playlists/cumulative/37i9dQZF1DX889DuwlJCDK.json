@@ -9810,7 +9810,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 213666,
       "name": "\u30cd\u30d0\u30fc\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/2CekXhKBUmnBOKdy9ATx6W"
@@ -11686,6 +11686,24 @@
       "duration_ms": 153786,
       "name": "\u5026\u6020\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
       "url": "https://open.spotify.com/track/4X1T4oalHzBKUj3gwsBPES"
+    },
+    {
+      "album": {
+        "name": "\u50b7\u8de1",
+        "url": "https://open.spotify.com/album/13WIHO1uO0zw2G6zYUeMeO"
+      },
+      "artists": [
+        {
+          "name": "\u304a\u3082\u304b\u3052",
+          "url": "https://open.spotify.com/artist/4LnTqxRKY11tPnw1FFFzE2"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310125,
+      "name": "\u50b7\u8de1",
+      "url": "https://open.spotify.com/track/10qrUYu6ucdUPvDuCDC1YA"
     },
     {
       "album": {

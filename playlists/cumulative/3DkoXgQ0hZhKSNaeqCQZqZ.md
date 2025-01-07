@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\. \| Request songs @ Furrest.Online
 
-261 songs - 13 hr 56 min
+263 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Not Holding Back](https://open.spotify.com/track/0zILcaJBCn72ShpNizqrQW) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [Not Holding Back](https://open.spotify.com/album/1bAZ4KCxSVc65jK4mebnCa) | 2:47 | 2024-04-12 |  |
 | [NOTORIOUS](https://open.spotify.com/track/0RAnQRTlzL5uXp3mwsHkz9) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [NOTORIOUS](https://open.spotify.com/album/64hrwE6RioD6Uy45WonTPF) | 2:32 | 2023-10-05 |  |
 | [Oh Yeah?](https://open.spotify.com/track/3qjZvwNwyveoy6OPAk3kyd) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Oh Yeah?](https://open.spotify.com/album/4Zkl6RwdxqrcGoEsxzV9Gi) | 2:01 | 2024-11-25 |  |
+| [old money bitch](https://open.spotify.com/track/396MgRKqn3axtAuhjEVWTF) | [Fur:Trash](https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m) | [fur:core VII \(puppy radio 24/7\)](https://open.spotify.com/album/2QCOs35xx77fJEBvijbFhG) | 3:10 | 2025-01-06 |  |
 | [Opposites Attack!](https://open.spotify.com/track/2rVbRRo9BKBk5Ogfiusrht) | [Adam Tell](https://open.spotify.com/artist/1t8LijuXy59r0O5qlLkENl) | [Falsework](https://open.spotify.com/album/6mRZBa04P3wKGQeIEgv9Vb) | 2:20 | 2023-11-08 |  |
 | [Ouroboros](https://open.spotify.com/track/5N1tco0mZrM6TzGueiudJw) | [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Skunk Surfeit](https://open.spotify.com/artist/71v8c8wbnG3fkjVx34cL81) | [AURAL ALLIANCE STAGE 1](https://open.spotify.com/album/0NyuVquScsw96o0SEWVSII) | 4:51 | 2024-02-09 |  |
 | [out of service](https://open.spotify.com/track/1mbB7e3oG3j5CjQL3HmsP8) | [mochji](https://open.spotify.com/artist/693tqzQdVpEOHELN58WkQz) | [out of service](https://open.spotify.com/album/6JBd5dLCcNRHnM68KLcqeu) | 2:48 | 2024-06-04 |  |
@@ -177,6 +178,7 @@
 | [PEOPLEPLEASER](https://open.spotify.com/track/6cq3aa06llf5ouqPX0w83y) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [PEOPLEPLEASER](https://open.spotify.com/album/22pfJGxBvUvk7yMX1tuo4h) | 2:23 | 2024-02-09 |  |
 | [Phantom Sense \- Scalie Bloke Remix](https://open.spotify.com/track/0oKNplZZk9wh8MgIqkH9Zt) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Scalie Bloke](https://open.spotify.com/artist/7waKUb2SmeFCDfah4Qrx2p) | [Phantom Sense \(Scalie Bloke Remix\)](https://open.spotify.com/album/3RHbJ9t6GZZYxMdmTk4Pln) | 4:15 | 2023-09-24 |  |
 | [photogenic](https://open.spotify.com/track/5SlBbNBXqaYJXWU059Alpr) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [Wyntr.](https://open.spotify.com/artist/0KewIgBlbp2Jy5exPqyyvM) | [photogenic](https://open.spotify.com/album/6Cnxi9Jr9apIrZaGSYZrQJ) | 1:18 | 2024-10-21 |  |
+| [pink rose fragrance](https://open.spotify.com/track/4hmywvrzIDN66jXlV5Iyqc) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [MYRTLE BROADWAY & THE BIG BANG THEORY](https://open.spotify.com/album/5pmFfSXbaShZPSwgUxkfGJ) | 2:16 | 2025-01-06 |  |
 | [Playwright Metro](https://open.spotify.com/track/6DfrzmR72Cid9nS2Rr2Fcv) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Playwright Metro](https://open.spotify.com/album/0cKSiLGcZv6c1SO4qKpdel) | 3:21 | 2024-11-09 |  |
 | [Plea for a Dogman](https://open.spotify.com/track/5G7Y14QDFGuIukUPiAtX2l) | [mammalfriend](https://open.spotify.com/artist/1soXXPru4RPo5CvGbvQeA5) | [Eleven Eleven](https://open.spotify.com/album/2F0KDRRVJWc4SOASRj2oKP) | 3:45 | 2024-08-15 |  |
 | [pop out](https://open.spotify.com/track/3tSI0wuDInKwve6q4LwV2B) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [pop out](https://open.spotify.com/album/3p29QY6whqGfBoWdhArXrF) | 1:16 | 2024-07-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,201 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,207 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Yaare Nee](https://open.spotify.com/track/4yyKf2B5mx9OyH5mn3dUIu) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yaare Nee](https://open.spotify.com/album/6ETtB3AjBpZ2T4MPbhurj8) | 3:03 |
 | 75 | [I'M Believer](https://open.spotify.com/track/3KuefA47wSyDNFbFDDOdSJ) | [Ravi Basrur](https://open.spotify.com/artist/2WpKIaiVSpiMSF4gYBZrdE), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Airaa Udupi](https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR) | [I'M Believer](https://open.spotify.com/album/3SGKp99q4VXCUmINWQWqKf) | 3:29 |
 
-Snapshot ID: `Z3Y/+AAAAAAt+Gbk3S4vHyrMslB4S604`
+Snapshot ID: `Z3tjGAAAAAAKnw7tpx9bdod2xFEy8I5d`

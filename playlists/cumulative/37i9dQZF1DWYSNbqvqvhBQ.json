@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 205718,
       "name": "At Your Feet",
       "url": "https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 229619,
       "name": "Floating Parade",
       "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
@@ -3203,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/0bCdGyOL3c0jJlKvxisXeE"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214560,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG"
+    },
+    {
+      "album": {
         "name": "GOSSIP (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8"
       },
@@ -3338,6 +3356,24 @@
       "duration_ms": 223559,
       "name": "Hard Days Love",
       "url": "https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO"
+    },
+    {
+      "album": {
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178779,
+      "name": "Have A Little Faith",
+      "url": "https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti"
     },
     {
       "album": {
@@ -4750,6 +4786,24 @@
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
+    },
+    {
+      "album": {
+        "name": "Kayo",
+        "url": "https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq"
+      },
+      "artists": [
+        {
+          "name": "Blaudzun",
+          "url": "https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177641,
+      "name": "Kayo",
+      "url": "https://open.spotify.com/track/4lfjBWQ0tE9hvejQ0LtT4k"
     },
     {
       "album": {
@@ -7231,6 +7285,32 @@
     },
     {
       "album": {
+        "name": "Better Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MXndpl1WV1ab9xWNaCUip"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Adam Tucker",
+          "url": "https://open.spotify.com/artist/6cF82Q4p0GsdVCfFdUIqgx"
+        },
+        {
+          "name": "Kayleigh McKnight",
+          "url": "https://open.spotify.com/artist/11w6rxZvc1EREH3Iv5Ag1Z"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257803,
+      "name": "She's the One (From Better Man: Original Motion Picture Soundtrack) (feat. Adam Tucker & Kayleigh McKnight)",
+      "url": "https://open.spotify.com/track/4F9fv546vGr8cxEwbsiYxB"
+    },
+    {
+      "album": {
         "name": "Schvitz",
         "url": "https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI"
       },
@@ -7308,6 +7388,24 @@
       "duration_ms": 179733,
       "name": "Sleep When I'm With You",
       "url": "https://open.spotify.com/track/3Va9eANCm7FrpByrRLkQvk"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224127,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
     },
     {
       "album": {
@@ -7662,7 +7760,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 200853,
       "name": "Start a Fire",
       "url": "https://open.spotify.com/track/7lX2NUl49sK7IRcSaDvyW2"
@@ -9472,7 +9570,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 220820,
       "name": "Wastelands",
       "url": "https://open.spotify.com/track/0XFPoeF4wAc2lBckxnoKdP"

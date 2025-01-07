@@ -2,7 +2,7 @@
 
 ### [Indie Covers](https://open.spotify.com/playlist/37i9dQZF1DXb67OkZ6150Z)
 
-> Songs you love with an indie spin on it\. Cover: Ethel Cain
+> Songs you love with an indie spin on it\. Cover: Beach Fossils
 
 470 songs - 1 day 4 hr 48 min
 

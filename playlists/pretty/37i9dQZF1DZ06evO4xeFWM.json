@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 216284,
+  "num_followers": 216286,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3h6AAAAAACIF7xU4o1F0D68BeOh3psd",
+  "snapshot_id": "Z3nLgAAAAAA1ZcS/cfWyaB2IOi63gQkd",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Red Wine & Wilde",
-      "url": "https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6"
+      "duration_ms": 217866,
+      "name": "Essie & Paul",
+      "url": "https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d"
     },
     {
       "added_at": null,
@@ -516,9 +516,25 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Essie & Paul",
-      "url": "https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d"
+      "duration_ms": 221600,
+      "name": "Red Wine & Wilde",
+      "url": "https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Laura Palmer",
+      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
       "duration_ms": 198889,
       "name": "Can\u2019t Fight This Feeling",
       "url": "https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Laura Palmer",
-      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYs8YYEWLlaB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYs8YYEWLlaB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYs8YYEWLlaB)
 
-### [trend 2024](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
+### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
 > viral, trend ve yükselenler\. Kapak: Gökhan Türkmen
 

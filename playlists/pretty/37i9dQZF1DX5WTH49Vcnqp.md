@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Our editors' picks for best indie songs of the year! Cover: Royel Otis
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,415 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,159 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 49 | [Alone in the Dark](https://open.spotify.com/track/6ACoOMAlEwliECFRTCsTvr) | [Buttercats](https://open.spotify.com/artist/5uIXMYal5c0Yv0sG9DeK2Z) | [Alone in the Dark](https://open.spotify.com/album/4l7xgeq26WRqCk3CoSWHhG) | 3:43 |
 | 50 | [We Don't Talk About It](https://open.spotify.com/track/0IPHPjgFNGKkLQZnhRXR04) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [We Don't Talk About It](https://open.spotify.com/album/2fg8nUZnoXnoTK3bmQWdqk) | 2:52 |
 
-Snapshot ID: `Z1BHxAAAAABuKUd9mIv/4sJM1ZOtVY1C`
+Snapshot ID: `Z3xfcwAAAACsZ6OoLpiClJMW0iGwhNjm`

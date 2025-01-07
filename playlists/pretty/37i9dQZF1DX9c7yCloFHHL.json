@@ -1,6 +1,6 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Bibio on cover.",
-  "num_followers": 200801,
+  "num_followers": 200837,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "I Remember You Being Happy",
-        "url": "https://open.spotify.com/album/4w3v6gYbN4mdKd2mo5CtYS"
-      },
-      "artists": [
-        {
-          "name": "BAILE",
-          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "I Remember You Being Happy",
-      "url": "https://open.spotify.com/track/2Z2fWWESeWka0erDgpl6hZ"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Lifeglow",
         "url": "https://open.spotify.com/album/0Vi8OowBlaTJrzk7gTLJ3d"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 142090,
       "name": "departure",
       "url": "https://open.spotify.com/track/3h3uBXxBqwc2fEb3K77IZh"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "I Remember You Being Happy",
+        "url": "https://open.spotify.com/album/4w3v6gYbN4mdKd2mo5CtYS"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "I Remember You Being Happy",
+      "url": "https://open.spotify.com/track/2Z2fWWESeWka0erDgpl6hZ"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Movement VI",
-        "url": "https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe"
-      },
-      "artists": [
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Movement VI",
-      "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 185834,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Movement VI",
+        "url": "https://open.spotify.com/album/4y2rMrcRZQZFYrMHDzAloe"
+      },
+      "artists": [
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Movement VI",
+      "url": "https://open.spotify.com/track/1J7c6tLnU6N6sGH0wiJOcp"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Pause (Reimagined by Hinako Omori)",
         "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 200013,
       "name": "Pause - Reimagined by Hinako Omori",
       "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "!",
-        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1443,18 +1443,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
+        "name": "Mesmerising Waves",
+        "url": "https://open.spotify.com/album/5UVbMTGLR7YZHyqqhB5bVt"
       },
       "artists": [
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Narrow Skies",
+          "url": "https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth"
+        },
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
         }
       ],
-      "duration_ms": 118133,
-      "name": "Morning Tides",
-      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
+      "duration_ms": 117775,
+      "name": "Mesmerising Waves",
+      "url": "https://open.spotify.com/track/3xXFRBuzJysZwZ8h2ljVGz"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1475,22 +1479,18 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Mesmerising Waves",
-        "url": "https://open.spotify.com/album/5UVbMTGLR7YZHyqqhB5bVt"
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
       },
       "artists": [
         {
-          "name": "Narrow Skies",
-          "url": "https://open.spotify.com/artist/6YqqrMdzu6vkcS6EBzxPth"
-        },
-        {
-          "name": "Dear Gravity",
-          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 117775,
-      "name": "Mesmerising Waves",
-      "url": "https://open.spotify.com/track/3xXFRBuzJysZwZ8h2ljVGz"
+      "duration_ms": 118133,
+      "name": "Morning Tides",
+      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1815,26 +1815,26 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Fading In And Out",
-        "url": "https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh"
+        "name": "Night Bunny (feat. Suzanne Ciani)",
+        "url": "https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR"
       },
       "artists": [
         {
-          "name": "Soular Child",
-          "url": "https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn"
+          "name": "AF13",
+          "url": "https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E"
         },
         {
-          "name": "Kazuma Okabayashi",
-          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+          "name": "Greg Leisz",
+          "url": "https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU"
         },
         {
-          "name": "Tsunami Sounds",
-          "url": "https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6"
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Fading In",
-      "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
+      "duration_ms": 413993,
+      "name": "Night Bunny (feat. Suzanne Ciani)",
+      "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
     }
   ],
   "unique_name": "Ambient X",

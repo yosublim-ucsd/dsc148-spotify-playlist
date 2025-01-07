@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-363 songs - 1 day 5 hr 12 min
+364 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Arthur](https://open.spotify.com/track/0FLNKkwmlA8IN2RN1KNIHt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/5IruA91DcFLqjsryE4CMuZ) | 7:05 | 2021-10-06 | 2022-07-29 |
 | [Arthur](https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ) | 7:05 | 2021-10-06 | 2024-04-19 |
 | [Artificial Authentic](https://open.spotify.com/track/1Enw5MZBUVnrTzbzwBbpSF) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Artificial Authentic](https://open.spotify.com/album/1hNq0oYtTHuTotskwcBFq1) | 3:35 | 2021-10-06 | 2022-07-28 |
+| [As X Is Y](https://open.spotify.com/track/3YYrDHL8ZTxBoNE7MqyN34) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Squared Roots](https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4) | 7:08 | 2025-01-07 |  |
 | [Attende](https://open.spotify.com/track/3YGYDn8htVD9CtTW4AmlRm) | [Pjusk](https://open.spotify.com/artist/1iqn4OAlsj7UVYzIfNGctq), [Tortusa](https://open.spotify.com/artist/5V9GUZs0R81FpHxKoY1gfo) | [Sakne Verda](https://open.spotify.com/album/36ruLBsItthE59Qe6tptau) | 5:16 | 2021-10-06 | 2024-12-25 |
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2021-10-06 |  |
 | [Aural Drift \- T.Raumschmiere Remix](https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu) | [Martin Merz](https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb), [T.Raumschmiere](https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA) | [Aural Drift \(T.Raumschmiere Remix\)](https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7) | 5:47 | 2022-02-16 | 2024-07-18 |
@@ -192,7 +193,7 @@
 | [memorial park](https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha) | 2:31 | 2021-10-06 |  |
 | [memorial park](https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [that day, on the beach](https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1) | 2:31 | 2021-10-06 | 2024-04-19 |
 | [Menos](https://open.spotify.com/track/3dh9ldPzzPhLj5MYEPlsik) | [Siete Catorce](https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr) | [Temperatura](https://open.spotify.com/album/5oHvCZtymnTAZyO87Ek0CC) | 5:17 | 2021-10-06 | 2022-07-29 |
-| [Metallic](https://open.spotify.com/track/4YJIcpqPeLdZfK5d2I18gV) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 3:14 | 2021-10-06 |  |
+| [Metallic](https://open.spotify.com/track/4YJIcpqPeLdZfK5d2I18gV) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 3:14 | 2021-10-06 | 2025-01-07 |
 | [Middle Life](https://open.spotify.com/track/0lDFIQ79JSrzEv8WiWuHBJ) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Middle Life](https://open.spotify.com/album/3iFls0guteswZXMy1HmNRo) | 1:37 | 2021-10-06 | 2022-07-29 |
 | [Middle Life](https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Middle Life](https://open.spotify.com/album/6FKJdshnI3wJ5vU13bYGnR) | 1:37 | 2021-10-06 | 2024-04-19 |
 | [Milliseconds](https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Milliseconds](https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0) | 2:57 | 2021-10-06 |  |

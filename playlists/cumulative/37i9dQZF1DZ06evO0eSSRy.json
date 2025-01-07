@@ -60,6 +60,24 @@
     {
       "album": {
         "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177658,
+      "name": "Adriatic",
+      "url": "https://open.spotify.com/track/1fKocClfM3Se59SF0mONAf"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
       },
       "artists": [
@@ -420,6 +438,24 @@
     {
       "album": {
         "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154122,
+      "name": "Sailplane",
+      "url": "https://open.spotify.com/track/0wnvuWlOgNtP5v2pDDFcOD"
+    },
+    {
+      "album": {
+        "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
       },
       "artists": [
@@ -448,7 +484,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 223946,
       "name": "Semi Finalists",
       "url": "https://open.spotify.com/track/1HkBqkcB8F6kz1rcmJDL6T"
@@ -736,7 +772,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 254528,
       "name": "Winona Ryder",
       "url": "https://open.spotify.com/track/030oADbNg4fbHOKC9UPZqi"

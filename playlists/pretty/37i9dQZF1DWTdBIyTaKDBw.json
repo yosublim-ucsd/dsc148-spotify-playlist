@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 9132,
+  "num_followers": 9173,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
+      },
+      "artists": [
+        {
+          "name": "Chiccote's Beats",
+          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Dandelion's Lullaby",
         "url": "https://open.spotify.com/album/3c9eWf9ONwSr9LKlwZ0ODW"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 220805,
       "name": "Teahouse Spirits",
       "url": "https://open.spotify.com/track/32DttoRpK9pJW79WPpVevv"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
-      },
-      "artists": [
-        {
-          "name": "Chiccote's Beats",
-          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "First Snow",
-        "url": "https://open.spotify.com/album/4KAi8bUw6awTKrAcTPGsPz"
-      },
-      "artists": [
-        {
-          "name": "Kerusu",
-          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
-        }
-      ],
-      "duration_ms": 191470,
-      "name": "First Snow",
-      "url": "https://open.spotify.com/track/4okFdEte6SmTcGYuemlqAS"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/26BmBroNz25vIvfSXU5rwd"
       },
@@ -483,22 +467,18 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Soothing Breeze",
-        "url": "https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6"
+        "name": "First Snow",
+        "url": "https://open.spotify.com/album/4KAi8bUw6awTKrAcTPGsPz"
       },
       "artists": [
         {
-          "name": "Yestalgia",
-          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
-        },
-        {
-          "name": "Loafy Building",
-          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+          "name": "Kerusu",
+          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
         }
       ],
-      "duration_ms": 140571,
-      "name": "West Of Zhuhai",
-      "url": "https://open.spotify.com/track/0EHnWVLwBy6d3ouhPHmwNa"
+      "duration_ms": 191470,
+      "name": "First Snow",
+      "url": "https://open.spotify.com/track/4okFdEte6SmTcGYuemlqAS"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -531,6 +511,26 @@
       "duration_ms": 120098,
       "name": "Sunday Vibes",
       "url": "https://open.spotify.com/track/3fI1DEUK7gml9W6iFntNel"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Soothing Breeze",
+        "url": "https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6"
+      },
+      "artists": [
+        {
+          "name": "Yestalgia",
+          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
+        },
+        {
+          "name": "Loafy Building",
+          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "West Of Zhuhai",
+      "url": "https://open.spotify.com/track/0EHnWVLwBy6d3ouhPHmwNa"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
-      },
-      "artists": [
-        {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
-        }
-      ],
-      "duration_ms": 176222,
-      "name": "22 Samurai",
-      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Forest Shrine",
         "url": "https://open.spotify.com/album/7ouPAfQBNWJI2BX8GZe19d"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 190302,
       "name": "Forest Shrine",
       "url": "https://open.spotify.com/track/6U84Oadw1LFCLl5NyDOY00"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
+      },
+      "artists": [
+        {
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
+        }
+      ],
+      "duration_ms": 176222,
+      "name": "22 Samurai",
+      "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
+      },
+      "artists": [
+        {
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
+        }
+      ],
+      "duration_ms": 222380,
+      "name": "Forever Lotus",
+      "url": "https://open.spotify.com/track/6R2pHq4pApqWlnoUoms9KX"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 228857,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
-      },
-      "artists": [
-        {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
-        }
-      ],
-      "duration_ms": 222380,
-      "name": "Forever Lotus",
-      "url": "https://open.spotify.com/track/6R2pHq4pApqWlnoUoms9KX"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/05lFHzwRQLVQpBfaJGgrpt"
       },
       "artists": [
         {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+          "name": "R\u016eDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
         }
       ],
-      "duration_ms": 139095,
-      "name": "Anata",
-      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
+      "duration_ms": 192407,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/2XmEDW2SUbYYt5o2cxSEz4"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/4uRYwjUle4SuyO1Uzwi17v"
-      },
-      "artists": [
-        {
-          "name": "Kerusu",
-          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
-        }
-      ],
-      "duration_ms": 210526,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/5IOnrqVaLAQ0gS8gjNNdDU"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Road to Kiyomizu",
         "url": "https://open.spotify.com/album/1PwAaIHNxoaUh2zMzRHZdb"
       },
@@ -919,18 +903,34 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/05lFHzwRQLVQpBfaJGgrpt"
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
       "artists": [
         {
-          "name": "R\u016eDE",
-          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
         }
       ],
-      "duration_ms": 192407,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/2XmEDW2SUbYYt5o2cxSEz4"
+      "duration_ms": 139095,
+      "name": "Anata",
+      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/4uRYwjUle4SuyO1Uzwi17v"
+      },
+      "artists": [
+        {
+          "name": "Kerusu",
+          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
+        }
+      ],
+      "duration_ms": 210526,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/5IOnrqVaLAQ0gS8gjNNdDU"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Distant Worlds 4",
-        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
-      },
-      "artists": [
-        {
-          "name": "Purrple Cat",
-          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
-        }
-      ],
-      "duration_ms": 146144,
-      "name": "Crystalline",
-      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Sunday Vibes",
         "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 133668,
       "name": "Birds",
       "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Distant Worlds 4",
+        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "duration_ms": 146144,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Daichi",
-        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
-      },
-      "artists": [
-        {
-          "name": "JazzyCal",
-          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
-        }
-      ],
-      "duration_ms": 118035,
-      "name": "Daichi",
-      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Red Lamps.",
         "url": "https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 131294,
       "name": "Red Lamps.",
       "url": "https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Daichi",
+        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
+      },
+      "artists": [
+        {
+          "name": "JazzyCal",
+          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+        }
+      ],
+      "duration_ms": 118035,
+      "name": "Daichi",
+      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Beauty in the Ruins",
-        "url": "https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        },
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Flutters",
-      "url": "https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 163092,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Beauty in the Ruins",
+        "url": "https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A"
+      },
+      "artists": [
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        },
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "Flutters",
+      "url": "https://open.spotify.com/track/3tEc1mPR0KHqpTOu7YJJGW"
     },
     {
       "added_at": "2024-07-02 15:06:02",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-02 15:06:02",
       "album": {
-        "name": "Peaceful Soul",
-        "url": "https://open.spotify.com/album/4T9UniU7N9yAue7cgCywr7"
-      },
-      "artists": [
-        {
-          "name": "Wolf Schranze",
-          "url": "https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM"
-        }
-      ],
-      "duration_ms": 108963,
-      "name": "Peaceful Soul",
-      "url": "https://open.spotify.com/track/53CiO8QfS58x43Sw3ogeJ0"
-    },
-    {
-      "added_at": "2024-07-02 15:06:02",
-      "album": {
         "name": "Kanash\u012b",
         "url": "https://open.spotify.com/album/7dKJrdXcKzoloyreDTxUDB"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 179437,
       "name": "Kanash\u012b",
       "url": "https://open.spotify.com/track/3C8THEDcmKmddbhzznTUbr"
+    },
+    {
+      "added_at": "2024-07-02 15:06:02",
+      "album": {
+        "name": "Peaceful Soul",
+        "url": "https://open.spotify.com/album/4T9UniU7N9yAue7cgCywr7"
+      },
+      "artists": [
+        {
+          "name": "Wolf Schranze",
+          "url": "https://open.spotify.com/artist/4MtvBs0l4svT0L3QQLwPMM"
+        }
+      ],
+      "duration_ms": 108963,
+      "name": "Peaceful Soul",
+      "url": "https://open.spotify.com/track/53CiO8QfS58x43Sw3ogeJ0"
     },
     {
       "added_at": "2024-07-02 15:06:02",

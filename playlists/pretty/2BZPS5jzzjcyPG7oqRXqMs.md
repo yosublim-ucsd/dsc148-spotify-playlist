@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain](/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2BZPS5jzzjcyPG7oqRXqMs)
 
-### [Christian Soundtracks \(Movie + TV\) 2024](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
+### [Christian Soundtracks \(Movie + TV\) 2025](https://open.spotify.com/playlist/2BZPS5jzzjcyPG7oqRXqMs)
 
-> Christian Soundtracks \(Movie + TV\) 2024 \| &quot;I could never choose to love another, maybe one day I can learn to love you too...&quot; \| Music from Christian Movies and TV that we all know and love! Cover: <a href="https://www.journeytobethlehemmovie.com/">Cast of Journey To Bethlehem</a>
+> Christian Soundtracks \(Movie + TV\) 2025 \| &quot;I could never choose to love another, maybe one day I can learn to love you too...&quot; \| Music from Christian Movies and TV that we all know and love! Cover: <a href="https://www.journeytobethlehemmovie.com/">Cast of Journey To Bethlehem</a>
 
 [SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,449 likes - 98 songs - 6 hr 12 min
 
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 97 | [For Every Mountain \- Remix](https://open.spotify.com/track/4ySaUNWfWMRBuHJXKgQ5XJ) | [Kingdom Business Cast](https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn), [Tytist](https://open.spotify.com/artist/2kQKQZOPjlvy0bz2BbE9w3) | [Kingdom Business 2 \(Music from the BET+ Original TV Series\)](https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky) | 2:40 |
 | 98 | [When You Believe](https://open.spotify.com/track/0w1dqIds7K9sQna7dSCdan) | [Alexia Khadime](https://open.spotify.com/artist/4jtNresJX9NjFZczXgXfqY), [Christine Allado](https://open.spotify.com/artist/3dl5JxBCHHKpXS8DPFSEpN), [Mia Lakha](https://open.spotify.com/artist/16OPzi7kd5bfNEoK8MLdqi), [Luke Brady](https://open.spotify.com/artist/2jHGDVfLRdO9sheZMMKAng), [The Prince of Egypt Original Cast Ensemble](https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe) | [The Prince of Egypt \(Original Cast Recording\)](https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71) | 4:34 |
 
-Snapshot ID: `AAANQipw3NkCqEbtw3omP/85aX40Lf97`
+Snapshot ID: `AAANQ0MY10sMdBBMq5FKw11uLmItYsiv`

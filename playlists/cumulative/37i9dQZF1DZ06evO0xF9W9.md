@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 16 min
+63 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Prende \(feat\. Dj Astilo\)](https://open.spotify.com/track/3pp8HYIEAvjOJwts751MWs) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [El Mangry](https://open.spotify.com/artist/07II99rXe72pglXtzRmaPQ), [Dj Astilo](https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK) | [Prende \(feat\. Dj Astilo\)](https://open.spotify.com/album/1ta3964ZSm6jUQXK56gwlY) | 3:06 | 2024-10-11 |  |
 | [Provoca](https://open.spotify.com/track/2E59zaPJmV79zkp4iBqGws) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Provoca](https://open.spotify.com/album/425a8VovhxQ2sGLTbscygp) | 3:26 | 2024-06-19 | 2024-10-08 |
 | [Provoca](https://open.spotify.com/track/2Y465FoRY9L9mKVHn325Zm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Provoca](https://open.spotify.com/album/6Vpw9MNSptK2JZsmSsJWEJ) | 3:26 | 2024-10-08 |  |
-| [Quedate \(feat\. King Jeff\) \- Discoteca](https://open.spotify.com/track/78AfS03RiKgjvT8TuJGeX0) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [King Jeff](https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d) | [Quedate \(feat\. King Jeff\) \[Discoteca\]](https://open.spotify.com/album/7F7FaH5zf0Et8gW2AI3d5a) | 3:20 | 2024-09-15 |  |
+| [Quedate \(feat\. King Jeff\) \- Discoteca](https://open.spotify.com/track/78AfS03RiKgjvT8TuJGeX0) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [King Jeff](https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d) | [Quedate \(feat\. King Jeff\) \[Discoteca\]](https://open.spotify.com/album/7F7FaH5zf0Et8gW2AI3d5a) | 3:20 | 2024-09-15 | 2025-01-07 |
+| [Quedate \- Live](https://open.spotify.com/track/73CWEtik68Te87lTeI7AJS) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Quedate \(Live\)](https://open.spotify.com/album/72eyHgIDWShgeAhq5kBETD) | 3:30 | 2025-01-07 |  |
 | [Quedate \- Version Discoteca](https://open.spotify.com/track/4fNoiC78XH83V907TSAk9m) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [King Jeff](https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d) | [Quedate \(Version Discoteca\)](https://open.spotify.com/album/49marj4ERkHVY510ycGNMr) | 3:20 | 2024-06-19 | 2024-09-15 |
 | [Ruta](https://open.spotify.com/track/4rNX5hOw4IAPuSlEZ71m5i) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/7cwZSJ1S17yteGVQpML2Bx) | 2:30 | 2024-10-08 |  |
 | [Ruta](https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw) | 2:30 | 2024-06-19 | 2024-10-08 |

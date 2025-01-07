@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-268 songs - 15 hr 20 min
+269 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Drunk](https://open.spotify.com/track/6WI2GsakMUzGf9EGT0Ln5t) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [zero\_one](https://open.spotify.com/album/54wAlSP6p1gVxZmlzAfpiJ) | 3:25 | 2023-10-25 |  |
 | [Eat \(feat\. Ado\)](https://open.spotify.com/track/6G7lmaVhweBRsn3sniKvme) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Eat \(feat\. Ado\)](https://open.spotify.com/album/0GP5ShEt1o6H7y3izn2G4G) | 3:24 | 2024-09-07 |  |
 | [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2024-08-31 |  |
+| [Envy Cat Walk](https://open.spotify.com/track/1YgxBIyu2z4hRQuAx7Yw8j) | [RIB](https://open.spotify.com/artist/5YGU6VC4rMn4s5tScJG8WY) | [Rib On](https://open.spotify.com/album/1HN8yEXVd7oKn1RGV2V0BD) | 3:43 | 2025-01-06 |  |
 | [FACT](https://open.spotify.com/track/4jYHYJFTi1QkBobUMC7kf7) | [常闇トワ](https://open.spotify.com/artist/0XZGQi9wNsE1z9L0AWhC82) | [FACT](https://open.spotify.com/album/6rftPCSznoXjxmJxsHk5zM) | 3:15 | 2024-04-08 |  |
 | [FAILURE GIRL \- MARETU Remix](https://open.spotify.com/track/1ggbMRzwjDZQC0kvdjD97A) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [MARETU](https://open.spotify.com/artist/5xyAdpFAdfuMpS3uRXKPpB) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:04 | 2024-09-12 |  |
 | [Flashback](https://open.spotify.com/track/3xgWtkf7PUlIS7e2B7823x) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN), [Ken Ken](https://open.spotify.com/artist/37q3VtYOmP8b94tbw8HiPI) | [SAMURAI SESSIONS vol.2](https://open.spotify.com/album/25q33Q6yrlWEeUd3FYfAXg) | 3:00 | 2024-03-30 |  |

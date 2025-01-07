@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207419,
+      "name": "Bird Language",
+      "url": "https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz"
+    },
+    {
+      "album": {
         "name": "Music for Living Spaces",
         "url": "https://open.spotify.com/album/1wO5nsIQP1vDzJShd7BLgk"
       },
@@ -3820,7 +3838,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 401977,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J"
@@ -6713,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/0fkdChNifpc3QI6UyXCDpo"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221958,
+      "name": "Volver - Oboe Remix",
+      "url": "https://open.spotify.com/track/0LB9eAqowGmeZlML4nbzuh"
+    },
+    {
+      "album": {
         "name": "mudflat hikers",
         "url": "https://open.spotify.com/album/3sFJdoo3cHihNzJtPEaOHw"
       },
@@ -6940,7 +6976,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 116482,
       "name": "Wuhwah",
       "url": "https://open.spotify.com/track/5lZCrTVKG8d7ydCrSsbjYq"

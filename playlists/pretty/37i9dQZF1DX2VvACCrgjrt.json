@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
-  "num_followers": 452136,
+  "num_followers": 452180,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1113,28 +1113,24 @@
       "url": "https://open.spotify.com/track/7FY6QQTpFO6G91bjut6uld"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Freedom (Body Ocean Remix)",
-        "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
       },
       "artists": [
         {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         },
         {
-          "name": "Body Ocean",
-          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Freedom - Body Ocean Remix",
-      "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+      "duration_ms": 210937,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1161,24 +1157,28 @@
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
+        "name": "Freedom (Body Ocean Remix)",
+        "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
         },
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 210937,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
+      "duration_ms": 220952,
+      "name": "Freedom - Body Ocean Remix",
+      "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1461,26 +1461,6 @@
       "url": "https://open.spotify.com/track/4nQjMY7PjY7RLh3TKG78Pi"
     },
     {
-      "added_at": "2024-10-02 17:18:50",
-      "album": {
-        "name": "Danny Phantom",
-        "url": "https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
-        }
-      ],
-      "duration_ms": 200077,
-      "name": "Danny Phantom",
-      "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "64 Impala",
@@ -1499,6 +1479,26 @@
       "duration_ms": 131200,
       "name": "64 Impala",
       "url": "https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi"
+    },
+    {
+      "added_at": "2024-10-02 17:18:50",
+      "album": {
+        "name": "Danny Phantom",
+        "url": "https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "duration_ms": 200077,
+      "name": "Danny Phantom",
+      "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1561,26 +1561,6 @@
       "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Stereo Function",
-        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        }
-      ],
-      "duration_ms": 206904,
-      "name": "Stereo Function",
-      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "10 Outta 10",
@@ -1637,6 +1617,30 @@
       "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Pa Pa Pa (feat. MC Maromba)",
+        "url": "https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Mc Maromba",
+          "url": "https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q"
+        },
+        {
+          "name": "KAORU",
+          "url": "https://open.spotify.com/artist/3eDtd9oQyjD2OuMNgVHOag"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "Pa Pa Pa (feat. MC Maromba)",
+      "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Consume It",
@@ -1673,28 +1677,60 @@
       "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Pa Pa Pa (feat. MC Maromba)",
-        "url": "https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR"
+        "name": "Stereo Function",
+        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
       },
       "artists": [
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         },
         {
-          "name": "Mc Maromba",
-          "url": "https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q"
-        },
-        {
-          "name": "KAORU",
-          "url": "https://open.spotify.com/artist/3eDtd9oQyjD2OuMNgVHOag"
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
         }
       ],
-      "duration_ms": 139687,
-      "name": "Pa Pa Pa (feat. MC Maromba)",
-      "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
+      "duration_ms": 206904,
+      "name": "Stereo Function",
+      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "The Blur",
+        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "The Blur",
+      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "added_at": "2024-06-28 14:01:45",
@@ -1717,24 +1753,24 @@
       "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/2ccPUuixcwvZSGJeOdCOy2"
       },
       "artists": [
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
         }
       ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+      "duration_ms": 206050,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/20Q53ZfrEy8udIO2EKJk22"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1759,58 +1795,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Blur",
-        "url": "https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "The Blur",
-      "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "RUNWAY",
-        "url": "https://open.spotify.com/album/2ccPUuixcwvZSGJeOdCOy2"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
-        }
-      ],
-      "duration_ms": 206050,
-      "name": "RUNWAY",
-      "url": "https://open.spotify.com/track/20Q53ZfrEy8udIO2EKJk22"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Look At Me",
-        "url": "https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Look At Me",
-      "url": "https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Get Hype",
         "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 155437,
       "name": "Get Hype",
       "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Look At Me",
+        "url": "https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/03T8F9SOv7aeJX7QKvV1eN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1885,30 +1885,6 @@
       "url": "https://open.spotify.com/track/1geATcpIabznNvS0GSTFEm"
     },
     {
-      "added_at": "2024-11-30 00:47:45",
-      "album": {
-        "name": "LOST CONTROL",
-        "url": "https://open.spotify.com/album/2yBGhB0Y1APAJQKT4qVgMC"
-      },
-      "artists": [
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "Denzel Osi",
-          "url": "https://open.spotify.com/artist/6haGlOtf6CyToDdf1XZfjA"
-        },
-        {
-          "name": "CALAVERA",
-          "url": "https://open.spotify.com/artist/0teIPaaAY6NhcTvVtFJWld"
-        }
-      ],
-      "duration_ms": 158888,
-      "name": "LOST CONTROL",
-      "url": "https://open.spotify.com/track/40HmXWOyB7r2FcTZw4Z9fg"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Feel (Real Love)",
@@ -1941,6 +1917,46 @@
       "url": "https://open.spotify.com/track/4KqaqznKWEHQPed6LHSvP8"
     },
     {
+      "added_at": "2024-11-30 00:47:45",
+      "album": {
+        "name": "LOST CONTROL",
+        "url": "https://open.spotify.com/album/2yBGhB0Y1APAJQKT4qVgMC"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Denzel Osi",
+          "url": "https://open.spotify.com/artist/6haGlOtf6CyToDdf1XZfjA"
+        },
+        {
+          "name": "CALAVERA",
+          "url": "https://open.spotify.com/artist/0teIPaaAY6NhcTvVtFJWld"
+        }
+      ],
+      "duration_ms": 158888,
+      "name": "LOST CONTROL",
+      "url": "https://open.spotify.com/track/40HmXWOyB7r2FcTZw4Z9fg"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/7CB5j9HbY8awG0PhcjLmAy"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Mobbing",
@@ -1969,22 +1985,6 @@
       "url": "https://open.spotify.com/track/31W5YClrYctLHB9RWslEGR"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/7CB5j9HbY8awG0PhcjLmAy"
-      },
-      "artists": [
-        {
-          "name": "Ekonovah",
-          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Certified",
@@ -1999,6 +1999,22 @@
       "duration_ms": 175492,
       "name": "Certified",
       "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Does It Seem",
+      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
       "added_at": "2024-08-16 14:00:00",
@@ -2019,22 +2035,6 @@
       "duration_ms": 172500,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/2I1B2f7SqXlL7oNdr2vTA4"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
-      },
-      "artists": [
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Does It Seem",
-      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2293,6 +2293,26 @@
       "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/4ExTMZjGWqX489ZxwDcUZJ"
+      },
+      "artists": [
+        {
+          "name": "zuezeu",
+          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
+        },
+        {
+          "name": "Maximo",
+          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
+        }
+      ],
+      "duration_ms": 182798,
+      "name": "Play Hard",
+      "url": "https://open.spotify.com/track/0Qi4jN9cFN7KNK538tFfQ2"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Wildfire",
@@ -2315,26 +2335,6 @@
       "duration_ms": 165173,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3wzq3bEn6b3KiBDREjencM"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/4ExTMZjGWqX489ZxwDcUZJ"
-      },
-      "artists": [
-        {
-          "name": "zuezeu",
-          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
-        },
-        {
-          "name": "Maximo",
-          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
-        }
-      ],
-      "duration_ms": 182798,
-      "name": "Play Hard",
-      "url": "https://open.spotify.com/track/0Qi4jN9cFN7KNK538tFfQ2"
     },
     {
       "added_at": "2024-10-25 04:00:00",

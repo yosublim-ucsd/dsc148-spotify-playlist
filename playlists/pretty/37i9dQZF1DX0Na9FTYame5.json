@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Morpheuz",
-  "num_followers": 585294,
+  "num_followers": 585288,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,22 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Ich bring dir keine Blumen",
-        "url": "https://open.spotify.com/album/1xQWMRbUYJjFtW90WLucia"
+        "name": "Mann vom Fach",
+        "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Ich bring dir keine Blumen",
-      "url": "https://open.spotify.com/track/4oevkKHMUdSJkCspP2ebAE"
+      "duration_ms": 160813,
+      "name": "Mann vom Fach",
+      "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -219,22 +223,18 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Mann vom Fach",
-        "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
+        "name": "Ich bring dir keine Blumen",
+        "url": "https://open.spotify.com/album/1xQWMRbUYJjFtW90WLucia"
       },
       "artists": [
         {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        },
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
         }
       ],
-      "duration_ms": 160813,
-      "name": "Mann vom Fach",
-      "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
+      "duration_ms": 150000,
+      "name": "Ich bring dir keine Blumen",
+      "url": "https://open.spotify.com/track/4oevkKHMUdSJkCspP2ebAE"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Farbenblind EP",
-        "url": "https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 148414,
-      "name": "Farbenblind",
-      "url": "https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
         "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
         "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 167053,
       "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
       "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
+        "name": "Farbenblind EP",
+        "url": "https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 148414,
+      "name": "Farbenblind",
+      "url": "https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "LEUCHTTURM",
-        "url": "https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 153270,
-      "name": "LEUCHTTURM",
-      "url": "https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
+        "name": "LEUCHTTURM",
+        "url": "https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 153270,
+      "name": "LEUCHTTURM",
+      "url": "https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Unzertrennlich",
-        "url": "https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Unzertrennlich",
-      "url": "https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
+        "name": "Unzertrennlich",
+        "url": "https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Unzertrennlich",
+      "url": "https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Delulu",
-        "url": "https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd"
-      },
-      "artists": [
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 119047,
-      "name": "Delulu",
-      "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
-    },
-    {
-      "added_at": "2024-12-16 12:50:55",
-      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 160226,
       "name": "Passion (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
+    },
+    {
+      "added_at": "2024-12-16 12:50:55",
+      "album": {
+        "name": "Delulu",
+        "url": "https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 119047,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Liebe = Schmerz",
-        "url": "https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK"
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
       },
       "artists": [
         {
-          "name": "Paves 16",
-          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
         }
       ],
-      "duration_ms": 157800,
-      "name": "Liebe = Schmerz",
-      "url": "https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF"
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2024-12-16 12:50:55",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-12-16 12:50:55",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+        "name": "Liebe = Schmerz",
+        "url": "https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "Paves 16",
+          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
         }
       ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+      "duration_ms": 157800,
+      "name": "Liebe = Schmerz",
+      "url": "https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF"
     },
     {
       "added_at": "2024-12-16 12:50:55",

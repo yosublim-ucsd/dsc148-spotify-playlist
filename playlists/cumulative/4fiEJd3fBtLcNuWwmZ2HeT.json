@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Rib On",
+        "url": "https://open.spotify.com/album/1HN8yEXVd7oKn1RGV2V0BD"
+      },
+      "artists": [
+        {
+          "name": "RIB",
+          "url": "https://open.spotify.com/artist/5YGU6VC4rMn4s5tScJG8WY"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Envy Cat Walk",
+      "url": "https://open.spotify.com/track/1YgxBIyu2z4hRQuAx7Yw8j"
+    },
+    {
+      "album": {
         "name": "FACT",
         "url": "https://open.spotify.com/album/6rftPCSznoXjxmJxsHk5zM"
       },

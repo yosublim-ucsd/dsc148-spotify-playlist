@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-637 songs - 2 day 9 hr 31 min
+639 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Answering Now](https://open.spotify.com/track/5XTADVFUNk1YvRCmYdV7xt) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [The Plaintive](https://open.spotify.com/album/0uGMnCKyRxq2h6YnK6zqbe) | 3:07 | 2021-10-20 | 2022-07-29 |
 | [Argon](https://open.spotify.com/track/5l4LtxYMrEwPeqELZ8KeKc) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 5:00 | 2021-10-20 | 2025-01-06 |
 | [Arrival](https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 9:26 | 2021-10-20 | 2022-07-23 |
+| [As X Is Y](https://open.spotify.com/track/3YYrDHL8ZTxBoNE7MqyN34) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Squared Roots](https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4) | 7:08 | 2025-01-07 |  |
 | [Asia](https://open.spotify.com/track/6kg3oZmQjDU1nMLOWU3gVP) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 2](https://open.spotify.com/album/4h1Yp6ITa0R2ZAB9YTsuyL) | 5:03 | 2021-10-20 |  |
 | [Astrosat](https://open.spotify.com/track/0WbJUUbu4swufvj49wHYWm) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED) | 5:00 | 2021-10-20 | 2024-04-19 |
 | [Astrosat](https://open.spotify.com/track/4e64RbgVywOCPpXv5vswj2) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/4h7Oys2gq6TWIHDTXMr0J3) | 5:00 | 2021-10-20 | 2022-09-26 |
@@ -381,6 +382,7 @@
 | [Night of Scorpio](https://open.spotify.com/track/2mBTEIoBn6UHv4M6R0YOVh) | [Feingold](https://open.spotify.com/artist/4CadDq2XhnWzonxzd2mbal) | [Nuff Zang](https://open.spotify.com/album/43pYnbpSLqONNQCv0sANfS) | 2:51 | 2021-10-20 | 2022-07-04 |
 | [Night Owl](https://open.spotify.com/track/26K1uubDB1A4RHvadCD5U9) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/4Enz8DFB6Ue4rUCenfucpw) | 6:16 | 2021-10-20 | 2022-07-29 |
 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 | 2021-10-20 | 2024-04-19 |
+| [Nocturnal](https://open.spotify.com/track/6dpeIEtLqTxnB7rfzVvlwz) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 2:55 | 2025-01-07 |  |
 | [Nothing but Endless Rejections](https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Adversarial Policies](https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm) | 7:54 | 2022-03-30 | 2024-12-14 |
 | [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-21 |  |
 | [Nychthemera in A Major](https://open.spotify.com/track/1VXkNxE0szN2MNsk4x7P8C) | [Time Binding Ensemble](https://open.spotify.com/artist/3J38y27gYbg3Nea2kHAOsC) | [Nothing New Under the Sun](https://open.spotify.com/album/1jfzhXPBdOKHgWN8NyIZPt) | 3:40 | 2021-10-20 | 2022-07-29 |
@@ -410,7 +412,7 @@
 | [Parallel 1](https://open.spotify.com/track/6XOG65nZN3XKmxevGRHZMC) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 26:46 | 2021-10-20 |  |
 | [Parkstone Melody II](https://open.spotify.com/track/5izeejNRBGeWrmEXTdInry) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [The Four Worlds](https://open.spotify.com/album/5PGejzMhuVOtrA5GbpLJ5F) | 3:04 | 2021-10-20 | 2024-02-24 |
 | [Parkstone Melody II](https://open.spotify.com/track/0tczioIF1VjCKg054myaSP) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Parkstone Melody II](https://open.spotify.com/album/7MThXdf9RkwVOqiR8MtiX2) | 3:21 | 2021-10-20 | 2022-04-21 |
-| [Parlama](https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec) | [Konduku](https://open.spotify.com/artist/64v9ctTSV0oUJeZTFBoosp) | [Parlama](https://open.spotify.com/album/0jPL6TkST7UH2Zu9hobEpp) | 8:35 | 2021-10-20 |  |
+| [Parlama](https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec) | [Konduku](https://open.spotify.com/artist/64v9ctTSV0oUJeZTFBoosp) | [Parlama](https://open.spotify.com/album/0jPL6TkST7UH2Zu9hobEpp) | 8:35 | 2021-10-20 | 2025-01-07 |
 | [Path 5 \(delta\)](https://open.spotify.com/track/3izYqkzqnPu8SctUNeyne2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [From Sleep](https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT) | 11:14 | 2021-10-20 |  |
 | [Peace II](https://open.spotify.com/track/0GwPEYRVUiMAhm6mbz0reM) | [Dallas Acid](https://open.spotify.com/artist/1xAG4AeOmO97QdYhoW01EA), [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Dallas Acid's Bubble Club, Vol\. I](https://open.spotify.com/album/0Gja3Ui5XLocjvdi5g8Xn9) | 5:22 | 2021-10-20 | 2022-07-29 |
 | [People On Sunday](https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 | 2021-10-20 | 2024-04-19 |
@@ -624,7 +626,7 @@
 | [VFXpeaksTWIN](https://open.spotify.com/track/0mPNo3zDtkOcZOzKbKxwTe) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [myDEFINITION](https://open.spotify.com/album/7cD5jelwVYMVfgxjUdUBBc) | 2:16 | 2021-10-20 | 2022-07-26 |
 | [Views from Sixteen Stories](https://open.spotify.com/track/2MZfgbSQ0wdAgyOAzUdLxt) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX) | 4:09 | 2021-10-20 | 2022-06-15 |
 | [Vigia Part 2](https://open.spotify.com/track/31RKPqfCd7KePMVPXmFjrf) | [Grosskopof & Amezcua](https://open.spotify.com/artist/3C2S50mhsAz2PknUWUxMlf) | [Quetzalkrautl](https://open.spotify.com/album/5icq9aVdOKj7HQRU71jW6O) | 7:19 | 2021-10-20 | 2022-07-29 |
-| [Visions II](https://open.spotify.com/track/4V60QHlHRyN6U00K3xI7z4) | [Yamila](https://open.spotify.com/artist/1C2cyevjTKPJ4WVvTlPzUF) | [Visions II](https://open.spotify.com/album/62bihi9m9gnVDjS5ekeMjv) | 4:40 | 2022-03-30 |  |
+| [Visions II](https://open.spotify.com/track/4V60QHlHRyN6U00K3xI7z4) | [Yamila](https://open.spotify.com/artist/1C2cyevjTKPJ4WVvTlPzUF) | [Visions II](https://open.spotify.com/album/62bihi9m9gnVDjS5ekeMjv) | 4:40 | 2022-03-30 | 2025-01-07 |
 | [Voices](https://open.spotify.com/track/3JU3oDXq0VZKJz5DyMaHt5) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Voices](https://open.spotify.com/album/5GwTC3W9c8bGPozFyKSQ8v) | 2:32 | 2021-10-20 |  |
 | [Wabi](https://open.spotify.com/track/22AQbl2FNd3ZhRvTOlaRTP) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [Young American Artist](https://open.spotify.com/album/7uO5lLWW2Nv3G01Yt7lpGP) | 3:29 | 2021-10-20 | 2022-07-28 |
 | [Wake up Rested](https://open.spotify.com/track/3AKj2SIi4Z765IPjXgPnvL) | [Biqram](https://open.spotify.com/artist/7DuaR3ytZuM3RftLPU1aLZ) | [Slip into Darkness](https://open.spotify.com/album/3m3zuNwyp0p5PJsKeGEvep) | 3:05 | 2021-10-20 | 2022-10-01 |

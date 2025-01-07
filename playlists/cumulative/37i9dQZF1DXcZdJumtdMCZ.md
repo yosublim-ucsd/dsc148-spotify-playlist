@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcZdJumtdMCZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcZdJumtdMCZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcZdJumtdMCZ)
 
-### [Rap 91 Tamil](https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ)
+### [RAP 91 Tamil](https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ)
 
 > Featuring the dopest MC's from Tamil Rap scene<br/>Cover : Yuvan Shankar Raja
 

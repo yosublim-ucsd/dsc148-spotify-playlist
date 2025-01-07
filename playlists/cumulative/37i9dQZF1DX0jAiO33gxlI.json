@@ -3301,6 +3301,32 @@
     },
     {
       "album": {
+        "name": "13 Lentes de um Final Feliz",
+        "url": "https://open.spotify.com/album/1MgcKezYb874hGsZgYYAdV"
+      },
+      "artists": [
+        {
+          "name": "YUNG LIXO",
+          "url": "https://open.spotify.com/artist/6ab8tnQvr8sXXIpSZCrbQs"
+        },
+        {
+          "name": "Biffe",
+          "url": "https://open.spotify.com/artist/4UqY7xfcHtpNSyLZTYKoPp"
+        },
+        {
+          "name": "Hakuro",
+          "url": "https://open.spotify.com/artist/4fTFQshnBXAeU0oGbAGmjI"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Carruagem",
+      "url": "https://open.spotify.com/track/6YAjpDT9OOwM5mJpKJ9r0I"
+    },
+    {
+      "album": {
         "name": "Cash iMoney",
         "url": "https://open.spotify.com/album/1XONHSlCA3fJV8Hjeg6iKQ"
       },
@@ -20324,7 +20350,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 186000,
       "name": "T\u00e3o S\u00f3",
       "url": "https://open.spotify.com/track/3vNIZ4p3gEVqZWCtsQ5pjx"

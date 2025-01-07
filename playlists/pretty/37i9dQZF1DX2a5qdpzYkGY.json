@@ -1,13 +1,29 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12519,
+  "num_followers": 12520,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z05QugAAAADNMAd+zTlgblKkCooJYF8g",
+  "snapshot_id": "Z3yEHAAAAADqsfss+afl7deMFVG1Yifo",
   "tracks": [
+    {
+      "added_at": "2025-01-06 23:56:17",
+      "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "duration_ms": 207419,
+      "name": "Bird Language",
+      "url": "https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz"
+    },
     {
       "added_at": "2023-01-03 03:48:53",
       "album": {
@@ -29,20 +45,20 @@
       "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
     },
     {
-      "added_at": "2024-12-03 00:28:42",
+      "added_at": "2025-01-07 01:32:12",
       "album": {
-        "name": "Denial, Creation",
-        "url": "https://open.spotify.com/album/6BPxwe4Eit3VEPCfVwnmUZ"
+        "name": "The Nighttime Ensemble",
+        "url": "https://open.spotify.com/album/0AvcSUndzrZVQ0NVJbRT2y"
       },
       "artists": [
         {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+          "name": "The Nighttime Ensemble",
+          "url": "https://open.spotify.com/artist/5mZ1TJt2IKTuDyApC5P1xR"
         }
       ],
-      "duration_ms": 219960,
-      "name": "Denial, Creation",
-      "url": "https://open.spotify.com/track/6IheMaJSyIfRpXgMDE1Ajw"
+      "duration_ms": 3124000,
+      "name": "The Nighttime Ensemble",
+      "url": "https://open.spotify.com/track/3DykKIqaF2tJLHvitqt4Oz"
     },
     {
       "added_at": "2022-11-17 23:02:33",
@@ -61,6 +77,22 @@
       "url": "https://open.spotify.com/track/0nWOYmDaMsM7uJChu8zspP"
     },
     {
+      "added_at": "2025-01-06 23:42:45",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/0fkdChNifpc3QI6UyXCDpo"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 221958,
+      "name": "Volver - Oboe Remix",
+      "url": "https://open.spotify.com/track/0LB9eAqowGmeZlML4nbzuh"
+    },
+    {
       "added_at": "2024-05-31 06:00:00",
       "album": {
         "name": "Hyperdrama",
@@ -77,22 +109,6 @@
       "url": "https://open.spotify.com/track/48cyBWVdq8n5sZ6G8qghOJ"
     },
     {
-      "added_at": "2024-07-05 03:19:52",
-      "album": {
-        "name": "Fight / Flight",
-        "url": "https://open.spotify.com/album/58d5bd7ZjFMidKY1PZnWNi"
-      },
-      "artists": [
-        {
-          "name": "Alex Kozobolis",
-          "url": "https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO"
-        }
-      ],
-      "duration_ms": 68853,
-      "name": "Flight",
-      "url": "https://open.spotify.com/track/2rgf48jupb8QsIBLC50J4Z"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Sunset Mission",
@@ -107,6 +123,22 @@
       "duration_ms": 304386,
       "name": "Prowler",
       "url": "https://open.spotify.com/track/3aBIGzDlzBpYj9dPPBn9yj"
+    },
+    {
+      "added_at": "2024-07-05 03:19:52",
+      "album": {
+        "name": "Fight / Flight",
+        "url": "https://open.spotify.com/album/58d5bd7ZjFMidKY1PZnWNi"
+      },
+      "artists": [
+        {
+          "name": "Alex Kozobolis",
+          "url": "https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO"
+        }
+      ],
+      "duration_ms": 68853,
+      "name": "Flight",
+      "url": "https://open.spotify.com/track/2rgf48jupb8QsIBLC50J4Z"
     },
     {
       "added_at": "2022-01-13 01:08:52",
@@ -205,6 +237,22 @@
       "url": "https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu"
     },
     {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 387666,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
+    },
+    {
       "added_at": "2024-04-18 20:16:24",
       "album": {
         "name": "The Sunset Violent",
@@ -269,22 +317,6 @@
       "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 387666,
-      "name": "Constant Fear",
-      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Hardy Boys",
@@ -319,6 +351,22 @@
       "duration_ms": 334040,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -421,22 +469,6 @@
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 351120,
-      "name": "Black City Skyline",
-      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "All good?",
@@ -469,20 +501,20 @@
       "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
     },
     {
-      "added_at": "2024-04-12 00:45:23",
+      "added_at": "2022-09-03 03:50:05",
       "album": {
-        "name": "Something in the Room She Moves",
-        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
       },
       "artists": [
         {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 188255,
-      "name": "Materia",
-      "url": "https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU"
+      "duration_ms": 458693,
+      "name": "Maximum Black",
+      "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -499,6 +531,22 @@
       "duration_ms": 212712,
       "name": "Who Is Still Dreaming?",
       "url": "https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z"
+    },
+    {
+      "added_at": "2024-04-12 00:45:23",
+      "album": {
+        "name": "Something in the Room She Moves",
+        "url": "https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 188255,
+      "name": "Materia",
+      "url": "https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU"
     },
     {
       "added_at": "2022-05-17 23:06:45",
@@ -569,36 +617,20 @@
       "url": "https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC"
     },
     {
-      "added_at": "2024-01-05 03:52:17",
+      "added_at": "2024-12-03 00:28:42",
       "album": {
-        "name": "Ultramarine",
-        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
+        "name": "Denial, Creation",
+        "url": "https://open.spotify.com/album/6BPxwe4Eit3VEPCfVwnmUZ"
       },
       "artists": [
         {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
         }
       ],
-      "duration_ms": 189067,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
-    },
-    {
-      "added_at": "2022-09-03 03:50:05",
-      "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 458693,
-      "name": "Maximum Black",
-      "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
+      "duration_ms": 219960,
+      "name": "Denial, Creation",
+      "url": "https://open.spotify.com/track/6IheMaJSyIfRpXgMDE1Ajw"
     },
     {
       "added_at": "2024-06-27 20:04:51",
@@ -617,22 +649,6 @@
       "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Pillow Sisters",
-        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 159158,
-      "name": "The Pillow Sisters",
-      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
-    },
-    {
       "added_at": "2023-01-12 02:08:10",
       "album": {
         "name": "Antidotes 2",
@@ -647,6 +663,38 @@
       "duration_ms": 200724,
       "name": "An Avalanche",
       "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
+    },
+    {
+      "added_at": "2024-01-05 03:52:17",
+      "album": {
+        "name": "Ultramarine",
+        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 189067,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "The Pillow Sisters",
+        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 159158,
+      "name": "The Pillow Sisters",
+      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -801,6 +849,22 @@
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
+      "added_at": "2022-02-18 04:38:12",
+      "album": {
+        "name": "atomic bombs atomic bonds i love you",
+        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
+      },
+      "artists": [
+        {
+          "name": "Askjell",
+          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "atomic bombs atomic bonds i love you",
+      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
       "added_at": "2022-04-06 04:00:43",
       "album": {
         "name": "Lenz Pianoday 2022",
@@ -819,22 +883,6 @@
       "duration_ms": 139885,
       "name": "Lenz Pianoday 2022",
       "url": "https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL"
-    },
-    {
-      "added_at": "2022-02-18 04:38:12",
-      "album": {
-        "name": "atomic bombs atomic bonds i love you",
-        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
-      },
-      "artists": [
-        {
-          "name": "Askjell",
-          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "atomic bombs atomic bonds i love you",
-      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1009,22 +1057,6 @@
       "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"
     },
     {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Lightless Room",
-        "url": "https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc"
-      },
-      "artists": [
-        {
-          "name": "Lucas Carlson",
-          "url": "https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7"
-        }
-      ],
-      "duration_ms": 299178,
-      "name": "Lightless Room",
-      "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
-    },
-    {
       "added_at": "2023-01-03 03:48:53",
       "album": {
         "name": "Tony Takitani",
@@ -1039,6 +1071,22 @@
       "duration_ms": 245240,
       "name": "Solitude - Theme",
       "url": "https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh"
+    },
+    {
+      "added_at": "2022-02-18 05:44:49",
+      "album": {
+        "name": "Lightless Room",
+        "url": "https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc"
+      },
+      "artists": [
+        {
+          "name": "Lucas Carlson",
+          "url": "https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7"
+        }
+      ],
+      "duration_ms": 299178,
+      "name": "Lightless Room",
+      "url": "https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu"
     },
     {
       "added_at": "2022-09-15 12:57:17",
@@ -1165,22 +1213,6 @@
       "url": "https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU"
     },
     {
-      "added_at": "2024-04-12 00:45:23",
-      "album": {
-        "name": "Le jour et la nuit du r\u00e9el",
-        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 131120,
-      "name": "Night looping - Movement I",
-      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Pyramid",
@@ -1195,6 +1227,22 @@
       "duration_ms": 488904,
       "name": "Spiral Era",
       "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
+    },
+    {
+      "added_at": "2024-04-12 00:45:23",
+      "album": {
+        "name": "Le jour et la nuit du r\u00e9el",
+        "url": "https://open.spotify.com/album/0SGlqX0au6eBPzbyu1WiA3"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 131120,
+      "name": "Night looping - Movement I",
+      "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
     },
     {
       "added_at": "2022-03-16 01:05:35",
@@ -1213,22 +1261,6 @@
       "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
-      "added_at": "2024-04-12 00:43:48",
-      "album": {
-        "name": "Sharko III",
-        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
-      },
-      "artists": [
-        {
-          "name": "Sharko",
-          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
-        }
-      ],
-      "duration_ms": 76013,
-      "name": "Stuck T",
-      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
-    },
-    {
       "added_at": "2022-02-15 01:09:46",
       "album": {
         "name": "1981",
@@ -1245,6 +1277,22 @@
       "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
     },
     {
+      "added_at": "2024-04-12 00:43:48",
+      "album": {
+        "name": "Sharko III",
+        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
+      },
+      "artists": [
+        {
+          "name": "Sharko",
+          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
+        }
+      ],
+      "duration_ms": 76013,
+      "name": "Stuck T",
+      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Logue",
@@ -1259,30 +1307,6 @@
       "duration_ms": 234292,
       "name": "Jinja Encounters",
       "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Beside April",
-        "url": "https://open.spotify.com/album/3jGdsI7EtNflxCUUre7QXP"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 313587,
-      "name": "Beside April",
-      "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
     },
     {
       "added_at": "2024-03-21 23:52:34",
@@ -1303,38 +1327,6 @@
       "duration_ms": 205205,
       "name": "For You, Please",
       "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "AM Prosperit\u00e4t",
-        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
-      },
-      "artists": [
-        {
-          "name": "Lujo Asi\u00e1tico",
-          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
-        }
-      ],
-      "duration_ms": 288068,
-      "name": "AM Prosperit\u00e4t",
-      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
-    },
-    {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC"
-      },
-      "artists": [
-        {
-          "name": "Eternell",
-          "url": "https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9"
-        }
-      ],
-      "duration_ms": 1088375,
-      "name": "Mira",
-      "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
     }
   ],
   "unique_name": "transience",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Antiworld Gangsters
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,229 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,253 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 27 | [Refund \(Part 2\)](https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Refund \(Part 2\)](https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN) | 2:43 |
 | 28 | [Malaika](https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Malaika](https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL) | 2:53 |
 | 29 | [Confidence](https://open.spotify.com/track/0P6WPtjNyGtxJY3NmeGmQE) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Confidence](https://open.spotify.com/album/0eFZdUIA31PX05zz4d23T1) | 2:45 |
-| 30 | [Pinterest](https://open.spotify.com/track/3tBWJXPBzqYGkE8I4K7suN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:50 |
-| 31 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 |
+| 30 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 |
+| 31 | [Pinterest](https://open.spotify.com/track/3tBWJXPBzqYGkE8I4K7suN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:50 |
 | 32 | [LIKE](https://open.spotify.com/track/68te6KLnaeYkrAsAlzGGlD) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Andre Vibez](https://open.spotify.com/artist/1MVv46raia2Yqm8yHoDeUp), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [LIKE](https://open.spotify.com/album/11qoPfHNEcoTnyEUNBfvFr) | 3:47 |
 | 33 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |
 | 34 | [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 64 | [BETELGEUSE](https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe), [Veelantyne](https://open.spotify.com/artist/4bRg2DHU6q0w50FUheWEnz), [s0ru](https://open.spotify.com/artist/3qBr0SHrFBc7FwOtCS1hyj), [Fred the Prod.](https://open.spotify.com/artist/1qp88C8AzFspKgERhcUlWA) | [BETELGEUSE](https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj) | 3:28 |
 | 65 | [Influencer Girl](https://open.spotify.com/track/2OsCMidkvq6H6ckbfvSHTv) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [In Bils We Trust](https://open.spotify.com/album/3E7OKKaqJbcLpzHT8zVyDN) | 2:00 |
 | 66 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 |
-| 67 | [LOCO](https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Afro Jersey](https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ) | 2:20 |
-| 68 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
+| 67 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
+| 68 | [LOCO](https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Afro Jersey](https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ) | 2:20 |
 | 69 | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC) | 2:44 |
 | 70 | [Make It Out](https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O) | [Shegzy Marley](https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs), [Areezy](https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD) | [Make It Out](https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL) | 2:43 |
 

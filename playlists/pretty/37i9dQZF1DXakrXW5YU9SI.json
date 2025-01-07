@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 334766,
+  "num_followers": 334796,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,26 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
+        "name": "Colourblind (feat. Loyle Carner)",
+        "url": "https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 235684,
+      "name": "Colourblind (feat. Loyle Carner)",
+      "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
         "name": "He's My Man",
         "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
       },
@@ -271,22 +291,6 @@
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -311,22 +315,18 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Colourblind (feat. Loyle Carner)",
-        "url": "https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3"
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 235684,
-      "name": "Colourblind (feat. Loyle Carner)",
-      "url": "https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM"
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Bestie, Move On",
-        "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 211581,
-      "name": "Bestie, Move On",
-      "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
         "name": "Kaprysy",
         "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+        "name": "Bestie, Move On",
+        "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+      "duration_ms": 211581,
+      "name": "Bestie, Move On",
+      "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -555,6 +539,22 @@
       "duration_ms": 188181,
       "name": "Nie znam tego miejsca",
       "url": "https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Ultra Love feat. Ella Rosa",
-        "url": "https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr"
-      },
-      "artists": [
-        {
-          "name": "Holly Hebe",
-          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
-        },
-        {
-          "name": "Ella Rosa",
-          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Ultra Love feat. Ella Rosa",
-      "url": "https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
         "name": "OMEN (Deluxe)",
         "url": "https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 244000,
       "name": "Sto \u017cy\u0107",
       "url": "https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
+        "name": "Ultra Love feat. Ella Rosa",
+        "url": "https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr"
+      },
+      "artists": [
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        },
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Ultra Love feat. Ella Rosa",
+      "url": "https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE"
     },
     {
       "added_at": "2024-12-19 23:00:53",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-19 23:00:53",
       "album": {
-        "name": "Siniaki i cekiny ci\u0105g dalszy",
-        "url": "https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1"
-      },
-      "artists": [
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Tak musia\u0142o by\u0107",
-      "url": "https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA"
-    },
-    {
-      "added_at": "2024-12-19 23:00:53",
-      "album": {
         "name": "Poznajmy si\u0119",
         "url": "https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 240396,
       "name": "Ta\u0144ce na Modlinie",
       "url": "https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu"
+    },
+    {
+      "added_at": "2024-12-19 23:00:53",
+      "album": {
+        "name": "Siniaki i cekiny ci\u0105g dalszy",
+        "url": "https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Tak musia\u0142o by\u0107",
+      "url": "https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA"
     },
     {
       "added_at": "2024-12-19 23:00:53",

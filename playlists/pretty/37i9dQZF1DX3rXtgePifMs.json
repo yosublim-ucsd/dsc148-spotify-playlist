@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 116789,
+  "num_followers": 116832,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "EYELIDS",
-        "url": "https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        },
-        {
-          "name": "Cole Bleu",
-          "url": "https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S"
-        }
-      ],
-      "duration_ms": 126744,
-      "name": "EYELIDS",
-      "url": "https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "I Can't Stay",
         "url": "https://open.spotify.com/album/3p4oXVXJ7PK0POkgQ6a87U"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 171726,
       "name": "Absolutely Tidy",
       "url": "https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "EYELIDS",
+        "url": "https://open.spotify.com/album/0KqX8QZZ3QdwGRFItQS8zp"
+      },
+      "artists": [
+        {
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
+        },
+        {
+          "name": "Cole Bleu",
+          "url": "https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S"
+        }
+      ],
+      "duration_ms": 126744,
+      "name": "EYELIDS",
+      "url": "https://open.spotify.com/track/3Sb8uNflVynSu16m0zdt2x"
     },
     {
       "added_at": "2023-11-20 15:00:00",

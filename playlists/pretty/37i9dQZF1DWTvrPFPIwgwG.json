@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sarah Farias, Kailane Frauches",
-  "num_followers": 156457,
+  "num_followers": 156596,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-12-27 03:01:08",
       "album": {
+        "name": "Despreocupa",
+        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
+      },
+      "artists": [
+        {
+          "name": "Kiara Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
+        }
+      ],
+      "duration_ms": 310635,
+      "name": "Despreocupa",
+      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
+    },
+    {
+      "added_at": "2024-12-27 03:01:08",
+      "album": {
         "name": "Pra Que Temer (Ao Vivo)",
         "url": "https://open.spotify.com/album/7ec8jLREbOsXro7q6k6Lq4"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 271720,
       "name": "Pra Que Temer (Ao Vivo)",
       "url": "https://open.spotify.com/track/2ccVIa187StKRWGVJWhXud"
-    },
-    {
-      "added_at": "2024-12-27 03:01:08",
-      "album": {
-        "name": "Despreocupa",
-        "url": "https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI"
-      },
-      "artists": [
-        {
-          "name": "Kiara Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00"
-        }
-      ],
-      "duration_ms": 310635,
-      "name": "Despreocupa",
-      "url": "https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP"
     },
     {
       "added_at": "2024-12-27 03:01:08",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-12-27 03:01:08",
       "album": {
-        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 408796,
-      "name": "Que Deus \u00c9 Esse - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
-    },
-    {
-      "added_at": "2024-12-27 03:01:08",
-      "album": {
         "name": "Vendavais (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Ij0TmdXKBzx3iq9pRpSNV"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 369635,
       "name": "Vendavais - Ao Vivo",
       "url": "https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ"
+    },
+    {
+      "added_at": "2024-12-27 03:01:08",
+      "album": {
+        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 408796,
+      "name": "Que Deus \u00c9 Esse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
     },
     {
       "added_at": "2024-12-27 03:01:08",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-12-27 03:01:08",
       "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2024-12-27 03:01:08",
-      "album": {
         "name": "Ele N\u00e3o Mudou",
         "url": "https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4"
       },
@@ -799,6 +783,38 @@
       "duration_ms": 269183,
       "name": "Ele N\u00e3o Mudou",
       "url": "https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX"
+    },
+    {
+      "added_at": "2024-12-27 03:01:08",
+      "album": {
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
+    },
+    {
+      "added_at": "2024-12-27 03:01:08",
+      "album": {
+        "name": "O M\u00ednimo de Mim",
+        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "O M\u00ednimo de Mim",
+      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
     },
     {
       "added_at": "2024-12-27 03:01:08",
@@ -831,22 +847,6 @@
       "duration_ms": 470263,
       "name": "A Tenda (Ao Vivo)",
       "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
-    },
-    {
-      "added_at": "2024-12-27 03:01:08",
-      "album": {
-        "name": "O M\u00ednimo de Mim",
-        "url": "https://open.spotify.com/album/6l8livVDvR4Dn434oMfXXe"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "O M\u00ednimo de Mim",
-      "url": "https://open.spotify.com/track/6zbMyzItlZIQbSwYbyk0MN"
     },
     {
       "added_at": "2024-12-27 03:01:08",
@@ -963,18 +963,22 @@
     {
       "added_at": "2024-12-27 03:01:08",
       "album": {
-        "name": "Limite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
+        "name": "Eu N\u00e3o Era Nada",
+        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 278613,
-      "name": "Limite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+      "duration_ms": 343799,
+      "name": "Eu N\u00e3o Era Nada",
+      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
     },
     {
       "added_at": "2024-12-27 03:01:08",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2024-12-27 03:01:08",
       "album": {
-        "name": "Eu N\u00e3o Era Nada",
-        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
+        "name": "Limite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
       },
       "artists": [
         {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 343799,
-      "name": "Eu N\u00e3o Era Nada",
-      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+      "duration_ms": 278613,
+      "name": "Limite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
     },
     {
       "added_at": "2024-12-27 03:01:08",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-12-27 03:01:08",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
-    },
-    {
-      "added_at": "2024-12-27 03:01:08",
-      "album": {
         "name": "Voc\u00ea Disse",
         "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
       },
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2024-12-27 03:01:08",
       "album": {
-        "name": "N\u00e3o Vai Se Repetir",
-        "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
-      },
-      "artists": [
-        {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
-        }
-      ],
-      "duration_ms": 275132,
-      "name": "N\u00e3o Vai Se Repetir",
-      "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"
-    },
-    {
-      "added_at": "2024-12-27 03:01:08",
-      "album": {
         "name": "Passar pela Moenda (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc"
       },
@@ -1151,6 +1119,22 @@
       "duration_ms": 321728,
       "name": "Passar pela Moenda - Ao Vivo",
       "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
+    },
+    {
+      "added_at": "2024-12-27 03:01:08",
+      "album": {
+        "name": "N\u00e3o Vai Se Repetir",
+        "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
+      },
+      "artists": [
+        {
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+        }
+      ],
+      "duration_ms": 275132,
+      "name": "N\u00e3o Vai Se Repetir",
+      "url": "https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv"
     },
     {
       "added_at": "2024-12-27 03:01:08",
@@ -1187,6 +1171,22 @@
       "duration_ms": 412154,
       "name": "Que Grande Amor",
       "url": "https://open.spotify.com/track/5P3pj7JPTsyYTZD7MUkSZ4"
+    },
+    {
+      "added_at": "2024-12-27 03:01:08",
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "added_at": "2024-12-27 03:01:08",

@@ -4,7 +4,7 @@
 
 > \#fyp
 
-574 songs - 1 day 6 hr 15 min
+575 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [GUALA](https://open.spotify.com/track/6MAzQbmmFBR7vNzWeSgTXk) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [GUALA](https://open.spotify.com/album/1DFYJ0O3bM6oQy7hLVNZY0) | 2:22 | 2024-09-13 | 2025-01-04 |
 | [Guantanamera \(She's Hot\)](https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [I Am Armando \- Armando Reloaded](https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB) | 3:25 | 2024-01-26 | 2024-05-04 |
 | [Gyal Accroupi](https://open.spotify.com/track/4oXygSKEIkyJ3oQff3z7GN) | [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [TKD](https://open.spotify.com/artist/0MzR7uO3295wLWGYILYKLV) | [Gyal Accroupi](https://open.spotify.com/album/5fz8fy4jDTonJFQAsHagfg) | 1:53 | 2023-03-24 | 2023-10-02 |
+| [H24](https://open.spotify.com/track/0UBfw0XZUzGsqY7CeqI2sc) | [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg) | [H24](https://open.spotify.com/album/6wPX23RiG2SjaODHumYOMx) | 2:09 | 2025-01-06 |  |
 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 | 2024-03-22 |  |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-19 | 2024-08-24 |
 | [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 | 2024-07-12 | 2024-11-16 |
@@ -254,7 +255,7 @@
 | [J'te hais](https://open.spotify.com/track/4RHL1ZNHIE5O5FcRjkmtUV) | [4Keus](https://open.spotify.com/artist/2LUi4eKMEFKFM4awgurcSs) | [Vie d'artiste](https://open.spotify.com/album/2tdbsStQ8lnOzwBKZU2stJ) | 3:56 | 2024-04-05 | 2024-06-01 |
 | [J\-Lo](https://open.spotify.com/track/1kRTo5k1hYmSGlVaPQjBOj) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [J\-Lo](https://open.spotify.com/album/0yY6jwz7t8QLK4d134Am8S) | 2:41 | 2024-01-12 | 2024-05-18 |
 | [Jacque\*\*\* Bag](https://open.spotify.com/track/3q2DNvmHfx7RFBSHfaVLoW) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 1:51 | 2023-10-13 | 2024-03-09 |
-| [Jamais de nous](https://open.spotify.com/track/3ujfC75PQpg3DI5bpJXYoS) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:34 | 2024-09-13 |  |
+| [Jamais de nous](https://open.spotify.com/track/3ujfC75PQpg3DI5bpJXYoS) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:34 | 2024-09-13 | 2025-01-07 |
 | [Je fais le sourd](https://open.spotify.com/track/2c5V0zLWBGh6qg15AJZOAn) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [L'ovni](https://open.spotify.com/album/4YdMS0CiZ3Il1tCQfi4E2E) | 3:04 | 2024-05-31 | 2024-09-28 |
 | [Je la connais](https://open.spotify.com/track/2bNtWTLdqUGhLZqWUGPNvK) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Anarchie](https://open.spotify.com/album/7hv9Xs3hmzGbxLPhH7Nog5) | 3:39 | 2023-03-24 | 2024-02-03 |
 | [Je m'en vais](https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 | 2024-10-11 | 2024-11-09 |

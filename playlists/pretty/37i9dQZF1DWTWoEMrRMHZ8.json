@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: 5 a seco",
-  "num_followers": 348655,
+  "num_followers": 348659,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
+        "name": "Uma Estrela Misteriosa",
+        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 426853,
+      "name": "Estrela Misteriosa",
+      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
         "name": "Mar Manso",
         "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "Uma Estrela Misteriosa",
-        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 426853,
-      "name": "Estrela Misteriosa",
-      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fonseca",
+          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
+        }
+      ],
+      "duration_ms": 236522,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
         "name": "Dora",
         "url": "https://open.spotify.com/album/6Ecckcv9jZLxWu1q8OIS4T"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 332868,
       "name": "Dora",
       "url": "https://open.spotify.com/track/4Szb386es2OZQPo0wRsP8l"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fonseca",
-          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
-        }
-      ],
-      "duration_ms": 236522,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
-        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 273139,
-      "name": "Depois de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "Baianidade Nag\u00f4",
         "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 222000,
       "name": "Baianidade Nag\u00f4",
       "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
+        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 273139,
+      "name": "Depois de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
+        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 202806,
+      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
         "name": "Bem Humorado",
         "url": "https://open.spotify.com/album/7pF4CFDO4VDXA6ynioCRml"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 193034,
       "name": "Bem Humorado",
       "url": "https://open.spotify.com/track/4R1ER60t5dJKc3l1PAuXuS"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 202806,
-      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Maluca",
-        "url": "https://open.spotify.com/album/0flQG6Uj5HscyyjSjxYVNP"
-      },
-      "artists": [
-        {
-          "name": "AMANDONA!",
-          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Maluca",
-      "url": "https://open.spotify.com/track/1ATEZxO9P0FPZAow7zMxBI"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "A Noite do Meu Bem",
         "url": "https://open.spotify.com/album/565wm7tJBqm057NlFHhL6Y"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 192496,
       "name": "A Noite do Meu Bem",
       "url": "https://open.spotify.com/track/7II5dgkLvnxKmxmZcFSXny"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Maluca",
+        "url": "https://open.spotify.com/album/0flQG6Uj5HscyyjSjxYVNP"
+      },
+      "artists": [
+        {
+          "name": "AMANDONA!",
+          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Maluca",
+      "url": "https://open.spotify.com/track/1ATEZxO9P0FPZAow7zMxBI"
     },
     {
       "added_at": "2024-12-20 03:19:32",

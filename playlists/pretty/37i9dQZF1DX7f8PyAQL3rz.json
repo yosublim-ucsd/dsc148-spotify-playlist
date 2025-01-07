@@ -1,6 +1,6 @@
 {
   "description": "chefin rei da tropa do mais novo ataca no funk",
-  "num_followers": 1405343,
+  "num_followers": 1405394,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -335,30 +335,6 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
-        "name": "Vida de Artista",
-        "url": "https://open.spotify.com/album/2gMhGYe4x6O1vDG9AUjIwW"
-      },
-      "artists": [
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
-        },
-        {
-          "name": "Deejhay RB",
-          "url": "https://open.spotify.com/artist/6VOn8xBJH73S7DN8VBAoaN"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Vida de Artista",
-      "url": "https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
         "name": "THE BOX MEDLEY FUNK 2",
         "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
       },
@@ -391,6 +367,30 @@
       "duration_ms": 266666,
       "name": "THE BOX MEDLEY FUNK 2",
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
+        "name": "Vida de Artista",
+        "url": "https://open.spotify.com/album/2gMhGYe4x6O1vDG9AUjIwW"
+      },
+      "artists": [
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Deejhay RB",
+          "url": "https://open.spotify.com/artist/6VOn8xBJH73S7DN8VBAoaN"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Vida de Artista",
+      "url": "https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY"
     },
     {
       "added_at": "2024-12-20 03:03:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410 likes - 382 songs - 19 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,409 likes - 382 songs - 19 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -352,8 +352,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 342 | [You're A Sucker For A Dame](https://open.spotify.com/track/1TmhREwS0VUnYhQPpyQGYN) | [Guy Haines](https://open.spotify.com/artist/6DeAuFRcRuteZ0ql78kzPk) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:35 |
 | 343 | [I Say It's Spinach](https://open.spotify.com/track/2vhS9lA7tgD4FhLnTZcWme) | [Crista Moore](https://open.spotify.com/artist/5WVC8pV900zV5zfyrNNvjG), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:28 |
 | 344 | [You're A Sentimental Guy](https://open.spotify.com/track/7ePPBt2PfqW2rRK6PqdXuD) | [Laurie Beechman](https://open.spotify.com/artist/564n1bb1rFRYueRTHQEEl4), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 4:33 |
-| 345 | [Two Cheers Instead Of Three](https://open.spotify.com/track/1VPpQ3JPswpx9lyYypCpNk) | [Walter Willison](https://open.spotify.com/artist/21Ahii1HXBx19BHjkZ3fRp) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:22 |
-| 346 | [You're Fun To Be With](https://open.spotify.com/track/5x9uxo9ErLNr5beF3ms9uv) | [Davis Gaines](https://open.spotify.com/artist/6kZS07gYQ9mSAUP38G5yFE) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:12 |
+| 345 | [You're Fun To Be With](https://open.spotify.com/track/5x9uxo9ErLNr5beF3ms9uv) | [Davis Gaines](https://open.spotify.com/artist/6kZS07gYQ9mSAUP38G5yFE) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:12 |
+| 346 | [Two Cheers Instead Of Three](https://open.spotify.com/track/1VPpQ3JPswpx9lyYypCpNk) | [Walter Willison](https://open.spotify.com/artist/21Ahii1HXBx19BHjkZ3fRp) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:22 |
 | 347 | [I'm The Guy Who Guards The Harem](https://open.spotify.com/track/3wcMZR9X2bNMhdL6zAVqJF) | [Gregory Jbara](https://open.spotify.com/artist/3V7bU25iHeBDiEpWMovxrl) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:17 |
 | 348 | [The New Moon](https://open.spotify.com/track/5eAvV2OJ8M8SbUuGua7rKA) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 4:30 |
 | 349 | [Montmartre](https://open.spotify.com/track/25ASZbbGuIKBwqo5OTZjKF) | [Jack Corbin](https://open.spotify.com/artist/2FPCxNPoRlkKYKx2KUOMjs) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:54 |
@@ -391,4 +391,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 381 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/7JFvWX08SxV1pJ4c1owVGy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 382 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `AbmFdAAAAAAnCayMAE6RLJCg2kxecDmT`
+Snapshot ID: `AbmLCgAAAACvyiG2gevAysMrD9qzONYg`

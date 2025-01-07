@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 75112,
+  "num_followers": 75166,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "4 The Wolves",
+        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        }
+      ],
+      "duration_ms": 521682,
+      "name": "Eyesolation",
+      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Unprepared",
         "url": "https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 405447,
       "name": "Unprepared",
       "url": "https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "4 The Wolves",
-        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
-      },
-      "artists": [
-        {
-          "name": "!Sooks",
-          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
-        }
-      ],
-      "duration_ms": 521682,
-      "name": "Eyesolation",
-      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
         "name": "Lomthwalo",
         "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 366206,
       "name": "Lo'Mthwalo - Original Mix",
       "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY"
     },
     {
       "added_at": "2024-10-31 23:00:00",

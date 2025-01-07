@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي جمال
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: تامر حسني و رامي صبري
 
-1,295 songs - 3 day 0 hr 9 min
+1,297 songs - 3 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1123,6 +1123,7 @@
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2022-12-23 | 2023-02-15 |
 | [فرق كبير](https://open.spotify.com/track/0iHctLTPPxoEtLuf9H88Z1) | [Mishal Alrassan](https://open.spotify.com/artist/6k4NPN7KoGhaM6yJvUzgHK) | [فرق كبير](https://open.spotify.com/album/1BoRwOUP3mt0I7uc8CdsEJ) | 3:23 | 2024-01-18 | 2024-02-16 |
 | [فضحاني عنية](https://open.spotify.com/track/7gHnIsFdTHKPxj6odECNLa) | [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [فضحاني عنية](https://open.spotify.com/album/090FJL1hXb1Bxvf5cj6JZr) | 4:37 | 2024-02-01 | 2024-03-01 |
+| [فعلا مبيتنسيش](https://open.spotify.com/track/7lTods1J2VtQY6UXmwDgyT) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [فعلا مبيتنسيش](https://open.spotify.com/album/4M4reByZFC9jKIRLvIOknM) | 4:50 | 2025-01-06 |  |
 | [فقت فوق](https://open.spotify.com/track/0g56eM1URRrtNegnqrZQ9S) | [Maged Mekkawy](https://open.spotify.com/artist/5JErVYs7ZUOTw5bvKgSAl3) | [فقت فوق](https://open.spotify.com/album/1ZWgzIu3Loamci5sdmwmFp) | 3:23 | 2023-05-18 | 2023-07-12 |
 | [فكك \- احلام سعيدة](https://open.spotify.com/track/2mfFZJkSMONc1oDuUth0GN) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [فكك \- احلام سعيدة](https://open.spotify.com/album/6G2LTeAHAziLh3CBbBzRqO) | 3:34 | 2022-04-07 | 2022-07-21 |
 | [في بالي](https://open.spotify.com/track/3n2pKLjes1ZeItC7au8BSw) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [في بالي](https://open.spotify.com/album/3VKqDho2Cc2w6vUtn6EsiW) | 3:15 | 2024-02-05 | 2024-03-13 |
@@ -1168,6 +1169,7 @@
 | [كنا معديين](https://open.spotify.com/track/5wylUnXUG318OTSsVfmFv8) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كنا معديين](https://open.spotify.com/album/4NrTvQ43jJ61FVrNolKWUE) | 2:55 | 2024-07-29 | 2024-08-16 |
 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 | 2024-06-27 | 2024-08-06 |
 | [لاموني](https://open.spotify.com/track/4k5Fyhlxmh4st5HBCxDM4h) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [لاموني](https://open.spotify.com/album/0n4nzBMbsSG70vgi4NhB96) | 3:18 | 2024-09-26 | 2024-12-13 |
+| [لحظات التجلى](https://open.spotify.com/track/22FRaouGKCZsuNdz9wlu9b) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [لحظات التجلى](https://open.spotify.com/album/0kL1oOdnut1dvfX3BFGmyd) | 3:33 | 2025-01-06 |  |
 | [لحظة بعادك](https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [لحظة بعادك](https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd) | 3:41 | 2023-04-26 | 2023-06-02 |
 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-03-26 | 2024-06-17 |
 | [لسه بيسألوني](https://open.spotify.com/track/45cD4cz19GJA7tU0FiLsIn) | [Walid Toufic](https://open.spotify.com/artist/3b9dx7eQwwKtA6ctUq8sd2) | [لسه بيسألوني](https://open.spotify.com/album/0OZxqCWzZum57m6MxVcpAg) | 4:30 | 2024-02-23 | 2024-06-01 |

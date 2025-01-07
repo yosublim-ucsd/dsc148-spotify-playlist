@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 
 > The Finest In Jazz Since 1939
 
-[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 45,728 likes - 122 songs - 13 hr 2 min
+[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 45,734 likes - 122 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 121 | [For Generations](https://open.spotify.com/track/6Y8m5bnihvGZUZ2rsDse6T) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 3:43 |
 | 122 | [We Shall Overcome](https://open.spotify.com/track/6uJoMrYURJ8TYEiuGO2R2w) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Valentine](https://open.spotify.com/album/379ITOn61QlGYoHwkdTVQ2) | 6:25 |
 
-Snapshot ID: `AAABxZbrVHdX8N6WnITSF2RKfoJFLix1`
+Snapshot ID: `AAABx7CpnuA9VPM8x/sXAqMrprOkbqRp`

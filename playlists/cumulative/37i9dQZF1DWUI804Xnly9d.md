@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-470 songs - 1 day 2 hr 23 min
+471 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [Sochu](https://open.spotify.com/track/651OglmdGFaRT2W47hx696) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Sochu](https://open.spotify.com/album/4fhXeH4ZHxUrOsndsziT1f) | 3:22 | 2024-02-20 | 2024-07-16 |
 | [Sorry](https://open.spotify.com/track/6S7bu8sgZUFpUwLYWOSKzj) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Sorry](https://open.spotify.com/album/1Ng2fXRfEI6IerCgiF5KNs) | 3:26 | 2024-11-27 | 2024-12-24 |
 | [Subah Ho Tumse](https://open.spotify.com/track/1jNa2Lt10Wbk7UrIL8NX4Q) | [Arjama B](https://open.spotify.com/artist/6Acn0Zzbjp4vmtxZgqetpy), [Shubham S](https://open.spotify.com/artist/3X279yEg4gaZ7DHunJZp5R) | [Subah Ho Tumse](https://open.spotify.com/album/5ULEZrp97201TZQVUajtoj) | 3:01 | 2024-11-22 | 2024-12-06 |
-| [Suljhey](https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Suljhey](https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF) | 3:17 | 2024-12-05 |  |
+| [Suljhey](https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Suljhey](https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF) | 3:17 | 2024-12-05 | 2025-01-07 |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-26 |  |
 | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/album/4TXUigDQ7VWhNxmgBz62O7) | 2:18 | 2023-06-23 | 2023-08-05 |
 | [Tabeer](https://open.spotify.com/track/3JFEpoKGheoQ5EOrNJ1nJn) | [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7), [Venoz](https://open.spotify.com/artist/6Iz3kCYTtL1cfBdwMo8gIm), [Mark Bhatia](https://open.spotify.com/artist/5EwNqXdDHTI6Z9qcW4V676) | [Tabeer](https://open.spotify.com/album/1EuCJuNXvzBsXdO1zgkVIw) | 3:54 | 2024-02-05 | 2024-03-13 |
@@ -458,6 +458,7 @@
 | [Waqt Tham Gaya Kahin \(Currious List\)](https://open.spotify.com/track/6hQieOPS0HX8OC9R4TadKm) | [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un), [Danish Sood](https://open.spotify.com/artist/5HH9WTgUzO8ZIiqrxPiwiv) | [Waqt Tham Gaya Kahin \(Currious List\)](https://open.spotify.com/album/3H64nyK26KvB3I6hnKrudB) | 2:06 | 2023-05-17 | 2023-06-24 |
 | [Wo Mere Saath Saath](https://open.spotify.com/track/4duYnnrZthODike5XEcARR) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Wo Mere Saath Saath](https://open.spotify.com/album/64C0SHLVUXuDXuXFzoKBjT) | 5:04 | 2023-06-06 | 2023-06-28 |
 | [Woh Baarishein](https://open.spotify.com/track/3YtAM6r7eWfgWSGhnBJRts) | [MANN CHAUHAN](https://open.spotify.com/artist/0WyHzkinmJ49pV1UbRFNeF), [DR\. RAVI DING](https://open.spotify.com/artist/1mn7laNqBiN7lgayt5VzRK) | [Woh Baarishein](https://open.spotify.com/album/1S2W8IE5n4wWwZVMybxR9z) | 4:04 | 2024-09-20 | 2024-10-23 |
+| [Woh Raat Bhi](https://open.spotify.com/track/7j7uar9Objj0cAyhgkwWK0) | [Sahil Miglani](https://open.spotify.com/artist/6bKTLbH3wHNeT2tYpuBS5u) | [Woh Raat Bhi](https://open.spotify.com/album/0JaATkcAxMVOwHEZPj25a7) | 2:08 | 2025-01-06 |  |
 | [Yaad](https://open.spotify.com/track/7r0CegHHWW1c5R1F9DfLLr) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Yaad](https://open.spotify.com/album/0M53powa09z2dvfgYBfIX1) | 3:15 | 2024-03-12 | 2024-06-28 |
 | [Yaad \(Reprise\)](https://open.spotify.com/track/1QqMKubCADpWOO7jBAkVXi) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shivam\-Anuj](https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Garuudaa On The Terrace \- Season 1](https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x) | 3:01 | 2024-05-28 | 2024-10-02 |
 | [Yaadein](https://open.spotify.com/track/0H4hdAb1HANfERJR6fllKK) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Pranshu Jha](https://open.spotify.com/artist/5JW6fUObHNgkNCnYBs3BQp), [Vishrut Sinha](https://open.spotify.com/artist/5Sdr51djDja91YU5DArkkd) | [Yaadein](https://open.spotify.com/album/4nlK5bJgllcWsPGtnqn0E5) | 3:39 | 2024-04-29 | 2024-10-05 |

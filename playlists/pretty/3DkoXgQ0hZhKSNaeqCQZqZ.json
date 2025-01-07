@@ -1,13 +1,61 @@
 {
   "description": "The playlist made for furries, by furries. | Request songs @ Furrest.Online",
-  "num_followers": 425,
+  "num_followers": 427,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADC3Ti/ng9xfnKpTsaJsdmIARXwQhV",
+  "snapshot_id": "AAADDww4n9hn1wUxV888MxicA3nwGOFV",
   "tracks": [
+    {
+      "added_at": "2025-01-06 19:39:36",
+      "album": {
+        "name": "MYRTLE BROADWAY & THE BIG BANG THEORY",
+        "url": "https://open.spotify.com/album/5pmFfSXbaShZPSwgUxkfGJ"
+      },
+      "artists": [
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        }
+      ],
+      "duration_ms": 136058,
+      "name": "pink rose fragrance",
+      "url": "https://open.spotify.com/track/4hmywvrzIDN66jXlV5Iyqc"
+    },
+    {
+      "added_at": "2025-01-06 19:30:03",
+      "album": {
+        "name": "fur:core VII (puppy radio 24/7)",
+        "url": "https://open.spotify.com/album/2QCOs35xx77fJEBvijbFhG"
+      },
+      "artists": [
+        {
+          "name": "Fur:Trash",
+          "url": "https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m"
+        }
+      ],
+      "duration_ms": 190056,
+      "name": "old money bitch",
+      "url": "https://open.spotify.com/track/396MgRKqn3axtAuhjEVWTF"
+    },
+    {
+      "added_at": "2025-01-06 07:14:12",
+      "album": {
+        "name": "rodeo",
+        "url": "https://open.spotify.com/album/6EVIcnK3IAfFqIh1TBIwB7"
+      },
+      "artists": [
+        {
+          "name": "lucypawz",
+          "url": "https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7"
+        }
+      ],
+      "duration_ms": 188543,
+      "name": "if i could meet you there",
+      "url": "https://open.spotify.com/track/7FkKYC8ignbsy899QY0KWL"
+    },
     {
       "added_at": "2024-12-31 09:07:07",
       "album": {
@@ -3595,22 +3643,6 @@
       "duration_ms": 223142,
       "name": "Trash Talkin'",
       "url": "https://open.spotify.com/track/3kBzzYNNR5T6QRQD7FN6ST"
-    },
-    {
-      "added_at": "2024-11-18 05:02:10",
-      "album": {
-        "name": "rodeo",
-        "url": "https://open.spotify.com/album/6EVIcnK3IAfFqIh1TBIwB7"
-      },
-      "artists": [
-        {
-          "name": "lucypawz",
-          "url": "https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7"
-        }
-      ],
-      "duration_ms": 188543,
-      "name": "if i could meet you there",
-      "url": "https://open.spotify.com/track/7FkKYC8ignbsy899QY0KWL"
     },
     {
       "added_at": "2023-06-14 17:34:02",

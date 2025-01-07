@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 59723,
+  "num_followers": 59767,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Female Crazy Blues (Classic Mood Experience)",
+        "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 204831,
+      "name": "Crazy Blues",
+      "url": "https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Anthology: The Deluxe Collection (Remastered)",
         "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 184111,
       "name": "Evil Mama Blues",
       "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Female Crazy Blues (Classic Mood Experience)",
-        "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204831,
-      "name": "Crazy Blues",
-      "url": "https://open.spotify.com/track/6ZBOpJnZTxTydaYaY4upt7"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Stationary Mama",
-        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
-      },
-      "artists": [
-        {
-          "name": "Edith Wilson",
-          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "How Come You Do Me Like You Do?",
-      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Grievous Blues",
         "url": "https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 163133,
       "name": "Dirty Moaner Blues",
       "url": "https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Stationary Mama",
+        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
+      },
+      "artists": [
+        {
+          "name": "Edith Wilson",
+          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "How Come You Do Me Like You Do?",
+      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
     },
     {
       "added_at": "2024-06-02 16:39:20",

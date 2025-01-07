@@ -4,7 +4,7 @@
 
 > Parhaat uutuusbiisit samassa paketissa\. Kannessa Costi ja Sexmane.
 
-3,903 songs - 8 day 13 hr 6 min
+3,903 songs - 8 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1075,7 +1075,7 @@
 | [Ghost](https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Ghost](https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ) | 3:58 | 2024-08-01 | 2024-08-09 |
 | [Ghost](https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Ghost](https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk) | 2:32 | 2024-12-05 | 2024-12-13 |
 | [Ghost shit](https://open.spotify.com/track/1uArWeftffrtGsU3sFdYZO) | [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [Ghost shit](https://open.spotify.com/album/4QXARVG9xRyiNv8Yns0wbd) | 3:40 | 2024-10-10 | 2024-10-18 |
-| [Giannis Remix](https://open.spotify.com/track/5xL9W7jjSWUYqFizzN29Rp) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Giannis Remix](https://open.spotify.com/album/4KQ8bZDQDaG7ipj1ZQKVGu) | 3:57 | 2025-01-02 |  |
+| [Giannis Remix](https://open.spotify.com/track/5xL9W7jjSWUYqFizzN29Rp) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Giannis Remix](https://open.spotify.com/album/4KQ8bZDQDaG7ipj1ZQKVGu) | 2:53 | 2025-01-02 |  |
 | [Gimmie A Light](https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gimmie A Light](https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8) | 2:06 | 2024-05-09 | 2024-05-17 |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-13 | 2024-06-21 |
 | [girl talk](https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [tiny but scary](https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR) | 3:10 | 2024-08-08 | 2024-08-16 |

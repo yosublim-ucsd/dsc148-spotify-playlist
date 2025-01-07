@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,145 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,146 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 25 | [Airplane Music \(feat\. Basick, Rimi, Beenzino, Fana & San E\)](https://open.spotify.com/track/1guzCQNxneBHT42xGzJj19) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Rimi](https://open.spotify.com/artist/3nBsP6ABBDVgzFFOCyL3vG), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Quiet Storm: A Night Record](https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC) | 4:12 |
 | 26 | [U\-turn \(Feat\. Verbal Jint\)](https://open.spotify.com/track/43XlDyKKmCo3fkJ51aR7IP) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Enlightened](https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0) | 4:16 |
 | 27 | [the real thing \(For The Club\)\(feat\. Shin Ji Sun\)](https://open.spotify.com/track/261dj6cohdYbXv6tluzwRm) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 3:39 |
-| 28 | [피해망상 Pt.3 \(with TBNY\)](https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TBNY](https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j) | [High Society](https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq) | 3:56 |
+| 28 | [Watch Ya Self](https://open.spotify.com/track/7GA9RRaJrIvmT48a376CHo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Digiri](https://open.spotify.com/artist/5AkXQoXgGrx1J1zkiyRATG), [yankie](https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Map of the Human Soul](https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z) | 4:30 |
 | 29 | [Run](https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Mirror \(28 Look at Youth\)](https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t) | 4:59 |
 | 30 | [Black Diamond](https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 3:50 |
 | 31 | [너가 날 떠나면 안되는 이유](https://open.spotify.com/track/4qeHcnmSFGSsj3zYfHeaS1) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [정표](https://open.spotify.com/artist/5d6VYMtjHfDpsZt2GqHRAy) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:36 |

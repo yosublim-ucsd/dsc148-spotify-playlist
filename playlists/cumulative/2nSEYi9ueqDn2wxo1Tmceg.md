@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
 
-1,174 songs - 3 day 8 hr 16 min
+1,175 songs - 3 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Home Alone](https://open.spotify.com/track/3L4xlzfNLq2F3NaGasKc9i) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:30 | 2024-02-29 | 2024-04-19 |
 | [Honey](https://open.spotify.com/track/23TezQfQxpnVEF43es0h1g) | [DJ Sabrina The Teenage DJ](https://open.spotify.com/artist/7mhv3pjuY4JRkMKuUK9mPh) | [Destiny](https://open.spotify.com/album/3S2JjNVTT7FKujPny0Bwgo) | 8:17 | 2023-09-27 | 2023-11-09 |
 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 | 2024-05-29 | 2024-07-18 |
+| [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 | 2025-01-06 |  |
 | [Horse and Rider](https://open.spotify.com/track/3MTAL84biLO6aTXOuSPVvC) | [Richard Dawson](https://open.spotify.com/artist/0VeQgI9lzgoOMszAOq0iml) | [The Ruby Cord](https://open.spotify.com/album/4QwVU6l2cdR646QdT6z66i) | 7:54 | 2022-11-18 | 2023-01-26 |
 | [Hot Evening](https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Hot Evening](https://open.spotify.com/album/7IZ79nalZzDtQhgtCR4Dp1) | 4:01 | 2023-03-08 | 2023-04-20 |
 | [HOUSE OF CARDS \- Kevin Shields Rainbow Belts Remix](https://open.spotify.com/track/1342lydTRFUBMIcS0dTdk1) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Kevin Shields](https://open.spotify.com/artist/6egkD3KNbPuvrNLuWpB0bM) | [HOUSE OF CARDS \(Kevin Shields Rainbow Belts Remix\)](https://open.spotify.com/album/0wxL3up90d20n6m5Tqg0YO) | 4:24 | 2023-01-25 | 2023-02-23 |

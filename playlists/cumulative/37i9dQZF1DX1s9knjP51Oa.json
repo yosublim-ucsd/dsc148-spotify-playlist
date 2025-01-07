@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 150514,
       "name": "Autumn Song",
       "url": "https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq"
@@ -3772,6 +3772,24 @@
       "duration_ms": 147320,
       "name": "Elixir",
       "url": "https://open.spotify.com/track/0kCN1NYNHTB39vgjcv7Sqx"
+    },
+    {
+      "album": {
+        "name": "Elv Tana",
+        "url": "https://open.spotify.com/album/4kCGevA5K7sbLh6nFWa7gO"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156874,
+      "name": "Elv Tana",
+      "url": "https://open.spotify.com/track/0wpB114om6UBkI1NTR3Dcq"
     },
     {
       "album": {
@@ -10618,6 +10636,24 @@
       "duration_ms": 148653,
       "name": "R\u00f3s",
       "url": "https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77"
+    },
+    {
+      "album": {
+        "name": "Sad Moments",
+        "url": "https://open.spotify.com/album/4yueXDq97H7jHHnYYYc1JJ"
+      },
+      "artists": [
+        {
+          "name": "Into the Harmonies",
+          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154511,
+      "name": "Sad Moments",
+      "url": "https://open.spotify.com/track/4ZgngkORCnHjiXHmZbIFJT"
     },
     {
       "album": {

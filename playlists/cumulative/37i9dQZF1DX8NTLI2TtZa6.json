@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 136000,
       "name": "Danderlion",
       "url": "https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG"
@@ -3290,6 +3290,24 @@
       "duration_ms": 170000,
       "name": "Heritage",
       "url": "https://open.spotify.com/track/1T5PUpmbV63BiM1Fnjgr3T"
+    },
+    {
+      "album": {
+        "name": "Hernan's Battle",
+        "url": "https://open.spotify.com/album/7Mv3CARwjqFzm8YujrncB7"
+      },
+      "artists": [
+        {
+          "name": "Maxim Slanov",
+          "url": "https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115625,
+      "name": "Hernan's Battle",
+      "url": "https://open.spotify.com/track/6NGYWqDGiDbf1O9C4bkoMI"
     },
     {
       "album": {
@@ -5023,6 +5041,24 @@
     },
     {
       "album": {
+        "name": "Mariposa De Oto\u00f1o",
+        "url": "https://open.spotify.com/album/3rLpPFI9dLXM63tp5Mezpy"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185416,
+      "name": "Mariposa De Oto\u00f1o",
+      "url": "https://open.spotify.com/track/5nCzEybBLM2AOmmb8VbBxv"
+    },
+    {
+      "album": {
         "name": "Marquesue",
         "url": "https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf"
       },
@@ -6590,7 +6626,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 179257,
       "name": "Peace Frame",
       "url": "https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax"
@@ -9094,7 +9130,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 146632,
       "name": "Une Minute De Plus",
       "url": "https://open.spotify.com/track/4dC7pbM5hJxRvU7BJ4hVWC"

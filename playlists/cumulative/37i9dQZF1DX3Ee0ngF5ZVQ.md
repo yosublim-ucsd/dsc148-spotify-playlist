@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-674 songs - 1 day 16 hr 10 min
+675 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Cowboy Kid](https://open.spotify.com/track/6HQDLJ0hcek1X70QOP6e3x) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Cowboy Kid](https://open.spotify.com/album/6aNpBKhFEU5CBJ8vY1TLk0) | 3:31 | 2023-10-13 | 2024-01-13 |
 | [Cowboys & Tequila](https://open.spotify.com/track/0R4SGCi7wBvjhnZvuWEXkI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Cowboys & Tequila](https://open.spotify.com/album/3REWO8PbGAiEaOu9t6Zef0) | 3:31 | 2022-05-06 | 2022-07-29 |
 | [Cowboys Don't Cry](https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Cowboys Don't Cry](https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE) | 3:09 | 2022-07-22 | 2023-03-25 |
-| [Cowgirl](https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U) | [Jake Bush](https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF) | [Where 90's Meets Now](https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm) | 3:23 | 2025-01-03 |  |
+| [Cowgirl](https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U) | [Jake Bush](https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF) | [Where 90's Meets Now](https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm) | 3:23 | 2025-01-03 | 2025-01-07 |
 | [Cozy](https://open.spotify.com/track/7vtdJnOxzDbRPtzge0KNqY) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Cozy](https://open.spotify.com/album/3EQbke1wHMcA9Cqw5cOIM9) | 3:37 | 2024-09-06 |  |
 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [Creepin up on Me](https://open.spotify.com/track/4C2RJVUMlDlPFT1vo1Qbja) | [Carter Lybrand](https://open.spotify.com/artist/0ophv4tU6QFbsUQ0DwotdM) | [Creepin up on Me](https://open.spotify.com/album/7cFZBIt7E41fBinNftbq5x) | 3:39 | 2021-12-17 | 2022-03-19 |
@@ -162,6 +162,7 @@
 | [Darlin'](https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cowboys Don't Change](https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K) | 3:32 | 2022-06-17 | 2023-09-12 |
 | [Daylight](https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG) | [Cheating On A Memory Chapter 2](https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr) | 3:34 | 2022-08-19 | 2022-09-15 |
 | [Deconstruction of a Heartache](https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Amanda Kate](https://open.spotify.com/album/5gyxMSvCLHNeS8IPLBAXQ1) | 3:34 | 2021-12-17 | 2022-08-14 |
+| [Denver to Dallas](https://open.spotify.com/track/1waF2JcZIKEZQvYWygCv81) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Denver to Dallas](https://open.spotify.com/album/2Ifn48ww9AmWjpH3wjCrsV) | 3:28 | 2025-01-03 |  |
 | [Desert Rose](https://open.spotify.com/track/6EmGsOMMtMTri9jgFRefQl) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Fair Weather Cowboy](https://open.spotify.com/album/54FwkC0pz1pFU9IfFajgqI) | 3:23 | 2022-11-18 | 2023-01-17 |
 | [Desperate Company](https://open.spotify.com/track/0sNRNcFz7qGtBCyotVjy8Z) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Desperate Company](https://open.spotify.com/album/19Bp8pSJzPssr1QqC3dY7G) | 4:03 | 2024-05-10 | 2024-06-17 |
 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 | 2023-09-15 | 2023-12-07 |

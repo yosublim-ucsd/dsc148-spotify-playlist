@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "1, 2, 3 (Orchestral)",
+        "url": "https://open.spotify.com/album/4RvLclWKxkOp55UoHxTy3m"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        },
+        {
+          "name": "Bailey Pickles",
+          "url": "https://open.spotify.com/artist/3wZmRluxJ9rnRvAymEFVG4"
+        },
+        {
+          "name": "Hugo Hui",
+          "url": "https://open.spotify.com/artist/5D8ylhZ0x9HvrxfMZAl2S6"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "1, 2, 3 - Orchestral",
+      "url": "https://open.spotify.com/track/4Jjn8qAH9OSaszccghYO8l"
+    },
+    {
+      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -334,7 +360,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 165883,
       "name": "All I See Is Him",
       "url": "https://open.spotify.com/track/53bNbChiuQHSUZJTfNvERf"
@@ -2238,7 +2264,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 239079,
       "name": "Edinburgh",
       "url": "https://open.spotify.com/track/6n9ElX7ujp5KjPCssiwY5a"
@@ -2426,7 +2452,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 118951,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/0o6fLmEBkaTqjH2zm2s79P"
@@ -2902,7 +2928,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 216160,
       "name": "Frozen Lake",
       "url": "https://open.spotify.com/track/4IAEwFyvFjKRe3kMDFw2F5"
@@ -2938,7 +2964,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 130310,
       "name": "Getting Over You",
       "url": "https://open.spotify.com/track/22hCW8J2tHYdaBhdDX44HI"
@@ -3839,6 +3865,24 @@
     },
     {
       "album": {
+        "name": "I Can\u2019t Believe We Never Went Out Dancing",
+        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "I Can\u2019t Believe We Never Went Out Dancing",
+      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2023 (Duncan Laurence)",
         "url": "https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3"
       },
@@ -3886,7 +3930,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 183941,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp"
@@ -4608,7 +4652,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 176259,
       "name": "It's All Over You",
       "url": "https://open.spotify.com/track/7hw3AFHSYdOFtVdplMWaIl"
@@ -4972,7 +5016,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 180177,
       "name": "last request",
       "url": "https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO"
@@ -5402,7 +5446,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 196693,
       "name": "Look Me In The Eyes",
       "url": "https://open.spotify.com/track/1kCKOjFILLIu0tlYJjBnPM"
@@ -5956,6 +6000,24 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
     },
     {
       "album": {
@@ -6700,7 +6762,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 197897,
       "name": "Older (feat. Sierra Deaton)",
       "url": "https://open.spotify.com/track/3NnvYEb93CrTVBssPtSCt1"
@@ -7928,7 +7990,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 128207,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/5SCyrDAsqu3iryTewIgFzg"
@@ -10094,7 +10156,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 161620,
       "name": "Winter City",
       "url": "https://open.spotify.com/track/6pdvuLmF736BybOwSYEXeg"

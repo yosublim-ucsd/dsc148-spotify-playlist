@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 84864,
+  "num_followers": 84895,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Pompi Cadera",
-        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
+        "name": "Bao Bao",
+        "url": "https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n"
       },
       "artists": [
         {
-          "name": "Erick Rincon",
-          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
+          "name": "Tribal Stars",
+          "url": "https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
         }
       ],
-      "duration_ms": 140720,
-      "name": "Pompi Cadera",
-      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
+      "duration_ms": 203076,
+      "name": "Bao Bao",
+      "url": "https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -275,26 +283,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Bao Bao",
-        "url": "https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n"
+        "name": "Pompi Cadera",
+        "url": "https://open.spotify.com/album/4Ny0w4fmGU7XvctBjU6bxD"
       },
       "artists": [
         {
-          "name": "Tribal Stars",
-          "url": "https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR"
-        },
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+          "name": "Erick Rincon",
+          "url": "https://open.spotify.com/artist/2EU3cjIkOdu1nDo4dJZ7Ba"
         }
       ],
-      "duration_ms": 203076,
-      "name": "Bao Bao",
-      "url": "https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh"
+      "duration_ms": 140720,
+      "name": "Pompi Cadera",
+      "url": "https://open.spotify.com/track/0yYfcUbO9c4VvtnUYfxdOf"
     },
     {
       "added_at": "2024-07-05 22:41:57",

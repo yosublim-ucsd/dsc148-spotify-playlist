@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx & Timmy Trumpet
 
-528 songs - 1 day 3 hr 16 min
+529 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Get in Trouble \(So What\) \- Timmy Trumpet Remix](https://open.spotify.com/track/3PMpFfU2bGnhwotprL9ylW) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Get in Trouble \(So What\) \[Timmy Trumpet Remix\]](https://open.spotify.com/album/3Wx7YFIseIAZPGXgFIX6l8) | 2:29 | 2022-04-14 | 2022-04-29 |
 | [Giratina \(Eurobeat Remix\)](https://open.spotify.com/track/07RxMrhnBCJbiS6B8Xcwtn) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Carroch](https://open.spotify.com/artist/3TOcsmPjuFCARycuQEGepB), [EUROBEAT](https://open.spotify.com/artist/2kGb5lgTrOKAlEL1cn7guj), [Monik](https://open.spotify.com/artist/1uL5R0NdFIaacJE1W8p7Bi) | [Giratina \(Eurobeat Remix\)](https://open.spotify.com/album/6YLsDA0vJAoIBx0ZSG56T3) | 2:41 | 2022-04-14 | 2023-02-17 |
 | [Give Me](https://open.spotify.com/track/5kbFc1QbGvCRJmQTldYod4) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Give Me](https://open.spotify.com/album/1yMWuEo9Za8Jodpd8C7GdZ) | 2:36 | 2023-10-05 | 2024-03-08 |
+| [Glowing](https://open.spotify.com/track/5OLZ7WonFykDncQp500SHf) | [Agus Zack](https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK), [Maikko](https://open.spotify.com/artist/45xKUKqIer47CE8Ms4ahkJ) | [Glowing](https://open.spotify.com/album/3JQtq080WNvBNEvQZqfRXx) | 2:09 | 2025-01-06 |  |
 | [Go Stupid](https://open.spotify.com/track/34vzBrkuAZ0rLnNQyvwHXa) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v) | [Go Stupid](https://open.spotify.com/album/0OWesUsZENcbp2rabvV9aD) | 2:50 | 2023-08-31 | 2023-11-17 |
 | [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 | 2022-04-14 | 2024-03-15 |
 | [GODD](https://open.spotify.com/track/6lg50M13aPGe5HXhdrYWqN) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [GODD](https://open.spotify.com/album/01dSHt7ldTooyeM0KZ3Kb1) | 4:31 | 2022-12-27 | 2023-01-03 |
@@ -214,7 +215,7 @@
 | [HYPOMANIA](https://open.spotify.com/track/4rVmpjKfDSahUHEp97K34S) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [HYPOMANIA](https://open.spotify.com/album/46vJOsJ5TqIX9SQTU7lMOh) | 3:17 | 2024-11-06 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/77oD6k2q00vr5oJUcn7xbl) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [I Don't Wanna Know](https://open.spotify.com/album/5ZojN7FtyFSGuNhTamRzOw) | 2:38 | 2022-04-14 | 2022-06-03 |
 | [I FEEL LIKE DANCING](https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [I FEEL LIKE DANCING](https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi) | 3:45 | 2022-08-18 | 2023-03-03 |
-| [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 | 2024-02-15 |  |
+| [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 | 2024-02-15 | 2025-01-07 |
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-10-19 | 2024-07-12 |
 | [I Wanna Rave](https://open.spotify.com/track/16kkmD8adTsERblia16Uof) | [ShortRound](https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK) | [I Wanna Rave](https://open.spotify.com/album/3aI7CJ56jtFCY0GHmarazd) | 3:27 | 2022-12-27 | 2023-01-03 |
 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 | 2022-07-28 | 2023-05-19 |

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,761 songs - 3 day 6 hr 11 min
+1,764 songs - 3 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Awakening](https://open.spotify.com/track/0sDqqcELNvGWI5u8mBxESD) | [Otto Wahl](https://open.spotify.com/artist/7A5OxuJ5yEzHTM43In5fHF) | [Awakening](https://open.spotify.com/album/0GHYEM6vswX7E5YH6Cp1nB) | 3:00 | 2019-05-26\* | 2020-06-24 |
 | [Away](https://open.spotify.com/track/2mpDoMepkxUD7GusdybNIq) | [Tonie Green](https://open.spotify.com/artist/3kfHheH2kjb3gsLwSowrdb) | [Away](https://open.spotify.com/album/2YtbJMmWv0D4ixJq9Wwymd) | 2:57 | 2019-05-26\* | 2020-03-25 |
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-05-09 |  |
-| [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 | 2022-10-24 |  |
+| [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 | 2022-10-24 | 2025-01-07 |
 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 | 2021-01-26 | 2021-11-11 |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2021-05-27 | 2022-10-04 |
 | [Back Home](https://open.spotify.com/track/1pgSiIvNXVQAKlMvjvqL0r) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:40 | 2019-08-31 | 2020-04-21 |
@@ -291,6 +291,7 @@
 | [Clear Blue Skies](https://open.spotify.com/track/4w1xTWbbO1BcOvf6X8ywzG) | [Edward Elysseus](https://open.spotify.com/artist/3B2uDXsfuaUaXn5CuN4Eh7) | [Clear Blue Skies](https://open.spotify.com/album/2nCUZMqf2r51Z7iWUP9kVU) | 3:17 | 2019-07-11 | 2019-10-22 |
 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 | 2021-12-08 | 2023-01-10 |
 | [Clocks](https://open.spotify.com/track/6dfdNTuLOK8eFusN8HaQg8) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [Clocks](https://open.spotify.com/album/15WhEso6vgnXIhHZNIn5eJ) | 2:49 | 2020-02-26 | 2020-09-30 |
+| [Close](https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Close](https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs) | 2:03 | 2025-01-06 |  |
 | [Close](https://open.spotify.com/track/5tUoI7u3zsCo9KCx5s3GQh) | [John Thomas Remington](https://open.spotify.com/artist/4IjrAYpXscdCP4Twuor1f3) | [Close](https://open.spotify.com/album/1xEqzwfnOa644zQG71fg1n) | 2:36 | 2021-08-12 | 2022-07-16 |
 | [Close To You](https://open.spotify.com/track/7zuK6SB9iQN17ZLOdCcCjd) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Close To You](https://open.spotify.com/album/18AxWYSX9I2yR5PagBl4r3) | 2:07 | 2020-11-03 | 2022-05-27 |
 | [Closer](https://open.spotify.com/track/7xB4ErvUJTglvf4dXx8MWL) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Closer](https://open.spotify.com/album/6VzBJs7FDfaGi2MnFRQvYt) | 2:24 | 2020-08-04 | 2021-08-19 |
@@ -382,7 +383,7 @@
 | [Different To Our Daily Lives](https://open.spotify.com/track/6zB9GWgc3mjxnqGgHAwvpU) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Different To Our Daily Lives](https://open.spotify.com/album/4j3t73htSViFibVCVBpLr5) | 2:26 | 2022-04-22 | 2023-09-23 |
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2021-02-09 | 2021-08-05 |
 | [Dione](https://open.spotify.com/track/0OyfmSpjOUz6k0swecwQEw) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Dione](https://open.spotify.com/album/1xSWJQd6aRwP8ETyHJXyQP) | 2:28 | 2022-07-06 | 2024-06-06 |
-| [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-02-03 |  |
+| [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-02-03 | 2025-01-07 |
 | [Distant Lapse](https://open.spotify.com/track/7pDD127Pc7US1ZG0sJy3e0) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Distant Lapse](https://open.spotify.com/album/1WdR1q6Tq8PXKRoQAwXl3y) | 2:45 | 2020-01-08 | 2020-09-30 |
 | [Distant Shores](https://open.spotify.com/track/5akwB4g9TXC5B586LAew37) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [Distant Shores](https://open.spotify.com/album/0bKOpKhuIFRcUz5U4reXeR) | 2:14 | 2022-10-03 | 2023-09-23 |
 | [Divine Structure](https://open.spotify.com/track/5S7nfUHhiA3kfmyMPvhV6V) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 3:47 | 2019-07-11 | 2019-09-12 |
@@ -1053,6 +1054,7 @@
 | [Old Letter](https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv) | 3:54 | 2023-02-03 | 2023-09-23 |
 | [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-10-03 | 2023-02-09 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2020-11-03 | 2022-05-27 |
+| [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 | 2025-01-06 |  |
 | [Olyan szép vagy](https://open.spotify.com/track/7ejRYgcT2XCiYVCvjvCzmj) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Olyan szép vagy](https://open.spotify.com/album/6Wv0Ot23GCHzLmU8H58iFw) | 2:05 | 2019-10-16 | 2020-11-10 |
 | [Om än bara för en stund](https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY) | [Maya Åström](https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph) | [Om än bara för en stund](https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH) | 2:38 | 2022-08-08 | 2023-04-04 |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2021-12-21 | 2023-04-04 |
@@ -1193,7 +1195,7 @@
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2021-01-26 | 2021-12-08 |
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2022-02-23 | 2022-12-21 |
 | [Radiant](https://open.spotify.com/track/5WAuzGamm8rl9rY0ZxTZ5h) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Radiant](https://open.spotify.com/album/7eOhUnQ92WaJvaPo0khuLw) | 1:59 | 2021-06-03 | 2022-07-07 |
-| [Rainbow](https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Leap Of Faith](https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z) | 2:56 | 2022-10-24 |  |
+| [Rainbow](https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Leap Of Faith](https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z) | 2:56 | 2022-10-24 | 2025-01-07 |
 | [Rainbow](https://open.spotify.com/track/54az4H0JwwXsB25718PKg9) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/0Vf69rDPEdfbJypvpou4uS) | 2:56 | 2023-10-23 | 2023-12-06 |
 | [Rainbow](https://open.spotify.com/track/5o9VMlbsJvXSdVfi3u4sFh) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/2WvA7DZjMD9l7kOuMGqyBj) | 2:56 | 2023-10-02 | 2023-11-04 |
 | [Rainbow](https://open.spotify.com/track/6Ab0DT2fQv7ZQWxfMBrqZP) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/3Z6neqTOayCbmWy9fOFbPe) | 2:56 | 2023-12-05 | 2024-04-19 |
@@ -1681,6 +1683,7 @@
 | [Waltz in F minor](https://open.spotify.com/track/20DUpGAFEPRFEBD3FbxUHK) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Waltz in F minor](https://open.spotify.com/album/0eFKKxmv0SE3SL3Z1YwmKi) | 2:24 | 2021-09-24 | 2022-05-21 |
 | [Waltz, Interrupted](https://open.spotify.com/track/4iMQEdNXGMVlAbqsJGhvxx) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waltz, Interrupted](https://open.spotify.com/album/0Y9TvMNJVcoc6uFmHAEpF5) | 2:11 | 2021-09-24 | 2022-11-22 |
 | [wandering bird](https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [yellow fields & wandering bird](https://open.spotify.com/album/4fBLDgZ2H67fMlnN2evmp2) | 2:35 | 2021-10-01 | 2022-09-13 |
+| [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 | 2025-01-06 |  |
 | [Warps](https://open.spotify.com/track/6w0lISd2NMdJH0V1DgxQZX) | [Koral Banko](https://open.spotify.com/artist/77POcMr56NHorl74QoH1Lj) | [Warps](https://open.spotify.com/album/3sPjCDnGxuiBbSiiVl93SJ) | 3:22 | 2019-05-26\* | 2019-08-30 |
 | [Watching Over You](https://open.spotify.com/track/6kWVRQKxzpOj8r06pps6O3) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [delta/alpha](https://open.spotify.com/album/6W2BFocMWkUumhGSrgE9il) | 2:18 | 2020-05-06 | 2020-11-27 |
 | [Watching You In The Morning](https://open.spotify.com/track/7dpxclo5KDKQ00MtYe1nOP) | [Waltzin](https://open.spotify.com/artist/5nkwKrd8YZXi7uMgEppmxh) | [Watching You In The Morning](https://open.spotify.com/album/6XyHr2XSw5l4oeF0Y8ZHr3) | 2:04 | 2020-09-22 | 2021-05-27 |

@@ -1,36 +1,56 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Bougainvillea ",
-  "num_followers": 424002,
+  "num_followers": 424220,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1AffQAAAADo/u813b45f7Kkj123Rpmn",
+  "snapshot_id": "Z3t+rAAAAABUHE+4eUxZFDc2k9cdrG/C",
   "tracks": [
     {
-      "added_at": "2024-11-25 06:39:05",
+      "added_at": "2025-01-06 06:53:03",
       "album": {
-        "name": "Dhurooha Manthahasame (From \"Sookshmadarshini\")",
-        "url": "https://open.spotify.com/album/39Ffgbe1WFfcZLd0wXDEmg"
+        "name": "Blood (From \"Marco\")",
+        "url": "https://open.spotify.com/album/1vuCvWPTaPVYd2Cki6s78w"
       },
       "artists": [
         {
-          "name": "Christo Xavier",
-          "url": "https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn"
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
         },
         {
-          "name": "Ahi Ajayan",
-          "url": "https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH"
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
         },
         {
-          "name": "Mu.Ri",
-          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
+          "name": "Rohith Siddappa",
+          "url": "https://open.spotify.com/artist/6gGKW0XAgIiSlr7ZOnLjbR"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
         }
       ],
-      "duration_ms": 212794,
-      "name": "Dhurooha Manthahasame - From \"Sookshmadarshini\"",
-      "url": "https://open.spotify.com/track/05EpQNTKhOlX6NBI5h8RPJ"
+      "duration_ms": 209530,
+      "name": "Blood (From \"Marco\")",
+      "url": "https://open.spotify.com/track/2xufy4wGqo7ax8caPKyMw6"
+    },
+    {
+      "added_at": "2025-01-06 06:56:44",
+      "album": {
+        "name": "Aayiram Aura",
+        "url": "https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        }
+      ],
+      "duration_ms": 256488,
+      "name": "Aayiram Aura",
+      "url": "https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1"
     },
     {
       "added_at": "2024-10-07 11:42:17",
@@ -75,6 +95,30 @@
       "duration_ms": 270375,
       "name": "Eyy Banane",
       "url": "https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD"
+    },
+    {
+      "added_at": "2024-11-25 06:39:05",
+      "album": {
+        "name": "Dhurooha Manthahasame (From \"Sookshmadarshini\")",
+        "url": "https://open.spotify.com/album/39Ffgbe1WFfcZLd0wXDEmg"
+      },
+      "artists": [
+        {
+          "name": "Christo Xavier",
+          "url": "https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn"
+        },
+        {
+          "name": "Ahi Ajayan",
+          "url": "https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH"
+        },
+        {
+          "name": "Mu.Ri",
+          "url": "https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm"
+        }
+      ],
+      "duration_ms": 212794,
+      "name": "Dhurooha Manthahasame - From \"Sookshmadarshini\"",
+      "url": "https://open.spotify.com/track/05EpQNTKhOlX6NBI5h8RPJ"
     },
     {
       "added_at": "2024-05-13 09:06:18",
@@ -981,26 +1025,6 @@
       "url": "https://open.spotify.com/track/5M3GTHCnzxvUmEhjAh8tT1"
     },
     {
-      "added_at": "2022-08-18 08:09:32",
-      "album": {
-        "name": "Manavaalan Thug (From \"Thallumaala\")",
-        "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
-      },
-      "artists": [
-        {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
-        },
-        {
-          "name": "SA",
-          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Manavaalan Thug - From \"Thallumaala\"",
-      "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
-    },
-    {
       "added_at": "2023-12-02 04:17:28",
       "album": {
         "name": "Ennile Punchiri (From \"Phoenix\")",
@@ -1063,26 +1087,6 @@
       "duration_ms": 253000,
       "name": "Neela Nilave (From \"RDX\")",
       "url": "https://open.spotify.com/track/1HNig28114roVWfkCHk5oJ"
-    },
-    {
-      "added_at": "2023-09-26 09:16:48",
-      "album": {
-        "name": "Jupiter Mazha",
-        "url": "https://open.spotify.com/album/17GrpHqQKY5MmMyqyP9LOO"
-      },
-      "artists": [
-        {
-          "name": "Dhanwin K B",
-          "url": "https://open.spotify.com/artist/02JO25StRNoFFNmw3tfHxR"
-        },
-        {
-          "name": "Apoorva Sandhya",
-          "url": "https://open.spotify.com/artist/5Z0ti5Y3Ount3E7Oysc8cl"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Jupiter Mazha",
-      "url": "https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p"
     },
     {
       "added_at": "2023-05-15 09:43:32",

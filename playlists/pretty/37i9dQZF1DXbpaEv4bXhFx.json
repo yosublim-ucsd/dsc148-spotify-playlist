@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 15555,
+  "num_followers": 15553,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "My Ceiling Disappeared",
-      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
         "name": "My Liberation Notes OST Part 9",
         "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
-        "name": "Rainy Season",
-        "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 222285,
-      "name": "Rainy Season",
-      "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
+      "duration_ms": 215000,
+      "name": "My Ceiling Disappeared",
+      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
     },
     {
       "added_at": "2024-08-09 09:24:09",
@@ -775,6 +759,22 @@
       "duration_ms": 266999,
       "name": "\ube57\uc18c\ub9ac - Acoustic",
       "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
+        "name": "Rainy Season",
+        "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 222285,
+      "name": "Rainy Season",
+      "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
     },
     {
       "added_at": "2024-08-09 09:24:09",
@@ -811,6 +811,26 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
+        "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
+        "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
+      },
+      "artists": [
+        {
+          "name": "KIXO",
+          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
         "name": "In the Rain",
         "url": "https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 188760,
       "name": "Umbrella (feat. Ashley Alisha & prettyhappy)",
       "url": "https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
-        "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
-        "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
-      },
-      "artists": [
-        {
-          "name": "KIXO",
-          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
     },
     {
       "added_at": "2024-08-09 09:24:09",

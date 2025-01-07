@@ -1,12 +1,12 @@
 {
   "description": "This is Botellita De Jerez. The essential tracks, all in one playlist.",
-  "num_followers": 4002,
+  "num_followers": 4004,
   "original_name": "This Is Botellita De Jerez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3h6AAAAAADa9fUai1SN5Ad5gbTIEvE2",
+  "snapshot_id": "Z3nLgAAAAACojfUfuDZm1XQDR62J186r",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Pior Del Estuche De Peluche",
-        "url": "https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Ton\u00b4s Que Mi Reina",
-      "url": "https://open.spotify.com/track/1a0PheKw63o5te70iI4uD0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superespecial De Botellita de Jerez Ac\u00fastico Semi - Desenchufado en Vivo un Plug",
         "url": "https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 312506,
       "name": "Oh, Denny's",
       "url": "https://open.spotify.com/track/2e10uppA5P9X6gMWhY02A9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Pior Del Estuche De Peluche",
+        "url": "https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Ton\u00b4s Que Mi Reina",
+      "url": "https://open.spotify.com/track/1a0PheKw63o5te70iI4uD0"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forjando Patria",
-        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 365240,
-      "name": "El Santos Contra la Tetona Mendoza",
-      "url": "https://open.spotify.com/track/5TbnhVJds6alLcGTzzbRVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superespecial De Botellita de Jerez Ac\u00fastico Semi - Desenchufado en Vivo un Plug",
         "url": "https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 320760,
       "name": "A Qu\u00e9 Hora Sales al Pan? (Ton's Qu\u00e9 Mi Reina)",
       "url": "https://open.spotify.com/track/6IjnQgJWxRUExDqUcgHKDs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forjando Patria",
+        "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 365240,
+      "name": "El Santos Contra la Tetona Mendoza",
+      "url": "https://open.spotify.com/track/5TbnhVJds6alLcGTzzbRVA"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 120426,
-      "name": "Guaca Rocker",
-      "url": "https://open.spotify.com/track/3lgoiNLqXfykqFZzBLHs1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 257946,
       "name": "Vete Al Averno",
       "url": "https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Venganza Del Hijo Del Guacarock",
+        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 120426,
+      "name": "Guaca Rocker",
+      "url": "https://open.spotify.com/track/3lgoiNLqXfykqFZzBLHs1r"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 174600,
-      "name": "La Sorpresa",
-      "url": "https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf"
+      "duration_ms": 243480,
+      "name": "Despi\u00e9rtame",
+      "url": "https://open.spotify.com/track/6lNWVEVR0Y38q9OE8gxLbo"
     }
   ],
   "unique_name": "This Is Botellita De Jerez",

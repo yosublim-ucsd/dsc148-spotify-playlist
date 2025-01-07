@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-967 songs - 2 day 4 hr 11 min
+968 songs - 2 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Khyaal](https://open.spotify.com/track/2NSePTBNvDTrLCfa12IlbC) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn) | [Khyaal](https://open.spotify.com/album/6na48949ddaO9SJwS0Jg3P) | 3:42 | 2022-04-25 | 2022-05-20 |
 | [Khyaal Kahto](https://open.spotify.com/track/4S5qsjhVeeX1MpcXpphWLG) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi) | [Khyaal Kahto](https://open.spotify.com/album/56kS9057ztIq21ionlG2qa) | 2:53 | 2024-09-12 | 2024-10-10 |
 | [Khyaal Rakhya Kar](https://open.spotify.com/track/2RKGtM8v2JM72Gyo1wLmgg) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Khyaal Rakhya Kar](https://open.spotify.com/album/6Ghe7DUVuvs6hCzCdz3prE) | 3:10 | 2021-12-02 | 2022-02-01 |
+| [Khyaal Tere](https://open.spotify.com/track/5pTvUNfVWWV2mzxbSBSkmk) | [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y), [Mirroronly](https://open.spotify.com/artist/5Z4xc8enAcMaWp5xkRA5ej) | [Khyaal Tere](https://open.spotify.com/album/2MEvMWbAowbJde4MMFjL1Q) | 2:54 | 2025-01-06 |  |
 | [Ki Kar Gaiyaan](https://open.spotify.com/track/5o0zH8goJNlBBgfZhmQL6k) | [Akriti Kakkar](https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ki Kar Gaiyaan](https://open.spotify.com/album/4q1rMKC7XSD07kNcTo9gcl) | 3:43 | 2022-01-28 | 2022-02-12 |
 | [Ki Karde Je](https://open.spotify.com/track/0NFkqpzm3kisw9cG8I36Cy) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nimmo](https://open.spotify.com/album/6npMtWLVcknfO4NdtIX41K) | 3:35 | 2023-02-27 | 2023-05-06 |
 | [Ki Karde Je](https://open.spotify.com/track/5DnZcwhgXYlUxGOMk348Sz) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nimmo](https://open.spotify.com/album/3F2cjyTEus264GbYrXgrnc) | 3:35 | 2022-02-03 | 2022-07-12 |
@@ -851,7 +852,7 @@
 | [Tera Ki Jana](https://open.spotify.com/track/3v0wVxg9Ept4A3LuJWlEk4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8) | [Late Night Talks](https://open.spotify.com/album/2FwpvBmoJoatm62vxE8M5t) | 2:51 | 2024-09-28 |  |
 | [Tera Mera Naam Sohneya](https://open.spotify.com/track/1bFVCInSueN98L8ZznsyNV) | [Zehan](https://open.spotify.com/artist/09l3GeDkzqXrRgagVYse8p), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Yuvika Chaudhary](https://open.spotify.com/artist/2xWgTpxwqLZegsJEj5ZAUr) | [Tera Mera Naam Sohneya](https://open.spotify.com/album/4yFECPIHENwJoE3cPtUga8) | 3:26 | 2022-04-15 | 2022-04-29 |
 | [Tera Mera Saath](https://open.spotify.com/track/3j0D9A264VbssyLaWvnQ1r) | [Gurwinder Brar](https://open.spotify.com/artist/3WZTmAmQr3PkUbEfctw4u0) | [Tera Mera Saath](https://open.spotify.com/album/3YzyVDXuzW02aJ6Gj8ghg2) | 3:33 | 2022-08-12 | 2023-02-04 |
-| [Tera Mera Viah](https://open.spotify.com/track/0J8pFQmRY3T5Fo1eRMgZ49) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX) | [Tera Mera Viah](https://open.spotify.com/album/5U4oL6plxYADp3AH321W4u) | 3:04 | 2024-12-10 |  |
+| [Tera Mera Viah](https://open.spotify.com/track/0J8pFQmRY3T5Fo1eRMgZ49) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX) | [Tera Mera Viah](https://open.spotify.com/album/5U4oL6plxYADp3AH321W4u) | 3:04 | 2024-12-10 | 2025-01-07 |
 | [Tera Pyaar Ve](https://open.spotify.com/track/1E4MAiOaObaDGgpqvRnxva) | [Aman Ghuman](https://open.spotify.com/artist/5F9H8STHJE2bPys4Eh5eLJ) | [Tera Pyaar Ve](https://open.spotify.com/album/35wFZvVX88QtIReBPjZspB) | 3:15 | 2022-07-15 | 2022-08-18 |
 | [Tere Bajjon](https://open.spotify.com/track/40jeNi7ZW86rMU7UXgOJgC) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Tere Bajjon](https://open.spotify.com/album/6VBWhaZGlXxI4E0fXx0qV6) | 3:07 | 2022-08-19 | 2022-09-23 |
 | [Tere Bin](https://open.spotify.com/track/4cLJG9y4PhEljgFSsxjw4s) | [Deep Money](https://open.spotify.com/artist/6t6D6drTfOF08Jp4w9wY2J) | [Tere Bin](https://open.spotify.com/album/6Cb8dGqpYgTzWDChK824Qd) | 3:15 | 2024-11-26 | 2024-12-07 |

@@ -2,7 +2,7 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with Fleshwater \(pictured\), Present, Doom Mutual, Touché Amoré and more.
+> The shape of noise to come with OVERSIZE \(pictured\), Superheaven, Split Chain, Tarnish and more.
 
 765 songs - 1 day 19 hr 39 min
 

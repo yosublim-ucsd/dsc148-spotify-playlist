@@ -7718,7 +7718,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 197663,
       "name": "Suljhey",
       "url": "https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v"
@@ -9258,6 +9258,24 @@
       "duration_ms": 244880,
       "name": "Woh Baarishein",
       "url": "https://open.spotify.com/track/3YtAM6r7eWfgWSGhnBJRts"
+    },
+    {
+      "album": {
+        "name": "Woh Raat Bhi",
+        "url": "https://open.spotify.com/album/0JaATkcAxMVOwHEZPj25a7"
+      },
+      "artists": [
+        {
+          "name": "Sahil Miglani",
+          "url": "https://open.spotify.com/artist/6bKTLbH3wHNeT2tYpuBS5u"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128618,
+      "name": "Woh Raat Bhi",
+      "url": "https://open.spotify.com/track/7j7uar9Objj0cAyhgkwWK0"
     },
     {
       "album": {

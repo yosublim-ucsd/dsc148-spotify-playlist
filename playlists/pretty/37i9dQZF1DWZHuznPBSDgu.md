@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,472 likes - 103 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,503 likes - 103 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sakura, Hirari](https://open.spotify.com/track/3A1SAiF3EGsS11vHxq53Sc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Sakura, Hirari](https://open.spotify.com/album/59EemgW0GWvqjkS31pB8tL) | 4:06 |
+| 1 | [桜、ひらり](https://open.spotify.com/track/3W4gHflGqzUCFqwhm5aQjA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [桜、ひらり](https://open.spotify.com/album/3nKDMfAxhPznHcMZzx6b2c) | 4:06 |
 | 2 | [ジャンヌ・ダルクによろしく](https://open.spotify.com/track/6Ml2pFUdOxfmLmKMbJM9Ou) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ジャンヌ・ダルクによろしく](https://open.spotify.com/album/4Nf7lVjQa2vi4Ad18oqiD4) | 3:49 |
 | 3 | [恋のブギウギナイト](https://open.spotify.com/track/2rufq31NDNGXuT92QCmCzR) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [恋のブギウギナイト](https://open.spotify.com/album/1DXUY10rDL66liqdW2ShDz) | 4:59 |
 | 4 | [Relay～杜の詩](https://open.spotify.com/track/00L4r4akuKxe9s1Vr0v58j) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Relay～杜の詩](https://open.spotify.com/album/3zn9dmuMkn7RKaVmWQgMR1) | 3:59 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 102 | [瞳の中にレインボウ](https://open.spotify.com/track/67Vem8LNv1WuUCAdubOb3d) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [熱い胸さわぎ](https://open.spotify.com/album/35lVeQiY2JsnKUiWCPGtre) | 4:51 |
 | 103 | [死体置場でロマンスを \[2024 Remaster\]](https://open.spotify.com/track/5ihNyGkx0BiiWInTkMZlQr) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA \[2024 Remaster\]](https://open.spotify.com/album/1yGaFnbdndU5RVvHc28PMK) | 3:59 |
 
-Snapshot ID: `Z3QG+AAAAADracBBEQAv+y19sD7hgI9r`
+Snapshot ID: `Z3uppwAAAACo7WKfzCFd126EJlY6XMHd`

@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-265 songs - 17 hr 5 min
+268 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Diamonds in the rough](https://open.spotify.com/track/0DltlSIHRJQR74DKrk9dvB) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Diamonds in the rough](https://open.spotify.com/album/2KSmHJMcHT22zT4qbXj5nz) | 3:36 | 2023-10-19 |  |
 | [Do You Really](https://open.spotify.com/track/4vt4JoGfQ1QaDeHXKxTpUI) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Do You Really](https://open.spotify.com/album/176nPDYntjkybucUj1VlJt) | 3:30 | 2021-12-13 | 2022-10-01 |
 | [Do You?](https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i) | [GaryOAKland](https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07), [Lee Brave](https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp) | [Do You?](https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB) | 3:12 | 2021-12-13 | 2024-06-29 |
+| [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 | 2025-01-06 |  |
 | [Downright](https://open.spotify.com/track/030k1bb2qwKTsBxPskfkB1) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Downright](https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE) | 2:57 | 2022-10-14 |  |
 | [Elusive](https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [David Ngyah](https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c) | [Elusive](https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK) | 3:42 | 2021-12-13 | 2023-10-04 |
 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 | 2021-12-13 | 2024-09-21 |
@@ -87,6 +88,7 @@
 | [Good Heart Bad Place](https://open.spotify.com/track/7F1lIW0T93reSdfPndSP4Y) | [Nathan Badu](https://open.spotify.com/artist/3IjtugjO4uMXKRiNDmyAWY) | [Good Heart Bad Place](https://open.spotify.com/album/7sydmVeEkWKMPAuVbDLYTA) | 2:56 | 2024-12-20 |  |
 | [Good Morning \(Mndsgn Remix\)](https://open.spotify.com/track/7qzCsFUXg9ov9eQ78BQQdl) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Good Morning](https://open.spotify.com/album/7HMmYIvxb5w3Ql5n6CMR2U) | 3:25 | 2021-12-13 | 2024-02-24 |
 | [Good to Be Home \(feat\. Tom Misch, Loyle Carner & Rebel Kleff\)](https://open.spotify.com/track/2Sh3g3NaqkD23mZ6Ugfrsq) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Rebel Kleff](https://open.spotify.com/artist/4IZnj59pur7nfqpdGzuPF6) | [Good to Be Home \(feat\. Tom Misch, Loyle Carner & Rebel Kleff\)](https://open.spotify.com/album/5tbvov0fii1eMXkTYZmVdp) | 4:23 | 2021-12-13 | 2022-10-31 |
+| [Goodlife](https://open.spotify.com/track/6p1b9DwuReewsXztMdoLbv) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Goodlife](https://open.spotify.com/album/4OY2sl7oHsDKZZE7H4v6Y7) | 3:18 | 2025-01-06 |  |
 | [Gotta Go Fast](https://open.spotify.com/track/0yllAviuNZVu1s1HPC7uhV) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Poppy Daniels](https://open.spotify.com/artist/5p4U401vBELQ6nbYLJHm3Z) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:50 | 2022-12-05 |  |
 | [Grace](https://open.spotify.com/track/3JLzTwLuKBTcxrua5PeLfV) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Grace](https://open.spotify.com/album/4THpDYXZbqfMLYnQvoPs1t) | 3:25 | 2021-12-13 | 2022-07-29 |
 | [Grace](https://open.spotify.com/track/5RNALwTBXcWvRek9SFDsWM) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Grace](https://open.spotify.com/album/65zVSQMZx5QUNzKtjhevRX) | 3:25 | 2022-07-05 | 2023-10-04 |
@@ -121,6 +123,7 @@
 | [Keep Your Head Up](https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Keep Your Head Up](https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb) | 2:59 | 2024-04-11 |  |
 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 | 2022-10-10 | 2024-02-24 |
 | [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2021-12-13 | 2022-10-13 |
+| [Le Départ \- Feat\. Durand Bernarr](https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Lotus Glow \(Deluxe\)](https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le) | 3:09 | 2025-01-06 |  |
 | [LIA](https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m) | 3:38 | 2021-12-13 | 2024-09-21 |
 | [LIA](https://open.spotify.com/track/76F5aEqRgxaUE34JX3g78g) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/34cWIUEnueKa9rQcXsXF4Q) | 3:38 | 2022-07-05 | 2022-12-09 |
 | [LIA](https://open.spotify.com/track/79yUKmyrDvi1QFVaqo9DIL) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [LIA](https://open.spotify.com/album/21Dh5zHvadr9S2b31QR2ok) | 3:38 | 2022-12-05 | 2024-04-19 |

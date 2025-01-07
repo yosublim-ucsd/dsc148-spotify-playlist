@@ -355,6 +355,32 @@
     },
     {
       "album": {
+        "name": "Angel in the Dark",
+        "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199335,
+      "name": "Angel in the Dark",
+      "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
+    },
+    {
+      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
@@ -977,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "DAMAGE (Felix Cartal Remix)",
+        "url": "https://open.spotify.com/album/1PuUDJtuwxoSc5PxeJtwaV"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171993,
+      "name": "DAMAGE - Felix Cartal Remix",
+      "url": "https://open.spotify.com/track/1DbQNsA5SM9s30v6m6TvYC"
+    },
+    {
+      "album": {
         "name": "DAMN! (with Teezo Touchdown)",
         "url": "https://open.spotify.com/album/7ARAzn1fkDn5XsAk2gRhfL"
       },
@@ -1326,7 +1374,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
@@ -3910,7 +3958,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 175312,
       "name": "Pictures Of You",
       "url": "https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc"
@@ -4421,6 +4469,28 @@
     },
     {
       "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+    },
+    {
+      "album": {
         "name": "Scout",
         "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
       },
@@ -4572,6 +4642,28 @@
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "album": {
+        "name": "Showstopper (Feat. AJ Tracey) [Remix]",
+        "url": "https://open.spotify.com/album/6ayHvDamcngmka9d5Bms1l"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158708,
+      "name": "Showstopper (Feat. AJ Tracey) - Remix",
+      "url": "https://open.spotify.com/track/2wVGQRIr9TAEAHH8QqzfOE"
     },
     {
       "album": {

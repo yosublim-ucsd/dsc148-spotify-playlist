@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62075,
+  "num_followers": 62086,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3eQtAAAAAAUrV67+M0RQ/0980p3Yox+",
+  "snapshot_id": "Z3uQpgAAAADf1OzuBRXCSo7QGF8gqE+h",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -73,6 +73,74 @@
       "url": "https://open.spotify.com/track/14rj2yQ9e9S64Cumg8HUZX"
     },
     {
+      "added_at": "2025-01-06 08:11:30",
+      "album": {
+        "name": "Hukka Eli (From \"Rudhra Garuda Purana\")",
+        "url": "https://open.spotify.com/album/2gAmEcOSGfVPlKyMQTgMpC"
+      },
+      "artists": [
+        {
+          "name": "K.P.",
+          "url": "https://open.spotify.com/artist/5WRI9ZXZYvXG4hPvln546A"
+        },
+        {
+          "name": "Manju Mandavya",
+          "url": "https://open.spotify.com/artist/3jFfWqaQTwiDPecjW2Q8i2"
+        },
+        {
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Hukka Eli (From \"Rudhra Garuda Purana\")",
+      "url": "https://open.spotify.com/track/4seR4tRnj1wqw413Q3qTbG"
+    },
+    {
+      "added_at": "2025-01-06 08:13:26",
+      "album": {
+        "name": "Nooru Koti Devaru (From \"Royal\")",
+        "url": "https://open.spotify.com/album/49BC68BVEVwoeJoHqAgCtu"
+      },
+      "artists": [
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        },
+        {
+          "name": "Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/6lrCTZhkKcQbRjtfXZZbdP"
+        }
+      ],
+      "duration_ms": 179217,
+      "name": "Nooru Koti Devaru (From \"Royal\")",
+      "url": "https://open.spotify.com/track/4mup6R9YRYtfTSeTHJkVWa"
+    },
+    {
+      "added_at": "2025-01-06 08:12:37",
+      "album": {
+        "name": "Manamohaka (From \"BEGURU Colony\")",
+        "url": "https://open.spotify.com/album/3j8DaK8jGdHjSm1XUYvGLK"
+      },
+      "artists": [
+        {
+          "name": "Srilakshmi Belmannu",
+          "url": "https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya"
+        },
+        {
+          "name": "Abhinandan Kashyap",
+          "url": "https://open.spotify.com/artist/1V6A4aayMYPUr5tLVKmrQA"
+        }
+      ],
+      "duration_ms": 124861,
+      "name": "Manamohaka (From \"BEGURU Colony\")",
+      "url": "https://open.spotify.com/track/52oDtFRSHXnf0fH8KjRb7H"
+    },
+    {
       "added_at": "2025-01-02 05:24:54",
       "album": {
         "name": "Shiva Shiva (From \"KD\") [Kannada]",
@@ -119,6 +187,26 @@
       "duration_ms": 252941,
       "name": "Hoo Dumbi (From \"Manada Kadalu\")",
       "url": "https://open.spotify.com/track/5zqb5RrXhjFvtIBPaWmasb"
+    },
+    {
+      "added_at": "2025-01-06 08:12:37",
+      "album": {
+        "name": "Hejjeye Roopisu (From \"Nodidavaru Enantare\")",
+        "url": "https://open.spotify.com/album/31sI1tBL2HY5m4BmPKj2zt"
+      },
+      "artists": [
+        {
+          "name": "Mayuresh Adhikari",
+          "url": "https://open.spotify.com/artist/5tXCpOrFyQdIaV9NJySLRT"
+        },
+        {
+          "name": "Jayant Kaikini",
+          "url": "https://open.spotify.com/artist/5p4VpAZm4FEyAeNDELFAMB"
+        }
+      ],
+      "duration_ms": 151838,
+      "name": "Hejjeye Roopisu (From \"Nodidavaru Enantare\")",
+      "url": "https://open.spotify.com/track/3UiP3sAyTlsiP6bHNwIZ5v"
     },
     {
       "added_at": "2025-01-02 05:25:37",
@@ -1683,102 +1771,6 @@
       "duration_ms": 239416,
       "name": "Anthem Of Martin (From \"Martin\") (Kannada)",
       "url": "https://open.spotify.com/track/4afXxPuT4KFDtDrEIPncyL"
-    },
-    {
-      "added_at": "2024-11-05 10:57:46",
-      "album": {
-        "name": "Naa Ninage Nee Nanage (From \"Maryade Prashne\")",
-        "url": "https://open.spotify.com/album/152V86kXbJEWHXRMT6F3mN"
-      },
-      "artists": [
-        {
-          "name": "Arjun Ramu",
-          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
-        },
-        {
-          "name": "Pramod Maravanthe",
-          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
-        },
-        {
-          "name": "Vasuki Vaibhav",
-          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
-        },
-        {
-          "name": "Srilakshmi Belmannu",
-          "url": "https://open.spotify.com/artist/0N0WEDkRmqtpjlRYtBLoya"
-        }
-      ],
-      "duration_ms": 216576,
-      "name": "Naa Ninage Nee Nanage (From \"Maryade Prashne\")",
-      "url": "https://open.spotify.com/track/0srfoWA48TRiEriW9aQWDQ"
-    },
-    {
-      "added_at": "2024-09-30 06:43:35",
-      "album": {
-        "name": "Mogachi (From \"Murphy\")",
-        "url": "https://open.spotify.com/album/608Mzx1kAwEwLEfJccWYIK"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Rajat Hegde",
-          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
-        },
-        {
-          "name": "Nadia Rebelo",
-          "url": "https://open.spotify.com/artist/1ebUN4cXj2yYORWOojeU9p"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Mogachi (From \"Murphy\")",
-      "url": "https://open.spotify.com/track/6PD9exSQzp6pz2qPwF8uol"
-    },
-    {
-      "added_at": "2024-11-05 10:57:17",
-      "album": {
-        "name": "Kanasidu Karagide (From \"Dil Kush\")",
-        "url": "https://open.spotify.com/album/6sggOjI4LZkeJP61nbejQT"
-      },
-      "artists": [
-        {
-          "name": "Prasad K Shetty",
-          "url": "https://open.spotify.com/artist/20uxeH7uGGbhMA8RqEjUf4"
-        },
-        {
-          "name": "Manju N",
-          "url": "https://open.spotify.com/artist/5eDphRSC6ncbig1N2lm11I"
-        },
-        {
-          "name": "Mallika Matti",
-          "url": "https://open.spotify.com/artist/4Xk6OszWpduC3wOjYoIhls"
-        }
-      ],
-      "duration_ms": 107234,
-      "name": "Kanasidu Karagide (From \"Dil Kush\")",
-      "url": "https://open.spotify.com/track/2245COk0fqKMFahybvLcUV"
-    },
-    {
-      "added_at": "2024-10-17 10:59:41",
-      "album": {
-        "name": "Rudhira Dhaara (From \"Bagheera\")",
-        "url": "https://open.spotify.com/album/3Ra0Qz9fidRkPvK1fNJJXb"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        }
-      ],
-      "duration_ms": 208771,
-      "name": "Rudhira Dhaara (From \"Bagheera\")",
-      "url": "https://open.spotify.com/track/6ZnZiWSm6qorv2YH1nqQS1"
     }
   ],
   "unique_name": "Latest Kannada",

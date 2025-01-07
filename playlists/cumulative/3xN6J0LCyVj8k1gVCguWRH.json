@@ -5229,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "At a Opp",
+        "url": "https://open.spotify.com/album/0J9Ad0y3Yva5tSOTeJHHp2"
+      },
+      "artists": [
+        {
+          "name": "E Banks",
+          "url": "https://open.spotify.com/artist/1444IIRqVm9Okap1hfpg93"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "At a Opp",
+      "url": "https://open.spotify.com/track/6KxS6U4QHTAj2byFYIfegg"
+    },
+    {
+      "album": {
         "name": "Atlantic City",
         "url": "https://open.spotify.com/album/1PweqHI1YcNT4gfwyZDCWp"
       },
@@ -7418,7 +7436,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 185330,
       "name": "Bello",
       "url": "https://open.spotify.com/track/1AfApkGhtPW2rMeiEf2uee"
@@ -18352,6 +18370,24 @@
       "duration_ms": 147918,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/2RhTb78OPVZ7OrINB6nBBM"
+    },
+    {
+      "album": {
+        "name": "Diff mofo",
+        "url": "https://open.spotify.com/album/3ceYheAJH3sPhe9XUFrVAB"
+      },
+      "artists": [
+        {
+          "name": "Warvet Da Rappa",
+          "url": "https://open.spotify.com/artist/7JsTSKgRkTMczmzjuwVUip"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111071,
+      "name": "Diff mofo",
+      "url": "https://open.spotify.com/track/7A6NQQBVTRkbbVNHHbDwkb"
     },
     {
       "album": {
@@ -63407,6 +63443,24 @@
     },
     {
       "album": {
+        "name": "Shordy",
+        "url": "https://open.spotify.com/album/7sQWo776oc5axyNsPulPfs"
+      },
+      "artists": [
+        {
+          "name": "RukeepsitTrue",
+          "url": "https://open.spotify.com/artist/6Fq6x9lVB1lYl2QK5Rk7ou"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189958,
+      "name": "Shordy",
+      "url": "https://open.spotify.com/track/1MJyF1eq4oHu1mhF4NzlQR"
+    },
+    {
+      "album": {
         "name": "Shorty",
         "url": "https://open.spotify.com/album/1O7o33t66bdLU1SbtxAqcT"
       },
@@ -69615,6 +69669,24 @@
     },
     {
       "album": {
+        "name": "TAKE IT LOW",
+        "url": "https://open.spotify.com/album/4D4ul6wAEssR7iW9SvR8mQ"
+      },
+      "artists": [
+        {
+          "name": "J hickey",
+          "url": "https://open.spotify.com/artist/3kmxZBWMS8Vx2XOUyOWTnH"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117655,
+      "name": "TAKE IT LOW",
+      "url": "https://open.spotify.com/track/4WPQhEAZXoIue92YY4sWKA"
+    },
+    {
+      "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/2zoGlSptiXwk1ev1wzfF4K"
       },
@@ -74392,6 +74464,24 @@
       "duration_ms": 231000,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/1iOSzarYWyOGSkH5JonXQG"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/5hpaTxWSYBeqBEBkJPqfjL"
+      },
+      "artists": [
+        {
+          "name": "rplayin",
+          "url": "https://open.spotify.com/artist/4vS4ho43JpE1NbaXMU4cOy"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228639,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/7Eb59SCJt2AaeJG5vPfq19"
     },
     {
       "album": {
@@ -81142,6 +81232,28 @@
       "duration_ms": 147992,
       "name": "Woke Up",
       "url": "https://open.spotify.com/track/0yIqvF6Tv9C30j2HIAM94p"
+    },
+    {
+      "album": {
+        "name": "Apparitions",
+        "url": "https://open.spotify.com/album/38CUUPaFqZCjmYQxSgmDwF"
+      },
+      "artists": [
+        {
+          "name": "Vendetta the Vision",
+          "url": "https://open.spotify.com/artist/2oih4WdVd4dkPPhrD0TGbQ"
+        },
+        {
+          "name": "MirandaLynn",
+          "url": "https://open.spotify.com/artist/11G0XAunEV5fqEBpD1qhVG"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203806,
+      "name": "Wolf + Moon",
+      "url": "https://open.spotify.com/track/7pcYVrAMdb9R7LP3DqUUDc"
     },
     {
       "album": {

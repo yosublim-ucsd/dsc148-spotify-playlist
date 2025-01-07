@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-143 songs - 7 hr 1 min
+144 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/track/39uuqD3qzHp5qPRONIrgSe) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/album/4jYN9icTE1NDqCSE0YvHVB) | 0:49 | 2023-10-03 | 2023-11-23 |
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 | 2024-04-07 |
 | [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 | 2024-10-24 | 2024-11-28 |
+| [Aukhe Saukhe](https://open.spotify.com/track/0JNOGqfKGQ7zbcNhrSfQ6v) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Aukhe Saukhe](https://open.spotify.com/album/3Y6tIiGDHeZTQjGjYzQspr) | 2:19 | 2025-01-06 |  |
 | [Bad Company](https://open.spotify.com/track/30zRC8Lm6rXgCauxTnazbc) | [Jodha](https://open.spotify.com/artist/4lW5ng5q45zXLg4FeGwcFs), [ITS VIBEE](https://open.spotify.com/artist/1UZc3uZyScqHHUTRrzbbVB) | [Bad Company](https://open.spotify.com/album/0rsXdSK6e9S9YT5DjZPaLC) | 3:08 | 2024-10-04 | 2024-10-23 |
 | [Balle Jatta](https://open.spotify.com/track/3TMub7U6GmZ9RIaQpQerbZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Balle Jatta](https://open.spotify.com/album/5TSOrVokaOvXbRXJOkJ1b5) | 3:32 | 2023-07-18 | 2024-07-02 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-07-18 | 2024-09-12 |
@@ -135,7 +136,7 @@
 | [Sunke](https://open.spotify.com/track/5G0seszeGo0yaWF4UlnVTq) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Sunke](https://open.spotify.com/album/29tL8p9u0WlMEFaaArdBq4) | 2:39 | 2024-11-20 |  |
 | [SWITCHIN' LANES](https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:12 | 2023-07-18 | 2024-07-27 |
 | [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2023-07-18 | 2024-11-21 |
-| [Target](https://open.spotify.com/track/5zpRdQxwh5gsdF4pH4ZAyL) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo), [Savvy Sandhu](https://open.spotify.com/artist/7JNNQOhXwS5i8ENCGLBUgo) | [Target](https://open.spotify.com/album/4T6fHklPf7jjGYf4LeRlG4) | 2:57 | 2024-12-12 |  |
+| [Target](https://open.spotify.com/track/5zpRdQxwh5gsdF4pH4ZAyL) | [Baaghi](https://open.spotify.com/artist/5BrUvwny26mMtvSDXCLxwo), [Savvy Sandhu](https://open.spotify.com/artist/7JNNQOhXwS5i8ENCGLBUgo) | [Target](https://open.spotify.com/album/4T6fHklPf7jjGYf4LeRlG4) | 2:57 | 2024-12-12 | 2025-01-07 |
 | [Taur](https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Sidhuan De Munde](https://open.spotify.com/album/3oTPgv4PbK4loiyz4yT2pZ) | 2:48 | 2023-07-18 | 2024-08-31 |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-07-18 |  |
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-07-18 |  |

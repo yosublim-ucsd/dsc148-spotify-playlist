@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ...så blev det nye år skudt af med private party 💦 <a href="spotify:artist:3pJK3CUpbnyX7ogDfAwa9J">Tessa</a> / <a href="spotify:artist:3zuy1LOMq0y8aHZn4Ogax0">Rune Rask</a> / <a href="spotify:artist:1pPNZapO1Qthbd90B1LlOS">Klamfyr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,894 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,902 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

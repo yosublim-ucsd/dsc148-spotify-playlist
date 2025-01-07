@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-502 songs - 1 day 4 hr 54 min
+503 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 | 2024-12-18 |  |
 | [Chained To The Rhythm](https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:57 | 2024-03-21 | 2024-12-21 |
 | [Change the World](https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/0mXhAwNI5H6URJLPy0rXUe) | 3:54 | 2023-02-23 | 2024-04-19 |
-| [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 | 2024-11-08 |  |
+| [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 | 2024-11-08 | 2025-01-07 |
 | [Changes](https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha) | 3:23 | 2024-03-21 | 2024-04-19 |
 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2023-02-23 | 2023-04-13 |
 | [Choose \(feat\. Hamo Dell\)](https://open.spotify.com/track/1OhrU4btsMvWXcRn5xB70k) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2) | [Choose \(feat\. Hamo Dell\)](https://open.spotify.com/album/4vtMm4TwL0JVCG1DzpWd0b) | 3:49 | 2023-02-23 | 2023-04-26 |
@@ -144,6 +144,7 @@
 | [Finding Out More](https://open.spotify.com/track/5Ur5a9sA6N9TGUDrQJsTxh) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:23 | 2023-02-23 | 2024-03-27 |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2023-02-23 | 2023-04-26 |
 | [First Times](https://open.spotify.com/track/5QYnNhTKsN3kE7OaqILA1U) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:05 | 2023-02-23 |  |
+| [Follow](https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Follow](https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ) | 2:32 | 2025-01-06 |  |
 | [Follow the Sun](https://open.spotify.com/track/5qbxdRAzVZpOE4Nzl1Rc3Z) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Follow The Sun](https://open.spotify.com/album/5IYTQUGdBAkp9r0EmuEk7U) | 3:17 | 2023-02-23 | 2023-08-18 |
 | [Follow the Sun](https://open.spotify.com/track/681CdzPb1nAv2X4dELjOCx) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Follow the Sun](https://open.spotify.com/album/2Oa02DxgF4v5W6QRP0Vmt7) | 3:17 | 2023-08-17 | 2024-03-22 |
 | [Fool For You](https://open.spotify.com/track/0N1QRsfKXJs7uGpzZc58cY) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rolling](https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z) | 3:24 | 2023-04-12 |  |

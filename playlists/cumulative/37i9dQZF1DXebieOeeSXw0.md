@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics 🌴🥥🥭🎶
 
-527 songs - 1 day 19 hr 6 min
+528 songs - 1 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Braulio](https://open.spotify.com/track/3Cq0jVbMYFwx5o1hcTLc3q) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Braulio](https://open.spotify.com/album/0y4taFvYq6a6w8wX4e3nHX) | 4:16 | 2021-12-24 | 2024-04-19 |
 | [Braulio](https://open.spotify.com/track/3QgnOJbiWAx4Cel5QwKtpR) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG) | [Braulio](https://open.spotify.com/album/2psBsYaLAGo1NURYN2ZPwC) | 4:19 | 2021-12-24 | 2024-04-10 |
 | [Braulio el Templao \- El Teso de Braulio](https://open.spotify.com/track/0IRvcjLuhRZN1MtKZe8TBw) | [Mr.Black](https://open.spotify.com/artist/61ILbtwJ8xiy4FG0cAYvvb) | [El Rey del Triqueteo](https://open.spotify.com/album/6gFZeBC49Dqv1X9woMKEGp) | 4:19 | 2021-12-24 |  |
+| [Brunch With Suki](https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Sketches From An Island 2](https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9) | 3:44 | 2025-01-07 |  |
 | [Buena Suerte](https://open.spotify.com/track/1RVRZF17hCk26iGAl0Zgit) | [Las Cuatro Monedas](https://open.spotify.com/artist/66lhsXmHiV0j5gzhDKOFKg) | [Exitos Originales](https://open.spotify.com/album/4gVbrUCBlUDnVhO9f5Lj3X) | 3:28 | 2021-12-24 |  |
 | [Bukom Mashie](https://open.spotify.com/track/3HKj7SOuuY34tRmUq2JAiK) | [Oscar Sulley](https://open.spotify.com/artist/1vAgRdmDHDCYfusYUxurpn) | [Bukom Mashie / Disco Africa \(Soundway Records\)](https://open.spotify.com/album/4dBFFhp5iaEBC5VHv4sl4x) | 5:07 | 2021-12-24 |  |
 | [Bukom Mashie](https://open.spotify.com/track/5IAL1KWSLpzTJO9RV3uqBL) | [Oscar Sulley](https://open.spotify.com/artist/1vAgRdmDHDCYfusYUxurpn), [The Uhuru Dance Band](https://open.spotify.com/artist/3A6AXkcLdIxpp0wv7zJ8ey) | [Bukom Mashie / Disco Africa](https://open.spotify.com/album/7y59jYSfAJwTQnGSmeGQk4) | 5:05 | 2021-12-24 | 2024-04-19 |
@@ -192,7 +193,7 @@
 | [Fiesta En El Barrio](https://open.spotify.com/track/4i0EOHXqts5rkqD71CpZip) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Fiesta En El Barrio](https://open.spotify.com/album/0Wxi9sViEwxU6VJqOsEGDv) | 2:49 | 2021-12-24 |  |
 | [For All It's Worth](https://open.spotify.com/track/27AlFQwk5IYEnflasT0dAK) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 5:35 | 2022-03-30 |  |
 | [Franco de Mi Amor](https://open.spotify.com/track/16pBH895SAUOOfmH1437Vy) | [Seigneur Tabuley Rochereau](https://open.spotify.com/artist/5M5ed7rL1reHLdeq3PokSq) | [Face à face](https://open.spotify.com/album/5H5Shotz5bSAaYl5GZXfVc) | 5:19 | 2021-12-24 | 2024-04-19 |
-| [Franco de mi amor](https://open.spotify.com/track/7iVa48jR5U71WVvSlQVFsm) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Les incontournables du Congo](https://open.spotify.com/album/4eIjaILE7po1msAy4jBKBX) | 5:20 | 2021-12-24 |  |
+| [Franco de mi amor](https://open.spotify.com/track/7iVa48jR5U71WVvSlQVFsm) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a) | [Les incontournables du Congo](https://open.spotify.com/album/4eIjaILE7po1msAy4jBKBX) | 5:20 | 2021-12-24 | 2025-01-07 |
 | [Frio Severo](https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [El Corredor Del Jaguar](https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs) | 3:19 | 2021-12-24 |  |
 | [Fuma el Barco](https://open.spotify.com/track/2PyiIgI2JgHNVgUvf6cIY8) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [The Latin Brothers](https://open.spotify.com/album/30nqVgISOYYypiK99bQOpv) | 5:03 | 2021-12-24 |  |
 | [Fuma el Barco](https://open.spotify.com/track/4FvxeJrTjI1fDAM49mIi3A) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [¡Para Bailar!](https://open.spotify.com/album/371uwra4kQVB4GyUxSSHGs) | 5:04 | 2021-12-24 | 2024-04-19 |

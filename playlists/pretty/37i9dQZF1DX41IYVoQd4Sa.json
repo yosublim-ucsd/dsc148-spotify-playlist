@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e7\u05d5\u05ea\u05d9\u05de\u05d0\u05df ,\u05ea\u05d5\u05de\u05e8 \u05d9\u05d5\u05e1\u05e3 ",
-  "num_followers": 31141,
+  "num_followers": 31145,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2025-01-02 22:01:10",
       "album": {
-        "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
-        "url": "https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12"
+        "name": "\u05dc\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
       },
       "artists": [
         {
-          "name": "Yehudit Ravitz",
-          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
-        },
-        {
-          "name": "Geva Alon",
-          "url": "https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz"
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
         }
       ],
-      "duration_ms": 174585,
-      "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
-      "url": "https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ"
+      "duration_ms": 195000,
+      "name": "\u05dc\u05d9\u05df",
+      "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
     },
     {
       "added_at": "2025-01-02 22:01:10",
@@ -1047,38 +1043,38 @@
     {
       "added_at": "2025-01-02 22:01:10",
       "album": {
-        "name": "\u05dc\u05d9\u05df",
-        "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
+        "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
+        "url": "https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12"
       },
       "artists": [
         {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+          "name": "Yehudit Ravitz",
+          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
+        },
+        {
+          "name": "Geva Alon",
+          "url": "https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz"
         }
       ],
-      "duration_ms": 195000,
-      "name": "\u05dc\u05d9\u05df",
-      "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
+      "duration_ms": 174585,
+      "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
+      "url": "https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ"
     },
     {
       "added_at": "2025-01-02 22:01:10",
       "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/6vZJrvASnU4myYv8AStp54"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
       },
       "artists": [
         {
-          "name": "Roy Avital",
-          "url": "https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP"
-        },
-        {
-          "name": "Grape",
-          "url": "https://open.spotify.com/artist/0laLw89C3JXrpvVEFTr78S"
+          "name": "Yael Deckelbaum",
+          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
         }
       ],
-      "duration_ms": 158641,
-      "name": "Wednesdays",
-      "url": "https://open.spotify.com/track/7xzvAial1zgnpSNF17NP3J"
+      "duration_ms": 167000,
+      "name": "Only Love is Real",
+      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

@@ -726,7 +726,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 168250,
       "name": "A Way Home",
       "url": "https://open.spotify.com/track/4X0WmlJ9fl8O33QvEdPSoK"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 123818,
       "name": "Across the Currents",
       "url": "https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8"
@@ -3974,7 +3974,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 125752,
       "name": "Cascading",
       "url": "https://open.spotify.com/track/3Z481RyDb4PfD4JemWsag6"
@@ -10742,7 +10742,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 143294,
       "name": "Hondura",
       "url": "https://open.spotify.com/track/4s8Y11Sn3fP1aC0b2USbU4"
@@ -12636,7 +12636,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 135923,
       "name": "Ivory Garden",
       "url": "https://open.spotify.com/track/69F9Ga0hAy5RuPgkLzTDUI"
@@ -14314,6 +14314,24 @@
       "duration_ms": 188847,
       "name": "Lifelong Pursuit",
       "url": "https://open.spotify.com/track/2vWLGmSf7Hu8PifGLTsuuu"
+    },
+    {
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/2Wg959wMUN5HG8N5WH17RY"
+      },
+      "artists": [
+        {
+          "name": "Della Valle",
+          "url": "https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193462,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/0yh3jz4zWk3N9nliAqFqEn"
     },
     {
       "album": {
@@ -24052,6 +24070,24 @@
       "duration_ms": 120603,
       "name": "Smukke Sm\u00e5Ting",
       "url": "https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR"
+    },
+    {
+      "album": {
+        "name": "Snow-Bound",
+        "url": "https://open.spotify.com/album/3bRNHXUTWsQJqwN2JImJ0V"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156990,
+      "name": "Snow-Bound",
+      "url": "https://open.spotify.com/track/2nbGR74wIrImIH53b4qtHQ"
     },
     {
       "album": {

@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Squared Roots",
+        "url": "https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428746,
+      "name": "As X Is Y",
+      "url": "https://open.spotify.com/track/3YYrDHL8ZTxBoNE7MqyN34"
+    },
+    {
+      "album": {
         "name": "Early Tape Works 1986 - 1993 Vol. 2",
         "url": "https://open.spotify.com/album/4h1Yp6ITa0R2ZAB9YTsuyL"
       },
@@ -7019,6 +7037,24 @@
     },
     {
       "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6dpeIEtLqTxnB7rfzVvlwz"
+    },
+    {
+      "album": {
         "name": "Adversarial Policies",
         "url": "https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm"
       },
@@ -7556,7 +7592,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 515274,
       "name": "Parlama",
       "url": "https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec"
@@ -11552,7 +11588,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 280554,
       "name": "Visions II",
       "url": "https://open.spotify.com/track/4V60QHlHRyN6U00K3xI7z4"

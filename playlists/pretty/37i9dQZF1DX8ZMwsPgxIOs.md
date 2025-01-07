@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Mha Iri
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,567 likes - 119 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,581 likes - 119 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: BSW
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Lady Gaga, Bruno Mars
 
 87 songs - 4 hr 15 min
 

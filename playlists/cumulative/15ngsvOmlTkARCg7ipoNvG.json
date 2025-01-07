@@ -31027,6 +31027,24 @@
     },
     {
       "album": {
+        "name": "Valley Light",
+        "url": "https://open.spotify.com/album/7uxfhiGLXV1b2CCq9acH5M"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60473,
+      "name": "Valley Light",
+      "url": "https://open.spotify.com/track/6ug48PhguQoZDOfNMiPlcw"
+    },
+    {
+      "album": {
         "name": "Three Lines",
         "url": "https://open.spotify.com/album/7aY2g4RCd4JQKCSSOkDqhx"
       },

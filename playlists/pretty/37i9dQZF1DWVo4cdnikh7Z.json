@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vidaamuyarchi",
-  "num_followers": 689424,
+  "num_followers": 689574,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3aUswAAAABt15VqzskaHgV7lFajKeWV",
+  "snapshot_id": "Z3vYAAAAAACkIar+RZ1m3dwA1D3wIoab",
   "tracks": [
     {
       "added_at": "2024-12-27 07:40:07",
@@ -277,24 +277,28 @@
       "url": "https://open.spotify.com/track/0d8qcb1FslP7TFgUifInjl"
     },
     {
-      "added_at": "2024-11-28 08:00:22",
+      "added_at": "2025-01-06 13:17:52",
       "album": {
-        "name": "The End (From \"Sorgavaasal\")",
-        "url": "https://open.spotify.com/album/6blgkMVDfqg7qlJkcCqJGA"
+        "name": "Kadhale Kadhale",
+        "url": "https://open.spotify.com/album/26tenleMEKorX5Pgh7oT83"
       },
       "artists": [
         {
-          "name": "Christo Xavier",
-          "url": "https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn"
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
         },
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Santhosh Hariharan",
+          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
+        },
+        {
+          "name": "Viyan Pugazhendhi",
+          "url": "https://open.spotify.com/artist/1DlDru2UCX2WBPqHwluwtt"
         }
       ],
-      "duration_ms": 243846,
-      "name": "The End - From \"Sorgavaasal\"",
-      "url": "https://open.spotify.com/track/00nagRSvustzgTDwcSutC4"
+      "duration_ms": 196357,
+      "name": "Ada Velayatta",
+      "url": "https://open.spotify.com/track/5rMW6LvNBHJAlWRmFLo0sP"
     },
     {
       "added_at": "2024-11-27 13:47:57",
@@ -425,96 +429,28 @@
       "url": "https://open.spotify.com/track/6l9Z2ssf0Uh773KeGsukSf"
     },
     {
-      "added_at": "2024-12-20 13:28:50",
+      "added_at": "2024-10-21 14:31:15",
       "album": {
-        "name": "Barroz (Tamil) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/2GFEZ2pEvY0VS6SgIGUsVm"
+        "name": "Yolo (From \"Kanguva\") (Tamil)",
+        "url": "https://open.spotify.com/album/5hwLFTK5OakpRoi1xEvYpx"
       },
       "artists": [
         {
-          "name": "Lydian Nadhaswaram",
-          "url": "https://open.spotify.com/artist/730O8ypsgRAy0fDcOf5HiI"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
         },
         {
-          "name": "Madhu Balakrishnan",
-          "url": "https://open.spotify.com/artist/2qJHWT6Ov9ZZvuQx1h7mNn"
+          "name": "Lavita Lobo",
+          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
         }
       ],
-      "duration_ms": 343304,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/16c73UAbvsRjp745PSkMdf"
-    },
-    {
-      "added_at": "2024-12-24 10:33:22",
-      "album": {
-        "name": "Aaga Indha Raathiri - Tamil Version",
-        "url": "https://open.spotify.com/album/3EkjTH8uAIunkiAwiMmawE"
-      },
-      "artists": [
-        {
-          "name": "M.M.Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
-        },
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Ku Karthik",
-          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
-        },
-        {
-          "name": "Dharan Kumar",
-          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Aaga Indha Raathiri - Tamil Version",
-      "url": "https://open.spotify.com/track/1IW4nVmW8fcsSleTwOFDiB"
-    },
-    {
-      "added_at": "2024-08-30 14:04:37",
-      "album": {
-        "name": "Golden Sparrow (From \"Nilavuku En Mel Ennadi Kobam\")",
-        "url": "https://open.spotify.com/album/09Wjf3AwDGRQrKqddhqHKa"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Golden Sparrow (From \"Nilavuku En Mel Ennadi Kobam\")",
-      "url": "https://open.spotify.com/track/3dHP1GUSR19PB1baWz37LN"
-    },
-    {
-      "added_at": "2024-12-16 06:07:55",
-      "album": {
-        "name": "Veera Dheera Theme (From \"Veera Dheera Sooran\")",
-        "url": "https://open.spotify.com/album/74Kl743x5GWhcGMQ9Jf0iR"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        }
-      ],
-      "duration_ms": 92250,
-      "name": "Veera Dheera Theme - From \"Veera Dheera Sooran\"",
-      "url": "https://open.spotify.com/track/6vf6elFw4xCnGrNpS30ztJ"
+      "duration_ms": 238384,
+      "name": "Yolo (From \"Kanguva\") (Tamil)",
+      "url": "https://open.spotify.com/track/0CQ370qUqv9CFblMQZpu2v"
     },
     {
       "added_at": "2024-11-25 06:15:37",
@@ -557,6 +493,22 @@
       "url": "https://open.spotify.com/track/26LPkmgujMTneNIeSPLKw1"
     },
     {
+      "added_at": "2024-12-16 06:07:55",
+      "album": {
+        "name": "Veera Dheera Theme (From \"Veera Dheera Sooran\")",
+        "url": "https://open.spotify.com/album/74Kl743x5GWhcGMQ9Jf0iR"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "duration_ms": 92250,
+      "name": "Veera Dheera Theme - From \"Veera Dheera Sooran\"",
+      "url": "https://open.spotify.com/track/6vf6elFw4xCnGrNpS30ztJ"
+    },
+    {
       "added_at": "2024-12-10 12:18:24",
       "album": {
         "name": "Kaadhal Sadugudu (From \"Madraskaaran\")",
@@ -581,32 +533,52 @@
       "url": "https://open.spotify.com/track/6UeTfjx90nKL4CdRaGUGON"
     },
     {
-      "added_at": "2024-12-24 10:34:53",
+      "added_at": "2025-01-06 13:17:52",
       "album": {
-        "name": "Hot'tu Mamma (From \"Max\") (Tamil)",
-        "url": "https://open.spotify.com/album/4OduR1NeG0fRsRbt5g4aI1"
+        "name": "Pushpa 2 The Rule [TAMIL]",
+        "url": "https://open.spotify.com/album/2QKBADDj77SOJ5CUriLjzk"
       },
       "artists": [
         {
-          "name": "B.Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
         },
         {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
         },
         {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
         },
         {
-          "name": "Vijay Kartikeyaa",
-          "url": "https://open.spotify.com/artist/1f9mvJjMvHo8wur1MpSio1"
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
         }
       ],
-      "duration_ms": 183408,
-      "name": "Hot'tu Mamma (From \"Max\") (Tamil)",
-      "url": "https://open.spotify.com/track/6ePYYH0wZLtRbcUleR9O24"
+      "duration_ms": 256068,
+      "name": "Pushpa Pushpa [TAMIL]",
+      "url": "https://open.spotify.com/track/2xmOtvE9CF56FXrsPeXPC5"
+    },
+    {
+      "added_at": "2025-01-06 13:17:52",
+      "album": {
+        "name": "Kaatrin Viral (From \"Aghathiyaa\")",
+        "url": "https://open.spotify.com/album/6HFzf6hEEl6OTnKyN7aday"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Pa. Vijay",
+          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Kaatrin Viral (From \"Aghathiyaa\")",
+      "url": "https://open.spotify.com/track/5tanIBVGuuHD1pH4Yb7b98"
     },
     {
       "added_at": "2024-10-04 14:40:22",
@@ -705,28 +677,56 @@
       "url": "https://open.spotify.com/track/2AUMBf2OyuGZH0f88JPYGQ"
     },
     {
-      "added_at": "2024-10-21 14:31:15",
+      "added_at": "2025-01-06 13:17:52",
       "album": {
-        "name": "Yolo (From \"Kanguva\") (Tamil)",
-        "url": "https://open.spotify.com/album/5hwLFTK5OakpRoi1xEvYpx"
+        "name": "Kadhale Kadhale",
+        "url": "https://open.spotify.com/album/26tenleMEKorX5Pgh7oT83"
       },
       "artists": [
         {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
         },
         {
-          "name": "Lavita Lobo",
-          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
         },
         {
-          "name": "Viveka",
-          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+          "name": "Viyan Pugazhendhi",
+          "url": "https://open.spotify.com/artist/1DlDru2UCX2WBPqHwluwtt"
         }
       ],
-      "duration_ms": 238384,
-      "name": "Yolo (From \"Kanguva\") (Tamil)",
-      "url": "https://open.spotify.com/track/0CQ370qUqv9CFblMQZpu2v"
+      "duration_ms": 185324,
+      "name": "Kadhale Kadhale Title Track",
+      "url": "https://open.spotify.com/track/5juWX1QtIscougyDs7aA0x"
+    },
+    {
+      "added_at": "2024-12-24 10:34:53",
+      "album": {
+        "name": "Hot'tu Mamma (From \"Max\") (Tamil)",
+        "url": "https://open.spotify.com/album/4OduR1NeG0fRsRbt5g4aI1"
+      },
+      "artists": [
+        {
+          "name": "B.Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Vijay Kartikeyaa",
+          "url": "https://open.spotify.com/artist/1f9mvJjMvHo8wur1MpSio1"
+        }
+      ],
+      "duration_ms": 183408,
+      "name": "Hot'tu Mamma (From \"Max\") (Tamil)",
+      "url": "https://open.spotify.com/track/6ePYYH0wZLtRbcUleR9O24"
     },
     {
       "added_at": "2024-12-10 11:36:06",
@@ -801,28 +801,28 @@
       "url": "https://open.spotify.com/track/0EvlR7AONHr9BcsFp1QOGE"
     },
     {
-      "added_at": "2024-09-20 05:38:18",
+      "added_at": "2025-01-06 13:17:52",
       "album": {
-        "name": "Hunter Vantaar (From \"Vettaiyan\")",
-        "url": "https://open.spotify.com/album/6CY60Vp4NLViTNb9dtijBq"
+        "name": "Kadhale Kadhale",
+        "url": "https://open.spotify.com/album/26tenleMEKorX5Pgh7oT83"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
         },
         {
-          "name": "Siddharth Basrur",
-          "url": "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
         },
         {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+          "name": "Viyan Pugazhendhi",
+          "url": "https://open.spotify.com/artist/1DlDru2UCX2WBPqHwluwtt"
         }
       ],
-      "duration_ms": 192631,
-      "name": "Hunter Vantaar (From \"Vettaiyan\")",
-      "url": "https://open.spotify.com/track/3h9UdkxpoUQxNqS8IeTC4Z"
+      "duration_ms": 187833,
+      "name": "Minnal Nooru",
+      "url": "https://open.spotify.com/track/4sEuL08MfPY4LGJdHjGfRU"
     },
     {
       "added_at": "2024-12-11 13:33:02",
@@ -917,10 +917,10 @@
       "url": "https://open.spotify.com/track/3PhVBaXoFaFVNFuBimI7VX"
     },
     {
-      "added_at": "2024-09-11 04:31:03",
+      "added_at": "2024-10-14 14:49:13",
       "album": {
-        "name": "Manasilaayo (From \"Vettaiyan\")",
-        "url": "https://open.spotify.com/album/1EWbkJ8zew7sXQnCbKI0Xz"
+        "name": "Vettaiyan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Xw7XAQQwpsy9KfUnJTrHz"
       },
       "artists": [
         {
@@ -928,53 +928,37 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
+          "name": "Amogh Balaji",
+          "url": "https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz"
+        },
+        {
           "name": "Malaysia Vasudevan",
           "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
-        },
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        },
-        {
-          "name": "Yugendran Vasudevan",
-          "url": "https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ"
         }
       ],
-      "duration_ms": 235629,
-      "name": "Manasilaayo (From \"Vettaiyan\")",
-      "url": "https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3"
+      "duration_ms": 153750,
+      "name": "Clean Shot",
+      "url": "https://open.spotify.com/track/3aZbb9vTLHt583kcSXw1lh"
     },
     {
-      "added_at": "2024-08-31 13:07:03",
+      "added_at": "2024-11-04 13:36:26",
       "album": {
-        "name": "Matta (From \"The Greatest Of All Time\")",
-        "url": "https://open.spotify.com/album/6Iajx5eba54JLTDf97Me8p"
+        "name": "Paiya Dei (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40"
       },
       "artists": [
         {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
         },
         {
-          "name": "Shenbagaraj",
-          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
-        },
-        {
-          "name": "Velu",
-          "url": "https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4"
-        },
-        {
-          "name": "Sam",
-          "url": "https://open.spotify.com/artist/5LTCGDYmszZxu2ybzDfb05"
-        },
-        {
-          "name": "Narayanan Ravishankar",
-          "url": "https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD"
+          "name": "Anand Kashinath",
+          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
         }
       ],
-      "duration_ms": 212090,
-      "name": "Matta (From \"The Greatest Of All Time\")",
-      "url": "https://open.spotify.com/track/0xN4nwgOWg59k0t94CJAj4"
+      "duration_ms": 155400,
+      "name": "Paiya Dei - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN"
     },
     {
       "added_at": "2024-11-09 03:34:59",
@@ -1019,6 +1003,22 @@
       "duration_ms": 222206,
       "name": "Kolladhey",
       "url": "https://open.spotify.com/track/1Dgkf6dSvO5Sx60WtxLNIf"
+    },
+    {
+      "added_at": "2025-01-06 13:17:52",
+      "album": {
+        "name": "Vidaamuyarchi Theme (From \"Vidaamuyarchi\")",
+        "url": "https://open.spotify.com/album/5wvo1WUmTzaIOOBuErUNq5"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 96521,
+      "name": "Vidaamuyarchi Theme (From \"Vidaamuyarchi\")",
+      "url": "https://open.spotify.com/track/79E8OWqnXS94tghoQH4xtz"
     },
     {
       "added_at": "2024-11-17 06:59:40",
@@ -1077,30 +1077,6 @@
       "url": "https://open.spotify.com/track/6BHnAPTG2hyOqM2gLO2rt5"
     },
     {
-      "added_at": "2024-10-14 14:49:13",
-      "album": {
-        "name": "Vettaiyan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Xw7XAQQwpsy9KfUnJTrHz"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Amogh Balaji",
-          "url": "https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz"
-        },
-        {
-          "name": "Malaysia Vasudevan",
-          "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Clean Shot",
-      "url": "https://open.spotify.com/track/3aZbb9vTLHt583kcSXw1lh"
-    },
-    {
       "added_at": "2024-11-17 06:59:40",
       "album": {
         "name": "Amaran (Tamil)",
@@ -1149,24 +1125,32 @@
       "url": "https://open.spotify.com/track/3MDu7jSVmqdDaQhtzj5LCq"
     },
     {
-      "added_at": "2024-11-04 13:36:26",
+      "added_at": "2025-01-06 13:17:52",
       "album": {
-        "name": "Paiya Dei (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40"
+        "name": "Lucky Baskhar (Tamil)",
+        "url": "https://open.spotify.com/album/2lo7j3e8yOdTn0tO2ZYzx5"
       },
       "artists": [
         {
-          "name": "Asal Kolaar",
-          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
-          "name": "Anand Kashinath",
-          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        },
+        {
+          "name": "Vanamali",
+          "url": "https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV"
+        },
+        {
+          "name": "Balaji Venu Gopal",
+          "url": "https://open.spotify.com/artist/046lXWEKWUvcqRRS2pIvj0"
         }
       ],
-      "duration_ms": 155400,
-      "name": "Paiya Dei - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN"
+      "duration_ms": 225091,
+      "name": "Lucky Baskhar Title Track",
+      "url": "https://open.spotify.com/track/2PFfP4I3bOG3cNjWRVUTsz"
     },
     {
       "added_at": "2024-10-17 07:32:15",

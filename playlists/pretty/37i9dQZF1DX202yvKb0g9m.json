@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 130852,
+  "num_followers": 130910,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
+      },
+      "artists": [
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "duration_ms": 511031,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "I Have a Question",
         "url": "https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 259026,
       "name": "I Love Acid",
       "url": "https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
-      },
-      "artists": [
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        }
-      ],
-      "duration_ms": 511031,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
     },
     {
       "added_at": "2024-07-10 08:16:23",

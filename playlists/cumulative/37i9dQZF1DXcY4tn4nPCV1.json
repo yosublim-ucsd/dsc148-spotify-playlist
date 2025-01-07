@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Dancing Light",
+        "url": "https://open.spotify.com/album/69tuCuRBv2FQ5I9k2dfzAO"
+      },
+      "artists": [
+        {
+          "name": "Waqar Jachin",
+          "url": "https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140292,
+      "name": "Dancing Light",
+      "url": "https://open.spotify.com/track/2rfxsIrZkWXDPtRVb738B7"
+    },
+    {
+      "album": {
         "name": "Dandelion Song",
         "url": "https://open.spotify.com/album/26QuZDw2nEtsvVWUUZaLwM"
       },
@@ -6224,6 +6242,24 @@
       "duration_ms": 125603,
       "name": "Smile in the wind",
       "url": "https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm"
+    },
+    {
+      "album": {
+        "name": "Snow-Bound",
+        "url": "https://open.spotify.com/album/3bRNHXUTWsQJqwN2JImJ0V"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156990,
+      "name": "Snow-Bound",
+      "url": "https://open.spotify.com/track/2nbGR74wIrImIH53b4qtHQ"
     },
     {
       "album": {

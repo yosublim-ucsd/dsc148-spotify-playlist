@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXpuQNEd48No.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXpuQNEd48No) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXpuQNEd48No)
 
-### [Rap91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
+### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 

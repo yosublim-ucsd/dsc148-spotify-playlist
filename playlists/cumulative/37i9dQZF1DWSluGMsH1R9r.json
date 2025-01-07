@@ -7621,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Lo",
+          "url": "https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I"
+    },
+    {
+      "album": {
         "name": "N\u00e5r du er n\u00e6r",
         "url": "https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC"
       },

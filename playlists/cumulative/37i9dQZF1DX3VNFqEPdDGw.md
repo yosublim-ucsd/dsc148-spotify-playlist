@@ -4,12 +4,13 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-132 songs - 6 hr 55 min
+133 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2aL7GhTyObaRdWaEi4HVPC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/21rdsrcQ2jxiREmn3uZ7Tp) | 0:00 | 2022-06-28 | 2023-07-27 |
 | [2 Kamm](https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [2 Kamm](https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0) | 2:26 | 2023-09-01 |  |
+| [31,10](https://open.spotify.com/track/6hCJYYohjT9FqR6WZh2ToL) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [31,10](https://open.spotify.com/album/64DXvZLQn47dURuggDCeA5) | 2:44 | 2025-01-06 |  |
 | [315](https://open.spotify.com/track/3RRA9krpuvRVMQVPObOkhH) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Deep Harry](https://open.spotify.com/artist/3CBgusVsS3fDEdPdUFYzpK) | [315](https://open.spotify.com/album/4k9UsTgIbbnFbGzSOHhykG) | 3:15 | 2024-09-16 |  |
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-18 |  |
 | [Ask About Me](https://open.spotify.com/track/1IRqRr6FnqMPPMPgjz7bef) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:19 | 2022-07-05 | 2023-07-27 |
@@ -69,7 +70,7 @@
 | [Jatt Zindabad](https://open.spotify.com/track/4myOU3eWvJzwowuWmjJpop) | [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Manpreet Hans](https://open.spotify.com/artist/0EL0VMv1reqwgvfBSrxWmT), [Laddi Gill](https://open.spotify.com/artist/37TJmJvVHDSI9Ach5Zvs31) | [Jatt Zindabad](https://open.spotify.com/album/7f2gQgBhjK8VVQFLqtm3Fy) | 3:35 | 2024-11-08 |  |
 | [Jattz N The Hood](https://open.spotify.com/track/6a9zSfsN3TUdotZZgrBSOW) | [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [Jattz N The Hood](https://open.spotify.com/album/0tFCloZ4X5sJzG5l5kYJ8M) | 5:23 | 2024-06-03 | 2024-09-29 |
 | [Jhanjraan](https://open.spotify.com/track/5AqIHYrJEIjtUdWw4bl2IM) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Next Chapter](https://open.spotify.com/album/6VQpVZkSWLMEzCVH58THaW) | 2:56 | 2021-12-18 | 2022-01-11 |
-| [Jinni Jatt Di](https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Jinni Jatt Di](https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0) | 2:42 | 2024-09-19 |  |
+| [Jinni Jatt Di](https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Jinni Jatt Di](https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0) | 2:42 | 2024-09-19 | 2025-01-07 |
 | [Johnnie Walker](https://open.spotify.com/track/7tErHOovEq5zRlmod4wrq8) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:09 | 2024-10-10 |  |
 | [Kehra Pind?](https://open.spotify.com/track/4LZjToIdatf8tAZOJmYESl) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Kehra Pind?](https://open.spotify.com/album/6fWvpmIF3EcHIW7bohOBdJ) | 3:32 | 2022-03-02 | 2024-10-11 |
 | [Khabbi Khaan](https://open.spotify.com/track/0TaW40lV72mpo3TJCsTiCJ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Khabbi Khaan](https://open.spotify.com/album/5Cash5ILWkSnb0vybmcktT) | 2:33 | 2022-02-08 |  |

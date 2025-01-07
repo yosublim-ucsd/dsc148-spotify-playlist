@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-542 songs - 23 hr 12 min
+544 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2021-12-07 | 2022-06-08 |
 | [Cyclist Waltz Solo](https://open.spotify.com/track/1mURpkUAqx3EIqHpNV9l8c) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mosi](https://open.spotify.com/album/6s50HIZV1AmlBDOPZTpjjB) | 2:27 | 2021-12-07 | 2022-05-28 |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2021-12-07 | 2023-07-26 |
-| [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 |  |
+| [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 | 2025-01-07 |
 | [Dans vos bras](https://open.spotify.com/track/5qHa8gZdBKxvseAyE2R2qe) | [Orson D'Aubigné](https://open.spotify.com/artist/1TSzEZWmeMMNQE3CwV7Mif) | [Dans vos bras](https://open.spotify.com/album/4HeFEWZ2s6t9u3lIzN6GLL) | 2:38 | 2021-12-07 | 2022-02-16 |
 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 | 2023-05-03 |  |
 | [Darkness of days](https://open.spotify.com/track/7Jo0X730aLdGcB9rgkSOgl) | [Jens Larsson](https://open.spotify.com/artist/35Qsb23bqJr3tzyA7GICWT) | [Darkness of days](https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J) | 3:10 | 2022-10-14 |  |
@@ -190,6 +190,7 @@
 | [Herald](https://open.spotify.com/track/5DmCoazpQN9id60LYIFqCj) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Herald](https://open.spotify.com/album/5l1LblT9yXaajjWm80L68J) | 2:43 | 2023-10-23 |  |
 | [Here Comes the Rain Again](https://open.spotify.com/track/0NKXMhwFfn5mnMhoWFyL3N) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Here Comes the Rain Again](https://open.spotify.com/album/4bmvPZxTLO2LZmSKcQlPIQ) | 2:27 | 2024-08-12 |  |
 | [Heritage](https://open.spotify.com/track/1T5PUpmbV63BiM1Fnjgr3T) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Heritage](https://open.spotify.com/album/0OQEmpVFAKhgTjnrHFksfE) | 2:50 | 2023-11-06 |  |
+| [Hernan's Battle](https://open.spotify.com/track/6NGYWqDGiDbf1O9C4bkoMI) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Hernan's Battle](https://open.spotify.com/album/7Mv3CARwjqFzm8YujrncB7) | 1:55 | 2025-01-06 |  |
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-02-14 | 2024-05-24 |
 | [Hidcote Garden](https://open.spotify.com/track/0sh3udsRO3AesM270ctQZR) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Bathtub Chill](https://open.spotify.com/album/7syBT7D7kHTJEvzterZLVJ) | 2:42 | 2022-10-14 | 2022-11-13 |
 | [Hidcote Garden](https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/2fYza5rMfZ9tAG7NOcfNJq) | 2:42 | 2021-12-07 | 2022-07-29 |
@@ -285,6 +286,7 @@
 | [Léift Nostalgie](https://open.spotify.com/track/2Y9ICJk4tqJ3R4pK4DJv4d) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Léift Nostalgie](https://open.spotify.com/album/40Ab0PYvR6kRWGGvzp4ubK) | 2:39 | 2023-09-05 |  |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-01-04 |  |
 | [Marigold](https://open.spotify.com/track/2lKWcuILwTVURJflD1vka8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Marigold](https://open.spotify.com/album/64jyz6k12xJwCirt5ZIgvb) | 1:55 | 2021-12-07 | 2022-03-17 |
+| [Mariposa De Otoño](https://open.spotify.com/track/5nCzEybBLM2AOmmb8VbBxv) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Mariposa De Otoño](https://open.spotify.com/album/3rLpPFI9dLXM63tp5Mezpy) | 3:05 | 2025-01-06 |  |
 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 | 2022-06-07 | 2023-07-26 |
 | [Maybe One Day](https://open.spotify.com/track/07Er4NE1N681p2e6uHvEVI) | [How It All Ends](https://open.spotify.com/artist/78nAIN5HSq9vvW2NTsnv7j) | [Maybe One Day](https://open.spotify.com/album/7r5CWxx4KhtJGL5x6PrZeB) | 1:47 | 2023-03-21 | 2023-07-19 |
 | [Me And My Piano](https://open.spotify.com/track/2M2AbefWfWKK9Pf08jRAew) | [HRDY](https://open.spotify.com/artist/6NR5GQDkybW9GBp3N9Azn4) | [Me And My Piano](https://open.spotify.com/album/1PjKM6ChtggdF8rlBhe3I1) | 2:30 | 2022-01-04 | 2023-10-05 |
@@ -371,7 +373,7 @@
 | [Patina](https://open.spotify.com/track/3FjHvK6O7529qNnCqDEaFc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Arvid Holst](https://open.spotify.com/artist/51QTBtxREzZTTSqmwmPgpl) | [Patina](https://open.spotify.com/album/03JOXrUPxpvaAsxJ4kTa4X) | 2:02 | 2024-03-19 |  |
 | [Patricia](https://open.spotify.com/track/1lDjAQOvZqzZhGND13qcev) | [Guillaume Poncelet](https://open.spotify.com/artist/1tchnux34dr1K8VevCDxPn) | [Patricia](https://open.spotify.com/album/5KFhOJ8UUxHrF5eVtGZaLN) | 2:56 | 2023-04-03 |  |
 | [Patterns](https://open.spotify.com/track/6ssrsr0MumEjM2CeYioYcU) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [Patterns](https://open.spotify.com/album/6Bmr6r1RUZrMJKbZuRE8Gz) | 2:05 | 2022-05-06 | 2023-10-05 |
-| [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-01 |  |
+| [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-01 | 2025-01-07 |
 | [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-02-01 |  |
 | [Peninsula](https://open.spotify.com/track/4Mdh699pUIURrBHokfrmmE) | [Pio Roque](https://open.spotify.com/artist/4E4gkQpb8xu95BYH9j9hWW) | [Peninsula](https://open.spotify.com/album/5Z02PzorLGCAxWQF157nWa) | 2:08 | 2021-12-07 | 2022-04-15 |
 | [Penumbra](https://open.spotify.com/track/4gLQLTrX35MDaVlFSLPUrg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Penumbra](https://open.spotify.com/album/2ORmDGwBuXes6QBLKF7EAf) | 2:22 | 2023-06-20 |  |
@@ -509,7 +511,7 @@
 | [two wheels north](https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [two wheels north](https://open.spotify.com/album/0jqVQmWlVeyCnRu3zQPxKs) | 2:50 | 2021-12-07 | 2022-05-21 |
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-03-01 | 2022-04-02 |
 | [Underwater](https://open.spotify.com/track/0cUVh5ofEVsK3IiGS4Flii) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Underwater](https://open.spotify.com/album/3OfYsWc5jgdwmYZuQwzn6E) | 2:02 | 2023-10-23 |  |
-| [Une Minute De Plus](https://open.spotify.com/track/4dC7pbM5hJxRvU7BJ4hVWC) | [Aria Abriana](https://open.spotify.com/artist/3HZqJmldxpSFVn5nFMpStc) | [Une Minute De Plus](https://open.spotify.com/album/2vcRB8iRfo9Ri9uHEQdLkK) | 2:26 | 2021-12-07 |  |
+| [Une Minute De Plus](https://open.spotify.com/track/4dC7pbM5hJxRvU7BJ4hVWC) | [Aria Abriana](https://open.spotify.com/artist/3HZqJmldxpSFVn5nFMpStc) | [Une Minute De Plus](https://open.spotify.com/album/2vcRB8iRfo9Ri9uHEQdLkK) | 2:26 | 2021-12-07 | 2025-01-07 |
 | [Unexpected Journey](https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Unexpected Journey](https://open.spotify.com/album/7G4UfvLMGm1QheYzzWrupS) | 2:42 | 2023-09-26 |  |
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2021-12-07 | 2023-05-10 |
 | [Upraise](https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D) | [Eleanor Neylan](https://open.spotify.com/artist/19XUo1Fg2WQ0oO3z0fP1uE) | [Upraise](https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz) | 2:27 | 2021-12-07 | 2022-04-15 |

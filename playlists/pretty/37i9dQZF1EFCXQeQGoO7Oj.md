@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,180 likes - 465 songs - 1 day 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,193 likes - 465 songs - 1 day 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 36 | [How Do You Sleep?](https://open.spotify.com/track/34pRqzRiFcIuyRMuuEayzY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:22 |
 | 37 | [I Kissed A Girl](https://open.spotify.com/track/25ZttbpeUKDOm3aghD2oBJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/1vFFZPioAu0vrJRcGoyGX8) | 2:59 |
 | 38 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:40 |
-| 39 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 |
-| 40 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
+| 39 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
+| 40 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 |
 | 41 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
 | 42 | [Break Free](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:34 |
 | 43 | [California Gurls](https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:54 |
@@ -368,8 +368,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 358 | [Stay My Baby](https://open.spotify.com/track/0YonII18xBlXaIEy2wd4mh) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [iCarly \- Music From and Inspired by the Hit TV Show](https://open.spotify.com/album/0xNAZJ9t4vyY9SNWoZ3rrx) | 3:05 |
 | 359 | [Quit Playing Games \(With My Heart\) \- music underlaying words](https://open.spotify.com/track/7K4soCmLtWWFiECrQjAajz) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Just Mike](https://open.spotify.com/artist/0qnthlpNbMVdAjnb9NiObB) | [Quit Playing Games \(With My Heart\) \[music underlaying words\]](https://open.spotify.com/album/0CZXXBYQteYVfCSb5Wwcfj) | 2:29 |
 | 360 | [Quitter](https://open.spotify.com/track/1AJdT11PD36JF0DHbtYsFL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:40 |
-| 361 | [Into the Nightlife](https://open.spotify.com/track/5sNMvugK74Y1EtpRfBETX6) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Bring Ya To The Brink](https://open.spotify.com/album/3AjLjZYNM0pBO56XfXaye9) | 4:00 |
-| 362 | [Right Type of Mood](https://open.spotify.com/track/4AVRF0HQlBh62hgE3s3R75) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:13 |
+| 361 | [Right Type of Mood](https://open.spotify.com/track/4AVRF0HQlBh62hgE3s3R75) | [HERBIE](https://open.spotify.com/artist/5PfGQ1ZADHPl42iFtJX1wF) | [Fingers](https://open.spotify.com/album/2KkZKAzcM4njK2nD7TGQwA) | 3:13 |
+| 362 | [Into the Nightlife](https://open.spotify.com/track/5sNMvugK74Y1EtpRfBETX6) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [Bring Ya To The Brink](https://open.spotify.com/album/3AjLjZYNM0pBO56XfXaye9) | 4:00 |
 | 363 | [snow angels](https://open.spotify.com/track/7vWS4KiudDKi6VZz8YHjgn) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [hello this is the setlist for my tour](https://open.spotify.com/album/1jUrf0KNgZirx7g7672X0s) | 3:30 |
 | 364 | [Ain't About What You Got \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/3guGgIgmswywnQgOwt5j4E) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [Ain't About What You Got \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/4NENv55iKx77NG6u2WRVKF) | 3:31 |
 | 365 | [I'll Be There for You \- Single Edit](https://open.spotify.com/track/4cgeOQBQzS7x5Bvd8hFO95) | [Solid HarmoniE](https://open.spotify.com/artist/4a7E7K63Sc944CmiOgcxd8) | [Solid Harmonie](https://open.spotify.com/album/3AdywHtCpd76tYihaZzcUH) | 3:11 |
@@ -417,8 +417,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 407 | [Rude Boy](https://open.spotify.com/track/1YZNBgp5Py2dKslyzD6xDL) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6), [Papa Dee](https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:12 |
 | 408 | [I'm Gone, I'm Going](https://open.spotify.com/track/7CP9SPBwTkbURq60Td11JA) | [Lesley Roy](https://open.spotify.com/artist/1hKEBSwDGhKmshGFWiWm7S) | [Unbeautiful](https://open.spotify.com/album/1rHXAzNDnX5EU6eAZo7BWm) | 3:25 |
 | 409 | [NON PUOI LASCIARMI COSI](https://open.spotify.com/track/6uADgZjH3OQaHlPtHwc9wc) | [Giovanni Zarrella](https://open.spotify.com/artist/5KbxDPo9oNgtxFy3qd7qln) | [PER SEMPRE](https://open.spotify.com/album/0E3TKLXbAvLysz9fcaWSbR) | 3:51 |
-| 410 | [Wait](https://open.spotify.com/track/5ZbVmXVAV5yqXlJpBQSkQP) | [Sharks](https://open.spotify.com/artist/4hSVd8MbbcF70JgBbPk4sS) | [Wait](https://open.spotify.com/album/2t4K86Iv1sqnBmRTSD6mMe) | 3:06 |
-| 411 | [For All That You Want](https://open.spotify.com/track/2CandjgzRFCj1roFo4eoud) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Twelve Months, Eleven Days](https://open.spotify.com/album/3KWW58aDPkF44ZZAQMu3lK) | 3:37 |
+| 410 | [For All That You Want](https://open.spotify.com/track/2CandjgzRFCj1roFo4eoud) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Twelve Months, Eleven Days](https://open.spotify.com/album/3KWW58aDPkF44ZZAQMu3lK) | 3:37 |
+| 411 | [Wait](https://open.spotify.com/track/5ZbVmXVAV5yqXlJpBQSkQP) | [Sharks](https://open.spotify.com/artist/4hSVd8MbbcF70JgBbPk4sS) | [Wait](https://open.spotify.com/album/2t4K86Iv1sqnBmRTSD6mMe) | 3:06 |
 | 412 | [Private Eye](https://open.spotify.com/track/0AIz4TynPFujRTsETjM3s2) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 4:37 |
 | 413 | [Whisper Your Name](https://open.spotify.com/track/1O2u4fiFCWmQaITP2a19fK) | [Human Nature](https://open.spotify.com/artist/72BTmmAO3QfETWlFjwjfJ1) | [Telling Everybody](https://open.spotify.com/album/2xKkVreE8yp081RclFY3SF) | 4:19 |
 | 414 | [I'll Survive You](https://open.spotify.com/track/57pVdPZzXNRCJdJFf74ITk) | [BC Jean](https://open.spotify.com/artist/77I9xdGxbRAq5phM0cKBMX) | [I'll Survive You](https://open.spotify.com/album/3dsCDtqS4WFtQZz6H8QE5P) | 4:01 |
@@ -474,4 +474,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 464 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 465 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `AbmFVgAAAADt8h9YWkuXxoKfZIexrocR`
+Snapshot ID: `AbmLHgAAAAAXz85kKwCVs1DJIfXX1DCP`

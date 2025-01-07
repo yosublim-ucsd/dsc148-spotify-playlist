@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,040 songs - 4 day 13 hr 24 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,041 songs - 4 day 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2048,5 +2048,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2038 | [Safe with you](https://open.spotify.com/track/4cDTVDYhe2zmQIjrqeZyjH) | [Bootee](https://open.spotify.com/artist/70ApPROJ9p9TqFRRMIL0t8) | [Secrets of the heart](https://open.spotify.com/album/7nF1GDoRih1Vs5sezkr7QO) | 4:09 |
 | 2039 | [sweet rally](https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ) | [ilysam](https://open.spotify.com/artist/3rmIPOsNb2ngQAQEK8Fow8), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [sweet rally](https://open.spotify.com/album/11vUnFryU2pTqfBGaAU7kc) | 1:09 |
 | 2040 | [Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Pt\. One](https://open.spotify.com/album/7xNgPrxoV7XX4mNRsoLp0c) | 3:31 |
+| 2041 | [A.D.T.O.Y.](https://open.spotify.com/track/2wTwhiAm1via7YfhzWgoGZ) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Grown](https://open.spotify.com/album/6zm3gZOXElHAUBS53FyYHs) | 4:08 |
 
-Snapshot ID: `AAADtUtcJhA4Hc1s8e+BlTHVfUkKDEjA`
+Snapshot ID: `AAADtrgQKhl1Uhh7QmYi85CcFlViHc6f`

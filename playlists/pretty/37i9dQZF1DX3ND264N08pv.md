@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,587 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,629 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 33 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
 | 34 | [Zware Jongens](https://open.spotify.com/track/0Cj8BfDGXOlCH2MsIqzO12) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Zware Jongens](https://open.spotify.com/album/3vBwhaOA7ut96NPpQD0Ota) | 2:44 |
 | 35 | [Trip to Defqon.1](https://open.spotify.com/track/5LxvSe3BM74fL4U4FY4vNe) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JDX](https://open.spotify.com/artist/4j1Br3T2yrQIWd7LUip8t4) | [Trip to Defqon.1](https://open.spotify.com/album/0kuWQNvOzDotGb4kKYAeGu) | 3:42 |
-| 36 | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e) | 3:35 |
-| 37 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
+| 36 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
+| 37 | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e) | 3:35 |
 | 38 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
 | 39 | [Hardcore MF](https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Hardcore MF](https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS) | 2:46 |
 | 40 | [Back In The Game](https://open.spotify.com/track/1gZsQhy8eW7IEuxcQ9Dzuy) | [KEMAL](https://open.spotify.com/artist/7JW9vNFifByjqiuZMVwlwg), [D\-Tempo](https://open.spotify.com/artist/5qsxbdy5zUGUvUzNbWhCot) | [Back In The Game](https://open.spotify.com/album/0BD4etlJxWIQ3rrEezCXqj) | 2:54 |

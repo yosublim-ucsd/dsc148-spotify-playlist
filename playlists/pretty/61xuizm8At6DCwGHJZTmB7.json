@@ -1,12 +1,12 @@
 {
-  "description": "Top Christian Worship 2024 | The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>!",
-  "num_followers": 118739,
-  "original_name": "Top Christian Worship 2024",
+  "description": "Top Christian Worship 2025 | The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href=\"spotify:user:sozoofficial\">SOZO Playlists</a>!",
+  "num_followers": 118748,
+  "original_name": "Top Christian Worship 2025",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "AAAgBE1yGuPMaOfnL7LM+Vb68K136wbE",
+  "snapshot_id": "AAAgB7KWzLog/zamWTfvn5ZsbhvXtZAr",
   "tracks": [
     {
       "added_at": "2024-08-07 20:12:45",
@@ -261,6 +261,30 @@
       "url": "https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt"
     },
     {
+      "added_at": "2025-01-06 18:57:24",
+      "album": {
+        "name": "Blood Of Jesus (Live)",
+        "url": "https://open.spotify.com/album/5yo7sW9VJcJNERPpjNsNDv"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Raffi Greco",
+          "url": "https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "duration_ms": 275145,
+      "name": "Blood of Jesus - Live",
+      "url": "https://open.spotify.com/track/75kvOR4YandG5GCLUdQQzt"
+    },
+    {
       "added_at": "2024-08-09 04:19:45",
       "album": {
         "name": "Basic Faith",
@@ -319,26 +343,6 @@
       "duration_ms": 489875,
       "name": "The Blessing - Live From Europe",
       "url": "https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM"
-    },
-    {
-      "added_at": "2024-11-15 17:01:08",
-      "album": {
-        "name": "Always and Forever (Live)",
-        "url": "https://open.spotify.com/album/1z2IJ2IzlcZMjzFHg10bht"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Ashley Bailey",
-          "url": "https://open.spotify.com/artist/0mCGACx1tzi9BRx1KX0OXR"
-        }
-      ],
-      "duration_ms": 471461,
-      "name": "Always and Forever - Live",
-      "url": "https://open.spotify.com/track/2Bc27NvLY9rGEg2QGbhyMe"
     },
     {
       "added_at": "2024-11-22 07:14:17",
@@ -487,6 +491,26 @@
       "duration_ms": 282535,
       "name": "KING OF ALL THE NATIONS - ACOUSTIC LIVE",
       "url": "https://open.spotify.com/track/3rkPp6G7shvPlaedplYGf3"
+    },
+    {
+      "added_at": "2024-11-15 17:01:08",
+      "album": {
+        "name": "Always and Forever (Live)",
+        "url": "https://open.spotify.com/album/1z2IJ2IzlcZMjzFHg10bht"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Ashley Bailey",
+          "url": "https://open.spotify.com/artist/0mCGACx1tzi9BRx1KX0OXR"
+        }
+      ],
+      "duration_ms": 471461,
+      "name": "Always and Forever - Live",
+      "url": "https://open.spotify.com/track/2Bc27NvLY9rGEg2QGbhyMe"
     },
     {
       "added_at": "2024-08-09 04:06:47",
@@ -3613,6 +3637,6 @@
       "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
     }
   ],
-  "unique_name": "Top Christian Worship 2024",
+  "unique_name": "Top Christian Worship 2025",
   "url": "https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7"
 }

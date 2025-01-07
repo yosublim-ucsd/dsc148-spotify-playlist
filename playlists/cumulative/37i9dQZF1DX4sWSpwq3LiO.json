@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 144905,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE"
@@ -5128,6 +5128,24 @@
     {
       "album": {
         "name": "Close",
+        "url": "https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs"
+      },
+      "artists": [
+        {
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123559,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57"
+    },
+    {
+      "album": {
+        "name": "Close",
         "url": "https://open.spotify.com/album/1xEqzwfnOa644zQG71fg1n"
       },
       "artists": [
@@ -6780,7 +6798,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 155704,
       "name": "Distance",
       "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
@@ -18911,6 +18929,24 @@
     },
     {
       "album": {
+        "name": "Olivanders",
+        "url": "https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Olivanders",
+      "url": "https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu"
+    },
+    {
+      "album": {
         "name": "Olyan sz\u00e9p vagy",
         "url": "https://open.spotify.com/album/6Wv0Ot23GCHzLmU8H58iFw"
       },
@@ -21450,7 +21486,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-07",
       "duration_ms": 176000,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk"
@@ -30268,6 +30304,24 @@
       "duration_ms": 155500,
       "name": "wandering bird",
       "url": "https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR"
+    },
+    {
+      "album": {
+        "name": "WARMTH OF THE WIND",
+        "url": "https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4"
+      },
+      "artists": [
+        {
+          "name": "GRACE UNDERWOOD",
+          "url": "https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp"
+        }
+      ],
+      "date_added": "2025-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171212,
+      "name": "WARMTH OF THE WIND",
+      "url": "https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun"
     },
     {
       "album": {

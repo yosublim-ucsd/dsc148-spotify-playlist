@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: 242\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,804 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,805 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 27 | [ผู้ประสบภัยความเหงา](https://open.spotify.com/track/0dPO36P7a6lyyOtotX0eLi) | [What’s Up](https://open.spotify.com/artist/3AUD1TFqkzC77R9QwGXQhE) | [ผู้ประสบภัยความเหงา](https://open.spotify.com/album/60hklrkr0ioKklPJYUsNkL) | 3:08 |
 | 28 | [ไม่เศร้าดิ \(No Tears Allowed\)](https://open.spotify.com/track/1ssYZ8d5qGfZ4PlU1hB8dS) | [Earthernative](https://open.spotify.com/artist/7GFv9FNx00e4BepFvSbbrK), [faygo](https://open.spotify.com/artist/6oqq8RFO3J0GXk3SMYgkS3) | [ไม่เศร้าดิ \(No Tears Allowed\)](https://open.spotify.com/album/6336B5i8HB3ptGijoKwaFC) | 4:13 |
 | 29 | [ก่อนหมดปีนี้มีอะไรอยากบอกเธอ](https://open.spotify.com/track/2cTBwGGXr2rLhSl7jJDS54) | [Atip](https://open.spotify.com/artist/7BjEwYS4mwbVRhQb9aFn4m) | [ก่อนหมดปีนี้มีอะไรอยากบอกเธอ](https://open.spotify.com/album/2qCCss1pBNOwOKxQJQvJJR) | 2:06 |
-| 30 | [บอกรักกี่ครั้งสุดท้ายก็ต้องบอกลา \(Say goodbye\)](https://open.spotify.com/track/0VanMdIM2kM9ihw1EscYXp) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [UN HAPPY](https://open.spotify.com/album/19Xfe7q8Ax6JE8EfWIBx1A) | 5:18 |
+| 30 | [ที่จริง](https://open.spotify.com/track/1tbTLAgqCrgXaEHxZ1c5fD) | [Beam Voranan](https://open.spotify.com/artist/3nbR3NMrJAQXAglRmOajhv) | [ที่จริง](https://open.spotify.com/album/3mRBYrJTr05NF5kKTZ6Cqy) | 4:41 |
 | 31 | [เชื่อใจ](https://open.spotify.com/track/7vfNewUSsp4oPt0EdRARWu) | [Parkcub](https://open.spotify.com/artist/6Md7ATbMNq3zexIkHGICQ0) | [เชื่อใจ](https://open.spotify.com/album/1qZJQ68CUTZvuaRGTCsNbY) | 4:02 |
-| 32 | [ที่จริง](https://open.spotify.com/track/1tbTLAgqCrgXaEHxZ1c5fD) | [Beam Voranan](https://open.spotify.com/artist/3nbR3NMrJAQXAglRmOajhv) | [ที่จริง](https://open.spotify.com/album/3mRBYrJTr05NF5kKTZ6Cqy) | 4:41 |
+| 32 | [บอกรักกี่ครั้งสุดท้ายก็ต้องบอกลา \(Say goodbye\)](https://open.spotify.com/track/0VanMdIM2kM9ihw1EscYXp) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [UN HAPPY](https://open.spotify.com/album/19Xfe7q8Ax6JE8EfWIBx1A) | 5:18 |
 | 33 | [เสื้อกันหนาว](https://open.spotify.com/track/3G3RRVifZuFgVMNJguZP3f) | [winnnc](https://open.spotify.com/artist/0HhxmwkjR3L6fXI1KZyIHX) | [เสื้อกันหนาว](https://open.spotify.com/album/2Wi1zuaJQwBVUPM45PdIw9) | 3:20 |
 | 34 | [อยู่ด้วยกันไปทุกปีเลยนะ \(Together\)](https://open.spotify.com/track/3QUmdM5zI6jHd1Eukn9tkH) | [TANASA](https://open.spotify.com/artist/0kzpmMLLDmuE6fv4T9tWFV) | [อยู่ด้วยกันไปทุกปีเลยนะ \(Together\)](https://open.spotify.com/album/4iAgQogboRb3ahlw9v6IiQ) | 3:15 |
 | 35 | [ลืมได้ก็คงดี](https://open.spotify.com/track/2qPfwiwEiSVt0xqvFFIBiJ) | [Weeed Bomb](https://open.spotify.com/artist/71tVOqttMufXBW90RjZNoF) | [ลืมได้ก็คงดี](https://open.spotify.com/album/620KelJBebMn7Cu0DaH3cU) | 4:06 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 47 | [ใจดวงจิ๋ว \(Tiny Little Heart\)](https://open.spotify.com/track/5IjNZrDgO5Odbko74Hqpnm) | [Yellow Coat](https://open.spotify.com/artist/48YXbt0x8fVjqr5XrvnuHA) | [ใจดวงจิ๋ว \(Tiny Little Heart\)](https://open.spotify.com/album/455488ePtajHsB7CTO3Uju) | 3:50 |
 | 48 | [Take your time](https://open.spotify.com/track/6wtoDK1ZWmcEEqM3G1x9JX) | [Rrachan](https://open.spotify.com/artist/1OKL2ztheUo3kursnjvudy) | [Take your time](https://open.spotify.com/album/1huOyIpoONtA07MuknVYo7) | 4:51 |
 | 49 | [จักรวาลของเรา \(Dance with Me\)](https://open.spotify.com/track/0hnwubGnyPi3T8xYj3NvW6) | [G\-Hype](https://open.spotify.com/artist/75QBfVZzQVZ7kpxWWFd3Fc), [JEE NINAT](https://open.spotify.com/artist/0KsrTWmRpzXyZQyIlwt8aJ) | [จักรวาลของเรา \(Dance with Me\)](https://open.spotify.com/album/1iDAuXiyM0OjcaNMlah6KY) | 3:39 |
-| 50 | [Santy Baby](https://open.spotify.com/track/66yclpLf7SCMjM0LU8xEs2) | [DOUBLE G](https://open.spotify.com/artist/12JDfiCl8UUEZxQrMVywC1) | [Santy Baby](https://open.spotify.com/album/1ddVQBFwwZFjLuNa9unmsi) | 2:26 |
-| 51 | [ทำไมทำไม \(Why are you so cute?\)](https://open.spotify.com/track/7ENimcb9CCFsyqH6Uwb7fz) | [Harupiii](https://open.spotify.com/artist/3BJlhx1miXX77PwUlNKUZS) | [ทำไมทำไม \(Why are you so cute?\)](https://open.spotify.com/album/4SLzKv9mGO8nviW3fF8siU) | 3:10 |
+| 50 | [ทำไมทำไม \(Why are you so cute?\)](https://open.spotify.com/track/7ENimcb9CCFsyqH6Uwb7fz) | [Harupiii](https://open.spotify.com/artist/3BJlhx1miXX77PwUlNKUZS) | [ทำไมทำไม \(Why are you so cute?\)](https://open.spotify.com/album/4SLzKv9mGO8nviW3fF8siU) | 3:10 |
+| 51 | [Santy Baby](https://open.spotify.com/track/66yclpLf7SCMjM0LU8xEs2) | [DOUBLE G](https://open.spotify.com/artist/12JDfiCl8UUEZxQrMVywC1) | [Santy Baby](https://open.spotify.com/album/1ddVQBFwwZFjLuNa9unmsi) | 2:26 |
 | 52 | [ธาตุอากาศ](https://open.spotify.com/track/0fQtgFA3XOb64tRxE5MKDb) | [PARIILA](https://open.spotify.com/artist/5pDesnLdwXDAA0Uqwiffjq) | [ธาตุอากาศ](https://open.spotify.com/album/7nu3UhEiH400bQqY4Cg49K) | 4:09 |
 | 53 | [บอกลา \(So Long\)](https://open.spotify.com/track/7lD3wBoLA1tyMUNIlBfR8G) | [The River&Bridge](https://open.spotify.com/artist/5URHv3dJzBJdnGjkodcaR3) | [บอกลา \(So Long\)](https://open.spotify.com/album/4AH4Rrsv3XofQrdjzoD7Lk) | 3:49 |
-| 54 | [Capture](https://open.spotify.com/track/676xBYgvkeJb1c3gqi91NR) | [j.rabbit](https://open.spotify.com/artist/012IKMFJSvz2xrvpFdUcyJ) | [Capture](https://open.spotify.com/album/2mTtVLc1gZMUuYnb8EDycq) | 2:31 |
-| 55 | [ใจเธอไม่ได้มีฉัน](https://open.spotify.com/track/0svqgK7Vacxce7WmBNdSgK) | [JIRASIN](https://open.spotify.com/artist/0FbubfzJqi1AAnSYUj2dk5), [JARNJAME](https://open.spotify.com/artist/3Kr6BG5SoUOBrNyO6oOteb) | [ใจเธอไม่ได้มีฉัน](https://open.spotify.com/album/2OC1VJ4VyCV871U0ntcNeD) | 4:51 |
+| 54 | [ใจเธอไม่ได้มีฉัน](https://open.spotify.com/track/0svqgK7Vacxce7WmBNdSgK) | [JIRASIN](https://open.spotify.com/artist/0FbubfzJqi1AAnSYUj2dk5), [JARNJAME](https://open.spotify.com/artist/3Kr6BG5SoUOBrNyO6oOteb) | [ใจเธอไม่ได้มีฉัน](https://open.spotify.com/album/2OC1VJ4VyCV871U0ntcNeD) | 4:51 |
+| 55 | [Capture](https://open.spotify.com/track/676xBYgvkeJb1c3gqi91NR) | [j.rabbit](https://open.spotify.com/artist/012IKMFJSvz2xrvpFdUcyJ) | [Capture](https://open.spotify.com/album/2mTtVLc1gZMUuYnb8EDycq) | 2:31 |
 
 Snapshot ID: `Z22VIwAAAADrJL2qHEaRLZJNnlGEEQc+`

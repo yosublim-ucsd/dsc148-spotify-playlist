@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-353 songs - 1 day 0 hr 24 min
+354 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 | 2022-04-07 |  |
 | [Big Night](https://open.spotify.com/track/6u2NxRdgR9pqJUTeigcopA) | [Siddha\-Funk](https://open.spotify.com/artist/1vO2cXeyDrUaOWofybwd9a) | [Big Night](https://open.spotify.com/album/0q3Esl723cq5Zu0kYEOl2w) | 3:15 | 2023-03-01 | 2023-03-18 |
 | [Blossom](https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 | 2024-01-11 |  |
+| [Brunch With Suki](https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Sketches From An Island 2](https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9) | 3:44 | 2025-01-07 |  |
 | [Cabina Forestal](https://open.spotify.com/track/5kyI7igBLCm2ghs3ItwVyW) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Jasmine Alkari](https://open.spotify.com/artist/6aBZKa0guKloY7cRlvONVj) | [Tulum \- SACBE 2018](https://open.spotify.com/album/4bMWegc81v2ThZKpUpB6en) | 6:38 | 2022-04-17 | 2022-07-28 |
 | [Café Com Leite \- Boogát Remix](https://open.spotify.com/track/2EGIgIQenGIzzKASDKZuwT) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Café Com Leite \(Boogát Remix\)](https://open.spotify.com/album/3hxI7EGzfQI7JYuL0Abwk4) | 4:14 | 2022-06-15 | 2023-04-30 |
 | [Café Com Leite \- Boogát Remix](https://open.spotify.com/track/5MuqsRxbN6bEgl7zYxKMw3) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Café Com Leite \(Boogát Remix\)](https://open.spotify.com/album/5PhxzPqJHvdJXYMQCRg9Pe) | 4:14 | 2022-06-15 | 2024-04-19 |
@@ -119,7 +120,7 @@
 | [Folha de Jurema](https://open.spotify.com/track/2dgauZuZyJj7KtNqJNg4nZ) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Artéria FM](https://open.spotify.com/artist/2uOgBTx0GFjWS205jRJZf6), [Salvador Araguaya](https://open.spotify.com/artist/5yPaj9fKegvkHQdfNo1i35), [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Folha de Jurema](https://open.spotify.com/album/7B9xaQRH4qcDxPflY1tQhU) | 4:23 | 2022-01-04 | 2022-07-29 |
 | [Folha de Jurema](https://open.spotify.com/track/2RcrkBWCOWaX67jVDLgJr6) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Salvador Araguaya](https://open.spotify.com/artist/5yPaj9fKegvkHQdfNo1i35), [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1), [Artéria FM](https://open.spotify.com/artist/2uOgBTx0GFjWS205jRJZf6) | [Folha de Jurema](https://open.spotify.com/album/6K44xJeoORjgqFWovNnSkg) | 4:23 | 2022-03-17 | 2022-12-13 |
 | [Franca Barona](https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Franca Barona](https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL) | 3:35 | 2022-02-01 | 2023-05-17 |
-| [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 | 2022-08-11 |  |
+| [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 | 2022-08-11 | 2025-01-07 |
 | [Fuego](https://open.spotify.com/track/19zR9O8lJW24dOQaIs5y9D) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC) | [Fuego](https://open.spotify.com/album/1n3uIOz1KGWWeiJJTLnLOG) | 5:14 | 2022-06-15 | 2022-06-25 |
 | [Fuego de Cumbia / Dub de Sangre Pura \- Dub Mix](https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita](https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk) | 5:46 | 2022-01-04 | 2022-05-18 |
 | [Futurista](https://open.spotify.com/track/1qAtVevO8XshdRHFt9dND2) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2kk7QC1wMowvV1AvEhANcg) | 2:59 | 2022-02-15 | 2022-07-29 |

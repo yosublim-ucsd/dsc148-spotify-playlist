@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 115320,
+  "num_followers": 115354,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -559,30 +559,6 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "Canned Heat (Dimitri From Paris Remixes)",
-        "url": "https://open.spotify.com/album/71oD2N81fUgZjNU5ZNB58v"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Dimitri From Paris",
-          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
-        },
-        {
-          "name": "Al Stone",
-          "url": "https://open.spotify.com/artist/28xK9NckcloRugfWyUYZzh"
-        }
-      ],
-      "duration_ms": 516593,
-      "name": "Canned Heat - Dimitri From Paris Remix",
-      "url": "https://open.spotify.com/track/1Qfh58joKF27V28vSgqPlZ"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
         "name": "Diamond Life (feat. Julie McKnight)",
         "url": "https://open.spotify.com/album/1s5fbLVau2qXTVfhNJsewG"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 532133,
       "name": "Diamond Life (feat. Julie McKnight) - Dance Ritual Mix",
       "url": "https://open.spotify.com/track/3Da0K52P1sq9A7ZS660cnp"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "Canned Heat (Dimitri From Paris Remixes)",
+        "url": "https://open.spotify.com/album/71oD2N81fUgZjNU5ZNB58v"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Dimitri From Paris",
+          "url": "https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo"
+        },
+        {
+          "name": "Al Stone",
+          "url": "https://open.spotify.com/artist/28xK9NckcloRugfWyUYZzh"
+        }
+      ],
+      "duration_ms": 516593,
+      "name": "Canned Heat - Dimitri From Paris Remix",
+      "url": "https://open.spotify.com/track/1Qfh58joKF27V28vSgqPlZ"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "Introducing Tortured Soul",
-        "url": "https://open.spotify.com/album/5OLYjAbHuNKDcKKz1ELQAF"
-      },
-      "artists": [
-        {
-          "name": "Tortured Soul",
-          "url": "https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 440533,
-      "name": "I Might Do Something Wrong - Osunlade Lonely Mix",
-      "url": "https://open.spotify.com/track/76ZMYgWV3OMWwMl0M0yp42"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
         "name": "Rekindled",
         "url": "https://open.spotify.com/album/5TImCleOgK4gc9QcogM8Zo"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 289849,
       "name": "I Believe In Miracles - Broken Party Animal Mix",
       "url": "https://open.spotify.com/track/7GHHZJ0tQu4SVSzvAKus6R"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "Introducing Tortured Soul",
+        "url": "https://open.spotify.com/album/5OLYjAbHuNKDcKKz1ELQAF"
+      },
+      "artists": [
+        {
+          "name": "Tortured Soul",
+          "url": "https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 440533,
+      "name": "I Might Do Something Wrong - Osunlade Lonely Mix",
+      "url": "https://open.spotify.com/track/76ZMYgWV3OMWwMl0M0yp42"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
+        "name": "History Repeating",
+        "url": "https://open.spotify.com/album/0SshAJzzWIFTmybkYTDXVz"
+      },
+      "artists": [
+        {
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 451200,
+      "name": "History Repeating",
+      "url": "https://open.spotify.com/track/5PVZSiUu7ODHWfbfWgqhqR"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
       },
@@ -1143,42 +1163,6 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "History Repeating",
-        "url": "https://open.spotify.com/album/0SshAJzzWIFTmybkYTDXVz"
-      },
-      "artists": [
-        {
-          "name": "Ezel",
-          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 451200,
-      "name": "History Repeating",
-      "url": "https://open.spotify.com/track/5PVZSiUu7ODHWfbfWgqhqR"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
-        "name": "Welcome Aboard",
-        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
-      },
-      "artists": [
-        {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
-        }
-      ],
-      "duration_ms": 455800,
-      "name": "Welcome Aboard",
-      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/7if5T5GgLmQbe2uaZBcTAZ"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
+        "name": "Welcome Aboard",
+        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 455800,
+      "name": "Welcome Aboard",
+      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
         "name": "Lilac's Cloud",
         "url": "https://open.spotify.com/album/69Uetd4cP8vmJ3RoojxT5Z"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 363945,
       "name": "Lilac's Cloud",
       "url": "https://open.spotify.com/track/6bIF8vBFSZiRE3mTeROnUo"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/7hGcxc5mdwMoA559pZ6vSQ"
-      },
-      "artists": [
-        {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
-        }
-      ],
-      "duration_ms": 504933,
-      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
-      "url": "https://open.spotify.com/track/29Obf0yYT5cppVWJLx9iu0"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -1255,22 +1239,18 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "He Is The Joy",
-        "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/7hGcxc5mdwMoA559pZ6vSQ"
       },
       "artists": [
         {
-          "name": "Donna Allen",
-          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
-        },
-        {
-          "name": "Urban Blues Project",
-          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
         }
       ],
-      "duration_ms": 546000,
-      "name": "He Is The Joy - U.B.P. Classic Mix",
-      "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
+      "duration_ms": 504933,
+      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
+      "url": "https://open.spotify.com/track/29Obf0yYT5cppVWJLx9iu0"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -1291,6 +1271,26 @@
       "duration_ms": 222148,
       "name": "Waiting For Your Love - Soulmekanikz Remix",
       "url": "https://open.spotify.com/track/2kXEbeveGtsrlBaSE1fQEc"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "He Is The Joy",
+        "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
+      },
+      "artists": [
+        {
+          "name": "Donna Allen",
+          "url": "https://open.spotify.com/artist/2MGI96UXRCEwaQGuQzAWfZ"
+        },
+        {
+          "name": "Urban Blues Project",
+          "url": "https://open.spotify.com/artist/3TDf5PQIc7K1mAU3vWicGH"
+        }
+      ],
+      "duration_ms": 546000,
+      "name": "He Is The Joy - U.B.P. Classic Mix",
+      "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "Don't Lose The Magic (Emmaculate Remix)",
-        "url": "https://open.spotify.com/album/1z56YMP1A1eyW8pawt1vVu"
-      },
-      "artists": [
-        {
-          "name": "Shawn Christopher",
-          "url": "https://open.spotify.com/artist/3TONYCzAeoUCwR3i1nAQwB"
-        },
-        {
-          "name": "Emmaculate",
-          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
-        }
-      ],
-      "duration_ms": 352000,
-      "name": "Don't Lose The Magic - Emmaculate Extended Club Mix",
-      "url": "https://open.spotify.com/track/1tdfiSE0sC95hib1ChBn8z"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 569724,
       "name": "Dance - Louie Vega Dance Ritual Mix",
       "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "Don't Lose The Magic (Emmaculate Remix)",
+        "url": "https://open.spotify.com/album/1z56YMP1A1eyW8pawt1vVu"
+      },
+      "artists": [
+        {
+          "name": "Shawn Christopher",
+          "url": "https://open.spotify.com/artist/3TONYCzAeoUCwR3i1nAQwB"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
+        }
+      ],
+      "duration_ms": 352000,
+      "name": "Don't Lose The Magic - Emmaculate Extended Club Mix",
+      "url": "https://open.spotify.com/track/1tdfiSE0sC95hib1ChBn8z"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
+        "name": "Nothing But Happiness",
+        "url": "https://open.spotify.com/album/7hOKlaq1VW154vHsI6yYyh"
+      },
+      "artists": [
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        }
+      ],
+      "duration_ms": 203405,
+      "name": "Nothing But Happiness",
+      "url": "https://open.spotify.com/track/0MiVdDAGUeTlj4to1hCs04"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
         "name": "Caged Bird",
         "url": "https://open.spotify.com/album/13bwEpHK21z3HgizYgS9rA"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 483543,
       "name": "Caged Bird - Full Vocal Media Mix",
       "url": "https://open.spotify.com/track/7kBi4WKREPySvKSkfbTnqx"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
-        "name": "Nothing But Happiness",
-        "url": "https://open.spotify.com/album/7hOKlaq1VW154vHsI6yYyh"
-      },
-      "artists": [
-        {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
-        }
-      ],
-      "duration_ms": 203405,
-      "name": "Nothing But Happiness",
-      "url": "https://open.spotify.com/track/0MiVdDAGUeTlj4to1hCs04"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -1711,34 +1711,6 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "Listen To This Drum (Turbojazz & Sean McCabe Remixes)",
-        "url": "https://open.spotify.com/album/4eksxhNnQ4TZHhEoiG9TB7"
-      },
-      "artists": [
-        {
-          "name": "Diephuis",
-          "url": "https://open.spotify.com/artist/7IJuhai74EqbgF8Uncnvi3"
-        },
-        {
-          "name": "Turbojazz",
-          "url": "https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB"
-        },
-        {
-          "name": "Sean McCabe",
-          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
-        },
-        {
-          "name": "Ursula Rucker",
-          "url": "https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "Listen To This Drum - Turbojazz & Sean McCabe Remix Edit",
-      "url": "https://open.spotify.com/track/6YgKtrXaRXcTP6NfDENdSp"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
         "name": "Defined",
         "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
       },
@@ -1771,6 +1743,34 @@
       "duration_ms": 264552,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "Listen To This Drum (Turbojazz & Sean McCabe Remixes)",
+        "url": "https://open.spotify.com/album/4eksxhNnQ4TZHhEoiG9TB7"
+      },
+      "artists": [
+        {
+          "name": "Diephuis",
+          "url": "https://open.spotify.com/artist/7IJuhai74EqbgF8Uncnvi3"
+        },
+        {
+          "name": "Turbojazz",
+          "url": "https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        },
+        {
+          "name": "Ursula Rucker",
+          "url": "https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "Listen To This Drum - Turbojazz & Sean McCabe Remix Edit",
+      "url": "https://open.spotify.com/track/6YgKtrXaRXcTP6NfDENdSp"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
+        "name": "Here We Go",
+        "url": "https://open.spotify.com/album/3nH3tGTMP6OyyfEUS0SQge"
+      },
+      "artists": [
+        {
+          "name": "Ken@Work",
+          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
+        }
+      ],
+      "duration_ms": 286513,
+      "name": "Here We Go",
+      "url": "https://open.spotify.com/track/5ysvcQAzheQErRhz7FjOqm"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
         "name": "Did You Pray Today? (feat. Annette Bowen)",
         "url": "https://open.spotify.com/album/1qt65emuQCgvkuViFPuQOq"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 251020,
       "name": "Did You Pray Today? (feat. Annette Bowen)",
       "url": "https://open.spotify.com/track/6jLZA4j6JlEmIOwt6snOUM"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
-        "name": "Here We Go",
-        "url": "https://open.spotify.com/album/3nH3tGTMP6OyyfEUS0SQge"
-      },
-      "artists": [
-        {
-          "name": "Ken@Work",
-          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
-        }
-      ],
-      "duration_ms": 286513,
-      "name": "Here We Go",
-      "url": "https://open.spotify.com/track/5ysvcQAzheQErRhz7FjOqm"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -2031,30 +2031,6 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "Peace (Tedd Patterson Remix)",
-        "url": "https://open.spotify.com/album/7sB3In9t468ONtV8cIcIos"
-      },
-      "artists": [
-        {
-          "name": "T.Williams",
-          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        },
-        {
-          "name": "Tedd Patterson",
-          "url": "https://open.spotify.com/artist/3ykaOplW5zLEQr0AE30eCH"
-        }
-      ],
-      "duration_ms": 232159,
-      "name": "Peace - Tedd Patterson Remix",
-      "url": "https://open.spotify.com/track/5FpV2M1VekdqstAYzQ2LoC"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
       },
@@ -2107,6 +2083,30 @@
       "duration_ms": 435920,
       "name": "Set Me Free - Original Mix",
       "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "Peace (Tedd Patterson Remix)",
+        "url": "https://open.spotify.com/album/7sB3In9t468ONtV8cIcIos"
+      },
+      "artists": [
+        {
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        },
+        {
+          "name": "Tedd Patterson",
+          "url": "https://open.spotify.com/artist/3ykaOplW5zLEQr0AE30eCH"
+        }
+      ],
+      "duration_ms": 232159,
+      "name": "Peace - Tedd Patterson Remix",
+      "url": "https://open.spotify.com/track/5FpV2M1VekdqstAYzQ2LoC"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -2251,30 +2251,6 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "& Forever",
-        "url": "https://open.spotify.com/album/1TltQOv7XJ3JHVuBU8jmAW"
-      },
-      "artists": [
-        {
-          "name": "DJ Spen",
-          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
-        },
-        {
-          "name": "Reelsoul",
-          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
-        },
-        {
-          "name": "Cleveland P. Jones",
-          "url": "https://open.spotify.com/artist/3p7npK52D1aVImm4C5iL16"
-        }
-      ],
-      "duration_ms": 420983,
-      "name": "& Forever - DJ Spen & Reelsoul Original Mix",
-      "url": "https://open.spotify.com/track/4VrGX8I5hiZ9fgAHcjyONt"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
         "name": "Avery*Sunshine Summer EP",
         "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
       },
@@ -2311,6 +2287,30 @@
       "duration_ms": 328000,
       "name": "Beautiful - John Beltran Remix",
       "url": "https://open.spotify.com/track/7Mhq9EfVly0iAymWLr9Zsr"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "& Forever",
+        "url": "https://open.spotify.com/album/1TltQOv7XJ3JHVuBU8jmAW"
+      },
+      "artists": [
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Reelsoul",
+          "url": "https://open.spotify.com/artist/2BrpHfecMN0szTiQ0H0sWE"
+        },
+        {
+          "name": "Cleveland P. Jones",
+          "url": "https://open.spotify.com/artist/3p7npK52D1aVImm4C5iL16"
+        }
+      ],
+      "duration_ms": 420983,
+      "name": "& Forever - DJ Spen & Reelsoul Original Mix",
+      "url": "https://open.spotify.com/track/4VrGX8I5hiZ9fgAHcjyONt"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -2483,26 +2483,6 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "There Is Soul in My House",
-        "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
-      },
-      "artists": [
-        {
-          "name": "YASS",
-          "url": "https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C"
-        },
-        {
-          "name": "L.T. Brown",
-          "url": "https://open.spotify.com/artist/2ysRdZ0qk3lM9z1t8c4RSc"
-        }
-      ],
-      "duration_ms": 488266,
-      "name": "I'm Free - Main Mix",
-      "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/7aYMQBrftVJXq6GBIWJQqc"
       },
@@ -2519,6 +2499,26 @@
       "duration_ms": 253489,
       "name": "Hold Me - Husky's Beach Club Mix",
       "url": "https://open.spotify.com/track/0idI34SkVcjqgiYz82jpuN"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "There Is Soul in My House",
+        "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
+      },
+      "artists": [
+        {
+          "name": "YASS",
+          "url": "https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C"
+        },
+        {
+          "name": "L.T. Brown",
+          "url": "https://open.spotify.com/artist/2ysRdZ0qk3lM9z1t8c4RSc"
+        }
+      ],
+      "duration_ms": 488266,
+      "name": "I'm Free - Main Mix",
+      "url": "https://open.spotify.com/track/3ZW2pHUEgX65rINbaqzZA7"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -2751,6 +2751,26 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
+        "name": "TIME AFTER TIME",
+        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
+      },
+      "artists": [
+        {
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        },
+        {
+          "name": "Abigail Bailey",
+          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
+        }
+      ],
+      "duration_ms": 399693,
+      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
         "name": "Karma (Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/7ziUNFQLfEcYx3ZBv23X3x"
       },
@@ -2771,26 +2791,6 @@
       "duration_ms": 237373,
       "name": "Karma - Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/1fExe1OCy813VOBEBuXy78"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
-        "name": "TIME AFTER TIME",
-        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
-      },
-      "artists": [
-        {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
-        },
-        {
-          "name": "Abigail Bailey",
-          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
-      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -2879,26 +2879,6 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/6muhgHXi8PjHQ9TnBt0Kkt"
-      },
-      "artists": [
-        {
-          "name": "Franck Roger",
-          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 435714,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/4kg0OerpECR4Qbg0nfLfdN"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
         "name": "Beautifull",
         "url": "https://open.spotify.com/album/4JnFpyALSYA6Tlfbwl4uUP"
       },
@@ -2939,22 +2919,22 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
-        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/6muhgHXi8PjHQ9TnBt0Kkt"
       },
       "artists": [
         {
-          "name": "DJ Le Roi",
-          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
         },
         {
-          "name": "Chappell",
-          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
         }
       ],
-      "duration_ms": 446026,
-      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
-      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
+      "duration_ms": 435714,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/4kg0OerpECR4Qbg0nfLfdN"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -2987,50 +2967,22 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "Keep on Stepping",
-        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
+        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
+        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
       },
       "artists": [
         {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+          "name": "DJ Le Roi",
+          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
         },
         {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+          "name": "Chappell",
+          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
         }
       ],
-      "duration_ms": 202835,
-      "name": "Keep on Stepping",
-      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
-    },
-    {
-      "added_at": "2024-12-12 23:00:11",
-      "album": {
-        "name": "I Believe (feat. Suzanne Palmer) [Harry Romero Remix]",
-        "url": "https://open.spotify.com/album/0RiIDm7CictkRfABiEBAKf"
-      },
-      "artists": [
-        {
-          "name": "Mark Picchiotti",
-          "url": "https://open.spotify.com/artist/6mfoAawlriO9xRqOQGAIfM"
-        },
-        {
-          "name": "The Absolute",
-          "url": "https://open.spotify.com/artist/1aOiGe2A7ZbcERjyQyXTZs"
-        },
-        {
-          "name": "Suzanne Palmer",
-          "url": "https://open.spotify.com/artist/2bAFYlcHVIgnOLqxDk212U"
-        },
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        }
-      ],
-      "duration_ms": 360020,
-      "name": "I Believe (feat. Suzanne Palmer) - Harry's Deep In Jersey Dub",
-      "url": "https://open.spotify.com/track/6yJrrz04J7LZTb9hHW1fhE"
+      "duration_ms": 446026,
+      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
+      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -3079,42 +3031,50 @@
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "If Luvin You Is Wrong",
-        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
+        "name": "I Believe (feat. Suzanne Palmer) [Harry Romero Remix]",
+        "url": "https://open.spotify.com/album/0RiIDm7CictkRfABiEBAKf"
       },
       "artists": [
         {
-          "name": "Arnaud D",
-          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
+          "name": "Mark Picchiotti",
+          "url": "https://open.spotify.com/artist/6mfoAawlriO9xRqOQGAIfM"
         },
         {
-          "name": "Earl W. Green",
-          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
+          "name": "The Absolute",
+          "url": "https://open.spotify.com/artist/1aOiGe2A7ZbcERjyQyXTZs"
+        },
+        {
+          "name": "Suzanne Palmer",
+          "url": "https://open.spotify.com/artist/2bAFYlcHVIgnOLqxDk212U"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
         }
       ],
-      "duration_ms": 476097,
-      "name": "If Luvin You Is Wrong - Main Mix",
-      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
+      "duration_ms": 360020,
+      "name": "I Believe (feat. Suzanne Palmer) - Harry's Deep In Jersey Dub",
+      "url": "https://open.spotify.com/track/6yJrrz04J7LZTb9hHW1fhE"
     },
     {
       "added_at": "2024-12-12 23:00:11",
       "album": {
-        "name": "Defenders of Justice",
-        "url": "https://open.spotify.com/album/1b2ldZLK6wz09zyT70z6jB"
+        "name": "Keep on Stepping",
+        "url": "https://open.spotify.com/album/24phe71iWuGGP1zTn9GnAS"
       },
       "artists": [
         {
-          "name": "Harley&Muscle",
-          "url": "https://open.spotify.com/artist/7xD1o7BukHEZHTj6ITdfPn"
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
         },
         {
-          "name": "Marie Tweek",
-          "url": "https://open.spotify.com/artist/6fwewP9y9cXcYwp8hkO6iV"
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
         }
       ],
-      "duration_ms": 435520,
-      "name": "Games We Play",
-      "url": "https://open.spotify.com/track/3UNEEwqVInIFTCZBS46EfC"
+      "duration_ms": 202835,
+      "name": "Keep on Stepping",
+      "url": "https://open.spotify.com/track/3tU7tiCiC7GLbs3r83wy6E"
     },
     {
       "added_at": "2024-12-12 23:00:11",
@@ -3159,6 +3119,46 @@
       "duration_ms": 400776,
       "name": "Pusherman - Sean Mccabe Remix",
       "url": "https://open.spotify.com/track/2YHPpaK97tcfDulBk0aujE"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "Defenders of Justice",
+        "url": "https://open.spotify.com/album/1b2ldZLK6wz09zyT70z6jB"
+      },
+      "artists": [
+        {
+          "name": "Harley&Muscle",
+          "url": "https://open.spotify.com/artist/7xD1o7BukHEZHTj6ITdfPn"
+        },
+        {
+          "name": "Marie Tweek",
+          "url": "https://open.spotify.com/artist/6fwewP9y9cXcYwp8hkO6iV"
+        }
+      ],
+      "duration_ms": 435520,
+      "name": "Games We Play",
+      "url": "https://open.spotify.com/track/3UNEEwqVInIFTCZBS46EfC"
+    },
+    {
+      "added_at": "2024-12-12 23:00:11",
+      "album": {
+        "name": "If Luvin You Is Wrong",
+        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
+      },
+      "artists": [
+        {
+          "name": "Arnaud D",
+          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
+        },
+        {
+          "name": "Earl W. Green",
+          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
+        }
+      ],
+      "duration_ms": 476097,
+      "name": "If Luvin You Is Wrong - Main Mix",
+      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
     },
     {
       "added_at": "2024-12-12 23:00:11",

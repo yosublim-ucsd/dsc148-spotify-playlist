@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute no volume máximo as mulheres que marcaram a música em 2024!  Foto: Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,148 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,160 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 23 | [Mil Perguntas](https://open.spotify.com/track/2bjIGfm603v9VSSa9gMRpP) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Mil Perguntas](https://open.spotify.com/album/5bjUFqJGPifw1055QQNCN6) | 3:32 |
 | 24 | [Tapete Voador \- Ciganada](https://open.spotify.com/track/4oyPwwKJdETJqfIoQvgQom) | [Mãeana](https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE) | [mãeana canta JG](https://open.spotify.com/album/69gwUwHwo5doAwhWXd80uS) | 4:28 |
 | 25 | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Ajuliacosta / Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |
-| 26 | [Má Influência](https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Intensa Até Demais](https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH) | 2:26 |
-| 27 | [Espero Que Seja Feliz](https://open.spotify.com/track/4qWoFPOfxVjfcwrCNB3jJm) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Espero Que Seja Feliz](https://open.spotify.com/album/5zJxbQQUwXgUbf8tk5A6Qt) | 3:13 |
+| 26 | [Espero Que Seja Feliz](https://open.spotify.com/track/4qWoFPOfxVjfcwrCNB3jJm) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Espero Que Seja Feliz](https://open.spotify.com/album/5zJxbQQUwXgUbf8tk5A6Qt) | 3:13 |
+| 27 | [Má Influência](https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Intensa Até Demais](https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH) | 2:26 |
 | 28 | [A Otária](https://open.spotify.com/track/3JzBmsPw4ekdtU6Z7W2Ctt) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [A Otária](https://open.spotify.com/album/2rYIzuNh3IQbf8xQBmuZAr) | 2:51 |
 | 29 | [Cacau](https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 3:21 |
 | 30 | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 |

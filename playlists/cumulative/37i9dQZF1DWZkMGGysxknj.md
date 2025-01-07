@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-295 songs - 16 hr 56 min
+296 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2021-07-16 | 2024-04-08 |
 | [Complicated](https://open.spotify.com/track/7j6xAadMrhFIuZ7epyU5YT) | [M w S](https://open.spotify.com/artist/6YvmHs9jWcXOHZ6SDtDeS8) | [Complicated](https://open.spotify.com/album/5TNdGmCbItkOtiuWzhXIbc) | 3:30 | 2021-07-16 | 2022-07-29 |
 | [Concéntrica Canción](https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Concéntrica Canción](https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS) | 2:42 | 2021-07-16 |  |
-| [Confession](https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Confession](https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x) | 4:09 | 2021-07-16 |  |
+| [Confession](https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Confession](https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x) | 4:09 | 2021-07-16 | 2025-01-07 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/0eoPoF7uj2QlMmQ9OdcRaz) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Configuraciones Onduladas](https://open.spotify.com/album/4jjkFIeyBjwPwLK5DzvQ6O) | 2:10 | 2021-07-16 | 2022-07-29 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh) | 2:10 | 2023-06-09 | 2024-04-19 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9) | 2:10 | 2021-07-16 | 2023-10-14 |
@@ -233,6 +233,7 @@
 | [Softly \- Mahogany Sessions](https://open.spotify.com/track/25pzMvqGiIohddpNq2ople) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Softly / Please \(Mahogany Sessions\)](https://open.spotify.com/album/5T7JDiglCGAWK9qgxEqk0S) | 5:04 | 2021-07-16 | 2022-12-25 |
 | [Softly \- Mahogany Sessions](https://open.spotify.com/track/3TRleR2FHWPDWHKQf9P66X) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Softly / Please \(Mahogany Sessions\)](https://open.spotify.com/album/0EiZGhflsBj4D3ysECkNsm) | 5:04 | 2021-07-16 | 2024-04-19 |
 | [Solo](https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Solo](https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB) | 3:18 | 2021-07-16 |  |
+| [Sombra Blanca](https://open.spotify.com/track/1HpFzOZszbWnFwbFswzeJx) | [Apache O'Raspi](https://open.spotify.com/artist/0bTWhI3yRRaDmLUL8ghlQA) | [Dejodejode/Sombra Blanca](https://open.spotify.com/album/3j8XkxbJlwaKc83TP2U1kL) | 4:20 | 2025-01-07 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 | 2021-07-16 |  |
 | [Somos](https://open.spotify.com/track/48MdFin9PVpumCOlHsO0xZ) | [Garam Masala](https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3) | [Somos](https://open.spotify.com/album/0iUo9bQTSCSZapCcLS3rqF) | 3:43 | 2021-07-16 | 2022-07-29 |
 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 | 2021-07-16 | 2024-04-19 |
