@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 255149,
       "name": "A Flower Is a Lovesome Thing",
       "url": "https://open.spotify.com/track/7xGlRRZlQrecQnRYovWDZ9"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 196463,
       "name": "Brooklyn Bridge",
       "url": "https://open.spotify.com/track/21VXC5m3MIkdBGW1UyzGcU"
@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 209000,
       "name": "Brushes",
       "url": "https://open.spotify.com/track/30Lae8YujBdA3nTc3UVWPp"
@@ -5008,7 +5008,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 188246,
       "name": "Don\u2019t believe it",
       "url": "https://open.spotify.com/track/2CwWhS5c1sDfJYIMKhoxPj"
@@ -7082,7 +7082,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 268892,
       "name": "Going to Get It",
       "url": "https://open.spotify.com/track/4LxIdMwN00B0bwmu3q6dNo"
@@ -9374,7 +9374,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 457267,
       "name": "Infant Eyes",
       "url": "https://open.spotify.com/track/6J8Z1UJG7uTS1mhZsgmJCp"
@@ -9696,6 +9696,24 @@
       "duration_ms": 218661,
       "name": "It Used To Be Us",
       "url": "https://open.spotify.com/track/0iC0JiVXY8dmM3IIlqUk1p"
+    },
+    {
+      "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/578adw5Js60NpUJA09uw0x"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/0ubtLy1QIbY5rxNxGveZbo"
     },
     {
       "album": {
@@ -11256,7 +11274,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 219404,
       "name": "Lonely Avenue",
       "url": "https://open.spotify.com/track/7Af5x0oUmCHEpmvSK6U2zS"
@@ -19665,6 +19683,24 @@
     },
     {
       "album": {
+        "name": "Then You Spoke",
+        "url": "https://open.spotify.com/album/4D8kgXeMrdYk23YGTLNMxS"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189864,
+      "name": "Then You Spoke",
+      "url": "https://open.spotify.com/track/5Q1pJ2MCj4FlcDf6TCsL9Y"
+    },
+    {
+      "album": {
         "name": "There Is No Greater Love",
         "url": "https://open.spotify.com/album/7B8OSs8dhDt0KI0b95FNfa"
       },
@@ -20966,7 +21002,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 172378,
       "name": "Vinegar replacing honey",
       "url": "https://open.spotify.com/track/6GqByymnXRYm8LlGaBHxyy"
@@ -21132,6 +21168,24 @@
       "duration_ms": 261777,
       "name": "Was It Me?",
       "url": "https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q"
+    },
+    {
+      "album": {
+        "name": "Watching the World Walk by",
+        "url": "https://open.spotify.com/album/1DAu9Rm258bwrD5YR48aJ4"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324075,
+      "name": "Watching the World Walk by",
+      "url": "https://open.spotify.com/track/0qR5RaRlfepIZMySNeQSVV"
     },
     {
       "album": {
@@ -22444,6 +22498,24 @@
       "duration_ms": 217370,
       "name": "You Stepped Out Of A Dream",
       "url": "https://open.spotify.com/track/627SZOevCkeudqmkV3Mc6h"
+    },
+    {
+      "album": {
+        "name": "You Were Waiting for Me",
+        "url": "https://open.spotify.com/album/2QrbclS2xGo3WDryR5ZD7t"
+      },
+      "artists": [
+        {
+          "name": "Eight Bar Band",
+          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248213,
+      "name": "You Were Waiting for Me",
+      "url": "https://open.spotify.com/track/0l368MH8QIJDEHAAqgtxza"
     },
     {
       "album": {

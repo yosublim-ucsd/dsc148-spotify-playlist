@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=mDgjr7vwRDyn7nKuUhGSnQ"> Mthandeni SK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,360 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,455 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

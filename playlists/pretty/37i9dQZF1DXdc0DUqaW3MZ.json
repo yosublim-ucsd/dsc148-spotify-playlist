@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 358109,
+  "num_followers": 358199,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
-      },
-      "artists": [
-        {
-          "name": "oh caroline",
-          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
-        },
-        {
-          "name": "Spencer Hunt",
-          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
-        }
-      ],
-      "duration_ms": 179809,
-      "name": "Much",
-      "url": "https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        },
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Much",
+      "url": "https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU"
     },
     {
       "added_at": "2024-10-25 15:55:35",

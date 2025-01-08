@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX01OLCojLDti.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX01OLCojLDti) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX01OLCojLDti)
 
-### [ラブライブ！スーパースター!!  \-Love Live! Superstar!!\-](https://open.spotify.com/playlist/37i9dQZF1DX01OLCojLDti)
+### [Love Live! Superstar!!](https://open.spotify.com/playlist/37i9dQZF1DX01OLCojLDti)
 
-> Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
+> Music from "Love Live! Superstar!!" ©2022 プロジェクトラブライブ！スーパースター!!
 
-121 songs - 7 hr 46 min
+122 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Dancing Heart La\-Pa\-Pa\-Pa!](https://open.spotify.com/track/3KJwVgA2M5SgZ4p0kjMpKk) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 3:18 | 2022-10-18 | 2024-07-08 |
 | [Day1](https://open.spotify.com/track/0yCVqZEUb5yqMkIg5VIzzM) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/5rh6WW5CgGcvHVbPrxG8xp) | 3:58 | 2024-01-09 | 2024-08-06 |
 | [Day1](https://open.spotify.com/track/7EIAw2TDdQM7WkhzFuozzU) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/1WL0ewJxIVf0dvOEhHxyfL) | 3:58 | 2022-10-18 | 2023-03-15 |
-| [Dazzling Game](https://open.spotify.com/track/74bGUJe47gsq7m1Vm9FM84) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn), [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [ウィーン・マルガレーテ \(CV.結那\)](https://open.spotify.com/artist/0IT7A0FzWpFcdnoYf6TSGW), [鬼塚冬毬 \(CV.坂倉 花\)](https://open.spotify.com/artist/2swADD6MbEMcCiQkGm7C0A) | [絶対的LOVER / Dazzling Game【第6話盤】](https://open.spotify.com/album/6ID3UBDyfppFlybkEIK0hb) | 4:40 | 2024-12-10 |  |
+| [Dazzling Game](https://open.spotify.com/track/74bGUJe47gsq7m1Vm9FM84) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn), [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [ウィーン・マルガレーテ \(CV.結那\)](https://open.spotify.com/artist/0IT7A0FzWpFcdnoYf6TSGW), [鬼塚冬毬 \(CV.坂倉 花\)](https://open.spotify.com/artist/2swADD6MbEMcCiQkGm7C0A) | [絶対的LOVER / Dazzling Game【第6話盤】](https://open.spotify.com/album/6ID3UBDyfppFlybkEIK0hb) | 4:40 | 2024-12-10 | 2025-01-08 |
 | [Dears](https://open.spotify.com/track/1nnYVSTnh8ON9XM8OvE8XC) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:41 | 2024-01-09 |  |
 | [Dears](https://open.spotify.com/track/3cAsFzMTD6F1MxlUUEqASJ) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:41 | 2022-10-18 | 2024-04-19 |
 | [Dears](https://open.spotify.com/track/3AHuJ6AswDGQzMcgcoqxgA) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [リエラのうた](https://open.spotify.com/album/7KwBG3qnGU2FBsfXMkIVjn) | 3:42 | 2022-10-18 | 2024-04-19 |
@@ -61,7 +61,7 @@
 | [Second Sparkle](https://open.spotify.com/track/45f4GDIfxYJempbVqaxvtV) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:25 | 2023-03-14 | 2024-12-11 |
 | [Shooting Voice!!](https://open.spotify.com/track/1qbJx4kFTi7KbYIuJTE4CW) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [not ALONE not HITORI / ミラクル STAY TUNE! / Shooting Voice!! \(Liella!盤\)](https://open.spotify.com/album/0cYFY7wyCIAgNxXnBps3uY) | 4:38 | 2022-10-18 | 2023-03-15 |
 | [Sing！Shine！Smile！](https://open.spotify.com/track/0l1xmDyMVZdRdIkjBnPMPn) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Sing！Shine！Smile！ / 未来の音が聴こえる \(第10話盤\)](https://open.spotify.com/album/5mKov3lKYFvgHWMpBZjxaJ) | 4:26 | 2022-10-18 | 2024-12-11 |
-| [Special Color](https://open.spotify.com/track/3DvKZW3rxxf7Uvvzz4iGDU) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第3話盤】](https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG) | 3:47 | 2024-12-10 |  |
+| [Special Color](https://open.spotify.com/track/3DvKZW3rxxf7Uvvzz4iGDU) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Bubble Rise / Special Color【第3話盤】](https://open.spotify.com/album/78lWjtezWnITvCcdJFhUoG) | 3:47 | 2024-12-10 | 2025-01-08 |
 | [Starlight Prologue](https://open.spotify.com/track/7zKZm2x7vuXuuxPAz9U97B) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第12話盤\)](https://open.spotify.com/album/5tNjxI6HcxmeEhTl4Q7pwf) | 4:05 | 2022-10-18 | 2024-04-19 |
 | [Starlight Prologue](https://open.spotify.com/track/3ZLA4mtXWEicuAh4qpGKPt) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/1WL0ewJxIVf0dvOEhHxyfL) | 4:06 | 2022-10-25 | 2022-11-14 |
 | [Starry Prayer](https://open.spotify.com/track/7cGH6rmdQga1CpehVY8HwS) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/6LHaUvM2Rg2ct1FyJZAUKn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 4:08 | 2023-03-14 |  |
@@ -84,7 +84,7 @@
 | [エンドレスサーキット \- 平安名すみれ Ver.](https://open.spotify.com/track/7u57GnFsg1CaOC0c7eVp83) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 2:35 | 2022-10-25 |  |
 | [ガラスボールリジェクション](https://open.spotify.com/track/3AWf6m8kodABG5zHwGlwMF) | [若菜四季 \(CV.大熊和奏\)](https://open.spotify.com/artist/0m7iEADKInye7VJUryESTH) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:17 | 2023-03-14 |  |
 | [シェキラ☆☆☆](https://open.spotify.com/track/6kO083O2vEVcuwpR4WdVnR) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA) | 4:22 | 2024-01-09 | 2024-12-11 |
-| [シェキラ☆☆☆](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 | 2024-01-09 | 2025-01-07 |
+| [シェキラ☆☆☆](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 | 2024-01-09 |  |
 | [スター宣言](https://open.spotify.com/track/2NXZ1iOG0zV0petFHEc3iG) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [WE WILL!!](https://open.spotify.com/album/1tOOzv1BUFulpiX5uiKnih) | 3:42 | 2022-10-18 | 2024-05-21 |
 | [スーパースター!!](https://open.spotify.com/track/5advyz09kWU8YaumAT5QV8) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [スーパースター!!](https://open.spotify.com/album/6eX46XN7ENPio7gIiQCFjo) | 3:51 | 2024-12-24 |  |
 | [ノンフィクション!!](https://open.spotify.com/track/0wmhZDwpQ5GrHmUw0gptpB) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/5rh6WW5CgGcvHVbPrxG8xp) | 3:23 | 2024-01-09 | 2024-12-11 |
@@ -119,6 +119,7 @@
 | [私のSymphony](https://open.spotify.com/track/0Cnz62LYVwh5T7hT6gtuIH) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空【私を叶える物語盤】](https://open.spotify.com/album/7aYFuncCjAdDCg5gzZ8hEn) | 3:57 | 2022-10-18 | 2023-03-15 |
 | [私のSymphony \- 2022 Version](https://open.spotify.com/track/0uSJF9rlX5ZxyCfzeuSugO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:57 | 2023-03-14 | 2024-01-10 |
 | [私のSymphony \- 2023Ver.](https://open.spotify.com/track/48G3gVCSvekCASVHf4Uacu) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA) | 3:58 | 2024-01-09 | 2024-12-11 |
+| [笑顔のPromise](https://open.spotify.com/track/1mDT2QqU9HrR4hMtxVB9V9) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [笑顔のPromise / スーパースター!!【第11話盤】](https://open.spotify.com/album/2ZiTP00CQYrSU1pnkq5S5f) | 3:31 | 2025-01-07 |  |
 | [絶対的LOVER](https://open.spotify.com/track/17oby8h5rK1OepOgeALfsZ) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn), [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [ウィーン・マルガレーテ \(CV.結那\)](https://open.spotify.com/artist/0IT7A0FzWpFcdnoYf6TSGW), [鬼塚冬毬 \(CV.坂倉 花\)](https://open.spotify.com/artist/2swADD6MbEMcCiQkGm7C0A) | [絶対的LOVER / Dazzling Game【第6話盤】](https://open.spotify.com/album/6ID3UBDyfppFlybkEIK0hb) | 4:29 | 2024-12-10 |  |
 | [色づいて透明](https://open.spotify.com/track/0EKlRBJgxUvI8VB7ae6LMp) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第1話盤\)](https://open.spotify.com/album/2DNuAnj2LYjDW5A2ueXQWa) | 3:48 | 2022-10-18 | 2023-03-15 |
 | [茜心](https://open.spotify.com/track/1hIp7DZMhrW6gxYVccHWZh) | [米女メイ \(CV.薮島朱音\)](https://open.spotify.com/artist/1W4jgYI8DknX5z0MMXca95) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:44 | 2023-03-14 |  |

@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Laundry Day",
-  "num_followers": 1688745,
+  "num_followers": 1688784,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "he's just not that into you!",
-        "url": "https://open.spotify.com/album/1tzfA5Po3zdgq3vex66DKg"
-      },
-      "artists": [
-        {
-          "name": "Amelia Moore",
-          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "see through",
-      "url": "https://open.spotify.com/track/1lsJjnvmbmx1ufznwAdYku"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Calling After Me",
@@ -795,6 +779,22 @@
       "duration_ms": 187692,
       "name": "Calling After Me",
       "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "he's just not that into you!",
+        "url": "https://open.spotify.com/album/1tzfA5Po3zdgq3vex66DKg"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "see through",
+      "url": "https://open.spotify.com/track/1lsJjnvmbmx1ufznwAdYku"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -829,26 +829,6 @@
       "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Fauxllennium",
-        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "Yesterday's World",
-      "url": "https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
@@ -867,6 +847,26 @@
       "duration_ms": 200030,
       "name": "I think about it all the time featuring bon iver",
       "url": "https://open.spotify.com/track/0ycAilgFiRrzbRFIYIpLH0"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Fauxllennium",
+        "url": "https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "Yesterday's World",
+      "url": "https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 178569,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 245720,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 178569,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1081,6 +1081,22 @@
       "url": "https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 182380,
+      "name": "jupiter",
+      "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Best Friends",
@@ -1097,20 +1113,20 @@
       "url": "https://open.spotify.com/track/1HdkhxFrzifewm5amVrP9D"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "DIVE",
-        "url": "https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP"
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 182380,
-      "name": "jupiter",
-      "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Wally",
-        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Wally",
-      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Cacophony",
         "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 259273,
       "name": "last woman on earth",
       "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 193887,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 184533,
       "name": "Purple Teeth, The Bravery",
       "url": "https://open.spotify.com/track/17Az6lQEgxICVvHrr7VbAg"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 193887,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1329,38 +1329,6 @@
       "url": "https://open.spotify.com/track/7CXkLmEUNqa8FI0PgkfC00"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Bestie, Move On",
-        "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 211581,
-      "name": "Bestie, Move On",
-      "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 207587,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -1377,52 +1345,20 @@
       "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Little Acts Of Violence",
-        "url": "https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX"
-      },
-      "artists": [
-        {
-          "name": "Ray Bull",
-          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Little Acts Of Violence",
-      "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Dispose of Me",
-        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+        "name": "Bestie, Move On",
+        "url": "https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Dispose of Me",
-      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "cherry cola / sunburn",
-        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "cherry cola",
-      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
+      "duration_ms": 211581,
+      "name": "Bestie, Move On",
+      "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1443,18 +1379,66 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Take Me to the River",
-        "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 264066,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
+      "duration_ms": 207587,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Little Acts Of Violence",
+        "url": "https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX"
+      },
+      "artists": [
+        {
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Little Acts Of Violence",
+      "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "cherry cola / sunburn",
+        "url": "https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn"
+      },
+      "artists": [
+        {
+          "name": "Devon Again",
+          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
+        }
+      ],
+      "duration_ms": 168226,
+      "name": "cherry cola",
+      "url": "https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Dispose of Me",
+        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Dispose of Me",
+      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1471,6 +1455,22 @@
       "duration_ms": 198463,
       "name": "Already Yours",
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Take Me to the River",
+        "url": "https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
     },
     {
       "added_at": "2024-11-15 05:00:00",

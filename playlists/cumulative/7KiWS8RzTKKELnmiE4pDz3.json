@@ -8283,6 +8283,28 @@
     },
     {
       "album": {
+        "name": "Like Spike",
+        "url": "https://open.spotify.com/album/00ilJ2EvWO9HSIQWq8xTLX"
+      },
+      "artists": [
+        {
+          "name": "CHASETHEMONEY",
+          "url": "https://open.spotify.com/artist/1OuuJcg5OofM36OyEzoB2X"
+        },
+        {
+          "name": "Baby Smoove",
+          "url": "https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107760,
+      "name": "Like Spike",
+      "url": "https://open.spotify.com/track/4KY57NMk1n64RQmnkd7OHZ"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },

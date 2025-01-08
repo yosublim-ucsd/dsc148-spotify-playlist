@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-790 songs - 1 day 10 hr 14 min
+791 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Fireflies](https://open.spotify.com/track/0xD0B7HW1VXcNuOPZ2QPTI) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [Fireflies](https://open.spotify.com/album/2gRDXli0cRQmopNo4nwQ62) | 2:05 | 2021-12-07 | 2022-07-20 |
 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 | 2024-01-04 |  |
 | [Firmamentum Mysteria](https://open.spotify.com/track/42X3YAIxpCHm6YbNbvdMxO) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Firmamentum Mysteria](https://open.spotify.com/album/0wlyujvSVRp3g03vVoWPRt) | 2:42 | 2021-12-07 | 2023-04-05 |
+| [First Espresso](https://open.spotify.com/track/0a36Dei2NUET7Bxc0d9q7e) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [First Espresso](https://open.spotify.com/album/0HXafUnDAJ9zXyKGMcCF78) | 2:41 | 2025-01-07 |  |
 | [Flashing lights](https://open.spotify.com/track/3jbaWxRwhXCZmvpPWHIKe3) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Flashing lights](https://open.spotify.com/album/6fFieao3USpz413NdKe9Or) | 3:27 | 2021-12-07 | 2022-07-20 |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-01-04 | 2024-02-03 |
 | [Float Away](https://open.spotify.com/track/5uNxH6IeDRZnn9KiRtIflT) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Distant Lovers](https://open.spotify.com/album/3GhSTFSSS851A5sykAVh0T) | 2:43 | 2021-12-07 | 2022-10-05 |

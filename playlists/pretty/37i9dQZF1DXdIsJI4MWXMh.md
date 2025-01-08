@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,101 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,134 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 63 | [Me Voy a Lanzar](https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Me Voy a Lanzar](https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt) | 2:57 |
 | 64 | [A Través del Vaso \- Remix](https://open.spotify.com/track/2Q8lTtjk4TYapqf6meBBKc) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [A Través del Vaso \(Remix\)](https://open.spotify.com/album/34BUoxHKkDIPjrfjJWLS84) | 3:59 |
 | 65 | [Dame Tu Pelo Niña](https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq), [René Inostroza](https://open.spotify.com/artist/6XV9G9NCLb6xx1FCxLddDG) | [Guarachas Rancheras](https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI) | 3:08 |
-| 66 | [El Lirio](https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Ayer, Hoy y Siempre](https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ) | 2:48 |
-| 67 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 |
+| 66 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 |
+| 67 | [El Lirio](https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Ayer, Hoy y Siempre](https://open.spotify.com/album/3AAgbg7fNbvJSVpmN3jTEJ) | 2:48 |
 | 68 | [La Diuca](https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Diuca](https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7) | 3:20 |
 | 69 | [Los Vampiros](https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Camino al Éxito](https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR) | 3:31 |
 | 70 | [Cantina de Mi Barrio](https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Relatos de Mi Vida](https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g) | 4:24 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 82 | [Claveles de Enero](https://open.spotify.com/track/3qcEUQO11QYYaDvfNFALEq) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Claveles de Enero](https://open.spotify.com/album/14A1gd17HW0epUcTqFu49C) | 3:32 |
 | 83 | [Golpes y Besos](https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT) | [Los Principes del Norte](https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Grandes Éxitos](https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I) | 3:55 |
 | 84 | [Ni Por Mil Puñados de Oro / Dos Monedas / De Padre Desconocido \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/74ge2rdkufNd7a6F6Tnle0) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [Ni Por Mil Puñados de Oro / Dos Monedas / De Padre Desconocido \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4PrQw2MbxeywRgy6zjZWdU) | 11:32 |
-| 85 | [Acábame de Matar](https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ) | [El Azote](https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh) | [Acábame de Matar](https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV) | 3:35 |
-| 86 | [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 |
+| 85 | [Ojitos Verdes](https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv) | [Los Diamantes de Purapel](https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U) | [Nuestra Música Suena Mas Fuerte Que Tus Problemas](https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf) | 3:31 |
+| 86 | [Acábame de Matar](https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ) | [El Azote](https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh) | [Acábame de Matar](https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV) | 3:35 |
 | 87 | [Sácale Leche a la Vaca](https://open.spotify.com/track/1VfOAcpdLVMd5M1FdyA6XO) | [Alex y el Clan Azabache](https://open.spotify.com/artist/1Czzz8yLK9B2CvVvwGvpZr) | [Alex y el Clan Azabache](https://open.spotify.com/album/1Xk4fcTkrVsPHbtSHlaYWJ) | 3:00 |
 | 88 | [Por Andar de Patas Negras](https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [Por Andar de Patas Negras](https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7) | 3:54 |
 | 89 | [Golero Emparamao](https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [Golero Emparamao](https://open.spotify.com/album/35DKFImacmTdYePcu2utI7) | 4:28 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 95 | [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 |
 | 96 | [Abrazado a Mi Botella](https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X) | [Los Ruiseñores de la Frontera](https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4) | [Fiesta Ranchera](https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W) | 3:06 |
 | 97 | [Burbujas de Amor](https://open.spotify.com/track/2x5COOGasiDIfK7oHgpeJl) | [Los Vaqueros Del Sur](https://open.spotify.com/artist/0r8NXIbmbXpE6drioTrX5p) | [El Regreso](https://open.spotify.com/album/6VQm0giHf7eAuMfqPZqEpu) | 4:35 |
-| 98 | [Una Cerveza \- Remix](https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Una Cerveza \(Remix\)](https://open.spotify.com/album/5LgepBhce1HDTSO8Ko6e1G) | 3:16 |
-| 99 | [Como Tú Decidas](https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:14 |
+| 98 | [Como Tú Decidas](https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:14 |
+| 99 | [Una Cerveza \- Remix](https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Una Cerveza \(Remix\)](https://open.spotify.com/album/5LgepBhce1HDTSO8Ko6e1G) | 3:16 |
 | 100 | [Quisiera y No Quisiera](https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Quisiera y No Quisiera](https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat) | 2:34 |
 
 Snapshot ID: `Z1MzXAAAAACCrNwLlDxEM4aRA457kamI`

@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Timothée Chalamet in A Complete Unknown
 
-293 songs - 18 hr 38 min
+294 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Don’t It Feel Good](https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Other People's Songs](https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD) | 4:48 | 2023-12-15 |  |
 | [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8) | [Down in the Willow Garden \(with Rufus Wainwright\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz) | 3:28 | 2023-11-17 |  |
 | [Down To You \- Live](https://open.spotify.com/track/0Gn207mWAoAztT808PNoYK) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Joni 75: A Joni Mitchell Birthday Celebration \(Live\)](https://open.spotify.com/album/1YTSVDA02Rm7YKZkxQrQYY) | 5:50 | 2021-12-13 | 2022-07-28 |
-| [Driver 8](https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Driver 8](https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu) | 3:35 | 2021-12-13 |  |
+| [Driver 8](https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Driver 8](https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu) | 3:35 | 2021-12-13 | 2025-01-08 |
 | [Drunken Angel \(with Alynda Segarra\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Alynda Segarra](https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow) | [Drunken Angel \(with Alynda Segarra\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769) | 3:59 | 2023-09-01 |  |
 | [Dust Cain't Kill Me](https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Dust Cain't Kill Me](https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA) | 3:20 | 2021-12-13 |  |
 | [El Paso \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7AhhqaHd3ad4qgr6GZ39sg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Spotify Singles](https://open.spotify.com/album/6vF9azZbi8E19Vw48hdtaB) | 5:21 | 2021-12-13 | 2022-08-07 |
@@ -252,6 +252,7 @@
 | [The Middle](https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [The Middle](https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW) | 3:43 | 2021-12-13 |  |
 | [The Partisan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:09 | 2021-12-13 |  |
 | [The Safety Dance](https://open.spotify.com/track/5CjOsESIfgyByBGKL7MCWU) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:26 | 2021-12-13 |  |
+| [The Times They Are A\-Changin'](https://open.spotify.com/track/36r8344cJ81az8mfO6yojr) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [A Complete Unknown \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t) | 3:13 | 2025-01-07 |  |
 | [There Is A War \[Feat\. Kevin Morby & Sam Cohen\]](https://open.spotify.com/track/6OmnOaeTaE6KGtsEaw6Lit) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF), [Sam Cohen](https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP) | [There Is A War \[Feat\. Kevin Morby & Sam Cohen\]](https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP) | 3:42 | 2021-12-13 |  |
 | [These Days](https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [These Days](https://open.spotify.com/album/404DH5KgWamwVcCincjRJE) | 3:05 | 2022-10-14 | 2023-02-03 |
 | [These Days](https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:03 | 2022-08-26 |  |

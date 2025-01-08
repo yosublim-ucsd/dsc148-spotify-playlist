@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Sam Austins",
-  "num_followers": 54515,
+  "num_followers": 54537,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-12-18 16:39:54",
       "album": {
-        "name": "Lahai (Deluxe)",
-        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 226495,
-      "name": "Dancing Circles 2.0",
-      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
         "name": "A Girl Like You",
         "url": "https://open.spotify.com/album/21bl39xHspuIISAteKFXoq"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 116852,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr"
+    },
+    {
+      "added_at": "2024-12-18 16:39:54",
+      "album": {
+        "name": "Lahai (Deluxe)",
+        "url": "https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 226495,
+      "name": "Dancing Circles 2.0",
+      "url": "https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF"
     },
     {
       "added_at": "2024-12-18 16:39:54",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-12-18 16:39:54",
       "album": {
+        "name": "Cards On The Table",
+        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 176913,
+      "name": "Cards On The Table",
+      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
+    },
+    {
+      "added_at": "2024-12-18 16:39:54",
+      "album": {
         "name": "ceremonial contrafact (empathogen deluxe)",
         "url": "https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 159200,
       "name": "wanted",
       "url": "https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "Cards On The Table",
-        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 176913,
-      "name": "Cards On The Table",
-      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
     },
     {
       "added_at": "2024-12-18 16:39:54",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-12-18 16:39:54",
       "album": {
-        "name": "Undecided",
-        "url": "https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        },
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 145226,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
         "name": "So Long",
         "url": "https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 211846,
       "name": "So Long",
       "url": "https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN"
+    },
+    {
+      "added_at": "2024-12-18 16:39:54",
+      "album": {
+        "name": "Undecided",
+        "url": "https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        },
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 145226,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
     }
   ],
   "unique_name": "Indie Frequency",

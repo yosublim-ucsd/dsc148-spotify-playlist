@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La banda sonora de tu orgullo. Foto: Ojete Calor.",
+  "description": "La banda sonora de tu orgullo. Foto: Luna Zuazu.",
   "name": "Glow Espa\u00f1a",
   "tracks": [
     {
@@ -761,6 +761,28 @@
     },
     {
       "album": {
+        "name": "Liquidaci\u00f3n Total",
+        "url": "https://open.spotify.com/album/2Jq4i3ebAVWES6LDsZbhaM"
+      },
+      "artists": [
+        {
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+        },
+        {
+          "name": "Tavi Gallart",
+          "url": "https://open.spotify.com/artist/2KnHWM4lwibbR20owgISSc"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205482,
+      "name": "Demasiado Co\u00f1o",
+      "url": "https://open.spotify.com/track/0iOZZGCSbzjnHzpvS3ppS8"
+    },
+    {
+      "album": {
         "name": "DIFERENTE",
         "url": "https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R"
       },
@@ -909,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Esa Diva",
+        "url": "https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177874,
+      "name": "Esa Diva",
+      "url": "https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh"
+    },
+    {
+      "album": {
         "name": "estonovabien",
         "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
       },
@@ -960,6 +1000,24 @@
       "duration_ms": 162461,
       "name": "Flow deskiciada",
       "url": "https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp"
+    },
+    {
+      "album": {
+        "name": "FOTOMAT\u00d3N",
+        "url": "https://open.spotify.com/album/5mJTu2hHXeFE8tBNxIuZVA"
+      },
+      "artists": [
+        {
+          "name": "Luna Zuazu",
+          "url": "https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "FOTOMAT\u00d3N",
+      "url": "https://open.spotify.com/track/4nOYt1P3xyq9LhC8DYCC8T"
     },
     {
       "album": {
@@ -1450,7 +1508,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 217233,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/3NxObzEzw1LOyWiU5UNzko"
@@ -1740,7 +1798,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 148607,
       "name": "No Quiero Ser Tu Amiga",
       "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
@@ -2012,7 +2070,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-06",
+      "date_removed": null,
       "duration_ms": 221050,
       "name": "Piensa En Positivo - Madrid Pride 2020 by Juan Sueiro",
       "url": "https://open.spotify.com/track/6YhDRruPqlQTHN2SxsnG8W"
@@ -2132,7 +2190,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 133253,
       "name": "Queri\u00f3",
       "url": "https://open.spotify.com/track/3gdnIZWLuf9Ssvcz3Q1Fr0"
@@ -2470,7 +2528,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 147222,
       "name": "Todos Miran",
       "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"

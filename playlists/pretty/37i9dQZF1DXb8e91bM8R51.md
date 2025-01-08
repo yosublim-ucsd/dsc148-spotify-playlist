@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,072 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,077 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 60 | [Do What I Want](https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Do What I Want](https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO) | 2:51 |
 | 61 | [We Set The Trends](https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [We Set The Trends](https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq) | 3:40 |
 | 62 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 |
-| 63 | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU) | 2:39 |
-| 64 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj) | 3:08 |
+| 63 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj) | 3:08 |
+| 64 | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Rice N Gravy \- A COLORS SHOW](https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU) | 2:39 |
 | 65 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 |
 | 66 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 |
 | 67 | [Bitch Please II](https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Marshall Mathers LP](https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ) | 4:48 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 115 | [Nikes on My Feet](https://open.spotify.com/track/4Hq1q82uvzNxUYmgBOxPco) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Nikes on My Feet](https://open.spotify.com/album/251tFbDekSN0fthVyqG7sL) | 2:44 |
 | 116 | [SPEND IT](https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [THE HUSTLE CONTINUES](https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO) | 3:18 |
 | 117 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 |
-| 118 | [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 |
-| 119 | [Super](https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Super](https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo) | 2:57 |
+| 118 | [Super](https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Super](https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo) | 2:57 |
+| 119 | [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 |
 | 120 | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr) | 4:41 |
 
 Snapshot ID: `Z2WXtAAAAADYrPfS6PO0nIlLXkq3uVmP`

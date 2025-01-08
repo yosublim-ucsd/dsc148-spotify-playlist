@@ -2,7 +2,7 @@
 
 ### [Wedding Songs 2025](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
-> Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
+> Celebrate your wedding with over 100 love songs\. Perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
 258 songs - 15 hr 25 min
 

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX78L8foCBod1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX78L8foCBod1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX78L8foCBod1)
 
-### [澤野弘之 Hiroyuki Sawano Works](https://open.spotify.com/playlist/37i9dQZF1DX78L8foCBod1)
+### [Hiroyuki Sawano Works](https://open.spotify.com/playlist/37i9dQZF1DX78L8foCBod1)
 
-> One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
+> One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-178 songs - 12 hr 20 min
+180 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Pray](https://open.spotify.com/track/2qHW7U1LRU9F9HPUnJ6ffk) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Pray](https://open.spotify.com/album/0oxb7UtZLAmpBjHZ0mM1PD) | 3:04 | 2024-01-16 |  |
 | [puzzle](https://open.spotify.com/track/0aOrApqjckQ2X9RPefGWNq) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [Dispersion](https://open.spotify.com/album/0xfewBOYmMtCWKQerPccGY) | 3:01 | 2024-01-09 |  |
 | [Reaper](https://open.spotify.com/track/2KKa0QOBvPUlLxYh2xSTBZ) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [Reaper](https://open.spotify.com/album/6xRgl7P9n5KmNgNV70YaE8) | 3:08 | 2024-03-26 |  |
+| [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-07 |  |
 | [Remind You](https://open.spotify.com/track/65wILiMv7t8DN4wweVQT0C) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2](https://open.spotify.com/album/6CHzOvncncZpIt3htstibX) | 4:56 | 2022-06-21 | 2024-04-19 |
 | [REMIND YOU](https://open.spotify.com/track/28lfGtjQI5KYTRXxxzsu2t) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [機動戦士ガンダムUC オリジナルサウンドトラック 2](https://open.spotify.com/album/7gd542CJnlwAYiTJvpvynh) | 4:56 | 2022-06-07 |  |
 | [Reminiscing](https://open.spotify.com/track/5HaYkKZ0bsisESMVZpljWw) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NAQT](https://open.spotify.com/album/05spQrl3ztKENm71NLLpyO) | 2:51 | 2023-03-21 |  |
@@ -129,6 +130,7 @@
 | [sh0ut](https://open.spotify.com/track/0JUdNScTFs37m9dFGC07qp) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [2V\-Alk](https://open.spotify.com/album/3ncBgCOeYrUJ9hGmySHiUb) | 4:05 | 2022-06-21 | 2023-02-03 |
 | [sh0ut](https://open.spotify.com/track/0q02P4yUz4BAcmzbGVrCEU) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:05 | 2022-09-29 | 2024-04-19 |
 | [sh0ut](https://open.spotify.com/track/72CR78tomDaGj2yXyPAUWI) | [SawanoHiroyuki\[nZk\]:Tielle&Gemie](https://open.spotify.com/artist/2A0KFlCxqLrv5U7YSFLl8q) | [2V\-ALK](https://open.spotify.com/album/1cWreaVLzKCYEim1vDF89j) | 4:05 | 2022-06-07 |  |
+| [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 | 2025-01-07 |  |
 | [StarRingChild](https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 5:28 | 2022-06-21 | 2024-04-19 |
 | [StarRingChild](https://open.spotify.com/track/4X9TyaTlXZKoYEaljWBIEK) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Best Selection Noir](https://open.spotify.com/album/6RLAmJ22IPTWR4JF9DsZtR) | 5:28 | 2022-06-07 |  |
 | [StarRingChild](https://open.spotify.com/track/6BHd9uikDLiAYiF9UwqxPk) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [BEST SELECTION "noir"](https://open.spotify.com/album/3HORDo7fTgMBQoI9sjuEM8) | 5:28 | 2022-09-29 | 2022-11-14 |

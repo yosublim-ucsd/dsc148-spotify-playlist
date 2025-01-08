@@ -5925,6 +5925,24 @@
     },
     {
       "album": {
+        "name": "GHETTO",
+        "url": "https://open.spotify.com/album/6EOxWKwQhIimxtoxCG32Wt"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161332,
+      "name": "GHETTO",
+      "url": "https://open.spotify.com/track/0sHrLJSJjXgYfylCXqXjGN"
+    },
+    {
+      "album": {
         "name": "ESCI DAL TUNNEL",
         "url": "https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo"
       },
@@ -10921,7 +10939,7 @@
         },
         {
           "name": "Astro",
-          "url": "https://open.spotify.com/artist/1jmZ7RAgAnDaMUeXJdhtZi"
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
         }
       ],
       "date_added": "2024-12-19",

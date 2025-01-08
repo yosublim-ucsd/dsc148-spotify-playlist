@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-360 songs - 18 hr 59 min
+361 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [Love Me Enough \(feat\. Monica & Keyshia Cole\)](https://open.spotify.com/track/64VYqDH3xyxIFZjrsgjLCZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Pink Friday 2 \(Gag City Deluxe\)](https://open.spotify.com/album/5eA2VJ0yeiU4kXz1zvuMro) | 3:50 | 2024-01-31 |  |
 | [M&M's](https://open.spotify.com/track/5YAhCJ4X7Hgtwg6wr4nRyP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:49 | 2023-12-13 |  |
 | [Mad Russian \(feat\. Lil Skies\)](https://open.spotify.com/track/764OUqC5YJuYJ9wazz9LtP) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Evil Genius](https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX) | 2:21 | 2023-12-13 |  |
-| [Make It Out](https://open.spotify.com/track/5oONotfkdOpceXSsNlqN0B) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Signed to the Streets 2.5](https://open.spotify.com/album/7ur402aEploQusH5JUSZyy) | 4:03 | 2023-12-13 |  |
+| [Make It Out](https://open.spotify.com/track/6h4JuOPlHFYpHPIEmBwbus) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:06 | 2025-01-07 |  |
+| [Make It Out](https://open.spotify.com/track/5oONotfkdOpceXSsNlqN0B) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Signed to the Streets 2.5](https://open.spotify.com/album/7ur402aEploQusH5JUSZyy) | 4:03 | 2023-12-13 | 2025-01-08 |
 | [Making of a Murderer](https://open.spotify.com/track/0TiwfeDAJOO0t5xOtugG7b) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:46 | 2023-12-13 |  |
 | [MALA \(feat\. Anuel AA\)](https://open.spotify.com/track/5tYCl2bT9bDjMuTyn6OVb0) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY \(Revised\)](https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr) | 3:26 | 2023-12-13 |  |
 | [Married to Ben Franklin](https://open.spotify.com/track/24yigWZXf5VCUbNxgY4xJ9) | [D.Carr](https://open.spotify.com/artist/0MlRmUUF2s0CeAzDFxRmAV) | [Married to Ben Franklin](https://open.spotify.com/album/6Wzc9oZ2aFPUnzRa4Bbwvy) | 4:23 | 2023-12-13 |  |

@@ -2,7 +2,7 @@
 
 ### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
-> Keeping the party going with Jerk x Jollof!
+> Keeping the party going with Jerk x Jollof! <a href="https://www.instagram.com/reel/DEh9W\_xIbtt/?utm\_source=ig\_web\_copy\_link&igsh=MzRlODBiNWFlZA==">ICYMI</a>
 
 1,435 songs - 3 day 14 hr 59 min
 

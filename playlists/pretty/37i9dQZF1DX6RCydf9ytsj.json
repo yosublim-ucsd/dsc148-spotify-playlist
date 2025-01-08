@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 663013,
+  "num_followers": 663156,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Does Fort Worth Ever Cross Your Mind",
-        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
+        "name": "Ocean Front Property",
+        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 154360,
-      "name": "The Fireman",
-      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+      "duration_ms": 188533,
+      "name": "Ocean Front Property",
+      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -487,8 +487,8 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Ocean Front Property",
-        "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
+        "name": "Does Fort Worth Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/40FQbBUr9JVZ5pWIQMG9JF"
       },
       "artists": [
         {
@@ -496,9 +496,25 @@
           "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Ocean Front Property",
-      "url": "https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII"
+      "duration_ms": 154360,
+      "name": "The Fireman",
+      "url": "https://open.spotify.com/track/5CwZU4BVFX0dyqG1gKfHHr"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -519,22 +535,6 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "George Strait's Greatest Hits",
-        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "You Look So Good In Love",
-      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Lord I Hope This Day Is Good",
         "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 249906,
       "name": "Lord, I Hope This Day Is Good - Single Version",
       "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "George Strait's Greatest Hits",
+        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "You Look So Good In Love",
+      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+        "name": "Oak Ridge Boys Collection",
+        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
       },
       "artists": [
         {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 251560,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
+      "duration_ms": 159866,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Oak Ridge Boys Collection",
-        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
         }
       ],
-      "duration_ms": 159866,
-      "name": "American Made",
-      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
+      "duration_ms": 251560,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "The Best Of Terri Gibbs",
+        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
+      },
+      "artists": [
+        {
+          "name": "Terri Gibbs",
+          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Somebody's Knockin'",
+      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Best Of Terri Gibbs",
-        "url": "https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t"
-      },
-      "artists": [
-        {
-          "name": "Terri Gibbs",
-          "url": "https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Somebody's Knockin'",
-      "url": "https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
         "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
       },
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+        "name": "Wheels",
+        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ"
+      "duration_ms": 258799,
+      "name": "I'll Still Be Loving You",
+      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi"
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
       },
       "artists": [
         {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
         }
       ],
-      "duration_ms": 258799,
-      "name": "I'll Still Be Loving You",
-      "url": "https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT"
+      "duration_ms": 167426,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Best Of The Bellamy Brothers",
-        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Old Hippie",
-      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "80s Ladies",
         "url": "https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 287000,
       "name": "The Bluest Eyes In Texas",
       "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Old Hippie",
+      "url": "https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The First Of A Million Kisses",
-        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
       "artists": [
         {
-          "name": "Fairground Attraction",
-          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
         }
       ],
-      "duration_ms": 216573,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+        "name": "The First Of A Million Kisses",
+        "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
       },
       "artists": [
         {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+          "name": "Fairground Attraction",
+          "url": "https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa"
         }
       ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
+      "duration_ms": 216573,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "If It Don't Come Easy",
-      "url": "https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Forester Sisters",
         "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 184946,
       "name": "(That's What You Do) When You're in Love",
       "url": "https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "If It Don't Come Easy",
+      "url": "https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu"
     },
     {
       "added_at": "2024-10-14 21:15:40",

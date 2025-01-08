@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 144138,
       "name": "ASTRO",
       "url": "https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 105789,
       "name": "AVOID ME",
       "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
@@ -2302,6 +2302,28 @@
       "duration_ms": 113156,
       "name": "bloody!",
       "url": "https://open.spotify.com/track/4ZBEfyphqFsSkjWP7y2L6E"
+    },
+    {
+      "album": {
+        "name": "BLOODY!",
+        "url": "https://open.spotify.com/album/0yr5YRR7l813mmHITxmFWa"
+      },
+      "artists": [
+        {
+          "name": "M4GN",
+          "url": "https://open.spotify.com/artist/1qaCszXlFNPEnCELYBixa5"
+        },
+        {
+          "name": "DJ Oliver Mendes",
+          "url": "https://open.spotify.com/artist/2ZuUKw4Pfvj7zIKxYY3HAh"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139384,
+      "name": "BLOODY! - ULTRA SLOWED",
+      "url": "https://open.spotify.com/track/03E0f4JneWZEtrQPU6EsIV"
     },
     {
       "album": {
@@ -7270,7 +7292,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 97090,
       "name": "KRUSH BANDICOOT",
       "url": "https://open.spotify.com/track/7Iw1IbjTLh4IFltKiwiNcE"
@@ -9342,6 +9364,28 @@
       "duration_ms": 96254,
       "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
       "url": "https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr"
+    },
+    {
+      "album": {
+        "name": "Montagem Lunar Diamante",
+        "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "WXCHSXN",
+          "url": "https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185177,
+      "name": "Montagem Lunar Diamante - Slowed",
+      "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
     },
     {
       "album": {
@@ -15788,6 +15832,32 @@
       "duration_ms": 96278,
       "name": "YUMMI",
       "url": "https://open.spotify.com/track/74ePdGLb9VnKpazKDUUz3a"
+    },
+    {
+      "album": {
+        "name": "z-alpha 2",
+        "url": "https://open.spotify.com/album/2H5ysZmO4OKxPPRQKDJZDK"
+      },
+      "artists": [
+        {
+          "name": "qaraqshy",
+          "url": "https://open.spotify.com/artist/32Pxa55IN0QAmFtzWcT2w9"
+        },
+        {
+          "name": "SoulFusi",
+          "url": "https://open.spotify.com/artist/1WptJcbTMCn53nGP8HMAg2"
+        },
+        {
+          "name": "WXRTNAX",
+          "url": "https://open.spotify.com/artist/2Ytgz8jqYULfKBtQCNrihy"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75465,
+      "name": "z-alpha 2",
+      "url": "https://open.spotify.com/track/55o52oV9jNgEJDDrQsaky1"
     },
     {
       "album": {

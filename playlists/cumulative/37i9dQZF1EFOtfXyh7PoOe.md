@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 5 hr 57 min
+126 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Hate Me](https://open.spotify.com/track/2deriq19UAVaOKlXxNbQtL) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [Hate Me](https://open.spotify.com/album/6yl7utPZCEZ59FmvkI8e8r) | 2:41 | 2024-06-13 |  |
 | [Head Up \(feat\. James Newman\)](https://open.spotify.com/track/4t3mg02RDihx96FOBuwL9H) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [FUTURE](https://open.spotify.com/album/0zysDjrxBtO6sb2pOJyxNt) | 3:11 | 2024-06-13 |  |
 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 | 2024-06-13 |  |
+| [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 | 2025-01-07 |  |
 | [HIGH \(feat\. Claudia Valentina\)](https://open.spotify.com/track/4KoSb4nqOjLMptbDaTbOJv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [11:11](https://open.spotify.com/album/50MeziN5Do8zDtN4wINTTS) | 2:48 | 2024-06-13 |  |
 | [House On Fire](https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:19 | 2024-06-13 |  |
 | [Huyu Suyu](https://open.spotify.com/track/6TxVucau8TPKafZT68xOhI) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 2:33 | 2024-06-13 |  |
@@ -113,6 +114,7 @@
 | [S.I.N.G.L.E](https://open.spotify.com/track/0Rs2UGxt1HwI9ZxcuywX9k) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [S.I.N.G.L.E](https://open.spotify.com/album/2PeCHxcEBzPUwodr7oWZ0V) | 2:42 | 2024-06-13 |  |
 | [Sacrifice](https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:40 | 2024-06-13 |  |
 | [Silence](https://open.spotify.com/track/60hmi2DksV0PYXBMoyiz88) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Hoppa \(pt\. 1\)](https://open.spotify.com/album/5AkqkeuP9dc0j8jl1z54rE) | 1:57 | 2024-06-13 |  |
+| [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 | 2025-01-07 |  |
 | [Start Walking](https://open.spotify.com/track/3rCnBkJlXQMDvivFU4NEtC) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 3:14 | 2024-06-13 |  |
 | [Stay](https://open.spotify.com/track/0BouPBCd9OuwPtnDhA3ZNK) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 3:00 | 2024-06-13 |  |
 | [Take It Or Leave It](https://open.spotify.com/track/5cZ1TPZO4miMEOO1UNknyd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:07 | 2024-06-13 |  |
@@ -129,6 +131,7 @@
 | [Unbelievable](https://open.spotify.com/track/1LHfEkVMR0Yj20C8lWdgpA) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Unbelievable](https://open.spotify.com/album/5jJMdQiPyWPh8RznQyioyu) | 3:09 | 2024-06-13 |  |
 | [Ur so Cute](https://open.spotify.com/track/1Ek0cobqdxtZeFyszepTly) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Ur so Cute](https://open.spotify.com/album/34YQYSGf7GOqUi5ROHSQa8) | 2:10 | 2024-06-13 |  |
 | [We Don't Care](https://open.spotify.com/track/6THwtgImf1ZAR2w3iknjeS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:27 | 2024-06-13 |  |
+| [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2025-01-07 |  |
 | [you wore it better](https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [you wore it better](https://open.spotify.com/album/0xFm8Bo12l57apTa52n2US) | 1:56 | 2024-07-18 | 2024-09-16 |
 | [you wore it better](https://open.spotify.com/track/487GiEQ1NhLnAVSMcEzfdu) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 1:56 | 2024-09-15 |  |
 

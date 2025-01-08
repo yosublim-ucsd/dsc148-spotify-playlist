@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: El C\u00f3modo Silencio De Los Que Hablan Poco.",
-  "num_followers": 191558,
+  "num_followers": 191560,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Vacaciones de Invierno (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2"
-      },
-      "artists": [
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        },
-        {
-          "name": "Sue\u00f1o A Marte",
-          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Vacaciones de Invierno - ac\u00fastico",
-      "url": "https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "LA WE\u00c1",
         "url": "https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 359233,
       "name": "Resiste M\u00e1s Que Yo",
       "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Vacaciones de Invierno (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        },
+        {
+          "name": "Sue\u00f1o A Marte",
+          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Vacaciones de Invierno - ac\u00fastico",
+      "url": "https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
-      },
-      "artists": [
-        {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
-        }
-      ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "Mujer Primavera",
         "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 359233,
       "name": "Carne - En Vivo",
       "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+      },
+      "artists": [
+        {
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+        }
+      ],
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Ases Falsos En El Coliseo",
-        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 243270,
-      "name": "Mala Fama - En Vivo",
-      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "LSD",
         "url": "https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 216149,
       "name": "LSD",
       "url": "https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Ases Falsos En El Coliseo",
+        "url": "https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 243270,
+      "name": "Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Punk Para Gatitos",
-        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
-      },
-      "artists": [
-        {
-          "name": "VerDor",
-          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Mech\u00f3n",
-      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "Mirar La Luz",
         "url": "https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+        "name": "Punk Para Gatitos",
+        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
       },
       "artists": [
         {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+          "name": "VerDor",
+          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
         }
       ],
-      "duration_ms": 236084,
-      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
+      "duration_ms": 172000,
+      "name": "Mech\u00f3n",
+      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -795,6 +779,22 @@
       "duration_ms": 170536,
       "name": "Explorador - Remaster 2022",
       "url": "https://open.spotify.com/track/1TBiwFjWO4bIpP2exPB0vy"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 236084,
+      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 249126,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
         "name": "Cahu\u00edn",
         "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 181812,
       "name": "Cahu\u00edn",
       "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
-        "name": "Adecuado",
-        "url": "https://open.spotify.com/album/0A6pBSUdKFD6bCuFtuC8ef"
-      },
-      "artists": [
-        {
-          "name": "Paracaidistas",
-          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
-        }
-      ],
-      "duration_ms": 172836,
-      "name": "Adecuado",
-      "url": "https://open.spotify.com/track/1I5n8449fEIHXSnoAh7K6K"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
+        "name": "Adecuado",
+        "url": "https://open.spotify.com/album/0A6pBSUdKFD6bCuFtuC8ef"
+      },
+      "artists": [
+        {
+          "name": "Paracaidistas",
+          "url": "https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP"
+        }
+      ],
+      "duration_ms": 172836,
+      "name": "Adecuado",
+      "url": "https://open.spotify.com/track/1I5n8449fEIHXSnoAh7K6K"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
         "name": "Me Vuelves a Herir (En Vivo)",
         "url": "https://open.spotify.com/album/5XsMRVvQlZURZcjFqSvovq"
       },
@@ -931,8 +947,8 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Refugio",
-        "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
+        "name": "Coraz\u00f3n Negro",
+        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
       },
       "artists": [
         {
@@ -940,9 +956,9 @@
           "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 249126,
-      "name": "Refugio",
-      "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
+      "duration_ms": 242166,
+      "name": "Coraz\u00f3n Negro",
+      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -959,22 +975,6 @@
       "duration_ms": 281037,
       "name": "Privado",
       "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
-        }
-      ],
-      "duration_ms": 288226,
-      "name": "Amaneciendo",
-      "url": "https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
+        }
+      ],
+      "duration_ms": 288226,
+      "name": "Amaneciendo",
+      "url": "https://open.spotify.com/track/7bPavFLJlHzL5lXvzCeoAr"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
         "name": "Rocanrol de los Misterios",
         "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 259329,
       "name": "Rocanrol de los Misterios",
       "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Coraz\u00f3n Negro",
-        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
       },
       "artists": [
         {
@@ -1056,9 +1056,25 @@
           "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 242166,
-      "name": "Coraz\u00f3n Negro",
-      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
+      "duration_ms": 205765,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1075,22 +1091,6 @@
       "duration_ms": 224235,
       "name": "P\u00e1lida Forma Nocturna",
       "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
-        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
-      },
-      "artists": [
-        {
-          "name": "Lanza Internacional",
-          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
-        }
-      ],
-      "duration_ms": 218735,
-      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+        "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Lanza Internacional",
+          "url": "https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT"
         }
       ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
+      "duration_ms": 218735,
+      "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
       },
       "artists": [
         {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 205765,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
+        "name": "Hacia Ti",
+        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Hacia Ti",
+      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
         "name": "Shawarma Love",
         "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 228530,
       "name": "Sangre y Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/7F9YkBBy9UbisYPKEYu9bt"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
-        "name": "Hacia Ti",
-        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 225967,
-      "name": "Hacia Ti",
-      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
-        "name": "Asocial",
-        "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 197747,
-      "name": "Asocial",
-      "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
         "name": "Blue Dalom",
         "url": "https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2024-12-20 12:23:20",
       "album": {
+        "name": "Asocial",
+        "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 197747,
+      "name": "Asocial",
+      "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
         "name": "SUE\u00d1OS MOJADOS",
         "url": "https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp"
       },
@@ -1459,22 +1459,6 @@
       "duration_ms": 144000,
       "name": "SUE\u00d1OS MOJADOS",
       "url": "https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD"
-    },
-    {
-      "added_at": "2024-12-20 12:23:20",
-      "album": {
-        "name": "Tu primero y luego yo",
-        "url": "https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 146922,
-      "name": "Tu primero y luego yo",
-      "url": "https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3"
     },
     {
       "added_at": "2024-12-20 12:23:20",
@@ -1535,6 +1519,22 @@
       "duration_ms": 215699,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE"
+    },
+    {
+      "added_at": "2024-12-20 12:23:20",
+      "album": {
+        "name": "Hay fuego en Los Andes",
+        "url": "https://open.spotify.com/album/2x2LrD0ZlpRe20urxdPiFV"
+      },
+      "artists": [
+        {
+          "name": "Los Desaparecidos",
+          "url": "https://open.spotify.com/artist/1NrUmEDC0p9B2SxImC7i2N"
+        }
+      ],
+      "duration_ms": 246820,
+      "name": "Hay fuego en Los Andes",
+      "url": "https://open.spotify.com/track/23BhXyp9D4asVSn5DhvbHG"
     }
   ],
   "unique_name": "Rock Chileno",

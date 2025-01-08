@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 120133,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 169349,
       "name": "Elegie",
       "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 205760,
       "name": "Essence of Light",
       "url": "https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9"
@@ -4981,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "I Know You",
+        "url": "https://open.spotify.com/album/2mSXKlafDrp0KUqJ3UkN4x"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171960,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/5QCQvHat9B9VgaENda7gbs"
+    },
+    {
+      "album": {
         "name": "I Rette Tid",
         "url": "https://open.spotify.com/album/4gwidAK3Xt7XmGMDzch8Cm"
       },
@@ -5464,7 +5482,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 138704,
       "name": "Inward Road - Piano Version",
       "url": "https://open.spotify.com/track/0ZOecPZY6kihcSn4BWwite"
@@ -8082,6 +8100,24 @@
       "duration_ms": 165903,
       "name": "Older",
       "url": "https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl"
+    },
+    {
+      "album": {
+        "name": "Olivanders",
+        "url": "https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Olivanders",
+      "url": "https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,142 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,506 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 13 | [Praise You In This Storm \(feat\. Phil Wickham\)](https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:33 |
 | 14 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 |
 | 15 | [Protector \- Live](https://open.spotify.com/track/458RO9dmBSI8dNIDypcvIV) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Protector \(Live\)](https://open.spotify.com/album/4lXyyq2joL8sk6H82j9Azu) | 6:48 |
-| 16 | [Another In The Fire \- Studio](https://open.spotify.com/track/2e7UGyxFACAfwHjmgNNMbS) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/6Ek7aLgG88iYlJLKLvFdPT) | 4:25 |
+| 16 | [Another In The Fire](https://open.spotify.com/track/2e7UGyxFACAfwHjmgNNMbS) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/6Ek7aLgG88iYlJLKLvFdPT) | 4:25 |
 | 17 | [You Reign \- Live](https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [You Reign \(Live\)](https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ) | 6:30 |
 | 18 | [The Power of Your Name](https://open.spotify.com/track/6Y6s7XxfE0uHrh2V4hM8EF) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Power of Your Name](https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb) | 6:35 |
 | 19 | [Look What God Has Done \- Live](https://open.spotify.com/track/1a5ZUohQyPCZ99qSdr8hBL) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa), [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Harley Rowell](https://open.spotify.com/artist/5OhHnCKkkRB39Qhh8JRyPB) | [Look What God Has Done](https://open.spotify.com/album/7eOYGeQDyPKRbiizEkGObi) | 4:04 |

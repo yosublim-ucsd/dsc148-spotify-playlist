@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\. \| Request songs @ Furrest.Online
 
-263 songs - 14 hr 2 min
+265 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [I Don't Need Love](https://open.spotify.com/track/6UbEBm0sFHunsjZ7KCjTXR) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [I Don't Need Love](https://open.spotify.com/album/0eDzQHbimt2oZQVYNBa0AF) | 4:56 | 2023-06-14 |  |
 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 | 2024-11-18 |  |
 | [I Know, I Hear You](https://open.spotify.com/track/4uBVRH3YUy0eSMnxKFVWwZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:19 | 2024-11-25 |  |
+| [I LOVE BEING NORMAL](https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [I LOVE BEING NORMAL](https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE) | 2:08 | 2025-01-07 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-10-21 |  |
 | [I Wish I Loved You](https://open.spotify.com/track/4pVOMSYIsddjrvi3LDlqRp) | [a fox named coyote](https://open.spotify.com/artist/2ZLKUQVWLZAVNY0qFGSY69), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [I Wish I Loved You](https://open.spotify.com/album/0uwMsB1SuYN2DElUEU8rMJ) | 4:47 | 2024-07-23 |  |
 | [IDONTKNOW](https://open.spotify.com/track/29Edn2FCyusZAwskKU7CPI) | [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx) | [BIG2K](https://open.spotify.com/album/7it5TdR45ltXQ2b5A4vgl6) | 2:06 | 2024-04-11 |  |
@@ -162,6 +163,7 @@
 | [Ninth Life](https://open.spotify.com/track/2ZiJzJjfvoKYwZ1NyPm2Ck) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Ninth Life](https://open.spotify.com/album/4zZQpt7nJDKREmgf9aqt4i) | 2:58 | 2023-06-14 |  |
 | [no amounts](https://open.spotify.com/track/2yLGNPPrlmZgqLzazjVbm2) | [Allen Inuyama](https://open.spotify.com/artist/56wRZVNHA9eqrWPwvPBOl9) | [no amounts](https://open.spotify.com/album/74KiR5yuxuFeBWUekfMTHG) | 2:35 | 2024-11-18 |  |
 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 | 2024-03-26 |  |
+| [No Matter What \- 2024](https://open.spotify.com/track/2XJlp7wla0EJI8CNlzICpG) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo), [Sylver Stripe](https://open.spotify.com/artist/0aohwwtpLSJi4RAXQkjKkb), [Namii](https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6), [GalaxySquid](https://open.spotify.com/artist/5Bf0U4uWT0KwE3047UWYja) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 4:35 | 2025-01-07 |  |
 | [NO PARACHUTE](https://open.spotify.com/track/4qJfMx6rVlGvXioDPqEQ6w) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [NO PARACHUTE](https://open.spotify.com/album/5iZlQDAdbtNOiSjVRrm710) | 2:18 | 2024-11-18 |  |
 | [Noise \- Memory Pool](https://open.spotify.com/track/5VjrJ13g4ypdYi0uOHlTJk) | [June LaLonde](https://open.spotify.com/artist/1IU8Y8EUogFf85PtoaikIK) | [Headjack](https://open.spotify.com/album/5xpPrOjFjak4HT7v33FIKm) | 3:45 | 2024-05-28 |  |
 | [not askin 4 much](https://open.spotify.com/track/4O6qnVx4R1LJSPsXKYFrAG) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [not askin 4 much](https://open.spotify.com/album/7uTSVs0t0qhynCUG36MjvM) | 2:13 | 2024-11-25 |  |

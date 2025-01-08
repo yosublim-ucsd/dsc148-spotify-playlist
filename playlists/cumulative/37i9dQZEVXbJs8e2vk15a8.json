@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "7 Trompetas",
+        "url": "https://open.spotify.com/album/5X1KeQjQuhuSdZz0FyxcGg"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169620,
+      "name": "7 Trompetas",
+      "url": "https://open.spotify.com/track/4ApLAqNEdqMwgF3Y8MRSXj"
+    },
+    {
+      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58"
       },
@@ -8967,6 +8985,28 @@
     },
     {
       "album": {
+        "name": "Charros para Rato (Remix Version Urbana)",
+        "url": "https://open.spotify.com/album/6pHCSA0WlcxpV7UYxzaOSK"
+      },
+      "artists": [
+        {
+          "name": "J Matt",
+          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
+        },
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248538,
+      "name": "Charros para Rato - Remix Version Urbana",
+      "url": "https://open.spotify.com/track/5QcMwV0lyydDFUduG4CDh1"
+    },
+    {
+      "album": {
         "name": "Che Che",
         "url": "https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS"
       },
@@ -12016,7 +12056,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 203801,
       "name": "DE MARAVISHA",
       "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
@@ -14763,6 +14803,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
+    },
+    {
+      "album": {
         "name": "EL CL\u00faB",
         "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
       },
@@ -14774,7 +14832,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -14882,7 +14940,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 203232,
       "name": "El Gale\u00f3n Espa\u00f1ol",
       "url": "https://open.spotify.com/track/2H25vepTnERSydd1HRHFvu"
@@ -20807,6 +20865,24 @@
     },
     {
       "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215338,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
+    },
+    {
+      "album": {
         "name": "Speak for Yourself",
         "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
       },
@@ -20818,7 +20894,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 215481,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
@@ -21496,7 +21572,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 88615,
       "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
       "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
@@ -24513,6 +24589,24 @@
     },
     {
       "album": {
+        "name": "LA CUEVA",
+        "url": "https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164318,
+      "name": "LA CUEVA",
+      "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
+    },
+    {
+      "album": {
         "name": "INSOMNIO",
         "url": "https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU"
       },
@@ -24998,10 +25092,28 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 186840,
       "name": "La Parabolica",
       "url": "https://open.spotify.com/track/2pWb1A0niYkehbNzncNcue"
+    },
+    {
+      "album": {
+        "name": "Mis Treinta Mejores Canciones (Parte 1)",
+        "url": "https://open.spotify.com/album/27L2mSyd3tvMwNM8pefE8f"
+      },
+      "artists": [
+        {
+          "name": "La Sonora De Tommy Rey",
+          "url": "https://open.spotify.com/artist/0gOdu2BvlfycjQlrtk0CQv"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186853,
+      "name": "La Parab\u00f3lica",
+      "url": "https://open.spotify.com/track/3VZLW6146SLID5UkGncxSz"
     },
     {
       "album": {
@@ -26623,6 +26735,24 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+    },
+    {
+      "album": {
         "name": "Loco Por Perrearte (Remix)",
         "url": "https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP"
       },
@@ -26942,7 +27072,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 240493,
       "name": "Los Paraguas",
       "url": "https://open.spotify.com/track/4rNyJQTMPrqIuwSnxo1hAg"
@@ -31036,7 +31166,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 238666,
       "name": "MIRAME REMIX",
       "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
@@ -35351,6 +35481,28 @@
     },
     {
       "album": {
+        "name": "OTRA VOL\u00c1",
+        "url": "https://open.spotify.com/album/2LgfQglxQ8Jf3U9zkPGdut"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "OTRA VOL\u00c1",
+      "url": "https://open.spotify.com/track/5Gfz87yOuTRd8TzBLAwZtH"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -36966,7 +37118,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 158615,
       "name": "Pedacito de Mi Vida",
       "url": "https://open.spotify.com/track/5AOPKr29iTkCptzDu2WOj1"
@@ -42263,6 +42415,28 @@
     },
     {
       "album": {
+        "name": "SE FUE",
+        "url": "https://open.spotify.com/album/0ePoAsHC4vvO8tZzPKtYC3"
+      },
+      "artists": [
+        {
+          "name": "Moncho Chavea",
+          "url": "https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176974,
+      "name": "SE FUE",
+      "url": "https://open.spotify.com/track/1QAvmMUR9gDtKr9OCtCzh1"
+    },
+    {
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -43602,6 +43776,28 @@
       "duration_ms": 266338,
       "name": "Silent Running (feat. Adeleye Omotayo)",
       "url": "https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1"
+    },
+    {
+      "album": {
+        "name": "Silla",
+        "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141355,
+      "name": "Silla",
+      "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
     },
     {
       "album": {
@@ -45346,7 +45542,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"

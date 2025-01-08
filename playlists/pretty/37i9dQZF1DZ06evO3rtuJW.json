@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33391,
+  "num_followers": 33394,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAACNcRNgI6Rj1kGlUV37aKkZ",
+  "snapshot_id": "Z3sdAAAAAABKVS61lzXPG8wCAHESOVRm",
   "tracks": [
     {
       "added_at": null,
@@ -87,30 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead N****s (feat. Polo G & G Herbo)",
-        "url": "https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl"
-      },
-      "artists": [
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 195457,
-      "name": "Dead N****s (feat. Polo G & G Herbo)",
-      "url": "https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who is Nardo Wick?",
         "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
       },
@@ -135,6 +111,30 @@
       "duration_ms": 279573,
       "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
       "url": "https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dead N****s (feat. Polo G & G Herbo)",
+        "url": "https://open.spotify.com/album/14zfFCTHX9KiOZUg3raIOl"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 195457,
+      "name": "Dead N****s (feat. Polo G & G Herbo)",
+      "url": "https://open.spotify.com/track/5GxamRUDAXk0vjM8ymt0K6"
     },
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "idk that bitch (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 179209,
       "name": "Last Time (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "idk that bitch (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
     },
     {
       "added_at": null,
@@ -423,22 +423,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+        "name": "I'm on 4.0",
+        "url": "https://open.spotify.com/album/3HTzCvsNFUCUVp2ZwSaGF7"
       },
       "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
         }
       ],
-      "duration_ms": 183600,
-      "name": "Play Your Part (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw"
+      "duration_ms": 348553,
+      "name": "I'm on 4.0",
+      "url": "https://open.spotify.com/track/6seyIInTwPGCr18JBSCDRo"
     },
     {
       "added_at": null,
@@ -455,6 +495,26 @@
       "duration_ms": 188053,
       "name": "Sessions",
       "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Play Your Part (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw"
     },
     {
       "added_at": null,
@@ -547,66 +607,6 @@
       "duration_ms": 196433,
       "name": "Party in Heaven",
       "url": "https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm on 4.0",
-        "url": "https://open.spotify.com/album/3HTzCvsNFUCUVp2ZwSaGF7"
-      },
-      "artists": [
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 348553,
-      "name": "I'm on 4.0",
-      "url": "https://open.spotify.com/track/6seyIInTwPGCr18JBSCDRo"
     },
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Ridin Wit It",
+      "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Post Traumatic",
         "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
       },
@@ -955,30 +971,6 @@
       "duration_ms": 193768,
       "name": "Swerv (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6kkCJ8xk343HmHrdIbzw17"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sick of Myself",
-        "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
-      },
-      "artists": [
-        {
-          "name": "21 Lil Harold",
-          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 223045,
-      "name": "One in the Head",
-      "url": "https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K"
     },
     {
       "added_at": null,
@@ -1007,38 +999,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+        "name": "Sick of Myself",
+        "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Ridin Wit It",
-      "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 233736,
-      "name": "In the A (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh"
+      "duration_ms": 223045,
+      "name": "One in the Head",
+      "url": "https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K"
     },
     {
       "added_at": null,
@@ -1083,6 +1063,26 @@
       "duration_ms": 243530,
       "name": "Body Count (feat. King Von & G Herbo)",
       "url": "https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 233736,
+      "name": "In the A (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh"
     }
   ],
   "unique_name": "This Is G Herbo",

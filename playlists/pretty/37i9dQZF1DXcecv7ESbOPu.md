@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,865 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,869 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 42 | [Lonely Heat](https://open.spotify.com/track/2tKTgFfzIdGrByiAYjNXR1) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Lonely Heat](https://open.spotify.com/album/2jAZy4xV7QXhX7zD9DeTS2) | 3:10 |
 | 43 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
 | 44 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 |
-| 45 | [Angel in the Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel in the Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
+| 45 | [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
 | 46 | [Dolce Vita \(with Groove Crackers\)](https://open.spotify.com/track/6C6cj4ULrTQTPniF3NDjya) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Bassweed](https://open.spotify.com/artist/3i8QDgqmWsWs4DQgMi1V0o), [Groove Crackers](https://open.spotify.com/artist/0a68MOyqyR7N3HopSFgAo8) | [Dolce Vita \(with Groove Crackers\)](https://open.spotify.com/album/0htw7GtQaBD4X3dQyPxMrO) | 1:50 |
 | 47 | [Till the Morning Comes](https://open.spotify.com/track/0eHv3gOF9eslSleU89ZadE) | [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1), [feva.](https://open.spotify.com/artist/17jt0BZZK9k3gonW1osVSH), [MVNA](https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH), [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Till the Morning Comes](https://open.spotify.com/album/6AfrdOE9wmMALGO6b7TInF) | 2:41 |
 | 48 | [Euphoria \(with Alok\)](https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Euphoria \(with Alok\)](https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp) | 2:31 |

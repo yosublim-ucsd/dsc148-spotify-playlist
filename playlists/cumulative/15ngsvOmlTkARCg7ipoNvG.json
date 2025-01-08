@@ -3869,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/1Kxk4oKIivuvmBq7tn6qZA"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60288,
+      "name": "Between Us",
+      "url": "https://open.spotify.com/track/3AhdCXTj4xyEOr74EGyP0B"
+    },
+    {
+      "album": {
         "name": "Deep Inspiration",
         "url": "https://open.spotify.com/album/7LzslyJIxxDQ0Nqg0rGOaG"
       },

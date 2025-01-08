@@ -13420,7 +13420,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -17922,6 +17922,28 @@
       "duration_ms": 226779,
       "name": "Things I Never Nu",
       "url": "https://open.spotify.com/track/1NAYrYgd473ua418mz32xb"
+    },
+    {
+      "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/71naf0dyKUCucdXEODamHK"
+      },
+      "artists": [
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        },
+        {
+          "name": "2HOT2PLAY",
+          "url": "https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178362,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/1NyGisWiw1SxUXCaINfCx1"
     },
     {
       "album": {

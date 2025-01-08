@@ -767,6 +767,28 @@
     },
     {
       "album": {
+        "name": "Star (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7xrVxSbFmVPvHOe4qkQtym"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "College Superstars",
+      "url": "https://open.spotify.com/track/1ZzYPJ20fj7rEyrNWiBLc5"
+    },
+    {
+      "album": {
         "name": "Indian 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l"
       },
@@ -1062,7 +1084,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 169000,
       "name": "Edhuvum Kedaikalana? - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb"

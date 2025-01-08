@@ -3005,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "El Kedb",
+        "url": "https://open.spotify.com/album/7s8X0HxbUKhiBcpi1zpk33"
+      },
+      "artists": [
+        {
+          "name": "Samar Tarik",
+          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210645,
+      "name": "El Kedb",
+      "url": "https://open.spotify.com/track/7vD1YufVV1EDNZs1tgiBxS"
+    },
+    {
+      "album": {
         "name": "El Koun",
         "url": "https://open.spotify.com/album/47TSlsN85IYn25Armdr7iy"
       },
@@ -7010,7 +7028,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 185567,
       "name": "Mood Gahed",
       "url": "https://open.spotify.com/track/2KJfvsq3xNhaVWNVIOo4w1"

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-615 songs - 1 day 12 hr 17 min
+616 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,5 +623,6 @@
 | [Yaavum Dooram](https://open.spotify.com/track/2lJgbECznMqSoeLr9u0Dfq) | [Karthick Devaraj](https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Uthara Pattathil](https://open.spotify.com/artist/2UkwObB1pDRMsqq0lQnSPu) | [Yaavum Dooram](https://open.spotify.com/album/2QN3nXN2namoXB6oKo3rN1) | 3:14 | 2022-10-07 | 2022-10-11 |
 | [YAENDI YAENDI](https://open.spotify.com/track/1FcSdJlxQxG2rUfi6Hw3sf) | [KS Chandru](https://open.spotify.com/artist/5yUVc6PdLSEPQXINJVBGyJ), [Sathya Narayanan](https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt) | [YAENDI YAENDI](https://open.spotify.com/album/6o4sLAluM3x3DKg5IGIi7w) | 5:04 | 2023-02-10 | 2024-03-24 |
 | [Yen Pulla](https://open.spotify.com/track/1KRSXgSrxbkbi1bOYRk0iP) | [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2) | [Yen Pulla](https://open.spotify.com/album/03ZbwAbnw2SuKzkmDE2e2Z) | 3:26 | 2022-08-14 | 2023-02-07 |
+| [Yendhizhaye](https://open.spotify.com/track/3nLXHO8Mkv3gSQGatuOKUk) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit), [Soundararajan K](https://open.spotify.com/artist/71pwW7cVZxIz3MEnqZHqwQ) | [Yendhizhaye](https://open.spotify.com/album/4bZfDL2vNEhlT9PZf27f3V) | 3:58 | 2025-01-07 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,898 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,949 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 44 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.3\)](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 |
 | 45 | [Xonei](https://open.spotify.com/track/2xTM0m9HD3gIqNSutA0LNJ) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Check\-In \(Ao Vivo\)](https://open.spotify.com/album/5Cs1VjhgG8FmA5rv5iXe3r) | 2:34 |
 | 46 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA) | 2:51 |
-| 47 | [A Bebê Quer Oque](https://open.spotify.com/track/3sv5Da5mGwNvLDc6h3sVzq) | [MC Cebezinho](https://open.spotify.com/artist/522bjacTyw3Lic4H0ohqdv), [DJ Oreia](https://open.spotify.com/artist/4ktNyrJJnjREAm9W9P9lVP), [Menor Richard](https://open.spotify.com/artist/5IeMNkDHgwwqWG9fs89dhn), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Love Funk](https://open.spotify.com/artist/2VYwmX6cgOHJeeKTLi1AEd) | [Vai Tomando](https://open.spotify.com/album/7GoQF9lbtpWqG9SFKf6fCQ) | 4:08 |
+| 47 | [A Bebê Quer Oque](https://open.spotify.com/track/3sv5Da5mGwNvLDc6h3sVzq) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [DJ Oreia](https://open.spotify.com/artist/4ktNyrJJnjREAm9W9P9lVP), [Menor Richard](https://open.spotify.com/artist/5IeMNkDHgwwqWG9fs89dhn), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Love Funk](https://open.spotify.com/artist/2VYwmX6cgOHJeeKTLi1AEd) | [Vai Tomando](https://open.spotify.com/album/7GoQF9lbtpWqG9SFKf6fCQ) | 4:08 |
 | 48 | [PARECE \- Ao Vivo](https://open.spotify.com/track/77X5UMAX4FjUx1aOaLqotz) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN AO VIVO NA LUA \- CRESCENTE](https://open.spotify.com/album/2a9sL47ztb0zlKUl0uZxL8) | 2:24 |
 | 49 | [ESCADA DO PRÉDIO](https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:17 |
 | 50 | [Cachorro](https://open.spotify.com/track/2f6GG12VL2rGMS9BGjD7rM) | [Thiago Carvalho](https://open.spotify.com/artist/5tJOBjBtoHgSp1x7iYWsPP) | [Cachorro](https://open.spotify.com/album/7xYYUQbzFRcIMdh2UU1lNe) | 2:10 |
 
-Snapshot ID: `Lw9EyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LxCWSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

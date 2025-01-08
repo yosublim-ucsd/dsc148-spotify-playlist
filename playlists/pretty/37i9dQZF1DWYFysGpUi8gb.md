@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > welcome to the underground\. greetings from jasmine.4.t.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,904 likes - 76 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,878 likes - 76 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

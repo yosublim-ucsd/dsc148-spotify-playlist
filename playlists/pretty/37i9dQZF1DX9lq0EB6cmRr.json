@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Seong-Jin Cho(\uc870\uc131\uc9c4)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4486,
+  "num_followers": 4492,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -615,18 +615,22 @@
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
+        "name": "Beethoven, Isang Yun, Barber (Live)",
+        "url": "https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX"
       },
       "artists": [
         {
-          "name": "Libelante",
-          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
+          "name": "Federico Mompou",
+          "url": "https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
         }
       ],
-      "duration_ms": 250413,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
+      "duration_ms": 178920,
+      "name": "Sc\u00e8nes d\u2019enfants: No. 5, Jeunes filles au Jardin - Live",
+      "url": "https://open.spotify.com/track/1nnnITAhUa10DROk1FhrCu"
     },
     {
       "added_at": "2025-01-03 05:21:35",
@@ -647,22 +651,18 @@
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "Beethoven, Isang Yun, Barber (Live)",
-        "url": "https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
       },
       "artists": [
         {
-          "name": "Federico Mompou",
-          "url": "https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+          "name": "Libelante",
+          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
         }
       ],
-      "duration_ms": 178920,
-      "name": "Sc\u00e8nes d\u2019enfants: No. 5, Jeunes filles au Jardin - Live",
-      "url": "https://open.spotify.com/track/1nnnITAhUa10DROk1FhrCu"
+      "duration_ms": 250413,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
     },
     {
       "added_at": "2025-01-03 05:21:35",
@@ -935,6 +935,46 @@
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
+        "name": "Espero 1st, Romance on Classic",
+        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
+      },
+      "artists": [
+        {
+          "name": "Espero",
+          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
+        },
+        {
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
+    },
+    {
+      "added_at": "2025-01-03 05:21:35",
+      "album": {
+        "name": "Rachmaninoff, A Reflection",
+        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yekwon Sunwoo",
+          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+        }
+      ],
+      "duration_ms": 41733,
+      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+    },
+    {
+      "added_at": "2025-01-03 05:21:35",
+      "album": {
         "name": "Beethoven: Variations for violoncello and piano",
         "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
       },
@@ -959,42 +999,6 @@
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "Espero 1st, Romance on Classic",
-        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
-      },
-      "artists": [
-        {
-          "name": "Espero",
-          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
-        },
-        {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
-    },
-    {
-      "added_at": "2025-01-03 05:21:35",
-      "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
-      },
-      "artists": [
-        {
-          "name": "LA POEM",
-          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
-    },
-    {
-      "added_at": "2025-01-03 05:21:35",
-      "album": {
         "name": "Golden Age (Orchestra Version)",
         "url": "https://open.spotify.com/album/133OMTXDhV2XTREwQ23MrX"
       },
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "Rachmaninoff, A Reflection",
-        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Yekwon Sunwoo",
-          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
         }
       ],
-      "duration_ms": 41733,
-      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+      "duration_ms": 235160,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
     },
     {
       "added_at": "2025-01-03 05:21:35",
@@ -1747,18 +1747,22 @@
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "Love Confession",
-        "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
+        "name": "MEMORIA: BACH-BUSONI GOLDBERG VARIATIONS",
+        "url": "https://open.spotify.com/album/0jB7eeOGjJ6FDTNSriue6x"
       },
       "artists": [
         {
-          "name": "John Noh",
-          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "LEE YOON SOO",
+          "url": "https://open.spotify.com/artist/5oWxj245uF0ZvEnbL2KXAo"
         }
       ],
-      "duration_ms": 237146,
-      "name": "Love Confession",
-      "url": "https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE"
+      "duration_ms": 933824,
+      "name": "Chaconne BV B 24",
+      "url": "https://open.spotify.com/track/68iaWAIDt8ZHQC6jcSt0OV"
     },
     {
       "added_at": "2025-01-03 05:21:35",
@@ -1799,22 +1803,22 @@
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "MEMORIA: BACH-BUSONI GOLDBERG VARIATIONS",
-        "url": "https://open.spotify.com/album/0jB7eeOGjJ6FDTNSriue6x"
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "LEE YOON SOO",
-          "url": "https://open.spotify.com/artist/5oWxj245uF0ZvEnbL2KXAo"
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
         }
       ],
-      "duration_ms": 933824,
-      "name": "Chaconne BV B 24",
-      "url": "https://open.spotify.com/track/68iaWAIDt8ZHQC6jcSt0OV"
+      "duration_ms": 600280,
+      "name": "Souvenir d'un lieu cher, Op. 42: I. Meditation",
+      "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
     },
     {
       "added_at": "2025-01-03 05:21:35",
@@ -1835,46 +1839,42 @@
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "Barber, Bruch",
-        "url": "https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk"
+        "name": "Love Confession",
+        "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
       },
       "artists": [
         {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
-        },
-        {
-          "name": "Esther Yoo",
-          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Vasily Petrenko",
-          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
         }
       ],
-      "duration_ms": 448413,
-      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
-      "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
+      "duration_ms": 237146,
+      "name": "Love Confession",
+      "url": "https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE"
     },
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "We Will Be One",
-        "url": "https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV"
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
       },
       "artists": [
         {
-          "name": "Sumi Jo",
-          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
+        },
+        {
+          "name": "Sung-hyun Cho",
+          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
+        },
+        {
+          "name": "Kyeong Ham",
+          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
         }
       ],
-      "duration_ms": 183542,
-      "name": "We Will Be One",
-      "url": "https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT"
+      "duration_ms": 361853,
+      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
+      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
     },
     {
       "added_at": "2025-01-03 05:21:35",
@@ -1927,82 +1927,46 @@
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "Cantar",
-        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
+        "name": "We Will Be One",
+        "url": "https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV"
       },
       "artists": [
         {
-          "name": "John Noh",
-          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
-        },
-        {
-          "name": "Ko Yeong Yeol",
-          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
         }
       ],
-      "duration_ms": 229098,
-      "name": "Aguas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/0LRM3HMOV539rX9dYfckeM"
+      "duration_ms": 183542,
+      "name": "We Will Be One",
+      "url": "https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT"
     },
     {
       "added_at": "2025-01-03 05:21:35",
       "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
+        "name": "Barber, Bruch",
+        "url": "https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk"
       },
       "artists": [
         {
-          "name": "Wilhelm Friedemann Bach",
-          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
         },
         {
-          "name": "Sung-hyun Cho",
-          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
         },
         {
-          "name": "Kyeong Ham",
-          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
-        }
-      ],
-      "duration_ms": 361853,
-      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
-      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
-    },
-    {
-      "added_at": "2025-01-03 05:21:35",
-      "album": {
-        "name": "Timepass",
-        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         },
         {
-          "name": "Kim Dami",
-          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
         }
       ],
-      "duration_ms": 600280,
-      "name": "Souvenir d'un lieu cher, Op. 42: I. Meditation",
-      "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
-    },
-    {
-      "added_at": "2025-01-03 05:21:35",
-      "album": {
-        "name": "Lost In Memory",
-        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
-      },
-      "artists": [
-        {
-          "name": "Hyungjoo Lim",
-          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "The Red String",
-      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
+      "duration_ms": 448413,
+      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+      "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
     },
     {
       "added_at": "2025-01-03 05:21:35",
@@ -2023,6 +1987,42 @@
       "duration_ms": 862200,
       "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
       "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
+    },
+    {
+      "added_at": "2025-01-03 05:21:35",
+      "album": {
+        "name": "Cantar",
+        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
+      },
+      "artists": [
+        {
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
+        },
+        {
+          "name": "Ko Yeong Yeol",
+          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
+        }
+      ],
+      "duration_ms": 229098,
+      "name": "Aguas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/0LRM3HMOV539rX9dYfckeM"
+    },
+    {
+      "added_at": "2025-01-03 05:21:35",
+      "album": {
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
+      },
+      "artists": [
+        {
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "The Red String",
+      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
     }
   ],
   "unique_name": "Classics Korea",

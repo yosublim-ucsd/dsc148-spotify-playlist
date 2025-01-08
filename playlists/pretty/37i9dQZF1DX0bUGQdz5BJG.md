@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: The Castellows
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,699 likes - 230 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,756 likes - 230 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 65 | [Guess We'll Never Know \(feat\. Colbie Caillat\)](https://open.spotify.com/track/2R294ks6upD1fBEVidGnNH) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [The 3rd](https://open.spotify.com/album/338PUzOE2YzbuGeYPEp50N) | 3:19 |
 | 66 | [Man Up](https://open.spotify.com/track/3d4T4eVw2wxAtP2OwuSPk6) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Man Up](https://open.spotify.com/album/09ZHtNzj0TcPMK17RYqTPu) | 2:59 |
 | 67 | [Whose Hands](https://open.spotify.com/track/4FZXzrgB3xF8Pw5lbuiP2l) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Whose Hands](https://open.spotify.com/album/1UwqGq07JYeUOGBgvCFWlY) | 3:27 |
-| 68 | [A Hundred](https://open.spotify.com/track/2C83kplH0uabvBCs8atvZN) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [The Lost Files](https://open.spotify.com/album/7dx3egWe4XydAlpBw3XznM) | 3:13 |
+| 68 | [A Hundred](https://open.spotify.com/track/2C83kplH0uabvBCs8atvZN) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Bad Girl Bible, Vol 2: The Lost Files](https://open.spotify.com/album/7dx3egWe4XydAlpBw3XznM) | 3:13 |
 | 69 | [Western Woman](https://open.spotify.com/track/2UdRjQnS6NYPoHhJzEd9T0) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Western Woman](https://open.spotify.com/album/4QR5Uzegokr4uEHvVhDGh1) | 3:29 |
 | 70 | [Remembered I Forgot](https://open.spotify.com/track/6gp8XkIaTfdci4uSVKIPwL) | [Brian Fuller](https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo) | [Room to Talk](https://open.spotify.com/album/13b8lfSzB5XcJhRLzsmGA7) | 3:03 |
 | 71 | [10 Days in July](https://open.spotify.com/track/7zsuy0Jay6R6dP7FAOGKVZ) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [10 Days in July](https://open.spotify.com/album/3oLByCCKupH8zrY2xfdhnn) | 3:09 |

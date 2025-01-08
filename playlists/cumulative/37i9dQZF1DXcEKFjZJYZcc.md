@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-319 songs - 13 hr 3 min
+320 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Feeling for the next](https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Feeling for the next](https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n) | 2:04 | 2023-06-20 |  |
 | [Felicity](https://open.spotify.com/track/42ozgVjsCxPmH6vSFTXAHW) | [Hugo Reilly](https://open.spotify.com/artist/5uVINFbw5tZH9G7fFQBEZd) | [Felicity](https://open.spotify.com/album/2lTOtqyZKZaX5kiw9JKqC4) | 2:02 | 2021-12-14 | 2024-10-02 |
 | [Fiesso d’Artico](https://open.spotify.com/track/5GbvPWxgru1Pxx7vLuyZmO) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Fiesso d’Artico](https://open.spotify.com/album/1v7IPSwcdq7wcIFDfcFJSs) | 2:39 | 2024-04-17 |  |
+| [First Espresso](https://open.spotify.com/track/0a36Dei2NUET7Bxc0d9q7e) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [First Espresso](https://open.spotify.com/album/0HXafUnDAJ9zXyKGMcCF78) | 2:41 | 2025-01-07 |  |
 | [Fleeting Glance](https://open.spotify.com/track/6mGpPGoeT3WnR6od1vAw0H) | [R Eugene](https://open.spotify.com/artist/5INtIOjjy8zDoOraEPyhVn) | [Fleeting Glance](https://open.spotify.com/album/1vjY2YeQaqshe98GinMtH5) | 2:39 | 2021-12-14 | 2024-10-16 |
 | [Fleurs de cerisier](https://open.spotify.com/track/0CMjjw0RYpNfQ1VkkL6Bwf) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [Fleurs de cerisier](https://open.spotify.com/album/6GNx3naU5PE4SjscEVOfCS) | 2:40 | 2022-05-20 |  |
 | [Floating Alone](https://open.spotify.com/track/5rqVGb4V2rQzz2iBCf14AD) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Floating Alone](https://open.spotify.com/album/28QOdW9aio2bLPDu9TJsdH) | 2:25 | 2022-05-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 一起來欣賞 2024 RADAR 新勢力藝人本年度最精采的表現！Cover: PIZALLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,787 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,784 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 24 | [火柴 \- Acoustic / Spotify Singles](https://open.spotify.com/track/28F59BoXW9aXhx9TiPB1OH) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [火柴 \(Acoustic / Spotify Singles\)](https://open.spotify.com/album/0Rw8xSIqO7KCXwMXZDLXtO) | 2:52 |
 | 25 | [趕趕時間](https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [趕趕時間](https://open.spotify.com/album/3OHTeZ8l4MkmDO1bUTJ51q) | 3:39 |
 | 26 | [真心話](https://open.spotify.com/track/06Hci8wC8NSf2r5OHqhivw) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 4:03 |
-| 27 | [終究還是因為愛 \- Spotify Singles](https://open.spotify.com/track/5eDqchkLCMsJCkSqGm9NyB) | [Ben Ladin](https://open.spotify.com/artist/12kEQTCYPhSoW54jJ0Pngm) | [Spotify Singles](https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr) | 4:23 |
+| 27 | [終究還是因為愛 \- Spotify Singles](https://open.spotify.com/track/5eDqchkLCMsJCkSqGm9NyB) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [Spotify Singles](https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr) | 4:23 |
 | 28 | [我在往離別前進](https://open.spotify.com/track/4I3n6Hq3p1F52ipZkpC8jj) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [我在往離別前進](https://open.spotify.com/album/3SsXGY0Y024rdbevU7aHxG) | 3:31 |
 | 29 | [咖啡氤](https://open.spotify.com/track/5WYgEoOPQSCT8hHYV3bYo3) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [咖啡氤](https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V) | 3:23 |
 | 30 | [Yellow Hoodie 黃色帽踢 feat\. 斑比Bambii](https://open.spotify.com/track/6LlUQCMpwWbDgnez3VXZPF) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl), [斑比Bambii](https://open.spotify.com/artist/68NTWax6QLwQtHEqGXouyR) | [1Majin Nation](https://open.spotify.com/album/2kJYCOovUBZ0on2ig5HInZ) | 2:43 |

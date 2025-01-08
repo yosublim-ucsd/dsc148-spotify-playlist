@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: LPT Zlatan
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,635 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,637 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 7 | [Carruagem](https://open.spotify.com/track/6YAjpDT9OOwM5mJpKJ9r0I) | [YUNG LIXO](https://open.spotify.com/artist/6ab8tnQvr8sXXIpSZCrbQs), [Biffe](https://open.spotify.com/artist/4UqY7xfcHtpNSyLZTYKoPp), [Hakuro](https://open.spotify.com/artist/4fTFQshnBXAeU0oGbAGmjI) | [13 Lentes de um Final Feliz](https://open.spotify.com/album/1MgcKezYb874hGsZgYYAdV) | 2:44 |
 | 8 | [piscina vazia](https://open.spotify.com/track/51Hgjd6p6uiZc1zwdbAxK7) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 2:58 |
 | 9 | [Não Vai Fazer Falta](https://open.spotify.com/track/4Xk0DvNVwll4RKL88L8z6q) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Nathan Morais](https://open.spotify.com/artist/51m33yHQQ9UnqVXTJHT9qu), [Daniel Souza](https://open.spotify.com/artist/0voCr84NMp6eUeUAF4oh3B), [Gabruga](https://open.spotify.com/artist/0Ad1whf1jDSgjVmEOmpFXr) | [Não Vai Fazer Falta](https://open.spotify.com/album/40OBa27qHbKY0A3Qd3DxSv) | 3:16 |
-| 10 | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/track/61NuOY0AZp2cO7oOLOnEjN) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/album/3kq0VICAcxc9xnPa6Zqkkl) | 2:28 |
+| 10 | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/track/61NuOY0AZp2cO7oOLOnEjN) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/album/3kq0VICAcxc9xnPa6Zqkkl) | 2:28 |
 | 11 | [Trágico](https://open.spotify.com/track/20nQ4vkcVRniCmaVqZ8TcX) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Emcee Lê](https://open.spotify.com/artist/4aFEXSiTxPRYbIgBk59LGX), [Delli Beatz](https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn) | [Dancehall Mix](https://open.spotify.com/album/06U1bKRNx7NzN2YzSBgjam) | 2:14 |
 | 12 | [ngm é perfeito](https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mc Safira](https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 3:31 |
 | 13 | [BOTACARA](https://open.spotify.com/track/7vKHQPVSdeuNLxRfD9lSN9) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [HIGHBOYZ](https://open.spotify.com/album/0LXnhPYep0AOA1c7BFg7Vm) | 3:06 |

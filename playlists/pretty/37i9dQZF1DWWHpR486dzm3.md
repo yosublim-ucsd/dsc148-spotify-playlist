@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Ville Veikka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,073 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,076 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hei hei ja hyvästi](https://open.spotify.com/track/1A3KXxnNSL1DLQXwn2mSxI) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Hei hei ja hyvästi](https://open.spotify.com/album/2ETubknpXplEytEEGTtiDb) | 2:28 |
-| 2 | [Maastopalot](https://open.spotify.com/track/07zYExWhDhhN2yjrNDDTZq) | [Muovikukat](https://open.spotify.com/artist/6096QEMNGbKLdTxrV9Eo2M) | [Pimeydessä on piilossa kaikki värit](https://open.spotify.com/album/6x369DfcrK9JVzyEyMwC87) | 4:22 |
-| 3 | [Valo Varjon](https://open.spotify.com/track/6RrRfpFphzt5sss30sdtNl) | [Reetta](https://open.spotify.com/artist/2jOcbSCMzFUAgRHHlHrlPB) | [Valo Varjon](https://open.spotify.com/album/6TliPIevIULwORE06DeonI) | 3:41 |
-| 4 | [CHROME](https://open.spotify.com/track/2l2fds3LKVxSxQNEmM4d47) | [HÄN](https://open.spotify.com/artist/3dAR6u0DLAjSCPCk1oeDiK), [YSI](https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj), [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk) | [CHROME](https://open.spotify.com/album/6se6rBdCnWt8kyhqbNfuWZ) | 2:35 |
-| 5 | [Purppurakuu](https://open.spotify.com/track/1PY5oesufrU9wSbT6u4ldm) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Purppurakuu](https://open.spotify.com/album/28lo0aYSMdbXQuLVxOZInH) | 4:42 |
-| 6 | [Summer Of Synesthesia](https://open.spotify.com/track/5wew02slQckjiz7OcDeAzg) | [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Summer Of Synesthesia](https://open.spotify.com/album/7s6fH8dEJMimmKslkswl7A) | 4:44 |
-| 7 | [anteeksi demo \- sätkynukkekoti \(live\)](https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sätkynukkekoti \(live\)](https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq) | 4:13 |
-| 8 | [Entiset ystävät](https://open.spotify.com/track/689BwIZgfZ2FK1JhLbjfap) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Entiset ystävät](https://open.spotify.com/album/7eBqOAOUrVYhn3BS15p37G) | 3:38 |
-| 9 | [Maailmaan luotu](https://open.spotify.com/track/3XhbzSxA6CuerrtFtQuFbI) | [Tomi Nordlund & Syvä Joki](https://open.spotify.com/artist/4AwIOFa6wK3ViD6qNdSPBU) | [Maailmaan luotu](https://open.spotify.com/album/5GklZ79BYPg6Fnu90RAkps) | 4:15 |
+| 1 | [Purppurakuu](https://open.spotify.com/track/1PY5oesufrU9wSbT6u4ldm) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Purppurakuu](https://open.spotify.com/album/28lo0aYSMdbXQuLVxOZInH) | 4:42 |
+| 2 | [Hei hei ja hyvästi](https://open.spotify.com/track/1A3KXxnNSL1DLQXwn2mSxI) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Hei hei ja hyvästi](https://open.spotify.com/album/2ETubknpXplEytEEGTtiDb) | 2:28 |
+| 3 | [Maastopalot](https://open.spotify.com/track/07zYExWhDhhN2yjrNDDTZq) | [Muovikukat](https://open.spotify.com/artist/6096QEMNGbKLdTxrV9Eo2M) | [Pimeydessä on piilossa kaikki värit](https://open.spotify.com/album/6x369DfcrK9JVzyEyMwC87) | 4:22 |
+| 4 | [anteeksi demo \- sätkynukkekoti \(live\)](https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [sätkynukkekoti \(live\)](https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq) | 4:13 |
+| 5 | [Valo Varjon](https://open.spotify.com/track/6RrRfpFphzt5sss30sdtNl) | [Reetta](https://open.spotify.com/artist/2jOcbSCMzFUAgRHHlHrlPB) | [Valo Varjon](https://open.spotify.com/album/6TliPIevIULwORE06DeonI) | 3:41 |
+| 6 | [Maailmaan luotu](https://open.spotify.com/track/3XhbzSxA6CuerrtFtQuFbI) | [Tomi Nordlund & Syvä Joki](https://open.spotify.com/artist/4AwIOFa6wK3ViD6qNdSPBU) | [Maailmaan luotu](https://open.spotify.com/album/5GklZ79BYPg6Fnu90RAkps) | 4:15 |
+| 7 | [CHROME](https://open.spotify.com/track/2l2fds3LKVxSxQNEmM4d47) | [HÄN](https://open.spotify.com/artist/3dAR6u0DLAjSCPCk1oeDiK), [YSI](https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj), [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk) | [CHROME](https://open.spotify.com/album/6se6rBdCnWt8kyhqbNfuWZ) | 2:35 |
+| 8 | [Summer Of Synesthesia](https://open.spotify.com/track/5wew02slQckjiz7OcDeAzg) | [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Summer Of Synesthesia](https://open.spotify.com/album/7s6fH8dEJMimmKslkswl7A) | 4:44 |
+| 9 | [Entiset ystävät](https://open.spotify.com/track/689BwIZgfZ2FK1JhLbjfap) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Entiset ystävät](https://open.spotify.com/album/7eBqOAOUrVYhn3BS15p37G) | 3:38 |
 | 10 | [Olet kaunis ja minä vain](https://open.spotify.com/track/4h1p8nql7cnEhEnO7yi1QI) | [Hopeasiivet](https://open.spotify.com/artist/6zisCzs51KHat4Y2B9JVEO) | [Olet kaunis ja minä vain / Aamulla](https://open.spotify.com/album/0VDPLwLmTkrdr67oKnUm0f) | 2:05 |
 | 11 | [pikkusiskolle](https://open.spotify.com/track/3qbMgl51n4Xcw1YI8pOGCI) | [hannaeerika](https://open.spotify.com/artist/3xgPlTTFoGnbXyNRJ2Tbst) | [pikkusiskolle](https://open.spotify.com/album/6tVpysRlOH9fWFEy7XMZmG) | 3:22 |
 | 12 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [KEHO](https://open.spotify.com/track/710JadgMih1f456piEekIX) | [LUVHEGE](https://open.spotify.com/artist/3zeWGEGArgKG0W9cq4gVm2), [Musta hanhi](https://open.spotify.com/artist/7hqTWrzRtJbctP8T7R6slG) | [KEHO](https://open.spotify.com/album/1mfLzqmF7ebaIPdDNCgc8D) | 4:00 |
 | 80 | [Eläköön hän!](https://open.spotify.com/track/5lgD3SgNkiDEJhyBBSe8AO) | [Janne Masalin](https://open.spotify.com/artist/5rp6LWIIqxqq4swyJNhoJM) | [Eläköön hän!](https://open.spotify.com/album/6BtpMyBbKScCgCiMQq9GBO) | 3:28 |
 
-Snapshot ID: `Z3cMpgAAAADlZCIth88AQI5hrhq8umaT`
+Snapshot ID: `Z3z5uAAAAAAjILiryoyNQfBFmOhtyXBE`

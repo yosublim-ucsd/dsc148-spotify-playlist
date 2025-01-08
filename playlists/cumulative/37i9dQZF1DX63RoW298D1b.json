@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "First Espresso",
+        "url": "https://open.spotify.com/album/0HXafUnDAJ9zXyKGMcCF78"
+      },
+      "artists": [
+        {
+          "name": "Max Dew",
+          "url": "https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "First Espresso",
+      "url": "https://open.spotify.com/track/0a36Dei2NUET7Bxc0d9q7e"
+    },
+    {
+      "album": {
         "name": "flor",
         "url": "https://open.spotify.com/album/1944QlJu9F7lesW1b3X7Hw"
       },

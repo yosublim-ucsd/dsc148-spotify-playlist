@@ -2495,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "City Love City Love City Love",
+        "url": "https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J"
+    },
+    {
+      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 249475,
       "name": "Dong, Nan, Xi, Bei",
       "url": "https://open.spotify.com/track/3YdY8kv4ShsMrDfYKXE8v7"
@@ -15704,7 +15722,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-30",
+      "date_removed": null,
       "duration_ms": 208334,
       "name": "Waited All Night",
       "url": "https://open.spotify.com/track/0TBETiWtmbXvj0g5RVaRTb"
@@ -17292,7 +17310,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 191238,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30ad\u30e3\u30ed\u30eb\u306e\u9803\u306b\u306f COCKTAIL SOUNDS MIX",
       "url": "https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4"

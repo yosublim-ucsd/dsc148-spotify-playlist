@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 20293,
+  "num_followers": 20303,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,18 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Flawed (feat. Gunna)",
-        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
+        "name": "Preaching from the Projects",
+        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "51 June",
+          "url": "https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ"
         }
       ],
-      "duration_ms": 204455,
-      "name": "Flawed (feat. Gunna)",
-      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
+      "duration_ms": 150047,
+      "name": "Base' Body",
+      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -595,6 +591,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Flawed (feat. Gunna)",
+        "url": "https://open.spotify.com/album/79nszPHl1lNtFjEThFXYOI"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 204455,
+      "name": "Flawed (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2W9fORGdpOPoCvkbCZL9t8"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 148330,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Preaching from the Projects",
-        "url": "https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49"
-      },
-      "artists": [
-        {
-          "name": "51 June",
-          "url": "https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ"
-        }
-      ],
-      "duration_ms": 150047,
-      "name": "Base' Body",
-      "url": "https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6"
     },
     {
       "added_at": "2022-10-01 20:31:11",

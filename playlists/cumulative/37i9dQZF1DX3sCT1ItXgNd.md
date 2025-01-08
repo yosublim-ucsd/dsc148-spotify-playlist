@@ -2,9 +2,9 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop en español\. Foto: Marta Santos
+> Lo mejor del pop en español\. Foto: Besmaya, iñigo quintero
 
-623 songs - 1 day 7 hr 14 min
+625 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 | 2024-07-04 | 2024-10-15 |
 | [5 estrellas](https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [5 estrellas](https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV) | 3:18 | 2023-06-12 | 2023-06-27 |
 | [5 SENTÍOS](https://open.spotify.com/track/7n12wwP15l3KhIKgMoUiZY) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [5 SENTÍOS](https://open.spotify.com/album/3777kSd47h5uVR0lnPf81n) | 3:35 | 2023-03-13 | 2023-08-22 |
-| [9472](https://open.spotify.com/track/2daFEwbB9winHzL9t5Ub7R) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [LUNA 18 \(Deluxe\)](https://open.spotify.com/album/4reJOCjzw6ifHh6sXBRgc8) | 2:39 | 2024-12-02 |  |
+| [9472](https://open.spotify.com/track/2daFEwbB9winHzL9t5Ub7R) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [LUNA 18 \(Deluxe\)](https://open.spotify.com/album/4reJOCjzw6ifHh6sXBRgc8) | 2:39 | 2024-12-02 | 2025-01-08 |
 | [A Las 12](https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [A Las 12](https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f) | 3:08 | 2024-06-21 |  |
 | [A Mi Lao](https://open.spotify.com/track/2zWsvszAYDfq9sOJ0yjCfm) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [A Mi Lao](https://open.spotify.com/album/7efm9aS7o0nb2XJHJkkpJU) | 2:43 | 2023-10-16 | 2023-10-28 |
 | [A Oscuras](https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Oscuras](https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN) | 2:39 | 2024-01-18 | 2024-02-02 |
@@ -177,6 +177,7 @@
 | [El Fin del Mundo](https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [La la Love You Bonus](https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb) | 3:08 | 2023-03-13 | 2023-09-29 |
 | [EL FORASTERO](https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [EL FORASTERO](https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7) | 2:43 | 2024-02-26 | 2024-09-10 |
 | [El Hombre del Tiempo](https://open.spotify.com/track/7H48pPpge66b3t83Iq1zzs) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [El Hombre del Tiempo](https://open.spotify.com/album/5K7cNTBeEpGu2Cmrn3vE5u) | 3:04 | 2024-12-02 |  |
+| [el ingeniero](https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:26 | 2025-01-07 |  |
 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-09-25 | 2023-10-17 |
 | [El Mambo](https://open.spotify.com/track/51QmqegeWI2orK2mzDfnIH) | [Kiko Rivera](https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF) | [El Mambo](https://open.spotify.com/album/4x4MeHDoVU7VRVJwrt4QRC) | 2:09 | 2023-10-09 | 2023-11-14 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-03-13 | 2023-09-01 |
@@ -475,7 +476,7 @@
 | [Puñales](https://open.spotify.com/track/40qU9grweqDIGWNLDIjFT4) | [Isabel Aaiún](https://open.spotify.com/artist/5qSwpcWU98AJITpF4USeC3) | [Puñales](https://open.spotify.com/album/4w2IyjSsUqxLooaKskn1hE) | 3:38 | 2024-12-02 |  |
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2023-12-18 | 2024-01-09 |
 | [Que Me Lleve el Aire](https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Que Me Lleve el Aire](https://open.spotify.com/album/66r7fi6L2StfAxnkCr32qm) | 2:50 | 2024-08-26 |  |
-| [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 | 2024-11-21 |  |
+| [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 | 2024-11-21 | 2025-01-08 |
 | [Que se caiga el cielo](https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Que se caiga el cielo](https://open.spotify.com/album/3OS2rIj6cyb2K34ATaVh2t) | 3:47 | 2023-10-09 | 2023-11-29 |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-04-03 | 2023-04-26 |
 | [Que Te Vaya Bonito](https://open.spotify.com/track/1oQ3BtEsx8OutWKc6Pi4YO) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Que Te Vaya Bonito](https://open.spotify.com/album/2QP00xGExqHa6TSrnoEuXt) | 2:53 | 2023-06-26 | 2023-08-15 |
@@ -598,6 +599,7 @@
 | [Un Rato pa Siempre](https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Rato pa Siempre](https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m) | 2:43 | 2023-07-17 | 2024-01-09 |
 | [Un, Dos, Tres](https://open.spotify.com/track/4Zvoq8eli1sBYDVrpUrLyz) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB), [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe) | [Un, Dos, Tres](https://open.spotify.com/album/6Xu12mjAPWB9om40SI385O) | 2:22 | 2023-06-26 | 2023-07-11 |
 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 | 2024-02-01 | 2024-05-21 |
+| [una noche](https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:57 | 2025-01-07 |  |
 | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Una noche más \(feat\. Bruses\)](https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY) | 3:03 | 2023-12-18 | 2024-01-09 |
 | [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 | 2023-03-13 | 2023-09-22 |
 | [UNA VIDA A TU LADO](https://open.spotify.com/track/3mpIFqv8YSjiFgGdfaZ0u3) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [UNA VIDA A TU LADO](https://open.spotify.com/album/3V3L0sYnmcEmzFS4ogRoVx) | 2:44 | 2024-09-17 | 2024-11-22 |

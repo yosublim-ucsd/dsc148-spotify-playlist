@@ -1,15 +1,35 @@
 {
-  "description": " \u0625\u062d\u0646\u0627 \u0641\u0648\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0627\u0641\u064a\u0634 \u063a\u064a\u0631\u0646\u0627 \u0641\u064a \u0627\u0644\u0633\u064a\u0646! \u063a\u0644\u0627\u0641:  \u0623\u0628\u0648 \u0627\u0644\u0623\u0646\u0648\u0627\u0631",
-  "num_followers": 273836,
+  "description": " \u0625\u062d\u0646\u0627 \u0641\u0648\u0642 \u0627\u0644\u0644\u0639\u0628\u0629 \u0648\u0645\u0627\u0641\u064a\u0634 \u063a\u064a\u0631\u0646\u0627 \u0641\u064a \u0627\u0644\u0633\u064a\u0646! \u063a\u0644\u0627\u0641:  \u062d\u0633\u064a\u0646",
+  "num_followers": 273943,
   "original_name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2SbqwAAAACgzMFBw85Br3inwRMKp5d4",
+  "snapshot_id": "Z30HYAAAAAAbrFT7rRYlH3aUswiiergY",
   "tracks": [
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
+      "album": {
+        "name": "El Waqt El Daye3",
+        "url": "https://open.spotify.com/album/6i2pEUNQ7CRsogFiuzyOIx"
+      },
+      "artists": [
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "Money Man",
+      "url": "https://open.spotify.com/track/32DdsYl1ajtduE6xDckm0x"
+    },
+    {
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Sa7eb El Sa3ada",
         "url": "https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy"
@@ -37,7 +57,7 @@
       "url": "https://open.spotify.com/track/6pN2Qzz1XdpEMFXonrLCdd"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Nazel 3la Fo2",
         "url": "https://open.spotify.com/album/5UM8e0qUtiTcvWjya3AHMG"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/3IFoNqQxGwzfauWaVOyVtT"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "\u0623\u0646\u0627",
         "url": "https://open.spotify.com/album/6kRoXSdcEbAAwDv8dsQZ1X"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/2s48Dw0M65FKzaZT51bTX7"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "7OB&KASHAT",
         "url": "https://open.spotify.com/album/2svCOWiV5oGoZk1YTU1NPL"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Intifada",
         "url": "https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy"
@@ -113,7 +133,23 @@
       "url": "https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
+      "album": {
+        "name": "Sa7eb El Sa3ada",
+        "url": "https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "duration_ms": 127910,
+      "name": "Khalsana 2 (Intro)",
+      "url": "https://open.spotify.com/track/7thLS840COKt4I1eY2kvkO"
+    },
+    {
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "3AWDAT EL FA2DAN",
         "url": "https://open.spotify.com/album/4atXm6afwu07xZgmEULnBO"
@@ -133,23 +169,7 @@
       "url": "https://open.spotify.com/track/46VhFX6FT3efqbJPHB8pA0"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
-      "album": {
-        "name": "Sa7eb El Sa3ada",
-        "url": "https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy"
-      },
-      "artists": [
-        {
-          "name": "Abo El Anwar",
-          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
-        }
-      ],
-      "duration_ms": 127910,
-      "name": "Khalsana 2 (Intro)",
-      "url": "https://open.spotify.com/track/7thLS840COKt4I1eY2kvkO"
-    },
-    {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "\u0639\u0627\u0644\u0639\u0645\u0648\u0645",
         "url": "https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH"
@@ -165,7 +185,7 @@
       "url": "https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
         "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "525",
         "url": "https://open.spotify.com/album/0fcNiMb5xTCA4h1rLuXtSv"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/339xW7VUrZEtBpvc4wSlqg"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "ATTA3",
         "url": "https://open.spotify.com/album/0Zo1AW85yhvT3mfiMKZkBt"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/0kJa375yREkEv5W3Ldec7z"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "PRJKTBLUBEAM",
         "url": "https://open.spotify.com/album/0rJxCuUYsfbFQZomCBLWtc"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/0merm849HwHiuIIAU0Nb9T"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Code",
         "url": "https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/6zgFCgu5goQ6fvcRZ8zvbT"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "3la Wara2a",
         "url": "https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "MAGHOOL",
         "url": "https://open.spotify.com/album/5yX9hssUUeRlHmaQ8EGvaN"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/1gFRKxEsz8WalxCfNJkPic"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "AL ARBA3",
         "url": "https://open.spotify.com/album/3A9Z5JbdG6CwMdWrDkROjp"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/0w3CE6Zu4zqkMpZLekSzLs"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "El Waat El Daye3",
         "url": "https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "K.O",
         "url": "https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "EZ",
         "url": "https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/361FgPnhdBh4y4l4uIuKW9"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
         "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u0627\u064a\u0647",
         "url": "https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Shaklak Metday2",
         "url": "https://open.spotify.com/album/3p7p6pzKRIpYJcjQi52dus"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/4O77Bi6jPFQd0cfVCI8hfu"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "KHOD",
         "url": "https://open.spotify.com/album/4thKK66tWjxDmOTLJSfvmY"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/6lztjEZqRlnmlhQqEYxrtH"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Lang",
         "url": "https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "FALTA",
         "url": "https://open.spotify.com/album/2XfZXthb4oxK1UwjkoUiKr"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/6cL8L9Swntbfpis7jAL0iO"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Intifada",
         "url": "https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/4EGLEkMzmO7pau2CGQnCYS"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "ZHYMR",
         "url": "https://open.spotify.com/album/3udsEUYWbITZNWdJwCcnV2"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/2prwfEVbn7maXugq9Se9YB"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Placebo",
         "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/6bozqRXCia64pVDU7FfZMM"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "TALATINI",
         "url": "https://open.spotify.com/album/3XXEwsNnwu51uUm1wokMcv"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/1KHa1gCcw1OV9GVSt1guUo"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "\u0633\u0643\u0629",
         "url": "https://open.spotify.com/album/5EHEsSOcBExuVkeMKayq45"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/3LFoLm13Aped0za3Qx8PAO"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "EZ",
         "url": "https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "KHOD",
         "url": "https://open.spotify.com/album/4thKK66tWjxDmOTLJSfvmY"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/5iCZDlejNhUKyIQMMwml5l"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "WELAD EL 7ARA",
         "url": "https://open.spotify.com/album/1mvN9UgF72pr5ToTofgLWL"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/0YeFCcTZxlc0aLJ8wseZtQ"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "\u0645\u0646 \u0627\u0644\u0631\u0645\u0627\u062f",
         "url": "https://open.spotify.com/album/0izte4GdWsvO29WcOWKbkp"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/6mtov0T6NivlQZMNqnCK8B"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Intifada",
         "url": "https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/3FEvxirJwF3NLAJi16RHbP"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Moga",
         "url": "https://open.spotify.com/album/74pPbkercbdyczbWsW5ZcA"
@@ -685,23 +705,7 @@
       "url": "https://open.spotify.com/track/7L15zTOGWGnKZY7a7Fr2ol"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
-      "album": {
-        "name": "\u0645\u0637\u0631\u064a\u0629",
-        "url": "https://open.spotify.com/album/0Rhs1WLWaaITB9RCUvbmEk"
-      },
-      "artists": [
-        {
-          "name": "Wezza Montaser",
-          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
-        }
-      ],
-      "duration_ms": 119163,
-      "name": "\u0645\u0637\u0631\u064a\u0629",
-      "url": "https://open.spotify.com/track/1u5D6Chww0EppywyTQIG8P"
-    },
-    {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp"
@@ -717,7 +721,7 @@
       "url": "https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "El Ters",
         "url": "https://open.spotify.com/album/0aIsZHl5cV4NO9MkpdECxh"
@@ -733,7 +737,7 @@
       "url": "https://open.spotify.com/track/2u7ORPqITjz66HLu7cMH3v"
     },
     {
-      "added_at": "2024-12-19 22:18:19",
+      "added_at": "2025-01-07 10:52:16",
       "album": {
         "name": "Rayah",
         "url": "https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R"

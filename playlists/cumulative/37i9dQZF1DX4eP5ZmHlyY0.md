@@ -2,15 +2,15 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: LIL LEAGUE from EXILE TRIBE
+> 日本で活躍するボーイズグループを特集。cover: FANTASTICS from EXILE TRIBE
 
-379 songs - 21 hr 47 min
+381 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15分](https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [15分](https://open.spotify.com/album/75YVfifI9CEnG92jKPEr3j) | 4:24 | 2023-11-23 | 2024-01-10 |
 | [1st SONG](https://open.spotify.com/track/1CEhK1YwRkkDNmDD90mJld) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [1st SONG](https://open.spotify.com/album/2xVMZnRPnNuczI88IgVtnA) | 5:04 | 2024-06-25 | 2024-07-31 |
-| [1番星](https://open.spotify.com/track/0xNetekd6Pmws8beynMr7m) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [1番星](https://open.spotify.com/album/6N95femA9sg14zixSmaDfm) | 4:50 | 2024-12-24 |  |
+| [1番星](https://open.spotify.com/track/0xNetekd6Pmws8beynMr7m) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [1番星](https://open.spotify.com/album/6N95femA9sg14zixSmaDfm) | 4:50 | 2024-12-24 | 2025-01-08 |
 | [24karats GOLD GENESIS](https://open.spotify.com/track/3DOBALd9w4fDZ122HzF7CC) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [24karats GOLD GENESIS](https://open.spotify.com/album/2um16q15odwpmhiAjf8pqi) | 4:17 | 2024-06-12 | 2024-07-10 |
 | [360°](https://open.spotify.com/track/3rGE15xpReYQeSjsDXLyPr) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [SAY IT](https://open.spotify.com/album/0rhZVbvDjQYA7iuHBXJ2og) | 3:27 | 2024-12-03 | 2024-12-25 |
 | [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 | 2024-04-23 |  |
@@ -123,6 +123,7 @@
 | [HIGHER EX](https://open.spotify.com/track/5HQkEVozABejYyWUdMfeFF) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [HIGHER EX](https://open.spotify.com/album/43FcOYz8efEsLFhm5suAiZ) | 3:22 | 2024-05-21 | 2024-09-04 |
 | [Highlights \(Twilight Remix\)](https://open.spotify.com/track/0RSazMPFPTxeLgwdxhp7tb) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Highlights \(Twilight Remix\)](https://open.spotify.com/album/6RZSx9zM1PlAcPFbkIkSGw) | 2:55 | 2024-03-26 | 2024-04-03 |
 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 | 2024-12-03 |  |
+| [Homeboys](https://open.spotify.com/track/5dK9B2ItDXvTIGYMfDZrrS) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [刺激最優先](https://open.spotify.com/album/1R7e1FHHGKNtT6uWqok07p) | 3:19 | 2025-01-07 |  |
 | [Hurry up \~今すぐに君の手を\~](https://open.spotify.com/track/3B01GFSfE7zomBwOOLzuO9) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [Hurry up \~今すぐに君の手を\~](https://open.spotify.com/album/0WBuetifaEDUBcIPqpdrkx) | 3:33 | 2024-05-28 | 2024-06-13 |
 | [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 | 2024-07-09 |  |
 | [I don't care](https://open.spotify.com/track/6X0i1lqSjA3GYqaBGhZHNx) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [I don't care](https://open.spotify.com/album/3N8AiWK07df0p8gwIuCy9Z) | 2:53 | 2023-12-14 | 2023-12-20 |
@@ -183,7 +184,7 @@
 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 | 2024-06-25 | 2024-07-10 |
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 | 2024-04-10 |
 | [MONEYBAG 7ver.](https://open.spotify.com/track/001j2dUGwEkNV7k8eGeor0) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [MONEYBAG 7ver.](https://open.spotify.com/album/0I2e0pluTkgdurceUwWuSD) | 4:46 | 2024-04-23 | 2024-05-08 |
-| [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 | 2024-05-21 |  |
+| [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 | 2024-05-21 | 2025-01-08 |
 | [MORNING SUN](https://open.spotify.com/track/4BTc4b3BoVPoHKys65v8kQ) | [EXILE B HAPPY](https://open.spotify.com/artist/5Vjo1ziwxQtYiup9JGlN9A) | [MORNING SUN](https://open.spotify.com/album/7fii6VfmYoLZAPLvvArvgh) | 3:40 | 2024-01-09 | 2024-05-29 |
 | [Move!](https://open.spotify.com/track/1kVdZkrESvjq6mvVP9bWVa) | [BMK](https://open.spotify.com/artist/6iCVcgkf5Jv4rlcSAswaz6) | [Move!](https://open.spotify.com/album/4yNywLr8yi2JrjiTi7Wdqd) | 3:30 | 2024-06-25 | 2024-07-31 |
 | [Moving Pieces](https://open.spotify.com/track/7z5ntslVYEBFtunuEYA9e5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Moving Pieces](https://open.spotify.com/album/4IeJCO4rFxksf0Wcxc0bmR) | 2:51 | 2023-11-23 | 2023-11-29 |
@@ -358,6 +359,7 @@
 | [ブルーシャワー](https://open.spotify.com/track/4gne8ysQWECG4dc31eOxns) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [ブルーシャワー](https://open.spotify.com/album/38W4W4LeARf30PZbkaCNzM) | 3:45 | 2024-04-23 | 2024-05-29 |
 | [ブレイクライン](https://open.spotify.com/track/3GGkjydRMWrCXeQmvwmIeP) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ブレイクライン](https://open.spotify.com/album/0mlnvdLh3Ew8ifBg6ybayZ) | 3:50 | 2024-05-28 | 2024-07-31 |
 | [ボーイミーツガール](https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Re:ERA](https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj) | 4:02 | 2024-10-16 |  |
+| [ポケット](https://open.spotify.com/track/0IHBe0KFpJ2QeasyRprvUx) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ポケット](https://open.spotify.com/album/3H30hm2wmhuvrnU1OpS30f) | 4:12 | 2025-01-07 |  |
 | [マルチバース・アドベンチャー](https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [マルチバース・アドベンチャー](https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP) | 3:16 | 2024-02-13 | 2024-04-24 |
 | [ミチシルベ](https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [ミチシルベ](https://open.spotify.com/album/052jurik7u7naYKyLCL8n0) | 3:17 | 2024-11-26 |  |
 | [世界を明るく照らしましょう](https://open.spotify.com/track/4ngH59pzL0tAtBQDn5AKRW) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [世界を明るく照らしましょう](https://open.spotify.com/album/1OJngpGVsQCYAmy0DqkOhv) | 3:47 | 2024-09-17 | 2024-10-30 |

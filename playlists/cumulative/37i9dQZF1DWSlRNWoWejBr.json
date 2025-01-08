@@ -2293,6 +2293,36 @@
     },
     {
       "album": {
+        "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
+        "url": "https://open.spotify.com/album/7JbiJkrVXvo1num2mfA33v"
+      },
+      "artists": [
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "Mc Menor DN",
+          "url": "https://open.spotify.com/artist/2FJjf1qmmogfQyqLKjbPML"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
+      "url": "https://open.spotify.com/track/6x6EA3N9xXgptSakS7VZUg"
+    },
+    {
+      "album": {
         "name": "Faz de Chicote",
         "url": "https://open.spotify.com/album/59xJk5vaSitPB4nD5GAsAA"
       },
@@ -4951,7 +4981,7 @@
       "artists": [
         {
           "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/522bjacTyw3Lic4H0ohqdv"
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
         },
         {
           "name": "DJ Oreia",
@@ -7302,7 +7332,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 125475,
       "name": "Vou Te Catucar",
       "url": "https://open.spotify.com/track/37kYjgn4rv36tYsrk2vdCM"

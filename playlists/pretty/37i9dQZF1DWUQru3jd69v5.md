@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Glocky in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,262 likes - 60 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,264 likes - 60 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stare Senza \(feat\. Fashion Forty\)](https://open.spotify.com/track/5vanfME2NfHSraBpxw1Krt) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Fashion Forty](https://open.spotify.com/artist/7DBNlj22GDB3lZLVy47n0Y) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 |
-| 2 | [Dissennatori \(feat\. Artie 5ive\)](https://open.spotify.com/track/5qV4HuHG5pJYrIIvfAuo55) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Osama 2](https://open.spotify.com/album/3hTj9C1jqATON2UDb4vvzz) | 2:47 |
-| 3 | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/track/6qNCZ0Ysk6TD3oJ6DRqvYP) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [BISEX](https://open.spotify.com/album/58v5Q9JRtuSs8URAEO0wL1) | 2:37 |
+| 2 | [BISEX \(feat\. Yung Snapp\)](https://open.spotify.com/track/6qNCZ0Ysk6TD3oJ6DRqvYP) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [BISEX](https://open.spotify.com/album/58v5Q9JRtuSs8URAEO0wL1) | 2:37 |
+| 3 | [Dissennatori \(feat\. Artie 5ive\)](https://open.spotify.com/track/5qV4HuHG5pJYrIIvfAuo55) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Osama 2](https://open.spotify.com/album/3hTj9C1jqATON2UDb4vvzz) | 2:47 |
 | 4 | [Boxer](https://open.spotify.com/track/0Sp6AOrAlVmKRIzmQGjLS8) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Boxer](https://open.spotify.com/album/4hGlykzGH7FVDXcLp6BuqZ) | 2:20 |
 | 5 | [Lane Splitter](https://open.spotify.com/track/5kb4x7yrC5ZE0XBPYUnUTQ) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Cattivissimo Rap](https://open.spotify.com/album/7uxVytwhE6QNuAUbQM7c2B) | 2:17 |
 | 6 | [Calibro](https://open.spotify.com/track/4Pd8GRxfNPqKWi2NLtvQ03) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Calibro](https://open.spotify.com/album/4KmXO8dmMzd1yXeFVE2uCZ) | 3:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 59 | [Sostanza \(feat\. Kilimoney\)](https://open.spotify.com/track/7cJATSQkjhY0EyHRCsy2Kz) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [Sostanza \(feat\. Kilimoney\)](https://open.spotify.com/album/39yaroIzHnNUicxTnbFWcp) | 2:20 |
 | 60 | [BIMBA](https://open.spotify.com/track/0yQYsWMiMenj6XiMj5E3eo) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [BIMBA](https://open.spotify.com/album/7D0PvYTBHrqk22q3SY3Nas) | 2:45 |
 
-Snapshot ID: `Z3cawQAAAAAoAUO0y7rPKn5bk24Z698J`
+Snapshot ID: `Z30UuwAAAABRBM8z6EZU7m6a58y8sU72`

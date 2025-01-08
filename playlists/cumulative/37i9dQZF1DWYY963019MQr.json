@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Change",
+        "url": "https://open.spotify.com/album/60oXCcivScPRBRGRCybZPe"
+      },
+      "artists": [
+        {
+          "name": "Echo Ark",
+          "url": "https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128173,
+      "name": "A Change",
+      "url": "https://open.spotify.com/track/55zWqtq1WZvg47RqLu4aDZ"
+    },
+    {
+      "album": {
         "name": "After The Rain",
         "url": "https://open.spotify.com/album/5IJekJTt2i6tL1BQDO3odQ"
       },
@@ -1508,6 +1526,24 @@
       "duration_ms": 171687,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6"
+    },
+    {
+      "album": {
+        "name": "Sunny Shadow",
+        "url": "https://open.spotify.com/album/1Phq0mAzxfgavFzKiNZuz3"
+      },
+      "artists": [
+        {
+          "name": "Morris Valentin",
+          "url": "https://open.spotify.com/artist/4eNel5cDOyyO9AuVHCg7h8"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130977,
+      "name": "Sunny Shadow",
+      "url": "https://open.spotify.com/track/3w0o8Mo8aFrQ0HtmwBVg2v"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4626,
+  "num_followers": 4629,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAACxt3C9ZT2gT0VfI76/AOJV",
+  "snapshot_id": "Z3sdAAAAAACVwHtINBBh1jshYWkVJmUp",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 152851,
-      "name": "no importa",
-      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
+      "duration_ms": 152851,
+      "name": "no importa",
+      "url": "https://open.spotify.com/track/3HxPAaHSRhO87TxolC3LfO"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 173000,
-      "name": "me conquistaste",
-      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
+      "duration_ms": 212937,
+      "name": "saboteo",
+      "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
     },
     {
       "added_at": null,
@@ -596,25 +596,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 212937,
-      "name": "saboteo",
-      "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "hookah envenena",
-        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 170682,
-      "name": "hookah envenena",
-      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
+      "duration_ms": 173000,
+      "name": "me conquistaste",
+      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
       "duration_ms": 203627,
       "name": "voicenote",
       "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "hookah envenena",
+        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 170682,
+      "name": "hookah envenena",
+      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
     },
     {
       "added_at": null,

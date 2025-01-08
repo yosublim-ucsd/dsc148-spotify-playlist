@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,732 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,804 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 97 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |
 | 98 | [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 |
 | 99 | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL) | 2:57 |
-| 100 | [Pruebalo](https://open.spotify.com/track/2V5155hKRLxHceKN6S8V8y) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ) | [Los Veteranos](https://open.spotify.com/album/79xVsg1JPIqvQE0exEly78) | 3:50 |
+| 100 | [Réplica](https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Réplica](https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we) | 5:05 |
 
 Snapshot ID: `ZpF6EQAAAABsndbrcF7G1jA+2l2rokzT`

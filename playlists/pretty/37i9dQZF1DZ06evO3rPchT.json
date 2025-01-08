@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 74251,
+  "num_followers": 74260,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAADThC1gecOdiBNR+dmiI2q4",
+  "snapshot_id": "Z3sdAAAAAACTFCAz2NOvdT1FYa6IXnnp",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body Language (Deluxe)",
+        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Fire up the Night (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 267341,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body Language (Deluxe)",
-        "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Fire up the Night (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BETTER DAYS",
-        "url": "https://open.spotify.com/album/36efke4P7aeYMDmKArAEBe"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "AIN'T NO BETTER PLACE (feat. HARDY)",
-      "url": "https://open.spotify.com/track/6bxTngeAL2GGRLJa0wa2SA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 170112,
       "name": "Third Rock From The Sun (feat. Brooks & Dunn)",
       "url": "https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BETTER DAYS",
+        "url": "https://open.spotify.com/album/36efke4P7aeYMDmKArAEBe"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "AIN'T NO BETTER PLACE (feat. HARDY)",
+      "url": "https://open.spotify.com/track/6bxTngeAL2GGRLJa0wa2SA"
     },
     {
       "added_at": null,

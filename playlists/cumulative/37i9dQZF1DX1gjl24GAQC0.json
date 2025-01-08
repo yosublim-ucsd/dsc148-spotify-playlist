@@ -5093,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "IF I SAY, I LOVE YOU",
+        "url": "https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161693,
+      "name": "IF I SAY, I LOVE YOU",
+      "url": "https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0"
+    },
+    {
+      "album": {
         "name": "TWS 2nd Mini Album 'SUMMER BEAT!'",
         "url": "https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03"
       },
@@ -8718,7 +8736,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 234040,
       "name": "Sad Loop",
       "url": "https://open.spotify.com/track/476PT13ugdewze682alt9b"
@@ -9046,7 +9064,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 205101,
       "name": "Shoong! (feat. LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
@@ -10982,7 +11000,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 202271,
       "name": "We don't stop",
       "url": "https://open.spotify.com/track/1riEr6o3obQxrQRFmD9Sed"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Yami Safdie, Lasso, Carin León
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,595 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,582 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 20 | [Ta Te Ti](https://open.spotify.com/track/5a1ei3NVCdkaW4MnVtWP28) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Ta Te Ti](https://open.spotify.com/album/6aGWe5Wa7PJbgV07PLqUk9) | 3:21 |
 | 21 | [BESITOS DULCES](https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [BESITOS DULCES](https://open.spotify.com/album/6tpnJnYTgfnQse2nUdneeo) | 2:22 |
 | 22 | [Invicto](https://open.spotify.com/track/0TqJnlDKmYdGS5gYalMuDj) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Gold Music](https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze) | [Invicto](https://open.spotify.com/album/61gt12xt4MhfXFnNmRJBQz) | 2:08 |
-| 23 | [BLANQUITA PERLA](https://open.spotify.com/track/1S9fzhOcPnfr8PsclH7Sct) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [BLANQUITA PERLA](https://open.spotify.com/album/1bIIgYf8b5YXHIADEPBPST) | 2:38 |
+| 23 | [BLANQUITA PERLA](https://open.spotify.com/track/1S9fzhOcPnfr8PsclH7Sct) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [BLANQUITA PERLA](https://open.spotify.com/album/1bIIgYf8b5YXHIADEPBPST) | 2:38 |
 | 24 | [Veámonos De Nuevo](https://open.spotify.com/track/4QQIZGtzj1JgXRUZcPmHYF) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Veámonos De Nuevo](https://open.spotify.com/album/4UePYOVdPNv0hySCJLbyYX) | 3:06 |
 | 25 | [Licuado](https://open.spotify.com/track/1XB3kUghHiRWiq8WvcQbvq) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Licuado](https://open.spotify.com/album/10Qr5P78EroWs4t7QyY7tT) | 2:14 |
 | 26 | [Te Equivocaste Conmigo](https://open.spotify.com/track/6ldLu5c02gcLebMBDlyvMp) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Valiente](https://open.spotify.com/album/4pRW0rulpqoFpK0PL2632C) | 2:29 |
-| 27 | [NOCHE BUENA 2](https://open.spotify.com/track/6h9gKIYVRqAp3jcaf5ozvR) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [NOCHE BUENA 2](https://open.spotify.com/album/6BbKnjzg8AU87w9dLbn2nH) | 2:16 |
+| 27 | [NOCHE BUENA 2](https://open.spotify.com/track/6h9gKIYVRqAp3jcaf5ozvR) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [NOCHE BUENA 2](https://open.spotify.com/album/6BbKnjzg8AU87w9dLbn2nH) | 2:39 |
 | 28 | [MC TOTA \| DJ TAO Turreo Sessions \#26](https://open.spotify.com/track/1YfSpmdmqWBO6HlOTRBHZM) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Mc Tota](https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW) | [MC TOTA \| DJ TAO Turreo Sessions \#26](https://open.spotify.com/album/0xtRtk7XcdLN4PHPaKp69B) | 2:28 |
 | 29 | [Se Terminó](https://open.spotify.com/track/50plcj5jttwA8Uhb6ETtIR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Terminó](https://open.spotify.com/album/63lAxlMVz2csTGTL21pAr9) | 3:33 |
 | 30 | [Que Cobarde](https://open.spotify.com/track/4wkgwTCJcnRw8V2X95zSCo) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [Que Cobarde](https://open.spotify.com/album/38JqSZsfHn3blynly0prCH) | 1:32 |

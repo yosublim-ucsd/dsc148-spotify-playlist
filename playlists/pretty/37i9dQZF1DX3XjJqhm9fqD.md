@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Rutshelle, John Legend and Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,696 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,718 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 52 | [Si Yo Vle](https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw) | [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Medjy](https://open.spotify.com/artist/30f2yTB41KgyZylVIsYY48), [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio), [Steves J Bryan](https://open.spotify.com/artist/1FuYWqzz7Ahr2fEd2lm43h) | [Rap ap rete Rap](https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk) | 3:56 |
 | 53 | [Cashapp Cashapp Zelle](https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Cashapp Cashapp Zelle](https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo) | 1:01 |
 | 54 | [Tu me touches](https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF) | [Roberto Martino](https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 6:03 |
-| 55 | [Premye Fwa](https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs) | [DANOLA](https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y) | [Premye Fwa](https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB) | 3:09 |
-| 56 | [A.k.i.ko.](https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:51 |
+| 55 | [A.k.i.ko.](https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:51 |
+| 56 | [Premye Fwa](https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs) | [DANOLA](https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y) | [Premye Fwa](https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB) | 3:09 |
 | 57 | [Ti Kabrit](https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Ti Kabrit](https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK) | 2:41 |
-| 58 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |
-| 59 | [Guava](https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1) | 2:50 |
+| 58 | [Guava](https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1) | 2:50 |
+| 59 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |
 | 60 | [Bwa Kale](https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [T\-Babas](https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb) | [Bwa Kale](https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU) | 3:05 |
 | 61 | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a) | [Balalatet](https://open.spotify.com/artist/5nubIkn3OteKknszoQV2xC), [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [thattoo love](https://open.spotify.com/artist/7zIXHgLcAIzEh3NhQyTblh) | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy) | 3:48 |
 | 62 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 92 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 |
 | 93 | [JWAYE NWÈL](https://open.spotify.com/track/0JnJOtvhBY7SGCCb3fpsKE) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [JWAYE NWÈL](https://open.spotify.com/album/2Zwa7esu6EZoV1lZBTOYec) | 3:09 |
 | 94 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
-| 95 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
-| 96 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
+| 95 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
+| 96 | [Say It Like](https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh) | [Sarina](https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku) | [Say It Like](https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX) | 2:54 |
 | 97 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
 | 98 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
 | 99 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |

@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-258 songs - 10 hr 54 min
+260 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Faith](https://open.spotify.com/track/6rMKRMeW8iGPRGaAA3g8ZJ) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Faith](https://open.spotify.com/album/6KFLVb3LM2asbF4FbGdN99) | 2:13 | 2023-10-18 | 2024-10-02 |
 | [Fanciful](https://open.spotify.com/track/0I3Rxri1PbEnBZVol9NY1B) | [Oscar O'Keefe](https://open.spotify.com/artist/19nC7hEB44GQsl6TaE7fIR) | [Fanciful](https://open.spotify.com/album/4yF3b9tkhhDHLGkpfL6HXV) | 2:19 | 2024-10-15 |  |
 | [Fantasy](https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Fantasy](https://open.spotify.com/album/6ad3KlO7lZB6YHAqO9Rsos) | 3:10 | 2023-10-18 |  |
+| [Fares](https://open.spotify.com/track/3XHRlU43qYbiFhDDL4rOmO) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Fares](https://open.spotify.com/album/5VfCMA0661DODtD9hNtH7T) | 2:06 | 2025-01-07 |  |
 | [Feeling for the next](https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Feeling for the next](https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n) | 2:04 | 2023-10-18 |  |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-18 |  |
 | [Flock of birds](https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Flock of birds](https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx) | 3:02 | 2023-10-18 | 2024-09-25 |
@@ -143,6 +144,7 @@
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-10-18 |  |
 | [Landet](https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Landet](https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9) | 2:06 | 2023-10-18 |  |
 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-10-18 |  |
+| [Lifestyle](https://open.spotify.com/track/0yh3jz4zWk3N9nliAqFqEn) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Lifestyle](https://open.spotify.com/album/2Wg959wMUN5HG8N5WH17RY) | 3:13 | 2025-01-07 |  |
 | [Lift Me Up](https://open.spotify.com/track/0IBr2Sdv4JbwkEM8hEghn4) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Lift Me Up](https://open.spotify.com/album/08gbtfj8eeJjEXFehorp3m) | 2:12 | 2023-10-18 |  |
 | [Lightly](https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [Lightly](https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2) | 2:07 | 2024-10-21 |  |
 | [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-02-05 |  |

@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "CHEF",
+        "url": "https://open.spotify.com/album/5SEW1PyQw4oWwR28p4kaGV"
+      },
+      "artists": [
+        {
+          "name": "DvrkBoy",
+          "url": "https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161876,
+      "name": "CHEF",
+      "url": "https://open.spotify.com/track/7mmDB3Vq1ApJdpLLrzc7x1"
+    },
+    {
+      "album": {
         "name": "Chokran (\u0634\u0643\u0631\u064b\u0627)",
         "url": "https://open.spotify.com/album/2KlbzWY3dHZc23RzEE0DFF"
       },
@@ -798,7 +816,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 198383,
       "name": "Ghiri Ena",
       "url": "https://open.spotify.com/track/7bIc7LBLYiTIV9MhpHSJif"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Editörlerimizin seçkisiyle bağımsız yerli sahneden keşifler\. Kapak: Selût Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,403 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,413 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

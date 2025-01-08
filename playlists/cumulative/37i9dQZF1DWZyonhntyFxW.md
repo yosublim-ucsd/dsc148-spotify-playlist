@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  أبو الأنوار
+> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  حسين
 
-373 songs - 18 hr 24 min
+374 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Min Mafesh](https://open.spotify.com/track/4SeiaRJgwj6QxoHXWBytTF) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Min Mafesh](https://open.spotify.com/album/64RrPflL1cMVfgGC5te4XQ) | 3:53 | 2022-05-10 | 2022-07-15 |
 | [MN EL FYM Y SAHBY](https://open.spotify.com/track/0K0mwRcZRyfelO7RnL7l1O) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [MN EL FYM Y SAHBY](https://open.spotify.com/album/7f8m2DXhU7iZeS2qK68bTy) | 3:27 | 2024-04-26 | 2024-05-25 |
 | [Monalisa](https://open.spotify.com/track/73K8FDuhAsKu2VfYVNAk8G) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Monalisa](https://open.spotify.com/album/5b3PH9gQ2P18zC8NoTHQRY) | 2:39 | 2024-06-14 | 2024-07-30 |
+| [Money Man](https://open.spotify.com/track/32DdsYl1ajtduE6xDckm0x) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [El Waqt El Daye3](https://open.spotify.com/album/6i2pEUNQ7CRsogFiuzyOIx) | 2:28 | 2025-01-07 |  |
 | [MONW3AT 2019](https://open.spotify.com/track/1SnrE09OAfMEgdC20Wygl5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 4:36 | 2024-07-24 |  |
 | [Mossadas Soot](https://open.spotify.com/track/235QPIAPALhFf6KaKJiNqy) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Mossadas Soot](https://open.spotify.com/album/5IYYgEosDioBGkYpaJ86PQ) | 3:13 | 2022-12-17 | 2023-02-16 |
 | [MOZZA](https://open.spotify.com/track/16u1uzODmSjeiT0lLSKWTy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 2:28 | 2024-08-15 | 2024-09-05 |
@@ -373,7 +374,7 @@
 | [مرزمن](https://open.spotify.com/track/3cAy5RMw6iT1Nxit3Z3Q9b) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [مرزمن](https://open.spotify.com/album/3FL28N3jiv212RwqZlB5gO) | 2:55 | 2023-07-17 | 2023-09-08 |
 | [مش شايفك](https://open.spotify.com/track/2PQ5vldtM9aQg5WpZ0Lmgl) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/3pxvDgUY0ydiEz56kOZlMg) | 3:01 | 2022-07-28 | 2022-12-05 |
 | [مش شايفك](https://open.spotify.com/track/6sauc8XwEVUeYCa9IQIPgq) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/7Hr0AmspLfPsPCsXlKyNjl) | 3:01 | 2022-11-28 | 2023-08-18 |
-| [مطرية](https://open.spotify.com/track/1u5D6Chww0EppywyTQIG8P) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [مطرية](https://open.spotify.com/album/0Rhs1WLWaaITB9RCUvbmEk) | 1:59 | 2024-09-06 |  |
+| [مطرية](https://open.spotify.com/track/1u5D6Chww0EppywyTQIG8P) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [مطرية](https://open.spotify.com/album/0Rhs1WLWaaITB9RCUvbmEk) | 1:59 | 2024-09-06 | 2025-01-08 |
 | [مفيش مانع](https://open.spotify.com/track/7KLy4f8VCsiIEYr69mC4uZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [مفيش مانع](https://open.spotify.com/album/6OVfW5ln6vTI1reXFHaiGd) | 3:40 | 2023-02-23 | 2023-08-16 |
 | [ملوك السوق](https://open.spotify.com/track/0xKWVC12CELTtXQ2misRoC) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [ملوك السوق](https://open.spotify.com/album/2V77iWvLY9oxgpgi01bCRG) | 2:54 | 2023-08-17 | 2023-08-25 |
 | [مين يتحدى](https://open.spotify.com/track/2wlvrcPdey3ZCr0KRfRV4T) | [SFerroe](https://open.spotify.com/artist/0NkhEuKRMwXkY1jItuMuaW), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Tasneem El Aidy](https://open.spotify.com/artist/6dGbgtd9AkqjuoKHiiGKBx), [Dafencii](https://open.spotify.com/artist/74GGob3vwZoZ5Cs16pd4KC) | [مين يتحدى](https://open.spotify.com/album/6Q7vMeBwuMCGCAQaryhsZm) | 2:08 | 2022-06-28 | 2022-11-04 |

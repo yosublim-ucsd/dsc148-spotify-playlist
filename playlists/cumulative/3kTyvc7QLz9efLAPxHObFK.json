@@ -23223,6 +23223,24 @@
     },
     {
       "album": {
+        "name": "Money On The Dash",
+        "url": "https://open.spotify.com/album/5MrtUWzWx7AwdYoj4HmtS0"
+      },
+      "artists": [
+        {
+          "name": "Double Trouble",
+          "url": "https://open.spotify.com/artist/5GPepE4EJ70TsAFBlkaF7A"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181212,
+      "name": "Money On The Dash",
+      "url": "https://open.spotify.com/track/0PuK76HaHGnw9TUlorwdso"
+    },
+    {
+      "album": {
         "name": "Monsone",
         "url": "https://open.spotify.com/album/3ZHVBTDoQ9Fdez4ySXoMis"
       },

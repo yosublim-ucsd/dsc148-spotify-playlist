@@ -1,13 +1,37 @@
 {
   "description": "All your favorite Disney songs wrapped up with love!",
-  "num_followers": 234745,
+  "num_followers": 234916,
   "original_name": "Disney Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1IySwAAAABHqxpaaR54irrbc8QzU2gO",
+  "snapshot_id": "Z33EbAAAAAB6q2f6LtW8ByDri02ZThyM",
   "tracks": [
+    {
+      "added_at": "2025-01-08 00:18:52",
+      "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
+        },
+        {
+          "name": "Tiffany Boone",
+          "url": "https://open.spotify.com/artist/0Fiux5J8PsM7hSFScc3qiz"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Tell Me It's You",
+      "url": "https://open.spotify.com/track/2AdSN6utb6kfgmgas1g6az"
+    },
     {
       "added_at": "2024-02-12 21:13:22",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Yeri Mua y El Malilla en portada ",
-  "num_followers": 719141,
+  "num_followers": 719302,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-01-06 05:22:55",
       "album": {
-        "name": "Tal Vez Fui Yo",
-        "url": "https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 150365,
-      "name": "Tal Vez Fui Yo",
-      "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
-    },
-    {
-      "added_at": "2025-01-06 05:22:55",
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 209361,
       "name": "TOMMY & PAMELA",
       "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
+    },
+    {
+      "added_at": "2025-01-06 05:22:55",
+      "album": {
+        "name": "Tal Vez Fui Yo",
+        "url": "https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 150365,
+      "name": "Tal Vez Fui Yo",
+      "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
     },
     {
       "added_at": "2025-01-06 05:22:55",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-01-06 05:22:55",
       "album": {
+        "name": "Todo a Su Tiempo",
+        "url": "https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 238240,
+      "name": "Todo a Su Tiempo",
+      "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
+    },
+    {
+      "added_at": "2025-01-06 05:22:55",
+      "album": {
         "name": "NO PIERDO LA VIDA",
         "url": "https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 168546,
       "name": "NO PIERDO LA VIDA",
       "url": "https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3"
-    },
-    {
-      "added_at": "2025-01-06 05:22:55",
-      "album": {
-        "name": "Todo a Su Tiempo",
-        "url": "https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 238240,
-      "name": "Todo a Su Tiempo",
-      "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
     },
     {
       "added_at": "2025-01-06 05:22:55",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-01-06 05:22:55",
       "album": {
-        "name": "Pienso En Ella",
-        "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 159551,
-      "name": "Pienso En Ella",
-      "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
-    },
-    {
-      "added_at": "2025-01-06 05:22:55",
-      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
+    },
+    {
+      "added_at": "2025-01-06 05:22:55",
+      "album": {
+        "name": "Pienso En Ella",
+        "url": "https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Pienso En Ella",
+      "url": "https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx"
     },
     {
       "added_at": "2025-01-06 05:22:55",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2025-01-06 05:22:55",
       "album": {
-        "name": "GPI",
-        "url": "https://open.spotify.com/album/51z7gaMVfgdYdMOo2tm8PH"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 123261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/12KKiT4zlAF4nbh4YTuJMB"
-    },
-    {
-      "added_at": "2025-01-06 05:22:55",
-      "album": {
         "name": "La Motora",
         "url": "https://open.spotify.com/album/3zH5JHBP0CD2gh8h1cV2U8"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 203750,
       "name": "La Motora",
       "url": "https://open.spotify.com/track/7wH57Wibq1vdVr6QmlLL5c"
+    },
+    {
+      "added_at": "2025-01-06 05:22:55",
+      "album": {
+        "name": "GPI",
+        "url": "https://open.spotify.com/album/51z7gaMVfgdYdMOo2tm8PH"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 123261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/12KKiT4zlAF4nbh4YTuJMB"
     },
     {
       "added_at": "2025-01-06 05:22:55",
@@ -1219,6 +1219,46 @@
     {
       "added_at": "2025-01-06 05:22:55",
       "album": {
+        "name": "Nena Moxita",
+        "url": "https://open.spotify.com/album/6GRFYmyBPf3Yw6lGMgSTN5"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "duration_ms": 217298,
+      "name": "Nena Moxita",
+      "url": "https://open.spotify.com/track/240m64g59DMzPCcHZNZ6Ps"
+    },
+    {
+      "added_at": "2025-01-06 05:22:55",
+      "album": {
+        "name": "0 Sentimientos",
+        "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 195334,
+      "name": "0 Sentimientos",
+      "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
+    },
+    {
+      "added_at": "2025-01-06 05:22:55",
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
       },
@@ -1263,30 +1303,6 @@
     {
       "added_at": "2025-01-06 05:22:55",
       "album": {
-        "name": "Nena Moxita",
-        "url": "https://open.spotify.com/album/6GRFYmyBPf3Yw6lGMgSTN5"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 217298,
-      "name": "Nena Moxita",
-      "url": "https://open.spotify.com/track/240m64g59DMzPCcHZNZ6Ps"
-    },
-    {
-      "added_at": "2025-01-06 05:22:55",
-      "album": {
         "name": "Abran Paso",
         "url": "https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 236002,
       "name": "Abran Paso",
       "url": "https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr"
-    },
-    {
-      "added_at": "2025-01-06 05:22:55",
-      "album": {
-        "name": "0 Sentimientos",
-        "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 195334,
-      "name": "0 Sentimientos",
-      "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
     },
     {
       "added_at": "2025-01-06 05:22:55",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-01-06 05:22:55",
       "album": {
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Eva Mar\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/1CozjSifqoiO7EQCxASENG"
+    },
+    {
+      "added_at": "2025-01-06 05:22:55",
+      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
-    },
-    {
-      "added_at": "2025-01-06 05:22:55",
-      "album": {
-        "name": "Los Prohibidos en Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Eva Mar\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/1CozjSifqoiO7EQCxASENG"
     },
     {
       "added_at": "2025-01-06 05:22:55",

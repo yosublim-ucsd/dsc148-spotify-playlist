@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 112602,
+  "num_followers": 112612,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -983,8 +983,8 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Flammer og Bensin",
-        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+        "name": "Gamle helter",
+        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Flammer og Bensin",
-      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+      "duration_ms": 208615,
+      "name": "Gamle helter",
+      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "MERE BANJO!",
-        "url": "https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
-        }
-      ],
-      "duration_ms": 124824,
-      "name": "MERE BANJO!",
-      "url": "https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve"
-    },
-    {
-      "added_at": "2024-10-31 23:00:00",
-      "album": {
         "name": "Bjudar p\u00e5",
         "url": "https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Bare for i kveld",
-        "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
+        "name": "MERE BANJO!",
+        "url": "https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
         }
       ],
-      "duration_ms": 196080,
-      "name": "Bare for i kveld",
-      "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
+      "duration_ms": 124824,
+      "name": "MERE BANJO!",
+      "url": "https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve"
     },
     {
       "added_at": "2024-10-31 23:00:00",
@@ -1083,8 +1067,24 @@
     {
       "added_at": "2024-10-31 23:00:00",
       "album": {
-        "name": "Gamle helter",
-        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
+        "name": "Bare for i kveld",
+        "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 196080,
+      "name": "Bare for i kveld",
+      "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
+    },
+    {
+      "added_at": "2024-10-31 23:00:00",
+      "album": {
+        "name": "Flammer og Bensin",
+        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
       },
       "artists": [
         {
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Gamle helter",
-      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
+      "duration_ms": 212360,
+      "name": "Flammer og Bensin",
+      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
     },
     {
       "added_at": "2024-10-31 23:00:00",

@@ -4,7 +4,7 @@
 
 > Parhaat uutuusbiisit samassa paketissa\. Kannessa Costi ja Sexmane.
 
-3,903 songs - 8 day 13 hr 5 min
+3,903 songs - 8 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,7 +660,7 @@
 | [Decline & Fall](https://open.spotify.com/track/0dyUZevogwwjombYMR34pc) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Decline & Fall](https://open.spotify.com/album/6xdJWbVw8VGYBmDnvplt5x) | 3:42 | 2024-08-29 | 2024-09-06 |
 | [Deep Cut](https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 3:14 | 2024-06-27 | 2024-07-05 |
 | [Deeply Still In Love](https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Deeply Still In Love](https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN) | 4:02 | 2024-05-09 | 2024-05-17 |
-| [Deez Nuts](https://open.spotify.com/track/4zONrQWRBigRdtJ3KGuux6) | [Laiska Leppone](https://open.spotify.com/artist/7h5EOSQ8D1tDMMKDwZXlmo), [Kari Tiilikaine](https://open.spotify.com/artist/53k4cYKhB6OvJp3irZCo54), [Kuningas Pähkinä](https://open.spotify.com/artist/21LtQskaSgtWgWmlJxoCea) | [Deez Nuts](https://open.spotify.com/album/7zVzcivgALNO9aHUOfYrlF) | 3:54 | 2025-01-02 |  |
+| [Deez Nuts](https://open.spotify.com/track/4zONrQWRBigRdtJ3KGuux6) | [Laiska Leppone](https://open.spotify.com/artist/7h5EOSQ8D1tDMMKDwZXlmo), [Kari Tiilikaine](https://open.spotify.com/artist/53k4cYKhB6OvJp3irZCo54), [Kuningas Pähkinä](https://open.spotify.com/artist/21LtQskaSgtWgWmlJxoCea) | [Deez Nuts](https://open.spotify.com/album/7zVzcivgALNO9aHUOfYrlF) | 3:01 | 2025-01-02 |  |
 | [DEGENERATE](https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DEGENERATE](https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib) | 3:36 | 2024-07-04 | 2024-07-12 |
 | [Deja Vu](https://open.spotify.com/track/5Hq3LJoP7qUp0jb8oZjC22) | [Devinity](https://open.spotify.com/artist/1ZOibsTXm4B3YZP8STNkai), [\[Ex\] da Bass](https://open.spotify.com/artist/1tf9SY2KC6uQj6qKzsiIYw) | [Deja Vu](https://open.spotify.com/album/5abHGLYFo8h7N1HA0Fzl9R) | 2:50 | 2024-04-26 | 2024-05-03 |
 | [Deja vu \(feat\. Jonne Pehmee\)](https://open.spotify.com/track/7JGh42d3Fe3PYDIc2TPGwM) | [Mängi](https://open.spotify.com/artist/6xBSuqLlGqCWaKDEeQkqVr), [Jonne Pehmee](https://open.spotify.com/artist/2ApSCedOymT9flJ3O5upei) | [Deja vu \(feat\. Jonne Pehmee\)](https://open.spotify.com/album/1zGL3jQsqyiBmu2SHPjoZ2) | 2:15 | 2024-10-10 | 2024-10-18 |

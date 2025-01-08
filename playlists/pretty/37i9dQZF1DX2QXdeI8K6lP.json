@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 281022,
+  "num_followers": 281068,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "15 Exitos De Alvaro Carillo Con Sus Mejors",
-        "url": "https://open.spotify.com/album/5vJB4gDDskT2hKKfsKbcNr"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO"
       },
       "artists": [
         {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 126413,
-      "name": "Cancionero",
-      "url": "https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os"
+      "duration_ms": 175040,
+      "name": "\u00bfC\u00f3mo Fue?",
+      "url": "https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO"
+        "name": "15 Exitos De Alvaro Carillo Con Sus Mejors",
+        "url": "https://open.spotify.com/album/5vJB4gDDskT2hKKfsKbcNr"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
         }
       ],
-      "duration_ms": 175040,
-      "name": "\u00bfC\u00f3mo Fue?",
-      "url": "https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD"
+      "duration_ms": 126413,
+      "name": "Cancionero",
+      "url": "https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Tres Super Trios",
-        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "Amor Que Malo Eres",
-      "url": "https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 186852,
       "name": "Ansia",
       "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Tres Super Trios",
+        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "Amor Que Malo Eres",
+      "url": "https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Para Cuando Regreses",
+        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Para Cuando Regreses",
+      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 120061,
       "name": "Quiero Conocerte",
       "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Para Cuando Regreses",
-        "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Para Cuando Regreses",
-      "url": "https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Mis \u00c9xitos",
-        "url": "https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy"
+        "name": "Lo Mejor de Julio Jaramillo",
+        "url": "https://open.spotify.com/album/0wb8xAJ6F5t8uXa0aDFgnX"
       },
       "artists": [
         {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 179520,
-      "name": "Delirio",
-      "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
+      "duration_ms": 184153,
+      "name": "Fatalidad",
+      "url": "https://open.spotify.com/track/4jdT29SdUzR0RassdVuZDp"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1083,18 +1083,34 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Lo Mejor de Julio Jaramillo",
-        "url": "https://open.spotify.com/album/0wb8xAJ6F5t8uXa0aDFgnX"
+        "name": "Mis \u00c9xitos",
+        "url": "https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy"
       },
       "artists": [
         {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
         }
       ],
-      "duration_ms": 184153,
-      "name": "Fatalidad",
-      "url": "https://open.spotify.com/track/4jdT29SdUzR0RassdVuZDp"
+      "duration_ms": 179520,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
       },
       "artists": [
         {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
         }
       ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1151,38 +1167,6 @@
       "duration_ms": 201021,
       "name": "Luna Orgullosa",
       "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Lo Mejor de los Mejores - Tr\u00edos del Mundo",
-        "url": "https://open.spotify.com/album/3kFUfESqhs3NcDF48dBTga"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "La Gloria Eres T\u00fa",
-      "url": "https://open.spotify.com/track/0cNgAXsROEzCnVm5nBCsHg"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1215,6 +1199,22 @@
       "duration_ms": 161250,
       "name": "No",
       "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Lo Mejor de los Mejores - Tr\u00edos del Mundo",
+        "url": "https://open.spotify.com/album/3kFUfESqhs3NcDF48dBTga"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "La Gloria Eres T\u00fa",
+      "url": "https://open.spotify.com/track/0cNgAXsROEzCnVm5nBCsHg"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1267,6 +1267,38 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "20 \u00c9xitos de los Mejores Tr\u00edos de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3nKVToGPx8VDSdPBUAcfDE"
+      },
+      "artists": [
+        {
+          "name": "Trio Los Soberanos",
+          "url": "https://open.spotify.com/artist/1uFnAWXxYgeyQs40Cqn4zn"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Perla Negra",
+      "url": "https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1295,22 +1327,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "20 \u00c9xitos de los Mejores Tr\u00edos de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3nKVToGPx8VDSdPBUAcfDE"
-      },
-      "artists": [
-        {
-          "name": "Trio Los Soberanos",
-          "url": "https://open.spotify.com/artist/1uFnAWXxYgeyQs40Cqn4zn"
-        }
-      ],
-      "duration_ms": 154120,
-      "name": "Perla Negra",
-      "url": "https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 148500,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1363,34 +1363,6 @@
       "duration_ms": 188894,
       "name": "Mi Negra Linda",
       "url": "https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1443,6 +1415,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "XEW La Voz de America Latina",
+        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1483,34 +1471,30 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "XEW La Voz de America Latina",
-        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
       "artists": [
         {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
-        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
-      },
-      "artists": [
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
         {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 151266,
-      "name": "Ya T\u00fa Ver\u00e1s",
-      "url": "https://open.spotify.com/track/2KE723Cj7xEvFe9qXgX8qu"
+      "duration_ms": 191794,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1543,6 +1527,22 @@
       "duration_ms": 172466,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
+        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
+      },
+      "artists": [
+        {
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+        }
+      ],
+      "duration_ms": 151266,
+      "name": "Ya T\u00fa Ver\u00e1s",
+      "url": "https://open.spotify.com/track/2KE723Cj7xEvFe9qXgX8qu"
     },
     {
       "added_at": "2024-07-11 15:48:05",

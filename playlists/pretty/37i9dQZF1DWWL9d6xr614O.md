@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,621 likes - 153 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,635 likes - 153 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 64 | [O AMING DAKILA](https://open.spotify.com/track/2vunLy3AxDewz0SQpyuRiq) | [James Reyes](https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up) | [O AMING DAKILA](https://open.spotify.com/album/6YaULX1ApjUcL2Otl6wsqo) | 4:47 |
 | 65 | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV) | 9:58 |
 | 66 | [Masdan](https://open.spotify.com/track/0QOIZMsc6tV1UsNEk6Ao9x) | [KDR Music House](https://open.spotify.com/artist/6sdMyHTsU32ShOuGFUUnO0), [JAN CASEY](https://open.spotify.com/artist/4R7xUiZyIO9X82xReso9a6) | [Masdan](https://open.spotify.com/album/0C4oPwJehejJaLwXwwMOz5) | 3:15 |
-| 67 | [Delightful \(The Sower Never Wastes A Tear\)](https://open.spotify.com/track/7dF6TYCE35cgOTeVMGmrrC) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Are We There Yet?](https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0) | 5:07 |
+| 67 | [Delightful \(The Sower Never Wastes A Tear\)](https://open.spotify.com/track/7dF6TYCE35cgOTeVMGmrrC) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Josh Kpozehouen](https://open.spotify.com/artist/6lqVPpXm5sED9guM2fnx6x) | [Are We There Yet?](https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0) | 5:07 |
 | 68 | [MAPAYAPA \- WATERWALK Sessions Version](https://open.spotify.com/track/2HPehVMri8sxetneSsiI3J) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk), [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [MAPAYAPA \(WATERWALK Sessions Version\)](https://open.spotify.com/album/6rlAgI26tV91JNQZdWcZXp) | 4:25 |
 | 69 | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/track/6nbTfLJmS669euyvbaXkRu) | [Wholehearted](https://open.spotify.com/artist/7HPVUQPsHGspCC0nLGWLjW) | [Sovereign God \(Live\)](https://open.spotify.com/album/5wXM01i9FEBZLj5jctpG9z) | 4:55 |
 | 70 | [Kay Buti Buti Mo Panginoon](https://open.spotify.com/track/4USpxYHu8IgXAEfDbz4he5) | [Oswald PH](https://open.spotify.com/artist/753ZE0RrSAhNLNlJfUvi9N) | [Kay Buti Buti Mo Panginoon](https://open.spotify.com/album/0DJsbDzh4VWj3A8diEbRVe) | 3:00 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 182952,
+  "num_followers": 182958,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAAm3UujDn8ofEjIAnPK/ZYu",
+  "snapshot_id": "Z3sdAAAAAAAVskZZ99mRBewS8EB6anuk",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+        "name": "Raw Velvet (Live '66)",
+        "url": "https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 196507,
-      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
-      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
+      "duration_ms": 231549,
+      "name": "Call On Me - Live",
+      "url": "https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raw Velvet (Live '66)",
-        "url": "https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU"
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 231549,
-      "name": "Call On Me - Live",
-      "url": "https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd"
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 234881,
-      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
-      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 116360,
       "name": "Coo Coo",
       "url": "https://open.spotify.com/track/5PEEbmeELam84bKuxZsoj2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 234881,
+      "name": "Take Another Piece of my Heart (Live SWR TV Frankfurt Germany 12th April 1969)",
+      "url": "https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Flower In the Sun",
-      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 143173,
       "name": "Blindman",
       "url": "https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Flower In the Sun",
+      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Box Of Pearls",
-        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Dear Landlord",
-      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 143360,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Box Of Pearls",
+        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Dear Landlord",
+      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
     },
     {
       "added_at": null,

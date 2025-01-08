@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Alamat
 
-244 songs - 15 hr 23 min
+245 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Right Lover, Wrong Time \(feat\. Arthur Miguel\)](https://open.spotify.com/track/2NC87lvkLludWJpaiIv2XS) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Right Lover, Wrong Time \(feat\. Arthur Miguel\)](https://open.spotify.com/album/1sCj6QMPqkKGKcThjOB1D6) | 3:35 | 2024-10-03 | 2024-12-26 |
 | [Room](https://open.spotify.com/track/3WJo7bV3Hi9BgwnVq13SK6) | [Stell](https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0) | [Room](https://open.spotify.com/album/3yyf40UEKCP9sZbAxYdGih) | 3:43 | 2024-07-02 | 2024-08-17 |
 | [Sa 'Yo Pa Rin Uuwi](https://open.spotify.com/track/1VwtA3bfxNEWjAlCSwXrA7) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Sa 'Yo Pa Rin Uuwi](https://open.spotify.com/album/05GMAbnmxdypLFhlnom1fd) | 3:40 | 2024-12-16 |  |
+| [Sa Bawat Sandali](https://open.spotify.com/track/06IkOr83qPqa3yYvrIjgxp) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Sa Bawat Sandali](https://open.spotify.com/album/15yotlQyhydLnbHKy8TFRl) | 5:02 | 2025-01-07 |  |
 | [Sabado Night](https://open.spotify.com/track/5RtqAvmQOp8gD6enenvW6Y) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Sabado Night](https://open.spotify.com/album/6A7IfJzNrlkXefG47fUNp6) | 3:00 | 2024-08-09 | 2024-11-09 |
 | [Safe Ka Sa’kin](https://open.spotify.com/track/6TVJFTnZH39hC0aOlYf0J4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [Safe Ka Sa’kin](https://open.spotify.com/album/7t5inER3X1tBfYpTDSINTc) | 2:34 | 2024-09-24 | 2024-12-05 |
 | [Sagip](https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Sagip](https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO) | 3:52 | 2024-07-02 | 2024-07-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 53349,
+  "num_followers": 53389,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAAN0V5+f0KC30PmJSrJUj61",
+  "snapshot_id": "Z3sdAAAAAABJ7NOP4bHvBJLwJhoC1oCh",
   "tracks": [
     {
       "added_at": null,
@@ -246,11 +246,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Jer\u00f3nimo",
+          "url": "https://open.spotify.com/artist/23LGnTM5aQJ1GrMQTWl9B7"
         }
       ],
-      "duration_ms": 204943,
-      "name": "Dicotom\u00eda",
-      "url": "https://open.spotify.com/track/4kEmzLky7Pnx1TeAmzR3fY"
+      "duration_ms": 232000,
+      "name": "Medellificaci\u00f3n",
+      "url": "https://open.spotify.com/track/6m5azasM8eY0Q7Fs04GJNq"
     },
     {
       "added_at": null,
@@ -314,15 +318,11 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Jer\u00f3nimo",
-          "url": "https://open.spotify.com/artist/23LGnTM5aQJ1GrMQTWl9B7"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Medellificaci\u00f3n",
-      "url": "https://open.spotify.com/track/6m5azasM8eY0Q7Fs04GJNq"
+      "duration_ms": 204943,
+      "name": "Dicotom\u00eda",
+      "url": "https://open.spotify.com/track/4kEmzLky7Pnx1TeAmzR3fY"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
+        "name": "Horizonte",
+        "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
       },
       "artists": [
         {
-          "name": "La Etnnia",
-          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
         },
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 231505,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ"
+      "duration_ms": 316002,
+      "name": "La Esquina del Mariachi",
+      "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
     },
     {
       "added_at": null,
@@ -491,22 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizonte",
-        "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
+        "name": "10",
+        "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
       },
       "artists": [
         {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+          "name": "La Etnnia",
+          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
         },
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 316002,
-      "name": "La Esquina del Mariachi",
-      "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
+      "duration_ms": 231505,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,309 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,260 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 42 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 |
 | 43 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
 | 44 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 |
-| 45 | [El Conjuntito](https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf) | [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [El Conjuntito](https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ) | 2:38 |
-| 46 | [La Historia](https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [La Historia](https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF) | 3:57 |
-| 47 | [El Patio](https://open.spotify.com/track/0PtLrH95CQ2lKf6pym5LmA) | [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [El Patio](https://open.spotify.com/album/2H1GZRUTnZKiVYm7BQzw4h) | 3:52 |
+| 45 | [La Historia](https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [La Historia](https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF) | 3:57 |
+| 46 | [El Patio](https://open.spotify.com/track/0PtLrH95CQ2lKf6pym5LmA) | [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [El Patio](https://open.spotify.com/album/2H1GZRUTnZKiVYm7BQzw4h) | 3:52 |
+| 47 | [El Conjuntito](https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf) | [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [El Conjuntito](https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ) | 2:38 |
 | 48 | [La Rizos \[Dime Si Le Comento a la Pura\]](https://open.spotify.com/track/7pvqkMcGzRTWU0YpZoJj6U) | [Las 2K](https://open.spotify.com/artist/4BnXLYKwUhFGUmYE5mPNox), [Chardo Chardemio](https://open.spotify.com/artist/6mQDo8xYI31LFjmhIsZEWg), [Melody Records International](https://open.spotify.com/artist/3QqpGThGBmUjiYeF8biKlM) | [La Rizos \[Dime Si Le Comento a la Pura\]](https://open.spotify.com/album/1Kz5RhfbaMniwhbfJAiXzl) | 3:38 |
 | 49 | [Contando Lunares \(feat\. Cruz Cafuné\)](https://open.spotify.com/track/6uW0PIRcyZLvkoonm763xD) | [Don Patricio](https://open.spotify.com/artist/6vPXtLmNd3mW0dd1Rb9eQ9), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [La Dura Vida del Joven Rapero](https://open.spotify.com/album/507EX6i0GGn2b4l2DGcl2y) | 3:39 |
 | 50 | [X'CLUSIVO \- REMIX](https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [X'CLUSIVO \(REMIX\)](https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh) | 3:28 |

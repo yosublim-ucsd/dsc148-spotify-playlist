@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 ### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
-> Keeping the party going with Jerk x Jollof!
+> Keeping the party going with Jerk x Jollof! <a href="https://www.instagram.com/reel/DEh9W\_xIbtt/?utm\_source=ig\_web\_copy\_link&igsh=MzRlODBiNWFlZA==">ICYMI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,794 likes - 53 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,822 likes - 53 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 52 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |
 | 53 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
 
-Snapshot ID: `Z3cOyAAAAACj7S7bC944lLhsnrT8K33u`
+Snapshot ID: `Z32R+AAAAAB/P1fj7AB5Rxas+KYadmT+`

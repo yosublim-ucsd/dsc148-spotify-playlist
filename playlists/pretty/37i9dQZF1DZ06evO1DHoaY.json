@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2040121,
+  "num_followers": 2040224,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAACOq3kaKnvt1F+/1H1KpuZB",
+  "snapshot_id": "Z3sdAAAAAABR6EWETlFt4hWnkA6sa3RH",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 188313,
-      "name": "Real Situation",
-      "url": "https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ"
+      "duration_ms": 207773,
+      "name": "Pimper's Paradise",
+      "url": "https://open.spotify.com/track/5JqCmd41S3PZ2AS6GuHqcR"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Pimper's Paradise",
-      "url": "https://open.spotify.com/track/5JqCmd41S3PZ2AS6GuHqcR"
+      "duration_ms": 188313,
+      "name": "Real Situation",
+      "url": "https://open.spotify.com/track/6d4B82vt7pjdzumBmV6HiZ"
     },
     {
       "added_at": null,

@@ -14441,6 +14441,24 @@
     },
     {
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/1W6wGDkV53mnhRSTQrH8gx"
+      },
+      "artists": [
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180495,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/67DhcoHxHggjsp2nHaGHVk"
+    },
+    {
+      "album": {
         "name": "Somebody With You",
         "url": "https://open.spotify.com/album/1WzA5myrnTJTxOYZYmrbpK"
       },

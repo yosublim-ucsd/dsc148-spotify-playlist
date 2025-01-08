@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 40277,
+  "num_followers": 40284,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAADN2pg6gcz00ntJFF13hA6K",
+  "snapshot_id": "Z3sdAAAAAABc69EloH2GOEiI8dO0Cdjl",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
       "artists": [
         {
@@ -484,13 +484,13 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         },
         {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 339673,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
+      "duration_ms": 467012,
+      "name": "Para M\u00ed Es Solo Cristo",
+      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
       "artists": [
         {
@@ -524,13 +524,13 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         },
         {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
         }
       ],
-      "duration_ms": 467012,
-      "name": "Para M\u00ed Es Solo Cristo",
-      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
+      "duration_ms": 339673,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
       "artists": [
         {
@@ -564,13 +564,13 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         },
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 458993,
-      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
-      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+      "duration_ms": 267326,
+      "name": "Ruge",
+      "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
       "artists": [
         {
@@ -600,13 +600,13 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         },
         {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 267326,
-      "name": "Ruge",
-      "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
+      "duration_ms": 458993,
+      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
+      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 269645,
+      "name": "El Gran Nombre del Se\u00f1or",
+      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Famous For (I Believe) - Collection",
         "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 242427,
       "name": "Tu Poder (Creo en Ti)",
       "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 269645,
-      "name": "El Gran Nombre del Se\u00f1or",
-      "url": "https://open.spotify.com/track/3POuELiafd4VQ3FZC1YCPr"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus People",
-        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 245621,
-      "name": "Cristo Es Necesario",
-      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EVANGELIO (En Vivo)",
         "url": "https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 494415,
       "name": "Danzando (En Vivo)",
       "url": "https://open.spotify.com/track/16fCUIyZ3BeBQmmpMNOcg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus People",
+        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 245621,
+      "name": "Cristo Es Necesario",
+      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Sosa La M, Luciano",
+  "description": "50 Hits in einer Playlist! Cover: Gracie Abrams",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -603,6 +603,32 @@
     },
     {
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
+    },
+    {
+      "album": {
         "name": "F\u00fchlst du gar nichts? (feat. Nina Chuba)",
         "url": "https://open.spotify.com/album/36QDKYyYjhypEqgqxkEqoo"
       },
@@ -1008,7 +1034,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 137222,
       "name": "K.O.",
       "url": "https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ"
@@ -1384,7 +1410,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 138305,
       "name": "MURAKAMI",
       "url": "https://open.spotify.com/track/3gTLaJJbieHBrti47DXTUo"
@@ -1566,6 +1592,24 @@
       "duration_ms": 147169,
       "name": "PLAYBOYBUNNIES",
       "url": "https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC"
+    },
+    {
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Zeds Dead
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,933 likes - 154 songs - 8 hr 3 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,934 likes - 154 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Angel in the Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel in the Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
+| 1 | [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
 | 2 | [Heartbeat](https://open.spotify.com/track/1Ggur9pix8p9woEYx84ZYb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Heartbeat](https://open.spotify.com/album/2G7zzLh2lfpvvGlGdomPx7) | 3:30 |
 | 3 | [No Brake$ \(feat\. Roshin\)](https://open.spotify.com/track/2q5egBQ2XINmx8j5uipF4t) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [No Brake$ \(feat\. Roshin\)](https://open.spotify.com/album/53rufUypsnaQPfU2Z7tYBv) | 2:36 |
 | 4 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 |

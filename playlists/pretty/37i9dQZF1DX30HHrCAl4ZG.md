@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from girlpuppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,923 likes - 103 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,924 likes - 103 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

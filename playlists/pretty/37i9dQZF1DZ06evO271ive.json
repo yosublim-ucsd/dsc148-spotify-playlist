@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 23277,
+  "num_followers": 23301,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAC1cR27ZaCi7HKWlvj2/jQD",
+  "snapshot_id": "Z3sdAAAAAADt3EcDet/juraRi5OIjuUr",
   "tracks": [
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 193041,
-      "name": "Daddy (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I love freaks (Sexyy\u2019s Version)",
         "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 163696,
       "name": "I love freaks (Sexyy\u2019s Version)",
       "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 193041,
+      "name": "Daddy (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
     },
     {
       "added_at": null,

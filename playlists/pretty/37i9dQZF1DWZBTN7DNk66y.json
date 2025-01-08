@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Lisandro Aristimu\u00f1o.",
-  "num_followers": 26381,
+  "num_followers": 26387,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "El Viejo",
+        "url": "https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        },
+        {
+          "name": "Sebasti\u00e1n Teysera",
+          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
+        }
+      ],
+      "duration_ms": 209261,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Candombe",
         "url": "https://open.spotify.com/album/02tFQcbgaxEs6RRiGs6qCl"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 173877,
       "name": "El Tambor",
       "url": "https://open.spotify.com/track/6Ohp9GIMDh0mvDGo87KWY8"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "El Viejo",
-        "url": "https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk"
-      },
-      "artists": [
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        },
-        {
-          "name": "Sebasti\u00e1n Teysera",
-          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
-        }
-      ],
-      "duration_ms": 209261,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "LXS INFERNALES (Del Valle Encantado)",
         "url": "https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 182256,
       "name": "TRIGAL",
       "url": "https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 180316,
+      "name": "Tu bebotear",
+      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "LLORAR",
         "url": "https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 238266,
       "name": "LLORAR",
       "url": "https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 180316,
-      "name": "Tu bebotear",
-      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Soy lo que Doy",
-        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 217728,
-      "name": "Soy lo que Doy",
-      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Cu\u00e1ndo y D\u00f3nde",
         "url": "https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 194956,
       "name": "Cu\u00e1ndo y D\u00f3nde",
       "url": "https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Soy lo que Doy",
+        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "Soy lo que Doy",
+      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Qui\u00e9n da M\u00e1s?",
-        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
-      },
-      "artists": [
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 272010,
-      "name": "Qui\u00e9n da M\u00e1s?",
-      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Qui\u00e9n da M\u00e1s?",
+        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
+      },
+      "artists": [
+        {
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 272010,
+      "name": "Qui\u00e9n da M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
+      },
+      "artists": [
+        {
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+        },
+        {
+          "name": "Seba Cavazzoli",
+          "url": "https://open.spotify.com/artist/78LuAC1Waxn1C8FpYU1Ny7"
+        }
+      ],
+      "duration_ms": 190691,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Yo te nombro libertad (Banda Sonora Original de \"El don absoluto\")",
         "url": "https://open.spotify.com/album/2wFi5fSoYU4R7Nj15jwa33"
       },
@@ -1423,22 +1443,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
       "artists": [
         {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
         },
         {
-          "name": "Seba Cavazzoli",
-          "url": "https://open.spotify.com/artist/78LuAC1Waxn1C8FpYU1Ny7"
+          "name": "La Nueva Imperial",
+          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
         }
       ],
-      "duration_ms": 190691,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+      "duration_ms": 202655,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1463,22 +1483,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
+        "name": "Odio despertar",
+        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
       },
       "artists": [
         {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        },
-        {
-          "name": "La Nueva Imperial",
-          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
         }
       ],
-      "duration_ms": 202655,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+      "duration_ms": 267941,
+      "name": "Odio despertar",
+      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Odio despertar",
-        "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 267941,
-      "name": "Odio despertar",
-      "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Cantor",
         "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 211719,
       "name": "Cantor",
       "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Canta a V\u00edctor Jara",
+        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
+      },
+      "artists": [
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Paloma quiero contarte",
+      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1563,22 +1579,6 @@
       "duration_ms": 176185,
       "name": "A Ver",
       "url": "https://open.spotify.com/track/7dFHHUywOkiDTAIGovm60v"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Canta a V\u00edctor Jara",
-        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
-      },
-      "artists": [
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "Paloma quiero contarte",
-      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
-      },
-      "artists": [
-        {
-          "name": "Santiago Alonso",
-          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "\u00bfQU\u00c9 VES?",
         "url": "https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF"
       },
@@ -1695,22 +1679,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
       },
       "artists": [
         {
-          "name": "bambu",
-          "url": "https://open.spotify.com/artist/33gHNq944vAjJT986rp1TZ"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
         }
       ],
-      "duration_ms": 231127,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL"
+      "duration_ms": 172137,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1727,6 +1707,26 @@
       "duration_ms": 217169,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
+      },
+      "artists": [
+        {
+          "name": "bambu",
+          "url": "https://open.spotify.com/artist/33gHNq944vAjJT986rp1TZ"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 231127,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1867,22 +1867,18 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "El Sol Est\u00e1 Mojado",
-        "url": "https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY"
+        "name": "Las palabras que no sientes",
+        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
       },
       "artists": [
         {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        },
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
         }
       ],
-      "duration_ms": 255290,
-      "name": "El Sol Est\u00e1 Mojado",
-      "url": "https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2"
+      "duration_ms": 148339,
+      "name": "Las palabras que no sientes",
+      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
     }
   ],
   "unique_name": "Voces del Sur",

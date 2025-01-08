@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 59767,
+  "num_followers": 59808,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Anthology: The Deluxe Collection (Remastered)",
-        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "Rock Me - Remastered",
-      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Territory Singers Vol. 1 (1922-1928)",
         "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 184111,
       "name": "Evil Mama Blues",
       "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Anthology: The Deluxe Collection (Remastered)",
+        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "Rock Me - Remastered",
+      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
     },
     {
       "added_at": "2024-06-02 16:39:20",

@@ -1,6 +1,6 @@
 {
   "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: DOU",
-  "num_followers": 65985,
+  "num_followers": 65998,
   "original_name": "Ke\u015fif",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-12-19 21:00:17",
       "album": {
+        "name": "Sonbahar",
+        "url": "https://open.spotify.com/album/2F5Ezf5vY94JUKvoW7J2g1"
+      },
+      "artists": [
+        {
+          "name": "Kaan K\u00fc\u00e7\u00fck",
+          "url": "https://open.spotify.com/artist/3Mx4MlGjcoi50i0yLsQ3lZ"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "Sonbahar",
+      "url": "https://open.spotify.com/track/01ATofuZVa1yja9i9LCa6a"
+    },
+    {
+      "added_at": "2024-12-19 21:00:17",
+      "album": {
         "name": "Ankara Ayaz\u0131",
         "url": "https://open.spotify.com/album/0U31turfAphETTOc8k3nQN"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 200000,
       "name": "Ankara Ayaz\u0131",
       "url": "https://open.spotify.com/track/5no6olRh1NCwdZJIIMId2R"
-    },
-    {
-      "added_at": "2024-12-19 21:00:17",
-      "album": {
-        "name": "Sonbahar",
-        "url": "https://open.spotify.com/album/2F5Ezf5vY94JUKvoW7J2g1"
-      },
-      "artists": [
-        {
-          "name": "Kaan K\u00fc\u00e7\u00fck",
-          "url": "https://open.spotify.com/artist/3Mx4MlGjcoi50i0yLsQ3lZ"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "Sonbahar",
-      "url": "https://open.spotify.com/track/01ATofuZVa1yja9i9LCa6a"
     },
     {
       "added_at": "2024-12-19 21:00:17",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-12-19 21:00:17",
       "album": {
-        "name": "Tasmam Ellerinde",
-        "url": "https://open.spotify.com/album/04qC9MIJZk2ztJ7FULxW8s"
-      },
-      "artists": [
-        {
-          "name": "Brek",
-          "url": "https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk"
-        }
-      ],
-      "duration_ms": 220375,
-      "name": "Tasmam Ellerinde",
-      "url": "https://open.spotify.com/track/4nilIX9kRj72xYjEYEhXHV"
-    },
-    {
-      "added_at": "2024-12-19 21:00:17",
-      "album": {
         "name": "bizdenba\u015fka.",
         "url": "https://open.spotify.com/album/30XUUMWhEYXRuVZnvYo01R"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 180000,
       "name": "bizdenba\u015fka.",
       "url": "https://open.spotify.com/track/17IjdDXjobLTdHZDjldsO9"
+    },
+    {
+      "added_at": "2024-12-19 21:00:17",
+      "album": {
+        "name": "Tasmam Ellerinde",
+        "url": "https://open.spotify.com/album/04qC9MIJZk2ztJ7FULxW8s"
+      },
+      "artists": [
+        {
+          "name": "Brek",
+          "url": "https://open.spotify.com/artist/6TNFlMsNERcjX4gb3jntBk"
+        }
+      ],
+      "duration_ms": 220375,
+      "name": "Tasmam Ellerinde",
+      "url": "https://open.spotify.com/track/4nilIX9kRj72xYjEYEhXHV"
     },
     {
       "added_at": "2024-12-19 21:00:17",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-12-19 21:00:17",
       "album": {
-        "name": "Davet",
-        "url": "https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx"
+        "name": "Yunan Heykeli",
+        "url": "https://open.spotify.com/album/0iYe4Y4Iezyp5qFgTRrfeJ"
       },
       "artists": [
         {
-          "name": "Ege Can Sal",
-          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+          "name": "Se\u00e7il",
+          "url": "https://open.spotify.com/artist/1KENVuHY82mq5AaP9fGPqB"
         }
       ],
-      "duration_ms": 152307,
-      "name": "Davet",
-      "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
+      "duration_ms": 148800,
+      "name": "Yunan Heykeli",
+      "url": "https://open.spotify.com/track/0ufMlrEZiD9BcHRrFtKM1D"
     },
     {
       "added_at": "2024-12-19 21:00:17",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-12-19 21:00:17",
       "album": {
-        "name": "Yunan Heykeli",
-        "url": "https://open.spotify.com/album/0iYe4Y4Iezyp5qFgTRrfeJ"
+        "name": "Davet",
+        "url": "https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx"
       },
       "artists": [
         {
-          "name": "Se\u00e7il",
-          "url": "https://open.spotify.com/artist/1KENVuHY82mq5AaP9fGPqB"
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Yunan Heykeli",
-      "url": "https://open.spotify.com/track/0ufMlrEZiD9BcHRrFtKM1D"
+      "duration_ms": 152307,
+      "name": "Davet",
+      "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
     },
     {
       "added_at": "2024-12-19 21:00:17",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-12-19 21:00:17",
       "album": {
-        "name": "Gitti\u011finden Beri",
-        "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
+        "name": "Sil Numaram\u0131",
+        "url": "https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM"
       },
       "artists": [
         {
-          "name": "Bade",
-          "url": "https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz"
+          "name": "Berkay Altunyay",
+          "url": "https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59"
         }
       ],
-      "duration_ms": 166092,
-      "name": "Gitti\u011finden Beri",
-      "url": "https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB"
+      "duration_ms": 151048,
+      "name": "Sil Numaram\u0131",
+      "url": "https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh"
     },
     {
       "added_at": "2024-12-19 21:00:17",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-12-19 21:00:17",
       "album": {
-        "name": "Sil Numaram\u0131",
-        "url": "https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM"
+        "name": "Gitti\u011finden Beri",
+        "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
       },
       "artists": [
         {
-          "name": "Berkay Altunyay",
-          "url": "https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59"
+          "name": "Bade",
+          "url": "https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz"
         }
       ],
-      "duration_ms": 151048,
-      "name": "Sil Numaram\u0131",
-      "url": "https://open.spotify.com/track/2UaT5jEKf4XUvCUC7O9LQh"
+      "duration_ms": 166092,
+      "name": "Gitti\u011finden Beri",
+      "url": "https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB"
     },
     {
       "added_at": "2024-12-19 21:00:17",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-12-19 21:00:17",
       "album": {
-        "name": "Bir Bir",
-        "url": "https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY"
-      },
-      "artists": [
-        {
-          "name": "Hakan Kurta\u015f",
-          "url": "https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt"
-        }
-      ],
-      "duration_ms": 175658,
-      "name": "Bir Bir",
-      "url": "https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG"
-    },
-    {
-      "added_at": "2024-12-19 21:00:17",
-      "album": {
         "name": "D\u00fcn G\u00f6rd\u00fc\u011f\u00fcm R\u00fcya",
         "url": "https://open.spotify.com/album/5VhULdlFyy9iDC1MMHIuFa"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 204250,
       "name": "D\u00fcn G\u00f6rd\u00fc\u011f\u00fcm R\u00fcya",
       "url": "https://open.spotify.com/track/5zFkIyNGimqxjPLovBUXas"
+    },
+    {
+      "added_at": "2024-12-19 21:00:17",
+      "album": {
+        "name": "Bir Bir",
+        "url": "https://open.spotify.com/album/1OEwwB2FESKuziGRR8tqiY"
+      },
+      "artists": [
+        {
+          "name": "Hakan Kurta\u015f",
+          "url": "https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt"
+        }
+      ],
+      "duration_ms": 175658,
+      "name": "Bir Bir",
+      "url": "https://open.spotify.com/track/3ICdfm7CAO0vg14gyUFjkG"
     },
     {
       "added_at": "2024-12-19 21:00:17",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-12-19 21:00:17",
       "album": {
-        "name": "Karag\u00f6zler",
-        "url": "https://open.spotify.com/album/6xoVw29QIyslJ1vsaXemT9"
-      },
-      "artists": [
-        {
-          "name": "\u0130zelle",
-          "url": "https://open.spotify.com/artist/6WrduelskQhS1vhzcHSnNY"
-        }
-      ],
-      "duration_ms": 181619,
-      "name": "Karag\u00f6zler",
-      "url": "https://open.spotify.com/track/72ABqzsSx86xLNo1qi2QSs"
-    },
-    {
-      "added_at": "2024-12-19 21:00:17",
-      "album": {
         "name": "Son Perde",
         "url": "https://open.spotify.com/album/3UyAJFP27NQabY22Te3UuA"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 203141,
       "name": "Son Perde",
       "url": "https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ"
+    },
+    {
+      "added_at": "2024-12-19 21:00:17",
+      "album": {
+        "name": "G\u00fczel Olmaz M\u0131?",
+        "url": "https://open.spotify.com/album/2HVpwKFTAkn2fSCfS2biRi"
+      },
+      "artists": [
+        {
+          "name": "Kaset",
+          "url": "https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "G\u00fczel Olmaz M\u0131?",
+      "url": "https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW"
     }
   ],
   "unique_name": "Ke\u015fif",

@@ -775,6 +775,32 @@
     },
     {
       "album": {
+        "name": "Aati Kalanja (From \"Adhipatra\")",
+        "url": "https://open.spotify.com/album/5jNIMUoBWZgRdDTrAm1ldY"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Shrihari Shresty",
+          "url": "https://open.spotify.com/artist/2OmYwdyzpkf1gx8apxtU9b"
+        },
+        {
+          "name": "Chayan Shetty",
+          "url": "https://open.spotify.com/artist/2NJ1niLo44H7ZNptlfyktV"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186111,
+      "name": "Aati Kalanja (From \"Adhipatra\")",
+      "url": "https://open.spotify.com/track/2bgD3AK34phOQSIXY5bOom"
+    },
+    {
+      "album": {
         "name": "Aatta Aaduvare (From \"Pani\")",
         "url": "https://open.spotify.com/album/1OC69YiTIxl40EAdnfLS4R"
       },
@@ -3212,6 +3238,36 @@
       "duration_ms": 174797,
       "name": "Babu (No.1 Bullshit Guy) Title Song",
       "url": "https://open.spotify.com/track/7uqywamyCdTjAIxfw8AZgH"
+    },
+    {
+      "album": {
+        "name": "Babu Moshaya (From \"Zebra\") [KANNADA]",
+        "url": "https://open.spotify.com/album/3cU9eb0a3jQi1U69Nhzr2i"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Sangeetha Ravindra",
+          "url": "https://open.spotify.com/artist/0lIXbYtL2pm1cQrmULxfDm"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212198,
+      "name": "Babu Moshaya (From \"Zebra\") [KANNADA]",
+      "url": "https://open.spotify.com/track/5ufLe6Anicn3ZIB58xcKi3"
     },
     {
       "album": {
@@ -5704,6 +5760,40 @@
       "duration_ms": 61866,
       "name": "Chaser - From \"Chaser\"",
       "url": "https://open.spotify.com/track/6d2sQoVR7WUFiIQtBNjzLa"
+    },
+    {
+      "album": {
+        "name": "Cheap Song (From \"Ui\")",
+        "url": "https://open.spotify.com/album/4RPpSMjmUNBaJFIu3PM4Q9"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Upendra",
+          "url": "https://open.spotify.com/artist/2gmPDpR4396fHMXsV1jWbH"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185130,
+      "name": "Cheap Song (From \"Ui\")",
+      "url": "https://open.spotify.com/track/2f4YWnkkagXHhzyB0PSW5x"
     },
     {
       "album": {
@@ -11600,8 +11690,8 @@
       },
       "artists": [
         {
-          "name": "Mayuresh Adhikari",
-          "url": "https://open.spotify.com/artist/5tXCpOrFyQdIaV9NJySLRT"
+          "name": "Mayuresh A",
+          "url": "https://open.spotify.com/artist/2jZG20zvYlAeYnfRYZnBOi"
         },
         {
           "name": "Jayant Kaikini",
@@ -13088,7 +13178,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 204631,
       "name": "Hudukutha Hode (From \"Aaram Aravinda Swamy\")",
       "url": "https://open.spotify.com/track/5PNZvmaCf1eEZIBbOiPQzW"
@@ -17526,7 +17616,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 246714,
       "name": "Lay Lay Raja (From \"Matka\")(Kannada)",
       "url": "https://open.spotify.com/track/1MkH3RhgeE7x5CXpU5z3r4"

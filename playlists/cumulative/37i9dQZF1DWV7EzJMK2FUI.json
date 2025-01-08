@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 226679,
       "name": "Angel Falls",
       "url": "https://open.spotify.com/track/18mq8tGDlx1wF16w1YZxTf"
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 151966,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/3g2ctas7bdFNBQqY2tvmVB"
@@ -2290,7 +2290,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 236326,
       "name": "Autumn Serenade",
       "url": "https://open.spotify.com/track/76bxYaBhzR5YOIrgmNUUJ5"
@@ -3036,7 +3036,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 223654,
       "name": "Blue Quarter",
       "url": "https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G"
@@ -7416,7 +7416,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 248281,
       "name": "Going Our Separate Ways",
       "url": "https://open.spotify.com/track/5gk8Zfd0JaAEfSmxr57xdg"
@@ -9870,7 +9870,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 238501,
       "name": "In the Rain",
       "url": "https://open.spotify.com/track/3cT3PwSMVB7wKkeiLvfYez"
@@ -12028,7 +12028,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 288368,
       "name": "Living In Paradise",
       "url": "https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm"
@@ -12810,7 +12810,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 242399,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/7xuOv4oO4lghAaoS27dIEx"
@@ -13138,6 +13138,24 @@
       "duration_ms": 202115,
       "name": "Meet Me In Mashatu",
       "url": "https://open.spotify.com/track/2IP1MFL8G8A5hIOIXhnaz1"
+    },
+    {
+      "album": {
+        "name": "Meets the Sea",
+        "url": "https://open.spotify.com/album/7gNaMqsgryJessmqyAYNyQ"
+      },
+      "artists": [
+        {
+          "name": "Nordklang Collective",
+          "url": "https://open.spotify.com/artist/0o2YTCBctZKK3CxDw6yVf9"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217121,
+      "name": "Meets the Sea",
+      "url": "https://open.spotify.com/track/4Zs5DSz0nNvKWMTNKoAQ78"
     },
     {
       "album": {
@@ -14298,6 +14316,24 @@
       "duration_ms": 200226,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN"
+    },
+    {
+      "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0"
     },
     {
       "album": {
@@ -17330,7 +17366,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 207663,
       "name": "Sails",
       "url": "https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz"
@@ -17420,7 +17456,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 261090,
       "name": "September Song",
       "url": "https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA"
@@ -18050,7 +18086,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 199974,
       "name": "Six Copies",
       "url": "https://open.spotify.com/track/3OnVhUvvgbm9ca4UW1Agh8"
@@ -18068,7 +18104,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 189932,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/45uUsc9TX693ldNPmqoa8d"
@@ -20696,7 +20732,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 229767,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP"
@@ -20955,6 +20991,24 @@
     },
     {
       "album": {
+        "name": "The Things We Did Last Summer",
+        "url": "https://open.spotify.com/album/3zUrJ8YKkss9xFnuPwg7Zc"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226647,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/4MZsXEDZvZhXiohdK08fRd"
+    },
+    {
+      "album": {
         "name": "The Thought of You",
         "url": "https://open.spotify.com/album/5JkyU3K3UiykUp8xluYvnC"
       },
@@ -21132,6 +21186,24 @@
       "duration_ms": 181238,
       "name": "Theme for Ruth",
       "url": "https://open.spotify.com/track/3Lufuxi6y1fGw3bPHhlx66"
+    },
+    {
+      "album": {
+        "name": "Then You Spoke",
+        "url": "https://open.spotify.com/album/4D8kgXeMrdYk23YGTLNMxS"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189864,
+      "name": "Then You Spoke",
+      "url": "https://open.spotify.com/track/5Q1pJ2MCj4FlcDf6TCsL9Y"
     },
     {
       "album": {
@@ -22003,6 +22075,24 @@
     },
     {
       "album": {
+        "name": "Travelling Story",
+        "url": "https://open.spotify.com/album/3y3emncjPtAAjPncdEbnLp"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195697,
+      "name": "Travelling Story",
+      "url": "https://open.spotify.com/track/35U8EnZgLHlBzREzo6UGpC"
+    },
+    {
+      "album": {
         "name": "Try To Remember",
         "url": "https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx"
       },
@@ -22309,6 +22399,24 @@
     },
     {
       "album": {
+        "name": "Upstairs",
+        "url": "https://open.spotify.com/album/734XVIU7tldRvB7cuUtmFX"
+      },
+      "artists": [
+        {
+          "name": "Meadow Park",
+          "url": "https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "Upstairs",
+      "url": "https://open.spotify.com/track/0pBXUkgAFnKXQpJIHUibfd"
+    },
+    {
+      "album": {
         "name": "Urban Escape",
         "url": "https://open.spotify.com/album/5PgTYuJs8AasbROYrzL2ff"
       },
@@ -22410,7 +22518,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 170019,
       "name": "Vi drar till fj\u00e4llet",
       "url": "https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1"
@@ -22828,6 +22936,24 @@
       "duration_ms": 239250,
       "name": "Wayfaring",
       "url": "https://open.spotify.com/track/3H1tlHDW9neo5FtXFPCF5U"
+    },
+    {
+      "album": {
+        "name": "We Never Said Goodbye",
+        "url": "https://open.spotify.com/album/0zoddGEu1oqolvyv9VpUIR"
+      },
+      "artists": [
+        {
+          "name": "Belleville",
+          "url": "https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "We Never Said Goodbye",
+      "url": "https://open.spotify.com/track/3TPGw1nBTB1kKFMWg7NqAJ"
     },
     {
       "album": {
@@ -24442,6 +24568,24 @@
       "duration_ms": 213738,
       "name": "You Were There",
       "url": "https://open.spotify.com/track/2wusJUhMhV7KZFXnHan1V2"
+    },
+    {
+      "album": {
+        "name": "You Were Waiting for Me",
+        "url": "https://open.spotify.com/album/2QrbclS2xGo3WDryR5ZD7t"
+      },
+      "artists": [
+        {
+          "name": "Eight Bar Band",
+          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248213,
+      "name": "You Were Waiting for Me",
+      "url": "https://open.spotify.com/track/0l368MH8QIJDEHAAqgtxza"
     },
     {
       "album": {

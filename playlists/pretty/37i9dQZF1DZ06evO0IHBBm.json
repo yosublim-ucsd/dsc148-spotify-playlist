@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30281,
+  "num_followers": 30288,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAADl3+zgsjO+K4MY/N4XDMvN",
+  "snapshot_id": "Z3sdAAAAAABmrmkZpL+gPol7grX0zEX9",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deixa Senhor",
+        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 362987,
+      "name": "Deixa Senhor",
+      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damares (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 358640,
       "name": "Yeshua (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deixa Senhor",
-        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 362987,
-      "name": "Deixa Senhor",
-      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
     },
     {
       "added_at": null,

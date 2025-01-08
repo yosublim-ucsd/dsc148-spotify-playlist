@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,217 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,239 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 35 | [Me iré](https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:18 |
 | 36 | [Debut Y Despedida](https://open.spotify.com/track/5D2tEdUibUNSeucsEv5Sjz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:34 |
 | 37 | [Round 6](https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 3:36 |
-| 38 | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/album/4TID8AMKXScQbE140lc45n) | 2:51 |
-| 39 | [Mujer](https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:14 |
-| 40 | [Por Qué Será?](https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Por Qué Será?](https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V) | 3:19 |
+| 38 | [Mujer](https://open.spotify.com/track/6S8ZsnBFjG5roenrxeArNv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:14 |
+| 39 | [Por Qué Será?](https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Por Qué Será?](https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V) | 3:19 |
+| 40 | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [PRENDE LA BOCINA \(feat\. BeatBoy\)](https://open.spotify.com/album/4TID8AMKXScQbE140lc45n) | 2:51 |
 | 41 | [El mañana \(feat\. Meny Méndez\)](https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:16 |
 | 42 | [Round 3 \(feat\. C\-Kan\)](https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 3:25 |
 | 43 | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/track/1I6aiLIGgrx7uEqausJgx5) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Round 4 \(feat\. C\-Kan\)](https://open.spotify.com/album/3DAo1WHerGAEI29u14o8dD) | 4:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 50 | [Chingo De Parientes](https://open.spotify.com/track/5awjLC1FKAf1L5sgbtmwtf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:00 |
 | 51 | [El Más Travieso](https://open.spotify.com/track/0VFG5Ts3TgWl6qPOlG48Cs) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Más Travieso](https://open.spotify.com/album/2K0iuMY13fXHxmwqJoxijO) | 2:42 |
 
-Snapshot ID: `Z3nLgAAAAAAQc+m0Fq+tWqLrtnFioxuo`
+Snapshot ID: `Z3sdAAAAAAABLoahI8vDroBTJccm9m0o`

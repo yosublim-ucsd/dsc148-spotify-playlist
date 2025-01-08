@@ -5631,6 +5631,24 @@
     },
     {
       "album": {
+        "name": "Kaal",
+        "url": "https://open.spotify.com/album/0aNe1xl2tLzPTbec5IVfPR"
+      },
+      "artists": [
+        {
+          "name": "Bukka Jatt",
+          "url": "https://open.spotify.com/artist/4EKIG5bG1BlL7NHvzDw4XV"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "Kaal",
+      "url": "https://open.spotify.com/track/1FqqNR7TubiEwwezjYUqQq"
+    },
+    {
+      "album": {
         "name": "The Finest",
         "url": "https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy"
       },
@@ -5752,7 +5770,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 212354,
       "name": "Kam Kaar",
       "url": "https://open.spotify.com/track/0dGxWogLB1YcDMMh0tJkuS"
@@ -5896,7 +5914,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 156164,
       "name": "Khaaj",
       "url": "https://open.spotify.com/track/4NaEfikRy0dZN5bApkUcRZ"
@@ -8087,6 +8105,24 @@
     },
     {
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/5nq1H0zG0LN6uaBE4YJLKy"
+      },
+      "artists": [
+        {
+          "name": "Sukha Sandhu",
+          "url": "https://open.spotify.com/artist/6JGz5B12Ek0m8GJahoYRus"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181339,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/4JYk1cLcpJjJChjjCNT97x"
+    },
+    {
+      "album": {
         "name": "Pagg (From The Movie \"Apne Ghar Begane\")",
         "url": "https://open.spotify.com/album/5ZeOet9rqkSwMaHOKm11Bn"
       },
@@ -9856,7 +9892,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 159014,
       "name": "Stick Talk",
       "url": "https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt"
@@ -11048,7 +11084,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 207335,
       "name": "Warriors Of Punjab",
       "url": "https://open.spotify.com/track/3zPf2zmCJQK3MbjAr1iU7Y"

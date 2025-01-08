@@ -5640,7 +5640,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 256161,
       "name": "Raridade (Releitura)",
       "url": "https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th"
@@ -5964,6 +5964,32 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT"
+    },
+    {
+      "album": {
+        "name": "Santo Lugar",
+        "url": "https://open.spotify.com/album/5daO7b2XDxCC1uqKodkXXP"
+      },
+      "artists": [
+        {
+          "name": "Margem Norte",
+          "url": "https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1"
+        },
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        },
+        {
+          "name": "Minist\u00e9rio Chama Coral",
+          "url": "https://open.spotify.com/artist/0TDC1ivOZb4LiNYWYirJ2B"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Santo Lugar",
+      "url": "https://open.spotify.com/track/0ESIN7PrVtWYMlM0O84DTt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Relaxing sounds for a Spa Lounge
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,572 likes - 185 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,685 likes - 185 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

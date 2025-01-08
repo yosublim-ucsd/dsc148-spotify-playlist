@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 341657,
+  "num_followers": 341601,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
+        "name": "Blood of the Saints",
+        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "We Drink Your Blood",
+      "url": "https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
         "name": "The Rocky Horror Picture Show - Original Soundtrack",
         "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
-        "name": "Blood of the Saints",
-        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "We Drink Your Blood",
-      "url": "https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 268746,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
+      },
+      "artists": [
+        {
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 140816,
-      "name": "superdeadfriends",
-      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Ellipsis (Deluxe)",
         "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 248517,
       "name": "Wolves of Winter",
       "url": "https://open.spotify.com/track/3n4r9HS59J2Utzr9wHbte4"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 140816,
+      "name": "superdeadfriends",
+      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
     },
     {
       "added_at": "2024-10-11 19:37:59",

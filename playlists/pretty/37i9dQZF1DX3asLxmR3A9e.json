@@ -1,6 +1,6 @@
 {
   "description": "2014 highlights from the home of indie music. Cover: Lorde",
-  "num_followers": 91982,
+  "num_followers": 92063,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 204811,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "BADLANDS",
         "url": "https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 249499,
       "name": "Colors",
       "url": "https://open.spotify.com/track/1TnUURhehaoMWKAqQtirm6"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 175906,
-      "name": "Work This Body",
-      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "Chapter Of The Forest",
         "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 274632,
       "name": "Green Mountain State",
       "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "Work This Body",
+      "url": "https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb"
     },
     {
       "added_at": "2024-01-24 21:21:00",

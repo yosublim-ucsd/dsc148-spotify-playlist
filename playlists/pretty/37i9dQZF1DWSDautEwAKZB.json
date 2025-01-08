@@ -179,22 +179,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Prenda del Alma - Spotify Singles",
         "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 258579,
       "name": "Prenda del Alma - Spotify Singles",
       "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 202867,
+      "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
+      "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
         "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 142187,
       "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
       "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 202867,
-      "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
-      "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -416,22 +416,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 156371,
-      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
       },
       "artists": [
@@ -443,6 +427,22 @@
       "duration_ms": 217058,
       "name": "thank u, next - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 156371,
+      "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -459,6 +459,22 @@
       "duration_ms": 176920,
       "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
       "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 214436,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -483,22 +499,6 @@
       "duration_ms": 121681,
       "name": "NO CH\u00c3O NOVINHA (feat. Anitta) - Spotify Singles",
       "url": "https://open.spotify.com/track/4qqKYtFZmduS5mP6w3vRCV"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 214436,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
-      },
-      "artists": [
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 269061,
-      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Pir\u00e2mide Social - Spotify Singles",
         "url": "https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 198281,
       "name": "Pir\u00e2mide Social - Spotify Singles",
       "url": "https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
+      },
+      "artists": [
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 269061,
+      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1086,15 +1086,11 @@
         {
           "name": "Twin Shadow",
           "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
-        },
-        {
-          "name": "BLACKPAW",
-          "url": "https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Alemania - Spotify Singles (Blackpaw Remix)",
-      "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
+      "duration_ms": 173023,
+      "name": "Telepat\u00eda - Spotify Singles",
+      "url": "https://open.spotify.com/track/5btOvqOWxTVq33xL3ugEtb"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1180,22 +1176,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8"
-      },
-      "artists": [
-        {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        }
-      ],
-      "duration_ms": 228839,
-      "name": "Declare Independence - Spotify Singles",
-      "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
       },
       "artists": [
@@ -1207,6 +1187,22 @@
       "duration_ms": 252942,
       "name": "i don't think i love you anymore - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 228839,
+      "name": "Declare Independence - Spotify Singles",
+      "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
     },
     {
       "added_at": "2024-11-07 00:01:00",

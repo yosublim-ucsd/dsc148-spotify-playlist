@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-827 songs - 1 day 11 hr 42 min
+830 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Cardinal Moonlight](https://open.spotify.com/track/7s46C3yeQvTSOehOgtmSCR) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [A Cardinal Moonlight](https://open.spotify.com/album/7Ckwv4JpZENq4VywyXBQKo) | 2:54 | 2023-11-24 | 2024-05-25 |
 | [A Few Reasons](https://open.spotify.com/track/5f47RLk3HgmaCBrhI9Ibrf) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [A Few Reasons](https://open.spotify.com/album/6NAR2psL2E6ViUIZgHurEZ) | 2:31 | 2022-03-25 |  |
 | [A Good Day](https://open.spotify.com/track/0Z2IJmcWERDrUg5wncUzFj) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Good Day](https://open.spotify.com/album/7zLorgUokjcGEZ46Op6MAO) | 1:48 | 2022-07-01 | 2022-07-22 |
+| [A Heart of Forest](https://open.spotify.com/track/0i7mA2SMLy5pSLX99yzDAT) | [Bill Soeder](https://open.spotify.com/artist/2QZ8GuCD39JBAgRSlZHhhn) | [A Heart of Forest](https://open.spotify.com/album/4kLhaxxgunOXkEGxTKwcN6) | 3:21 | 2025-01-07 |  |
 | [A Night In Toledo](https://open.spotify.com/track/7cYXSwHo30ebsnyGRMgwkh) | [Donatella Monza](https://open.spotify.com/artist/3jP7DTsE4kq5Gi0KRmO045) | [A Night In Toledo](https://open.spotify.com/album/2OMB3OKVRO05NQxwhqsfva) | 1:54 | 2022-10-07 | 2023-03-25 |
 | [A prima vista](https://open.spotify.com/track/26Hqojdj2i0hwaZNlpb2t5) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [A prima vista](https://open.spotify.com/album/44ua5J4fZK8cZ43etFdbSY) | 1:58 | 2022-10-28 | 2023-08-19 |
 | [A primeira vez](https://open.spotify.com/track/5dPjY3uVSuqscIdj71O3GR) | [Mélissa Blakesley](https://open.spotify.com/artist/6t8jy1xk9kQQOX5UIqy4sC) | [A primeira vez](https://open.spotify.com/album/3VSlAYGBf4pvTUAAhYXb6v) | 1:56 | 2023-01-06 | 2023-08-19 |
@@ -425,6 +426,7 @@
 | [Lonely Dreaming](https://open.spotify.com/track/2uiWi5tULZUHyqUvZQbDFy) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Lonely Dreaming](https://open.spotify.com/album/3pg8Zp1NGd8qoi0BvGwyWw) | 2:42 | 2022-08-19 | 2023-03-10 |
 | [Lonely Prayer](https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Lonely Prayer](https://open.spotify.com/album/0dz5PGLVD6QEdPtYWJShbq) | 2:47 | 2021-12-08 | 2024-05-04 |
 | [Long Story](https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Long Story](https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl) | 2:05 | 2023-03-10 |  |
+| [Look Up](https://open.spotify.com/track/0ZiRInDpULhyc77lBcqMoQ) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Look Up](https://open.spotify.com/album/035ju6sd54YQIg44aCRMzU) | 2:37 | 2025-01-07 |  |
 | [Los Andes](https://open.spotify.com/track/4SPEmf8qMLbQwSbGzZrYG3) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Los Andes](https://open.spotify.com/album/089JMl8TmoCPDtLy5TAvdZ) | 2:23 | 2021-12-08 | 2022-07-29 |
 | [Lost in the North Sea](https://open.spotify.com/track/2CEGRzR5zR1wB3hHJgfJ5M) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Streets of Lisbon](https://open.spotify.com/album/0JJWqOvCxGTd5GiXtJazx7) | 3:56 | 2021-12-08 | 2022-05-11 |
 | [Love In Distance](https://open.spotify.com/track/08eRZ1EP3sSTuu9CBuWSIS) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Love In Distance](https://open.spotify.com/album/4wmuigjrfEGY1OdoUzmKx0) | 1:56 | 2023-04-21 | 2023-08-19 |
@@ -657,6 +659,7 @@
 | [Sirius](https://open.spotify.com/track/0SeZxemKR9G0OZ9peDOMjK) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Sirius](https://open.spotify.com/album/6uhWaOInvJrT8zV8YbGiN6) | 1:52 | 2023-01-06 | 2023-08-19 |
 | [Situatie](https://open.spotify.com/track/6gppQeAHYa7eary500daO1) | [Elle Vorink](https://open.spotify.com/artist/1qY54CD9iY4Y5yKywqCYqG) | [Situatie](https://open.spotify.com/album/398miCQf8mAmxGt7agtqGI) | 3:09 | 2021-12-08 | 2023-05-13 |
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2022-09-02 | 2024-06-01 |
+| [Smile](https://open.spotify.com/track/2U1vBJccBgHLok37WqNUM4) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Smile](https://open.spotify.com/album/6WgzKrrzhbuZ7cnuCgXb2k) | 2:20 | 2025-01-07 |  |
 | [Snowbound](https://open.spotify.com/track/1qcfNVwh2pXCbXYMkzLw8l) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Snowbound](https://open.spotify.com/album/2pDaJIUSykL55ow4EzScl0) | 2:40 | 2022-11-18 | 2023-05-13 |
 | [So Close](https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [So Close](https://open.spotify.com/album/6Q4SI5mpUxi0dwms50VNzz) | 3:39 | 2021-12-08 | 2022-04-06 |
 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 | 2024-12-10 |  |

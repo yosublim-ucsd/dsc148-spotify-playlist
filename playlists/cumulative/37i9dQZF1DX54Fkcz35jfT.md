@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: 打首獄門同好会
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CVLTE
 
-359 songs - 20 hr 37 min
+361 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [L.A.M.N \(feat\. Bobby Wolfgang\)](https://open.spotify.com/track/4Y0bWul4BEzGVFVftvG0zi) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N \(feat\. Bobby Wolfgang\)](https://open.spotify.com/album/3a1i5zU4viYmWgMKwaZmqO) | 2:44 | 2024-04-18 | 2024-04-24 |
 | [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-07-20 | 2023-07-26 |
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-07-20 | 2023-07-26 |
-| [LEAVE IT ALL BEHIND](https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bodyslam](https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR) | 4:07 | 2024-04-18 |  |
+| [LEAVE IT ALL BEHIND](https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bodyslam](https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR) | 4:07 | 2024-04-18 | 2025-01-08 |
 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6OuMeKOWACC0acKVleXvTC) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bodyslam](https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/1MIXnmRStAxYzf7qufHpLR) | 4:07 | 2024-03-19 | 2024-04-19 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-21 | 2023-12-06 |
 | [Let It Go As If You Wander](https://open.spotify.com/track/5nYDTlAxgE89ehPq2Y5bGC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/5j8BrYGrJ25p57zQhj5IEW) | 2:42 | 2023-12-07 | 2024-04-19 |
@@ -190,6 +190,7 @@
 | [One More Time](https://open.spotify.com/track/40ScGVclGVcxNVDnZTaOs6) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [One More Time](https://open.spotify.com/album/0m1gOpBNelReGcRVwEn31d) | 3:13 | 2023-09-05 | 2023-11-22 |
 | [One step forward](https://open.spotify.com/track/4lgr7mrXi5JM34HZrZTaOd) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [One step forward](https://open.spotify.com/album/5oIQmkz2uqaHMB3vSzXmJ9) | 1:52 | 2023-07-20 | 2023-07-26 |
 | [ONESTAR](https://open.spotify.com/track/0pIOcDlY4pFwNarTwkyRDY) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [ONESTAR](https://open.spotify.com/album/3TB3SFdG5dWlW481iYLAbo) | 4:06 | 2023-08-08 | 2023-09-20 |
+| [only god discotheque](https://open.spotify.com/track/1X7MW76HEUF10DSE7R1uGd) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [mutist beach](https://open.spotify.com/album/0mD9r3ZpgOtjmOfm7xITiu) | 3:37 | 2025-01-07 |  |
 | [Orange Night](https://open.spotify.com/track/6KZPFuYlff4NA8Q9nIgWUv) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [Orange Night](https://open.spotify.com/album/2O2s9JdtTXJtXGKShSQtel) | 3:34 | 2023-10-10 | 2023-10-25 |
 | [O･TA･KUラブリー伝説](https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [O･TA･KUラブリー伝説](https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb) | 3:12 | 2024-01-18 |  |
 | [P.N.E](https://open.spotify.com/track/7ukIMxpXfaRLQjIBWYLbbO) | [Gretchen Grundler](https://open.spotify.com/artist/5b0uSpkn6LIdu7qJlGJTU8) | [P.N.E](https://open.spotify.com/album/3UodGauPJnmZVkVdKn0f3W) | 2:57 | 2024-02-15 | 2024-02-28 |
@@ -213,6 +214,7 @@
 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 | 2024-10-15 |  |
 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 | 2024-06-03 |  |
 | [Re\-create](https://open.spotify.com/track/12AbMuvF8W54iKkfarNIcV) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [TAKESHI UEDA](https://open.spotify.com/artist/3KRIWusy94atZg8vRiudX1) | [Liberation](https://open.spotify.com/album/3zUB4c3GjjuXIJ7cZUKEyH) | 3:11 | 2024-07-30 | 2024-11-13 |
+| [realitYhurts.](https://open.spotify.com/track/5TcBpp37mTlEGhDRp9T8iy) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [realitYhurts.](https://open.spotify.com/album/1oPQjjPHehiERqQ2HQil7Y) | 2:31 | 2025-01-07 |  |
 | [Rebirth](https://open.spotify.com/track/0JjaBtJv5jHQG5pQlEAhPa) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Denial // Rebirth](https://open.spotify.com/album/3g3XJA0QdfwjiCBYhDPOTF) | 3:49 | 2023-07-20 | 2023-11-22 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-20 | 2023-09-27 |
 | [REMEMBER](https://open.spotify.com/track/5LpoOEvLsPtK9baecA3Gnp) | [Masto \(coldrain\)](https://open.spotify.com/artist/6lnOwnN8wy4PO5nbkYRQ7D), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 4:03 | 2023-07-20 | 2023-11-22 |
@@ -243,7 +245,7 @@
 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 | 2023-11-14 | 2023-12-20 |
 | [Shussou](https://open.spotify.com/track/05cArZuv1f0fErj6aAkuhe) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Shussou](https://open.spotify.com/album/6u0mRNp8OUxHtGjyZA4ik2) | 3:55 | 2024-10-15 | 2024-12-10 |
 | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/track/2f46PpC09Fg0H7jAI8Oo8L) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/album/38cEkAqmg13qoj9CnXRIX3) | 3:42 | 2024-06-03 | 2024-10-16 |
-| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2023-11-21 |  |
+| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2023-11-21 | 2025-01-08 |
 | [SKY PRAYER](https://open.spotify.com/track/26F9zTeLrSRGJlKD5EZSwG) | [STAMINA MAYONNAISE](https://open.spotify.com/artist/7Ma5W6ANNZt2pPMrt0lDXe) | [BATTLE CRY](https://open.spotify.com/album/4aoB4oMgk7i2HzsJhgyogJ) | 1:18 | 2024-01-02 | 2024-01-10 |
 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2023-07-20 |  |
 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 | 2023-07-20 |  |

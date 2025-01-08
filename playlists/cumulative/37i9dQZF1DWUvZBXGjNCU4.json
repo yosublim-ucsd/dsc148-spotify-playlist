@@ -3127,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/1SDeeKR6wSSuPlqvTPAigX"
+      },
+      "artists": [
+        {
+          "name": "Dan Lauften",
+          "url": "https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132772,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/6D1rwuCaxBMaKNkRCKYkdN"
+    },
+    {
+      "album": {
         "name": "Lake Como",
         "url": "https://open.spotify.com/album/5ia5Ug2k521GycvqAyEM1C"
       },

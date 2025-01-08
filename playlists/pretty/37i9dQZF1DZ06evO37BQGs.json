@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAABWEG7s82RDTftzwysQaqzr",
+  "snapshot_id": "Z3sdAAAAAABqJxDLFaa8l2l/xXvhiC5J",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Glorious Sunset",
-      "url": "https://open.spotify.com/track/6DC24J8hy8cpuYXS8cDx5K"
+      "duration_ms": 196186,
+      "name": "It Suits You",
+      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 196186,
-      "name": "It Suits You",
-      "url": "https://open.spotify.com/track/5eNo6tuJLliem6yhaSxUa2"
+      "duration_ms": 239000,
+      "name": "Glorious Sunset",
+      "url": "https://open.spotify.com/track/6DC24J8hy8cpuYXS8cDx5K"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
+      "duration_ms": 219160,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 219160,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
+      "duration_ms": 214573,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
     },
     {
       "added_at": null,

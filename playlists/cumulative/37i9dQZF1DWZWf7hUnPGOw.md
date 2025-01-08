@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-310 songs - 18 hr 46 min
+311 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Summertime](https://open.spotify.com/track/5uaAlAAs6ojyP5hJl6CH1A) | [St.George](https://open.spotify.com/artist/2zny90FMedEVPccEyOCYWe) | [Keeping Me Alive \- EP](https://open.spotify.com/album/1PGpIJeFG6FJ55houCVQwy) | 3:03 | 2022-07-22 | 2024-12-20 |
 | [Survivors](https://open.spotify.com/track/0VYlKSIZJJTmdxvXHwgeKQ) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Survivors](https://open.spotify.com/album/4lxMt5PMRFMtIUUDcBj3k7) | 3:56 | 2023-09-07 |  |
 | [Sweat It Out](https://open.spotify.com/track/5QS6GiRJJXEfiztHs61wc7) | [Bamtone](https://open.spotify.com/artist/5ijUEMAjCYpgYYoaqQ6L3p) | [Better Times](https://open.spotify.com/album/1Wq6ScQmHJayPcJgEPKWjM) | 2:45 | 2022-07-22 | 2024-12-20 |
+| [Sweet Disposition](https://open.spotify.com/track/5u5ProfIoHpN5imlsBhGfC) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Sweet Disposition](https://open.spotify.com/album/5rKfiMllL90GJjvSBhIrlB) | 3:44 | 2025-01-07 |  |
 | [Sweet End](https://open.spotify.com/track/5neux3Gz5ESJDleVirL1ty) | [Five2](https://open.spotify.com/artist/5A2U6dOsmXhurD2wpZbq1y) | [Sweet End](https://open.spotify.com/album/2z4s4RbhI3h2JUiMdi0XOW) | 3:59 | 2022-07-22 | 2024-12-20 |
 | [Sweet Home](https://open.spotify.com/track/6gxWNvzbOJnSFqU0GlzHPR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Sweet Home](https://open.spotify.com/album/3JVnUmC4nMLjgMtztt26I4) | 4:08 | 2022-07-22 | 2024-12-20 |
 | [Symmetry](https://open.spotify.com/track/0xujAq2OtDCpGYO2A5n2pf) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Symmetry](https://open.spotify.com/album/6DoYDzc4MDhhGYycrLo7r6) | 3:38 | 2022-07-22 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 
 > Ambient and percussion to move the body and heal the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,594 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,693 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 | 7 | [Amelioration](https://open.spotify.com/track/3QEQmuqMxAAPOP54RrAEBF) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Amelioration](https://open.spotify.com/album/1OnNsodqKgXnXjYXaLUXdz) | 3:01 |
 | 8 | [Vasudha](https://open.spotify.com/track/5wxoBYfNCh415Wm4QFKgHm) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [Vasudha](https://open.spotify.com/album/2ftE0pe8oCzP2NrvgQguIr) | 2:47 |
 | 9 | [Darma Karma](https://open.spotify.com/track/6ztM1Tfblptt8WPceaYzX7) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Darma Karma](https://open.spotify.com/album/3MSb27LzvO7txXUL0qu9Xk) | 2:56 |
-| 10 | [Winds of Change \(feat\. myndstream\)](https://open.spotify.com/track/3bIDLdalTypKnBGYK7wsrG) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Yellow](https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp) | 3:03 |
+| 10 | [Winds of Change \(feat\. myndstream\)](https://open.spotify.com/track/3bIDLdalTypKnBGYK7wsrG) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Malte Marten](https://open.spotify.com/artist/1pjnA7LiEUatX6ArsaXJgd), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Yellow](https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp) | 3:03 |
 | 11 | [Joinery Turns](https://open.spotify.com/track/5dJkWk3micAp0RqsWxego9) | [Bengretzi Beat](https://open.spotify.com/artist/61vzuFv6SWUHKMlFpyhVzI) | [Joinery Turns](https://open.spotify.com/album/4ho228q9rtRDsJD6bBUVOt) | 2:59 |
 | 12 | [Sparrow Song](https://open.spotify.com/track/1aVJxI2dZXD6TQ3zHVIDhl) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Sparrow Song](https://open.spotify.com/album/2KSKfnP1uoUSJOLlS1uWTx) | 2:06 |
 | 13 | [From the Past](https://open.spotify.com/track/1weI87bDnkEbA5fOJdEVJH) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [From the Past](https://open.spotify.com/album/37sb9tnzDbTkDx1q4teo98) | 2:17 |

@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-110 songs - 6 hr 20 min
+111 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Byesset El 7ay](https://open.spotify.com/track/1foKMVjqzlnHKjshXGz4OU) | [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [Byesset El 7ay](https://open.spotify.com/album/0yCA3VDCt3gzCPKhizmnJd) | 3:18 | 2024-02-24 | 2024-08-21 |
 | [Cameleon](https://open.spotify.com/track/6c820sZ26OPdlurURXKT7P) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Cameleon](https://open.spotify.com/album/0qWkdirFI0cTfumPdPEt6C) | 2:26 | 2024-09-18 |  |
 | [Cheda Mel Bera7](https://open.spotify.com/track/33lYS6Y1Ai0A1QvnehVtSS) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [Cheda Mel Bera7](https://open.spotify.com/album/5CJTBxgZq2kElP6nqqpY2D) | 2:50 | 2024-02-24 | 2024-07-23 |
+| [CHEF](https://open.spotify.com/track/7mmDB3Vq1ApJdpLLrzc7x1) | [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW) | [CHEF](https://open.spotify.com/album/5SEW1PyQw4oWwR28p4kaGV) | 2:41 | 2025-01-07 |  |
 | [Chokran \- شكرًا](https://open.spotify.com/track/4UvU1ZONOAozisXzAcUBSw) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Chokran \(شكرًا\)](https://open.spotify.com/album/2KlbzWY3dHZc23RzEE0DFF) | 3:31 | 2024-02-24 |  |
 | [Chopard](https://open.spotify.com/track/4NnIdqvcEuzjXr0BGTAsM3) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Chopard](https://open.spotify.com/album/1wzms4zAdjTq9XlwbNp3nf) | 2:38 | 2024-06-02 | 2024-07-23 |
 | [Classe S](https://open.spotify.com/track/1iva2ug5cxsrWL1WrmpwrK) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Classe S](https://open.spotify.com/album/5zRg0Ogq4aITVIvPdU3FTd) | 3:58 | 2024-02-24 | 2024-04-11 |
@@ -47,7 +48,7 @@
 | [Game is Game](https://open.spotify.com/track/0vTT53innCH0coexxq8GZf) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Game is Game](https://open.spotify.com/album/0SFtBQlDpvwpNklAnq8dz6) | 2:06 | 2024-07-04 | 2024-08-21 |
 | [GELBI T3AB \(feat\. Samara\)](https://open.spotify.com/track/5O0rw93ajyfd3gIDvH4AFL) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [GELBI T3AB \(feat\. Samara\)](https://open.spotify.com/album/7kACB4BQT5tZZ3wcFdOyaY) | 4:03 | 2025-01-04 |  |
 | [Ghaba](https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Ghaba](https://open.spotify.com/album/3cjuodS53dH13S46iQavuk) | 3:05 | 2024-04-18 |  |
-| [Ghiri Ena](https://open.spotify.com/track/7bIc7LBLYiTIV9MhpHSJif) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Ghiri Ena](https://open.spotify.com/album/3vUP0vneujlPSieDnbGZsZ) | 3:18 | 2024-02-24 |  |
+| [Ghiri Ena](https://open.spotify.com/track/7bIc7LBLYiTIV9MhpHSJif) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Ghiri Ena](https://open.spotify.com/album/3vUP0vneujlPSieDnbGZsZ) | 3:18 | 2024-02-24 | 2025-01-08 |
 | [Haka Tao?](https://open.spotify.com/track/3LT1WIwYXYRm5n7Qv2Xetg) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz), [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [Haka Tao?](https://open.spotify.com/album/5Vo3jtsikRXZwG8Hh7g47V) | 3:37 | 2024-07-26 | 2024-11-01 |
 | [Hameda Hereb هارب](https://open.spotify.com/track/3LE2O2BQi6astoGXBKXe1V) | [Hameda Hereb](https://open.spotify.com/artist/1xnqi3G6wGYmgPXOA0fu1i) | [Hameda Hereb هارب](https://open.spotify.com/album/2HAqYpg8n9ovBZ2JehbxdZ) | 3:17 | 2024-02-24 |  |
 | [Happy Hour](https://open.spotify.com/track/7cKHVDykmR75pjqJp0KFaR) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Happy Hour](https://open.spotify.com/album/0ljDJIAMsQIUbS2YduqhO3) | 2:57 | 2024-11-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ...så blev det nye år skudt af med private party 💦 <a href="spotify:artist:3pJK3CUpbnyX7ogDfAwa9J">Tessa</a> / <a href="spotify:artist:3zuy1LOMq0y8aHZn4Ogax0">Rune Rask</a> / <a href="spotify:artist:1pPNZapO1Qthbd90B1LlOS">Klamfyr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,902 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,910 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 62 | [Felt It](https://open.spotify.com/track/1qtFd3FXws1bpTP4RxaK2p) | [BACOLE](https://open.spotify.com/artist/0L4qbCVTh5Rox6JU4Ez5LX) | [Felt It](https://open.spotify.com/album/3tDsl4C16WKxsRxh2MCNgK) | 2:52 |
 | 63 | [Dolce Vita \(with Groove Crackers\)](https://open.spotify.com/track/6C6cj4ULrTQTPniF3NDjya) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Bassweed](https://open.spotify.com/artist/3i8QDgqmWsWs4DQgMi1V0o), [Groove Crackers](https://open.spotify.com/artist/0a68MOyqyR7N3HopSFgAo8) | [Dolce Vita \(with Groove Crackers\)](https://open.spotify.com/album/0htw7GtQaBD4X3dQyPxMrO) | 1:50 |
 | 64 | [Luv Dub](https://open.spotify.com/track/5x676hawUn9NfPpTMukjxr) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Luv Dub](https://open.spotify.com/album/68AXvmwPpTrB8rwsDqgQGg) | 3:05 |
-| 65 | [Angel in the Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel in the Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
+| 65 | [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
 | 66 | [On The Low](https://open.spotify.com/track/21ZoZf3uejSGVff0eZk31y) | [Mark Vox](https://open.spotify.com/artist/5MeDekmzOYzHmRJS1159YL) | [On The Low](https://open.spotify.com/album/64GDqOkYuU46TEiRrStqTg) | 2:42 |
 | 67 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 68 | [soft light](https://open.spotify.com/track/2BgBE2sl7r2vcLeC6vxCfl) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [soft light](https://open.spotify.com/album/5yRJS7SXnpMUjoysxWII4x) | 2:35 |

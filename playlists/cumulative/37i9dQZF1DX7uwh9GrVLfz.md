@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: WANIMA
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: サバシスター
 
-805 songs - 1 day 18 hr 49 min
+807 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 | 2022-07-14 |  |
 | [1986](https://open.spotify.com/track/5d0XlR9EKCpbQHX8g0JbQh) | [DOTSUITARUNEN](https://open.spotify.com/artist/3AVCjqVpripxn9rQ1sC7Vb) | [1986](https://open.spotify.com/album/61uS7DM6h3la9sI1iTuuwS) | 5:56 | 2022-05-19 | 2022-07-27 |
 | [20th CENTURY BOY](https://open.spotify.com/track/4O2v3PvNY0BlVuq4oyAqMA) | [PET](https://open.spotify.com/artist/7GYpun631o8dGqDi1vpTJL) | [DANCE!DANCE!DANCE!](https://open.spotify.com/album/3vbuPOde056RverUHaTuBz) | 3:39 | 2022-12-20 | 2023-01-11 |
-| [22](https://open.spotify.com/track/54v2yRvHP4rdKNZLtyBbbQ) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:22 | 2024-03-07 |  |
+| [22](https://open.spotify.com/track/54v2yRvHP4rdKNZLtyBbbQ) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:22 | 2024-03-07 | 2025-01-08 |
 | [262](https://open.spotify.com/track/0BS35g5cQj8eweznR29blw) | [matsuri](https://open.spotify.com/artist/2uiEH6IIPxjVLp4VJUr0iV) | [Confession](https://open.spotify.com/album/2xa9dMz7X1q3jonUFjGEFP) | 3:45 | 2023-08-24 | 2023-10-04 |
 | [2時間なんもしなかった](https://open.spotify.com/track/08u7tWny37haGGVHQBWF7z) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [2時間なんもしなかった](https://open.spotify.com/album/68Nvqg30WnytdBgACaK9o3) | 1:24 | 2023-07-20 | 2023-08-02 |
 | [6: 00 pm](https://open.spotify.com/track/4uHnBIr8EmJLe5c7keR3og) | [GIZMO](https://open.spotify.com/artist/1jH2XUfqilYR4F2oZ7gm2V) | [6:00 pm / No worries](https://open.spotify.com/album/33ueflCOOXK4zaEmaI4fqA) | 2:30 | 2022-06-07 | 2022-07-29 |
@@ -187,7 +187,8 @@
 | [Hang a Combat master Detonics](https://open.spotify.com/track/7ijeLjKSfusg4355Z5NFJG) | [HARD CORE DUDE](https://open.spotify.com/artist/5sxrRJgTakYBRhfmOij0Cs) | [Highstandard Custom Derringer](https://open.spotify.com/album/6PgABLhd0BV5VXM0eeFYES) | 1:44 | 2023-11-07 | 2023-11-22 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/5NqAeabxsFbgyRxJGfdKM0) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 2:44 | 2023-10-24 | 2023-11-01 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 |  |
-| [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 |  |
+| [Happy Nante](https://open.spotify.com/track/5V4jRwekmH66FW2iO08LEN) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Happy Nante](https://open.spotify.com/album/2B2IgbFuBorxh70ZQzM7nk) | 3:22 | 2025-01-07 |  |
+| [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 | 2025-01-08 |
 | [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 | 2022-10-05 |
 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-08-23 |
 | [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 | 2023-04-05 | 2023-05-18 |
@@ -275,6 +276,7 @@
 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 | 2023-04-18 |  |
 | [Love song](https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/2tHhRVVI82FOCr0nEujtsY) | 2:33 | 2023-04-19 | 2023-06-01 |
 | [LUCKY BOY](https://open.spotify.com/track/5assUIrvcCBk6wTw0YLNYT) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [LUCKY BOY](https://open.spotify.com/album/7832Hv94keKPcy8D6Gc7dA) | 2:32 | 2024-09-17 | 2024-11-11 |
+| [Lunch Box](https://open.spotify.com/track/21CwxQwgdOLisNTD0cdjyI) | [KUZIRA](https://open.spotify.com/artist/3BPlRvUsbJdNM0nM8wqmbV) | [Lunch Box](https://open.spotify.com/album/2zcJS2oxoP8c3ScmRcu3Gf) | 1:18 | 2025-01-07 |  |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/5kgoZGkBpXfmOWdfjUA4Tx) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [Lyin' Ass Bitch](https://open.spotify.com/album/6gGMooIW9FGPLa5c5XOxmK) | 4:14 | 2022-07-19 | 2022-09-15 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/2OaRpaOjDXXrExzWADia0L) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [doubt!](https://open.spotify.com/album/2cGhirXNELjlW5NhPBxdSp) | 4:15 | 2022-05-12 | 2022-07-29 |
 | [MAE](https://open.spotify.com/track/0YgGz6kZcMw4QXq2IM6tAE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [GOLD IMPRINTS](https://open.spotify.com/album/0u4T0jMskpSiQO0mrw6TNK) | 4:01 | 2023-09-19 | 2024-09-18 |

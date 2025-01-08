@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-886 songs - 2 day 2 hr 21 min
+887 songs - 2 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [So High](https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [So High](https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ) | 3:27 | 2024-05-02 | 2024-07-23 |
 | [So Lost](https://open.spotify.com/track/6FxRjxdst4FEPDFZ3a8Zik) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [So Lost](https://open.spotify.com/album/6ODRIjsZYGjS2AOB9XkeXN) | 3:08 | 2024-05-09 | 2024-07-31 |
 | [Solace](https://open.spotify.com/track/2a2ue6juHldn6FAgzflCYs) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Solace](https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4) | 2:56 | 2024-10-08 |  |
+| [Solitude](https://open.spotify.com/track/67DhcoHxHggjsp2nHaGHVk) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [Solitude](https://open.spotify.com/album/1W6wGDkV53mnhRSTQrH8gx) | 3:00 | 2025-01-07 |  |
 | [Somebody With You](https://open.spotify.com/track/5Sf3dZWTxBop7LR8N0LnMC) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Somebody With You](https://open.spotify.com/album/1WzA5myrnTJTxOYZYmrbpK) | 2:59 | 2024-10-03 |  |
 | [Someday](https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd) | [Cressida](https://open.spotify.com/artist/3TarSQLteG4x5prong6iPz), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Someday](https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo) | 3:36 | 2022-11-23 | 2023-02-18 |
 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 | 2023-12-01 | 2024-03-15 |

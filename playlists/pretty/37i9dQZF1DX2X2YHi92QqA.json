@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u043f\u0440\u043e\u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 34336,
+  "num_followers": 34341,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
-        "name": "\u0412\u043e\u043b\u044f (full version)",
-        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
-      },
-      "artists": [
-        {
-          "name": "KRUT\u042c",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
-        }
-      ],
-      "duration_ms": 164636,
-      "name": "\u0412\u043e\u043b\u044f - full version",
-      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
-    },
-    {
-      "added_at": "2024-12-20 16:20:39",
-      "album": {
         "name": "\u043f\u0456\u0434 \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u043c",
         "url": "https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 139200,
       "name": "\u043f\u0456\u0434 \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u043c",
       "url": "https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD"
+    },
+    {
+      "added_at": "2024-12-20 16:20:39",
+      "album": {
+        "name": "\u0412\u043e\u043b\u044f (full version)",
+        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
+      },
+      "artists": [
+        {
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+        }
+      ],
+      "duration_ms": 164636,
+      "name": "\u0412\u043e\u043b\u044f - full version",
+      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
     },
     {
       "added_at": "2024-12-20 16:20:39",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
+        "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
+        "url": "https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
+          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
+      "url": "https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k"
+    },
+    {
+      "added_at": "2024-12-20 16:20:39",
+      "album": {
         "name": "\u0411\u043e\u0441\u0456",
         "url": "https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
-        "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
-        "url": "https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl"
-      },
-      "artists": [
-        {
-          "name": "\u041c\u0456\u044f \u0420\u0430\u043c\u0430\u0440\u0456",
-          "url": "https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "\u0421\u0432\u0456\u0434\u043e\u043c\u0456\u0441\u0442\u044c",
-      "url": "https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k"
-    },
-    {
-      "added_at": "2024-12-20 16:20:39",
-      "album": {
         "name": "\u041a\u0430\u0440\u043d\u0456\u0437\u0438",
         "url": "https://open.spotify.com/album/39oe0p8Azz1pwo1UoP6qTR"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
-        "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
-        "url": "https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm"
+        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
       },
       "artists": [
         {
-          "name": "ALISA",
-          "url": "https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc"
+          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
+          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
         }
       ],
-      "duration_ms": 154903,
-      "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
-      "url": "https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy"
+      "duration_ms": 244000,
+      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
+      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
     },
     {
       "added_at": "2024-12-20 16:20:39",
@@ -927,38 +927,18 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
-        "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-        "url": "https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ"
+        "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
+        "url": "https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm"
       },
       "artists": [
         {
-          "name": "\u041b\u0456\u0432\u0456\u043d\u0441\u0442\u043e\u043d",
-          "url": "https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9"
+          "name": "ALISA",
+          "url": "https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc"
         }
       ],
-      "duration_ms": 244000,
-      "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
-      "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"
-    },
-    {
-      "added_at": "2024-12-20 16:20:39",
-      "album": {
-        "name": "\u044f \u043d\u0435 \u0437\u043d\u0430\u044e \u0449\u043e \u0437\u0456 \u043c\u043d\u043e\u044e",
-        "url": "https://open.spotify.com/album/3v0WU7u2CLiZYStmmiUQNE"
-      },
-      "artists": [
-        {
-          "name": "DANIEL OKARO",
-          "url": "https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI"
-        },
-        {
-          "name": "NIKKITA",
-          "url": "https://open.spotify.com/artist/6bg58Qmn99pP0ZG8JRR9OU"
-        }
-      ],
-      "duration_ms": 197014,
-      "name": "\u044f \u043d\u0435 \u0437\u043d\u0430\u044e \u0449\u043e \u0437\u0456 \u043c\u043d\u043e\u044e",
-      "url": "https://open.spotify.com/track/1mWzQhtZarlT4yqT6RVNot"
+      "duration_ms": 154903,
+      "name": "\u041e\u0447\u0456 \u0434\u0456\u0432\u043e\u0447\u0456",
+      "url": "https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy"
     },
     {
       "added_at": "2024-12-20 16:20:39",
@@ -995,18 +975,22 @@
     {
       "added_at": "2024-12-20 16:20:39",
       "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
+        "name": "\u044f \u043d\u0435 \u0437\u043d\u0430\u044e \u0449\u043e \u0437\u0456 \u043c\u043d\u043e\u044e",
+        "url": "https://open.spotify.com/album/3v0WU7u2CLiZYStmmiUQNE"
       },
       "artists": [
         {
-          "name": "Zea",
-          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
+          "name": "DANIEL OKARO",
+          "url": "https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI"
+        },
+        {
+          "name": "NIKKITA",
+          "url": "https://open.spotify.com/artist/6bg58Qmn99pP0ZG8JRR9OU"
         }
       ],
-      "duration_ms": 191090,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
+      "duration_ms": 197014,
+      "name": "\u044f \u043d\u0435 \u0437\u043d\u0430\u044e \u0449\u043e \u0437\u0456 \u043c\u043d\u043e\u044e",
+      "url": "https://open.spotify.com/track/1mWzQhtZarlT4yqT6RVNot"
     },
     {
       "added_at": "2024-12-20 16:20:39",
@@ -1023,6 +1007,22 @@
       "duration_ms": 166000,
       "name": "\u041c\u043e\u044f \u0437\u0435\u043c\u043b\u044f",
       "url": "https://open.spotify.com/track/0zOdJN17UxanpNnoHdFqyI"
+    },
+    {
+      "added_at": "2024-12-20 16:20:39",
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX"
+      },
+      "artists": [
+        {
+          "name": "Zea",
+          "url": "https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz"
+        }
+      ],
+      "duration_ms": 191090,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g"
     }
   ],
   "unique_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

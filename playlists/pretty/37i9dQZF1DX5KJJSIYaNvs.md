@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Best tracks from EQUAL India in 2024\. \#SpotifyWrapped Cover \- Sunidhi Chauhan & Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,369 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,433 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

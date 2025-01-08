@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49587,
+  "num_followers": 49588,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAADtwlh1H+03NBFhmxSJY4H5",
+  "snapshot_id": "Z3sdAAAAAADVJTRyKXA7yHj02oGsJC0E",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 214463,
-      "name": "found my friends",
-      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
+      "duration_ms": 185995,
+      "name": "sugar at the bottom",
+      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 185995,
-      "name": "sugar at the bottom",
-      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
+      "duration_ms": 214463,
+      "name": "found my friends",
+      "url": "https://open.spotify.com/track/27CjS1oiq52oC2m9jciFxt"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 228431,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
+      "duration_ms": 235466,
+      "name": "One Bad Night",
+      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 235466,
-      "name": "One Bad Night",
-      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
+      "duration_ms": 228431,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
       "duration_ms": 191175,
       "name": "She",
       "url": "https://open.spotify.com/track/4BE7L7XB1I7X8v4imHVhoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/7GHSSr69BQ0NwSbpfTjjSm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phantoms",
         "url": "https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Belle to Remember",
-        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 207617,
-      "name": "Rich Youth",
-      "url": "https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Too Sensitive For This Shit",
         "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 150787,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6D9gsDE5QqFYM904iKHBFM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Belle to Remember",
+        "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 207617,
+      "name": "Rich Youth",
+      "url": "https://open.spotify.com/track/4lwy7TthkTeLzuCTB5N2vD"
     },
     {
       "added_at": null,

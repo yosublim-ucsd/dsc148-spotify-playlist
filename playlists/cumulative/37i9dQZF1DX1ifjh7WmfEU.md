@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-269 songs - 11 hr 51 min
+270 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2022-05-27 | 2022-07-28 |
 | [Dreamscapes](https://open.spotify.com/track/3qCse5xGHiXH2gK3MfgMeJ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Dreamscapes](https://open.spotify.com/album/1rzs3lnJsaooPXtDFzStzw) | 3:23 | 2022-07-27 |  |
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-09-05 |  |
+| [Drivande](https://open.spotify.com/track/3Xi0zJ4FNyZ3EPERLAuXXX) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Drivande](https://open.spotify.com/album/7o9SwnbiM5hXE4IzoW3mzw) | 3:12 | 2025-01-07 |  |
 | [Drøm](https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Drøm](https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex) | 1:49 | 2022-09-15 |  |
 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 | 2024-03-25 |  |
 | [Emerald of the East](https://open.spotify.com/track/6fo9G6qHkya3qFKRi5ujkp) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Emerald of the East](https://open.spotify.com/album/15h7O9HdnXjMmFgbDGggEh) | 1:59 | 2023-07-12 |  |

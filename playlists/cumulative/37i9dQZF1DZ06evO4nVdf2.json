@@ -514,7 +514,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 228640,
       "name": "La Vida No Es F\u00e1cil",
       "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Nada en el Mundo",
+        "url": "https://open.spotify.com/album/58HK6YSgDmdE7WZ4GIDe3G"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156543,
+      "name": "Nada en el Mundo",
+      "url": "https://open.spotify.com/track/5RDh1l1UpE76JMSZfllGdJ"
+    },
+    {
+      "album": {
         "name": "Adentro",
         "url": "https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr"
       },
@@ -876,7 +894,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 206818,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/2Qm7E9UitJaLknrQp3YXgd"
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 235661,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/74NWPOS1H8yBmHUFJlLl41"

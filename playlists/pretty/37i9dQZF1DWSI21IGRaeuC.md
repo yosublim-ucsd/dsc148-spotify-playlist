@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,351 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,419 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 19 | [Slow Down](https://open.spotify.com/track/4bkWOqrai47OHFVTxySEmk) | [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Slow Down](https://open.spotify.com/album/1h3zFNKaSeTEMfFUkrB3pS) | 2:40 |
 | 20 | [Go](https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Go](https://open.spotify.com/album/4Zzp3MGr2M5rMF1oDxZ8mz) | 3:16 |
 | 21 | [The Way I Like It](https://open.spotify.com/track/2iAIllzzMRPryiRdebB9fi) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [The Way I Like It EP](https://open.spotify.com/album/5or9Wn5yIGMLW8waFsbKEM) | 3:15 |
-| 22 | [DA BEAT](https://open.spotify.com/track/0xSNKCxMBhDiGiAcDdjCOv) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [DA BEAT](https://open.spotify.com/album/7uBVx4rfStisvQfZ1LfgrA) | 5:41 |
+| 22 | [Hot Like Fire](https://open.spotify.com/track/4y6GSJmMoUs3cG4A2R1R4d) | [Facu Baez](https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN) | [Hot Like Fire](https://open.spotify.com/album/4s8teNPfiPFmprfIp1YzVz) | 3:30 |
 | 23 | [So Good \- Heat Mix](https://open.spotify.com/track/4oH7tOwRwU03GweO0gBoP5) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [So Good \(Heat Mix\)](https://open.spotify.com/album/1ge1VryWt3hDBd1kroI1NW) | 4:00 |
 | 24 | [Analog Ascent](https://open.spotify.com/track/1HBiN4vgEq75YD0HFvhM7F) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. II\)](https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP) | 3:17 |
 | 25 | [Mommy](https://open.spotify.com/track/6ChqMdxPeCDn5i6C8j7JZs) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj) | [Mommy](https://open.spotify.com/album/3PfaelgRiI601wUtYNDXct) | 3:26 |
 | 26 | [Losing Sleep](https://open.spotify.com/track/45yjPHECGDAkbo5lp2oItr) | [Di Chiara Brothers](https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H) | [Mystic Night EP](https://open.spotify.com/album/40YAAXoujQSwhXlvcjxYSD) | 3:18 |
 | 27 | [Move](https://open.spotify.com/track/0yqsV9NZytn8U6HmwrVVBH) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [Move](https://open.spotify.com/album/3NYXKYSAO7WwAv2gnIlm7H) | 3:11 |
 | 28 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 |
-| 29 | [Won't Stop \(Don't\)](https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\)](https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu) | 3:53 |
+| 29 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 |
 | 30 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
-| 31 | [Misleading](https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Misleading](https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5) | 3:07 |
+| 31 | [Won't Stop \(Don't\)](https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\)](https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu) | 3:53 |
 | 32 | [Just Do It](https://open.spotify.com/track/0eqa1ZYTJEDJy1UHIpTelr) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5) | [Just Do It](https://open.spotify.com/album/4Dg4M3xsbXUQWKIAqVVoUf) | 2:16 |
 | 33 | [Pace Joint](https://open.spotify.com/track/7sfsDeUpNyPYgTiR8ZK32j) | [Hank](https://open.spotify.com/artist/5ZJ9QoSO3GSF3IaMaA6xrs) | [Pace Joint EP](https://open.spotify.com/album/7gRp4xVdtJCporrt7EzrLy) | 2:47 |
 | 34 | [Pumpin'](https://open.spotify.com/track/3JrNYsMLZxd3R56UzjM4PL) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Synergy](https://open.spotify.com/album/6uPaQH6cFgD0hNBqGePfG0) | 5:34 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 59 | [Stolen Dub](https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P) | [Stolen Dub](https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM) | 2:16 |
 | 60 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 |
 | 61 | [Fascinator](https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:12 |
-| 62 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 |
-| 63 | [On Deck](https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [On Deck](https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy) | 3:18 |
+| 62 | [On Deck](https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [On Deck](https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy) | 3:18 |
+| 63 | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Escaping It \(feat\. Tania Foster\)](https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY) | 3:12 |
 | 64 | [Reso Riddim](https://open.spotify.com/track/3gGEy7cLjmQbJuiLP9pHz9) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Reso Riddim EP](https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0) | 3:06 |
 | 65 | [Ghetto](https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Ghetto EP](https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev) | 3:34 |
 | 66 | [Dimension](https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dimension](https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg) | 8:01 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 80 | [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 |
 | 81 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
 | 82 | [Bumpin'](https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a) | [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [ENDZ058](https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi) | 6:14 |
-| 83 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
-| 84 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
+| 83 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |
+| 84 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
 | 85 | [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 |
 | 86 | [In You](https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [In You](https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY) | 6:13 |
 | 87 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 99 | [Who Is That Guy?](https://open.spotify.com/track/4e1yMRmbQgImcm5ue58y4D) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe) | [Who Is That Guy?](https://open.spotify.com/album/2BzDvz4ZGq8abo22wP4Vyj) | 4:18 |
 | 100 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
 
-Snapshot ID: `Z3NJowAAAAC/TeY0/RRecxnyNGftusTg`
+Snapshot ID: `Z32hUgAAAAD3pQHG8X34psSKDi3kGei0`

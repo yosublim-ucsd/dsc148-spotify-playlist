@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: DJ Licious
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,361 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,363 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 46 | [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 |
 | 47 | [Shadow](https://open.spotify.com/track/0hocGZmkmrEPOSVdhEc8Lq) | [VIKTOR](https://open.spotify.com/artist/40opAACGmFD5yvWfvg4b1V) | [Shadow](https://open.spotify.com/album/78kTmgdDZRe1jQX9dXNWW9) | 3:09 |
 | 48 | [Even God](https://open.spotify.com/track/1YAUcovWvgdgMXX45XjDl5) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Even God](https://open.spotify.com/album/2popXoMWhglWvWhw7GIsy2) | 2:08 |
-| 49 | [Angel in the Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel in the Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
+| 49 | [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
 
 Snapshot ID: `Z3ee3wAAAAAiUJf1lqtTRzP7YYZwvK7D`

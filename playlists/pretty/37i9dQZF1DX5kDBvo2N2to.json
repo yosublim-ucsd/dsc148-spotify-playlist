@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59136,
+  "num_followers": 59133,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "What Happens Now? (Deluxe)",
-        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Talk / Bye Bye",
         "url": "https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 151400,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "What Happens Now? (Deluxe)",
+        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -603,22 +603,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "The Pre-Party",
-        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
+        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
+        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
         }
       ],
-      "duration_ms": 192130,
-      "name": "Lightyears (with Young Thug)",
-      "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
+      "duration_ms": 159773,
+      "name": "Fortfarande du",
+      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -639,34 +635,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
-        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
+        "name": "The Pre-Party",
+        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
       },
       "artists": [
         {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Fortfarande du",
-      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
-      },
-      "artists": [
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
         {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
+      "duration_ms": 192130,
+      "name": "Lightyears (with Young Thug)",
+      "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -687,6 +671,22 @@
       "duration_ms": 164628,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Old Memories",
-        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Old Memories",
-      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Louise",
         "url": "https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 161600,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Old Memories",
+        "url": "https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Old Memories",
+      "url": "https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "KALLAX CARGO",
-        "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
-      },
-      "artists": [
-        {
-          "name": "Movits!",
-          "url": "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
-        },
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 223853,
-      "name": "99 fel",
-      "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Samma Sak",
         "url": "https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 149538,
       "name": "Samma Sak",
       "url": "https://open.spotify.com/track/0HVjpl9YfZd5z0KoqJAo6C"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "KALLAX CARGO",
+        "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
+      },
+      "artists": [
+        {
+          "name": "Movits!",
+          "url": "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 223853,
+      "name": "99 fel",
+      "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "DETOX",
-        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "DETOX",
-      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Out of My Mind",
         "url": "https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 217294,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "DETOX",
+      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Ramlar jag s\u00e5 faller allt",
-        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
-      },
-      "artists": [
-        {
-          "name": "J1",
-          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
-        }
-      ],
-      "duration_ms": 149059,
-      "name": "Ramlar jag s\u00e5 faller allt",
-      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Can't Forget",
         "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Ramlar jag s\u00e5 faller allt",
+        "url": "https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6"
+      },
+      "artists": [
+        {
+          "name": "J1",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "duration_ms": 149059,
+      "name": "Ramlar jag s\u00e5 faller allt",
+      "url": "https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "Lupins In Blue (Harry Hayes Remix)",
         "url": "https://open.spotify.com/album/7mI6yE9duwF1z3vlBVoiT1"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Maskinen \u00e4r tillbaka",
-        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
-      },
-      "artists": [
-        {
-          "name": "Maskinen",
-          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
-        }
-      ],
-      "duration_ms": 139836,
-      "name": "Maskinen \u00e4r tillbaka",
-      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Goat",
         "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Ordna sig",
-        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
+        "name": "Maskinen \u00e4r tillbaka",
+        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
       "artists": [
         {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+          "name": "Maskinen",
+          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
         }
       ],
-      "duration_ms": 151072,
-      "name": "Ordna sig",
-      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+      "duration_ms": 139836,
+      "name": "Maskinen \u00e4r tillbaka",
+      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "Ordna sig",
+        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "Ordna sig",
+      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "Ditt safeword ikv\u00e4ll?",
         "url": "https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 132199,
       "name": "Ditt safeword ikv\u00e4ll?",
       "url": "https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "P\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
+      },
+      "artists": [
+        {
+          "name": "PYK",
+          "url": "https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm"
+        }
+      ],
+      "duration_ms": 189599,
+      "name": "P\u00e5 v\u00e4g",
+      "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1343,22 +1359,6 @@
       "duration_ms": 200346,
       "name": "Dina \u00d6gon \u00c4r Nakna",
       "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "P\u00e5 v\u00e4g",
-        "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
-      },
-      "artists": [
-        {
-          "name": "PYK",
-          "url": "https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm"
-        }
-      ],
-      "duration_ms": 189599,
-      "name": "P\u00e5 v\u00e4g",
-      "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Apple Cider Vinaigrette",
-        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
-      },
-      "artists": [
-        {
-          "name": "Diane Emerita",
-          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
-        }
-      ],
-      "duration_ms": 224039,
-      "name": "Apple Cider Vinaigrette",
-      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Mina v\u00e4nner v\u00e4xer upp",
         "url": "https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 193600,
       "name": "Sakerna som kan ta slut",
       "url": "https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Apple Cider Vinaigrette",
+        "url": "https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg"
+      },
+      "artists": [
+        {
+          "name": "Diane Emerita",
+          "url": "https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH"
+        }
+      ],
+      "duration_ms": 224039,
+      "name": "Apple Cider Vinaigrette",
+      "url": "https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq"
     },
     {
       "added_at": "2024-11-08 09:13:14",

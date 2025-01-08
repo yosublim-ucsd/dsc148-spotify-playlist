@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,862 songs - 1 day 14 hr 8 min
+1,863 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Between](https://open.spotify.com/track/4IKzn8pPEPiPN6k1nxl9Y5) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Between](https://open.spotify.com/album/32sfe1IxwCPiGGxTo5ewea) | 1:00 | 2024-12-30 |  |
 | [Between My Dreams](https://open.spotify.com/track/0Dz3pBpcEgds8DXIaurOeK) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [October](https://open.spotify.com/album/5rRy0qeDWkoJdpDr3aCQmH) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Between Two Worlds](https://open.spotify.com/track/2hpmyCVvB9zJ5dgwyr1yxl) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Waves Of Love](https://open.spotify.com/album/5ChteC7FRIuqgnbgb1NbxM) | 1:02 | 2022-05-14 |  |
+| [Between Us](https://open.spotify.com/track/3AhdCXTj4xyEOr74EGyP0B) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Between Us](https://open.spotify.com/album/1Kxk4oKIivuvmBq7tn6qZA) | 1:00 | 2025-01-07 |  |
 | [Between Worlds](https://open.spotify.com/track/4BQkXk9WghkrFuY9wS2Jw5) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Deep Inspiration](https://open.spotify.com/album/7LzslyJIxxDQ0Nqg0rGOaG) | 1:02 | 2022-05-11 |  |
 | [Between Worlds](https://open.spotify.com/track/5lTIcXDZx7Ry9BWwDJohdK) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Between Worlds](https://open.spotify.com/album/23jZLPrkvAYvcGdweiM5xv) | 1:03 | 2022-06-27 |  |
 | [Beyond Our Walls \- Cello And Harp Version](https://open.spotify.com/track/49fzoVExeUFVlh35ACB977) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Beyond Our Walls \(Cello And Harp Version\)](https://open.spotify.com/album/1jVfPEVa6AxI0GcJ48LXPi) | 1:03 | 2024-02-09 | 2024-02-13 |

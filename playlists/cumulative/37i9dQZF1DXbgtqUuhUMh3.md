@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Elyanna
 
-690 songs - 1 day 15 hr 48 min
+691 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [El Dahab](https://open.spotify.com/track/7mrLcboFABy7lyKCYxgimY) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [El Dahab](https://open.spotify.com/album/5Edgo5uHVbQVkYzRTYrO60) | 3:09 | 2024-04-12 |  |
 | [El Galb Yefdak](https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [El Galb Yefdak](https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw) | 3:45 | 2022-07-21 | 2023-01-26 |
 | [El Hob Jnoon](https://open.spotify.com/track/1dbGD1JdNrHnA6EwMiQmVK) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [El Hob Jnoon](https://open.spotify.com/album/0JO3Mh8FLW9P7CLVajq1Mz) | 2:50 | 2023-02-01 | 2023-03-01 |
+| [El Kedb](https://open.spotify.com/track/7vD1YufVV1EDNZs1tgiBxS) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [El Kedb](https://open.spotify.com/album/7s8X0HxbUKhiBcpi1zpk33) | 3:30 | 2025-01-07 |  |
 | [El Koun](https://open.spotify.com/track/3GoBo3IeBnqaRZWMieW5xo) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [El Koun](https://open.spotify.com/album/47TSlsN85IYn25Armdr7iy) | 4:06 | 2022-10-27 | 2023-04-11 |
 | [El koun](https://open.spotify.com/track/6tBhitRgOcmxOjjBHNpep6) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [El koun](https://open.spotify.com/album/6kwQCrZIz01woHNniUtNua) | 4:06 | 2022-03-01 | 2022-10-26 |
 | [El Lawlabeya](https://open.spotify.com/track/6aD8DGu8n2ssx7mbfYyOwR) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Lawlabeya](https://open.spotify.com/album/4jo5qM0siknAtHaJBgtpCy) | 2:47 | 2023-08-28 | 2023-10-03 |
@@ -387,7 +388,7 @@
 | [Mn Aaba Ebtala](https://open.spotify.com/track/5VWQaRorDIB9FTgX5hlUdq) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Mn Aaba Ebtala](https://open.spotify.com/album/5WSRFUvLqvj0d4pSZvgtlT) | 3:20 | 2024-04-12 | 2024-09-24 |
 | [Mn Hadid](https://open.spotify.com/track/4SgFhANgPutWrIB5iJ377I) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Mn Hadid](https://open.spotify.com/album/2LH1fWo3lu8FN9fF2tCWja) | 2:33 | 2021-12-30 | 2022-03-02 |
 | [Momken Trod](https://open.spotify.com/track/1uzQAA3DHWVLGQ1KfCUxp0) | [Sara Salman](https://open.spotify.com/artist/0WjGa4issvirboeMa7QWcc) | [Momken Trod](https://open.spotify.com/album/1DbmECM1LsBaPsEPTzSvZw) | 2:49 | 2024-04-12 |  |
-| [Mood Gahed](https://open.spotify.com/track/2KJfvsq3xNhaVWNVIOo4w1) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [Mood Gahed](https://open.spotify.com/album/5vNgfn5DeseZGYUkaZbS93) | 3:05 | 2024-01-29 |  |
+| [Mood Gahed](https://open.spotify.com/track/2KJfvsq3xNhaVWNVIOo4w1) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [Mood Gahed](https://open.spotify.com/album/5vNgfn5DeseZGYUkaZbS93) | 3:05 | 2024-01-29 | 2025-01-08 |
 | [MORAK](https://open.spotify.com/track/28zAI7MMJSlo7WUZWQtoSv) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MORAK](https://open.spotify.com/album/0hdrQYCR5YuUmXELMqLyyg) | 2:49 | 2023-10-02 | 2023-12-09 |
 | [Mosafer Anta](https://open.spotify.com/track/0BVpJSZrmysREiUbIMaDNC) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl), [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [Mosafer Anta](https://open.spotify.com/album/0Zj3QSrDMeGxumSuxPQt7O) | 4:27 | 2023-02-28 | 2023-05-20 |
 | [Mosh Bimazagak](https://open.spotify.com/track/4QXvNMueJu3X10pJwMF0Zn) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Mosh Bimazagak](https://open.spotify.com/album/166myK04ra9Wfi56USib7R) | 3:07 | 2023-08-17 | 2024-01-11 |

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Heart of Forest",
+        "url": "https://open.spotify.com/album/4kLhaxxgunOXkEGxTKwcN6"
+      },
+      "artists": [
+        {
+          "name": "Bill Soeder",
+          "url": "https://open.spotify.com/artist/2QZ8GuCD39JBAgRSlZHhhn"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201964,
+      "name": "A Heart of Forest",
+      "url": "https://open.spotify.com/track/0i7mA2SMLy5pSLX99yzDAT"
+    },
+    {
+      "album": {
         "name": "A Night In Toledo",
         "url": "https://open.spotify.com/album/2OMB3OKVRO05NQxwhqsfva"
       },
@@ -7539,6 +7557,24 @@
     },
     {
       "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/035ju6sd54YQIg44aCRMzU"
+      },
+      "artists": [
+        {
+          "name": "Marian Rose",
+          "url": "https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157686,
+      "name": "Look Up",
+      "url": "https://open.spotify.com/track/0ZiRInDpULhyc77lBcqMoQ"
+    },
+    {
+      "album": {
         "name": "Los Andes",
         "url": "https://open.spotify.com/album/089JMl8TmoCPDtLy5TAvdZ"
       },
@@ -11712,6 +11748,24 @@
       "duration_ms": 147511,
       "name": "Slaap Niet Meer",
       "url": "https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6WgzKrrzhbuZ7cnuCgXb2k"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140124,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2U1vBJccBgHLok37WqNUM4"
     },
     {
       "album": {

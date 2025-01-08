@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 36960,
+  "num_followers": 36968,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAB3jZtDAUQELOxdVEFKTxdh",
+  "snapshot_id": "Z3sdAAAAAAC9rPmtXNUl+SV2dIbd+B0R",
   "tracks": [
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "JARDINEIROS",
-        "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
+        "name": "N\u00c3O VAMOS DESISTIR",
+        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 154413,
-      "name": "O RITMO E A RAIVA",
-      "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
+      "duration_ms": 245920,
+      "name": "N\u00c3O VAMOS DESISTIR",
+      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00c3O VAMOS DESISTIR",
-        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
+        "name": "JARDINEIROS",
+        "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 245920,
-      "name": "N\u00c3O VAMOS DESISTIR",
-      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
+      "duration_ms": 154413,
+      "name": "O RITMO E A RAIVA",
+      "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
     },
     {
       "added_at": null,

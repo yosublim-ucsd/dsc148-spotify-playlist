@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 400460,
+  "num_followers": 400593,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+      },
+      "artists": [
+        {
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Balling (L\u00c4UFF Remix)",
         "url": "https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 260689,
       "name": "Balling - L\u00c4UFF Remix",
       "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "What I Want",
-        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
-      },
-      "artists": [
-        {
-          "name": "Gregor McMurray",
-          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "90s Bitch",
-        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 196258,
-      "name": "90s Bitch",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Hit The Road Jack",
         "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 126428,
       "name": "Hit The Road Jack",
       "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "90s Bitch",
+        "url": "https://open.spotify.com/album/4kCdFZjjSrMtYzCC3UnNNt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "duration_ms": 196258,
+      "name": "90s Bitch",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        }
+      ],
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/3hjLM01JbuC0E74QVJgnMx"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 137473,
       "name": "T.N.T. - Techno Remix",
       "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        }
-      ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1351,26 +1351,18 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
-        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
+        "name": "watch your tone",
+        "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
       },
       "artists": [
         {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
         }
       ],
-      "duration_ms": 145032,
-      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
-      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+      "duration_ms": 116000,
+      "name": "watch your tone",
+      "url": "https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1395,6 +1387,30 @@
       "duration_ms": 123669,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/46VW897RoVu6ywhVKozcaz"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
+        "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 145032,
+      "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
+      "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1435,38 +1451,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Forever Melancholia",
-        "url": "https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs"
-      },
-      "artists": [
-        {
-          "name": "I Hate Models",
-          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
-        }
-      ],
-      "duration_ms": 421559,
-      "name": "Forever Melancholia",
-      "url": "https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "watch your tone",
-        "url": "https://open.spotify.com/album/0TDKhxmVEVByqFWWKRcSbv"
-      },
-      "artists": [
-        {
-          "name": "joki",
-          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "watch your tone",
-      "url": "https://open.spotify.com/track/5NcJU2GkvFY8AmfnlpYSx1"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
       },
@@ -1491,6 +1475,38 @@
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "My Beat Goes",
+        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "My Beat Goes",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "Forever Melancholia",
+        "url": "https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs"
+      },
+      "artists": [
+        {
+          "name": "I Hate Models",
+          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+        }
+      ],
+      "duration_ms": 421559,
+      "name": "Forever Melancholia",
+      "url": "https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1531,22 +1547,6 @@
       "duration_ms": 125058,
       "name": "Dance Therapy",
       "url": "https://open.spotify.com/track/5xrz1b5HGjX4a8eVdKnBfc"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "My Beat Goes",
-        "url": "https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "My Beat Goes",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 205116,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
       },
@@ -1735,6 +1715,26 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 205116,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2"
       },
@@ -1747,6 +1747,26 @@
       "duration_ms": 142103,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "LSD",
+        "url": "https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 156169,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1775,26 +1795,6 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
-        "name": "LSD",
-        "url": "https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 156169,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
         "name": "Mozart's Final Rave (Lacrimosa)",
         "url": "https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE"
       },
@@ -1815,6 +1815,30 @@
       "duration_ms": 105009,
       "name": "Mozart's Final Rave (Lacrimosa)",
       "url": "https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
+        "name": "SexyBack (TechnoBack)",
+        "url": "https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Mono Schwarz",
+          "url": "https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF"
+        }
+      ],
+      "duration_ms": 146029,
+      "name": "SexyBack - TechnoBack",
+      "url": "https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1855,30 +1879,6 @@
       "duration_ms": 136800,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "SexyBack (TechnoBack)",
-        "url": "https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        },
-        {
-          "name": "Mono Schwarz",
-          "url": "https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF"
-        }
-      ],
-      "duration_ms": 146029,
-      "name": "SexyBack - TechnoBack",
-      "url": "https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "My Body (feat. Y&M)",
+        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Y&M",
+          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
+        }
+      ],
+      "duration_ms": 160024,
+      "name": "My Body (feat. Y&M)",
+      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/6LkCDo093ojmj9N7j3JCqr"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 113147,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/6AxTUAahRApuTumX0NXzDt"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "My Body (feat. Y&M)",
-        "url": "https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Y&M",
-          "url": "https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q"
-        }
-      ],
-      "duration_ms": 160024,
-      "name": "My Body (feat. Y&M)",
-      "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
     },
     {
       "added_at": "2024-12-12 23:00:06",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2024-12-12 23:00:06",
       "album": {
+        "name": "Anyplace Anywhere Anytime",
+        "url": "https://open.spotify.com/album/72Qo17coNcjPEz4wRPecyV"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        }
+      ],
+      "duration_ms": 170535,
+      "name": "Anyplace Anywhere Anytime",
+      "url": "https://open.spotify.com/track/6Je0JUhGDrSRECb8s4Aqve"
+    },
+    {
+      "added_at": "2024-12-12 23:00:06",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 179555,
       "name": "Move",
       "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
-    },
-    {
-      "added_at": "2024-12-12 23:00:06",
-      "album": {
-        "name": "Anyplace Anywhere Anytime",
-        "url": "https://open.spotify.com/album/72Qo17coNcjPEz4wRPecyV"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        }
-      ],
-      "duration_ms": 170535,
-      "name": "Anyplace Anywhere Anytime",
-      "url": "https://open.spotify.com/track/6Je0JUhGDrSRECb8s4Aqve"
     },
     {
       "added_at": "2024-12-12 23:00:06",

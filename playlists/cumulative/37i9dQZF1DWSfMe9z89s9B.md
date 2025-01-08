@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Gabriel Jacoby
 
-1,353 songs - 2 day 23 hr 14 min
+1,354 songs - 2 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,7 +655,7 @@
 | [KNOW YOU \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5KWU5lAXpJNxWhTX5nDTVm) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [CRYBABY](https://open.spotify.com/album/5ixcAtS032Nfn3Begu5I1y) | 3:04 | 2024-08-09 | 2024-09-25 |
 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-16 | 2024-07-19 |
 | [Laced](https://open.spotify.com/track/1tPRKLfPLxNtvhRUplkR2y) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Laced](https://open.spotify.com/album/76L61SeO76C6nsQHhNd47d) | 3:40 | 2022-04-01 | 2022-04-05 |
-| [Lady](https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lady](https://open.spotify.com/album/1VVky8OBzNrxJC4ggqxzvS) | 3:06 | 2024-07-26 |  |
+| [Lady](https://open.spotify.com/track/25a355X1ftClDfOnvAN3YS) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Lady](https://open.spotify.com/album/1VVky8OBzNrxJC4ggqxzvS) | 3:06 | 2024-07-26 | 2025-01-08 |
 | [LADY](https://open.spotify.com/track/5ykAJMmkgLxayuV4sgOoLp) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [LADY](https://open.spotify.com/album/50GdbECmzrTgVknqyh9Cps) | 3:46 | 2024-04-12 | 2024-07-27 |
 | [Lane](https://open.spotify.com/track/17DG8UuM9rZpVnz44aJYpG) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [Lane](https://open.spotify.com/album/3PMdJrGUZTY3ruBIQiFlPH) | 2:42 | 2022-04-29 | 2022-05-14 |
 | [Last Dance](https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 3:09 | 2022-07-22 | 2023-09-02 |
@@ -876,6 +876,7 @@
 | [Perfect](https://open.spotify.com/track/4dGRpl0xZg9C9aesFhlsoe) | [Bowtye](https://open.spotify.com/artist/0wms98WJkHZ4bT7Cmo7FVe), [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [Clearly Confused](https://open.spotify.com/album/15DzB3KZMXfo7cpoWXxjJh) | 2:25 | 2021-08-13 | 2022-01-07 |
 | [PERFECT PACE](https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [PERFECT PACE](https://open.spotify.com/album/7L3Xv0EUHVTefGIbeNPHqM) | 2:38 | 2022-09-23 | 2024-06-29 |
 | [Petra](https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Petra](https://open.spotify.com/album/1bO7MgtALIhHvzpYveTenM) | 3:32 | 2024-06-21 |  |
+| [Petty Pete](https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Petty Pete](https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1) | 2:40 | 2024-12-06 |  |
 | [PHASE](https://open.spotify.com/track/1x26GO8EmT76wbPrhPymcw) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:19 | 2024-07-19 | 2024-10-20 |
 | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/track/2kLMWqTsPb3i5QfLmnOAhM) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [phases \(feat\. Kojey Radical\)](https://open.spotify.com/album/34RPWvF1iX9XdtHWXLVH5T) | 4:03 | 2023-02-24 | 2023-10-07 |
 | [PHONICS \(feat\. Tempest & WESTSIDE BOOGIE\)](https://open.spotify.com/track/1xsgBPMUrBYyZPMP8RjiWC) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [PHONICS \(feat\. WESTSIDE BOOGIE & Tempest\)](https://open.spotify.com/album/2NjWGl9tN0HbuqjSzlBBVp) | 3:34 | 2024-01-26 | 2024-08-17 |

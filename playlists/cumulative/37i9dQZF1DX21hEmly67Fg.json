@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 264000,
       "name": "All Alone on Christmas",
       "url": "https://open.spotify.com/track/2unlAFQCz1ePlJiPA7GUDb"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 128000,
       "name": "Christmas Tree Farm",
       "url": "https://open.spotify.com/track/1ROhfJh9EDvt77VXHoCCfH"
@@ -1983,6 +1983,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6E7fFRTgcnn0LDylXFmxZd"
+      },
+      "artists": [
+        {
+          "name": "Velvet Pines",
+          "url": "https://open.spotify.com/artist/2LD1CbmqGxPI5l13pMDITB"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164750,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3I9O3RcYR18jIo0q7t82an"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/6mOZiUSBptJqx5zzDlbBlG"
       },
@@ -2754,7 +2772,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 166935,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/2Z5xXgTm80Q2hE6ulkRwiX"
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 147543,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/1g59CgM7CvLSRqpmFGGHeG"
@@ -2884,6 +2902,24 @@
       "duration_ms": 204298,
       "name": "Moon River (Arr. for Guitar by S\u00e9rgio Assad) - From \"Breakfast at Tiffany's\"",
       "url": "https://open.spotify.com/track/4cUcI2A7BxkES0nOBn15pO"
+    },
+    {
+      "album": {
+        "name": "More Than A Feeling (Guitar Version)",
+        "url": "https://open.spotify.com/album/4vyP5IdLb333rig61yVuFg"
+      },
+      "artists": [
+        {
+          "name": "Purple Lions",
+          "url": "https://open.spotify.com/artist/5e6l2ue9kA8MNkch1M8OYn"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231071,
+      "name": "More Than A Feeling - Guitar Version",
+      "url": "https://open.spotify.com/track/1vUA2IyTkmXcI9rfdS9kvW"
     },
     {
       "album": {
@@ -4358,7 +4394,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 171487,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/2V82vAe3zDgdsTn5xZ7h8m"
@@ -4776,7 +4812,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 136000,
       "name": "You For Christmas",
       "url": "https://open.spotify.com/track/6nvWWxWbvaRt78K40zcSoA"

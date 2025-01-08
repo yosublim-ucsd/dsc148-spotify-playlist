@@ -4,11 +4,12 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-100 songs - 5 hr 31 min
+102 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Certain Smile](https://open.spotify.com/track/3S2CLXMqZvrikqslQ0Zca2) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:22 | 2022-10-13 |  |
+| [A Change](https://open.spotify.com/track/55zWqtq1WZvg47RqLu4aDZ) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [A Change](https://open.spotify.com/album/60oXCcivScPRBRGRCybZPe) | 2:08 | 2025-01-07 |  |
 | [After The Rain](https://open.spotify.com/track/5VLNiOFRm9ZtMojrjS5faz) | [Edgar Finnegan](https://open.spotify.com/artist/15iw6gErDKXlPsa961xmHK) | [After The Rain](https://open.spotify.com/album/5IJekJTt2i6tL1BQDO3odQ) | 2:47 | 2022-10-13 |  |
 | [Afternoon In Berlin](https://open.spotify.com/track/2kjYRFfJ5Cv2nmT2YZCano) | [The Cloud](https://open.spotify.com/artist/5XxGygPJsu9sVpxe4R97k9) | [Afternoon In Berlin](https://open.spotify.com/album/3utbeoogeyZcYP90jozKRb) | 2:43 | 2023-06-22 |  |
 | [Afternoon In Paris](https://open.spotify.com/track/4Jj5FKnlYBNhbSyySVNutN) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Afternoon In Paris](https://open.spotify.com/album/2YN0PxDGs7e0VzNDU2vDCD) | 2:11 | 2023-03-02 |  |
@@ -91,6 +92,7 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/3WoSrYUi2UoF321UCXE6UO) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Someday My Prince Will Come](https://open.spotify.com/album/3me7OLET9zLwToQ2TOk5yh) | 2:35 | 2022-10-27 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/7tOzfZjgXHqiah32IIQplt) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [Somewhere Over The Rainbow](https://open.spotify.com/album/2wtxBVqcVFR6hG5yleEKOa) | 2:12 | 2022-10-27 | 2024-01-05 |
 | [Stella By Starlight](https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Stella By Starlight](https://open.spotify.com/album/3MHrBUtYPA1pzK9pW2InrB) | 2:51 | 2022-11-24 |  |
+| [Sunny Shadow](https://open.spotify.com/track/3w0o8Mo8aFrQ0HtmwBVg2v) | [Morris Valentin](https://open.spotify.com/artist/4eNel5cDOyyO9AuVHCg7h8) | [Sunny Shadow](https://open.spotify.com/album/1Phq0mAzxfgavFzKiNZuz3) | 2:10 | 2025-01-07 |  |
 | [Tangerine](https://open.spotify.com/track/0iaaX04FpfgPfqzCInwudD) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Tangerine](https://open.spotify.com/album/38gxSGItvmeSUA9s18VGcO) | 3:44 | 2024-10-21 |  |
 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 | 2022-10-13 |  |
 | [Thankful](https://open.spotify.com/track/3S0H62Wg9uTe1QRZsUL4H7) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 5:09 | 2022-10-13 | 2023-05-24 |

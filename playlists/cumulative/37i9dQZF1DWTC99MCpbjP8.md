@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-621 songs - 1 day 2 hr 57 min
+623 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A World Without Pain](https://open.spotify.com/track/536rm114S2ByPbh906pksj) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd) | 2:36 | 2022-04-22 | 2022-07-29 |
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2022-04-22 | 2022-07-28 |
 | [Absence](https://open.spotify.com/track/605vPvBlmE54bJUiT8BKm0) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Absence](https://open.spotify.com/album/3PLBke5XtxhEDQ57DpP8uC) | 3:00 | 2022-11-14 |  |
+| [Across the Mountains](https://open.spotify.com/track/1Xvo4lzjbpwIWAtV70x92u) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Across the Mountains](https://open.spotify.com/album/31Io1kPLesjWgGSSMgUn17) | 2:17 | 2025-01-07 |  |
 | [Aegean Fantaisie](https://open.spotify.com/track/2Thxya1kxFfK0o5NUe8rEM) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7) | 2:51 | 2022-07-27 | 2023-02-08 |
 | [Aegean Fantaisie](https://open.spotify.com/track/3U7ITXsh5lsZXbYheMBpdY) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY) | 2:51 | 2022-04-22 | 2022-07-29 |
 | [Aeternum](https://open.spotify.com/track/2NUEiYBZDBrY5oidzrmYgv) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [Aeternum](https://open.spotify.com/album/4CBsyXYvh2iy9VihnMn5zE) | 2:15 | 2022-04-22 | 2023-01-27 |
@@ -215,6 +216,7 @@
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-04-22 | 2024-11-14 |
 | [Hourglass](https://open.spotify.com/track/06ccLctiYNiBdE6N24HCPO) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hourglass](https://open.spotify.com/album/0E1NjPzlHaB6BdmJTujmp0) | 2:35 | 2024-02-13 |  |
 | [Howthian](https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Howthian](https://open.spotify.com/album/3eDvXFQzvzaRxRMdAss0vn) | 2:24 | 2022-04-22 | 2023-01-27 |
+| [Hydrangea](https://open.spotify.com/track/2wVS1J1DwzTdA8LPDWDjF0) | [Richard Mahees](https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5) | [Hydrangea](https://open.spotify.com/album/6JFr3JwZ6jIK46qnqlqAQU) | 2:16 | 2025-01-07 |  |
 | [I Mellanrummen](https://open.spotify.com/track/2y5ndtKSNhKxhAmnrDbuIg) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [I Mellanrummen](https://open.spotify.com/album/5k0teDt2gqXjptNLUJltoz) | 2:09 | 2022-04-22 | 2024-04-16 |
 | [I'll Be Dreaming](https://open.spotify.com/track/2FPuvgUV34THb0IzEBJvq6) | [Daníel Fannar](https://open.spotify.com/artist/5N36wGewpkol8rMbwxx0nj) | [I'll Be Dreaming](https://open.spotify.com/album/3qFk7Wk19e93A8wRFjPn1a) | 1:43 | 2023-03-28 | 2023-07-19 |
 | [Idyll](https://open.spotify.com/track/2IbmkbZxpaEamIoEbpJ4r5) | [Haupu](https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0) | [Idyll](https://open.spotify.com/album/1eB9IofFwCJi40HRPo50ov) | 2:48 | 2024-04-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26364,
+  "num_followers": 26368,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -1039,18 +1039,26 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 191466,
-      "name": "Free Woman",
-      "url": "https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ"
+      "duration_ms": 193377,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1075,26 +1083,18 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Polaroid",
-        "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 193377,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
+      "duration_ms": 191466,
+      "name": "Free Woman",
+      "url": "https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ"
     },
     {
       "added_at": "2024-07-03 14:32:39",

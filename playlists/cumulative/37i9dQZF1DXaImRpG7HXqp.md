@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-790 songs - 1 day 10 hr 20 min
+792 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 |  |
 | [Quartzite](https://open.spotify.com/track/7ApVbA2DWxftyUApfSB5Qq) | [Aiden Archer](https://open.spotify.com/artist/3VgNLAQtZ0NxQLpZJSGFmE) | [Quartzite](https://open.spotify.com/album/2cnYYDd1dtIFhSc0gJUyAi) | 2:05 | 2023-10-27 |  |
 | [Questions and Answers](https://open.spotify.com/track/1XfuNRBmDmaXuEcoKfShOh) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Questions and Answers](https://open.spotify.com/album/4f4SIvQEwkW3bOKh1Ji1gB) | 2:13 | 2021-12-08 | 2022-06-03 |
+| [Quiet Streets](https://open.spotify.com/track/2mp2kMjzgMNdbAQErNZbtQ) | [Milan Heyes](https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9) | [Quiet Streets](https://open.spotify.com/album/0r2gLejZURQ0d6nhxA5f5W) | 2:38 | 2025-01-07 |  |
 | [Quietus](https://open.spotify.com/track/17HzV5DJPNNDMeQXEjBbT6) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Quietus](https://open.spotify.com/album/4mUwh0o7CJEHxXBSpQZCYf) | 3:10 | 2022-10-28 | 2023-03-10 |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-02-24 | 2024-12-11 |
 | [Rainmaker](https://open.spotify.com/track/5asJLV0COedoeSPKAkiH7y) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Rainmaker](https://open.spotify.com/album/0Ww1YwBaiSEIpFmjeSbPg0) | 2:21 | 2021-12-08 | 2022-04-06 |
@@ -637,6 +638,7 @@
 | [Stay](https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Stay](https://open.spotify.com/album/2ZpJ6FLDVO1ktGjRf8d3jP) | 1:54 | 2021-12-08 | 2022-04-06 |
 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 | 2024-04-19 |  |
 | [Stilla](https://open.spotify.com/track/2yPOn4HIWksnWp6g6yOTDj) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Stilla](https://open.spotify.com/album/5aF8QIEgX26Lky64XDJAcS) | 2:23 | 2022-07-01 | 2022-07-29 |
+| [Stillness](https://open.spotify.com/track/6LjrczTRiY4ZWG85vdD3W5) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stillness](https://open.spotify.com/album/7g1FCiurDarlhgX1EhSnMx) | 2:40 | 2025-01-07 |  |
 | [Stillness](https://open.spotify.com/track/2p3iq2SPXRJRX1U4xqfE0P) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Stillness](https://open.spotify.com/album/5G267WWwhC7FrWXq8PpIpV) | 2:10 | 2022-06-03 | 2022-07-29 |
 | [Storyteller](https://open.spotify.com/track/7d9uanPShS0NVsESqcArCa) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Storyteller](https://open.spotify.com/album/3Du4mTpGliNy0e7qAIdR3G) | 3:01 | 2023-06-08 |  |
 | [Strada Nuova](https://open.spotify.com/track/45EsspfzGgIN8Ny4b9baQr) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Strada Nuova](https://open.spotify.com/album/1eA4Mfi8x3auSnR5EJ6pMA) | 2:18 | 2022-07-08 | 2024-05-04 |

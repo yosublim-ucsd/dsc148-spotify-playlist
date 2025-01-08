@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-266 songs - 11 hr 28 min
+268 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Les débuts](https://open.spotify.com/track/4R6L0FlLprIsVMJ9bdDd1e) | [Kathrin Holtz](https://open.spotify.com/artist/6okzShndL8TdXSW8hKm17P) | [Les débuts](https://open.spotify.com/album/3nK1eHhGeRlFfD2PDMYiQY) | 2:13 | 2023-04-03 |  |
 | [Libélula](https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Libélula](https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT) | 2:45 | 2023-04-03 |  |
 | [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2023-04-03 |  |
+| [Little eyes](https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Little eyes](https://open.spotify.com/album/5YYGBgnXZ9M36cOYlWKbQi) | 2:19 | 2025-01-07 |  |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2023-04-03 |  |
 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 | 2024-04-15 |  |
 | [Lullaby to Brooklyn](https://open.spotify.com/track/7mHoDy7ategfWEYV51DltL) | [Jenna Elizabeth](https://open.spotify.com/artist/5If5kZtYCXDNwUSgVqu5Fr) | [Fireflies](https://open.spotify.com/album/4rvQEuLUZZGCov0t4LU6rX) | 2:27 | 2023-04-03 | 2023-04-13 |
@@ -213,7 +214,7 @@
 | [Small Shelter](https://open.spotify.com/track/5Jo3ULRpXZqzc4bY8uhdFm) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Small Shelter](https://open.spotify.com/album/586Tbs7Rzob4HBU0eyCAId) | 1:41 | 2023-07-24 | 2023-08-22 |
 | [Snuggle Snore](https://open.spotify.com/track/2rt4PaD8ZPtTdF3nz15Sjc) | [Nell Watts](https://open.spotify.com/artist/3eKFzxUit6eaVMkmsfrI5Y) | [Snuggle Snore](https://open.spotify.com/album/249QCyyRj3rD7uy4zEwp9J) | 1:33 | 2023-05-03 | 2023-08-22 |
 | [Snuggled](https://open.spotify.com/track/75Zh8LLgK1jnGbHsAMN2vv) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Snuggled](https://open.spotify.com/album/3xjUvrQEXkBv2V1NiMw3Pv) | 2:11 | 2023-12-11 |  |
-| [Soak](https://open.spotify.com/track/4RE7zeeKezgpDgNdkleavy) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Soak](https://open.spotify.com/album/1nW6jIUZl5rTEqYPSRiNAp) | 3:46 | 2024-11-12 |  |
+| [Soak](https://open.spotify.com/track/4RE7zeeKezgpDgNdkleavy) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Soak](https://open.spotify.com/album/1nW6jIUZl5rTEqYPSRiNAp) | 3:46 | 2024-11-12 | 2025-01-08 |
 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 | 2023-04-03 | 2023-04-19 |
 | [Solituned](https://open.spotify.com/track/2IBVV6781F86tJbtVP0M6k) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Solituned](https://open.spotify.com/album/3HtvOePMqTZ6XXSUbzL5gi) | 3:18 | 2023-04-03 | 2023-04-13 |
 | [Someplace Good](https://open.spotify.com/track/4l2aLCFBcycKU6Scz2esUs) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Someplace Good](https://open.spotify.com/album/4XjLBRHYd7E66x2pXxaDkB) | 3:28 | 2023-04-03 |  |
@@ -259,6 +260,7 @@
 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 | 2023-04-03 |  |
 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 | 2023-04-03 |  |
 | [Warm](https://open.spotify.com/track/3k0x9nLNnDf37MJYIPFww5) | [Closed Lids](https://open.spotify.com/artist/3Ikd9nfnykzwJ0f189yHtg) | [Warm](https://open.spotify.com/album/2FcAyZf7Ack86ExG4yMh23) | 3:32 | 2023-04-03 |  |
+| [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 | 2025-01-07 |  |
 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 | 2023-04-03 |  |
 | [Waves](https://open.spotify.com/track/3Q4SprlTUVDg4HkH0e9vQR) | [Astrid Evans](https://open.spotify.com/artist/4f3z31SdUpS0auVOk6h2Vj) | [Waves](https://open.spotify.com/album/3BkQQlkS7ROeILw3aoJ2zu) | 2:24 | 2024-04-15 |  |
 | [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-04-03 | 2024-04-19 |

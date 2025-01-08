@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 225000,
       "name": "Aadi",
       "url": "https://open.spotify.com/track/1E4PMshhmncjJ4DbEmrkrE"
@@ -283,6 +283,64 @@
     },
     {
       "album": {
+        "name": "Ritmo & Suor",
+        "url": "https://open.spotify.com/album/6Hwko3rwGGmC2kyv9XzaIw"
+      },
+      "artists": [
+        {
+          "name": "Rocky Marsiano",
+          "url": "https://open.spotify.com/artist/3xTlhHUtq98Y3l8CUoBVgl"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194717,
+      "name": "Amigo Rui",
+      "url": "https://open.spotify.com/track/7HMwlV7MJwOD3L8G0DbWvC"
+    },
+    {
+      "album": {
+        "name": "Haifa Mafia",
+        "url": "https://open.spotify.com/album/38mhRP5edlYNMFxYgxmLcd"
+      },
+      "artists": [
+        {
+          "name": "Eliezer",
+          "url": "https://open.spotify.com/artist/1qPHnrVTO4sakv5IFg6Lml"
+        },
+        {
+          "name": "Iodesa",
+          "url": "https://open.spotify.com/artist/1a7VgFMQM0WvFHrHMXLwHn"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535466,
+      "name": "Among Fools",
+      "url": "https://open.spotify.com/track/5UcvQkaG8AE9m9oTFrvhbO"
+    },
+    {
+      "album": {
+        "name": "Isles",
+        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
+    },
+    {
+      "album": {
         "name": "Music for Generations",
         "url": "https://open.spotify.com/album/34MzMLTmC8bQKOTbBzuPIV"
       },
@@ -305,6 +363,32 @@
     },
     {
       "album": {
+        "name": "Aruna Chandra",
+        "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
+      },
+      "artists": [
+        {
+          "name": "Mashti",
+          "url": "https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf"
+        },
+        {
+          "name": "Deep Dive Corp.",
+          "url": "https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb"
+        },
+        {
+          "name": "David Devanagari",
+          "url": "https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538000,
+      "name": "Aruna Chandra",
+      "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
+    },
+    {
+      "album": {
         "name": "Atomic Alchemy",
         "url": "https://open.spotify.com/album/49Ja0XYLywQFJMgFfBUBL0"
       },
@@ -324,6 +408,24 @@
       "duration_ms": 353621,
       "name": "Atomic Alchemy - Original",
       "url": "https://open.spotify.com/track/2sntzWf1oa90KGpqDb9pPX"
+    },
+    {
+      "album": {
+        "name": "Une plage sur la lune",
+        "url": "https://open.spotify.com/album/1fEA5UDRjO5QR0SfXJP2DA"
+      },
+      "artists": [
+        {
+          "name": "The Architect",
+          "url": "https://open.spotify.com/artist/6HzVTgf7SWVWNo93bT5TEv"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207901,
+      "name": "Baile De Sol",
+      "url": "https://open.spotify.com/track/2kzL2y5Sf0dooP2uiwk5tQ"
     },
     {
       "album": {
@@ -600,7 +702,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 376124,
       "name": "Come to Me - Hezarfen Rework",
       "url": "https://open.spotify.com/track/19OSKxmpbrR2vr14lUssBb"
@@ -796,6 +898,24 @@
       "duration_ms": 668855,
       "name": "Discodrums",
       "url": "https://open.spotify.com/track/0ojsnMMHG3ZUbDPOVBst9B"
+    },
+    {
+      "album": {
+        "name": "Dizzy Guitar",
+        "url": "https://open.spotify.com/album/4vAjjqZbp89L7RNsvVx7fT"
+      },
+      "artists": [
+        {
+          "name": "Raffaele Ciavolino",
+          "url": "https://open.spotify.com/artist/72423d8tISo7i4UcLVjGx9"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210491,
+      "name": "Dizzy Guitar - Edit",
+      "url": "https://open.spotify.com/track/1IRHwimDAruA6XxvGYsOtA"
     },
     {
       "album": {
@@ -1024,7 +1144,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 304000,
       "name": "Francesca De Rimini - Babafonik Remix",
       "url": "https://open.spotify.com/track/4eIQY18BW09JD3q3TaI9eM"
@@ -1078,7 +1198,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 328648,
       "name": "Game of Disguise",
       "url": "https://open.spotify.com/track/7bfrmp31tAMXAJDywRVdUV"
@@ -1206,6 +1326,28 @@
       "duration_ms": 273053,
       "name": "Golden Apples Of The Sun",
       "url": "https://open.spotify.com/track/08f0QMRnzTRdH7XdMamzGT"
+    },
+    {
+      "album": {
+        "name": "Got Groove (Simone Liberali Remix)",
+        "url": "https://open.spotify.com/album/0r24yxB9YjuoWfDJgCszQ4"
+      },
+      "artists": [
+        {
+          "name": "Prok & Fitch",
+          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
+        },
+        {
+          "name": "Simone Liberali",
+          "url": "https://open.spotify.com/artist/6hZro7BVjxc8uhBn6XO0Wv"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Got Groove - Simone Liberali Remix",
+      "url": "https://open.spotify.com/track/2PqENOEspHvrqdJ4OqncdP"
     },
     {
       "album": {
@@ -1592,10 +1734,28 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 329537,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/1I22g4BpD3RtK2IbePmuJd"
+    },
+    {
+      "album": {
+        "name": "Joint Jazz",
+        "url": "https://open.spotify.com/album/3RSTh5PjUbx5fedSzW54N7"
+      },
+      "artists": [
+        {
+          "name": "Simon Adams",
+          "url": "https://open.spotify.com/artist/1HBfoEMUHSgMrxjEDe6L3W"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219677,
+      "name": "Joint Jazz",
+      "url": "https://open.spotify.com/track/1RHoqcH6ihNRTOjjKeTqzM"
     },
     {
       "album": {
@@ -2050,7 +2210,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 359314,
       "name": "Megla",
       "url": "https://open.spotify.com/track/5o4mA8Wg9rbWAlTKmS2Vfu"
@@ -2068,7 +2228,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 317556,
       "name": "Melted Music",
       "url": "https://open.spotify.com/track/2hw9HfjjVhBSNMLFQvrmhK"
@@ -2122,10 +2282,46 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 291816,
       "name": "Ministry Of Midnight",
       "url": "https://open.spotify.com/track/6BiDd8dPUy3JvGlHC3pzrf"
+    },
+    {
+      "album": {
+        "name": "My Friends",
+        "url": "https://open.spotify.com/album/761sKlklVoSCgUM4lBvSQ5"
+      },
+      "artists": [
+        {
+          "name": "Rafa Barrios",
+          "url": "https://open.spotify.com/artist/6nl0PkJi7Xog1gon9f6WIl"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384062,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/0zCwkw0XHvboEccqYoPTmn"
+    },
+    {
+      "album": {
+        "name": "Duniya Kya Hai",
+        "url": "https://open.spotify.com/album/7uuSE8TYWTQysDt2KaGSso"
+      },
+      "artists": [
+        {
+          "name": "Lapgan",
+          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81693,
+      "name": "My Haveli Is Your Haveli",
+      "url": "https://open.spotify.com/track/1M3z94SVanSbjbGBykuWee"
     },
     {
       "album": {
@@ -2271,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "Urban Cosmonaut Tales",
+        "url": "https://open.spotify.com/album/2XjtnY9cnGER99OkPWms4Q"
+      },
+      "artists": [
+        {
+          "name": "Ninze",
+          "url": "https://open.spotify.com/artist/09OTgUi5zNHlpAVZIqTKwp"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363789,
+      "name": "Nocturne I",
+      "url": "https://open.spotify.com/track/5UAtuGGKIVG8z1cXahJSOM"
+    },
+    {
+      "album": {
         "name": "Odyssey / Sonne",
         "url": "https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp"
       },
@@ -2318,7 +2532,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 383500,
       "name": "Oslo",
       "url": "https://open.spotify.com/track/5Jf9o514OJWEZSYYTTHgOx"
@@ -2449,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Minimal Stories (Parigo No. 22)",
+        "url": "https://open.spotify.com/album/5mdfALHA6NyXz7msDxjLfX"
+      },
+      "artists": [
+        {
+          "name": "Laurent Dury",
+          "url": "https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124520,
+      "name": "Polkaism",
+      "url": "https://open.spotify.com/track/1Ja66cVUWbnX5Cn9TjEJMu"
+    },
+    {
+      "album": {
         "name": "Independent Dancer",
         "url": "https://open.spotify.com/album/6aGKLN1RkJ9LlnWjEJK77i"
       },
@@ -2540,6 +2772,24 @@
       "duration_ms": 484477,
       "name": "Robots",
       "url": "https://open.spotify.com/track/4JLHvLj1cHJpopm40v32lY"
+    },
+    {
+      "album": {
+        "name": "Amsterdam Gets Physical 2018 by Reboot",
+        "url": "https://open.spotify.com/album/5eNNhoRrKIVxO1kBQh2OBn"
+      },
+      "artists": [
+        {
+          "name": "Reboot",
+          "url": "https://open.spotify.com/artist/3MUGWsOTNoR1OmZjgdQS3H"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290417,
+      "name": "Rocbell - Mixed",
+      "url": "https://open.spotify.com/track/3p91S5mTSOpVTpWgMAHPtO"
     },
     {
       "album": {
@@ -2720,10 +2970,28 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 345621,
       "name": "Serpent",
       "url": "https://open.spotify.com/track/5e8XvUqeyxPqRrK7Bz85D7"
+    },
+    {
+      "album": {
+        "name": "Jus Dance EP",
+        "url": "https://open.spotify.com/album/3FzN5aP6PZlJxlawevsVG0"
+      },
+      "artists": [
+        {
+          "name": "Reboot",
+          "url": "https://open.spotify.com/artist/3MUGWsOTNoR1OmZjgdQS3H"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290322,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/0xi0ii42tQGxzsPFU8f4bS"
     },
     {
       "album": {
@@ -2897,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Where You Go",
+        "url": "https://open.spotify.com/album/1zTGJiHnVzPupsvDXKV60S"
+      },
+      "artists": [
+        {
+          "name": "Boztown",
+          "url": "https://open.spotify.com/artist/49CZw9qooXeYTWKe9ioZPx"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159708,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/2thUyjeTed1AzweqFJcYbO"
+    },
+    {
+      "album": {
         "name": "Atomic Alchemy",
         "url": "https://open.spotify.com/album/49Ja0XYLywQFJMgFfBUBL0"
       },
@@ -2981,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Take California",
+        "url": "https://open.spotify.com/album/3IKgxOWuJaCcn92CraHiXG"
+      },
+      "artists": [
+        {
+          "name": "Propellerheads",
+          "url": "https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239093,
+      "name": "Take California - Short One",
+      "url": "https://open.spotify.com/track/1N3bdxmsu3wimLy3E4d4cf"
+    },
+    {
+      "album": {
         "name": "Brazilian Beats 6 (Mr Bongo presents)",
         "url": "https://open.spotify.com/album/20U1ZoFQ8flotDUIOl7qct"
       },
@@ -2996,6 +3300,24 @@
       "duration_ms": 267413,
       "name": "Take Me Back To Piaui",
       "url": "https://open.spotify.com/track/4ZFuIhSgep8bkzeBW8fT94"
+    },
+    {
+      "album": {
+        "name": "TangoFly",
+        "url": "https://open.spotify.com/album/0CgSoLEcltc4Ws7pKHgBZm"
+      },
+      "artists": [
+        {
+          "name": "Rafa Barrios",
+          "url": "https://open.spotify.com/artist/6nl0PkJi7Xog1gon9f6WIl"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "TangoFly",
+      "url": "https://open.spotify.com/track/0q6TICfZBLJx8OEu4JuxiZ"
     },
     {
       "album": {
@@ -3351,6 +3673,24 @@
     },
     {
       "album": {
+        "name": "Viene de Mi",
+        "url": "https://open.spotify.com/album/5pAJASef6SxMTZlm1eWHxH"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "Viene de Mi",
+      "url": "https://open.spotify.com/track/2z4UdFhJPFIRxv7toicES1"
+    },
+    {
+      "album": {
         "name": "Ex Nihilo",
         "url": "https://open.spotify.com/album/1v3l719HzkRwmQKbc4OLUS"
       },
@@ -3392,6 +3732,24 @@
       "duration_ms": 285175,
       "name": "Vira v Peremogu",
       "url": "https://open.spotify.com/track/5oYlLaqDIPK4uFOQxt3JFZ"
+    },
+    {
+      "album": {
+        "name": "Walk Faster",
+        "url": "https://open.spotify.com/album/6ISRCU2YOQLqtZmgFmw0jq"
+      },
+      "artists": [
+        {
+          "name": "Macadam Crocodile",
+          "url": "https://open.spotify.com/artist/2GVOp47xQ4z3ASdqsmCMoX"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213465,
+      "name": "Walk Faster",
+      "url": "https://open.spotify.com/track/1WGLQma2V7f98w3b7t5lRm"
     },
     {
       "album": {
@@ -3606,6 +3964,28 @@
       "duration_ms": 406308,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/62l8penIChjWDiay8jDnzR"
+    },
+    {
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/0uXg9mAgLJmYziutxZ6MJQ"
+      },
+      "artists": [
+        {
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        },
+        {
+          "name": "Vijay Benedict",
+          "url": "https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384672,
+      "name": "Zindagi Meri Dance Dance",
+      "url": "https://open.spotify.com/track/2z4epffvWpEsAQvaCnkKBa"
     },
     {
       "album": {

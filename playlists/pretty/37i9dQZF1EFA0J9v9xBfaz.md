@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996 likes - 161 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 997 likes - 161 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 68 | [Kendime Sardım](https://open.spotify.com/track/2mA9xSKqkPRkCO75yLnSni) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Kendime Sardım](https://open.spotify.com/album/0zCvgu9ahJXvMbE54HOx7s) | 3:16 |
 | 69 | [LATTE \(feat\. Maria Becerra\)](https://open.spotify.com/track/7irTyPzSyqSbeUXbYsTR5j) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 4:20 |
 | 70 | [Ron \- Remix](https://open.spotify.com/track/04x4Urpge2kG9uDGdHRsdc) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Ron \(Remix\)](https://open.spotify.com/album/7gJxFAE9u22IPLFblqa38a) | 3:07 |
-| 71 | [Feeling](https://open.spotify.com/track/41MTEQrdiERPZfddek3iSQ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Unisex](https://open.spotify.com/album/1jBQp6pMhXit5aTC494d9z) | 3:09 |
-| 72 | [11 Y ONCE](https://open.spotify.com/track/0DwVNspGmrWAWFnbjMa2FZ) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:16 |
+| 71 | [11 Y ONCE](https://open.spotify.com/track/0DwVNspGmrWAWFnbjMa2FZ) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:16 |
+| 72 | [Feeling](https://open.spotify.com/track/41MTEQrdiERPZfddek3iSQ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Unisex](https://open.spotify.com/album/1jBQp6pMhXit5aTC494d9z) | 3:09 |
 | 73 | [PARA SIEMPRE](https://open.spotify.com/track/272vIYVYzfAgHUQRUYWmhP) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:30 |
 | 74 | [Te Busco](https://open.spotify.com/track/7AyXdBQAgRLJBK72gqq0Hz) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 2:38 |
 | 75 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0J9v9xBfaz.md) - [plain]
 | 160 | [Interludio](https://open.spotify.com/track/6I2aC9x6YVtBh07da38dbN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 0:48 |
 | 161 | [Sin DJ](https://open.spotify.com/track/7hwkJDetmwkoVMnG7xoCSu) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [GHETTO CHILD](https://open.spotify.com/album/58pf971AkkgVetgudNWweN) | 2:03 |
 
-Snapshot ID: `AbmLAAAAAADTSr6u83WakIWe1twHuOoe`
+Snapshot ID: `AbmQlgAAAAChBjmpvCWcU0+pOf6TN7C8`

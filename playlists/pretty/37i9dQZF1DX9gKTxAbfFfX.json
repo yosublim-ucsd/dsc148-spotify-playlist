@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 752309,
+  "num_followers": 752260,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "El Conjuntito",
-        "url": "https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ"
-      },
-      "artists": [
-        {
-          "name": "El Bobe",
-          "url": "https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 158711,
-      "name": "El Conjuntito",
-      "url": "https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 232645,
       "name": "El Patio",
       "url": "https://open.spotify.com/track/0PtLrH95CQ2lKf6pym5LmA"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "El Conjuntito",
+        "url": "https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ"
+      },
+      "artists": [
+        {
+          "name": "El Bobe",
+          "url": "https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 158711,
+      "name": "El Conjuntito",
+      "url": "https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf"
     },
     {
       "added_at": "2024-09-02 07:47:14",

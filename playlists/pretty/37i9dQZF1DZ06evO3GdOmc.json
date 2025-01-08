@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 39533,
+  "num_followers": 39540,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAACZ4sMXwKB0ZCEcn6loL1+c",
+  "snapshot_id": "Z3sdAAAAAAB67Q8TAu6AyQvlju7WX0ST",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Next Thing",
-        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "One Step Away",
-      "url": "https://open.spotify.com/track/5hOYQACuJVKPsVcTHjaeEH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desert Road",
         "url": "https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 218484,
       "name": "Desert Road",
       "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "One Step Away",
+      "url": "https://open.spotify.com/track/5hOYQACuJVKPsVcTHjaeEH"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 281426,
-      "name": "Broken Together",
-      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
+      "duration_ms": 316720,
+      "name": "Lifesong",
+      "url": "https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifesong",
-        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 316720,
-      "name": "Lifesong",
-      "url": "https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR"
+      "duration_ms": 281426,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Jesus at a Distance",
-      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Until The Whole World Hears",
         "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 218746,
       "name": "If We've Ever Needed You",
       "url": "https://open.spotify.com/track/33RrcL9vPax7BkUg95Kp7t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Jesus at a Distance",
+      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Healer",
-      "url": "https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Until The Whole World Hears",
         "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 303800,
       "name": "Until The Whole World Hears",
       "url": "https://open.spotify.com/track/0bZ9e7IoTlBnivvPEbNY6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,930 songs - 4 day 6 hr 40 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,931 songs - 4 day 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1938,5 +1938,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1928 | [Colours](https://open.spotify.com/track/5DpIva4yqRr7TRqEOzpWg8) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m) | [Colours](https://open.spotify.com/album/2zFGIOMWzoPcmst3YUoVDb) | 3:19 |
 | 1929 | [Vroom](https://open.spotify.com/track/2ozrCA50jj84miZPH7xLeB) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Vroom](https://open.spotify.com/album/6AcyJGG8i9jMes66FuGtLU) | 2:07 |
 | 1930 | [This Is Spoontech](https://open.spotify.com/track/2RX11b5lagRNM6VKaFs9EF) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [This Is Spoontech](https://open.spotify.com/album/4S97H9cvhRbU1Gd0iMtlww) | 1:48 |
+| 1931 | [Money On The Dash](https://open.spotify.com/track/0PuK76HaHGnw9TUlorwdso) | [Double Trouble](https://open.spotify.com/artist/5GPepE4EJ70TsAFBlkaF7A) | [Money On The Dash](https://open.spotify.com/album/5MrtUWzWx7AwdYoj4HmtS0) | 3:01 |
 
-Snapshot ID: `AAAHwUHvoeJ9YuusWr012hLjvUGARGxY`
+Snapshot ID: `AAAHwlwit4qLSPjwnCfxzsBG4vloDNFo`

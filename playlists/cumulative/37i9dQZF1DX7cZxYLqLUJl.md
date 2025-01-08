@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-139 songs - 6 hr 6 min
+141 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Certain Days](https://open.spotify.com/track/3YKPxRJDUHhnFJUyjV57JQ) | [Viljar Iversen](https://open.spotify.com/artist/57zxco4Z1lUt03EMLy3GYl) | [Certain Days](https://open.spotify.com/album/2u2aoV0YFFubHvzgkaN244) | 2:18 | 2023-03-22 |  |
 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-11 |  |
 | [Changes](https://open.spotify.com/track/3N3BWrupDuvM7ZKbNO534V) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Changes](https://open.spotify.com/album/1iXM8jYPYT1ELoWbwwHuhy) | 1:55 | 2021-04-21 | 2023-09-12 |
+| [Close](https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Close](https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs) | 2:03 | 2025-01-07 |  |
 | [Clouds](https://open.spotify.com/track/6WyF2Em0vKwoDUkHcbKVBA) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Clouds](https://open.spotify.com/album/6p8T30oLeBZNRcelcyIsoT) | 2:26 | 2021-04-21 |  |
 | [Come Back To Me](https://open.spotify.com/track/6kJsbzODs24YsWxaefoXXH) | [Carlton Rimor](https://open.spotify.com/artist/4J75uik8WDEqMyN1SaZpoO) | [Come Back To Me](https://open.spotify.com/album/1oucZJ2RlGscVWUuWb49Rp) | 2:20 | 2021-04-21 |  |
 | [Comfort](https://open.spotify.com/track/0sCMgZyQFYjDblnzNvAn6z) | [Plane Curston](https://open.spotify.com/artist/08EEIy4ABAgKlRWhLbMdqe) | [Comfort](https://open.spotify.com/album/2NySZwUwASnooDPJMVuCrU) | 2:37 | 2024-10-07 |  |
@@ -138,6 +139,7 @@
 | [Trust](https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS) | [Loris Murray](https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk) | [Trust](https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk) | 2:15 | 2021-04-21 | 2024-10-08 |
 | [Tu me fascines](https://open.spotify.com/track/3TuBgx3BBnkN1TiKZEmvEZ) | [Romaine LaGrande](https://open.spotify.com/artist/6riCYP1IMxMHrg4bEyOGpD) | [Tu me fascines](https://open.spotify.com/album/0OViSTWlnkvga0OGrYzMxx) | 2:04 | 2021-04-21 | 2024-09-10 |
 | [Untextured Sighs](https://open.spotify.com/track/2DfFinSzRS5nwkya1xdHaH) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Untextured Sighs](https://open.spotify.com/album/7axKO0cbma2inHc4wJFg4o) | 2:38 | 2023-04-05 |  |
+| [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 | 2025-01-07 |  |
 | [Watching Over You](https://open.spotify.com/track/6kWVRQKxzpOj8r06pps6O3) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [delta/alpha](https://open.spotify.com/album/6W2BFocMWkUumhGSrgE9il) | 2:18 | 2021-04-21 | 2024-10-01 |
 | [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 | 2023-09-11 |  |
 | [Waves](https://open.spotify.com/track/6jFdydFW7HvS77aiiRR9XL) | [Oscar Unfiltered](https://open.spotify.com/artist/1u4Wo8kEfKoyXN8sQr9jRJ) | [Waves](https://open.spotify.com/album/1othuB5lIGVpjNe7OUvzln) | 2:07 | 2021-04-21 |  |

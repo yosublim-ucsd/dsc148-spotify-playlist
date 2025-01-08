@@ -219,6 +219,32 @@
     },
     {
       "album": {
+        "name": "20 Veces",
+        "url": "https://open.spotify.com/album/7eXpNrySRqlvayXivlCz70"
+      },
+      "artists": [
+        {
+          "name": "Flamen Beretta",
+          "url": "https://open.spotify.com/artist/3D9fZmAGeaCJjnRFFD9jlE"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Kuv507",
+          "url": "https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291063,
+      "name": "20 Veces",
+      "url": "https://open.spotify.com/track/44yf1tgi5vg8lR2EULi1gs"
+    },
+    {
+      "album": {
         "name": "24 Horas",
         "url": "https://open.spotify.com/album/0HbcAexboG1Hj9o2VSPe9E"
       },
@@ -970,7 +996,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 145555,
       "name": "Alma",
       "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
@@ -2834,7 +2860,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 153285,
       "name": "Boxindanga",
       "url": "https://open.spotify.com/track/4xKY2pP7CON2YFZLig4Mu5"
@@ -4251,6 +4277,28 @@
     },
     {
       "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241648,
+      "name": "COQUETA",
+      "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
+    },
+    {
+      "album": {
         "name": "Coqueta",
         "url": "https://open.spotify.com/album/3GQ5ENTXkUTu0eUarImOCm"
       },
@@ -4780,6 +4828,24 @@
       "duration_ms": 240560,
       "name": "C\u00f3mo Te Atreves",
       "url": "https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r"
+    },
+    {
+      "album": {
+        "name": "Como Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
     },
     {
       "album": {
@@ -5777,6 +5843,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
+    },
+    {
+      "album": {
         "name": "EL CL\u00faB",
         "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
       },
@@ -5788,7 +5872,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -6208,7 +6292,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 148200,
       "name": "En Otra Vida - Versi\u00f3n Cuarteto",
       "url": "https://open.spotify.com/track/1K11lq4qn0DdPfljQcHkNE"
@@ -7049,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/5Py0ntv7alYbDe6ZgMUQuJ"
+      },
+      "artists": [
+        {
+          "name": "Joytastic Sarah",
+          "url": "https://open.spotify.com/artist/3iozPOHgyQ7LMAJ1iyDHqC"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190876,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/4RxyIfOAN8HsjBBoKKt0A4"
+    },
+    {
+      "album": {
         "name": "LP1",
         "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
@@ -7140,7 +7242,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 317320,
       "name": "Frances Limon",
       "url": "https://open.spotify.com/track/755bmgNnWiS1NHYIHE5XQM"
@@ -7158,7 +7260,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 317320,
       "name": "Frances Limon",
       "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
@@ -7270,7 +7372,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 90000,
       "name": "FUNK INFERNAL",
       "url": "https://open.spotify.com/track/56BZSVROHDzuiYM8C2Zv3y"
@@ -9543,6 +9645,24 @@
     },
     {
       "album": {
+        "name": "LA CUEVA",
+        "url": "https://open.spotify.com/album/26dJWqDIdIY9iAmntxjOiR"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164318,
+      "name": "LA CUEVA",
+      "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
+    },
+    {
+      "album": {
         "name": "La Cumbita",
         "url": "https://open.spotify.com/album/7wKvrO3R1UJ9jo1WX706oi"
       },
@@ -10517,6 +10637,24 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+    },
+    {
+      "album": {
         "name": "Loco Por Volverla a Ver",
         "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
       },
@@ -11471,6 +11609,28 @@
     },
     {
       "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212002,
+      "name": "ME JALO",
+      "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "album": {
         "name": "Me Llueven Las Barbies",
         "url": "https://open.spotify.com/album/3Uy5dCqbvDxpxN6cLUtela"
       },
@@ -12308,7 +12468,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 185177,
       "name": "Montagem Lunar Diamante - Slowed",
       "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
@@ -13096,7 +13256,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 207343,
       "name": "No llorar\u00e9",
       "url": "https://open.spotify.com/track/7mwFsEQtfcRKDjfEsJ46Du"
@@ -13673,6 +13833,48 @@
     },
     {
       "album": {
+        "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+        "url": "https://open.spotify.com/album/4VCtYF2JYey5SeGpXkgGkR"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "Dj Lc da Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166861,
+      "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+      "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
+    },
+    {
+      "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/0uspTleqtHvzi8IpOdTJ0w"
       },
@@ -14188,7 +14390,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 215327,
       "name": "Pancad\u00e3o New Som - Mel\u00f4 de jog Future Remix PVP",
       "url": "https://open.spotify.com/track/2qfwJirVvrA8bVvq9zH7yB"
@@ -15078,6 +15280,28 @@
       "duration_ms": 173530,
       "name": "Que tengo que hacer",
       "url": "https://open.spotify.com/track/5BddARjeQMLtSXRIU8WBCR"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290752,
+      "name": "Quiero Dormir Cansado - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A"
     },
     {
       "album": {
@@ -15974,7 +16198,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 177590,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
@@ -16010,7 +16234,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 199328,
       "name": "Sabor a Derrota",
       "url": "https://open.spotify.com/track/4EbUtMcf5pUFBNvvxQFC5G"
@@ -16840,6 +17064,28 @@
       "duration_ms": 165720,
       "name": "Siento que merezco m\u00e1s",
       "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
+    },
+    {
+      "album": {
+        "name": "Silla",
+        "url": "https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141355,
+      "name": "Silla",
+      "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
     },
     {
       "album": {
@@ -18158,7 +18404,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 167066,
       "name": "Take Me to the Beach (feat. Ado)",
       "url": "https://open.spotify.com/track/4n7nwDqrdx3qmJvEACOMrN"

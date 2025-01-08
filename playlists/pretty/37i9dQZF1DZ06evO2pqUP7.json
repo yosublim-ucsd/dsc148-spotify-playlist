@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68331,
+  "num_followers": 68329,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAAUXWvENH30cCrG4fpnGNTC",
+  "snapshot_id": "Z3sdAAAAAADTrtEM/JfDmt7uAMhpWrmZ",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gym",
+        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Gym",
+      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 164494,
       "name": "Nena Buena",
       "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gym",
-        "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Gym",
-      "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
     },
     {
       "added_at": null,
@@ -935,22 +935,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOTORIUS",
-        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
       "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 186786,
-      "name": "MEZCALITO EN COPA",
-      "url": "https://open.spotify.com/track/6hBs6gXEtN6wvqArXw4h4e"
+      "duration_ms": 215000,
+      "name": "ENERO",
+      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
     },
     {
       "added_at": null,
@@ -987,18 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+        "name": "SOTORIUS",
+        "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
       },
       "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 215000,
-      "name": "ENERO",
-      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
+      "duration_ms": 186786,
+      "name": "MEZCALITO EN COPA",
+      "url": "https://open.spotify.com/track/6hBs6gXEtN6wvqArXw4h4e"
     },
     {
       "added_at": null,
@@ -1043,22 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "787",
-        "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "787",
-      "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 152000,
       "name": "TBC",
       "url": "https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "787",
+        "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "787",
+      "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
     },
     {
       "added_at": null,
@@ -1111,26 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Contra Mi 2",
-        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Subconsciente",
-      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Castillo",
         "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 198122,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Subconsciente",
+      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
     },
     {
       "added_at": null,

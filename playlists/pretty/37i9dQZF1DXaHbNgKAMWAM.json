@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 16607,
+  "num_followers": 16618,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 215120,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
       "added_at": "2024-10-27 13:02:06",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
         "name": "Evening",
         "url": "https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6"
       },
@@ -423,6 +407,22 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
         "name": "Way U Are (feat. BIG Naughty)",
         "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
       },
@@ -439,6 +439,58 @@
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
+        "name": "WONDO Project : LOVE RECIPE, Vol.1",
+        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "LOVE RECIPE",
+      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
+        "name": "Seasonal Hiatus",
+        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "One Moment",
+      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
+        "name": "T's Romance",
+        "url": "https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "duration_ms": 174906,
+      "name": "T's Romance",
+      "url": "https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43"
     },
     {
       "added_at": "2024-10-27 13:02:06",
@@ -467,58 +519,6 @@
       "duration_ms": 211506,
       "name": "Beautiful (Feat. Gaho, Moti, Jung Jin Woo)",
       "url": "https://open.spotify.com/track/0xbbTowPEommrfPqICY2ro"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
-        "name": "WONDO Project : LOVE RECIPE, Vol.1",
-        "url": "https://open.spotify.com/album/7lPcHUovL3U9KU72VCPqJ7"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        },
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "LOVE RECIPE",
-      "url": "https://open.spotify.com/track/5R8MbzkUpTigzAXHsnoYpq"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
-        "name": "T's Romance",
-        "url": "https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2"
-      },
-      "artists": [
-        {
-          "name": "Tophyun",
-          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "T's Romance",
-      "url": "https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
-        "name": "Seasonal Hiatus",
-        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "One Moment",
-      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
     },
     {
       "added_at": "2024-10-27 13:02:06",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 164861,
+      "name": "Dream about You",
+      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+    },
+    {
+      "added_at": "2024-10-27 13:02:06",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2024-10-27 13:02:06",
       "album": {
-        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+        "name": "Trust in Me (Piano by Cho Youngsoo)",
+        "url": "https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
         }
       ],
-      "duration_ms": 164861,
-      "name": "Dream about You",
-      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
+      "duration_ms": 241413,
+      "name": "Trust in Me (Piano by Cho Youngsoo)",
+      "url": "https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp"
     },
     {
       "added_at": "2024-10-27 13:02:06",
@@ -959,22 +975,6 @@
       "duration_ms": 200933,
       "name": "Dear My Winter",
       "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2024-10-27 13:02:06",
-      "album": {
-        "name": "Trust in Me (Piano by Cho Youngsoo)",
-        "url": "https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Trust in Me (Piano by Cho Youngsoo)",
-      "url": "https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp"
     },
     {
       "added_at": "2024-10-27 13:02:06",

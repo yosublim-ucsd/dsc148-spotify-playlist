@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Hodari",
-  "num_followers": 372471,
+  "num_followers": 372458,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/6PaeIq5t9k6VPvlmRbtXxj"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 165034,
-      "name": "De Novo",
-      "url": "https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "N\u00e3o Posso",
         "url": "https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 147015,
       "name": "N\u00e3o Posso",
       "url": "https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/6PaeIq5t9k6VPvlmRbtXxj"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 165034,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/1ZwIneGocijeGmgahh6umd"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Nuvem de Testemunhas - Spotify Singles",
-        "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 93377,
-      "name": "Nuvem de Testemunhas - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Busco Romance Love Show",
         "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 159999,
       "name": "passarela",
       "url": "https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Nuvem de Testemunhas - Spotify Singles",
+        "url": "https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 93377,
+      "name": "Nuvem de Testemunhas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk"
     },
     {
       "added_at": "2024-12-23 19:38:15",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2024-12-23 19:38:15",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "\u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-12-23 19:38:15",
-      "album": {
         "name": "Aditivada",
         "url": "https://open.spotify.com/album/6FDC49unluZAfOG4rmSOSU"
       },
@@ -1163,6 +1139,30 @@
       "duration_ms": 149385,
       "name": "Aditivada",
       "url": "https://open.spotify.com/track/4dPgz4FpncqvH5B3SWSsnT"
+    },
+    {
+      "added_at": "2024-12-23 19:38:15",
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     },
     {
       "added_at": "2024-12-23 19:38:15",

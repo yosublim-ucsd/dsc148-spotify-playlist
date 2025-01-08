@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "my wedding vows (bandlab draft)",
+        "url": "https://open.spotify.com/album/4Kj2mizREDHrPPu4e7KSsg"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111920,
+      "name": "my wedding vows (bandlab draft)",
+      "url": "https://open.spotify.com/track/20tyjhMlh86gHLvWEglLwc"
+    },
+    {
+      "album": {
         "name": "kittydog music album",
         "url": "https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk"
       },

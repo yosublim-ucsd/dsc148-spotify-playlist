@@ -978,7 +978,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 235635,
       "name": "After Rain With You",
       "url": "https://open.spotify.com/track/2UsNrNVwg777RKmzeSfBlo"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 207206,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/7va480wmDj33F0PRpINgkD"
@@ -4796,7 +4796,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 188821,
       "name": "Echoes of Elegance",
       "url": "https://open.spotify.com/track/6dOciaCl98KPYpdrOQovli"
@@ -6370,7 +6370,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 261316,
       "name": "Glencoe Sketches",
       "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
@@ -8822,6 +8822,24 @@
       "duration_ms": 160141,
       "name": "It's Easier Than You Might Think",
       "url": "https://open.spotify.com/track/1lC6fXNgq6Bxgz8GpTkxEY"
+    },
+    {
+      "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/578adw5Js60NpUJA09uw0x"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/0ubtLy1QIbY5rxNxGveZbo"
     },
     {
       "album": {
@@ -11500,7 +11518,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 205214,
       "name": "Missouri and Iowa",
       "url": "https://open.spotify.com/track/5fqBWJqsbLYMbTd8fF0NCK"
@@ -12706,7 +12724,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 191452,
       "name": "Nobody's Darling",
       "url": "https://open.spotify.com/track/0W4NNnvJgFcWYW3Tmp8pP5"
@@ -13070,6 +13088,24 @@
       "duration_ms": 157877,
       "name": "On A Clear Day",
       "url": "https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS"
+    },
+    {
+      "album": {
+        "name": "On A Winter's Eve",
+        "url": "https://open.spotify.com/album/1LaEKMLPcsKAK2ljs9u3fE"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Edmonstone Trio",
+          "url": "https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259143,
+      "name": "On A Winter's Eve",
+      "url": "https://open.spotify.com/track/5mkqrH1MDW53r0XGfYIwvp"
     },
     {
       "album": {
@@ -13516,7 +13552,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 170145,
       "name": "Part of the moment",
       "url": "https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A"
@@ -18877,6 +18913,24 @@
     },
     {
       "album": {
+        "name": "Watching the World Walk by",
+        "url": "https://open.spotify.com/album/1DAu9Rm258bwrD5YR48aJ4"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324075,
+      "name": "Watching the World Walk by",
+      "url": "https://open.spotify.com/track/0qR5RaRlfepIZMySNeQSVV"
+    },
+    {
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc"
       },
@@ -18928,6 +18982,24 @@
       "duration_ms": 169469,
       "name": "Way to the Top",
       "url": "https://open.spotify.com/track/4QC47Ipw6iOTNRPpdURoQK"
+    },
+    {
+      "album": {
+        "name": "We Could Be Anywhere",
+        "url": "https://open.spotify.com/album/0NbqqAr36gPDUalNq2E0UI"
+      },
+      "artists": [
+        {
+          "name": "Eltingvilles",
+          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275326,
+      "name": "We Could Be Anywhere",
+      "url": "https://open.spotify.com/track/4tU7R4HXjWXA8dWSatrC3F"
     },
     {
       "album": {
@@ -19248,7 +19320,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 217993,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/65OGRaRlS5lnuj4AE0YVoj"
@@ -20052,6 +20124,24 @@
       "duration_ms": 221396,
       "name": "You Go To My Heart",
       "url": "https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok"
+    },
+    {
+      "album": {
+        "name": "You Have Plans?",
+        "url": "https://open.spotify.com/album/0Fb5YSFwQZncRIs8Ehr9O9"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214162,
+      "name": "You Have Plans?",
+      "url": "https://open.spotify.com/track/0T9dvC536bmyUhcA8atoxi"
     },
     {
       "album": {

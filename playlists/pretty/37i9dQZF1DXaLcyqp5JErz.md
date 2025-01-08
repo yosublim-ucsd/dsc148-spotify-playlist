@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,701 likes - 70 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,018 likes - 70 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 34 | [Não Há Barreiras \- Ao Vivo](https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:24 |
 | 35 | [Abra os Olhos do Meu Coração \- Ao Vivo em Curitiba](https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 8:31 |
 | 36 | [Quando o Céu Invade a Terra / Fogo Que Consome \- Ao Vivo](https://open.spotify.com/track/33WRUMm8kEIeP3OWuJEjiD) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC), [Jeser Pires](https://open.spotify.com/artist/01PC7nidJabM3Z9igap9GD) | [Quando o Céu Invade a Terra / Fogo Que Consome \(Ao Vivo\)](https://open.spotify.com/album/63YHw72apN2b7cQ67H520u) | 6:22 |
-| 37 | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \- Ao Vivo](https://open.spotify.com/track/5otPb7Zvj6WOa7hoUk11sI) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \(Ao Vivo\)](https://open.spotify.com/album/5iVinoFUTYOa4XxG98xxOA) | 6:39 |
-| 38 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
+| 37 | [Abra os Meus Olhos](https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Eu Tenho a Promessa](https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw) | 5:36 |
+| 38 | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \- Ao Vivo](https://open.spotify.com/track/5otPb7Zvj6WOa7hoUk11sI) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve \(Ao Vivo\)](https://open.spotify.com/album/5iVinoFUTYOa4XxG98xxOA) | 6:39 |
 | 39 | [Vai Valer a Pena \- Ao Vivo](https://open.spotify.com/track/6FOZMPsV4o3dMj7juFrXMT) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia \(ao Vivo\)](https://open.spotify.com/album/0xXNfRTcKA1nhuls2DC7Tj) | 4:57 |
 | 40 | [Identidade](https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm) | 4:35 |
 | 41 | [Sobre As Águas](https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [20 Anos de Adoração](https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5) | 5:48 |

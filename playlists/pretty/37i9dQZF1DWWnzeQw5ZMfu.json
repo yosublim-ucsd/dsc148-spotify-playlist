@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Ed Sheeran",
-  "num_followers": 70576,
+  "num_followers": 70585,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "How Deep Is Your Love - Live At The MGM Grand",
-      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify, London)",
         "url": "https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 246500,
       "name": "Take Me To Church - Live From Spotify, London",
       "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/0M4KfcwtjsxZye3gK4fBKX"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "How Deep Is Your Love - Live At The MGM Grand",
+      "url": "https://open.spotify.com/track/47RlJqYcGgZC0tONUHj4b3"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -577,20 +577,20 @@
       "url": "https://open.spotify.com/track/4tJXijvnfDZ5knslt6WanM"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Ego Talking (Live)",
-        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
+        "name": "Cassy O' (EP)",
+        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 175026,
-      "name": "Ego Talking - Live From Radio City Music Hall",
-      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
+      "duration_ms": 209306,
+      "name": "Budapest - Live from Spotify Stockholm",
+      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -609,20 +609,20 @@
       "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
-      "added_at": "2024-10-18 19:54:54",
+      "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Cassy O' (EP)",
-        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
+        "name": "Ego Talking (Live)",
+        "url": "https://open.spotify.com/album/1yxyNbrvRM0n7weCmW11Y0"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 209306,
-      "name": "Budapest - Live from Spotify Stockholm",
-      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
+      "duration_ms": 175026,
+      "name": "Ego Talking - Live From Radio City Music Hall",
+      "url": "https://open.spotify.com/track/2hooaeGwAv4SlQp4zBEwj3"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 295613,
+      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Shakira Oral Fixation Tour (Live)",
         "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 295613,
-      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 288146,
       "name": "Goodbye My Lover - Live in Ireland",
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Nostalgia (Live from Los Angeles)",
-        "url": "https://open.spotify.com/album/6gTQWUXesJ5jzy4twmtnSt"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "Garden Life (Live)",
-      "url": "https://open.spotify.com/track/34pSYu4FnJipVv35Vi7N12"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -995,6 +979,22 @@
       "duration_ms": 303200,
       "name": "Sorry - Live",
       "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Nostalgia (Live from Los Angeles)",
+        "url": "https://open.spotify.com/album/6gTQWUXesJ5jzy4twmtnSt"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 221013,
+      "name": "Garden Life (Live)",
+      "url": "https://open.spotify.com/track/34pSYu4FnJipVv35Vi7N12"
     },
     {
       "added_at": "2024-10-18 19:54:54",

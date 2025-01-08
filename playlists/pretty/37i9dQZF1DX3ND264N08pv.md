@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,629 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,689 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 15 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 |
 | 16 | [Pointless Wars](https://open.spotify.com/track/1873ew8rgH5knTN4SevdR6) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [The Doc's Experiment \- Proof 2](https://open.spotify.com/album/7BvSNbWDiKs4SjCuhZpzap) | 3:25 |
 | 17 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
-| 18 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 |
-| 19 | [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 |
+| 18 | [Fear Means Nothing](https://open.spotify.com/track/5IMxXIfzFdaTQuFSmj3K8j) | [LØIS](https://open.spotify.com/artist/26BlBsd1xi3sWL8quhNrr5), [NATHN](https://open.spotify.com/artist/12cbTL9PVQKIZ84kcmcg6L), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fear Means Nothing](https://open.spotify.com/album/4DZKHRN2X3icFOtTTCwJmr) | 5:53 |
+| 19 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 |
 | 20 | [Straight From Holland](https://open.spotify.com/track/77EFFx2dgidNot1mJ5fOl2) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Straight From Holland](https://open.spotify.com/album/4QvgmbZoytzhzHHMzTSejH) | 2:01 |
 | 21 | [Lighthouse In The Storm](https://open.spotify.com/track/6Dz2m989YE2ZkBaAFUTJRN) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Lighthouse In The Storm](https://open.spotify.com/album/1d1prH9L2YbnShwonY2BzS) | 2:58 |
 | 22 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |

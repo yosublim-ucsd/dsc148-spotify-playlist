@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-177 songs - 8 hr 51 min
+178 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 | 2022-03-03 | 2022-05-27 |
 | [Bossa for Baden](https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:09 | 2022-03-03 | 2023-06-22 |
 | [Butterfly Prélude](https://open.spotify.com/track/43TQM6nWsTmoUERr9UrYkf) | [Sina Vodjani](https://open.spotify.com/artist/01LOZBitoVFoGhrKQ8oBwD) | [Butterfly Prélude](https://open.spotify.com/album/1d2teMMmQOQ6fAoW7RTSTY) | 2:14 | 2022-10-07 |  |
+| [Cadence Of Hearts](https://open.spotify.com/track/0eW6mb6EWgD0flCMsvg26d) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Cadence Of Hearts](https://open.spotify.com/album/4kbHYQ42sOgJE870vk19Lv) | 2:15 | 2025-01-07 |  |
 | [Campeche](https://open.spotify.com/track/3iyvjySmpI2Sxlxbg4Ds7q) | [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6), [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz) | [Serenata Huasteca](https://open.spotify.com/album/0t2VyqSCljrNyXjycI0ilk) | 3:38 | 2022-03-03 |  |
 | [Carcassi Etudes, Op.60: No.11](https://open.spotify.com/track/7j6tdf8xay7pOTZ4CMbGnd) | [Paco Hallak](https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm), [Matteo Carcassi](https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU) | [Carcassi Etudes, Op.60: No.11](https://open.spotify.com/album/2fojmBSRlNWJJmfVAgp41K) | 0:52 | 2022-09-17 | 2022-10-08 |
 | [Carretera Libertad](https://open.spotify.com/track/0dhVo1Lo1eJT6cOE0AEKWi) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu), [Luis Villegas](https://open.spotify.com/artist/4h5NL4qMX8cHrfbUT1j99U) | [Camino Latino](https://open.spotify.com/album/6SabvwpHfzkgzkPwqUb0Wy) | 3:38 | 2022-03-03 | 2023-12-15 |

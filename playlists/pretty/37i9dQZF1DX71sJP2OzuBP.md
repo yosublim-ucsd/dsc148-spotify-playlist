@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,106 likes - 110 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,116 likes - 110 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 87 | [草莓與香檳](https://open.spotify.com/track/5BzW7L0GX3eYjzoetK6Vkl) | [林怡廷](https://open.spotify.com/artist/70v64Bh530iEObGGBfSELW) | [草莓與香檳](https://open.spotify.com/album/7DVRfvctqSRYdGAaD4ugVd) | 3:10 |
 | 88 | [琉璃](https://open.spotify.com/track/7q9y6ztjH14w9uAM55H3Wx) | [BB](https://open.spotify.com/artist/078ndxm0vh1xy9GXDS0hcr), [LilHAO](https://open.spotify.com/artist/0y3FF9xvdl3NRBarIURTZ5) | [琉璃](https://open.spotify.com/album/199wQyQYcr1v4PR5EIaZiB) | 3:10 |
 | 89 | [想要一張新的桌子](https://open.spotify.com/track/61dz9Oe2eKKPSLY4GLxCLF) | [淞雅 Salut Sonia](https://open.spotify.com/artist/6xJvoQFDNEP2Q4Bqcz39DE) | [想要一張新的桌子](https://open.spotify.com/album/3OaXRv8M9qtReMRCs603cL) | 4:43 |
-| 90 | [日落擁抱](https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W) | [Ben Ladin](https://open.spotify.com/artist/12kEQTCYPhSoW54jJ0Pngm) | [日落擁抱](https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp) | 3:16 |
+| 90 | [日落擁抱](https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [日落擁抱](https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp) | 3:16 |
 | 91 | [太多鱼](https://open.spotify.com/track/6DRc1aCxnsN2VWKG6CRNIx) | [赵乃吉](https://open.spotify.com/artist/3f4WIRKQFOQoKisLVwepp0) | [太多鱼](https://open.spotify.com/album/5a94oGYZM92QbvRJ7J3tZk) | 3:48 |
 | 92 | [坠在原点的我](https://open.spotify.com/track/6Q7IbvSRN9kYK1BCftVv3D) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [坠在原点的我](https://open.spotify.com/album/2FKuMP8oMcAQV2fRvF6i8u) | 4:15 |
 | 93 | [沉溺循環](https://open.spotify.com/track/1PFGnIPA0limITO5o17flu) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [我怪](https://open.spotify.com/album/7pQszJDIG9JWMldPOeRoSt) | 4:17 |

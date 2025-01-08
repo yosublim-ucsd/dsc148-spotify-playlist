@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Men I Trust",
-  "num_followers": 1120009,
+  "num_followers": 1120101,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 214504,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 202248,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 214504,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "Untitled '91",
-        "url": "https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu"
-      },
-      "artists": [
-        {
-          "name": "Hector Gachan",
-          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
-        }
-      ],
-      "duration_ms": 87966,
-      "name": "Flook",
-      "url": "https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
         "name": "Prune, You Talk Funny",
         "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 212701,
       "name": "Prune, You Talk Funny",
       "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
+        "name": "Untitled '91",
+        "url": "https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu"
+      },
+      "artists": [
+        {
+          "name": "Hector Gachan",
+          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
+        }
+      ],
+      "duration_ms": 87966,
+      "name": "Flook",
+      "url": "https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
-      },
-      "artists": [
-        {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
-        }
-      ],
-      "duration_ms": 193478,
-      "name": "July",
-      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
         "name": "Blue Sea",
         "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "Superfan",
-        "url": "https://open.spotify.com/album/3dHWsC1UPlK52bUS4sVlKV"
+        "name": "July",
+        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
         }
       ],
-      "duration_ms": 268801,
-      "name": "Superfan",
-      "url": "https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci"
+      "duration_ms": 193478,
+      "name": "July",
+      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -1179,6 +1163,22 @@
       "duration_ms": 138714,
       "name": "moviestar",
       "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
+        "name": "Superfan",
+        "url": "https://open.spotify.com/album/3dHWsC1UPlK52bUS4sVlKV"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 268801,
+      "name": "Superfan",
+      "url": "https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
         "name": "honey",
         "url": "https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "best day ever",
-        "url": "https://open.spotify.com/album/6TMVATY5T9p1vFTrvYVvas"
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA"
       },
       "artists": [
         {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A"
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
         }
       ],
-      "duration_ms": 209250,
-      "name": "best day ever",
-      "url": "https://open.spotify.com/track/1dDxFfGse3z7OuWSM6ApL8"
+      "duration_ms": 177777,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -1439,6 +1423,22 @@
       "duration_ms": 114853,
       "name": "Dogfish",
       "url": "https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
+        "name": "best day ever",
+        "url": "https://open.spotify.com/album/6TMVATY5T9p1vFTrvYVvas"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A"
+        }
+      ],
+      "duration_ms": 209250,
+      "name": "best day ever",
+      "url": "https://open.spotify.com/track/1dDxFfGse3z7OuWSM6ApL8"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "Moonlight/Rare",
-        "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
         "name": "Off and On",
         "url": "https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
+        "name": "Moonlight/Rare",
+        "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
         "name": "c u never",
         "url": "https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A"
       },
@@ -1591,26 +1591,6 @@
       "duration_ms": 175806,
       "name": "c u never",
       "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
-    },
-    {
-      "added_at": "2024-12-12 17:44:29",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD"
-      },
-      "artists": [
-        {
-          "name": "Sonia Gadhia",
-          "url": "https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB"
-        },
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 174379,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA"
     },
     {
       "added_at": "2024-12-12 17:44:29",
@@ -1635,18 +1615,38 @@
     {
       "added_at": "2024-12-12 17:44:29",
       "album": {
-        "name": "Little One",
-        "url": "https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/0T0wt8HN43bWa4fkBcoLHD"
       },
       "artists": [
         {
-          "name": "Surely Shirley",
-          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+          "name": "Sonia Gadhia",
+          "url": "https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB"
+        },
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 217194,
-      "name": "Little One",
-      "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
+      "duration_ms": 174379,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/0p1KjT88fOshVrM0sFVDhA"
+    },
+    {
+      "added_at": "2024-12-12 17:44:29",
+      "album": {
+        "name": "NIGHTTIME",
+        "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 147783,
+      "name": "NIGHTTIME",
+      "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
     }
   ],
   "unique_name": "Bedroom Pop",

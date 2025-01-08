@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 220256,
+  "num_followers": 220377,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/09OpntwPHuNICsyEt1ETpE"
     },
     {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "I'm Your Man",
-        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 334866,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
-    },
-    {
       "added_at": "2024-04-16 00:45:21",
       "album": {
         "name": "Treasure",
@@ -779,6 +763,22 @@
       "duration_ms": 223266,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "I'm Your Man",
+        "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 334866,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -877,20 +877,20 @@
       "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
     },
     {
-      "added_at": "2021-09-28 03:14:02",
+      "added_at": "2024-04-16 00:45:21",
       "album": {
-        "name": "Sugar Tax",
-        "url": "https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg"
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
       "artists": [
         {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Sailing On The Seven Seas",
-      "url": "https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp"
+      "duration_ms": 335306,
+      "name": "Pandora (for Cindy)",
+      "url": "https://open.spotify.com/track/2Vqi1Si1dQjMtAZ79UreqL"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -909,20 +909,20 @@
       "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
     },
     {
-      "added_at": "2024-04-16 00:45:21",
+      "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
+        "name": "Sugar Tax",
+        "url": "https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
         }
       ],
-      "duration_ms": 335306,
-      "name": "Pandora (for Cindy)",
-      "url": "https://open.spotify.com/track/2Vqi1Si1dQjMtAZ79UreqL"
+      "duration_ms": 225826,
+      "name": "Sailing On The Seven Seas",
+      "url": "https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -987,6 +987,22 @@
       "duration_ms": 184093,
       "name": "Brass in Pocket",
       "url": "https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P"
+    },
+    {
+      "added_at": "2024-04-16 00:45:21",
+      "album": {
+        "name": "The Pink Opaque",
+        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Pearly-Dewdrops' Drops - 7\" Version",
+      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1063,8 +1079,8 @@
     {
       "added_at": "2024-04-16 00:45:21",
       "album": {
-        "name": "The Pink Opaque",
-        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9"
       },
       "artists": [
         {
@@ -1072,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 250800,
-      "name": "Pearly-Dewdrops' Drops - 7\" Version",
-      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
+      "duration_ms": 221466,
+      "name": "Sugar Hiccup",
+      "url": "https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
-      "url": "https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "90125 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 253800,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+      "url": "https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1173,6 +1189,22 @@
       "url": "https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7"
     },
     {
+      "added_at": "2024-04-16 00:45:21",
+      "album": {
+        "name": "Garlands",
+        "url": "https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Wax And Wane",
+      "url": "https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH"
+    },
+    {
       "added_at": "2024-07-12 13:30:25",
       "album": {
         "name": "Greatest Hits",
@@ -1195,38 +1227,6 @@
       "duration_ms": 255706,
       "name": "When Tomorrow Comes",
       "url": "https://open.spotify.com/track/6UmFGunWzNoe7gSS3JW90v"
-    },
-    {
-      "added_at": "2024-04-16 00:45:21",
-      "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Sugar Hiccup",
-      "url": "https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Ancient Heart",
-        "url": "https://open.spotify.com/album/7E54UsiVFMQuIAG9t5UOL4"
-      },
-      "artists": [
-        {
-          "name": "Tanita Tikaram",
-          "url": "https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8"
-        }
-      ],
-      "duration_ms": 292080,
-      "name": "Twist in My Sobriety",
-      "url": "https://open.spotify.com/track/651In9fY9BregQWY0cF7l2"
     }
   ],
   "unique_name": "Oscuros 80",

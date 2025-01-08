@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-367 songs - 16 hr 36 min
+368 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Keirin](https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp) | [Paris Little](https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl) | [Keirin](https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw) | 3:06 | 2022-05-13 | 2023-09-01 |
 | [Kite](https://open.spotify.com/track/2m4SUJunHatkZtI51ba3f5) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Kite](https://open.spotify.com/album/4ggfPdW3RSf4eCDzL6EfGQ) | 2:28 | 2024-05-24 |  |
 | [L'heure de l'harmonie](https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [L'heure de l'harmonie](https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc) | 2:19 | 2022-05-13 | 2024-04-20 |
+| [Labyrinth](https://open.spotify.com/track/6D1rwuCaxBMaKNkRCKYkdN) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Labyrinth](https://open.spotify.com/album/1SDeeKR6wSSuPlqvTPAigX) | 2:12 | 2025-01-07 |  |
 | [Lake Como](https://open.spotify.com/track/2R9ykhDMzrzHsS6Btwtnjv) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Lake Como](https://open.spotify.com/album/5ia5Ug2k521GycvqAyEM1C) | 2:12 | 2022-05-27 | 2024-05-10 |
 | [Lakeside](https://open.spotify.com/track/2Igh5u0Gj6TtitvFY2eRhB) | [Kit Degas](https://open.spotify.com/artist/4JnwupXUsT1x9UZHN6v4Ri) | [Lakeside](https://open.spotify.com/album/6Mw4gVTRoLSiY964SJDYR6) | 2:05 | 2022-05-13 | 2024-04-20 |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-04-28 | 2023-10-13 |

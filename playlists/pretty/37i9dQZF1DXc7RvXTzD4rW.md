@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan\. Cover:Miho Okasaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,980 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,986 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [絆創膏](https://open.spotify.com/track/3ct9qVfFddPNrnPH0woecU) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [絆創膏](https://open.spotify.com/album/7ePL3Prq6zJf9o0gwGuE6c) | 3:49 |
+| 1 | [JOY!!](https://open.spotify.com/track/5jc5lzeYJHXX9QEzh3IHza) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [JOY!!](https://open.spotify.com/album/3t79dOxTADtvd5le5TmuDq) | 3:21 |
 | 2 | [キュンアピ](https://open.spotify.com/track/3o4d1ZmMrFd70D81C5urd6) | [前田佳織里](https://open.spotify.com/artist/5ooX6UO1AbsI7EdnrRhUjh) | [キュンアピ](https://open.spotify.com/album/6IwphPxiqsirHGSk0dpjib) | 3:57 |
 | 3 | [最上級の心](https://open.spotify.com/track/19UYUXybd8cTCLajV4D2Lt) | [Nonoka Obuchi](https://open.spotify.com/artist/3wjWAGHn9Y5dY0JWlsbJz1) | [最上級の心](https://open.spotify.com/album/39vBNEp1AGhmlfelKiaZBV) | 3:08 |
 | 4 | [青空のラプソディ \- from CrosSing](https://open.spotify.com/track/2fyH8F0yo8PkZ8yHyVjJfy) | [髙橋 ミナミ](https://open.spotify.com/artist/4MkBd1szO83sKICDexbrRx) | [青空のラプソディ \- from CrosSing](https://open.spotify.com/album/63lpysaHL5ngDLGP9Xi4F6) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [魔王](https://open.spotify.com/track/0rjbcMXHQI8n12xODXZc1j) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [魔王](https://open.spotify.com/album/1nvflDKBkfGXjhlrQGjqaB) | 3:50 |
 | 50 | [ユートピア学概論](https://open.spotify.com/track/1NSwPqLMi2m7DwdnNCoKQW) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [ユートピア学概論](https://open.spotify.com/album/3bUxJjNIf7m3uy9O7pxKEu) | 4:07 |
 
-Snapshot ID: `Z3yM8gAAAACRrfuG82VOS3CR0Or6aUZX`
+Snapshot ID: `Z31BmgAAAABajFasPFzbHiYhEfvk8sl4`

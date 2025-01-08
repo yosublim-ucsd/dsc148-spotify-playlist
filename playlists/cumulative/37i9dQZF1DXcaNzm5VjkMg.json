@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 259000,
       "name": "Akan Selalu",
       "url": "https://open.spotify.com/track/1sXiPUDUd3SmTzyRtWbwdB"
@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Bila Memang Kamu",
+        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
+      },
+      "artists": [
+        {
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Bila Memang Kamu",
+      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
+    },
+    {
+      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
@@ -1112,7 +1130,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 279344,
       "name": "Janji Kita",
       "url": "https://open.spotify.com/track/0GDxF5uQIqaKhc7qTDlqXZ"
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 275742,
       "name": "Sampai Kita Tua",
       "url": "https://open.spotify.com/track/2jeKof7HImnaGEmDrWP8NK"
@@ -2668,6 +2686,24 @@
       "duration_ms": 342000,
       "name": "Untuk Perempuan Yang Sedang Di Pelukan",
       "url": "https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8"
+    },
+    {
+      "album": {
+        "name": "VITAMIN U",
+        "url": "https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238303,
+      "name": "VITAMIN U",
+      "url": "https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ"
     },
     {
       "album": {

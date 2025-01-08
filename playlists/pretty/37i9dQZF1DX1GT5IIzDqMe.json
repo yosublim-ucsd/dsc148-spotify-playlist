@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 95671,
+  "num_followers": 95697,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Into The Groove",
-        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
+        "name": "Clocks / Low Life / Go",
+        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
       },
       "artists": [
         {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
-        },
-        {
-          "name": "Abe Duque",
-          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
         }
       ],
-      "duration_ms": 396190,
-      "name": "Into The Groove - Extended Mix",
-      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
+      "duration_ms": 334959,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -319,18 +315,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Clocks / Low Life / Go",
-        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
+        "name": "Into The Groove",
+        "url": "https://open.spotify.com/album/7IQCupztgZD0CkAp0ohAHf"
       },
       "artists": [
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+        },
+        {
+          "name": "Abe Duque",
+          "url": "https://open.spotify.com/artist/1vT97kA0pAS6X4gyB7FIGp"
         }
       ],
-      "duration_ms": 334959,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
+      "duration_ms": 396190,
+      "name": "Into The Groove - Extended Mix",
+      "url": "https://open.spotify.com/track/6zTgrvY5YaGFvs8RrQDK3V"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Best of Techno (Compilation Tracks)",
         "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
       },
@@ -423,26 +439,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
-        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
-      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Pennies From Heaven (Remastered)",
         "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
       },
@@ -459,46 +455,6 @@
       "duration_ms": 198159,
       "name": "Pennies From Heaven (Remastered)",
       "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
-        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        },
-        {
-          "name": "Virus J",
-          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
-        }
-      ],
-      "duration_ms": 190947,
-      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
-      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -527,18 +483,46 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Right There / Holy Ghost",
-        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
+        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
+        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
       "artists": [
         {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Virus J",
+          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
         }
       ],
-      "duration_ms": 177885,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
+      "duration_ms": 190947,
+      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
+      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
+        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 252720,
+      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
+      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -559,6 +543,22 @@
       "duration_ms": 312894,
       "name": "Just Want Another Chance - Original Mix",
       "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Right There / Holy Ghost",
+        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 177885,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "The Curse Breaker / What You Need",
-        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "The Curse Breaker",
-      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "On A Journey",
         "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 271464,
       "name": "On A Journey",
       "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Toxin 12 EP",
+        "url": "https://open.spotify.com/album/5ICOF0NF0GCiYiHt1CwTVA"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 337573,
+      "name": "H-Formula",
+      "url": "https://open.spotify.com/track/64WEVaevCr6q4JR0pRsQC4"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "The Curse Breaker / What You Need",
+        "url": "https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "The Curse Breaker",
+      "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Tronic D",
         "url": "https://open.spotify.com/album/5cPdg1ikgGzGbaqYU5MFBe"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 467520,
       "name": "A Cocktail or Two",
       "url": "https://open.spotify.com/track/5A5Y2BrzLzZ5NIZp4nze0z"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Toxin 12 EP",
-        "url": "https://open.spotify.com/album/5ICOF0NF0GCiYiHt1CwTVA"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 337573,
-      "name": "H-Formula",
-      "url": "https://open.spotify.com/track/64WEVaevCr6q4JR0pRsQC4"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Sounds",
-        "url": "https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V"
+        "name": "Innovator",
+        "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
       },
       "artists": [
         {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
         }
       ],
-      "duration_ms": 273832,
-      "name": "Make Me Laugh",
-      "url": "https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA"
+      "duration_ms": 362946,
+      "name": "Strings Of Life",
+      "url": "https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Innovator",
-        "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
+        "name": "Sounds",
+        "url": "https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V"
       },
       "artists": [
         {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 362946,
-      "name": "Strings Of Life",
-      "url": "https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc"
+      "duration_ms": 273832,
+      "name": "Make Me Laugh",
+      "url": "https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
-        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 439929,
-      "name": "Never Grow Old - Re-Plant",
-      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 341106,
       "name": "Tedra",
       "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Never Grow Old (Re-Plant) / Phobia (Re-Plant)",
+        "url": "https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 439929,
+      "name": "Never Grow Old - Re-Plant",
+      "url": "https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR"
     },
     {
       "added_at": "2023-10-26 20:41:14",

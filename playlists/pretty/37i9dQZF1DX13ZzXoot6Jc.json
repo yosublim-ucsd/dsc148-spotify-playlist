@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Thomas Rhett",
-  "num_followers": 452528,
+  "num_followers": 452501,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-12-20 05:00:23",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": "2024-12-20 05:00:23",
+      "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 200893,
       "name": "ghost in my guitar (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG"
-    },
-    {
-      "added_at": "2024-12-20 05:00:23",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "What Am I Gonna Do",
-      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
     },
     {
       "added_at": "2024-12-20 05:00:23",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-12-20 05:00:23",
       "album": {
-        "name": "hummingbird",
-        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 188039,
-      "name": "truck on fire",
-      "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
-    },
-    {
-      "added_at": "2024-12-20 05:00:23",
-      "album": {
         "name": "To Be A Man (feat. Darius Rucker)",
         "url": "https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
+    },
+    {
+      "added_at": "2024-12-20 05:00:23",
+      "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 188039,
+      "name": "truck on fire",
+      "url": "https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T"
     },
     {
       "added_at": "2024-12-20 05:00:23",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-12-20 05:00:23",
       "album": {
-        "name": "STRAIGHT LINE",
-        "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "STRAIGHT LINE",
-      "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
-    },
-    {
-      "added_at": "2024-12-20 05:00:23",
-      "album": {
         "name": "Two Of Us",
         "url": "https://open.spotify.com/album/67CYhfUWA7AuKQwFqfw2ac"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 194800,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/0XjVqPBriEaw2aDQixHSi1"
+    },
+    {
+      "added_at": "2024-12-20 05:00:23",
+      "album": {
+        "name": "STRAIGHT LINE",
+        "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "STRAIGHT LINE",
+      "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
     },
     {
       "added_at": "2024-12-20 05:00:23",

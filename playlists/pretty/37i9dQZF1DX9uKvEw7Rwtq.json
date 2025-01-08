@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 108826,
+  "num_followers": 108883,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-11-27 15:02:39",
       "album": {
-        "name": "Into The Mountains",
-        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
-      },
-      "artists": [
-        {
-          "name": "Dan Caine",
-          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
-        }
-      ],
-      "duration_ms": 203012,
-      "name": "The Sun In The Trees",
-      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
-    },
-    {
-      "added_at": "2024-11-27 15:02:39",
-      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 347636,
       "name": "Passage",
       "url": "https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm"
+    },
+    {
+      "added_at": "2024-11-27 15:02:39",
+      "album": {
+        "name": "Into The Mountains",
+        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
+      },
+      "artists": [
+        {
+          "name": "Dan Caine",
+          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
+        }
+      ],
+      "duration_ms": 203012,
+      "name": "The Sun In The Trees",
+      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
     },
     {
       "added_at": "2024-11-27 15:02:39",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-11-27 15:02:39",
       "album": {
-        "name": "Sacrifice & Isolation",
-        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
-      },
-      "artists": [
-        {
-          "name": "Collapse Under The Empire",
-          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
-        }
-      ],
-      "duration_ms": 311555,
-      "name": "What the Heart Craves For",
-      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
-    },
-    {
-      "added_at": "2024-11-27 15:02:39",
-      "album": {
         "name": "Random Forest",
         "url": "https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 327720,
       "name": "Shadows Fall",
       "url": "https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm"
+    },
+    {
+      "added_at": "2024-11-27 15:02:39",
+      "album": {
+        "name": "Sacrifice & Isolation",
+        "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
+      },
+      "artists": [
+        {
+          "name": "Collapse Under The Empire",
+          "url": "https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY"
+        }
+      ],
+      "duration_ms": 311555,
+      "name": "What the Heart Craves For",
+      "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
     },
     {
       "added_at": "2024-11-27 15:02:39",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-11-27 15:02:39",
       "album": {
+        "name": "Feeling Everything but Lost",
+        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
+      },
+      "artists": [
+        {
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
+        }
+      ],
+      "duration_ms": 295104,
+      "name": "Feeling Everything but Lost",
+      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
+    },
+    {
+      "added_at": "2024-11-27 15:02:39",
+      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2024-11-27 15:02:39",
       "album": {
-        "name": "Feeling Everything but Lost",
-        "url": "https://open.spotify.com/album/44TCjQ57NmQQD5BAkT6lqG"
-      },
-      "artists": [
-        {
-          "name": "Andrew Prahlow",
-          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
-        }
-      ],
-      "duration_ms": 295104,
-      "name": "Feeling Everything but Lost",
-      "url": "https://open.spotify.com/track/5OY253uETDSe8456oYvkS3"
-    },
-    {
-      "added_at": "2024-11-27 15:02:39",
-      "album": {
         "name": "Love in the Void",
         "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 209115,
       "name": "Release",
       "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
-    },
-    {
-      "added_at": "2024-11-27 15:02:39",
-      "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
-      },
-      "artists": [
-        {
-          "name": "Bossk",
-          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "White Stork",
-      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
     },
     {
       "added_at": "2024-11-27 15:02:39",
@@ -595,6 +579,22 @@
       "duration_ms": 385000,
       "name": "Looking at the World Through a Window",
       "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
+    },
+    {
+      "added_at": "2024-11-27 15:02:39",
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
+      },
+      "artists": [
+        {
+          "name": "Bossk",
+          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "White Stork",
+      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
     },
     {
       "added_at": "2024-11-27 15:02:39",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-11-27 15:02:39",
       "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
-    },
-    {
-      "added_at": "2024-11-27 15:02:39",
-      "album": {
         "name": "Keep The Orange Sun",
         "url": "https://open.spotify.com/album/6MLLMv5uFphvY2eXVEHB4X"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 254000,
       "name": "Keep The Orange Sun",
       "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
+    },
+    {
+      "added_at": "2024-11-27 15:02:39",
+      "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2024-11-27 15:02:39",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-11-27 15:02:39",
       "album": {
-        "name": "The Blurred Horizon",
-        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
-      },
-      "artists": [
-        {
-          "name": "Tuesday The Sky",
-          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "The Blurred Horizon",
-      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
-    },
-    {
-      "added_at": "2024-11-27 15:02:39",
-      "album": {
         "name": "Hy-Brasil",
         "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 235213,
       "name": "Abell 1835",
       "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
+    },
+    {
+      "added_at": "2024-11-27 15:02:39",
+      "album": {
+        "name": "The Blurred Horizon",
+        "url": "https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi"
+      },
+      "artists": [
+        {
+          "name": "Tuesday The Sky",
+          "url": "https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "The Blurred Horizon",
+      "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
     },
     {
       "added_at": "2024-11-27 15:02:39",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-11-27 15:02:39",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
-    },
-    {
-      "added_at": "2024-11-27 15:02:39",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 439449,
       "name": "Cura",
       "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
+    },
+    {
+      "added_at": "2024-11-27 15:02:39",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
     },
     {
       "added_at": "2024-11-27 15:02:39",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-11-27 15:02:39",
       "album": {
-        "name": "No Clearings, No Wide Open Fields",
-        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
-      },
-      "artists": [
-        {
-          "name": "Floor Overhead",
-          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
-        }
-      ],
-      "duration_ms": 367717,
-      "name": "No Clearings, No Wide Open Fields",
-      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
-    },
-    {
-      "added_at": "2024-11-27 15:02:39",
-      "album": {
         "name": "Massive",
         "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 240461,
       "name": "Massive",
       "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
+    },
+    {
+      "added_at": "2024-11-27 15:02:39",
+      "album": {
+        "name": "No Clearings, No Wide Open Fields",
+        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+      },
+      "artists": [
+        {
+          "name": "Floor Overhead",
+          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+        }
+      ],
+      "duration_ms": 367717,
+      "name": "No Clearings, No Wide Open Fields",
+      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
     },
     {
       "added_at": "2024-11-27 15:02:39",

@@ -2231,6 +2231,32 @@
     },
     {
       "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
+        },
+        {
+          "name": "Tiffany Boone",
+          "url": "https://open.spotify.com/artist/0Fiux5J8PsM7hSFScc3qiz"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147080,
+      "name": "Tell Me It's You",
+      "url": "https://open.spotify.com/track/2AdSN6utb6kfgmgas1g6az"
+    },
+    {
+      "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
       },

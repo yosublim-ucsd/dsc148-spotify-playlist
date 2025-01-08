@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: <br/>가오가이 \(kaogaii\), 키츠요지 \(kitsyojii\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,063 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,028 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

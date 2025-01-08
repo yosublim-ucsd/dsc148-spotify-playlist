@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: ONE OK ROCK
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\.  Cover: Ado
 
-1,432 songs - 3 day 17 hr 1 min
+1,433 songs - 3 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [D.U.N.K.](https://open.spotify.com/track/2BfdSKHBrKLwwOe9bp8q5z) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [D.U.N.K.](https://open.spotify.com/album/4Bhrbt1F8fbtn1DiFBpn5q) | 3:37 | 2023-02-05 | 2023-02-20 |
 | [DALMATIAN](https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DALMATIAN](https://open.spotify.com/album/736N8pHiehLrYOfJMSshMZ) | 4:05 | 2024-12-31 |  |
 | [Damn!](https://open.spotify.com/track/7f8eO8Gd4FNZZemvweT31N) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Damn!](https://open.spotify.com/album/58iLEcJ5gjmwjPH4T8Ahy9) | 2:41 | 2023-03-12 | 2023-03-27 |
-| [Dang Ding Dong](https://open.spotify.com/track/2rWY7c74VbicKCKBldOdqt) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Dang Ding Dong](https://open.spotify.com/album/0nA4dFHf0P7awjGxTOLc6L) | 3:02 | 2024-12-24 |  |
+| [Dang Ding Dong](https://open.spotify.com/track/2rWY7c74VbicKCKBldOdqt) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Dang Ding Dong](https://open.spotify.com/album/0nA4dFHf0P7awjGxTOLc6L) | 3:02 | 2024-12-24 | 2025-01-08 |
 | [DAWN \(feat\. Aile The Shota\)](https://open.spotify.com/track/3LjyZPsPe9CA0DL9CS726A) | [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [DAWN \(feat\. Aile The Shota\)](https://open.spotify.com/album/28zuCoJ3HrQdD7plQcErXx) | 3:04 | 2023-04-09 | 2023-04-24 |
 | [DAY feat\. PUNPEE](https://open.spotify.com/track/2SnYJgNCLeLmYqLBDn4PVx) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [DAY feat\. PUNPEE](https://open.spotify.com/album/6m4Ju35ORC4APD8X9bQREC) | 3:46 | 2023-08-13 | 2023-08-28 |
 | [daylight](https://open.spotify.com/track/1ZLhrGdOM1UXRZFFK1U1Mf) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [daylight](https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA) | 4:03 | 2022-12-04 | 2023-01-02 |
@@ -1312,6 +1312,7 @@
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-21 | 2023-05-26 |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-06-05 | 2022-07-11 |
 | [無限さ](https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [無限さ](https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ) | 4:01 | 2023-10-22 | 2023-11-06 |
+| [然らば](https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [然らば](https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08) | 3:57 | 2025-01-07 |  |
 | [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-10 | 2022-07-25 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-09 | 2023-12-25 |
 | [燦燦](https://open.spotify.com/track/6mZ7dxpueWQiASJpUKnAk0) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [燦燦](https://open.spotify.com/album/4AhCQBmuBv9GMJr02Ljkdr) | 4:24 | 2022-04-17 | 2022-05-16 |

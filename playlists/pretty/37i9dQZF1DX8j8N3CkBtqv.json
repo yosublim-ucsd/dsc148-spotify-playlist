@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana! Cover - W.i.S.H",
-  "num_followers": 73208,
+  "num_followers": 73217,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Supposed To Be",
-        "url": "https://open.spotify.com/album/3ulhL2KKIBzSDBizHJmJiO"
-      },
-      "artists": [
-        {
-          "name": "ISHAN",
-          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
-        },
-        {
-          "name": "Keshav Tyohar",
-          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
-        }
-      ],
-      "duration_ms": 187589,
-      "name": "Supposed To Be",
-      "url": "https://open.spotify.com/track/796aAkkYSInz43RBF53i39"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0zJUOFRDDBOW0tICSXkmFQ"
       },
@@ -379,22 +359,22 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Taaley",
-        "url": "https://open.spotify.com/album/0psikiLw7Yr7cks3uImtEs"
+        "name": "Supposed To Be",
+        "url": "https://open.spotify.com/album/3ulhL2KKIBzSDBizHJmJiO"
       },
       "artists": [
         {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+          "name": "ISHAN",
+          "url": "https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm"
         },
         {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+          "name": "Keshav Tyohar",
+          "url": "https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Taaley",
-      "url": "https://open.spotify.com/track/60hLo4SHBK4X74nOl8p2M8"
+      "duration_ms": 187589,
+      "name": "Supposed To Be",
+      "url": "https://open.spotify.com/track/796aAkkYSInz43RBF53i39"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -419,6 +399,26 @@
       "duration_ms": 216545,
       "name": "Jaan E Jaan",
       "url": "https://open.spotify.com/track/5T1lhVwu273W2Zx8jULALU"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Taaley",
+        "url": "https://open.spotify.com/album/0psikiLw7Yr7cks3uImtEs"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Taaley",
+      "url": "https://open.spotify.com/track/60hLo4SHBK4X74nOl8p2M8"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Uff",
-        "url": "https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih"
-      },
-      "artists": [
-        {
-          "name": "Osho Jain",
-          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
-        }
-      ],
-      "duration_ms": 176167,
-      "name": "Uff",
-      "url": "https://open.spotify.com/track/7rF3cZERZvYoPG7fRfBJ66"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "Mere Ho Tum",
         "url": "https://open.spotify.com/album/7riVtJbtVcXkZkHSHi5mIW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 213999,
       "name": "Miley Ho Jabse Tum",
       "url": "https://open.spotify.com/track/5ntKA7jOftFX3P4DMsMSmM"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Uff",
+        "url": "https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        }
+      ],
+      "duration_ms": 176167,
+      "name": "Uff",
+      "url": "https://open.spotify.com/track/7rF3cZERZvYoPG7fRfBJ66"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
+        "name": "OK OK",
+        "url": "https://open.spotify.com/album/42fzffNNEa541vAI61KFSA"
+      },
+      "artists": [
+        {
+          "name": "citimall",
+          "url": "https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU"
+        }
+      ],
+      "duration_ms": 232511,
+      "name": "OK OK",
+      "url": "https://open.spotify.com/track/6nIltvsyOnT9wBLoC5XdWM"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
         "name": "Sandook",
         "url": "https://open.spotify.com/album/1PRh7blZxOcmG7LSgHQ2I1"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "OK OK",
-        "url": "https://open.spotify.com/album/42fzffNNEa541vAI61KFSA"
-      },
-      "artists": [
-        {
-          "name": "citimall",
-          "url": "https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU"
-        }
-      ],
-      "duration_ms": 232511,
-      "name": "OK OK",
-      "url": "https://open.spotify.com/track/6nIltvsyOnT9wBLoC5XdWM"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "Daayre",
         "url": "https://open.spotify.com/album/6LgM6XY041WDIP0LixD4OY"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 200384,
       "name": "Daayre",
       "url": "https://open.spotify.com/track/2g3MhKjVZUpKoTxSYZTNSo"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
-        "name": "Suljhey",
-        "url": "https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF"
-      },
-      "artists": [
-        {
-          "name": "Shubham Srivastava",
-          "url": "https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc"
-        }
-      ],
-      "duration_ms": 197663,
-      "name": "Suljhey",
-      "url": "https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -835,6 +819,22 @@
       "duration_ms": 180744,
       "name": "Zindagi Kharab",
       "url": "https://open.spotify.com/track/3NwMH4616tYCujH7O4f3tk"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Suljhey",
+        "url": "https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF"
+      },
+      "artists": [
+        {
+          "name": "Shubham Srivastava",
+          "url": "https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc"
+        }
+      ],
+      "duration_ms": 197663,
+      "name": "Suljhey",
+      "url": "https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
+        "name": "All That Remains",
+        "url": "https://open.spotify.com/album/6B0P5MbffI6qFzIuKc0urA"
+      },
+      "artists": [
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4ZoDfDKqRGsNf4KmwhEpqi"
+        },
+        {
+          "name": "Archit Haritash",
+          "url": "https://open.spotify.com/artist/2J3ekIcsSd7FGpdwa9oLFo"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Judaiyaan",
+      "url": "https://open.spotify.com/track/0v4Mhi0uJxih8p8sTtXTg4"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
         "name": "Kayee Dafaa",
         "url": "https://open.spotify.com/album/3YVtVt8dLDwla8wloHgUGi"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "All That Remains",
-        "url": "https://open.spotify.com/album/6B0P5MbffI6qFzIuKc0urA"
-      },
-      "artists": [
-        {
-          "name": "Stanley",
-          "url": "https://open.spotify.com/artist/4ZoDfDKqRGsNf4KmwhEpqi"
-        },
-        {
-          "name": "Archit Haritash",
-          "url": "https://open.spotify.com/artist/2J3ekIcsSd7FGpdwa9oLFo"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "Judaiyaan",
-      "url": "https://open.spotify.com/track/0v4Mhi0uJxih8p8sTtXTg4"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "Bhayankar Piya",
         "url": "https://open.spotify.com/album/5gFeEp2uQBqpUULYNW9GSO"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Kho Jaun",
-        "url": "https://open.spotify.com/album/6H9IuvaOYAoxBPykDz7WHJ"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Kho Jaun",
-      "url": "https://open.spotify.com/track/2mJKQI674JrUbK7IyrWtXV"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "Fanaa",
         "url": "https://open.spotify.com/album/200SvOTUZmQiqNy3sJBLAP"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Laajawaab",
-        "url": "https://open.spotify.com/album/0ygPSooD4DA84KQ0cMdq3h"
+        "name": "Kho Jaun",
+        "url": "https://open.spotify.com/album/6H9IuvaOYAoxBPykDz7WHJ"
       },
       "artists": [
         {
-          "name": "Anand Bhaskar Collective",
-          "url": "https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c"
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
         }
       ],
-      "duration_ms": 213024,
-      "name": "Laajawaab",
-      "url": "https://open.spotify.com/track/2V90ZHV7HNl43uhoQmxVbQ"
+      "duration_ms": 180000,
+      "name": "Kho Jaun",
+      "url": "https://open.spotify.com/track/2mJKQI674JrUbK7IyrWtXV"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -1107,6 +1091,22 @@
       "duration_ms": 211764,
       "name": "Ek Aur Nadiya",
       "url": "https://open.spotify.com/track/1f22h4QWIhU9SjEaxkxj1q"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Laajawaab",
+        "url": "https://open.spotify.com/album/0ygPSooD4DA84KQ0cMdq3h"
+      },
+      "artists": [
+        {
+          "name": "Anand Bhaskar Collective",
+          "url": "https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Laajawaab",
+      "url": "https://open.spotify.com/track/2V90ZHV7HNl43uhoQmxVbQ"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -1163,6 +1163,30 @@
       "duration_ms": 178867,
       "name": "Kaash",
       "url": "https://open.spotify.com/track/1G4XshPewCjRieTkCMn4UU"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Milna Mujhse Rozaana",
+        "url": "https://open.spotify.com/album/2kcRONpn6xCf91TctzWRnO"
+      },
+      "artists": [
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        },
+        {
+          "name": "Shubhank Chaube",
+          "url": "https://open.spotify.com/artist/0uvov1rJmPqLOrhHCEtV6p"
+        }
+      ],
+      "duration_ms": 231891,
+      "name": "Milna Mujhse Rozaana",
+      "url": "https://open.spotify.com/track/500qdD6l8KZ04wOfVSKLod"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -1275,8 +1299,8 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Milna Mujhse Rozaana",
-        "url": "https://open.spotify.com/album/2kcRONpn6xCf91TctzWRnO"
+        "name": "Faasle",
+        "url": "https://open.spotify.com/album/4VuNeUPldnLv7MYO8DOh3D"
       },
       "artists": [
         {
@@ -1288,13 +1312,13 @@
           "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
         },
         {
-          "name": "Shubhank Chaube",
-          "url": "https://open.spotify.com/artist/0uvov1rJmPqLOrhHCEtV6p"
+          "name": "Aditya Kalway",
+          "url": "https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR"
         }
       ],
-      "duration_ms": 231891,
-      "name": "Milna Mujhse Rozaana",
-      "url": "https://open.spotify.com/track/500qdD6l8KZ04wOfVSKLod"
+      "duration_ms": 194318,
+      "name": "Faasle",
+      "url": "https://open.spotify.com/track/6F7oLEn3bg46mFhRZ2hy9U"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -1375,30 +1399,6 @@
     {
       "added_at": "2024-12-20 06:53:31",
       "album": {
-        "name": "Faasle",
-        "url": "https://open.spotify.com/album/4VuNeUPldnLv7MYO8DOh3D"
-      },
-      "artists": [
-        {
-          "name": "Anurag Mishra",
-          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
-        },
-        {
-          "name": "Alok Ranjan Srivastava",
-          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
-        },
-        {
-          "name": "Aditya Kalway",
-          "url": "https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR"
-        }
-      ],
-      "duration_ms": 194318,
-      "name": "Faasle",
-      "url": "https://open.spotify.com/track/6F7oLEn3bg46mFhRZ2hy9U"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
         "name": "naseeb (mila hai tu)",
         "url": "https://open.spotify.com/album/5oEpUOVPbvHRlZTWd1Fj8W"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 181318,
       "name": "Laage Re",
       "url": "https://open.spotify.com/track/0xVIhYZR0407dviqiPIUk6"
-    },
-    {
-      "added_at": "2024-12-20 06:53:31",
-      "album": {
-        "name": "Jawaab Kya Hai",
-        "url": "https://open.spotify.com/album/6mox9Wjz02Qb5SQXFyYBR9"
-      },
-      "artists": [
-        {
-          "name": "Himanshu Hansraj",
-          "url": "https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi"
-        }
-      ],
-      "duration_ms": 237804,
-      "name": "Jawaab Kya Hai",
-      "url": "https://open.spotify.com/track/5fo6VRiygJPlcTbPt6TyFF"
     },
     {
       "added_at": "2024-12-20 06:53:31",
@@ -1491,6 +1475,22 @@
       "duration_ms": 132720,
       "name": "Haqiqat",
       "url": "https://open.spotify.com/track/6icSoD5zFGKdKmeOWeMVuR"
+    },
+    {
+      "added_at": "2024-12-20 06:53:31",
+      "album": {
+        "name": "Jawaab Kya Hai",
+        "url": "https://open.spotify.com/album/6mox9Wjz02Qb5SQXFyYBR9"
+      },
+      "artists": [
+        {
+          "name": "Himanshu Hansraj",
+          "url": "https://open.spotify.com/artist/7d15Obeo5bBqzIfOZ2ehYi"
+        }
+      ],
+      "duration_ms": 237804,
+      "name": "Jawaab Kya Hai",
+      "url": "https://open.spotify.com/track/5fo6VRiygJPlcTbPt6TyFF"
     },
     {
       "added_at": "2024-12-20 06:53:31",

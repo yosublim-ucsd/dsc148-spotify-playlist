@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Clive Road",
+        "url": "https://open.spotify.com/album/2kPK2Pr9R6v6WO2Yy8VgBw"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154024,
+      "name": "Clive Road",
+      "url": "https://open.spotify.com/track/57ZmoxcaETpnR4OrZ1SxRC"
+    },
+    {
+      "album": {
         "name": "Windflower",
         "url": "https://open.spotify.com/album/5pMpxNkROAIq7wygp4oHbl"
       },
@@ -864,6 +882,24 @@
       "duration_ms": 163411,
       "name": "comforts of my home",
       "url": "https://open.spotify.com/track/1hhQmJMdkjz2zIwGWbspLT"
+    },
+    {
+      "album": {
+        "name": "Como angel",
+        "url": "https://open.spotify.com/album/0V51ebp4dxKHeNyFtseoZO"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171966,
+      "name": "Como angel",
+      "url": "https://open.spotify.com/track/4JQhc5MAQi0NswoAy0F4vW"
     },
     {
       "album": {

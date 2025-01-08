@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 170264,
       "name": "Back",
       "url": "https://open.spotify.com/track/7LlwG3CbBVsSRUkQ3VP1fc"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 231700,
       "name": "Because They Want Our Seat",
       "url": "https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6"
@@ -1774,6 +1774,24 @@
       "duration_ms": 224864,
       "name": "Dede",
       "url": "https://open.spotify.com/track/1rYHkSLAn0kcdkpmVeHhxd"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3abZF2eaLW4F5RXP4Z6KSM"
+      },
+      "artists": [
+        {
+          "name": "Fourth Daughter",
+          "url": "https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164775,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6wDPgiKDi2miwHPh5MUOUf"
     },
     {
       "album": {
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 253314,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1rb0BqRRlfNTcjFwwSzaA6"
@@ -5747,6 +5765,24 @@
     },
     {
       "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "New Energy",
+      "url": "https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6"
+    },
+    {
+      "album": {
         "name": "New Generation",
         "url": "https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB"
       },
@@ -6230,6 +6266,24 @@
       "duration_ms": 218882,
       "name": "Play With Me",
       "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
+    },
+    {
+      "album": {
+        "name": "Resurrection (Act II)",
+        "url": "https://open.spotify.com/album/0OEOhyFtixEjfALSCiaTEv"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/0vroCXkqCGq4ioaZEax6TB"
     },
     {
       "album": {
@@ -8156,7 +8210,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 242133,
       "name": "This Summer",
       "url": "https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g"
@@ -8876,6 +8930,24 @@
       "duration_ms": 191959,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/20yID5I7qOSNLrxCAwgzHL"
+    },
+    {
+      "album": {
+        "name": "What Have You Done For Me Lately",
+        "url": "https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209644,
+      "name": "What Have You Done For Me Lately",
+      "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"
     },
     {
       "album": {

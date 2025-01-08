@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-531 songs - 22 hr 30 min
+533 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [La Mestis](https://open.spotify.com/track/0blt7mXlKmi52DXcYUKiQL) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [La Mestis](https://open.spotify.com/album/0VPJYGbYJsCCMvWujKVoj7) | 2:00 | 2022-06-17 | 2024-04-05 |
 | [La Sete D'Amore](https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq) | [Elmer Soulé](https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2) | [La Sete D'Amore](https://open.spotify.com/album/3n5FEuPpGPkDhnG4jWJb8V) | 1:34 | 2022-06-17 | 2023-09-14 |
 | [La Venue](https://open.spotify.com/track/17Z6iT4BizcR7BnqqBrzTi) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [La Venue](https://open.spotify.com/album/0eGdnNpMq1wzNMtLICDSHZ) | 1:48 | 2023-05-19 | 2023-09-08 |
+| [Labyrinth](https://open.spotify.com/track/6D1rwuCaxBMaKNkRCKYkdN) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Labyrinth](https://open.spotify.com/album/1SDeeKR6wSSuPlqvTPAigX) | 2:12 | 2025-01-07 |  |
 | [Lacrime](https://open.spotify.com/track/4kkylod0jvQnK7Ognj9OUP) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Lacrime](https://open.spotify.com/album/0xh6Z1tnwWL1H79Lapk4AG) | 1:51 | 2023-05-19 | 2023-09-14 |
 | [Lagoa do Fogo](https://open.spotify.com/track/7rYXdXdtCSLjmZzecpXkgg) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Lagoa do Fogo](https://open.spotify.com/album/09OR2Jo6jK0KxEzTpz74ww) | 2:50 | 2023-03-24 | 2023-06-23 |
 | [Laguna Colorada](https://open.spotify.com/track/3J2QDxVOOmQKalHgfU8LUx) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Laguna Colorada](https://open.spotify.com/album/04OjNl78J3in8FrCedTKun) | 2:34 | 2023-10-27 | 2024-05-10 |
@@ -258,6 +259,7 @@
 | [Lifetime](https://open.spotify.com/track/6ZbYf49MLjiJYf7XnO2zuQ) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Lifetime](https://open.spotify.com/album/50whDFHjsEouf1WGJzEATj) | 1:41 | 2024-11-26 |  |
 | [Light and Shadow](https://open.spotify.com/track/37CI7f1K9z8sPBbXfCTUkD) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Light and Shadow](https://open.spotify.com/album/4rxHOblHlIChJOhXc4JQfX) | 2:25 | 2024-06-28 |  |
 | [Lighthouse](https://open.spotify.com/track/7v6ekGKrU6VIdiIkN5R9Jx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Lighthouse](https://open.spotify.com/album/5MQlIqR3JoQ1cJy8SJBMo0) | 2:32 | 2024-08-13 |  |
+| [Lightning\-bent tree](https://open.spotify.com/track/10tLJDajMTayeBvNBjBbjy) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Lightning\-bent tree](https://open.spotify.com/album/28JfpQ7Z8ljvdoyeGf9llI) | 1:50 | 2025-01-07 |  |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-02-24 | 2023-06-23 |
 | [Lilac](https://open.spotify.com/track/2ZllgmJ44JB80Xr1KkI5xK) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Lilac](https://open.spotify.com/album/5P1QxSMeZzIAaxCl3xRtDs) | 3:27 | 2022-11-18 | 2023-09-08 |
 | [Lima](https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Lima](https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks) | 3:02 | 2024-05-10 |  |

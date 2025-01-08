@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 42655,
+  "num_followers": 42661,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAADmpsay+AtMAEqv/OvoCTFD",
+  "snapshot_id": "Z3sdAAAAAAA8B65Yt56rD/7vvDdSGWPY",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 221320,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "tqum (feat. Kim Petras) [Remix]",
         "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
       },
@@ -879,30 +903,6 @@
       "duration_ms": 227160,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 221320,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Manera [CORBATA]",
-        "url": "https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "A Tu Manera [CORBATA]",
-      "url": "https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Est\u00e1s T\u00fa",
         "url": "https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 177607,
       "name": "Cuando Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tu Manera [CORBATA]",
+        "url": "https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "A Tu Manera [CORBATA]",
+      "url": "https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p"
     },
     {
       "added_at": null,

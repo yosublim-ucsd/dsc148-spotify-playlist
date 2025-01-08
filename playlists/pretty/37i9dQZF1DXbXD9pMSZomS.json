@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 484517,
+  "num_followers": 484735,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Z1u/eAAAAAALyod5aLa8EO5vFHc7BOCn",
   "tracks": [
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
     {
       "added_at": "2024-12-13 05:00:40",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 160301,
       "name": "The Hills",
       "url": "https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -111,26 +111,6 @@
     {
       "added_at": "2024-12-13 05:00:40",
       "album": {
-        "name": "Sloh Remixes",
-        "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        },
-        {
-          "name": "Edamame",
-          "url": "https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Cami - Edamame Remix",
-      "url": "https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU"
-    },
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
         "name": "RITUAL (palace)",
         "url": "https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 355488,
       "name": "RITUAL (palace)",
       "url": "https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Sloh Remixes",
+        "url": "https://open.spotify.com/album/58mLfEOaAR4vaR4rEWtJe1"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        },
+        {
+          "name": "Edamame",
+          "url": "https://open.spotify.com/artist/5PFVryAyJqvirWkPBkwagn"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Cami - Edamame Remix",
+      "url": "https://open.spotify.com/track/6HXIp0fIEuljJcmSpDhRSU"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-13 05:00:40",
       "album": {
-        "name": "Social Distancing EP",
-        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
-      },
-      "artists": [
-        {
-          "name": "Babsy",
-          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
-        }
-      ],
-      "duration_ms": 312304,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
-    },
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
         "name": "The Sinner \u2014 Time Traveller",
         "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 282857,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Social Distancing EP",
+        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
+      },
+      "artists": [
+        {
+          "name": "Babsy",
+          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
+        }
+      ],
+      "duration_ms": 312304,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -527,6 +527,22 @@
       "duration_ms": 99495,
       "name": "10Min JAM_V2",
       "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Polar Circle",
+        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
+      },
+      "artists": [
+        {
+          "name": "Ekfat",
+          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
+        }
+      ],
+      "duration_ms": 117660,
+      "name": "Polar Circle",
+      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -583,38 +599,6 @@
     {
       "added_at": "2024-12-13 05:00:40",
       "album": {
-        "name": "Blue Pigments",
-        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
-      },
-      "artists": [
-        {
-          "name": "Norabel",
-          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
-        }
-      ],
-      "duration_ms": 130388,
-      "name": "Pigments",
-      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
-    },
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
-        "name": "Polar Circle",
-        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
-      },
-      "artists": [
-        {
-          "name": "Ekfat",
-          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
-        }
-      ],
-      "duration_ms": 117660,
-      "name": "Polar Circle",
-      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
         "name": "Tokyo Cruise",
         "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 182500,
       "name": "Tokyo Cruise",
       "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Blue Pigments",
+        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
+      },
+      "artists": [
+        {
+          "name": "Norabel",
+          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
+        }
+      ],
+      "duration_ms": 130388,
+      "name": "Pigments",
+      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-12-13 05:00:40",
       "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
+      },
+      "artists": [
+        {
+          "name": "Social Lovers",
+          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
+        }
+      ],
+      "duration_ms": 272760,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
         "name": "Into The Sun",
         "url": "https://open.spotify.com/album/0cg0ZZjG0sxfyXnMb5xBYx"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 287213,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0"
-    },
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
-      },
-      "artists": [
-        {
-          "name": "Social Lovers",
-          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
-        }
-      ],
-      "duration_ms": 272760,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -835,38 +835,6 @@
     {
       "added_at": "2024-12-13 05:00:40",
       "album": {
-        "name": "Milkyway",
-        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
-      },
-      "artists": [
-        {
-          "name": "Worldtraveller",
-          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Milkyway",
-      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
-    },
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
-        "name": "199X",
-        "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
-      },
-      "artists": [
-        {
-          "name": "Phil from Hav\u00eaa",
-          "url": "https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "199X",
-      "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
-    },
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
         "name": "House Party",
         "url": "https://open.spotify.com/album/0P6ikfieWhTpudpPjysrma"
       },
@@ -879,6 +847,22 @@
       "duration_ms": 155789,
       "name": "House Party",
       "url": "https://open.spotify.com/track/2o56rqsyPEuarXBSs3hHMl"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Milkyway",
+        "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Milkyway",
+      "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -911,6 +895,22 @@
       "duration_ms": 188852,
       "name": "Alone Girl",
       "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "199X",
+        "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
+      },
+      "artists": [
+        {
+          "name": "Phil from Hav\u00eaa",
+          "url": "https://open.spotify.com/artist/5gyMIFkh865zZG52zrjgKM"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "199X",
+      "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-12-13 05:00:40",
       "album": {
-        "name": "Everytime (Girls of the Internet Remix)",
-        "url": "https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P"
-      },
-      "artists": [
-        {
-          "name": "Jason Hersco",
-          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
-        },
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 221166,
-      "name": "Everytime - Girls of the Internet Remix",
-      "url": "https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
         "name": "Lucas",
         "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
       },
@@ -991,18 +971,38 @@
     {
       "added_at": "2024-12-13 05:00:40",
       "album": {
-        "name": "Beats On Boat: Made in M",
-        "url": "https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS"
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
       },
       "artists": [
         {
-          "name": "Made in M",
-          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
         }
       ],
-      "duration_ms": 339130,
-      "name": "Flightmode On",
-      "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+    },
+    {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "Everytime (Girls of the Internet Remix)",
+        "url": "https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P"
+      },
+      "artists": [
+        {
+          "name": "Jason Hersco",
+          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+        },
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 221166,
+      "name": "Everytime - Girls of the Internet Remix",
+      "url": "https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ"
     },
     {
       "added_at": "2024-12-13 05:00:40",

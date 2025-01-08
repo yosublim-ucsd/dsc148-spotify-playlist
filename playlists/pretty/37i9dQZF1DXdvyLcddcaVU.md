@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,044 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,325 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 16 | [Ridin'](https://open.spotify.com/track/6CRTGadOztkonI7EDxYNeP) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Trône](https://open.spotify.com/album/2RO5bTmlRq3rlloElsZqVl) | 3:31 |
 | 17 | [9 1 1 3 \(feat\. SCH\)](https://open.spotify.com/track/3WCMzZvH2zK476lasbLx0s) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Survie](https://open.spotify.com/album/6B1WrwSNvznff0JjxjjPxd) | 2:39 |
 | 18 | [Malya](https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [15](https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn) | 3:12 |
-| 19 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 |
+| 19 | [Les filles désir](https://open.spotify.com/track/3Cc0xsYtoaPDjVZyiPHiQ4) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:16 |
 | 20 | [H24](https://open.spotify.com/track/0UBfw0XZUzGsqY7CeqI2sc) | [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg) | [H24](https://open.spotify.com/album/6wPX23RiG2SjaODHumYOMx) | 2:09 |
-| 21 | [Pété Tchouw](https://open.spotify.com/track/3NFdsbXTff5giZ7qERfDMJ) | [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Jona](https://open.spotify.com/artist/6Etg7be4vw7iSzHvIllAqM), [JDS](https://open.spotify.com/artist/3VtI22hhGVC6TzcDyAbjWm) | [Pété Tchouw](https://open.spotify.com/album/2lR0UG5bWJveoHGsYbYSom) | 1:53 |
-| 22 | [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 |
-| 23 | [BOLO \(feat\. YDG\)](https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Organic](https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ) | 2:51 |
-| 24 | [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 |
-| 25 | [Lalla](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 |
-| 26 | [Couleur Nejau](https://open.spotify.com/track/7wq3NSOud2yhfUxlhKjeyG) | [S2](https://open.spotify.com/artist/60HWrpmSefhtMWCkghazzG) | [Couleur Nejau](https://open.spotify.com/album/39M2E6rDGajci1Gg3JYx4g) | 1:47 |
-| 27 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 |
-| 28 | [Les filles désir](https://open.spotify.com/track/3Cc0xsYtoaPDjVZyiPHiQ4) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:16 |
+| 21 | [What Do You Mean?](https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:25 |
+| 22 | [Pété Tchouw](https://open.spotify.com/track/3NFdsbXTff5giZ7qERfDMJ) | [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Jona](https://open.spotify.com/artist/6Etg7be4vw7iSzHvIllAqM), [JDS](https://open.spotify.com/artist/3VtI22hhGVC6TzcDyAbjWm) | [Pété Tchouw](https://open.spotify.com/album/2lR0UG5bWJveoHGsYbYSom) | 1:53 |
+| 23 | [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 |
+| 24 | [BOLO \(feat\. YDG\)](https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Organic](https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ) | 2:51 |
+| 25 | [Ça parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 |
+| 26 | [Lalla](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 |
+| 27 | [Couleur Nejau](https://open.spotify.com/track/7wq3NSOud2yhfUxlhKjeyG) | [S2](https://open.spotify.com/artist/60HWrpmSefhtMWCkghazzG) | [Couleur Nejau](https://open.spotify.com/album/39M2E6rDGajci1Gg3JYx4g) | 1:47 |
+| 28 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 |
 | 29 | [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 |
 | 30 | [EL GEMANO](https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [EL GEMANO](https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4) | 4:08 |
 | 31 | [Money Pull Up](https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [Money Pull Up](https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn) | 2:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Foutaise](https://open.spotify.com/track/6Z2ndlGNovBZCsHVAOIQ4C) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [UNIVERS](https://open.spotify.com/album/1eONfsbxAQjKfk2lpNJ2Ov) | 2:20 |
 | 90 | [Eyes Without A Face](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell](https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj) | 4:59 |
 
-Snapshot ID: `Z3uvzAAAAADxqaKoq1fgpvVcNEC4Vjpy`
+Snapshot ID: `Z30BtwAAAAAeP/+qiD7dOC75hv/WNhr/`

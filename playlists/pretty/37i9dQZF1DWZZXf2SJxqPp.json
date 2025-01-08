@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 141877,
+  "num_followers": 141901,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD"
     },
     {
-      "added_at": "2024-03-07 19:13:49",
-      "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Caravelle",
@@ -523,6 +507,22 @@
       "duration_ms": 289720,
       "name": "Pays imaginaire",
       "url": "https://open.spotify.com/track/7i5I4h7r2vkI2r9tgKjy0x"
+    },
+    {
+      "added_at": "2024-03-07 19:13:49",
+      "album": {
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -645,26 +645,6 @@
       "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Fabiana Martone",
-          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
-        }
-      ],
-      "duration_ms": 244075,
-      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Laberinto (Bosq Remix)",
@@ -703,6 +683,26 @@
       "duration_ms": 248127,
       "name": "Mon Cheri",
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Fabiana Martone",
+          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
+        }
+      ],
+      "duration_ms": 244075,
+      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1053,26 +1053,6 @@
       "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
-      "added_at": "2024-05-30 23:14:49",
-      "album": {
-        "name": "Genius of Love",
-        "url": "https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Genius of Love",
-      "url": "https://open.spotify.com/track/0UMfconu33lpuioJ696nKv"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Horizon",
@@ -1103,6 +1083,26 @@
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+    },
+    {
+      "added_at": "2024-05-30 23:14:49",
+      "album": {
+        "name": "Genius of Love",
+        "url": "https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/0UMfconu33lpuioJ696nKv"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1181,26 +1181,6 @@
       "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
-      "added_at": "2024-07-09 06:43:32",
-      "album": {
-        "name": "Money Face",
-        "url": "https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        },
-        {
-          "name": "Kondi Band",
-          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
-        }
-      ],
-      "duration_ms": 258874,
-      "name": "Money Face",
-      "url": "https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y"
-    },
-    {
       "added_at": "2024-07-31 18:59:16",
       "album": {
         "name": "Do Something!",
@@ -1225,20 +1205,24 @@
       "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
+      "added_at": "2024-07-09 06:43:32",
       "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+        "name": "Money Face",
+        "url": "https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v"
       },
       "artists": [
         {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        },
+        {
+          "name": "Kondi Band",
+          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
         }
       ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+      "duration_ms": 258874,
+      "name": "Money Face",
+      "url": "https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1255,6 +1239,22 @@
       "duration_ms": 259750,
       "name": "Segrados Do Samba",
       "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 229581,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2024-04-18 18:25:20",
@@ -1557,42 +1557,6 @@
       "url": "https://open.spotify.com/track/5M7XyAAxB0WFLnN8zsMEn5"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Une Beat Encore",
-        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 196900,
-      "name": "Une Beat Encore",
-      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Juice (Breakbot Mix)",
-        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "Juice - Breakbot Mix",
-      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
-    },
-    {
       "added_at": "2024-10-10 03:17:46",
       "album": {
         "name": "Lovesong",
@@ -1615,6 +1579,42 @@
       "duration_ms": 155482,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/4zwd1ebXhAFsv06XZSmzHQ"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Juice (Breakbot Mix)",
+        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+        }
+      ],
+      "duration_ms": 172453,
+      "name": "Juice - Breakbot Mix",
+      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Une Beat Encore",
+        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 196900,
+      "name": "Une Beat Encore",
+      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1689,6 +1689,22 @@
       "url": "https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM"
     },
     {
+      "added_at": "2024-07-01 18:08:26",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+    },
+    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Do Beijo",
@@ -1745,20 +1761,20 @@
       "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
     },
     {
-      "added_at": "2024-07-01 18:08:26",
+      "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+        "name": "A bite of papaya",
+        "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
       },
       "artists": [
         {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+          "name": "Miynt",
+          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
         }
       ],
-      "duration_ms": 245786,
-      "name": "Crystallize",
-      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+      "duration_ms": 257033,
+      "name": "A bite of papaya",
+      "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "A bite of papaya",
-        "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
+        "name": "Zaim",
+        "url": "https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU"
       },
       "artists": [
         {
-          "name": "Miynt",
-          "url": "https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b"
+          "name": "Butia",
+          "url": "https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h"
         }
       ],
-      "duration_ms": 257033,
-      "name": "A bite of papaya",
-      "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
+      "duration_ms": 236136,
+      "name": "Zaim",
+      "url": "https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1807,22 +1823,6 @@
       "duration_ms": 250002,
       "name": "Zenzero",
       "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Zaim",
-        "url": "https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU"
-      },
-      "artists": [
-        {
-          "name": "Butia",
-          "url": "https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h"
-        }
-      ],
-      "duration_ms": 236136,
-      "name": "Zaim",
-      "url": "https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4"
     },
     {
       "added_at": "2023-08-14 14:58:41",

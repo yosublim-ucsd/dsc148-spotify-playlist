@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 72653,
+  "num_followers": 72660,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAACmww8mFr5rNcSQWj6nbucM",
+  "snapshot_id": "Z3sdAAAAAAAI+UkJ5nGxmA/KBS4ATJBc",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Amor Que Cura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
+        "name": "Fara\u00f3 ou Deus?",
+        "url": "https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 261999,
-      "name": "O Amor Que Cura - Ao Vivo",
-      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
+      "duration_ms": 295530,
+      "name": "Fara\u00f3 ou Deus?",
+      "url": "https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fara\u00f3 ou Deus?",
-        "url": "https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz"
+        "name": "O Amor Que Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 295530,
-      "name": "Fara\u00f3 ou Deus?",
-      "url": "https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T"
+      "duration_ms": 261999,
+      "name": "O Amor Que Cura - Ao Vivo",
+      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Bem Maior",
-        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 217849,
-      "name": "Meu Bem Maior",
-      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marina de Oliveira - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n"
       },
@@ -943,26 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
+        "name": "Meu Bem Maior",
+        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
       },
       "artists": [
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Ou\u00e7o Deus Me Chamar",
-      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+      "duration_ms": 217849,
+      "name": "Meu Bem Maior",
+      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
     },
     {
       "added_at": null,
@@ -1039,6 +1015,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "Santo (Holy)",
+      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 312674,
       "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
       "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "Santo (Holy)",
-      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29425,
+  "num_followers": 29427,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "In My Bed",
         "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V"
       },
       "artists": [
         {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
         }
       ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
+      "duration_ms": 219000,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -703,22 +719,6 @@
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/1Ay2dHPKk5NPtsAJwUvS2V"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/2JNyAzlRgfcxfwCCf8Ayo5"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 243952,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Girls That Play",
         "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 202302,
       "name": "Girls That Play",
       "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 243952,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
     },
     {
       "added_at": "2024-09-20 11:39:59",

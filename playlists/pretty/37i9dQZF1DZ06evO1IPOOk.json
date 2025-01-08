@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1626568,
+  "num_followers": 1627190,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAADbZpjOSurmYnXdsd41YSBI",
+  "snapshot_id": "Z3sdAAAAAABsW+SA5NO+CjYqB+nhAQI6",
   "tracks": [
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
       "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 248613,
-      "name": "DUCKWORTH.",
-      "url": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
+      "duration_ms": 214265,
+      "name": "Don't Wanna Know (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5o3GnrcFtvkdf3zFznuSbA"
     },
     {
       "added_at": null,
@@ -535,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 214265,
-      "name": "Don't Wanna Know (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/5o3GnrcFtvkdf3zFznuSbA"
+      "duration_ms": 248613,
+      "name": "DUCKWORTH.",
+      "url": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
     },
     {
       "added_at": null,

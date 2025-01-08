@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 50598,
+  "num_followers": 50674,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "Madre Tierra (Oye)",
-      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
-    },
-    {
-      "added_at": "2024-07-13 01:11:49",
-      "album": {
         "name": "Love and Sex",
         "url": "https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8"
       },
@@ -415,18 +399,34 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Farruko Presents Los Menores",
-        "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 221735,
-      "name": "Lejos de Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7fzErW0dRVRaTWjNLPFwUn"
+      "duration_ms": 205920,
+      "name": "Madre Tierra (Oye)",
+      "url": "https://open.spotify.com/track/2wlptOJ1g5fvLdu6ruKCKU"
+    },
+    {
+      "added_at": "2024-07-13 01:11:49",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
     },
     {
       "added_at": "2024-07-13 01:11:49",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi"
+        "name": "Farruko Presents Los Menores",
+        "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 190480,
-      "name": "Mi Persona Favorita",
-      "url": "https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe"
+      "duration_ms": 221735,
+      "name": "Lejos de Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7fzErW0dRVRaTWjNLPFwUn"
     },
     {
       "added_at": "2024-07-13 01:11:49",

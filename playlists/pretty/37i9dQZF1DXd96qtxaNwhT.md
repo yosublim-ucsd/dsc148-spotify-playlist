@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,734 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,761 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 44 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 45 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 |
 | 46 | [Lovesick](https://open.spotify.com/track/1MbSfzHuHrwdyYDZTq2tKs) | [Jack Robertson](https://open.spotify.com/artist/447mQxabcNPTEqS8jr2i2T), [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Lovesick](https://open.spotify.com/album/3vDrncFDua5nz0kGyiLtsB) | 3:44 |
-| 47 | [War](https://open.spotify.com/track/4zNoXBUdKdxlfsjIUV28LW) | [Cap Carter](https://open.spotify.com/artist/6tlZOlraBrfKljvD2O6wTV) | [War](https://open.spotify.com/album/5dCQvmy45qliQlRjMOMUyQ) | 3:22 |
-| 48 | [So We Remain](https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [So We Remain](https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR) | 2:39 |
-| 49 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
-| 50 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 |
-| 51 | [The Hardest Part](https://open.spotify.com/track/7Ki24HFDYKZUF3iIctL0k6) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY) | [The Hardest Part](https://open.spotify.com/album/29SqmcxIyuP7GpPJZMhXpT) | 2:57 |
+| 47 | [So We Remain](https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [So We Remain](https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR) | 2:39 |
+| 48 | [War](https://open.spotify.com/track/4zNoXBUdKdxlfsjIUV28LW) | [Cap Carter](https://open.spotify.com/artist/6tlZOlraBrfKljvD2O6wTV) | [War](https://open.spotify.com/album/5dCQvmy45qliQlRjMOMUyQ) | 3:22 |
+| 49 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 |
+| 50 | [The Hardest Part](https://open.spotify.com/track/7Ki24HFDYKZUF3iIctL0k6) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY) | [The Hardest Part](https://open.spotify.com/album/29SqmcxIyuP7GpPJZMhXpT) | 2:57 |
+| 51 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
 | 52 | [Alone on the Moon](https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L) | [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [Alone on the Moon](https://open.spotify.com/album/1RlXHytHcfxZjLlnN4PC9W) | 3:11 |
 | 53 | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi) | 3:06 |
 | 54 | [All There Is](https://open.spotify.com/track/2HHyINNaWkOq05vI2UvPX3) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [All There Is](https://open.spotify.com/album/57BqI7ioPCm0XsOcyVPxbo) | 2:23 |

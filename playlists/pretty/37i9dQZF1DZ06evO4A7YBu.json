@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 38190,
+  "num_followers": 38204,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAD+WMFW3Ry5aTcUsKa7GRfI",
+  "snapshot_id": "Z3sdAAAAAACyayd6yT8LfMaZOJFrNeJV",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 225400,
-      "name": "Bled for Days",
-      "url": "https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn"
+      "duration_ms": 204626,
+      "name": "I'm With Stupid",
+      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 204626,
-      "name": "I'm With Stupid",
-      "url": "https://open.spotify.com/track/6uOzYMGucTA0MAFwS2FNB2"
+      "duration_ms": 225400,
+      "name": "Bled for Days",
+      "url": "https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Wisconsin Death Trip",
-      "url": "https://open.spotify.com/track/5ctRbSANfjfqVeNGPI7oau"
+      "duration_ms": 259800,
+      "name": "Love Dump",
+      "url": "https://open.spotify.com/track/6kJb4WaCuc4wLBIkSJUY3n"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 259800,
-      "name": "Love Dump",
-      "url": "https://open.spotify.com/track/6kJb4WaCuc4wLBIkSJUY3n"
+      "duration_ms": 189293,
+      "name": "Wisconsin Death Trip",
+      "url": "https://open.spotify.com/track/5ctRbSANfjfqVeNGPI7oau"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Regeneration, Vol. 1",
-        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 215280,
-      "name": "Bring You Down (Project Regeneration)",
-      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
+      "duration_ms": 164706,
+      "name": "Start a War",
+      "url": "https://open.spotify.com/track/7GB8ZyFJsOZ6YXD5Qlr5Cx"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Start a War",
-        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+        "name": "Project Regeneration, Vol. 1",
+        "url": "https://open.spotify.com/album/6lguiZQ9OKhWfmgrxkpKTP"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 164706,
-      "name": "Start a War",
-      "url": "https://open.spotify.com/track/7GB8ZyFJsOZ6YXD5Qlr5Cx"
+      "duration_ms": 215280,
+      "name": "Bring You Down (Project Regeneration)",
+      "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "Behemoth",
-      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Machine",
         "url": "https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 241666,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/63DUo97PJNh69Gg1rXGHEN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "Behemoth",
+      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 240304,
+      "name": "Black Star",
+      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cult of Static",
         "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 189320,
       "name": "Z28",
       "url": "https://open.spotify.com/track/4mY2HxlIsvFsOKCUX0UfJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Jic Boi",
-      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project Regeneration, Vol. 2",
+        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Jic Boi",
+      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cult of Static",
         "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 252653,
       "name": "Stingwray",
       "url": "https://open.spotify.com/track/72PjxQajUSyOcUVBpQqXHz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Regeneration, Vol. 2",
-        "url": "https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 240304,
-      "name": "Black Star",
-      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Hypure",
-      "url": "https://open.spotify.com/track/5ipoeQyIEEevjA2tvcFY9E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beneath...Between...Beyond...",
         "url": "https://open.spotify.com/album/5Gmv5JYxVuXAVexz5fTSdr"
       },
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 217346,
-      "name": "Terminal",
-      "url": "https://open.spotify.com/track/080foaXWDJpI51Mg8FZkfn"
+      "duration_ms": 255333,
+      "name": "Hypure",
+      "url": "https://open.spotify.com/track/5ipoeQyIEEevjA2tvcFY9E"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 166133,
       "name": "Head",
       "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cult of Static",
+        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/080foaXWDJpI51Mg8FZkfn"
     }
   ],
   "unique_name": "This Is Static-X",

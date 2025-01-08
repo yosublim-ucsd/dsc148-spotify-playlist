@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-503 songs - 1 day 4 hr 57 min
+504 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2024-09-27 |  |
 | [In The Water](https://open.spotify.com/track/3nC1Jx1lyGzmZ5uVwd20st) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 3:36 | 2024-03-21 |  |
 | [In This Together](https://open.spotify.com/track/5lCEexD5JfA6YnCNCGcVR6) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [In This Together](https://open.spotify.com/album/15hSw3L6AIOOhiiliJkx95) | 3:16 | 2023-02-23 | 2024-03-22 |
+| [Inner Smile](https://open.spotify.com/track/0yvDNlMoafoHNR9M5LIOGJ) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Greatest Hits](https://open.spotify.com/album/2pcI0ixfcCz1eUUxbYO69n) | 3:50 | 2025-01-07 |  |
 | [islands\_](https://open.spotify.com/track/17NV3XD6cx9sA6YnO16Ok4) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [\_UP\_](https://open.spotify.com/album/6L4Cw7UGLQxUAVaY1RNYBr) | 3:58 | 2023-02-23 | 2024-04-19 |
 | [It Ain't Easy](https://open.spotify.com/track/0sWfdO70PRIzqpX2swtFNy) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Tascam Tapes](https://open.spotify.com/album/43LoWypu3rYrv2TuJmxxaT) | 3:24 | 2023-02-23 | 2024-04-19 |
 | [It Don't Matter](https://open.spotify.com/track/2UjGyCvayHjGihV3oLhD8a) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Donavon Frankenreiter](https://open.spotify.com/album/7HPDZ1Gu4pWyDn9o6DiToG) | 3:06 | 2023-02-23 |  |
@@ -491,7 +492,7 @@
 | [Whenever](https://open.spotify.com/track/0bep2a6WGLFclEAHl6yXgO) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Whenever](https://open.spotify.com/album/2Yt2fZjV3yE86fnDdV9RCr) | 2:35 | 2024-03-13 |  |
 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 | 2023-02-23 | 2024-04-19 |
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-11-14 |  |
-| [Who Gave You The Right](https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Who Gave You The Right](https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f) | 3:26 | 2023-02-23 |  |
+| [Who Gave You The Right](https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Who Gave You The Right](https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f) | 3:26 | 2023-02-23 | 2025-01-08 |
 | [Why Do You Care](https://open.spotify.com/track/3oDn64B3LsqBfcvQA5UJrh) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/2sSHHrTuj2PdyjHyQJsCtj) | 3:36 | 2024-04-11 |  |
 | [Why Do You Care](https://open.spotify.com/track/4miesggrLA9agA9lusKhV9) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv) | 3:36 | 2023-04-25 | 2024-03-20 |
 | [Wild Grey Ocean](https://open.spotify.com/track/3NhEHxzfLEzvlYPK9hgmPR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Grey Ocean](https://open.spotify.com/album/6H7rX9r5UAwdlkDtWOiW6v) | 3:54 | 2023-02-23 | 2023-04-26 |

@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 118135,
+  "num_followers": 118154,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -131,38 +131,6 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
-        "name": "Bloomsday",
-        "url": "https://open.spotify.com/album/2ceQKxT0GhryrHU5di7tmz"
-      },
-      "artists": [
-        {
-          "name": "Esbe",
-          "url": "https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/6ncNLU982iaD9WFb2gTwKd"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -183,6 +151,38 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Bloomsday",
+        "url": "https://open.spotify.com/album/2ceQKxT0GhryrHU5di7tmz"
+      },
+      "artists": [
+        {
+          "name": "Esbe",
+          "url": "https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/6ncNLU982iaD9WFb2gTwKd"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Uptown Top Ranking",
-        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
       "artists": [
         {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
         }
       ],
-      "duration_ms": 229160,
-      "name": "Uptown Top Ranking - Remastered 2001",
-      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
+      "duration_ms": 227040,
+      "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
+      "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Uptown Top Ranking",
+        "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Althea And Donna",
+          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
         }
       ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+      "duration_ms": 229160,
+      "name": "Uptown Top Ranking - Remastered 2001",
+      "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 227040,
-      "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
-      "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -867,22 +867,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Dog With a Rope (Quantic Presenta Flowering Inferno)",
-        "url": "https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0"
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Flowering Inferno",
-          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
         }
       ],
-      "duration_ms": 377293,
-      "name": "Cumbia Sobre el Mar",
-      "url": "https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH"
+      "duration_ms": 128903,
+      "name": "Esperar Pra Ver",
+      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -903,18 +899,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
+        "name": "The Budos Band",
+        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
       },
       "artists": [
         {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
         }
       ],
-      "duration_ms": 128903,
-      "name": "Esperar Pra Ver",
-      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
+      "duration_ms": 160600,
+      "name": "T.I.B.W.F.",
+      "url": "https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -935,18 +931,22 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "The Budos Band",
-        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
+        "name": "Dog With a Rope (Quantic Presenta Flowering Inferno)",
+        "url": "https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0"
       },
       "artists": [
         {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Flowering Inferno",
+          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
         }
       ],
-      "duration_ms": 160600,
-      "name": "T.I.B.W.F.",
-      "url": "https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu"
+      "duration_ms": 377293,
+      "name": "Cumbia Sobre el Mar",
+      "url": "https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
-        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
+        "name": "The Budos Band",
+        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
       },
       "artists": [
         {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        },
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
         }
       ],
-      "duration_ms": 162826,
-      "name": "Los Sabanales",
-      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
+      "duration_ms": 206693,
+      "name": "Up From the South",
+      "url": "https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "The Budos Band",
-        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
+        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
       },
       "artists": [
         {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 206693,
-      "name": "Up From the South",
-      "url": "https://open.spotify.com/track/7GS4WQCPUQuZW6ZSvfZXvA"
+      "duration_ms": 162826,
+      "name": "Los Sabanales",
+      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Zungguzungguguzungguzeng!",
-        "url": "https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N"
+        "name": "Trio Ternura (Compacto 1973)",
+        "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
       "artists": [
         {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
+          "name": "Trio Ternura",
+          "url": "https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT"
         }
       ],
-      "duration_ms": 388226,
-      "name": "Zungguzungguguzungguzeng",
-      "url": "https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8"
+      "duration_ms": 183053,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
     }
   ],
   "unique_name": "Bon Voyage",

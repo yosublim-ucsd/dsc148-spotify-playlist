@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Parhaat uutuusbiisit samassa paketissa\. Kannessa Costi ja Sexmane.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,557 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,562 likes - 101 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 75 | [Voices In My Head](https://open.spotify.com/track/1hwjsnf6pG8q20oLH5ihSI) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [i just want next year to be better](https://open.spotify.com/album/0kRjwojrO13TouynamNnac) | 3:15 |
 | 76 | [Leave Me Alone](https://open.spotify.com/track/7j6Vux25EHyKLwVX6xl4Fo) | [SIDEHOE](https://open.spotify.com/artist/5h3N5vm4NSYmbEGmKDL2Ea) | [Leave Me Alone](https://open.spotify.com/album/0XD96dEcFylkkeeMxtNPH7) | 2:09 |
 | 77 | [Kylmänväreitä](https://open.spotify.com/track/0hLaIla4Jk7iUgkxEZ7VEc) | [998](https://open.spotify.com/artist/0I6I5TTMOpYhcdBBUmbj1q), [Eldinho](https://open.spotify.com/artist/4WT1YCkxqR6QGvx1qRxzS8), [Solekki](https://open.spotify.com/artist/3IA4cNL2jx4iPv9pMTCaj9), [HC Sika](https://open.spotify.com/artist/4EJo5FCc8XJvUtHy3o0yiX), [Neuvos](https://open.spotify.com/artist/6mqWJwmcgg93MbC7g9GFXq), [Nit Lang](https://open.spotify.com/artist/5VW1dTQXYIadIu6sgOFZvp) | [Kylmänväreitä](https://open.spotify.com/album/4nntCRD9lxu2lYcAKJhMIh) | 5:04 |
-| 78 | [Deez Nuts](https://open.spotify.com/track/4zONrQWRBigRdtJ3KGuux6) | [Laiska Leppone](https://open.spotify.com/artist/7h5EOSQ8D1tDMMKDwZXlmo), [Kari Tiilikaine](https://open.spotify.com/artist/53k4cYKhB6OvJp3irZCo54), [Kuningas Pähkinä](https://open.spotify.com/artist/21LtQskaSgtWgWmlJxoCea) | [Deez Nuts](https://open.spotify.com/album/7zVzcivgALNO9aHUOfYrlF) | 3:54 |
+| 78 | [Deez Nuts](https://open.spotify.com/track/4zONrQWRBigRdtJ3KGuux6) | [Laiska Leppone](https://open.spotify.com/artist/7h5EOSQ8D1tDMMKDwZXlmo), [Kari Tiilikaine](https://open.spotify.com/artist/53k4cYKhB6OvJp3irZCo54), [Kuningas Pähkinä](https://open.spotify.com/artist/21LtQskaSgtWgWmlJxoCea) | [Deez Nuts](https://open.spotify.com/album/7zVzcivgALNO9aHUOfYrlF) | 3:01 |
 | 79 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 80 | [Showstopper \(Feat\. AJ Tracey\) \- Remix](https://open.spotify.com/track/2wVGQRIr9TAEAHH8QqzfOE) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Showstopper \(Feat\. AJ Tracey\) \[Remix\]](https://open.spotify.com/album/6ayHvDamcngmka9d5Bms1l) | 2:38 |
 | 81 | [Patsaat](https://open.spotify.com/track/4OdnAoaRlp5AYtdjafO3Xc) | [Kasvot](https://open.spotify.com/artist/5wImIA2nF0O09gfnSkmJZj) | [Patsaat](https://open.spotify.com/album/78nDeLyaziVpgm1GXK9OXj) | 3:06 |

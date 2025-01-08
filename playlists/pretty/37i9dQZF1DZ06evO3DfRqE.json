@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8183,
+  "num_followers": 8184,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAACR06S38A5LhTnaw1gK7g5s",
+  "snapshot_id": "Z3sdAAAAAADNyfT4pt2EjzHxpaC3tPwF",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Miho Teruya",
-          "url": "https://open.spotify.com/artist/5rbx6VW8D4lpHU4J1wY0FB"
-        }
-      ],
-      "duration_ms": 218933,
-      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb -\u8679\u3092-",
-      "url": "https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
       },
@@ -567,22 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time For Three",
-        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
       },
       "artists": [
         {
-          "name": "Time For Three",
-          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
-        },
-        {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Miho Teruya",
+          "url": "https://open.spotify.com/artist/5rbx6VW8D4lpHU4J1wY0FB"
         }
       ],
-      "duration_ms": 239906,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
+      "duration_ms": 218933,
+      "name": "\u30d5\u30e9\u30ac\u30fc\u30eb -\u8679\u3092-",
+      "url": "https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6"
     },
     {
       "added_at": null,
@@ -607,6 +587,26 @@
       "duration_ms": 202400,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/4fnqyECBu3t2V7EnRxf8pl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time For Three",
+        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
+      },
+      "artists": [
+        {
+          "name": "Time For Three",
+          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brickman Across America: Heart and Soul of American Music",
-        "url": "https://open.spotify.com/album/02SZD1s8U4VJ2aCPXBXzr8"
-      },
-      "artists": [
-        {
-          "name": "Jim Brickman",
-          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
-        },
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 246647,
-      "name": "Hawaii Rain",
-      "url": "https://open.spotify.com/track/0YDWWwtms7jztv2tLBJi5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travels",
         "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brickman Across America: Heart and Soul of American Music",
+        "url": "https://open.spotify.com/album/02SZD1s8U4VJ2aCPXBXzr8"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        },
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 246647,
+      "name": "Hawaii Rain",
+      "url": "https://open.spotify.com/track/0YDWWwtms7jztv2tLBJi5p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nature Spirit",
         "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 249706,
       "name": "\u6e1a",
       "url": "https://open.spotify.com/track/27wzJWgo11uq4mTUGX2Eob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "\u30b9\u30ed\u30fc\u30fb\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv"
     },
     {
       "added_at": null,
@@ -767,6 +751,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
+        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 116426,
+      "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u30b9\u30ed\u30fc\u30fb\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nature Spirit",
         "url": "https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 183853,
       "name": "Ukulele Bros",
       "url": "https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
-        "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 116426,
-      "name": "\u30b0\u30e9\u30c7\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7"
     },
     {
       "added_at": null,

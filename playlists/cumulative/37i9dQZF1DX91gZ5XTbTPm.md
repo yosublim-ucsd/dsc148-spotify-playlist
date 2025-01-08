@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Bfb Da Packman
 
-1,035 songs - 1 day 23 hr 55 min
+1,036 songs - 1 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,6 +676,7 @@
 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 | 2022-03-11 | 2022-09-03 |
 | [Phil Jackson](https://open.spotify.com/track/5myFWvWVb4ZZW91GiMgE8B) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 2:48 | 2023-07-14 | 2023-11-11 |
 | [PICK A SIDE \(feat\. EST Gee & Southside\)](https://open.spotify.com/track/7MaOwDy8D6jHWgs96XnSIk) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 2:42 | 2023-06-09 | 2023-08-26 |
+| [Pink Dreads](https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A) | 2:00 | 2025-01-07 |  |
 | [Pissed Me Off](https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Pissed Me Off](https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b) | 2:03 | 2021-10-15 | 2022-03-12 |
 | [Plate](https://open.spotify.com/track/6OlDKy2uwA20B84yJKDR7C) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Plate](https://open.spotify.com/album/7e2yh6X5IjQCTsIbgIq05r) | 3:23 | 2024-02-02 | 2024-04-19 |
 | [Play Ball](https://open.spotify.com/track/3TYR4RRDGnOX6BbxFrgQpa) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Play Ball](https://open.spotify.com/album/0w9TPGgtN5xPWN083Qpfwb) | 1:50 | 2024-10-04 | 2024-10-26 |
@@ -998,7 +999,7 @@
 | [What A Life](https://open.spotify.com/track/5bjTLWk5cBOACEVPl3oqkU) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [What A Life](https://open.spotify.com/album/32OzT7FCnSUIqGZLTxJCzF) | 2:58 | 2021-10-22 | 2022-02-12 |
 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 | 2022-03-11 | 2022-06-18 |
 | [What if I Smacked You?](https://open.spotify.com/track/5hT5WbZxvi8bJdJwEqGPfP) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [FMB DZ](https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa) | [CREATED PLAYER](https://open.spotify.com/album/696vSInFcQKVa4EhYXZXJJ) | 2:17 | 2024-08-16 | 2024-09-28 |
-| [WHAT U BAD FOR \(feat\. Real Boston Richey\)](https://open.spotify.com/track/09iR6v8KUn1zoy6mZgs2op) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [WHAT U BAD FOR \(feat\. Real Boston Richey\)](https://open.spotify.com/album/2V4ttEQqeAIyKSgvUV7cFT) | 2:58 | 2024-11-15 |  |
+| [WHAT U BAD FOR \(feat\. Real Boston Richey\)](https://open.spotify.com/track/09iR6v8KUn1zoy6mZgs2op) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [WHAT U BAD FOR \(feat\. Real Boston Richey\)](https://open.spotify.com/album/2V4ttEQqeAIyKSgvUV7cFT) | 2:58 | 2024-11-15 | 2025-01-08 |
 | [What You Need \(with Skilla Baby\)](https://open.spotify.com/track/4ESpN7uNGuhw3Mpu7KwBsa) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [What You Need \(with Skilla Baby\)](https://open.spotify.com/album/7dZogAybcQ8eBs5uVeO0PR) | 2:54 | 2024-08-23 | 2024-10-05 |
 | [WHAT YOU WANT](https://open.spotify.com/track/6FyTGkolQEgIHp3isy1ZSJ) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [WHAT YOU WANT](https://open.spotify.com/album/5ZZpCvbAPixOpDD6JMPulF) | 2:16 | 2023-11-24 | 2023-12-16 |
 | [What's Beef](https://open.spotify.com/track/3x9HWnPwhVCDHbfFCHqXZf) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [What's Beef](https://open.spotify.com/album/2sa2LrqzIHO1R7Q7Gs2ojA) | 2:02 | 2022-09-02 | 2022-12-10 |

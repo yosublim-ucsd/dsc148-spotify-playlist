@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 59412,
+  "num_followers": 59450,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "Move On: A Sondheim Adventure",
+        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "duration_ms": 171949,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "Sunset In The Blue (Deluxe Version)",
         "url": "https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 325659,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "Move On: A Sondheim Adventure",
-        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        }
-      ],
-      "duration_ms": 171949,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -147,26 +147,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Michael Valeanu",
-          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
-        }
-      ],
-      "duration_ms": 199423,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -187,18 +167,22 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "Laura Benanti",
-        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
       "artists": [
         {
-          "name": "Laura Benanti",
-          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Michael Valeanu",
+          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
         }
       ],
-      "duration_ms": 264653,
-      "name": "Go Slow",
-      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
+      "duration_ms": 199423,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -215,6 +199,22 @@
       "duration_ms": 294287,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "Laura Benanti",
+        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
+      },
+      "artists": [
+        {
+          "name": "Laura Benanti",
+          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
+        }
+      ],
+      "duration_ms": 264653,
+      "name": "Go Slow",
+      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "This Bitter Earth",
+        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 290119,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 223000,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "This Bitter Earth",
-        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 290119,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/5ZjbzXgHWwyYB6rotYuP01"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "The Moon and the Sky",
+        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "The Moon and the Sky",
+      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "Stella Cole",
         "url": "https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "The Moon and the Sky",
-        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
+        "name": "Do You Know What It Means to Miss New Orleans",
+        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
       },
       "artists": [
         {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
         }
       ],
-      "duration_ms": 202000,
-      "name": "The Moon and the Sky",
-      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
+      "duration_ms": 253386,
+      "name": "Do You Know What It Means to Miss New Orleans",
+      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -535,22 +551,6 @@
       "duration_ms": 264617,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "Do You Know What It Means to Miss New Orleans",
-        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 253386,
-      "name": "Do You Know What It Means to Miss New Orleans",
-      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
-        "url": "https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q"
-      },
-      "artists": [
-        {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
-        },
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
-        }
-      ],
-      "duration_ms": 371170,
-      "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
-      "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "The Night and the Music",
         "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
       },
@@ -823,22 +803,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "Blues in the City",
-        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
-      },
-      "artists": [
-        {
-          "name": "Laverne Butler",
-          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "Songs to Comfort",
         "url": "https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8"
       },
@@ -851,6 +815,42 @@
       "duration_ms": 338186,
       "name": "Song to Comfort",
       "url": "https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
+        "url": "https://open.spotify.com/album/4zi13mNLYwuG0gpoadaE3q"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        },
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 371170,
+      "name": "Velvet Curtains (feat. H\u00e5kon Kornstad)",
+      "url": "https://open.spotify.com/track/4wfF91BDvZYOiP7LKq2New"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "Blues in the City",
+        "url": "https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw"
+      },
+      "artists": [
+        {
+          "name": "Laverne Butler",
+          "url": "https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "Spring Waltz",
+        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "Spring Waltz",
+      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "Spring Can Really Hang You up the Most",
         "url": "https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 326019,
       "name": "Spring Can Really Hang You up the Most",
       "url": "https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "Spring Waltz",
-        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Spring Waltz",
-      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1131,6 +1131,42 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "Your Love Is Home",
+        "url": "https://open.spotify.com/album/5v3mkKCbt69luTADFPX4ud"
+      },
+      "artists": [
+        {
+          "name": "Alex Tremblay",
+          "url": "https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t"
+        },
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Your Love Is Home",
+      "url": "https://open.spotify.com/track/6qFZF9ptbBvmsBKgN9MNF9"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "Coming Forth by Day",
+        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Wilson",
+          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "Fly Me to the Moon",
         "url": "https://open.spotify.com/album/7nnqCmDX4RMB54ANQFXfu1"
       },
@@ -1155,42 +1191,6 @@
       "duration_ms": 212866,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/4MdP2ZOWlwWLk1W7JxuuBL"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "Coming Forth by Day",
-        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Wilson",
-          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "Your Love Is Home",
-        "url": "https://open.spotify.com/album/5v3mkKCbt69luTADFPX4ud"
-      },
-      "artists": [
-        {
-          "name": "Alex Tremblay",
-          "url": "https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t"
-        },
-        {
-          "name": "Vanisha Gould",
-          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Your Love Is Home",
-      "url": "https://open.spotify.com/track/6qFZF9ptbBvmsBKgN9MNF9"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "Easy Come, Easy Go Blues",
-        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 152654,
-      "name": "Easy Come, Easy Go Blues",
-      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "Love Is Here To Stay",
         "url": "https://open.spotify.com/album/3oqSxcqpOcoIQUJeHEW5xp"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 253226,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1hHbHdcMzXprkNkRuAqjQs"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "Easy Come, Easy Go Blues",
+        "url": "https://open.spotify.com/album/3jF1HHLzYTcKf7YTOAB7gp"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 152654,
+      "name": "Easy Come, Easy Go Blues",
+      "url": "https://open.spotify.com/track/1710r4hqXR33zvno2TtqFV"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
+        "name": "Clique",
+        "url": "https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 263452,
+      "name": "All in Love is Fair",
+      "url": "https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 281480,
       "name": "By The Time I Get To Phoenix",
       "url": "https://open.spotify.com/track/5gOZnszNJ6dwPxkqsFrQoS"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
-        "name": "Clique",
-        "url": "https://open.spotify.com/album/4VtqGCzJeDTuZgewVUOvm3"
-      },
-      "artists": [
-        {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
-        }
-      ],
-      "duration_ms": 263452,
-      "name": "All in Love is Fair",
-      "url": "https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "This Bitter Earth",
-        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 295951,
-      "name": "As Long as He Needs Me",
-      "url": "https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/2OAEoKkYrS5vLATLD4j9nN"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 393153,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/1tBLUuXRWEkbzOWVPmgtqG"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "This Bitter Earth",
+        "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 295951,
+      "name": "As Long as He Needs Me",
+      "url": "https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj"
     },
     {
       "added_at": "2024-12-06 13:29:58",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-12-06 13:29:58",
       "album": {
-        "name": "Neon Blue",
-        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
-      },
-      "artists": [
-        {
-          "name": "Muriel Zoe",
-          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
-    },
-    {
-      "added_at": "2024-12-06 13:29:58",
-      "album": {
         "name": "The Light and the Dark",
         "url": "https://open.spotify.com/album/1qxPX9S4J6SsD0X97yri3W"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 349720,
       "name": "Slow Waltz",
       "url": "https://open.spotify.com/track/5pm7RLC2S2Rwdv7O2XdI2l"
+    },
+    {
+      "added_at": "2024-12-06 13:29:58",
+      "album": {
+        "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
+      },
+      "artists": [
+        {
+          "name": "Muriel Zoe",
+          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
+        }
+      ],
+      "duration_ms": 262346,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
     },
     {
       "added_at": "2024-12-06 13:29:58",

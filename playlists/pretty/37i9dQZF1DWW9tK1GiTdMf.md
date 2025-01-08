@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica che ti fa stare così ༼ ༎ຶ ෴ ༎ຶ༽ lola young in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,855 likes - 91 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,856 likes - 91 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

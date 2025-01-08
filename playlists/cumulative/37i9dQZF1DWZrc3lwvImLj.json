@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Cold Winter",
+        "url": "https://open.spotify.com/album/5LtcjVMhd1GArPDzxngAd5"
+      },
+      "artists": [
+        {
+          "name": "Denalia",
+          "url": "https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Cold Winter",
+      "url": "https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE"
+    },
+    {
+      "album": {
         "name": "Con Cupido",
         "url": "https://open.spotify.com/album/09LK6yRnnWz7pm6QIesK95"
       },
@@ -1928,6 +1946,24 @@
       "duration_ms": 152000,
       "name": "En Croix",
       "url": "https://open.spotify.com/track/654q2B3IISzqGLze0GR9oC"
+    },
+    {
+      "album": {
+        "name": "Endless Sky",
+        "url": "https://open.spotify.com/album/6dSr4FlZ4WECgPfS3KKtoo"
+      },
+      "artists": [
+        {
+          "name": "Silent Turner",
+          "url": "https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Endless Sky",
+      "url": "https://open.spotify.com/track/4rsY7jFszjXimu33ADbCCq"
     },
     {
       "album": {
@@ -6110,6 +6146,24 @@
       "duration_ms": 263124,
       "name": "Sonata",
       "url": "https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai"
+    },
+    {
+      "album": {
+        "name": "Soon",
+        "url": "https://open.spotify.com/album/1EwLhOV7Qbx9ZhChlrgySu"
+      },
+      "artists": [
+        {
+          "name": "Mischa",
+          "url": "https://open.spotify.com/artist/2Dz5iH4IlsWr6gIbH23XwU"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126750,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/2HYlsAAfs0ZkFhJ4WVbz6u"
     },
     {
       "album": {

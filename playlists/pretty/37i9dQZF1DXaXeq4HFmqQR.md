@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: KUINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,897 likes - 35 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,902 likes - 35 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 16 | [carta a mi papá](https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:27 |
 | 17 | [Ryp](https://open.spotify.com/track/6lXy11iC3w8LLzhkXYXdF9) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [La Niña de Oro](https://open.spotify.com/album/085DYgF7YJhcI1jPupJ4zA) | 3:14 |
 | 18 | [Fck That](https://open.spotify.com/track/6aZomHzOBYl76O7KSoApa5) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Triste Y Linda: Triste](https://open.spotify.com/album/165LKgBYEmOFnLT55uFIk5) | 2:36 |
-| 19 | [ilegal.](https://open.spotify.com/track/2d5BsK5KVtv6GevWXeolNl) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [ilegal.](https://open.spotify.com/album/1XV0mUCzpeicwz6rw0oOF5) | 2:13 |
+| 19 | [4Life](https://open.spotify.com/track/1cn4eGvDoykUESAwHrzkGP) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [4Life](https://open.spotify.com/album/7pXOJzZqBYx3mQ1rp9Kxeo) | 3:08 |
 | 20 | [KOÑAK](https://open.spotify.com/track/6TDoN7ziq3r6wb5ct4ZySr) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ), [Hielo](https://open.spotify.com/artist/5VZOyRwZRgK3fC3sYRvuXh) | [SOLO ESTOY JUGANDO MIXXXTAPE](https://open.spotify.com/album/3Xp05lTrokyNhmksd0knNL) | 2:22 |
 | 21 | [FAMOSA](https://open.spotify.com/track/0QoI6vEuyqnbSUWbnPsCAj) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:20 |
-| 22 | [4Life](https://open.spotify.com/track/1cn4eGvDoykUESAwHrzkGP) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [4Life](https://open.spotify.com/album/7pXOJzZqBYx3mQ1rp9Kxeo) | 3:08 |
+| 22 | [ilegal.](https://open.spotify.com/track/2d5BsK5KVtv6GevWXeolNl) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [ilegal.](https://open.spotify.com/album/1XV0mUCzpeicwz6rw0oOF5) | 2:13 |
 | 23 | [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 |
 | 24 | [Centenas De Miles De Años](https://open.spotify.com/track/6o6CC4MPOoU9WXN1zEoX4A) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 3:12 |
 | 25 | [Queena](https://open.spotify.com/track/4Bnt9mnkdZ3hWDepcsx0Vp) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Queena](https://open.spotify.com/album/0UqlBeCldXRxxU9xMBB8KV) | 4:05 |

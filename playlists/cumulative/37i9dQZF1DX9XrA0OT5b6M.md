@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-64 songs - 4 hr 22 min
+66 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,10 @@
 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2023-08-23 |  |
 | [ウィーキャン!](https://open.spotify.com/track/55M7boCtVf0a3ncSyGvtzG) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx), [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーキャン!](https://open.spotify.com/album/2t1qZT1p1ZrEzCUcBaCbId) | 4:22 | 2023-08-23 |  |
 | [ウィーゴー!](https://open.spotify.com/track/2dA9mXOUIsKWBZNesDGqvm) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 4:08 | 2023-08-23 |  |
+| [ウィーゴー！ \- ～HIKAKIN & SEIKIN with モンキー・D・ルフィ Ver.～](https://open.spotify.com/track/2aQgRgqE3XCYnNrdPpCmR0) | [HIKAKIN & SEIKIN](https://open.spotify.com/artist/0TCRicBwMm2UFYTG35mSYy) | [ウィーゴー！ ～HIKAKIN & SEIKIN with モンキー・D・ルフィ Ver.～](https://open.spotify.com/album/6JeSFh2yw49kfrDJer2MeW) | 3:43 | 2025-01-07 |  |
+| [ウィーゴー！ \- ～麦わらの一味Ver.～](https://open.spotify.com/track/6cN1TuECTNn77qWg4FdYOr) | [麦わらの一味（田中真弓・中井和哉・岡村明美・山口勝平・平田広明・大谷育江・山口由里子・矢尾一樹・チョー・宝亀克寿）](https://open.spotify.com/artist/2ODDJu2gabjoB2HAgyLJW8) | [ウィーゴー！ \(～麦わらの一味Ver.～\)](https://open.spotify.com/album/2pMlJoGUxe4YY6TtJsWE4X) | 3:47 | 2025-01-07 |  |
 | [エターナルポーズ](https://open.spotify.com/track/53FC7Hz9CaWLrYMiIYzDnI) | [Asia Engineer](https://open.spotify.com/artist/74wZs5STRphhABONtu04tt) | [エターナルポーズ](https://open.spotify.com/album/5TuF8BaJ6bEOWHPVSSIZBX) | 5:03 | 2023-08-23 |  |
-| [エースを受け継ぐ!!!](https://open.spotify.com/track/2Ib0XkjwhDsu9LHWl5sr2H) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:20 | 2023-08-23 |  |
+| [エースを受け継ぐ!!!](https://open.spotify.com/track/2Ib0XkjwhDsu9LHWl5sr2H) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:20 | 2023-08-23 | 2025-01-08 |
 | [カタクリのテーマ](https://open.spotify.com/track/2WWc5nAx3baWLnZRH251SA) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 2:37 | 2023-08-23 | 2024-01-26 |
 | [ココロのちず](https://open.spotify.com/track/281YQGSeSsRpPgKjWEnyDp) | [BOYSTYLE](https://open.spotify.com/artist/5DTWsxuQv9Sb9QszMjUQZT) | [ココロのちず](https://open.spotify.com/album/1ZfdO4WpyRXad4BEhftN7x) | 4:23 | 2023-08-23 |  |
 | [コロシアムでの戦闘](https://open.spotify.com/track/6nkNjCS7JJrRjEIy07kDgu) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 2:08 | 2023-08-23 | 2024-02-28 |
@@ -62,11 +64,11 @@
 | [新生!麦わらの一味](https://open.spotify.com/track/0Blyxo1u0TWbK0RUXPlfgf) | [井内啓二](https://open.spotify.com/artist/5lV6kCxBzbADTYthjLSveR) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 2:18 | 2023-08-23 |  |
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2023-09-16 |  |
 | [次回予告 〜ウィーゴー!ver.〜](https://open.spotify.com/track/5qQWy2iK8bTlECxHRfKama) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 0:34 | 2023-08-23 |  |
-| [海侠のジンベエ](https://open.spotify.com/track/5ZnzrICLj4T99ORxE515tz) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 1:44 | 2023-08-23 |  |
+| [海侠のジンベエ](https://open.spotify.com/track/5ZnzrICLj4T99ORxE515tz) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 1:44 | 2023-08-23 | 2025-01-08 |
 | [狂死郎参戦！新たな仲間](https://open.spotify.com/track/7D8JnXbtnRsrbcTEVppEPM) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 1:54 | 2023-08-23 |  |
 | [私がいるよ](https://open.spotify.com/track/4kOg6GJfo1M4UntuWNcD7i) | [TOMATO CUBE](https://open.spotify.com/artist/23OQe0T0ugZZBMT33jHx03) | [ＴＯＭＡＴＯ ＣＵＢＥ](https://open.spotify.com/album/3Mp9iOLNx6Ikd7V2bVuuj6) | 3:58 | 2023-08-23 |  |
-| [約束の時](https://open.spotify.com/track/7GabjT5pIkKilMvh4uCcCW) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 2:18 | 2023-08-23 |  |
-| [行け行け!麦わらの一味!!](https://open.spotify.com/track/3sJfHZoWQkP7uFPH0VLY70) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 1:45 | 2023-08-23 |  |
+| [約束の時](https://open.spotify.com/track/7GabjT5pIkKilMvh4uCcCW) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 2:18 | 2023-08-23 | 2025-01-08 |
+| [行け行け!麦わらの一味!!](https://open.spotify.com/track/3sJfHZoWQkP7uFPH0VLY70) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 1:45 | 2023-08-23 | 2025-01-08 |
 | [覚醒したルフィの活躍](https://open.spotify.com/track/1XIw0Vp05DHkOcp0Rzkpii) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 1:44 | 2023-08-23 |  |
 | [頂上戦争](https://open.spotify.com/track/36m8jgxuYk5A6QWUJaUez0) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 1:28 | 2023-08-23 | 2024-01-08 |
 | [風をさがして](https://open.spotify.com/track/48Upc2XlJ66ckHn43e7Uet) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d) | [風をさがして](https://open.spotify.com/album/2EsJtDNBtiJgSjYiKAwk7W) | 4:05 | 2024-02-28 | 2024-04-19 |

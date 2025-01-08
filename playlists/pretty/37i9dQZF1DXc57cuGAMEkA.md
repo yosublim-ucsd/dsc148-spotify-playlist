@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Lil Baby, マカロニえんぴつ, Little Simz, Morgan Wallen and more! cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,274 likes - 68 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,272 likes - 68 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 41 | [Life Is A Movie \(Feat\. Jung Zi So\)](https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti) | [HANDS](https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU) | 3:10 |
 | 42 | [REMEMBER](https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [REMEMBER](https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY) | 3:39 |
 | 43 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 |
-| 44 | [Angel in the Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel in the Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
+| 44 | [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
 | 45 | [Shit Show \(feat\. Veeze & Lil Yachty\)](https://open.spotify.com/track/7Hz5ctf4toOdrv5jjJ1zHM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gift For The Streets](https://open.spotify.com/album/2XRIFNw0ODKJ4GO3DwjOBE) | 2:45 |
 | 46 | [Ballin](https://open.spotify.com/track/4EyehfnpTIVDavxTccLdET) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 2:55 |
 | 47 | [UNTITLED](https://open.spotify.com/track/7sPMLw5bY4gqtJgpYYCYx1) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [UNTITLED](https://open.spotify.com/album/0puoxQT409nq9IuV5GT2Va) | 3:40 |

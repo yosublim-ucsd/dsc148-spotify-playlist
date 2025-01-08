@@ -4,7 +4,7 @@
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Feby Putri
 
-97 songs - 6 hr 11 min
+98 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Tak Dianggap](https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Dianggap](https://open.spotify.com/album/4gLQxElbTHU36TbmckWS0j) | 2:59 | 2024-06-04 |  |
 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 | 2024-06-04 |  |
 | [Tak Semanis Dulu](https://open.spotify.com/track/0BadwcjiLlFYPl04GnwtnL) | [Maira](https://open.spotify.com/artist/575IqK1Km1I86w0e3OzVAL) | [Tak Semanis Dulu](https://open.spotify.com/album/7poVuWQWjPhFShrQtx3ITb) | 3:48 | 2024-06-04 | 2024-10-02 |
-| [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:11 | 2024-09-04 |  |
+| [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:11 | 2024-09-04 | 2025-01-08 |
+| [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/7m01HeNr05fw4GjgukrWWA) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Hitam Putih](https://open.spotify.com/album/5rTrfbcQlTr807zJKhH5zN) | 4:14 | 2025-01-07 |  |
 | [Tanpa Tuju](https://open.spotify.com/track/1XrrZtUNGfc792u63RKS2h) | [Gabriella Fernaldi](https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO) | [Tanpa Tuju](https://open.spotify.com/album/505MHZ9tnylYHgX7jvpmdC) | 3:19 | 2024-07-02 | 2024-09-05 |
 | [Tarian Pembantai](https://open.spotify.com/track/4cO6paTmfs8RamVyROWn8D) | [Figura Renata](https://open.spotify.com/artist/4l7rQ4b0SprtkOMgfMRDN5) | [Dunia Tetap Berputar Meskipun Aku Tertidur](https://open.spotify.com/album/44oL1mqGI2v4JwraqLQQBb) | 4:27 | 2024-06-04 | 2024-07-03 |
 | [Telat Cemburu](https://open.spotify.com/track/1u9pDLLKMz9S2ZdCIEAeTk) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Telat Cemburu](https://open.spotify.com/album/3EHqNyAUL8eRx2lZpGWqdk) | 3:19 | 2024-06-04 |  |

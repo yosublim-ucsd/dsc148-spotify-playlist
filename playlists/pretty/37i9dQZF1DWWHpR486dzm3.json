@@ -1,15 +1,31 @@
 {
   "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Ville Veikka.",
-  "num_followers": 14073,
+  "num_followers": 14076,
   "original_name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3cMpgAAAADlZCIth88AQI5hrhq8umaT",
+  "snapshot_id": "Z3z5uAAAAAAjILiryoyNQfBFmOhtyXBE",
   "tracks": [
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
+        "name": "Purppurakuu",
+        "url": "https://open.spotify.com/album/28lo0aYSMdbXQuLVxOZInH"
+      },
+      "artists": [
+        {
+          "name": "Topi Saha",
+          "url": "https://open.spotify.com/artist/634z144xl609g8O217USKM"
+        }
+      ],
+      "duration_ms": 282050,
+      "name": "Purppurakuu",
+      "url": "https://open.spotify.com/track/1PY5oesufrU9wSbT6u4ldm"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Hei hei ja hyv\u00e4sti",
         "url": "https://open.spotify.com/album/2ETubknpXplEytEEGTtiDb"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/1A3KXxnNSL1DLQXwn2mSxI"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Pimeydess\u00e4 on piilossa kaikki v\u00e4rit",
         "url": "https://open.spotify.com/album/6x369DfcrK9JVzyEyMwC87"
@@ -41,7 +57,23 @@
       "url": "https://open.spotify.com/track/07zYExWhDhhN2yjrNDDTZq"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
+        "name": "s\u00e4tkynukkekoti (live)",
+        "url": "https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq"
+      },
+      "artists": [
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "duration_ms": 253301,
+      "name": "anteeksi demo - s\u00e4tkynukkekoti (live)",
+      "url": "https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Valo Varjon",
         "url": "https://open.spotify.com/album/6TliPIevIULwORE06DeonI"
@@ -57,7 +89,23 @@
       "url": "https://open.spotify.com/track/6RrRfpFphzt5sss30sdtNl"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
+        "name": "Maailmaan luotu",
+        "url": "https://open.spotify.com/album/5GklZ79BYPg6Fnu90RAkps"
+      },
+      "artists": [
+        {
+          "name": "Tomi Nordlund & Syv\u00e4 Joki",
+          "url": "https://open.spotify.com/artist/4AwIOFa6wK3ViD6qNdSPBU"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Maailmaan luotu",
+      "url": "https://open.spotify.com/track/3XhbzSxA6CuerrtFtQuFbI"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/6se6rBdCnWt8kyhqbNfuWZ"
@@ -81,23 +129,7 @@
       "url": "https://open.spotify.com/track/2l2fds3LKVxSxQNEmM4d47"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
-      "album": {
-        "name": "Purppurakuu",
-        "url": "https://open.spotify.com/album/28lo0aYSMdbXQuLVxOZInH"
-      },
-      "artists": [
-        {
-          "name": "Topi Saha",
-          "url": "https://open.spotify.com/artist/634z144xl609g8O217USKM"
-        }
-      ],
-      "duration_ms": 282050,
-      "name": "Purppurakuu",
-      "url": "https://open.spotify.com/track/1PY5oesufrU9wSbT6u4ldm"
-    },
-    {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Summer Of Synesthesia",
         "url": "https://open.spotify.com/album/7s6fH8dEJMimmKslkswl7A"
@@ -117,23 +149,7 @@
       "url": "https://open.spotify.com/track/5wew02slQckjiz7OcDeAzg"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
-      "album": {
-        "name": "s\u00e4tkynukkekoti (live)",
-        "url": "https://open.spotify.com/album/3os3THtg6vURv8LhWwfeUq"
-      },
-      "artists": [
-        {
-          "name": "pehmoaino",
-          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
-        }
-      ],
-      "duration_ms": 253301,
-      "name": "anteeksi demo - s\u00e4tkynukkekoti (live)",
-      "url": "https://open.spotify.com/track/5AGwTNrnhatFWD0iVDRyPL"
-    },
-    {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Entiset yst\u00e4v\u00e4t",
         "url": "https://open.spotify.com/album/7eBqOAOUrVYhn3BS15p37G"
@@ -149,23 +165,7 @@
       "url": "https://open.spotify.com/track/689BwIZgfZ2FK1JhLbjfap"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
-      "album": {
-        "name": "Maailmaan luotu",
-        "url": "https://open.spotify.com/album/5GklZ79BYPg6Fnu90RAkps"
-      },
-      "artists": [
-        {
-          "name": "Tomi Nordlund & Syv\u00e4 Joki",
-          "url": "https://open.spotify.com/artist/4AwIOFa6wK3ViD6qNdSPBU"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Maailmaan luotu",
-      "url": "https://open.spotify.com/track/3XhbzSxA6CuerrtFtQuFbI"
-    },
-    {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Olet kaunis ja min\u00e4 vain / Aamulla",
         "url": "https://open.spotify.com/album/0VDPLwLmTkrdr67oKnUm0f"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/4h1p8nql7cnEhEnO7yi1QI"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "pikkusiskolle",
         "url": "https://open.spotify.com/album/6tVpysRlOH9fWFEy7XMZmG"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/3qbMgl51n4Xcw1YI8pOGCI"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Levoton tuhkimo",
         "url": "https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "these hours",
         "url": "https://open.spotify.com/album/5r4nvBsIkhpNQ7f9laJaQC"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/1So40MEoYZu0S7JbmXPyc8"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Suurimmat Hitit",
         "url": "https://open.spotify.com/album/2nAE2qD1qA4AGJKGyn8eXI"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/4VlNGP25PBFMz3BsH4TE4N"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "teenagestylez",
         "url": "https://open.spotify.com/album/61jqDAJzmyqG4mFGDTT4U8"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/1OlZdNudtDZdkRCZykhZVK"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "The Last Christmas",
         "url": "https://open.spotify.com/album/2SNkesgHTXhnpfsRBotaRd"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/5A5nTcX10qoYavLqHHr8ut"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Psykedeelinen Harmaa",
         "url": "https://open.spotify.com/album/4yKPRxh7bnDqc0PsJLBKNW"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/4jjzce0WWJ0k6rehl4Zxrz"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Jokainen maaliviiva",
         "url": "https://open.spotify.com/album/18w1uTdq9RvWNQTRxT4aY3"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/4XGtyJ82UWTp3dxbK3MDZZ"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Right Type of High",
         "url": "https://open.spotify.com/album/2sihDxLUINNBsrIe26nRxM"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/3PDekYAUdenHhS3SUep701"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "The Beast In Me",
         "url": "https://open.spotify.com/album/2eUWAJr2cMha8M1HeboLPh"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/2u5zlkN9ysoR0kMpxKXRkh"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Nyt oon zen",
         "url": "https://open.spotify.com/album/1XV5GcJZsLEfaHpUQjorGK"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/0FZX66x7H6VyfnlLVJ8Tm1"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Hetkeksi sun luo",
         "url": "https://open.spotify.com/album/5HWYb3p9yLdjS0uoSZSgJs"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/1mpttyiiqcBDisdDhGp23q"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "The Blue Cafe",
         "url": "https://open.spotify.com/album/0OIIeN56QmSh2tmuPPXW4k"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/2XAjxqJavmn3CGzUEnN5Hh"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Riippuvaisia Toisistaan",
         "url": "https://open.spotify.com/album/5dXTWPGqzDSdBbXQYZeDSV"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/5KhK5vI86yXi0kOpqkE6os"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Virheist\u00e4 t\u00e4rkein",
         "url": "https://open.spotify.com/album/2ivGSIkBHP8iy3qlLF0IyJ"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/5MwzH4dI9Rqi1STbvteTqu"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Kiltti tytt\u00f6",
         "url": "https://open.spotify.com/album/70D8AdO8YZMTueHyVKvgi5"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/5jJjiAWtaSE8CPqeAmD2Hv"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Sunshine Honey",
         "url": "https://open.spotify.com/album/3bGdevJRs8nGGb3vb4XVMP"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/0k7tJangTOrxe2vRD3VOp8"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Tallessa minussa",
         "url": "https://open.spotify.com/album/4Y9ey8UW9VLbJc1IwefH8K"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/3e7AKLCVNm1jdoXuNAaamH"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Neiti etsiv\u00e4",
         "url": "https://open.spotify.com/album/0FYN33JtAPLyXkgqsJ6sPS"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/2G3rEJIk1oEVRLMl3fGMR1"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "En m\u00e4 jaksa en\u00e4\u00e4 mit\u00e4\u00e4n (jee jee jee)",
         "url": "https://open.spotify.com/album/5UGyeF1aJKakqrx9AFZ8iO"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/6zipvhfFWDcfJTe6XnUiXc"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "N\u00e4m\u00e4 k\u00e4det ei paljon suojaa",
         "url": "https://open.spotify.com/album/193ymWcRBSLLbR057je7HA"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/2Kh42iSUri4tj6690r56Sr"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Addiction (Run)",
         "url": "https://open.spotify.com/album/74pHrRIvHiTSFrPOEqcIjp"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/4disxIVSA5hT9V9hdei7Em"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Hyvink\u00e4\u00e4 (Kaikki v\u00e4syneet hevoset)",
         "url": "https://open.spotify.com/album/2kh4Zvacl4ioLhI2R1sKQE"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/7IxRCa2UfwqNmFoUdiqcjm"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Painutaan vittuun, baby",
         "url": "https://open.spotify.com/album/4rUquUvf1LzPVn4aujLYEC"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/7al1oz7YzGVlx4suc4KgXG"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Nostalgiaa",
         "url": "https://open.spotify.com/album/7BiJx0FVmId9ASIuBSIE0o"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/0lwVSjuuMPWdxYXf1Xv6eq"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Love Collection: By the Ashes That Used to Be the Everlasting Fire",
         "url": "https://open.spotify.com/album/5mOj1aHnLIvDBKw9xYTo7u"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/7oc0Rj7zrMUOD373g77VJQ"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "So I ask",
         "url": "https://open.spotify.com/album/0NUZmI3MaDNmJcdrED0A8f"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/2bs3zYhRPdcqRHYdUwVQuP"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Neighbours",
         "url": "https://open.spotify.com/album/4fTgZJ9lQIrvZeKw3T0cfI"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/0iyxwM8XRMo96el0acBxHm"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Kaaosteoria",
         "url": "https://open.spotify.com/album/4gS9WrGRcy7Hwxqvl2umGY"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/3avS6AUsfgdZvYeT4AKNB1"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Ihminen",
         "url": "https://open.spotify.com/album/0V9lkmycGW7Ijku9SgNC4P"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/7LBjpiR9LRDzVOcbjeA5ua"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Introducing Emilia Sisco",
         "url": "https://open.spotify.com/album/1lvOIuc3C9zGYDC1RvaOEW"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/2Xundj7ojtRnVc4jtgdhW8"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Malmille",
         "url": "https://open.spotify.com/album/6AqQDJLQbDDGZkKr9MiJ8j"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/1nFp8TvpFvHXyFTRdDD4ke"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Amanda/Ota Viivi viski",
         "url": "https://open.spotify.com/album/7F0z3eu7mjdHfNbLY5ec95"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/3OtQlxBiD6xHvFcwQ2fVxW"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Alaovella",
         "url": "https://open.spotify.com/album/0AFWiByybA2LpIGBFzjeUL"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/2ThD0DBfzhoC1uHrMsvdcG"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Veli Sepp\u00e4",
         "url": "https://open.spotify.com/album/5Kn7edp1r5WFcqNRNzo8M1"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/6vCJDPcsUzbHQHkiIavLWb"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Joni Ekman Group",
         "url": "https://open.spotify.com/album/4oc1CplQfSwiiFPrRRZzhN"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/2ICGnIMfrkLaXCQnX9XyZE"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Valons\u00e4teet",
         "url": "https://open.spotify.com/album/6rw1MPEfyjLJd3XbyZcgDK"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/3xCIF7RAaUPU0teP44pOjA"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Kaikki alko siit\u00e4 mihin me loputtiin",
         "url": "https://open.spotify.com/album/5zETVg01zy9sKe9X2Or5N1"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/3JH8XpuRVCoKIrZ6OVTmew"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Ei aikaa",
         "url": "https://open.spotify.com/album/5uNiSQeftpgY26MMXF8xdT"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/5jn2mlHNTa44FMxeEtzYEQ"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Ruusuja seinill\u00e4",
         "url": "https://open.spotify.com/album/3bgpQQvgWEAxNTay62wtcS"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/26J7Pr3XripisF8pYCTI5y"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "T\u00e4\u00e4 on taistelua",
         "url": "https://open.spotify.com/album/4JF1qEOmN4s80l70f98v3c"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/09gaGwBr6lto3tZYagclTG"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Kuuntele mua",
         "url": "https://open.spotify.com/album/3PiNIdWzCsTp7AZ34VZzA3"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/7lXzatFw0BPWRaAMcHQVI7"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "LOL (Liika on liikaa)",
         "url": "https://open.spotify.com/album/0dFVKKAq0Gg7OgZ5JwgC9P"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/0MXXKYIGZc7JNJnaKoV22f"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "\u00c4l\u00e4 mee",
         "url": "https://open.spotify.com/album/0E1rPmkj8jfpBXHoeDTAuy"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/0sUAHX8x5rX8lEHOMMn6xo"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "K\u00f6mpel\u00f6 kummitus",
         "url": "https://open.spotify.com/album/3CTadz4Z35IGYbWAKuFj8q"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/0twR3fm6dvrJ6zsPssNP7g"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Real Deal",
         "url": "https://open.spotify.com/album/3nMZihEtr8Dt461JCop9IG"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/4KjhEcv80hXyHs64cThaca"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "I Only Love You When I'm Lonely",
         "url": "https://open.spotify.com/album/5cJboHi1NEcVxrDD1DWxA0"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/37Rk2Hf7um08yDHKng24Wl"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Kadonnut kaamokseen",
         "url": "https://open.spotify.com/album/2bAWRGAZtBFdrkJV012Do9"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/68pm6FHAdoLVreb87luOip"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Narkkari",
         "url": "https://open.spotify.com/album/4LedmvNtP7zqa8vZbRlDYi"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/6fr0IQODEejkQ9qDqNUzeK"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Sisko, m\u00e4 kaipaan sua",
         "url": "https://open.spotify.com/album/4jMDoLqvShS3jDkb9LGU93"
@@ -997,7 +997,7 @@
       "url": "https://open.spotify.com/track/5aNQyx1Cvha3yNHNBjUFLH"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Taikay\u00f6 Camping",
         "url": "https://open.spotify.com/album/0mEPr8uhmIMywtkiF89SKL"
@@ -1013,7 +1013,7 @@
       "url": "https://open.spotify.com/track/6EdeFo94PEOTgcGu2a7aEt"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Kerro sille milt\u00e4 susta tuntuu",
         "url": "https://open.spotify.com/album/3FrTK1exrDisrmK4YM2mDP"
@@ -1029,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5N8LMBUx36wU53rr1yKjVs"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3H3HWZ32mpA1lHo1O1emrh"
@@ -1045,7 +1045,7 @@
       "url": "https://open.spotify.com/track/1aIQDZKcwX6NgpZkOkv58i"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "lounasravintolat",
         "url": "https://open.spotify.com/album/6fq5G3GLk6IYZAAYWHUMMy"
@@ -1061,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2CuUY3ZXqsikp9wOZw9Xyd"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Just just elossa",
         "url": "https://open.spotify.com/album/5NDJYnjxJdunVbwIkm3jV5"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/21boHrmbqz9hYIc0BQrFlu"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Ikuisesti*",
         "url": "https://open.spotify.com/album/3xbYbBKaHjFoY2J6kquQ2b"
@@ -1093,7 +1093,7 @@
       "url": "https://open.spotify.com/track/5n351WUWFaHSpIU38GKZKH"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Meid\u00e4n haavat",
         "url": "https://open.spotify.com/album/6D16wZNvTU1aXvFgEVpNwH"
@@ -1109,7 +1109,7 @@
       "url": "https://open.spotify.com/track/7AyCmzhJUEG3rekoIKfgQB"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "joka p\u00e4iv\u00e4 jotain mun sis\u00e4ll\u00e4 kuolee",
         "url": "https://open.spotify.com/album/4VaPlXLXzwBKm6dg5xxyIl"
@@ -1125,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4RLtpcQgGRyvHNIWcRFtc0"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Katulamput",
         "url": "https://open.spotify.com/album/4BogYtcBypXFpywd1xaOce"
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/2ZdibpNpzY136xCmwMzdM7"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Murheita menneiden",
         "url": "https://open.spotify.com/album/6KgSrEWXNYIk70Tl9D0eN2"
@@ -1157,7 +1157,7 @@
       "url": "https://open.spotify.com/track/0LTnAZufNi2w4ij6gfSZj5"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Tuuli",
         "url": "https://open.spotify.com/album/6MNqve56wAXWpnQkzVpzqP"
@@ -1173,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3mWoYA6ffvMfqXAgEk3JYE"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Ohikulkija",
         "url": "https://open.spotify.com/album/2pC1pQLiJ71YhUznB0JxCy"
@@ -1189,7 +1189,7 @@
       "url": "https://open.spotify.com/track/0eYbfN2ktdBTLGyLFqkWrB"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Oona Amalia",
         "url": "https://open.spotify.com/album/21C9OLePWUlPeQDVrhHvOy"
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/4TBWQONKcwLm1XQyeHfMVP"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Jyt\u00e4st\u00e4 ja rakkaudesta",
         "url": "https://open.spotify.com/album/7jaDUluLOSrdCClCsQEt78"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/77MilUFkwaiyRsPJgulf2U"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Hedelm\u00e4t homehtuu",
         "url": "https://open.spotify.com/album/7cUcpPmEXqSNQTGI7LOGuY"
@@ -1237,7 +1237,7 @@
       "url": "https://open.spotify.com/track/7qBCM99MZa92OVuha94t7V"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Plenty",
         "url": "https://open.spotify.com/album/1mK53QazuVzxpUoaqiJVfq"
@@ -1253,7 +1253,7 @@
       "url": "https://open.spotify.com/track/6jvKzA0VWGRyMc8F4OQbVd"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "Laatikkoon",
         "url": "https://open.spotify.com/album/7dFJNYMTDhf4GyGcD7KLlM"
@@ -1269,7 +1269,7 @@
       "url": "https://open.spotify.com/track/5HM5spmQh0wLUNLn2hEp0m"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "L\u00e4ht\u00f6",
         "url": "https://open.spotify.com/album/3g58so1WCOX3T8rpaLUsnV"
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/4zNwSZYrlWiyhu9ZVDS8u3"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "KEHO",
         "url": "https://open.spotify.com/album/1mfLzqmF7ebaIPdDNCgc8D"
@@ -1305,7 +1305,7 @@
       "url": "https://open.spotify.com/track/710JadgMih1f456piEekIX"
     },
     {
-      "added_at": "2025-01-02 22:01:10",
+      "added_at": "2025-01-07 09:54:00",
       "album": {
         "name": "El\u00e4k\u00f6\u00f6n h\u00e4n!",
         "url": "https://open.spotify.com/album/6BtpMyBbKScCgCiMQq9GBO"

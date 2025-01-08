@@ -93,6 +93,36 @@
     },
     {
       "album": {
+        "name": "4U (Remixes)",
+        "url": "https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        },
+        {
+          "name": "Edu Campos",
+          "url": "https://open.spotify.com/artist/2RvoRUjBaJOEHIlfjs9V2J"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180005,
+      "name": "4U - Edu Campos Remix",
+      "url": "https://open.spotify.com/track/4U9f50xOGsxa4aFPkU2pxQ"
+    },
+    {
+      "album": {
         "name": "a lesson in chemistry",
         "url": "https://open.spotify.com/album/2slYBTkG0mGdQEmQVe6dD3"
       },

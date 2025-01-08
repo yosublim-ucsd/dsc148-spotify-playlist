@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Ad\u00e1n Cruz en portada. ",
-  "num_followers": 16803,
+  "num_followers": 16813,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -271,42 +271,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/6sNtRiZlTv2j2wNN65pOxm"
-      },
-      "artists": [
-        {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/2210LR7U3nQAi33tLAM5fY"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Hismat",
-        "url": "https://open.spotify.com/album/7fptEMHRSHj89lvH1Hxtow"
-      },
-      "artists": [
-        {
-          "name": "Reis Belico",
-          "url": "https://open.spotify.com/artist/6T8S4zSY1ICYEG50Hgs3QJ"
-        }
-      ],
-      "duration_ms": 221590,
-      "name": "Hismat",
-      "url": "https://open.spotify.com/track/6BQv7HuDLoqCUtK4bNoFUC"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "Mi Psique",
         "url": "https://open.spotify.com/album/0Ne0ybMfVliyZKHBWao02T"
       },
@@ -327,6 +291,42 @@
       "duration_ms": 197761,
       "name": "Mi Psique",
       "url": "https://open.spotify.com/track/39zwkSmunfnvgneq5SSv3H"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Hismat",
+        "url": "https://open.spotify.com/album/7fptEMHRSHj89lvH1Hxtow"
+      },
+      "artists": [
+        {
+          "name": "Reis Belico",
+          "url": "https://open.spotify.com/artist/6T8S4zSY1ICYEG50Hgs3QJ"
+        }
+      ],
+      "duration_ms": 221590,
+      "name": "Hismat",
+      "url": "https://open.spotify.com/track/6BQv7HuDLoqCUtK4bNoFUC"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/6sNtRiZlTv2j2wNN65pOxm"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/2210LR7U3nQAi33tLAM5fY"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "BURN",
-        "url": "https://open.spotify.com/album/3UApKp9usMuiIm6vRJXCqj"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 177442,
-      "name": "BURN",
-      "url": "https://open.spotify.com/track/0EvLk2s8ACgEjiZyyTcu5E"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "NADA QUE TEMER",
         "url": "https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 166829,
       "name": "NADA QUE TEMER",
       "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "BURN",
+        "url": "https://open.spotify.com/album/3UApKp9usMuiIm6vRJXCqj"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 177442,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/0EvLk2s8ACgEjiZyyTcu5E"
     },
     {
       "added_at": "2024-12-20 06:00:09",

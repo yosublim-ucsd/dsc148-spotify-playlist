@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 18539,
+  "num_followers": 18546,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAABlfG5WOqcazCzZNt98igun",
+  "snapshot_id": "Z3sdAAAAAADXSAlb1ssFd/vP60gZIV7t",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sea and Silence",
-        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 807853,
-      "name": "Sea and Silence",
-      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+        "name": "Sea and Silence",
+        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 386840,
-      "name": "Surfing the Clouds",
-      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
+      "duration_ms": 807853,
+      "name": "Sea and Silence",
+      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+        "name": "Mystery of Light",
+        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 420160,
-      "name": "Black Velvet Flirt",
-      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+      "duration_ms": 324426,
+      "name": "Memories of an Angel",
+      "url": "https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 420160,
+      "name": "Black Velvet Flirt",
+      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -607,38 +623,6 @@
       "duration_ms": 383133,
       "name": "Deux",
       "url": "https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mystery of Light",
-        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 324426,
-      "name": "Memories of an Angel",
-      "url": "https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spiritual Healing",
-        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 493139,
-      "name": "Wind in Bamboo",
-      "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
     },
     {
       "added_at": null,
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
       },
       "artists": [
         {
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 416800,
-      "name": "Cinque",
-      "url": "https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p"
+      "duration_ms": 493139,
+      "name": "Wind in Bamboo",
+      "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
       "duration_ms": 610733,
       "name": "Loving Touch",
       "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Cinque",
+      "url": "https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p"
     },
     {
       "added_at": null,

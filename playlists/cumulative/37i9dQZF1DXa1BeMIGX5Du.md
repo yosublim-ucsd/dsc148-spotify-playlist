@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-371 songs - 22 hr 45 min
+373 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Doctor Doctor](https://open.spotify.com/track/6kAKAVqL4v1VoCX0FdWSPv) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Duck](https://open.spotify.com/album/67xloF0stkFh62tuSV3hWR) | 3:49 | 2024-06-18 |  |
 | [Dolly](https://open.spotify.com/track/64Wk4YklGLIfT3BaAhtrPr) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Dolly](https://open.spotify.com/album/0SO3o4OeB8ewVF8uWgXBHa) | 3:39 | 2024-06-18 | 2024-10-07 |
 | [Don't Do Me Good](https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:13 | 2024-02-16 | 2024-04-19 |
-| [Don't Do Me Good](https://open.spotify.com/track/5tZOyvkWEGnGE2dQM3jvzb) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:13 | 2024-02-16 |  |
+| [Don't Do Me Good](https://open.spotify.com/track/5tZOyvkWEGnGE2dQM3jvzb) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:13 | 2024-02-16 | 2025-01-08 |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-16 | 2024-11-19 |
 | [Don't Know How To Keep Loving You](https://open.spotify.com/track/5OQaeU3MX9nMxQI7guLLGC) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/3V1kRHndm0IYXXoDKNg2Nz) | 5:32 | 2024-04-02 | 2024-07-22 |
 | [Don't Leave Me Behind](https://open.spotify.com/track/6oMnaKyIFJgUHmatd5VuRi) | [Mark Wilkinson](https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK) | [Don't Leave Me Behind](https://open.spotify.com/album/2DpBmDlGvt8oJz7HgGifV4) | 2:29 | 2024-11-19 |  |
@@ -118,6 +118,7 @@
 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 | 2022-03-25 | 2024-02-17 |
 | [Fireball Whiskey](https://open.spotify.com/track/4G2EXo1ZY5ql0XcViRrXF6) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Fireball Whiskey](https://open.spotify.com/album/54He2QNHwh79iYkkgAfQTO) | 3:29 | 2023-09-22 | 2024-02-17 |
 | [First Breath](https://open.spotify.com/track/318w7tTXrLWyNBFokyumUh) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [First Breath](https://open.spotify.com/album/5BM8EIcNMdIpzd5of7jR7Q) | 6:11 | 2024-10-21 |  |
+| [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 | 2025-01-07 |  |
 | [For All You Give](https://open.spotify.com/track/59GNu8e5TeFC8RsdkdXJsz) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give](https://open.spotify.com/album/7CgedGQTmESdQxTg2FE3mR) | 3:11 | 2022-10-10 | 2022-11-13 |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-06-17 | 2024-04-05 |
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/0vL6Dt7L7k9srca6XxtjBM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/album/0cPqenJtgD6FP5UTST0fE2) | 3:11 | 2022-03-25 | 2022-07-29 |
@@ -148,6 +149,7 @@
 | [Gummy Bamarra](https://open.spotify.com/track/3JvBNayk94KpTpHbS32jow) | [Jungaji](https://open.spotify.com/artist/22kfA8FEtj4hY3z5c0elVg) | [Gummy Bamarra](https://open.spotify.com/album/1YirWSzBWhbZTyb3CJfb4B) | 4:43 | 2024-06-04 | 2024-09-10 |
 | [Hands](https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Hands](https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp) | 2:51 | 2024-03-07 | 2024-09-23 |
 | [Heaven](https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:44 | 2023-09-22 | 2024-05-24 |
+| [Heaven's Daughter](https://open.spotify.com/track/3r35yMKLwL1q52pV2SQGAf) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Heaven's Daughter](https://open.spotify.com/album/6NdI87tagkpWZWEwvLtmnZ) | 2:23 | 2025-01-07 |  |
 | [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 | 2023-09-22 | 2024-04-19 |
 | [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 | 2023-09-22 | 2024-05-17 |
 | [Hold Your Hair](https://open.spotify.com/track/3JPvjupgTUmtJiNL5WJrQw) | [Timothy Nelson](https://open.spotify.com/artist/4TpiiLJXJUpNjdBYvZB3vq) | [Hold Your Hair](https://open.spotify.com/album/1VcTJTrnbPrDnEFQfqOoer) | 3:02 | 2024-08-26 |  |
@@ -265,7 +267,7 @@
 | [Same Things](https://open.spotify.com/track/3x2yirfV6nasZqmQ67PD1y) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/6P5iR01v1KjmALN4bwkIKD) | 2:49 | 2024-04-04 | 2024-07-13 |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2022-03-25 | 2024-04-03 |
 | [Scared To Start \- Sun Mountain Sessions](https://open.spotify.com/track/0xVwILVFkJ1JECDhRUQB57) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start \(Sun Mountain Sessions\)](https://open.spotify.com/album/2qO3jeAQVCgoECuwTOohmw) | 2:58 | 2024-02-29 | 2024-11-19 |
-| [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 | 2024-02-22 |  |
+| [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 | 2024-02-22 | 2025-01-08 |
 | [Shiva](https://open.spotify.com/track/42oPBjCm3xqOfevxJcjhdO) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Shiva](https://open.spotify.com/album/3Q8CPszxKBHYKSMNlv5wrf) | 3:02 | 2024-06-18 |  |
 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 | 2024-07-12 | 2024-08-27 |
 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 | 2022-03-25 | 2024-11-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 141303,
+  "num_followers": 141370,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 367493,
-      "name": "Original Bedroom Rockers",
-      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Saturday Teenage Kick",
         "url": "https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 327173,
       "name": "Dealing with the Roster",
       "url": "https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 367493,
+      "name": "Original Bedroom Rockers",
+      "url": "https://open.spotify.com/track/348kpkfbJUZn7GBpOEvPh4"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Play & Play: The B Sides",
-        "url": "https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/4qUVntQ46fmejnJDlRlJpw"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 151520,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Play & Play: The B Sides",
+        "url": "https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/4qUVntQ46fmejnJDlRlJpw"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Bodyrock",
-      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Since I Left You",
         "url": "https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 288346,
       "name": "Frontier Psychiatrist",
       "url": "https://open.spotify.com/track/0E2UdlzNQP9I70MYumYlFo"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Decksandrumsandrockandroll",
+        "url": "https://open.spotify.com/album/4Nt2YqpZ4Ls3isMeB6dF51"
+      },
+      "artists": [
+        {
+          "name": "Propellerheads",
+          "url": "https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp"
+        }
+      ],
+      "duration_ms": 441760,
+      "name": "Take California",
+      "url": "https://open.spotify.com/track/6BepfRQPu3N9Ms3Y5pYsEM"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Decksandrumsandrockandroll",
-        "url": "https://open.spotify.com/album/4Nt2YqpZ4Ls3isMeB6dF51"
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
       },
       "artists": [
         {
-          "name": "Propellerheads",
-          "url": "https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 441760,
-      "name": "Take California",
-      "url": "https://open.spotify.com/track/6BepfRQPu3N9Ms3Y5pYsEM"
+      "duration_ms": 216440,
+      "name": "Bodyrock",
+      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
     },
     {
       "added_at": "2021-07-14 17:36:34",

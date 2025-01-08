@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62086,
+  "num_followers": 62110,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3uQpgAAAADf1OzuBRXCSo7QGF8gqE+h",
+  "snapshot_id": "Z30jLgAAAADK4ZoedNxvdYlhXbVPJJIY",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -95,6 +95,62 @@
       "duration_ms": 209333,
       "name": "Hukka Eli (From \"Rudhra Garuda Purana\")",
       "url": "https://open.spotify.com/track/4seR4tRnj1wqw413Q3qTbG"
+    },
+    {
+      "added_at": "2025-01-07 12:49:55",
+      "album": {
+        "name": "Cheap Song (From \"Ui\")",
+        "url": "https://open.spotify.com/album/4RPpSMjmUNBaJFIu3PM4Q9"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Upendra",
+          "url": "https://open.spotify.com/artist/2gmPDpR4396fHMXsV1jWbH"
+        }
+      ],
+      "duration_ms": 185130,
+      "name": "Cheap Song (From \"Ui\")",
+      "url": "https://open.spotify.com/track/2f4YWnkkagXHhzyB0PSW5x"
+    },
+    {
+      "added_at": "2025-01-07 12:48:32",
+      "album": {
+        "name": "Aati Kalanja (From \"Adhipatra\")",
+        "url": "https://open.spotify.com/album/5jNIMUoBWZgRdDTrAm1ldY"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Shrihari Shresty",
+          "url": "https://open.spotify.com/artist/2OmYwdyzpkf1gx8apxtU9b"
+        },
+        {
+          "name": "Chayan Shetty",
+          "url": "https://open.spotify.com/artist/2NJ1niLo44H7ZNptlfyktV"
+        }
+      ],
+      "duration_ms": 186111,
+      "name": "Aati Kalanja (From \"Adhipatra\")",
+      "url": "https://open.spotify.com/track/2bgD3AK34phOQSIXY5bOom"
     },
     {
       "added_at": "2025-01-06 08:13:26",
@@ -189,6 +245,34 @@
       "url": "https://open.spotify.com/track/5zqb5RrXhjFvtIBPaWmasb"
     },
     {
+      "added_at": "2025-01-07 12:50:54",
+      "album": {
+        "name": "Babu Moshaya (From \"Zebra\") [KANNADA]",
+        "url": "https://open.spotify.com/album/3cU9eb0a3jQi1U69Nhzr2i"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Sangeetha Ravindra",
+          "url": "https://open.spotify.com/artist/0lIXbYtL2pm1cQrmULxfDm"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        }
+      ],
+      "duration_ms": 212198,
+      "name": "Babu Moshaya (From \"Zebra\") [KANNADA]",
+      "url": "https://open.spotify.com/track/5ufLe6Anicn3ZIB58xcKi3"
+    },
+    {
       "added_at": "2025-01-06 08:12:37",
       "album": {
         "name": "Hejjeye Roopisu (From \"Nodidavaru Enantare\")",
@@ -196,8 +280,8 @@
       },
       "artists": [
         {
-          "name": "Mayuresh Adhikari",
-          "url": "https://open.spotify.com/artist/5tXCpOrFyQdIaV9NJySLRT"
+          "name": "Mayuresh A",
+          "url": "https://open.spotify.com/artist/2jZG20zvYlAeYnfRYZnBOi"
         },
         {
           "name": "Jayant Kaikini",
@@ -1577,30 +1661,6 @@
       "url": "https://open.spotify.com/track/4eUjuiWAWWOfXgF5bAuLHF"
     },
     {
-      "added_at": "2024-11-08 13:16:35",
-      "album": {
-        "name": "Lay Lay Raja (From \"Matka\")(Kannada)",
-        "url": "https://open.spotify.com/album/2wKAURGfqgBgL5LigzsyTe"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "LN. Surya",
-          "url": "https://open.spotify.com/artist/0njPpkEpftProSoKUNXGkn"
-        },
-        {
-          "name": "Meghana Haliyal",
-          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
-        }
-      ],
-      "duration_ms": 246714,
-      "name": "Lay Lay Raja (From \"Matka\")(Kannada)",
-      "url": "https://open.spotify.com/track/1MkH3RhgeE7x5CXpU5z3r4"
-    },
-    {
       "added_at": "2024-11-07 13:04:34",
       "album": {
         "name": "Teri Meri (From \"Zebra\") [Kannada]",
@@ -1619,30 +1679,6 @@
       "duration_ms": 247087,
       "name": "Teri Meri (From \"Zebra\") [Kannada]",
       "url": "https://open.spotify.com/track/2CcYwfhqi66c3oYUPNG53c"
-    },
-    {
-      "added_at": "2024-11-05 10:55:23",
-      "album": {
-        "name": "Hudukutha Hode (From \"Aaram Aravinda Swamy\")",
-        "url": "https://open.spotify.com/album/6cH8vFeshScgai7SlgfETZ"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Anoop Ramaswamy Kashyap",
-          "url": "https://open.spotify.com/artist/6a71yj0Cnnwd5kfEDHRzAg"
-        },
-        {
-          "name": "Jaskaran Singh",
-          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Hudukutha Hode (From \"Aaram Aravinda Swamy\")",
-      "url": "https://open.spotify.com/track/5PNZvmaCf1eEZIBbOiPQzW"
     },
     {
       "added_at": "2024-11-07 05:56:47",

@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-450 songs - 19 hr 42 min
+453 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Chrysalis](https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chrysalis](https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR) | 2:31 | 2022-12-21 |  |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-01-19 | 2023-11-16 |
 | [Close To You](https://open.spotify.com/track/7zuK6SB9iQN17ZLOdCcCjd) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Close To You](https://open.spotify.com/album/18AxWYSX9I2yR5PagBl4r3) | 2:07 | 2021-12-14 | 2022-05-05 |
+| [Cold Winter](https://open.spotify.com/track/6Dv7Mp07ahxiF5WIngOqvE) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Cold Winter](https://open.spotify.com/album/5LtcjVMhd1GArPDzxngAd5) | 2:57 | 2025-01-07 |  |
 | [Con Cupido](https://open.spotify.com/track/54eceUoCcFJUi1YV20rXfY) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Con Cupido](https://open.spotify.com/album/09LK6yRnnWz7pm6QIesK95) | 1:56 | 2023-02-28 | 2023-11-16 |
 | [Cos I doubt](https://open.spotify.com/track/4epcGvObMyr1L34QAkrFVH) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Cos I doubt](https://open.spotify.com/album/2G1z1EYEKOm06SSpEQBlA7) | 2:26 | 2022-09-13 |  |
 | [Counting the Days You’re Gone](https://open.spotify.com/track/69fSsSmk0EHoJjiUK12AKm) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Counting the Days You’re Gone](https://open.spotify.com/album/3dbXjKwnJZj5eLpXrx9PqX) | 3:24 | 2022-02-02 |  |
@@ -115,6 +116,7 @@
 | [Elysian](https://open.spotify.com/track/1QYSgHrLS4eQpXA5Dn90nn) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Elysian](https://open.spotify.com/album/1AMivM48J7s1rX5jPAj1Xm) | 2:36 | 2023-12-12 |  |
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2022-03-30 |  |
 | [En Croix](https://open.spotify.com/track/654q2B3IISzqGLze0GR9oC) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [En Croix](https://open.spotify.com/album/4B3HBQx4nsZnUWJ822TwR0) | 2:32 | 2022-02-16 | 2023-11-16 |
+| [Endless Sky](https://open.spotify.com/track/4rsY7jFszjXimu33ADbCCq) | [Silent Turner](https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl) | [Endless Sky](https://open.spotify.com/album/6dSr4FlZ4WECgPfS3KKtoo) | 2:50 | 2025-01-07 |  |
 | [Eosphoros](https://open.spotify.com/track/4QqXkYp0fsZZjyTBr7QtSS) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros](https://open.spotify.com/album/09BUR6MGDwFlKtGWv0b7AM) | 2:09 | 2022-05-20 | 2023-11-16 |
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2021-12-14 | 2023-11-16 |
 | [Eternal](https://open.spotify.com/track/4sev7LAzn0sTDpZ9tE2eaE) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Eternal](https://open.spotify.com/album/7jlA8VZmKDsECqR0jdhHwR) | 2:48 | 2023-06-20 |  |
@@ -346,6 +348,7 @@
 | [Somewhere](https://open.spotify.com/track/6WZ0FZFfh0kwNYOwaxlAr7) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Somewhere](https://open.spotify.com/album/6wP1XjtfhZjzvFiDTJMfgV) | 3:02 | 2021-12-14 | 2023-05-10 |
 | [Sommersturm \- Solo Piano](https://open.spotify.com/track/4lVmCosrwdhCJPhXyqs0do) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Sommersturm](https://open.spotify.com/album/5MoRUWekh0EO4FOurmyDCE) | 2:39 | 2021-12-14 | 2022-04-23 |
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-05 |  |
+| [Soon](https://open.spotify.com/track/2HYlsAAfs0ZkFhJ4WVbz6u) | [Mischa](https://open.spotify.com/artist/2Dz5iH4IlsWr6gIbH23XwU) | [Soon](https://open.spotify.com/album/1EwLhOV7Qbx9ZhChlrgySu) | 2:06 | 2025-01-07 |  |
 | [Soul Lotion](https://open.spotify.com/track/3Wybg2sLkq2ZrA364KfQfz) | [Cadet de l'espace](https://open.spotify.com/artist/3kbDzg7IazEzF0DSWhHK5Z) | [Soul Lotion](https://open.spotify.com/album/1LnLzyOQPr9EmlWm2hsumv) | 3:30 | 2021-12-14 | 2022-05-05 |
 | [Soulfaith](https://open.spotify.com/track/2IxO4ULMuvFjbnYzJv66LL) | [Faith Allen](https://open.spotify.com/artist/52BjSPmMWdd38HY043MhpP) | [Soulfaith](https://open.spotify.com/album/7gcmWvn2EpIPjkJqcqSpSB) | 3:40 | 2024-12-17 |  |
 | [South Road](https://open.spotify.com/track/6IHwCVzlZl4wRzHO7iag9s) | [Anne Dubbot](https://open.spotify.com/artist/2Du8SzCwTpfWaUvU5d4Gdc) | [South Road](https://open.spotify.com/album/6GmIlyvmNLiAq0IeE2tinY) | 2:26 | 2021-12-14 | 2022-02-17 |

@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-385 songs - 16 hr 33 min
+389 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Changing Lanes](https://open.spotify.com/track/40a0wkGSxv6TNCi1OXD0H8) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Changing Lanes](https://open.spotify.com/album/0CcHvBvzD1OURSeikpZYA4) | 3:01 | 2022-03-04 | 2022-04-06 |
 | [Ciudad nueva](https://open.spotify.com/track/2tOy5Z4ECTD5AaEDqR4Khb) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Ciudad nueva](https://open.spotify.com/album/5hEsUfEEb8BtmGvo0iJgFp) | 2:36 | 2022-03-04 | 2023-01-20 |
 | [Close Your Eyes](https://open.spotify.com/track/04OVXcc3yoj4loJXtMh5UW) | [Tom Blund](https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX) | [Close your eyes](https://open.spotify.com/album/6LPSUfq1T05kBNqa7ZCCRO) | 3:05 | 2022-12-23 | 2024-04-06 |
+| [Closer Between](https://open.spotify.com/track/1O8tshcWQvfZfs9H4R4ipq) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Closer Between](https://open.spotify.com/album/3xgjyaQ8fz26lLx0BtFERm) | 2:51 | 2025-01-07 |  |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-24 |  |
 | [Cloudless](https://open.spotify.com/track/76PhNwBIgoytLw14EXOLXs) | [Sigrid Vass](https://open.spotify.com/artist/1vIOObvjDYAiXHCkLOFCOT) | [Cloudless](https://open.spotify.com/album/3YjZojRZHOiEIALoZey4tp) | 2:23 | 2022-03-04 | 2022-07-01 |
 | [Coldwater Lake](https://open.spotify.com/track/7ps62gX69Lc1VWZQgkjVjd) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Coldwater Lake](https://open.spotify.com/album/3ig1yiWm5srGPDJ9cqgKwm) | 2:41 | 2024-03-08 |  |
@@ -177,6 +178,7 @@
 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 | 2024-04-05 |  |
 | [Human](https://open.spotify.com/track/5W188DNbU0X0WsxA0f4vsK) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Human](https://open.spotify.com/album/2raYowNzP5KrWjYaMVcVoF) | 2:16 | 2023-06-02 |  |
 | [Humble Stream](https://open.spotify.com/track/52MgsfWkg5SaySCSybgq2f) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Humble Stream](https://open.spotify.com/album/0i8ogDdtotOqUuzxNRAvH1) | 1:55 | 2022-03-04 | 2022-05-27 |
+| [Hushed Horizons](https://open.spotify.com/track/6284WKKTOgaWHeYApGK0mA) | [Timothy Hall](https://open.spotify.com/artist/5WQIOA7Nu5yv3EVY7a6ot2) | [Hushed Horizons](https://open.spotify.com/album/58XPQC271P75SZeRMXxqmH) | 2:26 | 2025-01-07 |  |
 | [Hügel des Nordens](https://open.spotify.com/track/5TZZrFfHQQBFPOgFeTMl9v) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Hügel des Nordens](https://open.spotify.com/album/01C4mq3tGQZVG5kUMUHVhn) | 2:03 | 2022-03-04 | 2022-07-22 |
 | [I come in peace](https://open.spotify.com/track/6vzJpiB46qngBEYfoHnvKE) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [I come in peace](https://open.spotify.com/album/7pPCXg7hJKAKPaWJCPmcwj) | 1:58 | 2022-03-04 | 2023-08-26 |
 | [I Will Always Love You](https://open.spotify.com/track/1xqVie2iDsSZe1ZtL3XiG8) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [I Will Always Love You](https://open.spotify.com/album/0UnnUPOlBJCA6rofllWdsw) | 2:08 | 2022-10-07 | 2023-06-14 |
@@ -309,6 +311,7 @@
 | [Square One](https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:16 | 2022-03-04 | 2022-10-29 |
 | [Stairs](https://open.spotify.com/track/6ufsRNZjLydBXfncTkZ9ut) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Stairs](https://open.spotify.com/album/2mQcf2bqjYpNPbEfZw1ql5) | 2:40 | 2022-12-23 | 2023-05-10 |
 | [Still So Beautiful](https://open.spotify.com/track/1Oqj6onkV4tLjPSwd06Xg7) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Still So Beautiful](https://open.spotify.com/album/11r4IMk5xSdUYchjpIo2Bb) | 2:31 | 2022-03-04 | 2024-07-19 |
+| [Strolling](https://open.spotify.com/track/5VCXMTgWi94jTU2wqKHQ1P) | [Steve Harris](https://open.spotify.com/artist/6O4Mp6UzqdDpXSVA3tUHTK) | [Strolling](https://open.spotify.com/album/4OyA57DDCvjgSOFxFJ7LY8) | 1:50 | 2025-01-07 |  |
 | [Sullen Streets](https://open.spotify.com/track/2EQ4Oc2W8iNG9ZpGdl5wpe) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Sullen Streets](https://open.spotify.com/album/09kxEbIQ5Ox5v8hczNkQsW) | 2:22 | 2023-02-24 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 | 2023-08-26 |
 | [Summer Meadow](https://open.spotify.com/track/6UKFsigRaBGHiUZWUa8HC9) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Summer Meadow](https://open.spotify.com/album/0fg4CB6idg4C2PrgnsOSbC) | 2:35 | 2024-07-19 |  |
@@ -378,6 +381,7 @@
 | [Welcome Another Morning](https://open.spotify.com/track/5sGlEWMqEvNwKQZWUbsGDc) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Welcome Another Morning](https://open.spotify.com/album/60wQBZH2QIzedGgphfwBTj) | 3:04 | 2023-06-08 |  |
 | [Wetterstein](https://open.spotify.com/track/6WfdfnyXB4XRHPtdYUtMZw) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Wetterstein](https://open.spotify.com/album/0u5TdFB5G2JI6BR5bQQIs5) | 4:08 | 2023-11-24 |  |
 | [When I'm With You](https://open.spotify.com/track/2owyKJv6AXPVSnHIPmOLsp) | [Benjamin Waverly](https://open.spotify.com/artist/4IXlJyOpO3xS2Sl7GZMUu7) | [When I'm With You](https://open.spotify.com/album/4jMcDv3EarnmcXRRTmHW3a) | 2:41 | 2022-03-04 | 2022-07-22 |
+| [When Stars Align](https://open.spotify.com/track/2NaxJZJgtEHwJvr5Dz036s) | [Elías Flores](https://open.spotify.com/artist/7HWUEipeFBHvnz4GITai8Z) | [When Stars Align](https://open.spotify.com/album/6ACxnFZNkPPYVQsaBpSQtK) | 3:05 | 2025-01-07 |  |
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-03-24 |  |
 | [When You Hold Me](https://open.spotify.com/track/4mDch7mKVDPFcF8TD5v6p6) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [Everythings Better With You](https://open.spotify.com/album/15PxMtybhysgz6fQRK6PRf) | 2:10 | 2022-03-04 |  |
 | [When You´re Gone](https://open.spotify.com/track/3eRslDh4lTtUFdMhttb6gc) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [When You´re Gone](https://open.spotify.com/album/7DpMvQz3HxBdJMMaGvZtsf) | 3:45 | 2022-06-10 | 2022-07-08 |

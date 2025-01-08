@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Lee Seung Yoon\(이승윤\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Redoor\(리도어\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-833 songs - 2 day 2 hr 47 min
+835 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Ending Fairy](https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB) | 3:19 | 2023-07-31 | 2023-09-20 |
 | [Episode](https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Episode](https://open.spotify.com/album/1L2jHkzXmQyGUBAy3ReAxL) | 3:25 | 2023-12-13 | 2024-11-07 |
 | [Eros](https://open.spotify.com/track/0k26c3eQg5mmsw0jNPB4Do) | [Ohyoung](https://open.spotify.com/artist/0wjTtJZJrYSfvxoRvLN1Q0) | [Eros](https://open.spotify.com/album/1PN0mUW6ItO66xBPIJbePo) | 3:26 | 2024-04-30 | 2024-05-10 |
+| [Eternal Flame](https://open.spotify.com/track/7jdmtdVoOEw6vrDPgL3L78) | [Bombing](https://open.spotify.com/artist/6uRzyPopKsLWGTJ0oMM3tk), [조광일](https://open.spotify.com/artist/6URO4cLUmYihhzvCvfUT2r) | [Messiah](https://open.spotify.com/album/0VXe7yap2XA5Gh8ibVpwCw) | 3:15 | 2025-01-07 |  |
 | [Eternity](https://open.spotify.com/track/2upOuHQqds86ZoMr8ctv7I) | [Won Tae Rim](https://open.spotify.com/artist/4d6JLYUpsguDgSmUSmbi50) | [Eternity](https://open.spotify.com/album/3GNE5jh7krgY9TaJTxTdT1) | 3:19 | 2023-02-10 | 2023-02-18 |
 | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/track/32oDQqwLzv074PThEuBVpp) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/1cy1oWKlBfDuxBvo9ZiodY), [Milena](https://open.spotify.com/artist/2DMUCQ7G60U498FYCe1lvk) | [Euphoria \(Feat\. 123, Milena\)](https://open.spotify.com/album/6r2MYiNYGJkixMSlWO9sWp) | 3:14 | 2022-05-03 | 2022-07-24 |
 | [EUROPA](https://open.spotify.com/track/4W4VAVZneeUiwApBDFFMoB) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [EUROPA](https://open.spotify.com/album/5yMQGkOurBkgYa6f1vDof9) | 2:51 | 2023-07-24 | 2023-08-18 |
@@ -339,7 +340,7 @@
 | [If I were rich](https://open.spotify.com/track/6jHc4ETMA0MVnwwaFkt2zp) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK), [Ravi](https://open.spotify.com/artist/33Cti7pK8o3exjycH47Xk5) | [If I were rich](https://open.spotify.com/album/36uTV3j8uvWe4aRbdDBDQH) | 3:19 | 2022-04-12 | 2022-07-26 |
 | [IN MY DREAM](https://open.spotify.com/track/4znEIFtqs9PeeHAQj9S7H6) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [IN MY DREAM \(Original Soundtrack from the Webtoon 'Reincarnator'\)](https://open.spotify.com/album/2KyreiehXIneH6JSLp3Aeb) | 3:16 | 2024-09-19 | 2024-11-30 |
 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 | 2022-10-02 | 2022-10-19 |
-| [In Our Lives](https://open.spotify.com/track/2C4d6wVmrpgE24JdJ5bbPs) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [IRON FAMILY, Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/1OxMrHYdDJUbK13N6exeMc) | 3:38 | 2024-11-12 |  |
+| [In Our Lives](https://open.spotify.com/track/2C4d6wVmrpgE24JdJ5bbPs) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [IRON FAMILY, Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/1OxMrHYdDJUbK13N6exeMc) | 3:38 | 2024-11-12 | 2025-01-08 |
 | [In the Dark](https://open.spotify.com/track/3mBxoop5ai4eTBV9nL5Y2J) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [24 PART 2](https://open.spotify.com/album/43xZhTwfBW3tsmtjTuT3XM) | 3:29 | 2022-04-12 | 2022-07-27 |
 | [In the end we’re just](https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [In the end we’re just](https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl) | 2:58 | 2024-07-09 | 2024-07-31 |
 | [In your time](https://open.spotify.com/track/2ZhVUSHsj08XhWsPmewal1) | [Woo Yeon So](https://open.spotify.com/artist/7fzVStCoGkOGvno9yR1AnM) | [In your time](https://open.spotify.com/album/28zyPz1P8dJhPh7PdjefnS) | 3:05 | 2022-12-22 | 2023-01-11 |
@@ -440,7 +441,7 @@
 | [Midnight Alley](https://open.spotify.com/track/2BG6adTppcsyXEavjbKwDE) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Midnight Alley 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/6PhsAyoYrGki4rpw0AKQYg) | 3:24 | 2024-12-23 |  |
 | [Midnight Train 심야행](https://open.spotify.com/track/5frQVgA52nXd4SqlGaQn3H) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/0LnLkLjqu2sk3i0He64odF) | 4:17 | 2022-04-21 | 2022-07-29 |
 | [Midnight's Cat](https://open.spotify.com/track/2BZLUI9quqfN84GvUlu0ZY) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Feelsun.zip](https://open.spotify.com/album/2YOT6Gv1zGLOsmd81IW7gP) | 2:49 | 2024-12-13 |  |
-| [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 | 2024-11-12 |  |
+| [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 | 2024-11-12 | 2025-01-08 |
 | [Miracle](https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:43 | 2024-05-09 | 2024-11-07 |
 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:34 | 2022-10-28 | 2023-04-29 |
 | [missing my summer](https://open.spotify.com/track/6NwJhFsGnhOEEwnvFaOruj) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [missing my summer](https://open.spotify.com/album/3T2sKp5MhkB4xrA3Ycphwd) | 2:54 | 2022-09-05 | 2022-09-15 |
@@ -635,6 +636,7 @@
 | [Smoke Sprite \(feat\. RM of BTS\)](https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/7yoMXU6kgxjIsowenBxzwD) | 4:02 | 2023-03-14 | 2024-11-07 |
 | [Smokenshot \(feat\. Jang il hyun\)](https://open.spotify.com/track/4M6bgUTUp2JxLdZMLtoTBr) | [SAMUK](https://open.spotify.com/artist/7oXwjmqKXdkQDs6HP2k77H), [Moonshot](https://open.spotify.com/artist/6RJHpycsLTaI6lAtDmVzQ6), [장일현](https://open.spotify.com/artist/256o8MkuNTMMFG2CwJ89Er) | [29:30](https://open.spotify.com/album/74ThytV3fLNHlu6byyAedJ) | 3:29 | 2023-02-14 | 2023-02-24 |
 | [Snooze](https://open.spotify.com/track/46gDDSAfLO6u6bJZokt5ka) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snooze](https://open.spotify.com/album/3VUJRB3DuYAdrubSXwzH7e) | 4:52 | 2022-04-12 | 2022-07-28 |
+| [snow8](https://open.spotify.com/track/2pfU9lw8L3BdOd1yV4V5xt) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [snow8](https://open.spotify.com/album/10bb8sXKqGV8ycEHeTsLEp) | 3:40 | 2025-01-07 |  |
 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2022-04-21 | 2023-09-11 |
 | [SOBER](https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:57 | 2024-06-05 | 2024-11-07 |
 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 | 2024-05-09 | 2024-11-07 |

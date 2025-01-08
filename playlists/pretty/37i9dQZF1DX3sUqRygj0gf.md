@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,160 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,154 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sUqRygj0gf.md) - [plain]
 | 11 | [Little Drummer Boy](https://open.spotify.com/track/6B6o0A7JkG2UfraR1V1nP2) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Little Drummer Boy](https://open.spotify.com/album/4HFh7LV7b9HhtfcRCklJ9z) | 2:51 |
 | 12 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/4JyNusB9ig7q3BsZyyxMfs) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/album/1ty1Uh3tvroLVRHR6t2ao5) | 2:27 |
 | 13 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 |
-| 14 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 |
-| 15 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 |
+| 14 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 |
+| 15 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 |
 | 16 | [You Make It Feel Like Christmas](https://open.spotify.com/track/45xw5Qmu7RS3EP8yDAT3Cn) | [Katerina Robbins](https://open.spotify.com/artist/0bKSKcre6jkpyXLYh44yxr) | [You Make It Feel Like Christmas](https://open.spotify.com/album/0umAlXdTuRknPUXZLchRN2) | 3:15 |
 | 17 | [It's Christmas Once Again](https://open.spotify.com/track/3i3tBI9VHoQTU7SpTCvIKa) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [It's Christmas Once Again](https://open.spotify.com/album/3sBWTdjo4daMRXYjFGll31) | 3:00 |
 | 18 | [Old Time Christmas](https://open.spotify.com/track/5zIyymMc7mENbj2oRdJZsp) | [Palladinos](https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf) | [Old Time Christmas](https://open.spotify.com/album/400GevcjYjBmtOzCn6orRT) | 3:21 |

@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 47351,
+  "num_followers": 47419,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3NJowAAAAC/TeY0/RRecxnyNGftusTg",
+  "snapshot_id": "Z32hUgAAAAD3pQHG8X34psSKDi3kGei0",
   "tracks": [
     {
       "added_at": "2024-11-06 22:50:08",
@@ -385,20 +385,20 @@
       "url": "https://open.spotify.com/track/2iAIllzzMRPryiRdebB9fi"
     },
     {
-      "added_at": "2024-12-23 20:42:56",
+      "added_at": "2025-01-07 21:49:06",
       "album": {
-        "name": "DA BEAT",
-        "url": "https://open.spotify.com/album/7uBVx4rfStisvQfZ1LfgrA"
+        "name": "Hot Like Fire",
+        "url": "https://open.spotify.com/album/4s8teNPfiPFmprfIp1YzVz"
       },
       "artists": [
         {
-          "name": "ChaseWest",
-          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
+          "name": "Facu Baez",
+          "url": "https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN"
         }
       ],
-      "duration_ms": 341102,
-      "name": "DA BEAT",
-      "url": "https://open.spotify.com/track/0xSNKCxMBhDiGiAcDdjCOv"
+      "duration_ms": 210004,
+      "name": "Hot Like Fire",
+      "url": "https://open.spotify.com/track/4y6GSJmMoUs3cG4A2R1R4d"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -501,20 +501,20 @@
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Won't Stop (Don't)",
-        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+        "name": "Misleading",
+        "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
       },
       "artists": [
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
         }
       ],
-      "duration_ms": 233306,
-      "name": "Won't Stop (Don't)",
-      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
+      "duration_ms": 187365,
+      "name": "Misleading",
+      "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -537,20 +537,20 @@
       "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Misleading",
-        "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
+        "name": "Won't Stop (Don't)",
+        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
       },
       "artists": [
         {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
         }
       ],
-      "duration_ms": 187365,
-      "name": "Misleading",
-      "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
+      "duration_ms": 233306,
+      "name": "Won't Stop (Don't)",
+      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "duration_ms": 198187,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 192656,
       "name": "Escaping It (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "On Deck",
-        "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 198187,
-      "name": "On Deck",
-      "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Playing With Foc...",
-        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
-      },
-      "artists": [
-        {
-          "name": "Paco Osuna",
-          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
-        },
-        {
-          "name": "Iglesias",
-          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Playing With Foc...",
-      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Playing With Foc...",
+        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
+      },
+      "artists": [
+        {
+          "name": "Paco Osuna",
+          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+        },
+        {
+          "name": "Iglesias",
+          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Playing With Foc...",
+      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
     },
     {
       "added_at": "2024-11-06 22:50:08",

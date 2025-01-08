@@ -4,7 +4,7 @@
 
 > Feier mit den größten aktuellen und zeitlosen Partyhits ins neue Jahr.
 
-293 songs - 14 hr 33 min
+294 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-10-14 | 2024-06-14 |
 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 | 2024-11-13 | 2024-12-24 |
 | [KISSENSCHLACHT](https://open.spotify.com/track/5s1EwpwmgQJ8Ti3ltrJdO8) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [KIDS WITH ATTITUDE](https://open.spotify.com/album/54cTUMcICp6BAEk5G49m3z) | 2:51 | 2023-01-05 | 2023-03-16 |
-| [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-11-13 |  |
+| [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-11-13 | 2025-01-08 |
+| [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3XzlRX9BQTzU97GFnorCE7) | 2:18 | 2024-12-23 |  |
 | [Kommissar](https://open.spotify.com/track/0djjZQPlvpOPNgnWTMVvli) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [Kommissar](https://open.spotify.com/album/6qHIHbbOEFkZQaEVXFgVCi) | 2:43 | 2023-11-09 | 2023-11-25 |
 | [Kommissar](https://open.spotify.com/track/6QeYonzZSkrBytfyvdQei7) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [Kommissar](https://open.spotify.com/album/1qA3Oxzn8bVMUJgP1aILp9) | 2:43 | 2023-11-09 | 2023-11-20 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-13 | 2024-12-24 |

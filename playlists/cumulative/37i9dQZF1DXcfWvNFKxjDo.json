@@ -3025,7 +3025,7 @@
     },
     {
       "album": {
-        "name": "Angel in the Dark",
+        "name": "Angel In The Dark",
         "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
       },
       "artists": [
@@ -3046,7 +3046,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199335,
-      "name": "Angel in the Dark",
+      "name": "Angel In The Dark",
       "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
     },
     {
@@ -32415,6 +32415,32 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+    },
+    {
+      "album": {
         "name": "Lock Me Down",
         "url": "https://open.spotify.com/album/2OMDKqfRL7ybFhZLeTIMps"
       },
@@ -41948,7 +41974,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 139413,
       "name": "Out My Mind",
       "url": "https://open.spotify.com/track/3EM92YSyp6ROuxnTfoO70R"

@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 228953,
+  "num_followers": 229013,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Sound Of The Republic",
-        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "You Ignore Them All",
-      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "As Real As It Gets",
         "url": "https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 216600,
       "name": "Sworn Enemy",
       "url": "https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Sound Of The Republic",
+        "url": "https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "You Ignore Them All",
+      "url": "https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA"
     },
     {
       "added_at": "2024-02-07 16:33:52",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
-        "name": "Dedication",
-        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Get This Right!",
-      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
         "name": "Wake The Dead",
         "url": "https://open.spotify.com/album/12E474LltJ7NCZD2L2kvR0"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 181226,
       "name": "Break Through It All",
       "url": "https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
+        "name": "Dedication",
+        "url": "https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Get This Right!",
+      "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
     },
     {
       "added_at": "2024-02-07 16:33:52",

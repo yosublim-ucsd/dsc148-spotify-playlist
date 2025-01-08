@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Autumn Rivulet",
+        "url": "https://open.spotify.com/album/4zjAFkKAJ47Wh71lbo7Hos"
+      },
+      "artists": [
+        {
+          "name": "Drifreda",
+          "url": "https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Autumn Rivulet",
+      "url": "https://open.spotify.com/track/1GKWMeosT79GoNumiypX55"
+    },
+    {
+      "album": {
         "name": "Back to life",
         "url": "https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS"
       },

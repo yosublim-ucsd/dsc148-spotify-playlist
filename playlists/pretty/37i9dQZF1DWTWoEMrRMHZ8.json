@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: 5 a seco",
-  "num_followers": 348659,
+  "num_followers": 348674,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,26 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
+        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        }
+      ],
+      "duration_ms": 268364,
+      "name": "S\u00f3 Quem Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
         "name": "Mundo Paralelo",
         "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
-        }
-      ],
-      "duration_ms": 268364,
-      "name": "S\u00f3 Quem Ama - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "For\u00e7a Estranha",
-        "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
-      },
-      "artists": [
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 257739,
-      "name": "For\u00e7a Estranha",
-      "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 236535,
       "name": "Rio Dentro do Mar",
       "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "For\u00e7a Estranha",
+        "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 257739,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Mercen\u00e1rios do Amor",
-        "url": "https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp"
-      },
-      "artists": [
-        {
-          "name": "Doce Delix",
-          "url": "https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Mercen\u00e1rios do Amor",
-      "url": "https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "Perto de Mim",
         "url": "https://open.spotify.com/album/6cC2ji5TGHyOcAglcwBDc6"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 264729,
       "name": "Bahia Com H",
       "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Mercen\u00e1rios do Amor",
+        "url": "https://open.spotify.com/album/3TVKYDgwKsGYieOkoLZebp"
+      },
+      "artists": [
+        {
+          "name": "Doce Delix",
+          "url": "https://open.spotify.com/artist/5oMThBB837MjaAjmCu3K8j"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Mercen\u00e1rios do Amor",
+      "url": "https://open.spotify.com/track/3Y37i0rehRTNUoUOXjKnFm"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Uma Estrela Misteriosa",
-        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 426853,
-      "name": "Estrela Misteriosa",
-      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "Mar Manso",
         "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Uma Estrela Misteriosa",
+        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 426853,
+      "name": "Estrela Misteriosa",
+      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
         "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
         "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
       },
@@ -995,6 +979,38 @@
       "duration_ms": 273139,
       "name": "Depois de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 202806,
+      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1031,22 +1047,6 @@
       "duration_ms": 241860,
       "name": "Melhor Assim",
       "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-        "url": "https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 202806,
-      "name": "O Nosso Amor \u00c9 T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8"
     },
     {
       "added_at": "2024-12-20 03:19:32",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-12-20 03:19:32",
       "album": {
+        "name": "Um Milh\u00e3o",
+        "url": "https://open.spotify.com/album/0vDrIN3zNc2VRYaNjNZluh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cavallini",
+          "url": "https://open.spotify.com/artist/6neQgu1JWui8JMsicGZdmd"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Um Milh\u00e3o",
+      "url": "https://open.spotify.com/track/1y14MpzSZA8JMEQhQXooy2"
+    },
+    {
+      "added_at": "2024-12-20 03:19:32",
+      "album": {
         "name": "Theodoro Nag\u00f4: We4Sessions",
         "url": "https://open.spotify.com/album/72Vmu49Zak3jBvyQSm9Qax"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 225789,
       "name": "Preta Yay\u00e1",
       "url": "https://open.spotify.com/track/1fAb26jYwDAaw1Mg1hfSro"
-    },
-    {
-      "added_at": "2024-12-20 03:19:32",
-      "album": {
-        "name": "Um Milh\u00e3o",
-        "url": "https://open.spotify.com/album/0vDrIN3zNc2VRYaNjNZluh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cavallini",
-          "url": "https://open.spotify.com/artist/6neQgu1JWui8JMsicGZdmd"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Um Milh\u00e3o",
-      "url": "https://open.spotify.com/track/1y14MpzSZA8JMEQhQXooy2"
     },
     {
       "added_at": "2024-12-20 03:19:32",

@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 21875,
+  "num_followers": 21886,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k: Piano Works",
+        "url": "https://open.spotify.com/album/3LRCqap0DfYVNr4RH6ZWM6"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Alain Plan\u00e8s",
+          "url": "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
+        }
+      ],
+      "duration_ms": 257306,
+      "name": "Dance Suite, Sz 77: VI. Finale. Allegro",
+      "url": "https://open.spotify.com/track/74Jby8fyKAnjN3rAuiifwi"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bartok: Concerto for Orchestra / Music for Strings, Percussion & Celeste",
         "url": "https://open.spotify.com/album/3iR3NtXTjJcSZU7DJk0Y4n"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Piano Works",
-        "url": "https://open.spotify.com/album/3LRCqap0DfYVNr4RH6ZWM6"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Alain Plan\u00e8s",
-          "url": "https://open.spotify.com/artist/2T5bM1nb5fZVw5Bm851HNh"
-        }
-      ],
-      "duration_ms": 257306,
-      "name": "Dance Suite, Sz 77: VI. Finale. Allegro",
-      "url": "https://open.spotify.com/track/74Jby8fyKAnjN3rAuiifwi"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: Mikrokosmos Selections",
         "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
       },
@@ -595,30 +595,6 @@
       "duration_ms": 454880,
       "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
       "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: The Miraculous Mandarin - Dance Suite - Contrasts",
-        "url": "https://open.spotify.com/album/3mxWy3mj34eO9atb70W91y"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "The Miraculous Mandarin, Sz. 73: VIII, Suddenly the Mandarin's Head Appears Between the Pillows",
-      "url": "https://open.spotify.com/track/7185CFfPIA3hbfAjcC5fUO"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -647,6 +623,30 @@
       "duration_ms": 315000,
       "name": "Rhapsody No. 2 for Violin and Orchestra, Sz. 90: I. Lass\u00fa. Moderato",
       "url": "https://open.spotify.com/track/6mpgrSwDbtMZ285O8ETIew"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: The Miraculous Mandarin - Dance Suite - Contrasts",
+        "url": "https://open.spotify.com/album/3mxWy3mj34eO9atb70W91y"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "The Miraculous Mandarin, Sz. 73: VIII, Suddenly the Mandarin's Head Appears Between the Pillows",
+      "url": "https://open.spotify.com/track/7185CFfPIA3hbfAjcC5fUO"
     },
     {
       "added_at": "2022-07-01 04:02:00",

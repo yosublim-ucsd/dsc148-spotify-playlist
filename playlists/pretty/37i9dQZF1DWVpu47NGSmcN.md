@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Feby Putri
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,039 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,042 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 23 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 |
 | 24 | [Same Old Stories](https://open.spotify.com/track/729GfdkSXthv08jDW4yg0o) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:35 |
 | 25 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 |
-| 26 | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/album/494cHwcF82CGtJ6wNkcQck) | 4:11 |
+| 26 | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/7m01HeNr05fw4GjgukrWWA) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Hitam Putih](https://open.spotify.com/album/5rTrfbcQlTr807zJKhH5zN) | 4:14 |
 | 27 | [Jika Nanti](https://open.spotify.com/track/1EatXWpl3HD6QwD00urZ2W) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Jika Nanti](https://open.spotify.com/album/5UF9btLxYk31JgmJUAJERt) | 3:42 |
 | 28 | [Bagaimana Kabarmu?](https://open.spotify.com/track/7w2Jw16mKB3W0zwIbARGZT) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Bagaimana Kabarmu?](https://open.spotify.com/album/1qQXCYBeA3e3DXfslEkXtq) | 4:25 |
 | 29 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Wahai Tuan](https://open.spotify.com/track/5MNUpUqsp1pj8rpQrktIg1) | [bungareyza](https://open.spotify.com/artist/6HvcThrt4sOkqXk5oXb2QQ) | [Wahai Tuan](https://open.spotify.com/album/7mzOdhe8Huo3uWF2RIJ6Kz) | 3:14 |
 | 50 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 |
 
-Snapshot ID: `ZvwqkAAAAADBe0eYKXXk8H+gbFMtH5i0`
+Snapshot ID: `Z31kLAAAAAA+2cE6GyftS6FwnzurajCh`

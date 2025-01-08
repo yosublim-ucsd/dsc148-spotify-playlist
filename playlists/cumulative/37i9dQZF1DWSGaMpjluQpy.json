@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Blue Winds",
+        "url": "https://open.spotify.com/album/1CVh3z4KqNY5J3j2tdqXKH"
+      },
+      "artists": [
+        {
+          "name": "Dreamland",
+          "url": "https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Blue Winds",
+      "url": "https://open.spotify.com/track/28EQq9IWf3sYG9K92wo5XA"
+    },
+    {
+      "album": {
         "name": "Boxroom",
         "url": "https://open.spotify.com/album/0Llf3NZanAqYEwbg9paS8b"
       },
@@ -748,6 +766,24 @@
       "duration_ms": 218865,
       "name": "Far Away From Home",
       "url": "https://open.spotify.com/track/3vqwzMRKAi8Zr2JKuzYqhz"
+    },
+    {
+      "album": {
+        "name": "Far Out East",
+        "url": "https://open.spotify.com/album/4PrR6jsiqH3BvNm1pPZbop"
+      },
+      "artists": [
+        {
+          "name": "Carla Anderson",
+          "url": "https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Far Out East",
+      "url": "https://open.spotify.com/track/6Bo85LoxPZAdeHcfLMS0LJ"
     },
     {
       "album": {

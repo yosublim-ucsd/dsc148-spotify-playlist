@@ -201,12 +201,12 @@
       "artists": [
         {
           "name": "\u5fa1\u624b\u6d17\u7fd4\u592a (CV.\u677e\u5ca1\u798e\u4e1e)",
-          "url": "https://open.spotify.com/artist/27EIW2zgQENFON94CmfVOs"
+          "url": "https://open.spotify.com/artist/5Kaml2BvmfYEXdye4gREEN"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 225400,
       "name": "BACK FLIP EMOTION",
       "url": "https://open.spotify.com/track/2OYdOn1yvBpvyJ3cqyD5bL"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 295120,
       "name": "Because",
       "url": "https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 220293,
       "name": "GIVE ME FUSION",
       "url": "https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 275933,
       "name": "GLORIA MOMENT",
       "url": "https://open.spotify.com/track/53c6D3TlwsFp2qfyOjLUOz"
@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 238000,
       "name": "Stories",
       "url": "https://open.spotify.com/track/4XCtxjwBGTzPm0aFzrd7GS"
@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 245493,
       "name": "Yell Song",
       "url": "https://open.spotify.com/track/5qW0XtcObOGqgcnd5BOr3R"
@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 251386,
       "name": "\u306f\u3093\u3069\u3081\u3044\u3069\u30fb\u304d\u307f\u306f\u30fc\u3068\uff01",
       "url": "https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx"
@@ -4052,6 +4052,24 @@
       "duration_ms": 256338,
       "name": "\u904b\u547d\u5149\u5e74",
       "url": "https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 09",
+        "url": "https://open.spotify.com/album/07KKDIGOJzAnjiALl1vDap"
+      },
+      "artists": [
+        {
+          "name": "\u30d4\u30a8\u30fc\u30eb (CV.\u5800\u6c5f \u77ac)",
+          "url": "https://open.spotify.com/artist/5uJXd4ag5Hvwl4j81LOUug"
+        }
+      ],
+      "date_added": "2024-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248853,
+      "name": "\u9b54\u6cd5\u306e\u30b9\u30c6\u30a2\u30fc",
+      "url": "https://open.spotify.com/track/1HmClk0DFrdAkn6Nxabytx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2kf10b2iZ8o"

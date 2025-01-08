@@ -5134,7 +5134,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 106315,
       "name": "almost there",
       "url": "https://open.spotify.com/track/2rJLOmmXcxhCyRlENiJcFz"
@@ -8234,6 +8234,24 @@
       "duration_ms": 185312,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3HU9ZNApVMhq8RmLFum4Mp"
+    },
+    {
+      "album": {
+        "name": "aurora tape",
+        "url": "https://open.spotify.com/album/458uxvXxW3TYMBAboCK3y0"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Road",
+          "url": "https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146942,
+      "name": "aurora tape",
+      "url": "https://open.spotify.com/track/0JM3KCWBLfm8o8invkWWxW"
     },
     {
       "album": {
@@ -32380,6 +32398,24 @@
     {
       "album": {
         "name": "Dove",
+        "url": "https://open.spotify.com/album/2k7TW8AIKYGz6PiR497dEE"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Dove",
+      "url": "https://open.spotify.com/track/4UvT6Zdl9bQx6hwMA9oLLe"
+    },
+    {
+      "album": {
+        "name": "Dove",
         "url": "https://open.spotify.com/album/1OYBlHR9P8DVNdMiAfMeNw"
       },
       "artists": [
@@ -39796,7 +39832,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 118944,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/58uy3CHRJaCg8fzxqpuibp"
@@ -44768,7 +44804,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 121308,
       "name": "Friction",
       "url": "https://open.spotify.com/track/1xw3GyNsmDcNZb7Mayqqed"
@@ -61619,6 +61655,24 @@
     },
     {
       "album": {
+        "name": "Jules Fischer",
+        "url": "https://open.spotify.com/album/55COMCo3K8MigR77ZFDLnU"
+      },
+      "artists": [
+        {
+          "name": "West Sun",
+          "url": "https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Jules Fischer",
+      "url": "https://open.spotify.com/track/2bVYcbYp2tdhpU6aUenicK"
+    },
+    {
+      "album": {
         "name": "Jumping high feeling fly",
         "url": "https://open.spotify.com/album/2wdOgG7sRY9L5cTNIQD1fD"
       },
@@ -65194,7 +65248,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 104289,
       "name": "Late Flight",
       "url": "https://open.spotify.com/track/6DcweauFxkGQs9wHr7bcxb"
@@ -106110,7 +106164,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 154690,
       "name": "Simple Life",
       "url": "https://open.spotify.com/track/3mR38Krujpi4hN84ldJcJG"

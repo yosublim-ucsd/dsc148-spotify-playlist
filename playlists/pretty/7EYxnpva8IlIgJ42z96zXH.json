@@ -1,13 +1,33 @@
 {
   "description": "Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.",
-  "num_followers": 31156,
+  "num_followers": 31153,
   "original_name": "Hot Girl Workout | Pilates, Gym, HIIT, Run Club \ud83c\udf51",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "AAAN2B9fJzlRP34tWBrH5+zP49KIhVPp",
+  "snapshot_id": "AAAN2hzrHsd1LG7Dz3a+uW6Y5Nt/b4yR",
   "tracks": [
+    {
+      "added_at": "2025-01-07 22:40:40",
+      "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/71naf0dyKUCucdXEODamHK"
+      },
+      "artists": [
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        },
+        {
+          "name": "2HOT2PLAY",
+          "url": "https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA"
+        }
+      ],
+      "duration_ms": 178362,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/1NyGisWiw1SxUXCaINfCx1"
+    },
     {
       "added_at": "2025-01-05 23:46:27",
       "album": {
@@ -899,30 +919,6 @@
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2025-01-05 23:46:27",
-      "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
-      },
-      "artists": [
-        {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        }
-      ],
-      "duration_ms": 144846,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "added_at": "2025-01-05 23:46:27",

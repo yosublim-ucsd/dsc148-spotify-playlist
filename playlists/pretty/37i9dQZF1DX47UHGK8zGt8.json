@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 574741,
+  "num_followers": 574894,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,26 @@
     {
       "added_at": "2025-01-02 14:46:09",
       "album": {
+        "name": "Varrendo a Lua",
+        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "De Janeiro a Janeiro",
+      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
+    },
+    {
+      "added_at": "2025-01-02 14:46:09",
+      "album": {
         "name": "Mariana Nolasco Sessions 2",
         "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
       },
@@ -371,22 +391,6 @@
       "duration_ms": 138647,
       "name": "Ai que Saudade D'Oc\u00ea - Sessions",
       "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
-    },
-    {
-      "added_at": "2025-01-02 14:46:09",
-      "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 208219,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l"
     },
     {
       "added_at": "2025-01-02 14:46:09",
@@ -411,22 +415,18 @@
     {
       "added_at": "2025-01-02 14:46:09",
       "album": {
-        "name": "Varrendo a Lua",
-        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 190960,
-      "name": "De Janeiro a Janeiro",
-      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
+      "duration_ms": 208219,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l"
     },
     {
       "added_at": "2025-01-02 14:46:09",
@@ -775,18 +775,22 @@
     {
       "added_at": "2025-01-02 14:46:09",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+        "name": "PALCO",
+        "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+      "duration_ms": 278736,
+      "name": "PALCO",
+      "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
     },
     {
       "added_at": "2025-01-02 14:46:09",
@@ -803,6 +807,38 @@
       "duration_ms": 229550,
       "name": "Antes de Tudo",
       "url": "https://open.spotify.com/track/1NBSSZmo54UOHhG02BqiY7"
+    },
+    {
+      "added_at": "2025-01-02 14:46:09",
+      "album": {
+        "name": "Cru",
+        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        }
+      ],
+      "duration_ms": 364359,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
+    },
+    {
+      "added_at": "2025-01-02 14:46:09",
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2025-01-02 14:46:09",
@@ -827,54 +863,18 @@
     {
       "added_at": "2025-01-02 14:46:09",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
-    },
-    {
-      "added_at": "2025-01-02 14:46:09",
-      "album": {
-        "name": "PALCO",
-        "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 278736,
-      "name": "PALCO",
-      "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
-    },
-    {
-      "added_at": "2025-01-02 14:46:09",
-      "album": {
-        "name": "Cru",
-        "url": "https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb"
-      },
-      "artists": [
-        {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        }
-      ],
-      "duration_ms": 364359,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA"
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2025-01-02 14:46:09",

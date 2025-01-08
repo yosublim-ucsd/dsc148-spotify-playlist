@@ -3075,6 +3075,28 @@
     },
     {
       "album": {
+        "name": "A Complete Unknown (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        },
+        {
+          "name": "Monica Barbaro",
+          "url": "https://open.spotify.com/artist/3W1QNTtfYoAnni7dvqC4rg"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "It Ain't Me, Babe",
+      "url": "https://open.spotify.com/track/47xQwrip8UriPhFPUjSRQ7"
+    },
+    {
+      "album": {
         "name": "It's Not Living (If It's Not with You)",
         "url": "https://open.spotify.com/album/32qgaOkiBYJqmFvRStyWtU"
       },
@@ -4182,7 +4204,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 173149,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/7M288uc13UNSvwOSPfuEAL"
@@ -4594,7 +4616,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 230880,
       "name": "Sign of the Times [Acoustic Cover]",
       "url": "https://open.spotify.com/track/3IuZkOwna8fITHHJaEZMBm"
@@ -5986,7 +6008,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 266793,
       "name": "Why Georgia (RAWsession) [originally by John Mayer]",
       "url": "https://open.spotify.com/track/2rraSZfmRIIU5na1OH7L0q"

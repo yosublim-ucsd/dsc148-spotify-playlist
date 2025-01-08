@@ -1,13 +1,37 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Chandan Shetty",
-  "num_followers": 24207,
+  "num_followers": 24211,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3tjGAAAAAAKnw7tpx9bdod2xFEy8I5d",
+  "snapshot_id": "Z30iSAAAAABWPyciTK4LOc9acXwmi5b7",
   "tracks": [
+    {
+      "added_at": "2025-01-07 12:47:04",
+      "album": {
+        "name": "Mayavi (Afrobeat Version) [From \"Bhoomi 2024\"]",
+        "url": "https://open.spotify.com/album/3UxggTNHDvkfMM3jCDEM9z"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Vicky Sakleshpur",
+          "url": "https://open.spotify.com/artist/2yMbXfTch6OjYV8U5KWOZ4"
+        }
+      ],
+      "duration_ms": 261030,
+      "name": "Mayavi (Afrobeat Version) [From \"Bhoomi 2024\"]",
+      "url": "https://open.spotify.com/track/5PEoCLYUefE52UMOCVQI8j"
+    },
     {
       "added_at": "2025-01-06 04:59:04",
       "album": {
@@ -1335,22 +1359,6 @@
       "duration_ms": 159157,
       "name": "Maryade Prashne",
       "url": "https://open.spotify.com/track/3OZQYVkVo0CEk3SJscqYOP"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Hosa adhyaya",
-        "url": "https://open.spotify.com/album/519BLskxufHDlMobhwyj2C"
-      },
-      "artists": [
-        {
-          "name": "Pride",
-          "url": "https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf"
-        }
-      ],
-      "duration_ms": 164570,
-      "name": "Hosa adhyaya",
-      "url": "https://open.spotify.com/track/1febx1RdbtCLkNgTdR4r0m"
     },
     {
       "added_at": "2025-01-06 04:59:04",

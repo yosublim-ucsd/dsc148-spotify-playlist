@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Across the Mountains",
+        "url": "https://open.spotify.com/album/31Io1kPLesjWgGSSMgUn17"
+      },
+      "artists": [
+        {
+          "name": "Sami Kaur",
+          "url": "https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137342,
+      "name": "Across the Mountains",
+      "url": "https://open.spotify.com/track/1Xvo4lzjbpwIWAtV70x92u"
+    },
+    {
+      "album": {
         "name": "Aegean Fantaisie",
         "url": "https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7"
       },
@@ -3740,6 +3758,24 @@
       "duration_ms": 144555,
       "name": "Howthian",
       "url": "https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M"
+    },
+    {
+      "album": {
+        "name": "Hydrangea",
+        "url": "https://open.spotify.com/album/6JFr3JwZ6jIK46qnqlqAQU"
+      },
+      "artists": [
+        {
+          "name": "Richard Mahees",
+          "url": "https://open.spotify.com/artist/1db5naRMf6KGMlTpAoqos5"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136523,
+      "name": "Hydrangea",
+      "url": "https://open.spotify.com/track/2wVS1J1DwzTdA8LPDWDjF0"
     },
     {
       "album": {

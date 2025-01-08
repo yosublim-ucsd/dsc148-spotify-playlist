@@ -155,22 +155,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Believe Me Now?",
-        "url": "https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 179015,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/0S9laeO22k8rgM1PqZtgAA"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Good Bi",
         "url": "https://open.spotify.com/album/1yKKiQfzbNXeZi2cowSkPo"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 194005,
       "name": "Good Bi",
       "url": "https://open.spotify.com/track/7eCK4VleezcD6KZNE0Adgk"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/0S9laeO22k8rgM1PqZtgAA"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Matriarchy",
         "url": "https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 164206,
       "name": "Matriarchy",
       "url": "https://open.spotify.com/track/4Jj9LnTBWvY9v7wbj3c6iJ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Nonetheless",
-        "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 181959,
-      "name": "Dancing star",
-      "url": "https://open.spotify.com/track/3UUnDEpvIEJrYNVESeEVR4"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "early twenties",
         "url": "https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 172306,
       "name": "alone",
       "url": "https://open.spotify.com/track/1v7LEUvEgss8nm2Ix0Y4Qv"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Nonetheless",
+        "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 181959,
+      "name": "Dancing star",
+      "url": "https://open.spotify.com/track/3UUnDEpvIEJrYNVESeEVR4"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
+      },
+      "artists": [
+        {
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 228857,
       "name": "Healing Out of Spite",
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -827,8 +827,8 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+        "name": "I Would Die 4 U",
+        "url": "https://open.spotify.com/album/5kDgEnfQkOrcYjl5v2VxbO"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz"
         }
       ],
-      "duration_ms": 201732,
+      "duration_ms": 201534,
       "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/3K1XfGFwe8lGdlr0TRze5N"
+      "url": "https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "STARFACE",
-        "url": "https://open.spotify.com/album/2ygz2yoIAR5S9WWIxnvkAL"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        }
-      ],
-      "duration_ms": 200456,
-      "name": "Humanity",
-      "url": "https://open.spotify.com/track/582wDszLo3ASfJVxMRQr93"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Peanuts",
         "url": "https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 198640,
       "name": "Strut",
       "url": "https://open.spotify.com/track/0H8kYnzffchuaqo8rqOIzS"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "STARFACE",
+        "url": "https://open.spotify.com/album/2ygz2yoIAR5S9WWIxnvkAL"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 200456,
+      "name": "Humanity",
+      "url": "https://open.spotify.com/track/582wDszLo3ASfJVxMRQr93"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Digital Heartifacts",
-        "url": "https://open.spotify.com/album/1DzhKoFw6wH2f0SUQXy4Gz"
-      },
-      "artists": [
-        {
-          "name": "L Devine",
-          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "If I Don't Laugh I'll Cry",
-      "url": "https://open.spotify.com/track/4K3CoRfaby61VVNoDS6xjJ"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Good Boy",
         "url": "https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 219806,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0vPhGkQxV8GAbtFnV8bv0P"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Digital Heartifacts",
+        "url": "https://open.spotify.com/album/1DzhKoFw6wH2f0SUQXy4Gz"
+      },
+      "artists": [
+        {
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "If I Don't Laugh I'll Cry",
+      "url": "https://open.spotify.com/track/4K3CoRfaby61VVNoDS6xjJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "I Would Die 4 U",
-        "url": "https://open.spotify.com/album/5kDgEnfQkOrcYjl5v2VxbO"
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz"
         }
       ],
-      "duration_ms": 201534,
+      "duration_ms": 201732,
       "name": "I Would Die 4 U",
-      "url": "https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk"
+      "url": "https://open.spotify.com/track/3K1XfGFwe8lGdlr0TRze5N"
     }
   ],
   "unique_name": "Best of GLOW UK & Ireland 2024",

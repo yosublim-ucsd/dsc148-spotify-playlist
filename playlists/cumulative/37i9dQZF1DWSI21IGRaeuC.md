@@ -4,7 +4,7 @@
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-457 songs - 1 day 12 hr 18 min
+458 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Creepin in the Shadow \- Original Mix](https://open.spotify.com/track/01lpiNuE2762wUx4IImGV3) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Creepin in the Shadow](https://open.spotify.com/album/1t0dcAbDxYfH9r0Zzg5ewY) | 6:13 | 2023-03-10 | 2024-03-16 |
 | [Crowd Crazy](https://open.spotify.com/track/0y9cKTzZbp3qUswHKQsCI6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 4:39 | 2024-08-30 | 2024-11-05 |
 | [D.N.C.](https://open.spotify.com/track/1eoPkDYe6hRTE0jLP2SITo) | [Miguel Lobo](https://open.spotify.com/artist/6PWQ9tAq0UNhzf68T1zYUZ) | [Janette](https://open.spotify.com/album/4ax3ouk91c4VdY1WXxytoP) | 5:57 | 2022-06-03 | 2022-07-28 |
-| [DA BEAT](https://open.spotify.com/track/0xSNKCxMBhDiGiAcDdjCOv) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [DA BEAT](https://open.spotify.com/album/7uBVx4rfStisvQfZ1LfgrA) | 5:41 | 2024-12-23 |  |
+| [DA BEAT](https://open.spotify.com/track/0xSNKCxMBhDiGiAcDdjCOv) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [DA BEAT](https://open.spotify.com/album/7uBVx4rfStisvQfZ1LfgrA) | 5:41 | 2024-12-23 | 2025-01-08 |
 | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 6:06 | 2022-07-01 | 2024-10-01 |
 | [Damn](https://open.spotify.com/track/0GYQ8MgmNLu8Z9uRmzPUKS) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Damn](https://open.spotify.com/album/5NQfmvp7sjG2vhWBcWRB5t) | 2:51 | 2023-08-18 | 2023-08-24 |
 | [Dance Of The Shaman](https://open.spotify.com/track/2zGULLp2IsYlWeRaF0ZV13) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Dance Of The Shaman](https://open.spotify.com/album/16gssDflHOT9uFtZh7AJsv) | 7:02 | 2022-06-03 | 2022-07-27 |
@@ -179,6 +179,7 @@
 | [Honey Bee \- Edit](https://open.spotify.com/track/2xH4BN0PnHxLhLSWufL370) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee \(Edit\)](https://open.spotify.com/album/2vk2dQnpVMQdrlwodQQjwB) | 4:23 | 2023-12-15 | 2024-02-05 |
 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 | 2022-06-03 | 2023-11-05 |
 | [Hooky \- LDN Dub Mix](https://open.spotify.com/track/2pmiDdLR1JaQxGjxfktsPg) | [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [For The Music, Pt\. 2](https://open.spotify.com/album/5V6ltIRpsRzqYsgxnRYWlu) | 3:18 | 2024-04-12 | 2024-12-08 |
+| [Hot Like Fire](https://open.spotify.com/track/4y6GSJmMoUs3cG4A2R1R4d) | [Facu Baez](https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN) | [Hot Like Fire](https://open.spotify.com/album/4s8teNPfiPFmprfIp1YzVz) | 3:30 | 2025-01-07 |  |
 | [How Low Can You Go](https://open.spotify.com/track/3L4Sen9oMlDkmbeufDEU3Q) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [How Low Can You Go EP](https://open.spotify.com/album/2F9Karze72Hgnk3NW2x08G) | 3:52 | 2024-12-13 |  |
 | [How the Story Goes](https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [How the Story Goes](https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE) | 3:04 | 2024-10-04 | 2024-12-24 |
 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 | 2022-06-03 | 2024-02-10 |

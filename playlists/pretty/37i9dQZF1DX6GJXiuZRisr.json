@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1582316,
+  "num_followers": 1582563,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -607,58 +607,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "What Took You So Long",
-        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 211058,
-      "name": "What Took You So Long",
-      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "Tigra",
-        "url": "https://open.spotify.com/album/6rtyAl9LvS3cTp8b5nkj6X"
-      },
-      "artists": [
-        {
-          "name": "Maxim Lany",
-          "url": "https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB"
-        }
-      ],
-      "duration_ms": 182670,
-      "name": "Tigra",
-      "url": "https://open.spotify.com/track/4Wj8NO7sE9mHXCRcIxP2ED"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 203211,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Lioness (Argy Remix)",
         "url": "https://open.spotify.com/album/3PXHFsTDpYQyQe31jilqYr"
       },
@@ -679,6 +627,58 @@
       "duration_ms": 187500,
       "name": "Lioness - Argy Remix",
       "url": "https://open.spotify.com/track/65baOP5OngpGwLOeFI1drl"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Tigra",
+        "url": "https://open.spotify.com/album/6rtyAl9LvS3cTp8b5nkj6X"
+      },
+      "artists": [
+        {
+          "name": "Maxim Lany",
+          "url": "https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB"
+        }
+      ],
+      "duration_ms": 182670,
+      "name": "Tigra",
+      "url": "https://open.spotify.com/track/4Wj8NO7sE9mHXCRcIxP2ED"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "What Took You So Long",
+        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 211058,
+      "name": "What Took You So Long",
+      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 203211,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -935,6 +935,26 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
         "name": "Resonate (feat. Julia Church)",
         "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
       },
@@ -983,26 +1003,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "U&ME",
-        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Jaded",
         "url": "https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV"
       },
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Ray Of Solar (Mau P Remix)",
-        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Ray Of Solar - Mau P Remix",
-      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "Biochemical",
         "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
       },
@@ -1079,22 +1059,22 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Caught in a Moment",
-        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
+        "name": "Ray Of Solar (Mau P Remix)",
+        "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
         }
       ],
-      "duration_ms": 255285,
-      "name": "Caught in a Moment",
-      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
+      "duration_ms": 251428,
+      "name": "Ray Of Solar - Mau P Remix",
+      "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1115,6 +1095,26 @@
       "duration_ms": 226048,
       "name": "Nothing Ever Changes",
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Caught in a Moment",
+        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 255285,
+      "name": "Caught in a Moment",
+      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1447,30 +1447,6 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "LAMAS (BR)",
-          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
-    },
-    {
-      "added_at": "2024-12-20 14:15:11",
-      "album": {
         "name": "No Promises",
         "url": "https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP"
       },
@@ -1491,6 +1467,30 @@
       "duration_ms": 156083,
       "name": "No Promises",
       "url": "https://open.spotify.com/track/4TuH1lerJpmraZkEJcf9zJ"
+    },
+    {
+      "added_at": "2024-12-20 14:15:11",
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/2sjVMRFt47IIX9hgVNOOuS"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LAMAS (BR)",
+          "url": "https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
     },
     {
       "added_at": "2024-12-20 14:15:11",
@@ -1951,26 +1951,26 @@
     {
       "added_at": "2024-12-20 14:15:11",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
       },
       "artists": [
         {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        },
+        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
         }
       ],
-      "duration_ms": 245538,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+      "duration_ms": 186263,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
     }
   ],
   "unique_name": "Night Rider",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,220 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,182 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 59 | [Santa Baby \(feat\. Jane XØ\)](https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:19 |
 | 60 | [Christmas Tequila](https://open.spotify.com/track/4efYndb7hVjS7UsslN7OXP) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD) | [Christmas Tequila](https://open.spotify.com/album/7BJjKM828esz7MGVc9oKCu) | 2:35 |
 
-Snapshot ID: `Z1hYjAAAAADLaQ501BX5LLXFUlXdc3h8`
+Snapshot ID: `Z32hpQAAAADmd+spSRjW7pd9d4oMm7X6`

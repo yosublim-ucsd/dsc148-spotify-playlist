@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Joya Marleen
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,705 likes - 48 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,709 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 45 | [Beautiful People](https://open.spotify.com/track/2L3ElzZIa4L0rd8UHDtyDp) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Beautiful People](https://open.spotify.com/album/1WyRTRFPQjJxgQVLD3siMh) | 6:21 |
 | 46 | [In The Air Tonight \(Tut wieder weh 🖤\)](https://open.spotify.com/track/10mvqSIsM8rovloKVQFPC8) | [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y), [IIVEN](https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq) | [In The Air Tonight \(Tut wieder weh 🖤\)](https://open.spotify.com/album/12NVxjSNJBo9K2QuSNplJc) | 1:57 |
 | 47 | [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 |
-| 48 | [Bright Eyes](https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Bright Eyes](https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ) | 3:31 |
+| 48 | [Was du nicht siehst](https://open.spotify.com/track/7zrs1TP73ItZiFDqVkV0NR) | [Laurenz](https://open.spotify.com/artist/2SxLNXXcBhIYkH8EkSfJm5) | [Was du nicht siehst](https://open.spotify.com/album/4fpmxOoo49SVr3pdpCmZI3) | 2:34 |
+| 49 | [Bright Eyes](https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Bright Eyes](https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ) | 3:31 |
 
 Snapshot ID: `Z3cadAAAAABBAq2yLzIqVe2JMyc1xdm0`

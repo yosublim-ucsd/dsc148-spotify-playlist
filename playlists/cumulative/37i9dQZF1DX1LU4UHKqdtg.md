@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: fromis\_9
 
-1,311 songs - 2 day 22 hr 13 min
+1,313 songs - 2 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,6 +539,7 @@
 | [ICARUS](https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ) | [DINO \(SEVENTEEN\)](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 | 2023-11-09 | 2023-11-16 |
 | [Ice On My Teeth](https://open.spotify.com/track/0xGgYWdUS3g23VOEydYrqm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.2](https://open.spotify.com/album/3yigtf01oYimHLNYzop85Z) | 3:03 | 2024-11-15 |  |
 | [Identity](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Identity](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) | 2:20 | 2024-10-27 | 2024-11-06 |
+| [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-07 |  |
 | [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-08 | 2022-09-17 |
 | [IG](https://open.spotify.com/track/0ILz1ShZf2Mh5Li34khPnP) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [AT H1GHR](https://open.spotify.com/album/4FxVsRxBjnKKCrHZ6YldQO) | 3:25 | 2024-07-23 | 2024-08-21 |
 | [illumination](https://open.spotify.com/track/0uqKMcnIFBGD2h0FAqsVf9) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [illumination](https://open.spotify.com/album/516cSsK1gUdpPRmNzh8zPe) | 3:26 | 2024-12-06 |  |
@@ -921,6 +922,7 @@
 | [Scorpio](https://open.spotify.com/track/4cHo8XS9nZwqQUPrGt50zA) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [Scorpio](https://open.spotify.com/album/592fFIUinSfJVKa7kLl3l6) | 3:36 | 2022-04-14 | 2022-07-01 |
 | [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 | 2022-07-12 | 2022-09-15 |
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-28 | 2022-09-23 |
+| [Season of Memories](https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories](https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y) | 3:06 | 2025-01-07 |  |
 | [Second](https://open.spotify.com/track/06airWVL4vpd8lNKQP9wMx) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [DEEP \- The 1st Mini Album](https://open.spotify.com/album/2qa6E3bEJ5OqwVgbfWOeF4) | 3:38 | 2022-05-16 | 2022-07-20 |
 | [See that?](https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 3:02 | 2024-08-23 | 2024-11-12 |
 | [Selfish](https://open.spotify.com/track/2stDO2K4MFsZmGJKN17oB3) | [Nicole](https://open.spotify.com/artist/00rHhOjnxKfnwVyJAOSACS) | [Selfish](https://open.spotify.com/album/7JV69xualLezqeKOIkoP7k) | 3:35 | 2023-05-09 | 2023-05-31 |
@@ -1102,7 +1104,7 @@
 | [The TRICKY’s Secret](https://open.spotify.com/track/719ak1xDEREpIxuHlGYKh6) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 1:47 | 2023-03-30 | 2023-05-24 |
 | [The Wind of Spring](https://open.spotify.com/track/3YRAamoGT0CR4jxIpbfk8q) | [チ・チャンウク](https://open.spotify.com/artist/3xpQw8QBD6q5IV8AGZu97n) | [The Wind of Spring](https://open.spotify.com/album/3NLkq7WSClMnISogy9NBzf) | 4:10 | 2024-03-05 | 2024-03-13 |
 | [The Wind Of Spring](https://open.spotify.com/track/61T72vch0ZAkU4C5vaCDZV) | [チ・チャンウク](https://open.spotify.com/artist/3xpQw8QBD6q5IV8AGZu97n) | [The Wind Of Spring](https://open.spotify.com/album/17dHnBkaszXRiSYn569CD2) | 4:10 | 2024-03-05 | 2024-03-07 |
-| [The wish](https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The wish](https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL) | 2:47 | 2024-12-15 |  |
+| [The wish](https://open.spotify.com/track/6aNGSMws5ZqvuKJiq2rOGV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The wish](https://open.spotify.com/album/3lyPz62SgsRODphFZBGCfL) | 2:47 | 2024-12-15 | 2025-01-08 |
 | [There](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [There](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) | 3:35 | 2023-02-14 | 2023-07-26 |
 | [Tick Tick Boom](https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Day&Night](https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc) | 2:59 | 2022-10-25 | 2023-02-09 |
 | [TIKI TAKA](https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Re:T\-ARA](https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU) | 3:16 | 2021-12-23 | 2022-01-26 |
@@ -1127,7 +1129,7 @@
 | [TRAP](https://open.spotify.com/track/1RzDNHBbvusuTTAnsDmasT) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TRAP / GRAB ME \- Japanese ver\. \-](https://open.spotify.com/album/7d1abB5aTY8N4DHH4WEJ9Y) | 3:07 | 2024-07-02 | 2024-08-09 |
 | [Trauma \- Japanese ver.](https://open.spotify.com/track/43SlfBxQYLok9kDveezSvg) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE BEST \~Dear Fantasy\~](https://open.spotify.com/album/4q3eFS7zlv7ko0k5MjmM7P) | 3:22 | 2022-06-28 | 2022-08-12 |
 | [TRIGGER](https://open.spotify.com/track/2VhmgfllXg5YGG9blUJ3YZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [TRIGGER](https://open.spotify.com/album/75MbAlPMa5vekilWtXzVGo) | 2:47 | 2022-10-13 | 2022-12-03 |
-| [TRIGGER](https://open.spotify.com/track/41B7FamCASDTknlXUhcb76) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 9TH MINI ALBUM \[TRIGGER\]](https://open.spotify.com/album/6aBgONIIYJr8ondQP2gjOO) | 3:14 | 2024-10-29 |  |
+| [TRIGGER](https://open.spotify.com/track/41B7FamCASDTknlXUhcb76) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 9TH MINI ALBUM \[TRIGGER\]](https://open.spotify.com/album/6aBgONIIYJr8ondQP2gjOO) | 3:14 | 2024-10-29 | 2025-01-08 |
 | [TROUBLE](https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Target: ME](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) | 3:26 | 2023-09-20 | 2024-01-26 |
 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-29 | 2023-10-18 |
 | [Tsuki \(Lunatic\)](https://open.spotify.com/track/4s6jZby9w8PesKpfA0B3l5) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Tsuki \(Lunatic\)](https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc) | 3:16 | 2024-08-06 | 2024-09-20 |

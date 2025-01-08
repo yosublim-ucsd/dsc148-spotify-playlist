@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 231750,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/4OtG3BjiFfTCjgUaqFuljG"
@@ -4318,7 +4318,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 220975,
       "name": "\u30e1\u30cb\u30fc\u30af\u30ea\u30b9\u30de\u30b9",
       "url": "https://open.spotify.com/track/1bqiYm0YfM9dDtb8saM0m2"
@@ -4826,6 +4826,24 @@
       "duration_ms": 132472,
       "name": "\u521d\u604b\u30ad\u30e9\u30fc",
       "url": "https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi"
+    },
+    {
+      "album": {
+        "name": "\u5316\u3051\u305d\u3046\u306a\u30b3\u30b3\u30ed",
+        "url": "https://open.spotify.com/album/51luiqy3om0h4Ik47Mg9mx"
+      },
+      "artists": [
+        {
+          "name": "Sou",
+          "url": "https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216368,
+      "name": "\u5316\u3051\u305d\u3046\u306a\u30b3\u30b3\u30ed",
+      "url": "https://open.spotify.com/track/0srh0XTwMGeKEBV2CYkIJB"
     },
     {
       "album": {
@@ -5632,7 +5650,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 195333,
       "name": "\u60aa\u3044\u4eba",
       "url": "https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux"
@@ -5762,6 +5780,24 @@
       "duration_ms": 232476,
       "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
       "url": "https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u7406",
+        "url": "https://open.spotify.com/album/04doVQsj3eowt5CY1KBFvL"
+      },
+      "artists": [
+        {
+          "name": "HATAKE",
+          "url": "https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271973,
+      "name": "\u611b\u306e\u7406",
+      "url": "https://open.spotify.com/track/4gE87R2Q0COLyin2WkG8vP"
     },
     {
       "album": {
@@ -6248,6 +6284,24 @@
       "duration_ms": 211500,
       "name": "\u7acb\u6625\u3001\u5742\u9053\u306b\u3066",
       "url": "https://open.spotify.com/track/1tTAF6VFTl5qXpNYdi62pm"
+    },
+    {
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "\u7d14\u604b\u611b\u306e\u30a4\u30f3\u30b4\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/49OhFX4S8uX22KnzZDGGU2"
     },
     {
       "album": {

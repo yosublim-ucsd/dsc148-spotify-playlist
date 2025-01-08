@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239480,
+      "name": "Appaloosa Bones",
+      "url": "https://open.spotify.com/track/5oWey6pj5PX80AFVuNWBrS"
+    },
+    {
+      "album": {
         "name": "Heart of the Artichoke",
         "url": "https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK"
       },
@@ -2015,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "His Young Heart",
+        "url": "https://open.spotify.com/album/16otwol8zNdgUcOPMfWNcP"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293333,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/66ZqZbAuzhjWroiYd2uqPl"
+    },
+    {
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -2838,6 +2874,24 @@
       "duration_ms": 230817,
       "name": "Cost of the Cold",
       "url": "https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z"
+    },
+    {
+      "album": {
+        "name": "Cost of the Cold b/w Here and Whole",
+        "url": "https://open.spotify.com/album/3GBHXRQPvTEz3U8u2fU267"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230817,
+      "name": "Cost of the Cold",
+      "url": "https://open.spotify.com/track/5rzZE2YvGk4IAbZzplZIZg"
     },
     {
       "album": {
@@ -4326,6 +4380,24 @@
       "duration_ms": 228013,
       "name": "Fortune - Acoustic",
       "url": "https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV"
+    },
+    {
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189464,
+      "name": "forwards beckon rebound",
+      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
     },
     {
       "album": {
@@ -6020,6 +6092,24 @@
       "duration_ms": 252880,
       "name": "invisible string",
       "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
+    },
+    {
+      "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6"
     },
     {
       "album": {
@@ -10186,7 +10276,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 6970,
+  "num_followers": 6992,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAC8W9MMPqIKUWX/Iy0f6BOu",
+  "snapshot_id": "Z3sdAAAAAABHq61wjgihIAtldSewy3ma",
   "tracks": [
     {
       "added_at": null,
@@ -708,17 +708,21 @@
       },
       "artists": [
         {
-          "name": "Isaiah Johnson",
-          "url": "https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        },
+        {
+          "name": "Danielle Brooks",
+          "url": "https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE"
         }
       ],
-      "duration_ms": 162468,
-      "name": "Big Dog",
-      "url": "https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI"
+      "duration_ms": 161557,
+      "name": "Miss Celie's Pants",
+      "url": "https://open.spotify.com/track/79ybmPyIMIH5WQ2npAiurG"
     },
     {
       "added_at": null,

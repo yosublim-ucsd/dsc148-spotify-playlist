@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -8450,7 +8450,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
@@ -8618,7 +8618,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 219962,
       "name": "Gole Naz - \u0645\u0637\u0644\u0648\u0628\u0629 .",
       "url": "https://open.spotify.com/track/3nwJLRabtGse9HNJFbhRa8"
@@ -11622,6 +11622,28 @@
       "duration_ms": 256784,
       "name": "La Hawl Wla Quwa",
       "url": "https://open.spotify.com/track/7Jy2xkUWZBHpwEbBR5IdE7"
+    },
+    {
+      "album": {
+        "name": "Hotel Cabana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
     },
     {
       "album": {
@@ -18364,7 +18386,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -24228,7 +24250,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -25633,6 +25655,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0639\u0645\u0631 \u0631\u0627\u062d",
+        "url": "https://open.spotify.com/album/1ZAB5PYAGMghtqRZFehWxL"
+      },
+      "artists": [
+        {
+          "name": "Nasrat Al Bader",
+          "url": "https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271487,
+      "name": "\u0627\u0644\u0639\u0645\u0631 \u0631\u0627\u062d",
+      "url": "https://open.spotify.com/track/55M85JzoZcGUGL3vzqTSNo"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0641\u064a\u0646 \u0628\u0627\u0628",
         "url": "https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh"
       },
@@ -26588,7 +26628,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 291224,
       "name": "\u062e\u0627\u0644\u062a\u0643 \u0645\u0648 \u0632\u064a\u0646\u0629",
       "url": "https://open.spotify.com/track/2dwrEM3ri4JSc0NOULYo8a"

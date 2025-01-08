@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121709,
+  "num_followers": 121715,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -127,26 +127,6 @@
     {
       "added_at": "2024-11-08 14:24:28",
       "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Intimidated (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
-    },
-    {
-      "added_at": "2024-11-08 14:24:28",
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 216000,
       "name": "My Favorite Part",
       "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
+    },
+    {
+      "added_at": "2024-11-08 14:24:28",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Intimidated (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
     },
     {
       "added_at": "2024-11-08 14:24:28",
@@ -595,46 +595,6 @@
     {
       "added_at": "2024-11-08 14:24:28",
       "album": {
-        "name": "Pressure (with SG Lewis)",
-        "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Pressure (with SG Lewis)",
-      "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
-    },
-    {
-      "added_at": "2024-11-08 14:24:28",
-      "album": {
-        "name": "Late Nights & Heartbreak",
-        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
-      },
-      "artists": [
-        {
-          "name": "Hannah Williams",
-          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
-        },
-        {
-          "name": "The Affirmations",
-          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Late Nights & Heartbreak",
-      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
-    },
-    {
-      "added_at": "2024-11-08 14:24:28",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -675,6 +635,26 @@
     {
       "added_at": "2024-11-08 14:24:28",
       "album": {
+        "name": "Pressure (with SG Lewis)",
+        "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Pressure (with SG Lewis)",
+      "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
+    },
+    {
+      "added_at": "2024-11-08 14:24:28",
+      "album": {
         "name": "Ungodly Hour",
         "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 255893,
       "name": "Ungodly Hour",
       "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2024-11-08 14:24:28",
+      "album": {
+        "name": "Late Nights & Heartbreak",
+        "url": "https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp"
+      },
+      "artists": [
+        {
+          "name": "Hannah Williams",
+          "url": "https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg"
+        },
+        {
+          "name": "The Affirmations",
+          "url": "https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Late Nights & Heartbreak",
+      "url": "https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v"
     },
     {
       "added_at": "2024-11-08 14:24:28",

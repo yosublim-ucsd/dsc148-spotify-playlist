@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : קותימאן ,תומר יוסף
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,145 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,152 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 17 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 |
 | 18 | [Hate You Instead](https://open.spotify.com/track/77AGoCzOrj72qFgQDM0H8D) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Hate You Instead](https://open.spotify.com/album/6Cf9d1LVW904lriLs8TNF1) | 3:01 |
 | 19 | [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 |
-| 20 | [עולם משוגע \- קיסריה אנפלאגד](https://open.spotify.com/track/5j0kcyzn9L5okUYff1jGH5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [קיסריה אנפלאגד 2022](https://open.spotify.com/album/3C6Lur2DcbljDEPEkcrcF4) | 5:50 |
+| 20 | [כנען \(12 מרגלים\)](https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [כנען \(12 מרגלים\)](https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy) | 4:50 |
 | 21 | [צעיף](https://open.spotify.com/track/4ahE0ztGegKkWDgqpzuhaT) | [כולם חוץ ממי שחסר](https://open.spotify.com/artist/0tmNnAb9w9IHsgQNxtjcHU), [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [כולם חוץ ממי שחסר](https://open.spotify.com/album/35Cjvys0ijxMsgKGHPj22H) | 3:03 |
-| 22 | [כנען \(12 מרגלים\)](https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [כנען \(12 מרגלים\)](https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy) | 4:50 |
+| 22 | [עולם משוגע \- קיסריה אנפלאגד](https://open.spotify.com/track/5j0kcyzn9L5okUYff1jGH5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [קיסריה אנפלאגד 2022](https://open.spotify.com/album/3C6Lur2DcbljDEPEkcrcF4) | 5:50 |
 | 23 | [מים על הסלע](https://open.spotify.com/track/60gGs8Qm93hUwLLjkXgTJX) | [Yali Sobol](https://open.spotify.com/artist/3cPFiAwdwlzCq7gBVIlBfa) | [מים על הסלע](https://open.spotify.com/album/5fTwKWtWPzu2zVp9rPSpn2) | 2:48 |
 | 24 | [דמיון חופשי](https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:21 |
 | 25 | [עכשיו](https://open.spotify.com/track/14vkQTf5qhTjAnnEmp7tpF) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [עכשיו](https://open.spotify.com/album/2ohy8UbwTwLcrHayM5dbBd) | 4:29 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 56 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 | 57 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 |
 | 58 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
-| 59 | [בבוקר](https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj), [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [בבוקר](https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12) | 2:54 |
-| 60 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
+| 59 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
+| 60 | [בבוקר](https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj), [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [בבוקר](https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12) | 2:54 |
 
 Snapshot ID: `Z3cMpgAAAABDSPAoKCP0ouI3ZE2np2dD`

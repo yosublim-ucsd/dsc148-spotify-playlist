@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Jimmy Brown\(지미 브라운\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: KWON EUNBI\(권은비\)\)
 
-785 songs - 1 day 17 hr 47 min
+786 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Smoke](https://open.spotify.com/track/5TvEmwYx56gqksISSMqgzk) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [J \- The 1st Album](https://open.spotify.com/album/1kQ1X0S06kqh4k2818bc5J) | 2:49 | 2024-08-28 |  |
 | [SMOKE](https://open.spotify.com/track/2bztJ2R2GVbmtgK5rDQik8) | [PINWHEEL](https://open.spotify.com/artist/4fJLA7qt0hVPOPwE9FERnA) | [Distrust](https://open.spotify.com/album/5ZX0wNPEvEx6w19pGtbFrU) | 3:19 | 2022-07-04 | 2022-07-08 |
 | [Smoke \(feat\. Def\. & Jomalxne\)](https://open.spotify.com/track/661IUMj6VrkniF60mSbA89) | [ØFFSHORE](https://open.spotify.com/artist/4D1yVc6ltwIZHxxNPBe552), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58), [Jomalxne](https://open.spotify.com/artist/6Cjo9LtMQwwLxADdvjvGpE) | [Scene \#2](https://open.spotify.com/album/7Hsohl8K1M7Gb8OFCIxB1R) | 3:00 | 2022-04-19 | 2022-04-21 |
+| [Snowfall \(Feat\. Coogie\)](https://open.spotify.com/track/18ewGSc5gtXW9WbARDalca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Snowfall](https://open.spotify.com/album/1WkK7CXeGV60KEncYYDjf8) | 2:29 | 2025-01-07 |  |
 | [So Beautiful](https://open.spotify.com/track/3aPUPt18WCBy8pYAWn77Py) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So Beautiful](https://open.spotify.com/album/48T3diKnUEcNZKxM9PKKFZ) | 3:07 | 2022-04-19 | 2022-05-22 |
 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-15 | 2023-12-14 |
 | [Soaring](https://open.spotify.com/track/6SbVQBOr3l0JNxY0WNT7es) | [INTEC](https://open.spotify.com/artist/1mAtZH4unxIByuZVuqshiv), [THE GONE](https://open.spotify.com/artist/2CYGhK6k0TxnAsqffKtzN3) | [Soaring](https://open.spotify.com/album/4iHQQBwevkb8VzFzyzuqF5) | 3:29 | 2022-07-24 | 2022-07-28 |
@@ -770,7 +771,7 @@
 | [Woo hoo \(Feat\. Kid Milli\)](https://open.spotify.com/track/50JEzNr75B90UaYXZvCuaT) | [KAIAVANT](https://open.spotify.com/artist/2xTSAzEj9nYkoVr2nptxFe), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Piece of space](https://open.spotify.com/album/38F3lt1f20fXN4paz2XF2X) | 4:05 | 2022-08-31 | 2022-09-09 |
 | [Woo\~](https://open.spotify.com/track/6A61HhOH8EwGSXEgyuv899) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [EGG](https://open.spotify.com/album/6riQ6u1zptxd4GdyjH0YtZ) | 2:47 | 2022-11-03 | 2022-11-23 |
 | [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 | 2023-07-07 | 2023-07-15 |
-| [X\-MAS TREE](https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [X\-MAS TREE](https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG) | 4:16 | 2024-12-24 |  |
+| [X\-MAS TREE](https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [X\-MAS TREE](https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG) | 4:16 | 2024-12-24 | 2025-01-08 |
 | [YES \(feat\. Jay Park, REDDY\)](https://open.spotify.com/track/7LlIANXlJFhzDHGqugugTp) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Diminished](https://open.spotify.com/album/6YX73BggU7ueaQzV9PKXiO) | 2:46 | 2024-04-19 | 2024-05-01 |
 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2024-01-17 |  |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-21 | 2024-06-13 |

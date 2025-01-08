@@ -17664,7 +17664,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 150857,
       "name": "It's Cloudy",
       "url": "https://open.spotify.com/track/269vLZpnY21sgaa8i70k99"
@@ -20764,6 +20764,24 @@
       "duration_ms": 150232,
       "name": "Lost in the Woods",
       "url": "https://open.spotify.com/track/1EcB1d4312bZha775c7woO"
+    },
+    {
+      "album": {
+        "name": "Lost in Thought",
+        "url": "https://open.spotify.com/album/12YPgoxYFNeRrT04YvFghu"
+      },
+      "artists": [
+        {
+          "name": "Mellow Clouds",
+          "url": "https://open.spotify.com/artist/6zhkEv6pdcJ8d4TmghYIAx"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Lost in Thought",
+      "url": "https://open.spotify.com/track/1NgZiXsz8wFgdX0Ew39FSv"
     },
     {
       "album": {
@@ -26608,7 +26626,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 138593,
       "name": "Pacific Coast",
       "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
@@ -35260,7 +35278,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 141300,
       "name": "surf & turf",
       "url": "https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK"

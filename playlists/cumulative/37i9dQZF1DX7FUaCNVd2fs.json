@@ -1727,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Little eyes",
+        "url": "https://open.spotify.com/album/5YYGBgnXZ9M36cOYlWKbQi"
+      },
+      "artists": [
+        {
+          "name": "Leddei",
+          "url": "https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139598,
+      "name": "Little eyes",
+      "url": "https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC"
+    },
+    {
+      "album": {
         "name": "Love Me Tender",
         "url": "https://open.spotify.com/album/5BsJYGygYBdPK3qxSvoKSw"
       },

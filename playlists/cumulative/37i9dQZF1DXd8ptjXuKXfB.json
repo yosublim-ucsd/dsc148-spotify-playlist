@@ -999,6 +999,28 @@
     },
     {
       "album": {
+        "name": "ELJ\u00d6SSZ",
+        "url": "https://open.spotify.com/album/7DVWAa5TuMhePkRAHp9PY3"
+      },
+      "artists": [
+        {
+          "name": "Rini",
+          "url": "https://open.spotify.com/artist/0aalJzQGuZBfdAInbUqVdJ"
+        },
+        {
+          "name": "Kretz",
+          "url": "https://open.spotify.com/artist/0onVomXfYKZY5HkFJktuxt"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144199,
+      "name": "ELJ\u00d6SSZ",
+      "url": "https://open.spotify.com/track/74yYMdoLBSB1hSWduZmiBk"
+    },
+    {
+      "album": {
         "name": "Elvon\u00f3",
         "url": "https://open.spotify.com/album/2i6ZqGrP6XqVs9PcY614Fi"
       },
@@ -1152,6 +1174,24 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
+        "name": "Feh\u00e9r r\u00f3zsa",
+        "url": "https://open.spotify.com/album/5oHKAKl9IoTsSeJEFB1AKG"
+      },
+      "artists": [
+        {
+          "name": "Curtis",
+          "url": "https://open.spotify.com/artist/2cFK15y135mg47RIgsS43E"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Feh\u00e9r r\u00f3zsa",
+      "url": "https://open.spotify.com/track/4lslQR7Pl8RAnGCkwetanK"
     },
     {
       "album": {
@@ -1404,6 +1444,24 @@
       "duration_ms": 216521,
       "name": "Gyere Kisl\u00e1ny",
       "url": "https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH"
+    },
+    {
+      "album": {
+        "name": "Gyufa a l\u00e1ngon",
+        "url": "https://open.spotify.com/album/5Q6M1tY1pBE7tcqHMGO6h4"
+      },
+      "artists": [
+        {
+          "name": "\u00c9BERK\u00d3MA",
+          "url": "https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Gyufa a l\u00e1ngon",
+      "url": "https://open.spotify.com/track/0NlXimeK63kcIg51nnfY0W"
     },
     {
       "album": {
@@ -1903,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Kar\u00e1csony Freestyle",
+        "url": "https://open.spotify.com/album/3TOCG64paOdycwgTPqoBNu"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139350,
+      "name": "Kar\u00e1csony Freestyle",
+      "url": "https://open.spotify.com/track/1YLkA5ZvDccIMCbsyIKRXi"
+    },
+    {
+      "album": {
         "name": "KEEP UP // FROSTBITE",
         "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
       },
@@ -2252,7 +2328,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 159512,
       "name": "l\u00e1nc",
       "url": "https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb"
@@ -3504,7 +3580,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 170934,
       "name": "SISS",
       "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
@@ -4306,7 +4382,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 116000,
       "name": "\u00c1lomk\u00e9p",
       "url": "https://open.spotify.com/track/15M5mgDvw2nSIjQKYGF21g"
@@ -4328,7 +4404,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 196695,
       "name": "\u00c9jf\u00e9l",
       "url": "https://open.spotify.com/track/6xnneTxSRzkofA0oLWa1ey"

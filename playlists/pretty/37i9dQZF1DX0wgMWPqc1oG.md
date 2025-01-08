@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,478 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,494 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 50 | [Margot](https://open.spotify.com/track/1tqXFvOa69R2ay434QqLqr) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 3:42 |
 | 51 | [Speedball](https://open.spotify.com/track/44MyZZa2SPW0BO9XcmlU9F) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Best Of Lee Morgan](https://open.spotify.com/album/3ckt1jRTh6Q08fUvEePI7B) | 5:32 |
 | 52 | [Head Start \- Rudy Van Gelder Edition / 2006 Digital Remaster](https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Happenings](https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi) | 5:14 |
-| 53 | [Rebirth](https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Sahara](https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl) | 5:18 |
-| 54 | [Love Song \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
+| 53 | [Love Song \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
+| 54 | [Rebirth](https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Sahara](https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl) | 5:18 |
 | 55 | [Blessing In Disguise](https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [East Broadway Run Down](https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ) | 12:22 |
 | 56 | [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 |
 | 57 | [Components \- Remastered 1994](https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 6:25 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 70 | [The Fox \- Remastered 2014](https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Trompeta Toccata \(Remastered 2014\)](https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl) | 8:00 |
 | 71 | [Kahlil The Prophet](https://open.spotify.com/track/25UXC18kep4qTng1062Fjf) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Destination...Out!](https://open.spotify.com/album/5G3L2XFdPWxKmsFSljLjj1) | 10:24 |
 | 72 | [Herzog](https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Total Eclipse](https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM) | 6:36 |
-| 73 | [Chasin' The Trane \- Live At The Village Vanguard, 1961](https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Live At The Village Vanguard](https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5) | 16:11 |
-| 74 | [Easterly Winds \- Remastered 2004](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
+| 73 | [Easterly Winds \- Remastered 2004](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
+| 74 | [Chasin' The Trane \- Live At The Village Vanguard, 1961](https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Live At The Village Vanguard](https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5) | 16:11 |
 | 75 | [Portsmouth Figurations](https://open.spotify.com/track/3D0W1LYyO4yp2QjEg6UiJS) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Duster](https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf) | 3:05 |
 | 76 | [One Shirt \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 7:30 |
 | 77 | [Omega \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Let Freedom Ring \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw) | 8:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,318 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,324 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 44 | [Cruzando el Campo](https://open.spotify.com/track/7IEMXZrmEJXgZSfKaZMOJK) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Cruzando el Campo](https://open.spotify.com/album/0j515BtyhDDr3KKqvWNDjx) | 2:22 |
 | 45 | [La Luna y El Mar](https://open.spotify.com/track/1Xp4D3FQIg1nhTDnWBJTeR) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:08 |
 | 46 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
-| 47 | [Duj Sandale](https://open.spotify.com/track/3rx0WO8pmKvpW7DxBOPxry) | [Dr\. Nelle Karajlic](https://open.spotify.com/artist/5yzgU0obBQzoueVFvrR8Sa), [Dejan Sparavalo](https://open.spotify.com/artist/3yn8Rsrzmf05bVkrQtl420), [Vojislav Aralica](https://open.spotify.com/artist/68fyIAl24S9AqCMZMErTMd) | [Chat Noir Chat Blanc](https://open.spotify.com/album/0wESIDOydrlI7S5mI2saXn) | 2:49 |
-| 48 | [Pharoah's Dreams](https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:27 |
+| 47 | [Pharoah's Dreams](https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:27 |
+| 48 | [Duj Sandale](https://open.spotify.com/track/3rx0WO8pmKvpW7DxBOPxry) | [Dr\. Nelle Karajlic](https://open.spotify.com/artist/5yzgU0obBQzoueVFvrR8Sa), [Dejan Sparavalo](https://open.spotify.com/artist/3yn8Rsrzmf05bVkrQtl420), [Vojislav Aralica](https://open.spotify.com/artist/68fyIAl24S9AqCMZMErTMd) | [Chat Noir Chat Blanc](https://open.spotify.com/album/0wESIDOydrlI7S5mI2saXn) | 2:49 |
 | 49 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 |
 | 50 | [Backstabbers \- Gypsy Hill Remix](https://open.spotify.com/track/5xbmU2vkPyswTMo5Gmjipf) | [Äl Jawala](https://open.spotify.com/artist/4bTTaQVaf03641We5lnIRI), [Gypsy Hill](https://open.spotify.com/artist/5yhampTqXyor0WERIKV7rH) | [Blast Your Ghetto Remixes](https://open.spotify.com/album/4enhNg6Vmjhuy726jhl4dM) | 3:48 |
 

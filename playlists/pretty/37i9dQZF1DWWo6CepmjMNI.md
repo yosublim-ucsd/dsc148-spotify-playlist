@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: HAPPILY
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,186 likes - 55 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,187 likes - 55 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

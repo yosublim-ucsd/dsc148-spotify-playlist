@@ -881,6 +881,32 @@
     },
     {
       "album": {
+        "name": "Marpapa (From \"Marco\")",
+        "url": "https://open.spotify.com/album/1zy7mSPHWA8o9XJQG5em9D"
+      },
+      "artists": [
+        {
+          "name": "Saeed Abbas",
+          "url": "https://open.spotify.com/artist/3r3BIxNm1kAWHIAc2Gg36h"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170678,
+      "name": "Marpapa (From \"Marco\")",
+      "url": "https://open.spotify.com/track/3wy1CWZIb89ajMdd2SiFM3"
+    },
+    {
+      "album": {
         "name": "Mathapithakkale (From \"Aavesham\")",
         "url": "https://open.spotify.com/album/0iTW4gBhHqRbN5ins6Nhkf"
       },
@@ -1162,7 +1188,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 160824,
       "name": "SAVUSAI",
       "url": "https://open.spotify.com/track/2vJ3ADBUlFDbdCd1H25PFI"

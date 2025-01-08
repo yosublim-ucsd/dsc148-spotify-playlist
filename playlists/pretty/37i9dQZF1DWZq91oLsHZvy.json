@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udc5f",
-  "num_followers": 713680,
+  "num_followers": 713843,
   "original_name": "Indie Running",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-05-21 07:38:03",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121880,
-      "name": "Song 2",
-      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
-    },
-    {
-      "added_at": "2024-05-21 07:38:03",
-      "album": {
         "name": "Le Tigre",
         "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 184626,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "added_at": "2024-05-21 07:38:03",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121880,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
     },
     {
       "added_at": "2024-05-21 07:38:03",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-05-21 07:38:03",
       "album": {
-        "name": "The Balance",
-        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Longshot",
-      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
-    },
-    {
-      "added_at": "2024-05-21 07:38:03",
-      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 190626,
       "name": "Going Kokomo",
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "added_at": "2024-05-21 07:38:03",
+      "album": {
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
     },
     {
       "added_at": "2024-05-21 07:38:03",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-21 07:38:03",
       "album": {
-        "name": "Shadow EP",
-        "url": "https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 167900,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r"
-    },
-    {
-      "added_at": "2024-05-21 07:38:03",
-      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 250453,
       "name": "Temple",
       "url": "https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC"
+    },
+    {
+      "added_at": "2024-05-21 07:38:03",
+      "album": {
+        "name": "Shadow EP",
+        "url": "https://open.spotify.com/album/1UTIEbg5uN419e3TVEAfOV"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 167900,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3hgmSLTBSBVBlxOF0xV01r"
     },
     {
       "added_at": "2024-05-21 07:38:03",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-05-21 07:38:03",
       "album": {
-        "name": "Our Own House",
-        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "Our Own House",
-      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
-    },
-    {
-      "added_at": "2024-05-21 07:38:03",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2024-05-21 07:38:03",
+      "album": {
+        "name": "Our Own House",
+        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "Our Own House",
+      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
     },
     {
       "added_at": "2024-05-21 07:38:03",

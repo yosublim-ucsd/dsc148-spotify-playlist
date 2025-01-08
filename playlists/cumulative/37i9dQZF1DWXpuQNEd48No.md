@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-328 songs - 16 hr 55 min
+329 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Ajj Di Ghadi](https://open.spotify.com/track/34Q0elUcdfYZb1YpGG2VXE) | [Mandys](https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu) | [Ajj Di Ghadi](https://open.spotify.com/album/5N7uDc9T8hDZrtj2b19VU3) | 2:04 | 2024-03-18 | 2024-11-27 |
 | [Albadi Hood](https://open.spotify.com/track/1pGcsZRZHbGodigDtfTgM1) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Albadi Hood](https://open.spotify.com/album/287jjIzNyGO25bcSTYJBYx) | 3:21 | 2023-07-24 |  |
 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 | 2024-01-05 |  |
-| [Alcoholic](https://open.spotify.com/track/3AAHmSw32Q8HJ9ySLDkA3e) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:23 | 2024-10-18 |  |
+| [Alcoholic](https://open.spotify.com/track/3AAHmSw32Q8HJ9ySLDkA3e) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:23 | 2024-10-18 | 2025-01-08 |
 | [Andhadhundh](https://open.spotify.com/track/2r41UPprKTdzCHunyb9ITs) | [RC Magnum](https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT), [Mani Rana](https://open.spotify.com/artist/3BRj60pF5wpSEF0Y5nbX9H), [Manish Gaat](https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L) | [Andhadhundh](https://open.spotify.com/album/2Hi46SNyAZfVyKOWJQ9YTs) | 2:49 | 2024-11-29 | 2024-12-14 |
 | [Ankhon Ka Kasoor](https://open.spotify.com/track/2Qil9eFB9arcc6DxCCdvX0) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7) | [Ankhon Ka Kasoor](https://open.spotify.com/album/0Tkivn2mOHK6sUPfhgtIpq) | 2:22 | 2023-05-09 | 2024-09-18 |
 | [Antidote](https://open.spotify.com/track/6VJIHzVA2VwW33fgTD0VXe) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [Antidote](https://open.spotify.com/album/2X9avJaTZEJ5uz8AKTubYp) | 3:01 | 2023-09-13 | 2023-10-07 |
@@ -111,6 +111,7 @@
 | [Expelled](https://open.spotify.com/track/0ELzctzDOxFi8eSGREvQum) | [ADDI KALYAN](https://open.spotify.com/artist/6s3N1jFz2YrJPCEvbF5gDN), [Varun Rana](https://open.spotify.com/artist/34bsUwR2hSCqyem7PH2s05) | [Expelled](https://open.spotify.com/album/5OKWtPFNxhuGaRjxZBeF3n) | 2:36 | 2024-10-23 |  |
 | [Extend Mag](https://open.spotify.com/track/4rnNQakQukmfI9v8eWBXuh) | [SB The Haryanvi](https://open.spotify.com/artist/5HmjeHpOiFOpeHQVwqJNOc), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [Extend Mag](https://open.spotify.com/album/1a7zFMClsGzUiLJYEhTl1Y) | 2:35 | 2023-06-16 | 2023-07-12 |
 | [Eyes 44](https://open.spotify.com/track/1DFTaua4jLEU4XPDfYLAa2) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Eyes 44](https://open.spotify.com/album/4klfeFNyR2zuPf2r5r1Wns) | 2:57 | 2024-02-06 |  |
+| [Faagan Ki Yaari](https://open.spotify.com/track/24hfQmUJ5O9XRaKbxwMw35) | [Vkey](https://open.spotify.com/artist/1BY7PxVLvuV63Ds9iPVXss), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ) | [Faagan Ki Yaari](https://open.spotify.com/album/3I6cvONRv5gHJq6KJCvLBF) | 2:59 | 2025-01-06 |  |
 | [FARIDA DRIP](https://open.spotify.com/track/3mInEHbMdIsY7E4czvxloZ) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FARIDA DRIP](https://open.spotify.com/album/2bBOwF7NrAR5Y74C8d5diO) | 4:11 | 2024-09-30 |  |
 | [Firki](https://open.spotify.com/track/79Go5RTAaIuH4st4hjexS9) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Firki](https://open.spotify.com/album/4WsLNoVx93bhv9ROdvrija) | 2:53 | 2024-10-23 | 2024-12-18 |
 | [Flex](https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Flex](https://open.spotify.com/album/4LY72uiyZBD0JYyOhXjPod) | 3:06 | 2024-10-23 |  |

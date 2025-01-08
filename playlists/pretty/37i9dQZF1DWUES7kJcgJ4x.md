@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,735 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,740 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sugar Town](https://open.spotify.com/track/0AWN35e76cvPxAUms8SojX) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Sugar](https://open.spotify.com/album/6rqIXGej4Zy1PZtU8J9gEC) | 2:26 |
 | 2 | [Edi, Edi](https://open.spotify.com/track/0a59DGdqkzBNuVYVpI5Mx7) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 2:27 |
 | 3 | [Chica Ye Ye](https://open.spotify.com/track/5hv3nMY3NKyDL7cSsrSYog) | [Concha Velasco](https://open.spotify.com/artist/65wHdzrkQGEUFBFLkte7WO) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 2:23 |
-| 4 | [El Gran Tomás \(Norman\)](https://open.spotify.com/track/7b94Oh1p69ue3mCdXsngrh) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [Mayté...](https://open.spotify.com/album/4bRUoxWothLJaJpXI03MrX) | 2:12 |
-| 5 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
+| 4 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 |
+| 5 | [El Gran Tomás \(Norman\)](https://open.spotify.com/track/7b94Oh1p69ue3mCdXsngrh) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [Mayté...](https://open.spotify.com/album/4bRUoxWothLJaJpXI03MrX) | 2:12 |
 | 6 | [Roller Girl](https://open.spotify.com/track/7fxZpBlviGbIQ3MdWr2Nch) | [Anna Karina](https://open.spotify.com/artist/5Hdnj4ih6VtuvwwNFUAMEC) | [BOF Anna](https://open.spotify.com/album/7lamDMJGneBZtJBtfwas9v) | 2:23 |
 | 7 | [Romeo y Julieta](https://open.spotify.com/track/5G16h0fFvNuQmwA6y78QM6) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Colores](https://open.spotify.com/album/1Scgivd40jqSf5QybT3Itq) | 2:34 |
 | 8 | [Topless Party](https://open.spotify.com/track/7lCzY3lj586QbvglU8TCtU) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 3:04 |
 | 9 | [](https://open.spotify.com/track/1NV2n81StzrL8svv01aZaA) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4NmjPjTRWoQa33BLUyYPv5) | 0:00 |
 | 10 | [Moi je joue](https://open.spotify.com/track/3UodijH4fESPUiVz7t8TJC) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [The Best Of Bardot](https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID) | 1:38 |
 | 11 | [Bule, bule](https://open.spotify.com/track/1e5fCFpVSLlpDvUBv8U9zd) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX) | 2:33 |
-| 12 | [Muévanse Todos \(Twist & Shout\)](https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [RCA 100 Años de Música](https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm) | 1:58 |
-| 13 | [Yo Lo Seguire \- \(I Will Follow Him\)](https://open.spotify.com/track/2bSGIbnr1Mwg8tQlbDMKP3) | [Emily Cranz](https://open.spotify.com/artist/6Sqy9l1z22tjcNC9lqVDbt) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:32 |
-| 14 | [La Favorita del Profesor \(Teacher's Pet\)](https://open.spotify.com/track/1kazUHPjrHaLk4gohVwdVQ) | [Julissa](https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT) | [La Gran Epoca Del Rock En Español](https://open.spotify.com/album/2Y6wv1hbC7B1vBg4GOdlOT) | 2:24 |
+| 12 | [Yo Lo Seguire \- \(I Will Follow Him\)](https://open.spotify.com/track/2bSGIbnr1Mwg8tQlbDMKP3) | [Emily Cranz](https://open.spotify.com/artist/6Sqy9l1z22tjcNC9lqVDbt) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:32 |
+| 13 | [La Favorita del Profesor \(Teacher's Pet\)](https://open.spotify.com/track/1kazUHPjrHaLk4gohVwdVQ) | [Julissa](https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT) | [La Gran Epoca Del Rock En Español](https://open.spotify.com/album/2Y6wv1hbC7B1vBg4GOdlOT) | 2:24 |
+| 14 | [Muévanse Todos \(Twist & Shout\)](https://open.spotify.com/track/1SI9SfO4HvnROLWfw7KjFZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [RCA 100 Años de Música](https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm) | 1:58 |
 | 15 | [Siempre es domingo \- 2015 Remaster](https://open.spotify.com/track/0JyL6nklvYdBAxpfLmvZBp) | [Gelu](https://open.spotify.com/artist/2yjN5JRnodrl8NsktcIZ8A) | [Los EP's Originales \(Remastered 2015\)](https://open.spotify.com/album/1KmBro1fKa2NTUyuGqo3VS) | 2:02 |
 | 16 | [Ahora Te Puedes Marchar \- Remastered](https://open.spotify.com/track/4xfF88HtFcohZYbuNUl2Ag) | [Lita Torelló](https://open.spotify.com/artist/220JuDukvxjcVJeEC1o3mx) | [Grandes Éxitos \(Remastered\)](https://open.spotify.com/album/6M4RDtWU6nyWwo2EG7aSkv) | 2:40 |
 | 17 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |

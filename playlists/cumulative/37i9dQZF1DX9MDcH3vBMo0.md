@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-788 songs - 1 day 10 hr 18 min
+790 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,13 +158,13 @@
 | [Dusk](https://open.spotify.com/track/2jsQkKbjbA9miTDtV7obIh) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Dusk](https://open.spotify.com/album/07Yw3BguFmrDGZbuRMpSlC) | 3:35 | 2023-08-14 | 2024-02-28 |
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2022-04-21 | 2024-04-04 |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-04-21 |  |
-| [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-19 |  |
+| [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-19 | 2025-01-08 |
 | [Eclipse](https://open.spotify.com/track/0T8qo3Tr3rgGhYky5t2L5U) | [Arex Coda](https://open.spotify.com/artist/1Tu7K63su6HKvopaN2DBpB) | [Eclipse](https://open.spotify.com/album/5OO0jNyNBiKY4C4F0ftxpQ) | 4:38 | 2022-04-21 | 2022-07-21 |
 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-12 |  |
 | [Eftertanke](https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Eftertanke](https://open.spotify.com/album/425TkvWPxsTPyFKEdjtz1J) | 2:41 | 2022-04-21 | 2022-07-20 |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2022-04-21 | 2023-05-12 |
 | [El último vals](https://open.spotify.com/track/2rw220lcEpbi4RwyefjinW) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [El último vals](https://open.spotify.com/album/4b03MTEd0QTyJLIphDIKLk) | 3:52 | 2022-04-21 | 2022-07-21 |
-| [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-09 |  |
+| [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-09 | 2025-01-08 |
 | [Elegy Of Solace](https://open.spotify.com/track/5OwbUwe2qFPQ1iUSosmR9u) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Elegy Of Solace](https://open.spotify.com/album/230v9G7h2iSAN8gibtd8eU) | 2:38 | 2024-05-07 |  |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-21 | 2024-10-23 |
 | [Elixir](https://open.spotify.com/track/4XhMnxEzSOCuSMfOjHc1QF) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Elixir](https://open.spotify.com/album/6L5lu6k4cPjTgp9a2WdKPh) | 2:07 | 2023-03-20 |  |
@@ -177,7 +177,7 @@
 | [Equinox](https://open.spotify.com/track/1a0lli78He6qIN6wB4Ou3e) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Equinox](https://open.spotify.com/album/1YSVVyrEzUqJaNNV35H6oG) | 3:30 | 2022-04-21 | 2023-01-21 |
 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
 | [Eskilso](https://open.spotify.com/track/5Wn4IspBj6auYHTwsEKanx) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Eskilso](https://open.spotify.com/album/69qs0SeMBSp8Gx7G9IyYsq) | 2:15 | 2022-04-21 | 2022-09-24 |
-| [Essence of Light](https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Essence of Light](https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR) | 3:25 | 2023-02-27 |  |
+| [Essence of Light](https://open.spotify.com/track/6qnbaQ2N81xF8G8OZLfKc9) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Essence of Light](https://open.spotify.com/album/7tFfsBfcdYayqs14yezBqR) | 3:25 | 2023-02-27 | 2025-01-08 |
 | [Esthetic](https://open.spotify.com/track/424kxlBHkHVxwwMkDlPp1s) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Esthetic](https://open.spotify.com/album/7JYclSv63BYa69okll9GKk) | 2:27 | 2022-04-21 | 2022-07-21 |
 | [Eternal Sunshine](https://open.spotify.com/track/73VevVSRPsGB4FFIasDEB2) | [Jean Lucas](https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ) | [Eternal Sunshine](https://open.spotify.com/album/5TvrJAZpjUqTATvZXDxCFr) | 2:27 | 2024-02-27 |  |
 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 | 2022-04-21 | 2022-07-21 |
@@ -284,6 +284,7 @@
 | [Høstsol](https://open.spotify.com/track/4WSd5HfPN9mlJl4lSzoXw4) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Høstsol](https://open.spotify.com/album/17kenhwkiIX1zmroBRnfdH) | 2:09 | 2022-04-21 | 2023-08-31 |
 | [I found you](https://open.spotify.com/track/53LdGm0FF9hIH4GY1aytqr) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [I found you](https://open.spotify.com/album/46AgYDtzsWu8eczwGknUBW) | 2:17 | 2022-07-20 | 2024-02-03 |
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2022-04-21 | 2023-06-20 |
+| [I Know You](https://open.spotify.com/track/5QCQvHat9B9VgaENda7gbs) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Know You](https://open.spotify.com/album/2mSXKlafDrp0KUqJ3UkN4x) | 2:51 | 2025-01-07 |  |
 | [I Rette Tid](https://open.spotify.com/track/0CIVRRNufQLSNuD0ODckGm) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [I Rette Tid](https://open.spotify.com/album/4gwidAK3Xt7XmGMDzch8Cm) | 2:18 | 2023-04-12 | 2024-02-03 |
 | [I Still Miss You](https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [I Still Miss You](https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA) | 2:06 | 2023-06-19 |  |
 | [I Watched a Blackbird](https://open.spotify.com/track/6qlBW3iQTQ0Cehh3KMi44M) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [I Watched a Blackbird](https://open.spotify.com/album/3SX8ZSQ8ay74MuHUvWeQHP) | 2:19 | 2024-04-22 |  |
@@ -310,7 +311,7 @@
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2022-04-21 | 2024-03-26 |
 | [Intimita \- Futatabi](https://open.spotify.com/track/6tUBHCAKCnlqbyEqJjXJSo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Intimita \- Futatabi](https://open.spotify.com/album/4JnQ9RJjw3BaE18z8fccAE) | 1:57 | 2022-04-21 | 2022-07-21 |
 | [Involution](https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Involution](https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4) | 2:43 | 2022-04-21 | 2024-02-14 |
-| [Inward Road \- Piano Version](https://open.spotify.com/track/0ZOecPZY6kihcSn4BWwite) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Inward Road \(Piano Version\)](https://open.spotify.com/album/3f7U3kAUkTFh9Ps8hOGB9w) | 2:18 | 2023-07-03 |  |
+| [Inward Road \- Piano Version](https://open.spotify.com/track/0ZOecPZY6kihcSn4BWwite) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Inward Road \(Piano Version\)](https://open.spotify.com/album/3f7U3kAUkTFh9Ps8hOGB9w) | 2:18 | 2023-07-03 | 2025-01-08 |
 | [Irremplaçable](https://open.spotify.com/track/00MXTIsUxrN8hf6CgN1d2E) | [Astride Perrot](https://open.spotify.com/artist/1zefY5hiDGobvYnnl9ZxVc) | [Irremplaçable](https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW) | 3:04 | 2022-04-21 | 2024-04-04 |
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2022-04-21 | 2022-07-21 |
 | [Island](https://open.spotify.com/track/2qglfm0H0hUuL4SwQHtuWj) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Island](https://open.spotify.com/album/6Tv48n5bgrkcAZNmtG8YYe) | 2:27 | 2022-04-21 | 2024-04-04 |
@@ -456,6 +457,7 @@
 | [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 | 2022-09-23 | 2024-04-10 |
 | [Old Flame](https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/7sN26SlOzcl1ey6NuPPQfg) | 2:08 | 2022-04-21 | 2022-09-24 |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-04-21 | 2023-01-19 |
+| [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 | 2025-01-07 |  |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-04-21 | 2024-02-14 |
 | [Once](https://open.spotify.com/track/5GaveEKpBohYBe6liGnTpT) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Once](https://open.spotify.com/album/0sxYxNcxnOFwqO0n5TuMHR) | 2:39 | 2024-02-02 | 2024-10-02 |
 | [Once Again](https://open.spotify.com/track/7D7QszPJ4qhcdqY4bV5BOo) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Recollection](https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q) | 2:47 | 2022-04-21 | 2022-09-24 |

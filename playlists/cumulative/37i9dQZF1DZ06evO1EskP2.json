@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 207500,
       "name": "Hard Place",
       "url": "https://open.spotify.com/track/6o7RxGKmG0YWwPT768suRR"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 199333,
       "name": "Raw",
       "url": "https://open.spotify.com/track/2miJGwkdsz31S0uJN0nucG"
@@ -1674,10 +1674,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 215700,
       "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o (Live)",
       "url": "https://open.spotify.com/track/4XzNLgdNr3xwpT33V3iDFK"
+    },
+    {
+      "album": {
+        "name": "A10: Best of Anuhea",
+        "url": "https://open.spotify.com/album/1YDTiycP1SilLdmMYc2nJv"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215700,
+      "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o - Live",
+      "url": "https://open.spotify.com/track/5mGsLdpxK4AEIrIltjN5EV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,239 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,334 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 21 | [I Told Ya](https://open.spotify.com/track/37zfEtmjhbTorE2xZwJcTM) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [I Told Ya](https://open.spotify.com/album/0XqsX7gCAQqF6Y8pIV8cKl) | 4:50 |
 | 22 | [Malkia](https://open.spotify.com/track/45n3JtqEm1v2j6bmG77ywg) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Malkia](https://open.spotify.com/album/1MEdQSsJgrmaVsiNQcQCoU) | 3:01 |
 | 23 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 |
-| 24 | [Only You](https://open.spotify.com/track/14wbsRn4dzYtLE4QVhI0qB) | [Aperio](https://open.spotify.com/artist/7p6ffz42sYfufojFrfIDlX), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Only You](https://open.spotify.com/album/1pU3nDxtgVciYzPQMhFAj8) | 4:34 |
-| 25 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
+| 24 | [Runaway](https://open.spotify.com/track/1RC2jgk8nnxArMGxjt8yEN) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [X\-Ray](https://open.spotify.com/album/0e1sHJqFhzoetj1tPKXEyw) | 3:01 |
+| 25 | [Only You](https://open.spotify.com/track/14wbsRn4dzYtLE4QVhI0qB) | [Aperio](https://open.spotify.com/artist/7p6ffz42sYfufojFrfIDlX), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Only You](https://open.spotify.com/album/1pU3nDxtgVciYzPQMhFAj8) | 4:34 |
 | 26 | [Illuminate](https://open.spotify.com/track/3BAsUgDkWZxkSeIS0rl9iE) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [Illuminate](https://open.spotify.com/album/2btXYqQB4bmCVy2zE6vqRa) | 4:23 |
 | 27 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
 | 28 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |

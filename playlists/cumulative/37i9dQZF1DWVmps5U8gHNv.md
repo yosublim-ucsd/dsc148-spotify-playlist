@@ -2,9 +2,9 @@
 
 ### [Essential Folk](https://open.spotify.com/playlist/37i9dQZF1DWVmps5U8gHNv)
 
-> A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Tracy Chapman
+> A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-193 songs - 12 hr 16 min
+195 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,8 @@
 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 | 2023-08-09 |  |
 | [Chilly Winds \- Live](https://open.spotify.com/track/17vXaFnZxB8GD9IWiqjXYE) | [The Kingston Trio](https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ) | [The Capitol Years](https://open.spotify.com/album/7JLbOcsGsFxEsWV65vGcA8) | 2:38 | 2021-08-18 |  |
 | [City of New Orleans](https://open.spotify.com/track/6sQv6XMvSp0PB0cuuS6Dfz) | [Steve Goodman](https://open.spotify.com/artist/0n5eyZr2XjOLUODPGZrlLB) | [Steve Goodman](https://open.spotify.com/album/61MUZCoQITIcWwghwrgYHM) | 3:50 | 2021-08-18 |  |
+| [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2025-01-07 |  |
+| [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 | 2025-01-07 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4GQaSM60Y9UvCNYOKHPIxd) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Creeque Alley \- The History Of The Mamas And The Papas](https://open.spotify.com/album/6Wo8kOZUTssB59PNQ5Zcp8) | 3:13 | 2021-08-18 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3wCQpEFidgAdZqZTkVrxPg) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Happy San Valentine's Day](https://open.spotify.com/album/1FgVu5tlrfE9xzwc7Qtfb2) | 3:14 | 2022-03-11 | 2022-11-13 |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 | 2022-03-11 | 2024-04-19 |

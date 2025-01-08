@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain](/playlists/plain/37i9dQZF1DXbbp0uiGXEBw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbbp0uiGXEBw)
 
-### [Best of EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
+### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Những ca khúc EQUAL Vietnam nổi bật năm 2024\. Ảnh bìa: Orange
+> Cùng thưởng thức và tôn vinh những nữ nghệ sĩ Việt \. Ảnh bìa: Orange
 
 [Spotify](https://open.spotify.com/user/spotify) - 28,517 likes - 50 songs - 3 hr 12 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Một Người Đánh Mất Một Người](https://open.spotify.com/track/00be0bf1yiRaJB8PMXG9uj) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Một Người Đánh Mất Một Người](https://open.spotify.com/album/2E6ZljmtzzHy1oxv1Yoaht) | 4:17 |
 | 50 | [Missing You](https://open.spotify.com/track/7D5hQQZXK33EpJdn1zdLch) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Missing You](https://open.spotify.com/album/6glbutLmt19rxMZYe4QFVi) | 4:02 |
 
-Snapshot ID: `Z1BHxAAAAAAV4zRFFD3QKXugGaEwO+iY`
+Snapshot ID: `Z33pzwAAAAD2vQlv2QI5z7v46Ygh1Dtm`

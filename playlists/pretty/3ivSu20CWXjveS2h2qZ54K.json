@@ -6,8 +6,88 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACo8OqNp5YvNOVCNqcWCrwS2C6qm7cr",
+  "snapshot_id": "AACo+hldDy0ej4IQPDtNM/WqsQSQSrTm",
   "tracks": [
+    {
+      "added_at": "2025-01-07 12:09:25",
+      "album": {
+        "name": "Ferry Lady",
+        "url": "https://open.spotify.com/album/1CwMlbr0CQJxdPQtlcLFT4"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        }
+      ],
+      "duration_ms": 282042,
+      "name": "Ferry Lady",
+      "url": "https://open.spotify.com/track/0d3jI3SmR8cFpp6fYOvyWa"
+    },
+    {
+      "added_at": "2025-01-07 12:09:45",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2025-01-07 12:24:17",
+      "album": {
+        "name": "Fanzine Made of Flesh",
+        "url": "https://open.spotify.com/album/2xqnlP610pBeKmgIlVfRpJ"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 274229,
+      "name": "Fanzine Made Of Flesh",
+      "url": "https://open.spotify.com/track/2hS2ztz2o1CEd1zWCz09HM"
+    },
+    {
+      "added_at": "2025-01-07 12:23:21",
+      "album": {
+        "name": "La Vita E Una Vacanza",
+        "url": "https://open.spotify.com/album/2cGRDRjVSRRBay0ex8GQbE"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Pantani",
+          "url": "https://open.spotify.com/artist/2PAXsvAXDIVnygDHUl4hAd"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "La Vita E Una Vacanza",
+      "url": "https://open.spotify.com/track/5Wshzg9KUiValKiCyWQnUV"
+    },
+    {
+      "added_at": "2025-01-07 12:23:35",
+      "album": {
+        "name": "Nadie Se Muere De Amor",
+        "url": "https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO"
+      },
+      "artists": [
+        {
+          "name": "Talleres Molina",
+          "url": "https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Nadie Se Muere De Amor",
+      "url": "https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8"
+    },
     {
       "added_at": "2025-01-03 09:05:33",
       "album": {
@@ -487,7 +567,7 @@
     {
       "added_at": "2024-12-27 15:54:01",
       "album": {
-        "name": "Angel in the Dark",
+        "name": "Angel In The Dark",
         "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
       },
       "artists": [
@@ -505,7 +585,7 @@
         }
       ],
       "duration_ms": 199335,
-      "name": "Angel in the Dark",
+      "name": "Angel In The Dark",
       "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
     },
     {

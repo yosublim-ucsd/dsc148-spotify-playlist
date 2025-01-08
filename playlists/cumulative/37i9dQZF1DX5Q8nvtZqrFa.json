@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 194344,
       "name": "\u306a\u3041",
       "url": "https://open.spotify.com/track/0E5FxZ0spndv7NZGQdrJaZ"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 181226,
       "name": "\u3089\u3001\u306e\u306f\u306a\u3057",
       "url": "https://open.spotify.com/track/2tgWF9EZzqiq4Qzdzeow1A"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 229173,
       "name": "\u30b4\u30df\u4eba\u9593\u3001\u4ffa",
       "url": "https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy"
@@ -2018,6 +2018,24 @@
       "duration_ms": 234323,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
+    },
+    {
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "\u30b7\u30fc\u30bd\u30fc",
+      "url": "https://open.spotify.com/track/6NZDXzAaFg2DJO1rfs0xWX"
     },
     {
       "album": {
@@ -2165,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a1\u30c3\u30ad\u30f3\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5eByljgYy7SoeFfHHSPGOi"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u5b9f\u8cb4\u5b50\u30ba",
+          "url": "https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350099,
+      "name": "\u30d5\u30a1\u30c3\u30ad\u30f3\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/1pMnCoEbAKlG8hthOWnhAT"
+    },
+    {
+      "album": {
         "name": "\u30d8\u30f3\u30c8\u30a6\u30bf\u30a4",
         "url": "https://open.spotify.com/album/6fCwhpkS7SjeOtfEZRFhQQ"
       },
@@ -2266,7 +2302,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 269750,
       "name": "\u30e9\u30b9\u30c8\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/6TsbJfhKnVsM2mr9OghsqX"
@@ -2738,6 +2774,24 @@
       "duration_ms": 215386,
       "name": "\u5c11\u3057\u3060\u3051",
       "url": "https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD"
+    },
+    {
+      "album": {
+        "name": "\u5ca1\u5d0e\u4eac\u5b50\u306e\u3042\u306e\u5a18\u306b\u306a\u308a\u305f\u304b\u3063\u305f",
+        "url": "https://open.spotify.com/album/60Y0XZI1pKhS7ZDd2YczWC"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u521d\u671f\u885d\u52d5",
+          "url": "https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "\u5ca1\u5d0e\u4eac\u5b50\u306e\u3042\u306e\u5a18\u306b\u306a\u308a\u305f\u304b\u3063\u305f",
+      "url": "https://open.spotify.com/track/0wykwC7fLm3kn6cw5DfAr5"
     },
     {
       "album": {
@@ -3260,6 +3314,24 @@
       "duration_ms": 227000,
       "name": "\u734f\u300c\u72ec\u6f14\u300d",
       "url": "https://open.spotify.com/track/3EGaeMhRwW2oZpmHO5WVQr"
+    },
+    {
+      "album": {
+        "name": "\u75db\u899a",
+        "url": "https://open.spotify.com/album/0RtFA6ThC0dUyWN1fhqEit"
+      },
+      "artists": [
+        {
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269777,
+      "name": "\u75db\u899a",
+      "url": "https://open.spotify.com/track/3wnQnCDKSSlQDJELGWzj0V"
     },
     {
       "album": {

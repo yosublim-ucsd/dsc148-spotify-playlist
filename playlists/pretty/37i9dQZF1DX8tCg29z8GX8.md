@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,453 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,458 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 70 | [JEJEREJE \(with Ginton\)](https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy) | [JEJEREJE \(with Ginton\)](https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ) | 3:04 |
 | 71 | [Mad](https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Diamond & Roses](https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf) | 2:39 |
 | 72 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 |
-| 73 | [Angelina](https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Angelina](https://open.spotify.com/album/5DBiiNf0QT2FlKqwY508ag) | 2:40 |
-| 74 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
+| 73 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
+| 74 | [Angelina](https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Angelina](https://open.spotify.com/album/5DBiiNf0QT2FlKqwY508ag) | 2:40 |
 | 75 | [obaa sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / obaa sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 |
 | 76 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
-| 77 | [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 |
-| 78 | [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 |
+| 77 | [Bad Feeling](https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bad Friends](https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme) | 2:41 |
+| 78 | [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 |
 | 79 | [Days Pass By](https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Days Pass By](https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP) | 2:26 |
-| 80 | [No One](https://open.spotify.com/track/12mDXHABGzTSBPoLB0A6Wm) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 4:02 |
+| 80 | [Ting Ting](https://open.spotify.com/track/4pPjtltszSbjBFzM0KCEqs) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Ting Ting](https://open.spotify.com/album/5SovjJsCQZwm4zGoVCq2TK) | 3:02 |
 
 Snapshot ID: `Z1/zuAAAAABpmdNpiOmVlpFlhjQl5NCL`

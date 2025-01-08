@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "Atlantica",
+        "url": "https://open.spotify.com/album/30ttwHBQuINyAhPHtFb48j"
+      },
+      "artists": [
+        {
+          "name": "Broadleaf Radio",
+          "url": "https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Atlantica",
+      "url": "https://open.spotify.com/track/4jDb1rWIia6olz6CK3LRoZ"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO"
       },
@@ -932,6 +950,24 @@
       "duration_ms": 232942,
       "name": "Blame Leads to Shame",
       "url": "https://open.spotify.com/track/5DJhKbXvR8wcX2cZKmoMg0"
+    },
+    {
+      "album": {
+        "name": "Blissfulness",
+        "url": "https://open.spotify.com/album/0gA8hxPu1doZv7hIRDl5kc"
+      },
+      "artists": [
+        {
+          "name": "Flynn Simmons",
+          "url": "https://open.spotify.com/artist/50KiISa7MC3LSlXZmn30Go"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140046,
+      "name": "Blissfulness",
+      "url": "https://open.spotify.com/track/3Lt1Y99SGZzBJGGtvMjKXP"
     },
     {
       "album": {
@@ -1562,7 +1598,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 121200,
       "name": "Cohesion",
       "url": "https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv"
@@ -2628,6 +2664,24 @@
       "duration_ms": 170810,
       "name": "Empfidlich",
       "url": "https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq"
+    },
+    {
+      "album": {
+        "name": "Empty Spaces",
+        "url": "https://open.spotify.com/album/19PWlAeLkg0Shrxr2pcfoP"
+      },
+      "artists": [
+        {
+          "name": "Luna Novina",
+          "url": "https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177324,
+      "name": "Empty Spaces",
+      "url": "https://open.spotify.com/track/4So9QTfhu1YXt1wrDXxhvg"
     },
     {
       "album": {
@@ -3704,7 +3758,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 155700,
       "name": "Grow",
       "url": "https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR"
@@ -4028,7 +4082,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 144766,
       "name": "Huma",
       "url": "https://open.spotify.com/track/4sUDVt3gP4omAmrt6UzI4g"
@@ -5220,6 +5274,42 @@
       "duration_ms": 156363,
       "name": "Luminated Forest",
       "url": "https://open.spotify.com/track/6gph0jZ3nwYALZ3UyJ7Ksa"
+    },
+    {
+      "album": {
+        "name": "Luminosity",
+        "url": "https://open.spotify.com/album/0wLokQRzKp0UIJZonsFN13"
+      },
+      "artists": [
+        {
+          "name": "La Luce",
+          "url": "https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168350,
+      "name": "Luminosity",
+      "url": "https://open.spotify.com/track/5QLAwRYt56HRkjuWRzvopb"
+    },
+    {
+      "album": {
+        "name": "Luminous Fragments",
+        "url": "https://open.spotify.com/album/3fYpy7MgGYMqxtWKnmkpQD"
+      },
+      "artists": [
+        {
+          "name": "Eternalistic",
+          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165479,
+      "name": "Luminous Fragments",
+      "url": "https://open.spotify.com/track/1LHy3a92HTQLkaShre64Mf"
     },
     {
       "album": {
@@ -7225,6 +7315,24 @@
     },
     {
       "album": {
+        "name": "Preternatural",
+        "url": "https://open.spotify.com/album/2lQM7ljrnh0EvkNycXoscN"
+      },
+      "artists": [
+        {
+          "name": "Proph\u00e9tique",
+          "url": "https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Preternatural",
+      "url": "https://open.spotify.com/track/3mkRzhmzKRAESPmMojVFKk"
+    },
+    {
+      "album": {
         "name": "Eternal Sunshine of",
         "url": "https://open.spotify.com/album/1lHy2i4BtaeDccL7h4yiHN"
       },
@@ -9036,7 +9144,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 211500,
       "name": "Sumargola",
       "url": "https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W"
@@ -10556,6 +10664,24 @@
       "duration_ms": 200094,
       "name": "Winter",
       "url": "https://open.spotify.com/track/26aVqLHRrWVeWkeDF7BcnS"
+    },
+    {
+      "album": {
+        "name": "Wishful",
+        "url": "https://open.spotify.com/album/6wOdhsDybQ7spFm4ZunSzK"
+      },
+      "artists": [
+        {
+          "name": "Placidous",
+          "url": "https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Wishful",
+      "url": "https://open.spotify.com/track/1Uo8DN8pMJ5BaVN0bSdjjW"
     },
     {
       "album": {

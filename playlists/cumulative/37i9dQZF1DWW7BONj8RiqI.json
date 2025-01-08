@@ -5983,6 +5983,28 @@
     },
     {
       "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/79542xz2Nujk9ast0aVnNl"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "The Return",
+      "url": "https://open.spotify.com/track/5chYvk5kMc2LR63HNN6BX7"
+    },
+    {
+      "album": {
         "name": "Spirit Of Carnival Project",
         "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
       },
@@ -6714,7 +6736,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 188372,
       "name": "Who Drinking Rum?",
       "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"

@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os Bravos.",
-  "num_followers": 23417,
+  "num_followers": 23429,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -663,38 +663,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "un momento",
-        "url": "https://open.spotify.com/album/3gyNZ6E7AcQlFmkm62qR3c"
-      },
-      "artists": [
-        {
-          "name": "El Buen Hijo",
-          "url": "https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr"
-        }
-      ],
-      "duration_ms": 158865,
-      "name": "un momento",
-      "url": "https://open.spotify.com/track/1azSsvyjl1oSejhztB4cvO"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
-        "name": "Tripitir",
-        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 160874,
-      "name": "Tripitir",
-      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "Intemperie",
         "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
       },
@@ -715,6 +683,38 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
+        "name": "Tripitir",
+        "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 160874,
+      "name": "Tripitir",
+      "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "un momento",
+        "url": "https://open.spotify.com/album/3gyNZ6E7AcQlFmkm62qR3c"
+      },
+      "artists": [
+        {
+          "name": "El Buen Hijo",
+          "url": "https://open.spotify.com/artist/6G4LAz42NNVfLTq2eSNPvr"
+        }
+      ],
+      "duration_ms": 158865,
+      "name": "un momento",
+      "url": "https://open.spotify.com/track/1azSsvyjl1oSejhztB4cvO"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
         "name": "Ven a jugar",
         "url": "https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 182000,
       "name": "Ven a jugar",
       "url": "https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "Perdiendo el tiempo",
+        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 166528,
+      "name": "Perdiendo el tiempo",
+      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -747,22 +763,6 @@
       "duration_ms": 167354,
       "name": "1900",
       "url": "https://open.spotify.com/track/3ipA6qIgx7ycMxj8EI2grU"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
-        "name": "Perdiendo el tiempo",
-        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 166528,
-      "name": "Perdiendo el tiempo",
-      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "Decid\u00ed Desaparecer",
-        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 163001,
-      "name": "Decid\u00ed Desaparecer",
-      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "Club Social",
         "url": "https://open.spotify.com/album/594ZlSZQb40rpQDmcGcGFN"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 184200,
       "name": "Yo-me-mi",
       "url": "https://open.spotify.com/track/6IGJ8q6EI8vP8vNVqPrcUw"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "Decid\u00ed Desaparecer",
+        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 163001,
+      "name": "Decid\u00ed Desaparecer",
+      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "Joven Ciudad",
         "url": "https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6"
       },
@@ -911,6 +895,42 @@
       "duration_ms": 191691,
       "name": "Joven Ciudad",
       "url": "https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "Himno de las flores",
+        "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        },
+        {
+          "name": "Ni\u00f1a Polaca",
+          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
+        }
+      ],
+      "duration_ms": 228995,
+      "name": "Himno de las flores",
+      "url": "https://open.spotify.com/track/5gKX2PDvk4682feasZf58s"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -943,26 +963,6 @@
       "duration_ms": 160048,
       "name": "No va a doler",
       "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
-        "name": "Himno de las flores",
-        "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
-      },
-      "artists": [
-        {
-          "name": "Vicente Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
-        },
-        {
-          "name": "Ni\u00f1a Polaca",
-          "url": "https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW"
-        }
-      ],
-      "duration_ms": 228995,
-      "name": "Himno de las flores",
-      "url": "https://open.spotify.com/track/5gKX2PDvk4682feasZf58s"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "Candorro",
-        "url": "https://open.spotify.com/album/6t8TBzomcZmEWqh80nLiA3"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        },
-        {
-          "name": "Perro",
-          "url": "https://open.spotify.com/artist/5yWlPxhxS9fO1KAjQZUIT7"
-        }
-      ],
-      "duration_ms": 210700,
-      "name": "Candorro",
-      "url": "https://open.spotify.com/track/63JIRwhrwP2a4glqAbrH2b"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "Torreznos y Larios",
         "url": "https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK"
       },
@@ -1071,8 +1051,28 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "yo s\u00ed te quer\u00eda",
-        "url": "https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa"
+        "name": "Candorro",
+        "url": "https://open.spotify.com/album/6t8TBzomcZmEWqh80nLiA3"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        },
+        {
+          "name": "Perro",
+          "url": "https://open.spotify.com/artist/5yWlPxhxS9fO1KAjQZUIT7"
+        }
+      ],
+      "duration_ms": 210700,
+      "name": "Candorro",
+      "url": "https://open.spotify.com/track/63JIRwhrwP2a4glqAbrH2b"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
       },
       "artists": [
         {
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
         }
       ],
-      "duration_ms": 152282,
-      "name": "yo s\u00ed te quer\u00eda",
-      "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
+      "duration_ms": 193621,
+      "name": "ojal\u00e1",
+      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
+        "name": "yo s\u00ed te quer\u00eda",
+        "url": "https://open.spotify.com/album/61QLDSa4zuF1G9aJg0mTsa"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
         }
       ],
-      "duration_ms": 193621,
-      "name": "ojal\u00e1",
-      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
+      "duration_ms": 152282,
+      "name": "yo s\u00ed te quer\u00eda",
+      "url": "https://open.spotify.com/track/3PgnfPqe2Itvw4AgU5GaMK"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
+        "name": "COMERTE",
+        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
+      },
+      "artists": [
+        {
+          "name": "Barder",
+          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "COMERTE",
+      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
         "name": "Dime baby",
         "url": "https://open.spotify.com/album/5Lgm0aSegBiEQI3nQPYp2g"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 176625,
       "name": "Dime baby",
       "url": "https://open.spotify.com/track/1IvS2wj9PQ4toK49jomLDn"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
-        "name": "COMERTE",
-        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
-      },
-      "artists": [
-        {
-          "name": "Barder",
-          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "COMERTE",
-      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "saliendo bien",
-        "url": "https://open.spotify.com/album/5XRLXNQdiD5MEw6MFBVEZP"
-      },
-      "artists": [
-        {
-          "name": "Supermeganada",
-          "url": "https://open.spotify.com/artist/6gBHyKU7JcOeeIEh90Yvh0"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "saliendo bien",
-      "url": "https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "Al Final",
         "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 184201,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "saliendo bien",
+        "url": "https://open.spotify.com/album/5XRLXNQdiD5MEw6MFBVEZP"
+      },
+      "artists": [
+        {
+          "name": "Supermeganada",
+          "url": "https://open.spotify.com/artist/6gBHyKU7JcOeeIEh90Yvh0"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "saliendo bien",
+      "url": "https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "\u00a1Que te pares!",
-        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
+        "name": "Rob Gordon",
+        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
       },
       "artists": [
         {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+          "name": "Becarios",
+          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
         }
       ],
-      "duration_ms": 193754,
-      "name": "\u00a1Que te pares!",
-      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
+      "duration_ms": 123309,
+      "name": "Rob Gordon",
+      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -1431,18 +1431,34 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "Rob Gordon",
-        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
+        "name": "\u00a1Que te pares!",
+        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
       },
       "artists": [
         {
-          "name": "Becarios",
-          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
         }
       ],
-      "duration_ms": 123309,
-      "name": "Rob Gordon",
-      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
+      "duration_ms": 193754,
+      "name": "\u00a1Que te pares!",
+      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -1463,22 +1479,6 @@
       "duration_ms": 154666,
       "name": "Piropos",
       "url": "https://open.spotify.com/track/3gIH0fYBDdpsINlYv1feqs"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
-      },
-      "artists": [
-        {
-          "name": "Santa Engracia",
-          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
     },
     {
       "added_at": "2025-01-02 23:00:11",

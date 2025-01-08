@@ -1,12 +1,12 @@
 {
-  "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.",
-  "num_followers": 5477297,
+  "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & Mufasa: The Lion King.",
+  "num_followers": 5478596,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2XNlwAAAABGZZqeHgJhqnJWgkhDFpRt",
+  "snapshot_id": "Z33EvgAAAAC40+0SjhENyk2lM8u9Pcjw",
   "tracks": [
     {
       "added_at": "2024-01-08 22:56:36",
@@ -231,6 +231,42 @@
       "duration_ms": 163386,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd"
+    },
+    {
+      "added_at": "2025-01-08 00:20:14",
+      "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5pMwIoxFUbf0mHvjlMGWLq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+        },
+        {
+          "name": "Tiffany Boone",
+          "url": "https://open.spotify.com/artist/0Fiux5J8PsM7hSFScc3qiz"
+        },
+        {
+          "name": "Preston Nyman",
+          "url": "https://open.spotify.com/artist/04L8fmukIScRuBz3HtwbEa"
+        },
+        {
+          "name": "Kagiso Lediga",
+          "url": "https://open.spotify.com/artist/63WWvknQ98iON5mw6r1c3q"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "We Go Together",
+      "url": "https://open.spotify.com/track/284ZbEfENR043XOhHXGZMp"
     },
     {
       "added_at": "2024-12-20 20:03:34",

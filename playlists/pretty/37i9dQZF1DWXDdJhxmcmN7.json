@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 32496,
+  "num_followers": 32503,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "LOFI CHRISTMAS VI",
         "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 134794,
       "name": "Caviar taco",
       "url": "https://open.spotify.com/track/7bDQVlFhmCYo7qunQzG7nI"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "azalea",
-        "url": "https://open.spotify.com/album/4WgN0vxLs4IGLx70wggG9X"
-      },
-      "artists": [
-        {
-          "name": "tres islas",
-          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "azalea",
-      "url": "https://open.spotify.com/track/3U2KW4N2oeEewEXKWobekS"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
       },
@@ -771,22 +755,6 @@
       "duration_ms": 117779,
       "name": "Mi Tierra",
       "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "Abr\u00e1zame mucho estos d\u00edas",
-        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -807,6 +775,38 @@
       "duration_ms": 146845,
       "name": "Lost Memories",
       "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "Abr\u00e1zame mucho estos d\u00edas",
+        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "azalea",
+        "url": "https://open.spotify.com/album/4WgN0vxLs4IGLx70wggG9X"
+      },
+      "artists": [
+        {
+          "name": "tres islas",
+          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "azalea",
+      "url": "https://open.spotify.com/track/3U2KW4N2oeEewEXKWobekS"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "El Tambor",
-        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
-      },
-      "artists": [
-        {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        }
-      ],
-      "duration_ms": 106357,
-      "name": "El Tambor",
-      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "Viscaria Corto",
         "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 144000,
       "name": "Viscaria Corto",
       "url": "https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "El Tambor",
+        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
+      },
+      "artists": [
+        {
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        }
+      ],
+      "duration_ms": 106357,
+      "name": "El Tambor",
+      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Call me",
-        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
-      },
-      "artists": [
-        {
-          "name": "Muerto A Puntapi\u00e9s",
-          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
-        }
-      ],
-      "duration_ms": 118166,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "Soulmate",
-        "url": "https://open.spotify.com/album/3b3ooSI0DHq4cf3kaeLlLB"
-      },
-      "artists": [
-        {
-          "name": "ELEWAKA",
-          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Soulmate",
-      "url": "https://open.spotify.com/track/4hXemqmQ2ng8VJcU8e3CIj"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "van life",
         "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
       },
@@ -1419,6 +1387,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+      },
+      "artists": [
+        {
+          "name": "Muerto A Puntapi\u00e9s",
+          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+        }
+      ],
+      "duration_ms": 118166,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 129729,
       "name": "Playa",
       "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/3b3ooSI0DHq4cf3kaeLlLB"
+      },
+      "artists": [
+        {
+          "name": "ELEWAKA",
+          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/4hXemqmQ2ng8VJcU8e3CIj"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
+        "name": "find me",
+        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
+      },
+      "artists": [
+        {
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
+        }
+      ],
+      "duration_ms": 128118,
+      "name": "find me",
+      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
         "name": "making out",
         "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
       },
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "find me",
-        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
-      },
-      "artists": [
-        {
-          "name": "Shy Guy",
-          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
-        }
-      ],
-      "duration_ms": 128118,
-      "name": "find me",
-      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1539,8 +1539,24 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+        "name": "todas las ma\u00f1anas",
+        "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        }
+      ],
+      "duration_ms": 147621,
+      "name": "todas las ma\u00f1anas",
+      "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "Timeless Era",
+        "url": "https://open.spotify.com/album/1povYT4DUpB41SrrLCCKQP"
       },
       "artists": [
         {
@@ -1548,13 +1564,17 @@
           "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
         },
         {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "Raouf Beats",
+          "url": "https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+      "duration_ms": 101250,
+      "name": "Timeless Era",
+      "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1591,22 +1611,6 @@
       "duration_ms": 115500,
       "name": "Just A Cool Day",
       "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "todas las ma\u00f1anas",
-        "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
-      },
-      "artists": [
-        {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
-        }
-      ],
-      "duration_ms": 147621,
-      "name": "todas las ma\u00f1anas",
-      "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1679,26 +1683,6 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "A Safe Place",
-        "url": "https://open.spotify.com/album/3bm3Kt4x6IfhMXTTDwrlMn"
-      },
-      "artists": [
-        {
-          "name": "steezy prime",
-          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
-        },
-        {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "A Safe Place",
-      "url": "https://open.spotify.com/track/21PTw4ZyO1tYiAmNZWQm6f"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
         "name": "bumpz",
         "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
       },
@@ -1715,22 +1699,6 @@
       "duration_ms": 121734,
       "name": "bumpz",
       "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
-    },
-    {
-      "added_at": "2024-12-09 17:32:41",
-      "album": {
-        "name": "Llamar La Atenci\u00f3n",
-        "url": "https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 141813,
-      "name": "Llamar La Atenci\u00f3n",
-      "url": "https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1759,18 +1727,38 @@
     {
       "added_at": "2024-12-09 17:32:41",
       "album": {
-        "name": "Summer Purr",
-        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+        "name": "A Safe Place",
+        "url": "https://open.spotify.com/album/3bm3Kt4x6IfhMXTTDwrlMn"
       },
       "artists": [
         {
-          "name": "Kissa Kat",
-          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Summer Purr",
-      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+      "duration_ms": 128571,
+      "name": "A Safe Place",
+      "url": "https://open.spotify.com/track/21PTw4ZyO1tYiAmNZWQm6f"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "Llamar La Atenci\u00f3n",
+        "url": "https://open.spotify.com/album/10zjwjjMD6XrBSLMDSaujg"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 141813,
+      "name": "Llamar La Atenci\u00f3n",
+      "url": "https://open.spotify.com/track/3ze6hcj856RzYZM6MrHWdc"
     },
     {
       "added_at": "2024-12-09 17:32:41",
@@ -1787,6 +1775,22 @@
       "duration_ms": 144283,
       "name": "Waves",
       "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
+    },
+    {
+      "added_at": "2024-12-09 17:32:41",
+      "album": {
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+      },
+      "artists": [
+        {
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2024-12-09 17:32:41",

@@ -1,6 +1,6 @@
 {
   "description": "chefin rei da tropa do mais novo ataca no funk",
-  "num_followers": 1405394,
+  "num_followers": 1405432,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -883,30 +883,6 @@
     {
       "added_at": "2024-12-20 03:03:02",
       "album": {
-        "name": "Tropa Do Pisa",
-        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
-      },
-      "artists": [
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Tropa Do Pisa",
-      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
-    },
-    {
-      "added_at": "2024-12-20 03:03:02",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+    },
+    {
+      "added_at": "2024-12-20 03:03:02",
+      "album": {
+        "name": "Tropa Do Pisa",
+        "url": "https://open.spotify.com/album/55rdHEbpvgrl0ghYgRY4ZS"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Tropa Do Pisa",
+      "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
     },
     {
       "added_at": "2024-12-20 03:03:02",

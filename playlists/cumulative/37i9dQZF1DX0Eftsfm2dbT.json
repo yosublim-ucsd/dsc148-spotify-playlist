@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Benjazzy",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Awich",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 146319,
       "name": "143 (feat. MuKuRo & 13ELL)",
       "url": "https://open.spotify.com/track/3lArJXJ4aEBQGX9XSpIC3E"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 225608,
       "name": "Anokoro (feat. Amo)",
       "url": "https://open.spotify.com/track/51xJNAeCMtGGqQMYFms8JR"
@@ -2307,6 +2307,28 @@
     },
     {
       "album": {
+        "name": "BACK OFF",
+        "url": "https://open.spotify.com/album/4WFqi2gHSEKtztLWXu0UUw"
+      },
+      "artists": [
+        {
+          "name": "RihiTo",
+          "url": "https://open.spotify.com/artist/47Fkut1RbqAerpIbgkw5Je"
+        },
+        {
+          "name": "Jinmenusagi",
+          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166999,
+      "name": "BACK OFF",
+      "url": "https://open.spotify.com/track/3knAsIqTemKw9rRKsQ83K9"
+    },
+    {
+      "album": {
         "name": "backseat (feat. Kvi Baba & tofubeats)",
         "url": "https://open.spotify.com/album/6KBcKt1oAEGPbw5Ez8PK9w"
       },
@@ -2928,7 +2950,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 184588,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/38pCBW3vsaop7ZGebuf6NA"
@@ -3550,6 +3572,24 @@
       "duration_ms": 146184,
       "name": "BOMBAE",
       "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
+    },
+    {
+      "album": {
+        "name": "BORRACHO (Prod.\u8d77\u4e00)",
+        "url": "https://open.spotify.com/album/527BSngbTkKkr9Q9xVk95o"
+      },
+      "artists": [
+        {
+          "name": "\u8c4a\u3068\u826f\u6cbb",
+          "url": "https://open.spotify.com/artist/5Xp0KrLGD6tSXCvUyNPexl"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "BORRACHO (Prod.\u8d77\u4e00)",
+      "url": "https://open.spotify.com/track/2HcEqca5s3DwZoH4RLXs5i"
     },
     {
       "album": {
@@ -4677,6 +4717,24 @@
     },
     {
       "album": {
+        "name": "City Love City Love City Love",
+        "url": "https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J"
+    },
+    {
+      "album": {
         "name": "City of Dreams",
         "url": "https://open.spotify.com/album/0yrmb9XElDSEAGjC6cxQcL"
       },
@@ -5283,6 +5341,24 @@
     },
     {
       "album": {
+        "name": "Dappi",
+        "url": "https://open.spotify.com/album/4D82cdfCP6Hs0cylqfuehY"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139800,
+      "name": "Dappi",
+      "url": "https://open.spotify.com/track/6MW7XGfsskNpEs4cq9BMjG"
+    },
+    {
+      "album": {
         "name": "DASU",
         "url": "https://open.spotify.com/album/67RyY3ewQ282LklwrRx3Li"
       },
@@ -5570,7 +5646,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 192600,
       "name": "Denied",
       "url": "https://open.spotify.com/track/3WKlZc2q9VWchjXALyaftR"
@@ -5614,6 +5690,32 @@
       "duration_ms": 218178,
       "name": "Despu\u00e9s Del Verano",
       "url": "https://open.spotify.com/track/2SwmhJBLFRYwYJoZVNZX2R"
+    },
+    {
+      "album": {
+        "name": "Devil (feat. X 1ark & Pxrge Trxxxper)",
+        "url": "https://open.spotify.com/album/7veTtc0hj9bsJio7qLRp6D"
+      },
+      "artists": [
+        {
+          "name": "999dobby",
+          "url": "https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc"
+        },
+        {
+          "name": "X 1ark",
+          "url": "https://open.spotify.com/artist/1ffob9pTIlEgfHmllUD6U9"
+        },
+        {
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230182,
+      "name": "Devil (feat. X 1ark & Pxrge Trxxxper)",
+      "url": "https://open.spotify.com/track/2VtLntbUTqSwMg0RJXJd6R"
     },
     {
       "album": {
@@ -7621,6 +7723,28 @@
     },
     {
       "album": {
+        "name": "Family sketch",
+        "url": "https://open.spotify.com/album/3i3fZdcYu384zf7IuAm7tF"
+      },
+      "artists": [
+        {
+          "name": "TiGht Plump",
+          "url": "https://open.spotify.com/artist/2kXQOt2bAExw9gjc5Fk50T"
+        },
+        {
+          "name": "Olive Oil",
+          "url": "https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358732,
+      "name": "Family sketch",
+      "url": "https://open.spotify.com/track/1xVeyIcfoXgonX0HeFZ0bV"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/5kkpBVsROTUGOYyAl5Y1pK"
       },
@@ -8309,6 +8433,32 @@
     },
     {
       "album": {
+        "name": "Freestyle (feat. SMILEE & P-Free)",
+        "url": "https://open.spotify.com/album/6L4627FrdPcouGUDkYFSLM"
+      },
+      "artists": [
+        {
+          "name": "DJ REX",
+          "url": "https://open.spotify.com/artist/5Yb1EbMeYqD1befKAzPz42"
+        },
+        {
+          "name": "SMILEE",
+          "url": "https://open.spotify.com/artist/34mZwM09eYRbWzkWh1NtBR"
+        },
+        {
+          "name": "P-free",
+          "url": "https://open.spotify.com/artist/35RnWgsErQjC9JlajX82Pl"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174056,
+      "name": "Freestyle (feat. SMILEE & P-Free)",
+      "url": "https://open.spotify.com/track/0vvSyjgikPgEMv6jd4YzTN"
+    },
+    {
+      "album": {
         "name": "THE MESSAGE 6",
         "url": "https://open.spotify.com/album/4g2O1wfyRDa36SbbdD4Pea"
       },
@@ -8376,7 +8526,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 230645,
       "name": "Friends, Family & God (feat. G-k.i.d & KEIJU)",
       "url": "https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L"
@@ -8424,6 +8574,24 @@
       "duration_ms": 167833,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/5TawovkXUcTvnbllU794zi"
+    },
+    {
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156111,
+      "name": "Frontiers",
+      "url": "https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR"
     },
     {
       "album": {
@@ -10395,6 +10563,24 @@
     },
     {
       "album": {
+        "name": "HONNE",
+        "url": "https://open.spotify.com/album/5ngUPQGJAuQgE2cTypC6hd"
+      },
+      "artists": [
+        {
+          "name": "13ELL",
+          "url": "https://open.spotify.com/artist/5QVAFVj5ujNUpjurU1wW9s"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207142,
+      "name": "HONNE",
+      "url": "https://open.spotify.com/track/6th22FgUb3DrzwqeWChRx2"
+    },
+    {
+      "album": {
         "name": "HOOD RHYME (feat. FAT D)",
         "url": "https://open.spotify.com/album/57s5usbC1Igwnae1jyStSw"
       },
@@ -10606,7 +10792,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 201920,
       "name": "Hot Topic",
       "url": "https://open.spotify.com/track/3M2eHgQ41E0g9FhSbeMfgI"
@@ -12560,7 +12746,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 255986,
       "name": "Last Party Never End (feat. Tiji Jojo, YZERR, Vingo & Yellow Pato)",
       "url": "https://open.spotify.com/track/52buM4EFitLjpgxtN1sxIb"
@@ -15134,7 +15320,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 191821,
       "name": "MY HOOD",
       "url": "https://open.spotify.com/track/4B9jNNMyOyu8KfUGMEEyn6"
@@ -17816,7 +18002,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 210234,
       "name": "OWLGANG - Zeebra Remix",
       "url": "https://open.spotify.com/track/6u8Rcw9cFFYRFHT2cvsdd0"
@@ -18940,7 +19126,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 138181,
       "name": "R2D",
       "url": "https://open.spotify.com/track/6Nhz0SBtoCYyKpQUBcFEOI"
@@ -20302,6 +20488,32 @@
       "duration_ms": 154370,
       "name": "Run This Town",
       "url": "https://open.spotify.com/track/17PLoEyJFNwsRN5y0M53Sg"
+    },
+    {
+      "album": {
+        "name": "RSH MIXTAPE",
+        "url": "https://open.spotify.com/album/1NR9xliipUVMLDjydeQQL2"
+      },
+      "artists": [
+        {
+          "name": "RIVER SIDE HOLLYWOOD",
+          "url": "https://open.spotify.com/artist/1SIyL5jUFSjG89zIy3GxHL"
+        },
+        {
+          "name": "Tete",
+          "url": "https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw"
+        },
+        {
+          "name": "RH JayDee",
+          "url": "https://open.spotify.com/artist/5T6nHHIltgoQ9RrepnnAq6"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Runner (feat. Tete & RH JayDee)",
+      "url": "https://open.spotify.com/track/5k9FLQNEVmsj8vOXMyAxUz"
     },
     {
       "album": {
@@ -22177,6 +22389,32 @@
     },
     {
       "album": {
+        "name": "Chimera",
+        "url": "https://open.spotify.com/album/40IVmdPsW41lwlpnqARYNl"
+      },
+      "artists": [
+        {
+          "name": "AKKOGORILLA",
+          "url": "https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U"
+        },
+        {
+          "name": "\u8358\u5b50it",
+          "url": "https://open.spotify.com/artist/0IYObPlIQIfFNFf8P1rE6T"
+        },
+        {
+          "name": "BSC",
+          "url": "https://open.spotify.com/artist/1OuOdwOYODLPpExkgLL76y"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214682,
+      "name": "Stray Dog",
+      "url": "https://open.spotify.com/track/1cXcjvLpbei2iiPaNGZYoc"
+    },
+    {
+      "album": {
         "name": "STREET ELEGY",
         "url": "https://open.spotify.com/album/3OBIEuQSXCnVAnoeM3tDjm"
       },
@@ -22578,6 +22816,24 @@
       "duration_ms": 219252,
       "name": "Sweet Wine",
       "url": "https://open.spotify.com/track/04GsYibBOoPxJEBL92AniN"
+    },
+    {
+      "album": {
+        "name": "Swimmin'",
+        "url": "https://open.spotify.com/album/10NBe75ICa106uydOuNPfB"
+      },
+      "artists": [
+        {
+          "name": "It-Works",
+          "url": "https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173853,
+      "name": "Swimmin'",
+      "url": "https://open.spotify.com/track/11QprZ2C9MAtMQZAHBCPMV"
     },
     {
       "album": {
@@ -23806,7 +24062,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 192506,
       "name": "ToriCo (feat. Candee & MonyHorse)",
       "url": "https://open.spotify.com/track/4U3NZIxZOlUB0WQ7FkpEKS"
@@ -26169,6 +26425,24 @@
     },
     {
       "album": {
+        "name": "MELANISM",
+        "url": "https://open.spotify.com/album/4slE9jwKNNxEzYaG90uxFV"
+      },
+      "artists": [
+        {
+          "name": "Masato Hayashi",
+          "url": "https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "Young Boy",
+      "url": "https://open.spotify.com/track/7MJsy6Y5cTZPz2zAYTbs27"
+    },
+    {
+      "album": {
         "name": "YOUNG STAR",
         "url": "https://open.spotify.com/album/78Xf36i1GMgGGw3sBgGNA4"
       },
@@ -27686,7 +27960,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 239393,
       "name": "\u4ffa\u306b\u8a00\u308f\u305b\u308a\u3083",
       "url": "https://open.spotify.com/track/4lu6ZZ0yDzIr08yXXafqBj"

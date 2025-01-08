@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Rutshelle, John Legend and Micha\u00ebl Brun",
-  "num_followers": 92696,
+  "num_followers": 92718,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Premye Fwa",
-        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
-      },
-      "artists": [
-        {
-          "name": "DANOLA",
-          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Premye Fwa",
-      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 291120,
       "name": "A.k.i.ko.",
       "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Premye Fwa",
+        "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
+      },
+      "artists": [
+        {
+          "name": "DANOLA",
+          "url": "https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Premye Fwa",
+      "url": "https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "2 Gouden",
-        "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
-      },
-      "artists": [
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 229489,
-      "name": "2 Gouden",
-      "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "TRANSITIONS EP",
         "url": "https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 170550,
       "name": "Guava",
       "url": "https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "2 Gouden",
+        "url": "https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og"
+      },
+      "artists": [
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 229489,
+      "name": "2 Gouden",
+      "url": "https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Say It Like",
-        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
-      },
-      "artists": [
-        {
-          "name": "Sarina",
-          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Say It Like",
-      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Can't Catch Me",
         "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 229991,
       "name": "Can't Catch Me",
       "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Say It Like",
+        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
+      },
+      "artists": [
+        {
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Say It Like",
+      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
     },
     {
       "added_at": "2024-11-22 05:00:00",

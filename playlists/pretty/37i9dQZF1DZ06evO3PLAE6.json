@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 10996,
+  "num_followers": 10997,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAADrWtNXyMc9omWOKUBG4XGW",
+  "snapshot_id": "Z3sdAAAAAAAZJ6GTQnnILbHBINGiHoMd",
   "tracks": [
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
+      "duration_ms": 175053,
+      "name": "Sleeping Cold",
+      "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
         }
       ],
-      "duration_ms": 175053,
-      "name": "Sleeping Cold",
-      "url": "https://open.spotify.com/track/1tMhRgx5PeBt7SVVOYsN3t"
+      "duration_ms": 235600,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un"
     },
     {
       "added_at": null,
@@ -723,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU"
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
       },
       "artists": [
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        },
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 166026,
-      "name": "Freight Train",
-      "url": "https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX"
+      "duration_ms": 148653,
+      "name": "Wreck and Ruin",
+      "url": "https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f"
     },
     {
       "added_at": null,
@@ -746,11 +750,15 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 258226,
-      "name": "For Better or Worse",
-      "url": "https://open.spotify.com/track/70uwxVJoSk8rvFgJk4OP4Q"
+      "duration_ms": 210899,
+      "name": "My Kingdom Come",
+      "url": "https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu"
     },
     {
       "added_at": null,
@@ -771,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wreck & Ruin",
-        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU"
       },
       "artists": [
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        },
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 148653,
-      "name": "Wreck and Ruin",
-      "url": "https://open.spotify.com/track/5slMiUJ1oGDynQsTr0P05f"
+      "duration_ms": 166026,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX"
     },
     {
       "added_at": null,

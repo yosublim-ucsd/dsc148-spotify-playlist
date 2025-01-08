@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 26038,
+  "num_followers": 26060,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAABuv1sF1yJZ5t/RPpUL2Wj",
+  "snapshot_id": "Z3sdAAAAAACXy4Y02atOGZQ4q6nhaZYl",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 131589,
+      "name": "En El Este",
+      "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARY",
         "url": "https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 149499,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/09S7x3ltigb9HyCH1eWxDY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 131589,
-      "name": "En El Este",
-      "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
     },
     {
       "added_at": null,

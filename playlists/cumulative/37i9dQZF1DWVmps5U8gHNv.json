@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A collection of classics from the height of the folk revival to the rise of the folk rock era. Cover: Tracy Chapman",
+  "description": "A collection of classics from the height of the folk revival to the rise of the folk rock era. Cover: Bob Dylan",
   "name": "Essential Folk",
   "tracks": [
     {
@@ -582,6 +582,42 @@
       "duration_ms": 230960,
       "name": "City of New Orleans",
       "url": "https://open.spotify.com/track/6sQv6XMvSp0PB0cuuS6Dfz"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286106,
+      "name": "Diamonds And Rust",
+      "url": "https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb"
+    },
+    {
+      "album": {
+        "name": "The First 10 Years",
+        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Lee Seung Yoon(\uc774\uc2b9\uc724)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Redoor(\ub9ac\ub3c4\uc5b4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -3555,6 +3555,28 @@
     },
     {
       "album": {
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/0VXe7yap2XA5Gh8ibVpwCw"
+      },
+      "artists": [
+        {
+          "name": "Bombing",
+          "url": "https://open.spotify.com/artist/6uRzyPopKsLWGTJ0oMM3tk"
+        },
+        {
+          "name": "\uc870\uad11\uc77c",
+          "url": "https://open.spotify.com/artist/6URO4cLUmYihhzvCvfUT2r"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195189,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/7jdmtdVoOEw6vrDPgL3L78"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/3GNE5jh7krgY9TaJTxTdT1"
       },
@@ -6178,7 +6200,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 218033,
       "name": "In Our Lives",
       "url": "https://open.spotify.com/track/2C4d6wVmrpgE24JdJ5bbPs"
@@ -8048,7 +8070,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 265258,
       "name": "Mikael",
       "url": "https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB"
@@ -11632,6 +11654,24 @@
       "duration_ms": 292813,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/46gDDSAfLO6u6bJZokt5ka"
+    },
+    {
+      "album": {
+        "name": "snow8",
+        "url": "https://open.spotify.com/album/10bb8sXKqGV8ycEHeTsLEp"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220536,
+      "name": "snow8",
+      "url": "https://open.spotify.com/track/2pfU9lw8L3BdOd1yV4V5xt"
     },
     {
       "album": {

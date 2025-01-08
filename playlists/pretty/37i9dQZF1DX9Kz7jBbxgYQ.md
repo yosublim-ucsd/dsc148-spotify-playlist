@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Bayaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,171 likes - 103 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,286 likes - 103 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

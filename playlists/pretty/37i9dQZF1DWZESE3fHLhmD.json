@@ -1,6 +1,6 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1329874,
+  "num_followers": 1329748,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-12-20 09:26:03",
       "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
+    },
+    {
+      "added_at": "2024-12-20 09:26:03",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
-    },
-    {
-      "added_at": "2024-12-20 09:26:03",
-      "album": {
-        "name": "Weathervane",
-        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
-      },
-      "artists": [
-        {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "Weathervane",
-      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
       "added_at": "2024-12-20 09:26:03",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-20 09:26:03",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2024-12-20 09:26:03",
-      "album": {
         "name": "Locksmith",
         "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 164081,
       "name": "Locksmith",
       "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
+    },
+    {
+      "added_at": "2024-12-20 09:26:03",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2024-12-20 09:26:03",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-12-20 09:26:03",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
-    },
-    {
-      "added_at": "2024-12-20 09:26:03",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 202193,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
+    },
+    {
+      "added_at": "2024-12-20 09:26:03",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "added_at": "2024-12-20 09:26:03",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-12-20 09:26:03",
       "album": {
-        "name": "lieb dich eigentlich :(",
-        "url": "https://open.spotify.com/album/7BT34zHobCPHlxAsgvxk5h"
-      },
-      "artists": [
-        {
-          "name": "Kayla Shyx",
-          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
-        }
-      ],
-      "duration_ms": 164413,
-      "name": "lieb dich eigentlich :(",
-      "url": "https://open.spotify.com/track/3xkLGMxuILomQ4kFACymnx"
-    },
-    {
-      "added_at": "2024-12-20 09:26:03",
-      "album": {
         "name": "rimini tape",
         "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 174546,
       "name": "Rimini",
       "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
+    },
+    {
+      "added_at": "2024-12-20 09:26:03",
+      "album": {
+        "name": "lieb dich eigentlich :(",
+        "url": "https://open.spotify.com/album/7BT34zHobCPHlxAsgvxk5h"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "duration_ms": 164413,
+      "name": "lieb dich eigentlich :(",
+      "url": "https://open.spotify.com/track/3xkLGMxuILomQ4kFACymnx"
     },
     {
       "added_at": "2024-12-20 09:26:03",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-12-20 09:26:03",
       "album": {
-        "name": "Changes All The Time",
-        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 279429,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
-    },
-    {
-      "added_at": "2024-12-20 09:26:03",
-      "album": {
         "name": "Miss Me Too",
         "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 182064,
       "name": "Miss Me Too",
       "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
+    },
+    {
+      "added_at": "2024-12-20 09:26:03",
+      "album": {
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
     }
   ],
   "unique_name": "Wintergef\u00fchle",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u6253\u9996\u7344\u9580\u540c\u597d\u4f1a",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: CVLTE",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 247500,
       "name": "LEAVE IT ALL BEHIND",
       "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"
@@ -3401,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "mutist beach",
+        "url": "https://open.spotify.com/album/0mD9r3ZpgOtjmOfm7xITiu"
+      },
+      "artists": [
+        {
+          "name": "the bercedes menz",
+          "url": "https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217807,
+      "name": "only god discotheque",
+      "url": "https://open.spotify.com/track/1X7MW76HEUF10DSE7R1uGd"
+    },
+    {
+      "album": {
         "name": "Orange Night",
         "url": "https://open.spotify.com/album/2O2s9JdtTXJtXGKShSQtel"
       },
@@ -3828,6 +3846,24 @@
       "duration_ms": 191174,
       "name": "Re-create",
       "url": "https://open.spotify.com/track/12AbMuvF8W54iKkfarNIcV"
+    },
+    {
+      "album": {
+        "name": "realitYhurts.",
+        "url": "https://open.spotify.com/album/1oPQjjPHehiERqQ2HQil7Y"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151422,
+      "name": "realitYhurts.",
+      "url": "https://open.spotify.com/track/5TcBpp37mTlEGhDRp9T8iy"
     },
     {
       "album": {
@@ -4406,7 +4442,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 268826,
       "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
       "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"

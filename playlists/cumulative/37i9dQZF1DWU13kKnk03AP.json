@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 128526,
       "name": "All My Love (Imperative)",
       "url": "https://open.spotify.com/track/7prVGmvafmUBl7Kz0IxNJo"
@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 171748,
       "name": "Always, Everytime",
       "url": "https://open.spotify.com/track/1DbeTcnfS7kLnHhVsRlvqg"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 139830,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW"
@@ -6282,7 +6282,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 277894,
       "name": "Houston",
       "url": "https://open.spotify.com/track/4d9O0gY7JmTXRHNmv4It66"
@@ -6376,6 +6376,28 @@
       "duration_ms": 161976,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
+    },
+    {
+      "album": {
+        "name": "Hurt (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156813,
+      "name": "Hurt (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
     },
     {
       "album": {
@@ -8190,6 +8212,24 @@
       "duration_ms": 208421,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov"
+    },
+    {
+      "album": {
+        "name": "Little Acts Of Violence",
+        "url": "https://open.spotify.com/album/1CYW6Tlvv7S4Bqfss4H4yX"
+      },
+      "artists": [
+        {
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Little Acts Of Violence",
+      "url": "https://open.spotify.com/track/3GTLg27Ds17WYPaie2JRBG"
     },
     {
       "album": {
@@ -12804,7 +12844,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 191779,
       "name": "Steal The Show - From \"Elemental\"",
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
@@ -13709,6 +13749,28 @@
     },
     {
       "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187031,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -13994,6 +14056,24 @@
       "duration_ms": 196231,
       "name": "Tulips & Roses",
       "url": "https://open.spotify.com/track/4W6gvqpSxaTipukE5521Yl"
+    },
+    {
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
+      },
+      "artists": [
+        {
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
       "album": {
@@ -14810,7 +14890,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 153052,
       "name": "where do we go from here",
       "url": "https://open.spotify.com/track/0biM005Th79TJk8JLIC2ah"

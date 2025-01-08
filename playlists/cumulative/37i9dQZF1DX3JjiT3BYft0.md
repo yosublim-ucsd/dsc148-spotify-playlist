@@ -1,16 +1,16 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3JjiT3BYft0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3JjiT3BYft0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3JjiT3BYft0)
 
-### [BanG Dream! バンドリ！ガールズバンドパーティ！](https://open.spotify.com/playlist/37i9dQZF1DX3JjiT3BYft0)
+### [BanG Dream!](https://open.spotify.com/playlist/37i9dQZF1DX3JjiT3BYft0)
 
-> Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
+> Music from “BanG Dream! “ series!
 
-423 songs - 1 day 6 hr 29 min
+426 songs - 1 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!NVADE SHOW!](https://open.spotify.com/track/4EqT5Y6FEicelhWTbmCzPr) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/28b3WsvQkZZvOZYN95BdSi) | 4:25 | 2022-05-17 | 2022-07-22 |
 | [\-HEROIC ADVENT\-](https://open.spotify.com/track/1wUsBNR7p92LWE8sTj6gTA) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/6qpvaZAmX8QxKpnRDiKVi6) | 3:39 | 2022-09-20 | 2022-10-03 |
-| [\-N\-E\-M\-E\-S\-I\-S\-](https://open.spotify.com/track/5skDEFT2MJYyNTrSf3pMlF) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [\-N\-E\-M\-E\-S\-I\-S\-](https://open.spotify.com/album/1ihbPDqN2WKEcfp9TimN35) | 4:27 | 2023-06-27 |  |
+| [\-N\-E\-M\-E\-S\-I\-S\-](https://open.spotify.com/track/5skDEFT2MJYyNTrSf3pMlF) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [\-N\-E\-M\-E\-S\-I\-S\-](https://open.spotify.com/album/1ihbPDqN2WKEcfp9TimN35) | 4:27 | 2023-06-27 | 2025-01-08 |
 | [1000回潤んだ空](https://open.spotify.com/track/0auqVPmbobwbmqwJbPu0Tr) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TVアニメ「BanG Dream!」OP主題歌「ときめきエクスペリエンス!」](https://open.spotify.com/album/6W45N04MKzCr9KOK1MELWh) | 5:31 | 2022-05-17 | 2022-07-27 |
 | [A DECLARATION OF ×××](https://open.spotify.com/track/2zidm9e4RyoubevfU7VHYM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:15 | 2022-06-23 | 2022-10-02 |
 | [A DECLARATION OF ×××](https://open.spotify.com/track/5tmdbGdlFk5MckinctDpMj) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 5:15 | 2022-09-20 | 2023-06-01 |
@@ -21,6 +21,7 @@
 | [Avant\-garde HISTORY](https://open.spotify.com/track/5SXRtIcYo4kaDgRyD54mZP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 5:05 | 2022-05-17 | 2022-07-22 |
 | [B.O.F](https://open.spotify.com/track/132AFM2tn4rgQyGWplFpJf) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 3:38 | 2022-05-17 | 2022-07-28 |
 | [Baby Sweet Berry Love](https://open.spotify.com/track/4kloLdsaoe8UQHf5n4Ex7F) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:04 | 2022-05-17 | 2022-07-29 |
+| [Bad Kids All Bet](https://open.spotify.com/track/0y5QgAAEZoqStDtz5XGJlV) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Bad Kids All Bet](https://open.spotify.com/album/2Yb6OebNGpCjyTf4dddU7A) | 3:48 | 2025-01-07 |  |
 | [Beautiful Birthday](https://open.spotify.com/track/0YBySLj61iqqNNzHAGQlXp) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 4:16 | 2023-06-29 | 2023-07-10 |
 | [Beautiful Birthday](https://open.spotify.com/track/0CqlIR5fcvENyg0jyPmUdS) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/28b3WsvQkZZvOZYN95BdSi) | 4:16 | 2022-05-17 | 2022-07-29 |
 | [BLACK SHOUT](https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 4:04 | 2023-05-30 | 2024-04-19 |
@@ -29,6 +30,7 @@
 | [Blessing Chord](https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU) | 4:37 | 2022-10-25 | 2024-04-19 |
 | [Blessing Chord](https://open.spotify.com/track/2q6DCS4KiXsi9Uq0qDIRvP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J) | 4:37 | 2022-06-23 | 2022-10-02 |
 | [Blessing Chord](https://open.spotify.com/track/7nMYeKL40J7wNBxm0i5ruo) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/2arFvScgLYEZL9jlYa0u3m) | 4:37 | 2022-05-17 | 2022-07-24 |
+| [Blessing Chord \(パラレルver.\)](https://open.spotify.com/track/2lfs1l1xaVOxrFNqKZrAkk) | [I♡インドア](https://open.spotify.com/artist/0HydIryDI0cb2xdizA8MRu), [市ヶ谷有咲\(CV：伊藤彩沙\)](https://open.spotify.com/artist/0wm8M1C1O0Str979kE7MUR), [白金燐子\(CV：志崎樺音\)](https://open.spotify.com/artist/4Ra3Di0TwwE4lFA21m1Hbj), [倉田ましろ\(CV：進藤あまね\)](https://open.spotify.com/artist/5uMq5LpiCbQAuyx2t3oUFW) | [Blessing Chord \(パラレルver.\)](https://open.spotify.com/album/3OvUzC1Qv0e9xaHV48n0lh) | 4:36 | 2025-01-07 |  |
 | [Bloom Bloom](https://open.spotify.com/track/4cX6425aZsH2bBJoODN0eE) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Bloom Bloom](https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf) | 4:36 | 2022-06-23 | 2022-10-02 |
 | [Boppin'♪ Identity!](https://open.spotify.com/track/5cAYOh0QQTami8l738fC2x) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Boppin'♪ Identity!](https://open.spotify.com/album/6rMpLUjRcsOUISeBCuxxDV) | 3:50 | 2022-06-23 | 2022-10-02 |
 | [Brand new Pastel Road!](https://open.spotify.com/track/1yyDuEaJF0aESLjKwZGZVg) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Brand new Pastel Road!](https://open.spotify.com/album/4OgtFAm8hroiL20M9eN8iu) | 4:14 | 2022-05-17 | 2022-07-29 |
@@ -70,7 +72,7 @@
 | [DRIVE US CRAZY](https://open.spotify.com/track/7vH37GEcPembG3vdUY3bHx) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 4:05 | 2024-01-23 | 2024-02-21 |
 | [Easy come, Easy go!](https://open.spotify.com/track/34nuDpuPidmEdI59zskdnM) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:03 | 2022-06-23 | 2022-07-16 |
 | [Easy come, Easy go!](https://open.spotify.com/track/2ncCiJamFs0oPwadYHeLnB) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Easy come, Easy go!](https://open.spotify.com/album/4dWNEvBo7llubwmwiiXCDH) | 4:03 | 2022-05-17 | 2022-07-27 |
-| [Ether](https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:45 | 2024-11-28 |  |
+| [Ether](https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:45 | 2024-11-28 | 2025-01-08 |
 | [Ever Sky Blue](https://open.spotify.com/track/7ilSinhhoq3XcfB5qcGMeP) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:01 | 2024-03-23 | 2024-06-26 |
 | [EXIST](https://open.spotify.com/track/1X8tDqqCiYIfysEq6q795h) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [EXIST](https://open.spotify.com/album/5r6axlxmInCbsuuXrVwuG5) | 3:59 | 2022-06-23 | 2022-10-02 |
 | [EXIST](https://open.spotify.com/track/1gkcJhxltGuf083hwqtUEQ) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [EXIST](https://open.spotify.com/album/6x5mFSkyhGs8kbZGs9vCVA) | 3:59 | 2022-06-23 | 2022-07-13 |
@@ -117,6 +119,7 @@
 | [JUST THE WAY I AM](https://open.spotify.com/track/1DS46ygVULKTsCSTpyRbdk) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [mind of Prominence](https://open.spotify.com/album/555mc5p9BwL1u7yZPyij3C) | 4:18 | 2022-05-17 | 2022-07-27 |
 | [Kanayume](https://open.spotify.com/track/2btNnLZtaV5xEaYyvObdBg) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Kanayume](https://open.spotify.com/album/5zD7LxOX0ZYXrXJ8xURfyf) | 5:07 | 2022-06-23 | 2022-10-02 |
 | [Keep Heart](https://open.spotify.com/track/1eanLmF0Q6F3UbwZMlfPS6) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Keep Heart / Original Call](https://open.spotify.com/album/3YOAnJSLfYRuUfPOsYt9N5) | 4:06 | 2022-06-23 | 2022-07-19 |
+| [KiLLKiSS](https://open.spotify.com/track/4m9bU1ifWPGprAtAab3VZn) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [KiLLKiSS](https://open.spotify.com/album/54Hg1DhcIcnRz3BeqUew1p) | 3:28 | 2025-01-07 |  |
 | [Kizuna Music♪](https://open.spotify.com/track/5QeOdb0nDwmrWCCVQXsGaI) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy) | 5:16 | 2022-06-23 | 2022-10-02 |
 | [Life on the Lotus](https://open.spotify.com/track/097HmQLvdW3Qe15LDrV4ue) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [SAVAGE](https://open.spotify.com/album/4or1XUBWoANxo0vINF2LIT) | 4:03 | 2024-06-12 |  |
 | [Light a fire](https://open.spotify.com/track/2wBHkB3R5IOhGO3CPZt5pO) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 4:29 | 2022-05-17 | 2022-07-28 |
@@ -203,8 +206,8 @@
 | [Symbol I : △](https://open.spotify.com/track/1rmra0guc6FngerjG8iE2O) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 5:12 | 2024-11-28 |  |
 | [Symbol II : Air](https://open.spotify.com/track/3VGF6a4goaJbVo03CaPXE0) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:32 | 2024-11-28 |  |
 | [Symbol III : ▽](https://open.spotify.com/track/60pIkGRQ1VnpT0d8LDfb8U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:16 | 2024-11-28 |  |
-| [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 | 2024-11-28 |  |
-| [Symbol IV : Earth](https://open.spotify.com/track/6kbss4tmwNu4bYrAfpR51J) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Symbol IV : Earth](https://open.spotify.com/album/5nw2QyglfMgxWyVD6AS2aw) | 3:59 | 2024-07-09 | 2024-11-28 |
+| [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 | 2024-11-28 | 2025-01-08 |
+| [Symbol IV : Earth](https://open.spotify.com/track/6kbss4tmwNu4bYrAfpR51J) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Symbol IV : Earth](https://open.spotify.com/album/5nw2QyglfMgxWyVD6AS2aw) | 3:59 | 2024-07-09 |  |
 | [Takin' my Heart](https://open.spotify.com/track/47tG1WSeUrz0aEKFoTbxc6) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Invincible Fighter](https://open.spotify.com/album/2etZzaMSi3pY0SISeNziWA) | 4:46 | 2022-06-23 | 2022-06-26 |
 | [TARINAI](https://open.spotify.com/track/4kavcMChpnGmqRTNsRb8nK) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [TARINAI/トレモロアイズ](https://open.spotify.com/album/2lJJRahLBKTvBUSdJvRG8I) | 3:39 | 2024-07-16 |  |
 | [Tear Drops](https://open.spotify.com/track/7aPl1DIA0XeMu9yqXNUOH8) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL) | 3:38 | 2022-06-23 | 2022-10-02 |
@@ -411,7 +414,7 @@
 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/58lkLLrXOHfhP0FMfnRpqM) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/3iVy1eLSqC4i3CNMrOqO0P) | 4:53 | 2022-05-17 |  |
 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング　花園たえ「花園電気ギター！！！」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 4:55 | 2022-09-20 | 2024-04-19 |
 | [輪符雨](https://open.spotify.com/track/6DvzxKtjU3O9yphLXngT7L) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 3:27 | 2024-07-23 | 2024-12-25 |
-| [迷星叫](https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 3:31 | 2022-11-09 |  |
+| [迷星叫](https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷星叫](https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG) | 3:31 | 2022-11-09 | 2025-01-08 |
 | [迷路日々](https://open.spotify.com/track/5Zpt3HBbdLjdcy4GoLDrEk) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷路日々](https://open.spotify.com/album/3uBopzA0VxW4Widg7Ymeg0) | 3:35 | 2023-08-31 | 2024-12-18 |
 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 | 2024-11-28 |  |
 | [遠い音楽 ～ハートビート～](https://open.spotify.com/track/4C6qS2CKdop4uiJZ4Wfwc6) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8) | 4:00 | 2022-05-17 |  |

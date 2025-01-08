@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,188 songs - 3 day 11 hr 23 min
+2,189 songs - 3 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,7 +942,7 @@
 | [it rains all day \- Spotify Singles](https://open.spotify.com/track/3ZPPKya0w9TPzejJxRCqEF) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Spotify Singles](https://open.spotify.com/album/2qTdXY1w3bJXeQ4mI57ye1) | 3:14 | 2022-05-04 | 2022-11-12 |
 | [It Was One Look Into Your Eyes](https://open.spotify.com/track/6SzTq1f5TBnJ0RE4QDw52J) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Love Letters to O](https://open.spotify.com/album/0dqq6Rhr6HDGozqx1EVxVC) | 2:54 | 2022-04-15 | 2022-09-02 |
 | [it will be fine](https://open.spotify.com/track/4NLCbAGUF1SP8MEE1z51S0) | [next without for](https://open.spotify.com/artist/6fJ41pCfWP0xVKvxfQcjbU) | [it will be fine](https://open.spotify.com/album/0D1UbvmcsT5pSZ8thasK7h) | 2:04 | 2023-03-08 |  |
-| [It's Cloudy](https://open.spotify.com/track/269vLZpnY21sgaa8i70k99) | [Synkop](https://open.spotify.com/artist/6BZBpezhFNyPBC0xE0mBE2) | [In The Loop](https://open.spotify.com/album/5RjmqV62EhYe5fgwDU7Ihi) | 2:30 | 2023-02-21 |  |
+| [It's Cloudy](https://open.spotify.com/track/269vLZpnY21sgaa8i70k99) | [Synkop](https://open.spotify.com/artist/6BZBpezhFNyPBC0xE0mBE2) | [In The Loop](https://open.spotify.com/album/5RjmqV62EhYe5fgwDU7Ihi) | 2:30 | 2023-02-21 | 2025-01-08 |
 | [Itinerant](https://open.spotify.com/track/6cmlL15AlkdyWQIzlhTFyM) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Itinerant](https://open.spotify.com/album/376Pv5WxfgEJJjuRWKId2y) | 2:42 | 2024-07-26 | 2024-08-16 |
 | [It´s Friday](https://open.spotify.com/track/1sEZ64HxkbIrYv0C7lgYwO) | [BB Queen](https://open.spotify.com/artist/0xYs9AtekcZjUcEjJBqtmN) | [It´s Friday](https://open.spotify.com/album/4mn4QtFqRIEIjJMEwcFdLX) | 1:46 | 2022-12-02 | 2023-03-09 |
 | [Jade's Secret Kiss](https://open.spotify.com/track/6lDRRT21hm8qFOJTbjIW5d) | [Chamon](https://open.spotify.com/artist/5ZXTpRkYKYsDA2wXfIXSYH) | [Jade's Secret Kiss](https://open.spotify.com/album/5XkhIIVGYtMyFaVA3ZNX6i) | 3:14 | 2022-05-13 | 2022-11-12 |
@@ -1107,6 +1107,7 @@
 | [Lost in LA](https://open.spotify.com/track/4dZBeDiuLJ6dKmB3NDqjui) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Lost in LA](https://open.spotify.com/album/1jmrcNqyUhff0IGK1AwxVb) | 2:01 | 2023-01-20 |  |
 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 | 2024-03-08 |  |
 | [Lost in the Woods](https://open.spotify.com/track/1EcB1d4312bZha775c7woO) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:30 | 2022-04-15 | 2022-05-27 |
+| [Lost in Thought](https://open.spotify.com/track/1NgZiXsz8wFgdX0Ew39FSv) | [Mellow Clouds](https://open.spotify.com/artist/6zhkEv6pdcJ8d4TmghYIAx) | [Lost in Thought](https://open.spotify.com/album/12YPgoxYFNeRrT04YvFghu) | 2:22 | 2024-12-20 |  |
 | [Lost Without You](https://open.spotify.com/track/1AqN43ZIZzz74aAtnsovZ1) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Lost Without You](https://open.spotify.com/album/34dYkYAHSlwZg94wg8UE90) | 2:38 | 2023-11-17 |  |
 | [lostonbrick](https://open.spotify.com/track/4yiteviu6ykAfAN7AspXCE) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [lostonbrick](https://open.spotify.com/album/0dS1PtAgPFSiuUhs9o9GNs) | 2:00 | 2022-09-23 |  |
 | [Lotus](https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc) | [All Names](https://open.spotify.com/artist/4hdKvR0UnMhgvQp6BzqdIK) | [Lotus](https://open.spotify.com/album/0Vpd6SmPohg4jRreilcgtE) | 1:38 | 2024-03-22 | 2024-05-23 |
@@ -1416,7 +1417,7 @@
 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 | 2022-07-15 |  |
 | [overused.](https://open.spotify.com/track/0EsSBz7kNvkDOa2JTk7AqZ) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [overused.](https://open.spotify.com/album/0yfcaOnt3yHljzqImWnnAK) | 1:54 | 2024-09-27 |  |
 | [Ovinhos](https://open.spotify.com/track/4EJs8WoephOYOiGcHR7QUQ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [handful](https://open.spotify.com/album/61InI8u58RhlqAfoYmG1gL) | 2:18 | 2024-07-05 |  |
-| [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2022-10-28 | 2024-12-23 |
+| [Pacific Coast](https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Pacific Coast](https://open.spotify.com/album/7GwG8Ph0VMTrhwV3vHNoP8) | 2:18 | 2022-10-28 |  |
 | [Pacific Highway](https://open.spotify.com/track/6zflxqdtATYTIWGoOQKZZv) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Pacific Highway](https://open.spotify.com/album/5TePX9AcqnHsVlqvS1BWFa) | 2:18 | 2022-11-25 | 2023-09-16 |
 | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/track/3N0FWBeTdzCNL6N0idBqqG) | [Mik](https://open.spotify.com/artist/5rQt28kugM2JTzkJtgNovi), [Chill Astronaut](https://open.spotify.com/artist/6QjN6GM0FYKcviJrQoAsbD) | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/album/43zKBAbB6apBO0SyJ4GWaT) | 1:35 | 2023-04-20 | 2023-09-29 |
 | [Pagans](https://open.spotify.com/track/6OrK4sjjGOvTuqQlx4QHhe) | [Brother Took](https://open.spotify.com/artist/1pZIRdqI2jk41VuxmqS9e1) | [Pagans](https://open.spotify.com/album/4zGcYEFzgMUKyT2lyNlHqP) | 2:13 | 2024-03-01 | 2024-07-19 |
@@ -1876,7 +1877,7 @@
 | [Supernova](https://open.spotify.com/track/4VUEKRdgmVP7ZvsrnDlWvt) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Supernova](https://open.spotify.com/album/0cywMV3yuEW9GNUutqbfNn) | 2:16 | 2023-03-20 | 2023-10-27 |
 | [Sure Thing](https://open.spotify.com/track/4FlEeZGyEX4YFkemYosHlp) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Sure Thing](https://open.spotify.com/album/4Tgn8uLSmKuC1rXuzR0FTj) | 1:44 | 2022-11-11 | 2022-11-24 |
 | [Sure Thing](https://open.spotify.com/track/5ckDJdpOfwyQQHjaSV3JNj) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Sure Thing](https://open.spotify.com/album/0aajqsRSt6q8OBeUVtFecR) | 1:44 | 2022-11-18 | 2023-09-16 |
-| [surf & turf](https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [surf & turf](https://open.spotify.com/album/1ynicyTPqKdnRVtJwypRCY) | 2:21 | 2022-12-02 |  |
+| [surf & turf](https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [surf & turf](https://open.spotify.com/album/1ynicyTPqKdnRVtJwypRCY) | 2:21 | 2022-12-02 | 2025-01-08 |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
 | [Surfer](https://open.spotify.com/track/6liPFI7LwVYrWAlVGxE4ZD) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [Surfer](https://open.spotify.com/album/5N1GRInd6KhqgeD0QMvk5E) | 2:49 | 2024-12-06 |  |
 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 | 2023-11-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,845 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,855 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 6 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
 | 7 | [A Alegria Está no Coração](https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Mara Lima e Seus Amiguinhos, Vol\. 6](https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn) | 3:23 |
 | 8 | [Bondade de Deus](https://open.spotify.com/track/45rrbhJ6P5CbZWCotd8Hwe) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Bondade de Deus](https://open.spotify.com/album/5qfRfNDrvKsUxYwRRixEWv) | 4:42 |
-| 9 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
-| 10 | [A Alegria Está no Coração / Celebrai / Solta o Cabo da Nau](https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0) | [Trio R3](https://open.spotify.com/artist/1j80V5H3SnqrUDKhpAo1OE) | [Trio R3 Kids](https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf) | 3:22 |
+| 9 | [A Alegria Está no Coração / Celebrai / Solta o Cabo da Nau](https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0) | [Trio R3](https://open.spotify.com/artist/1j80V5H3SnqrUDKhpAo1OE) | [Trio R3 Kids](https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf) | 3:22 |
+| 10 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
 | 11 | [Caminhando Vou Para Canaã](https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Caminhando Vou Para Canaã](https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN) | 2:17 |
 | 12 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
 | 13 | [Brilhando](https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP) | [Turminha da Cristina Mel \- Fazendo a Diferença](https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX) | 3:08 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 42 | [Rei Davi](https://open.spotify.com/track/39iAdQZ6xeTXJKmR9K9NSK) | [Mara Maravilha](https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu) | [Reluz](https://open.spotify.com/album/1p9LL7bfA85oG7vjD2wtAP) | 3:46 |
 | 43 | [Caminho No Deserto \- Versão Kids](https://open.spotify.com/track/6DvLLo7zE7pPaXKbKxn3qf) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp), [Kaiky Mello](https://open.spotify.com/artist/576aczLz6CXzj9E0WZ1EJw) | [Caminho No Deserto \(Versão Kids\)](https://open.spotify.com/album/4fLbLFLA4S6DEFI3ez7eSw) | 5:33 |
 | 44 | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC) | 2:18 |
-| 45 | [Ao Senhor Agradecemos \(Deluxe\)](https://open.spotify.com/track/0HOXhB7Avgp8l7E67mhWR4) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Ao Senhor Agradecemos \(Deluxe\)](https://open.spotify.com/album/3P7LCP2g0uMC27eossYiLU) | 2:12 |
-| 46 | [Toc Toc Toc \- Baby Fun \- Remix](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun \(Remix\)](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 |
+| 45 | [Toc Toc Toc \- Baby Fun \- Remix](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun \(Remix\)](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 |
+| 46 | [Ao Senhor Agradecemos \(Deluxe\)](https://open.spotify.com/track/0HOXhB7Avgp8l7E67mhWR4) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Ao Senhor Agradecemos \(Deluxe\)](https://open.spotify.com/album/3P7LCP2g0uMC27eossYiLU) | 2:12 |
 | 47 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
 | 48 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
 | 49 | [Filipenses \- Ao Vivo](https://open.spotify.com/track/0r8wj5qmDS8UmrONRWEyFv) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [ImaginAline](https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN) | [ImaginAline \- Uma Viagem no Tempo \(Ao Vivo\)](https://open.spotify.com/album/2YyBG9g0IIqQEGrTiByg4Y) | 4:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,109 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,199 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 56 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 |
 | 57 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 |
 | 58 | [OUR LOVE \(80'S\)](https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [OUR LOVE \(80'S\)](https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX) | 2:59 |
-| 59 | [Much](https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Monochrome](https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1) | 2:59 |
-| 60 | [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 |
+| 59 | [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 |
+| 60 | [Much](https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Monochrome](https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1) | 2:59 |
 | 61 | [UTHANDO](https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l) | [Click Bait](https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1) | 5:31 |
 | 62 | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L) | 3:31 |
 | 63 | [Ma Jo Lo](https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Ma Jo Lo](https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk) | 2:27 |

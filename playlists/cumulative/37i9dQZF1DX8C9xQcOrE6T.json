@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.",
+  "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & Mufasa: The Lion King.",
   "name": "Disney Hits",
   "tracks": [
     {
@@ -4330,6 +4330,44 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "album": {
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5pMwIoxFUbf0mHvjlMGWLq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+        },
+        {
+          "name": "Tiffany Boone",
+          "url": "https://open.spotify.com/artist/0Fiux5J8PsM7hSFScc3qiz"
+        },
+        {
+          "name": "Preston Nyman",
+          "url": "https://open.spotify.com/artist/04L8fmukIScRuBz3HtwbEa"
+        },
+        {
+          "name": "Kagiso Lediga",
+          "url": "https://open.spotify.com/artist/63WWvknQ98iON5mw6r1c3q"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164106,
+      "name": "We Go Together",
+      "url": "https://open.spotify.com/track/284ZbEfENR043XOhHXGZMp"
     },
     {
       "album": {

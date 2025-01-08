@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 141395,
+  "num_followers": 141404,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -1303,22 +1287,18 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "Yakifest Vol. 4 (En Vivo)",
-        "url": "https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD"
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        },
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 145500,
-      "name": "Te Quedaste Casi A Nada (En Vivo)",
-      "url": "https://open.spotify.com/track/5S7aouHg7cUJf97oxMZzLk"
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2024-07-11 01:48:38",
@@ -1335,6 +1315,26 @@
       "duration_ms": 151968,
       "name": "Desarmada - Spotify Singles",
       "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "Yakifest Vol. 4 (En Vivo)",
+        "url": "https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Te Quedaste Casi A Nada (En Vivo)",
+      "url": "https://open.spotify.com/track/5S7aouHg7cUJf97oxMZzLk"
     },
     {
       "added_at": "2024-07-11 01:48:38",

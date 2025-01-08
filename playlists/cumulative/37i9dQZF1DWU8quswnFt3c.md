@@ -4,7 +4,7 @@
 
 > Our editors' top picks from EQUAL 2024 from across the globe\. Cover: Aitana
 
-2,175 songs - 5 day 0 hr 20 min
+2,176 songs - 5 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [BABY VOICE](https://open.spotify.com/track/0gelwjtIDhGKhk9osLMz5j) | [Zinée](https://open.spotify.com/artist/6LAeGs6PiBDev5KdMdbRY3) | [OSMIN](https://open.spotify.com/album/1OoYk7talO3HwAozYp6I86) | 2:46 | 2024-07-03 | 2024-07-10 |
 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 | 2022-06-01 | 2022-07-07 |
 | [Bacchus](https://open.spotify.com/track/0Bm96DapZQH5f05Er9nBJQ) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [KIKI](https://open.spotify.com/album/6Kk6WqqqCM2ntCv3jxifau) | 3:08 | 2023-08-02 | 2023-09-07 |
+| [Back](https://open.spotify.com/track/54rhafYTfxo0sUIrVaudCR) | [Puzzls](https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9) | [Pages from the Diary of a Delusional Girl](https://open.spotify.com/album/4tt3FqrStj1iRKoHlEGVcg) | 2:50 | 2024-12-04 |  |
 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 | 2024-10-02 | 2024-10-17 |
 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 | 2023-07-05 | 2023-08-03 |
 | [BACK TO REALITY](https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [CALL ME DRAMATIC](https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs) | 3:52 | 2024-10-08 |  |
@@ -1988,7 +1989,7 @@
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-05-04 | 2022-06-01 |
 | [Yaad](https://open.spotify.com/track/3Em07uMHjkd5Y5vqmUdKse) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [VASL](https://open.spotify.com/album/6OAH2QoJXw1yE4N7sH7v3W) | 3:49 | 2022-05-04 | 2022-06-01 |
 | [YAKITORI](https://open.spotify.com/track/2KLZ5Q7BthNOqAezv9VdkF) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/5jMq8144QUTyhsSOAh8cTS) | 1:44 | 2022-05-04 | 2022-06-01 |
-| [Yamorr W Ma Yesalem](https://open.spotify.com/track/5Iqu1jQ61ayOZngAUZ87yB) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Yamorr W Ma Yesalem](https://open.spotify.com/album/1hwb1a9TevHIEPstO8bl7l) | 4:09 | 2024-12-04 |  |
+| [Yamorr W Ma Yesalem](https://open.spotify.com/track/5Iqu1jQ61ayOZngAUZ87yB) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Yamorr W Ma Yesalem](https://open.spotify.com/album/1hwb1a9TevHIEPstO8bl7l) | 4:09 | 2024-12-04 | 2025-01-08 |
 | [Yeah Glo!](https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Yeah Glo!](https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa) | 2:22 | 2024-04-03 | 2024-04-19 |
 | [Yebo](https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Yebo](https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0) | 4:23 | 2024-07-03 | 2024-09-05 |
 | [Yellow Brick Road](https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:37 | 2022-10-04 | 2022-11-03 |

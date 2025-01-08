@@ -1209,6 +1209,28 @@
     },
     {
       "album": {
+        "name": "Soule: Secunda (Transcr. Trifonov for Piano) [From \"The Elder Scrolls: Skyrim\"]",
+        "url": "https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147142,
+      "name": "Secunda (Transcr. Trifonov for Piano) - From \"The Elder Scrolls: Skyrim\"",
+      "url": "https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz"
+    },
+    {
+      "album": {
         "name": "Player 1",
         "url": "https://open.spotify.com/album/4wdjgUrGbKbMOCx7SkPdgl"
       },

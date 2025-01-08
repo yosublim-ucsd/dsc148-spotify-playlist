@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 226783,
+  "num_followers": 226806,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAADCW2vg1ueeF0tnf39tob9W",
+  "snapshot_id": "Z3sdAAAAAAAZk+FmLO2CJJr/fJcIVeOe",
   "tracks": [
     {
       "added_at": null,
@@ -147,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 167972,
-      "name": "Pelota",
-      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": null,
@@ -195,28 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
@@ -224,25 +208,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 163961,
-      "name": "The No.3",
-      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 124177,
-      "name": "Juegos y Nubes",
-      "url": "https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI"
+      "duration_ms": 167972,
+      "name": "Pelota",
+      "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
     },
     {
       "added_at": null,
@@ -263,6 +231,38 @@
       "duration_ms": 314683,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/7pnVHbcqbmP7LA1ey3ydvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 124177,
+      "name": "Juegos y Nubes",
+      "url": "https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 163961,
+      "name": "The No.3",
+      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
     },
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 286997,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/7JbBwnIVC92yt9eXjQi1lZ"
+      "duration_ms": 230137,
+      "name": "Doris",
+      "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
     },
     {
       "added_at": null,
@@ -679,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 230137,
-      "name": "Doris",
-      "url": "https://open.spotify.com/track/01psXbOBykOM12RHATPCjr"
+      "duration_ms": 286997,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/7JbBwnIVC92yt9eXjQi1lZ"
     },
     {
       "added_at": null,

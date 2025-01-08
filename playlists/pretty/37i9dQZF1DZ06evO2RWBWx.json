@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 23392,
+  "num_followers": 23398,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAA4W9kw296R6SxKaMy3UkVQ",
+  "snapshot_id": "Z3sdAAAAAADftZLIIb4bd0Ci5zb+qFBL",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
-        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
       "artists": [
         {
           "name": "imase",
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        },
-        {
-          "name": "Yaffle",
-          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
         }
       ],
-      "duration_ms": 231638,
-      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
-      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+      "duration_ms": 182680,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3E4UUWzgGUH9555Hpp7dNn"
     },
     {
       "added_at": null,
@@ -231,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u51e1\u624d",
-        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
+        "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
+        "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
       },
       "artists": [
         {
           "name": "imase",
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "Yaffle",
+          "url": "https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV"
         }
       ],
-      "duration_ms": 182680,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3E4UUWzgGUH9555Hpp7dNn"
+      "duration_ms": 231638,
+      "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
+      "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30d2\u30ed\u30a4\u30f3",
-        "url": "https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5"
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 202333,
-      "name": "\u30d2\u30ed\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37"
+      "duration_ms": 212826,
+      "name": "Happy Order?",
+      "url": "https://open.spotify.com/track/4xl4ZDZi9V5ZnWKUJyQzeW"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u51e1\u624d",
-        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
+        "name": "\u30d2\u30ed\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 212826,
-      "name": "Happy Order?",
-      "url": "https://open.spotify.com/track/4xl4ZDZi9V5ZnWKUJyQzeW"
+      "duration_ms": 202333,
+      "name": "\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37"
     },
     {
       "added_at": null,

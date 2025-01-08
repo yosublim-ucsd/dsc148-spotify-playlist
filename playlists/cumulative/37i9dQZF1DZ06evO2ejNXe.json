@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Pura Pachanga",
+        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160600,
+      "name": "Con Cachete, Pechito y Ombligo",
+      "url": "https://open.spotify.com/track/7oOUcy1kdApoVieDcOqWtS"
+    },
+    {
+      "album": {
         "name": "Viva La Fiesta",
         "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
       },

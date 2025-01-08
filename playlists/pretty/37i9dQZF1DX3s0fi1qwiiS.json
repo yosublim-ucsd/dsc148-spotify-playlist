@@ -1,6 +1,6 @@
 {
   "description": "The songs of Detty December 2024 as chosen by Spotify editors. ",
-  "num_followers": 3870,
+  "num_followers": 3919,
   "original_name": "Songs of  Detty December",
   "owner": {
     "name": "Spotify",
@@ -511,62 +511,6 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
-        "name": "Chokeslem",
-        "url": "https://open.spotify.com/album/2vpwmi9Ch0ImPCOVgr09zV"
-      },
-      "artists": [
-        {
-          "name": "Kharishma",
-          "url": "https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz"
-        },
-        {
-          "name": "Ba Bethe Gashoazen",
-          "url": "https://open.spotify.com/artist/6c4AisSoKVYdeivUhofn6P"
-        }
-      ],
-      "duration_ms": 221254,
-      "name": "Chokeslem",
-      "url": "https://open.spotify.com/track/3jTedBPHIIr48xoJchYHNH"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Kwelanga",
-        "url": "https://open.spotify.com/album/2z9yriqyUhlEWg1HQXPwRK"
-      },
-      "artists": [
-        {
-          "name": "Bassie",
-          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
-        },
-        {
-          "name": "M-Touch",
-          "url": "https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6"
-        },
-        {
-          "name": "Ranger",
-          "url": "https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk"
-        },
-        {
-          "name": "Amaza",
-          "url": "https://open.spotify.com/artist/0lxNEAFHu0uIMSTWMiKV3q"
-        },
-        {
-          "name": "LeeMcKrazy",
-          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
-        },
-        {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
-        }
-      ],
-      "duration_ms": 441894,
-      "name": "Kwelanga 2.0 (feat. Tman Xpress & LeeMcKrazy)",
-      "url": "https://open.spotify.com/track/1gM44tVZ9pfUe9v35Stp31"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
         "name": "Ntsako",
         "url": "https://open.spotify.com/album/7tqEXec8u8dGBRYhk5m4LU"
       },
@@ -619,6 +563,62 @@
       "duration_ms": 390873,
       "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
       "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Chokeslem",
+        "url": "https://open.spotify.com/album/2vpwmi9Ch0ImPCOVgr09zV"
+      },
+      "artists": [
+        {
+          "name": "Kharishma",
+          "url": "https://open.spotify.com/artist/5ln4EWpJqQZEWXAlSNTtVz"
+        },
+        {
+          "name": "Ba Bethe Gashoazen",
+          "url": "https://open.spotify.com/artist/6c4AisSoKVYdeivUhofn6P"
+        }
+      ],
+      "duration_ms": 221254,
+      "name": "Chokeslem",
+      "url": "https://open.spotify.com/track/3jTedBPHIIr48xoJchYHNH"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
+        "name": "Kwelanga",
+        "url": "https://open.spotify.com/album/2z9yriqyUhlEWg1HQXPwRK"
+      },
+      "artists": [
+        {
+          "name": "Bassie",
+          "url": "https://open.spotify.com/artist/1ELUrmWBlXkqVabjVincQ6"
+        },
+        {
+          "name": "M-Touch",
+          "url": "https://open.spotify.com/artist/1WyQuSMk2VrDyfYfdfa4w6"
+        },
+        {
+          "name": "Ranger",
+          "url": "https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk"
+        },
+        {
+          "name": "Amaza",
+          "url": "https://open.spotify.com/artist/0lxNEAFHu0uIMSTWMiKV3q"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "duration_ms": 441894,
+      "name": "Kwelanga 2.0 (feat. Tman Xpress & LeeMcKrazy)",
+      "url": "https://open.spotify.com/track/1gM44tVZ9pfUe9v35Stp31"
     },
     {
       "added_at": "2024-12-19 13:12:01",
@@ -783,6 +783,34 @@
     {
       "added_at": "2024-12-19 13:12:01",
       "album": {
+        "name": "Oblee (Remix)",
+        "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
+      },
+      "artists": [
+        {
+          "name": "Dj Yk Mule",
+          "url": "https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u"
+        },
+        {
+          "name": "Slimcase",
+          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
+        },
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        }
+      ],
+      "duration_ms": 160653,
+      "name": "Oblee (Remix)",
+      "url": "https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU"
+    },
+    {
+      "added_at": "2024-12-19 13:12:01",
+      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
         "url": "https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg"
       },
@@ -819,34 +847,6 @@
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
-    },
-    {
-      "added_at": "2024-12-19 13:12:01",
-      "album": {
-        "name": "Oblee (Remix)",
-        "url": "https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC"
-      },
-      "artists": [
-        {
-          "name": "Dj Yk Mule",
-          "url": "https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u"
-        },
-        {
-          "name": "Slimcase",
-          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
-        },
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
-        }
-      ],
-      "duration_ms": 160653,
-      "name": "Oblee (Remix)",
-      "url": "https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU"
     },
     {
       "added_at": "2024-12-19 13:12:01",

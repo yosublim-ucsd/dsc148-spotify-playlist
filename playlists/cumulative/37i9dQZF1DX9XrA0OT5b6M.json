@@ -719,6 +719,42 @@
     },
     {
       "album": {
+        "name": "\u30a6\u30a3\u30fc\u30b4\u30fc\uff01 \uff5eHIKAKIN & SEIKIN with \u30e2\u30f3\u30ad\u30fc\u30fbD\u30fb\u30eb\u30d5\u30a3 Ver.\uff5e",
+        "url": "https://open.spotify.com/album/6JeSFh2yw49kfrDJer2MeW"
+      },
+      "artists": [
+        {
+          "name": "HIKAKIN & SEIKIN",
+          "url": "https://open.spotify.com/artist/0TCRicBwMm2UFYTG35mSYy"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223977,
+      "name": "\u30a6\u30a3\u30fc\u30b4\u30fc\uff01 - \uff5eHIKAKIN & SEIKIN with \u30e2\u30f3\u30ad\u30fc\u30fbD\u30fb\u30eb\u30d5\u30a3 Ver.\uff5e",
+      "url": "https://open.spotify.com/track/2aQgRgqE3XCYnNrdPpCmR0"
+    },
+    {
+      "album": {
+        "name": "\u30a6\u30a3\u30fc\u30b4\u30fc\uff01 (\uff5e\u9ea6\u308f\u3089\u306e\u4e00\u5473Ver.\uff5e)",
+        "url": "https://open.spotify.com/album/2pMlJoGUxe4YY6TtJsWE4X"
+      },
+      "artists": [
+        {
+          "name": "\u9ea6\u308f\u3089\u306e\u4e00\u5473\uff08\u7530\u4e2d\u771f\u5f13\u30fb\u4e2d\u4e95\u548c\u54c9\u30fb\u5ca1\u6751\u660e\u7f8e\u30fb\u5c71\u53e3\u52dd\u5e73\u30fb\u5e73\u7530\u5e83\u660e\u30fb\u5927\u8c37\u80b2\u6c5f\u30fb\u5c71\u53e3\u7531\u91cc\u5b50\u30fb\u77e2\u5c3e\u4e00\u6a39\u30fb\u30c1\u30e7\u30fc\u30fb\u5b9d\u4e80\u514b\u5bff\uff09",
+          "url": "https://open.spotify.com/artist/2ODDJu2gabjoB2HAgyLJW8"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227727,
+      "name": "\u30a6\u30a3\u30fc\u30b4\u30fc\uff01 - \uff5e\u9ea6\u308f\u3089\u306e\u4e00\u5473Ver.\uff5e",
+      "url": "https://open.spotify.com/track/6cN1TuECTNn77qWg4FdYOr"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30dd\u30fc\u30ba",
         "url": "https://open.spotify.com/album/5TuF8BaJ6bEOWHPVSSIZBX"
       },
@@ -748,7 +784,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 140973,
       "name": "\u30a8\u30fc\u30b9\u3092\u53d7\u3051\u7d99\u3050!!!",
       "url": "https://open.spotify.com/track/2Ib0XkjwhDsu9LHWl5sr2H"
@@ -1040,7 +1076,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 104400,
       "name": "\u6d77\u4fa0\u306e\u30b8\u30f3\u30d9\u30a8",
       "url": "https://open.spotify.com/track/5ZnzrICLj4T99ORxE515tz"
@@ -1094,7 +1130,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 138533,
       "name": "\u7d04\u675f\u306e\u6642",
       "url": "https://open.spotify.com/track/7GabjT5pIkKilMvh4uCcCW"
@@ -1112,7 +1148,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 105466,
       "name": "\u884c\u3051\u884c\u3051!\u9ea6\u308f\u3089\u306e\u4e00\u5473!!",
       "url": "https://open.spotify.com/track/3sJfHZoWQkP7uFPH0VLY70"

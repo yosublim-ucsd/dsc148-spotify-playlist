@@ -4,7 +4,7 @@
 
 > Switzerland's biggest hits right now\. Cover: Teddy Swims
 
-137 songs - 6 hr 51 min
+138 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [JUNGE BALLER](https://open.spotify.com/track/29vCE5UzdE8dzcJWbG2CsK) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [JUNGE BALLER](https://open.spotify.com/album/573YDpCq1I93aebAWluexj) | 2:10 | 2024-07-02 | 2024-07-12 |
 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 | 2024-08-27 | 2024-09-26 |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-27 |  |
-| [Ma Baby](https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Ma Baby](https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA) | 2:18 | 2024-11-12 |  |
+| [Ma Baby](https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Ma Baby](https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA) | 2:18 | 2024-11-12 | 2025-01-08 |
 | [Ma Bella](https://open.spotify.com/track/110UrbttBGnylCs1icY5JX) | [Accaoui](https://open.spotify.com/artist/0ZH9vErkeklBVpizfUWo6M), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Ma Bella](https://open.spotify.com/album/3P2R5rsXplvC3oetaRAYbR) | 3:34 | 2024-09-25 | 2024-12-18 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-11-27 |  |
 | [Malli](https://open.spotify.com/track/1NYjQep1ow4ME8DFvQKxxB) | [Butrint Imeri](https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY) | [Malli](https://open.spotify.com/album/6WTnoVjvXZJfYsHbE6pb3v) | 2:46 | 2024-10-16 |  |
@@ -96,6 +96,7 @@
 | [NO LOVE](https://open.spotify.com/track/0FhvBb6Ye7j48tiLiuFvGF) | [Ledri Vula](https://open.spotify.com/artist/5519qQ4H5p0qIIidEWUOB6), [Elvana Gjata](https://open.spotify.com/artist/6Cej574CUx7dHKuRHBPNp0) | [NO LOVE](https://open.spotify.com/album/5aPJSdKPDopKatf8LJZ5K3) | 2:52 | 2024-07-02 | 2024-09-04 |
 | [No me duele](https://open.spotify.com/track/0He74nJo5sa28ONW1J7KrR) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No me duele](https://open.spotify.com/album/5tp3ALCbxJuAJFUHv5XmeN) | 4:13 | 2024-10-09 | 2024-12-06 |
 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2024-12-30 |  |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-07 |  |
 | [Obsesion](https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Obsesion](https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk) | 2:55 | 2024-11-19 |  |
 | [ON/OFF](https://open.spotify.com/track/7rSYTSeitpCYIE5r22JJ5G) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW), [XEN](https://open.spotify.com/artist/1Yso012dk6JFCIGwvCxTBS) | [ON/OFF](https://open.spotify.com/album/1QvS3LmutrvORdWe19FWvY) | 2:18 | 2024-07-02 | 2024-08-08 |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-07-02 | 2024-07-20 |

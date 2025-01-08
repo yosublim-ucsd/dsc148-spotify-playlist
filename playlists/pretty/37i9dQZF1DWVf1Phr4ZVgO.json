@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1134595,
+  "num_followers": 1134825,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Notting Hill",
-        "url": "https://open.spotify.com/album/6PcgVPzMx4kr63zEgPb505"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "She",
-      "url": "https://open.spotify.com/track/64TGtWC8WLzVt7PamUo9EO"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Hooray For Love",
         "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "The Reprise Years",
-        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
+        "name": "Notting Hill",
+        "url": "https://open.spotify.com/album/6PcgVPzMx4kr63zEgPb505"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
         }
       ],
-      "duration_ms": 185186,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
+      "duration_ms": 186466,
+      "name": "She",
+      "url": "https://open.spotify.com/track/64TGtWC8WLzVt7PamUo9EO"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -639,6 +623,22 @@
       "duration_ms": 240413,
       "name": "Save Your Love For Me",
       "url": "https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "The Reprise Years",
+        "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/3Pi8eMeDLEUMH729CyQMP9"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Big Band Classics",
-        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 149986,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "The Best Of... The Great American Songbook (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7sQ8DlLQXzBKX8Z9sZ3tNZ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 212106,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0pi49lNsPqbQJ814gCrxGt"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Big Band Classics",
+        "url": "https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 149986,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
     },
     {
       "added_at": "2024-06-03 14:41:08",

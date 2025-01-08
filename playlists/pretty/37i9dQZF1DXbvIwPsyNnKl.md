@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Zae & Hev Abi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,283,603 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,302 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 23 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 |
 | 24 | [Burgis](https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Burgis](https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa) | 3:29 |
 | 25 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 |
-| 26 | [Sumugal](https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc), [LK](https://open.spotify.com/artist/5O7D5aov42oqSgjKfjohle) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:01 |
+| 26 | [Sumugal](https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc), [LK](https://open.spotify.com/artist/659T8eNSfEb4bPBKiTn4ww) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:01 |
 | 27 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 |
 | 28 | [Lil Kasalanan Shortie](https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Lil Kasalanan Shortie](https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO) | 2:43 |
 | 29 | [Answer The G](https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi) | [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [ANSWER THE G](https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA) | 2:48 |

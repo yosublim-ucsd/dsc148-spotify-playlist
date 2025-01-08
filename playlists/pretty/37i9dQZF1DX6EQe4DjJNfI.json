@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 176397,
+  "num_followers": 176412,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,22 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
-        "name": "Frio e Vento (Vol.1)",
-        "url": "https://open.spotify.com/album/68qh9wdNwSz97NVoskEJOf"
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
       },
       "artists": [
         {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
         }
       ],
-      "duration_ms": 205835,
-      "name": "Onde Essa Saudade Tava",
-      "url": "https://open.spotify.com/track/3IEPthVo5Q9p81McMpEGRV"
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2024-12-20 03:01:12",
@@ -615,22 +619,18 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+        "name": "Frio e Vento (Vol.1)",
+        "url": "https://open.spotify.com/album/68qh9wdNwSz97NVoskEJOf"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+      "duration_ms": 205835,
+      "name": "Onde Essa Saudade Tava",
+      "url": "https://open.spotify.com/track/3IEPthVo5Q9p81McMpEGRV"
     },
     {
       "added_at": "2024-12-20 03:01:12",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
-        "name": "Blusa da High",
-        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 160338,
-      "name": "Blusa da High",
-      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
-    },
-    {
-      "added_at": "2024-12-20 03:01:12",
-      "album": {
         "name": "1001 Roteiros",
         "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
       },
@@ -839,6 +819,26 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
+        "name": "Blusa da High",
+        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 160338,
+      "name": "Blusa da High",
+      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
+    },
+    {
+      "added_at": "2024-12-20 03:01:12",
+      "album": {
         "name": "Tempo pra Perder",
         "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 194974,
       "name": "Tempo pra Perder",
       "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2024-12-20 03:01:12",
-      "album": {
-        "name": "Viu!?",
-        "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
-      },
-      "artists": [
-        {
-          "name": "Cyro Sampaio",
-          "url": "https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g"
-        }
-      ],
-      "duration_ms": 185499,
-      "name": "Viu!?",
-      "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
     },
     {
       "added_at": "2024-12-20 03:01:12",
@@ -895,22 +879,18 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+        "name": "Viu!?",
+        "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "Cyro Sampaio",
+          "url": "https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g"
         }
       ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
+      "duration_ms": 185499,
+      "name": "Viu!?",
+      "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
     },
     {
       "added_at": "2024-12-20 03:01:12",
@@ -1027,8 +1007,8 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
       "artists": [
         {
@@ -1036,17 +1016,13 @@
           "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
         }
       ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2024-12-20 03:01:12",
@@ -1139,6 +1115,30 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2024-12-20 03:01:12",
+      "album": {
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
     },
     {
       "added_at": "2024-12-20 03:01:12",

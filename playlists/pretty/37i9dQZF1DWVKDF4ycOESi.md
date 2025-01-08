@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > LIBERATO in cover + tutte le migliori uscite delle ultime due settimane!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,204 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,215 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 3 | [Noi no](https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Noi no](https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je) | 3:16 |
 | 4 | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/track/6Ajvu1afirjocbZK934qqh) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [AYAHUASCA \(feat\. Tony Boy\)](https://open.spotify.com/album/5HQUIQmVxiUwZ8975mSIMH) | 3:07 |
 | 5 | [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 |
-| 6 | [Angel in the Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel in the Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
+| 6 | [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
 | 7 | [Please Don't Go](https://open.spotify.com/track/0vroCXkqCGq4ioaZEax6TB) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Resurrection \(Act II\)](https://open.spotify.com/album/0OEOhyFtixEjfALSCiaTEv) | 4:48 |
 | 8 | [Vengo a fidarmi di te](https://open.spotify.com/track/2p4xwVY0d0veJ4w8PEz7EY) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Vengo a fidarmi di te](https://open.spotify.com/album/5w6jP0SfIiQTPQSZ86H2uE) | 3:27 |
 | 9 | [IL CAMPIONE](https://open.spotify.com/track/77sksbQUGsIrN9d7whIW9u) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [IL CAMPIONE](https://open.spotify.com/album/2aZFBNgUfffsAjsS2Lo2zR) | 3:50 |

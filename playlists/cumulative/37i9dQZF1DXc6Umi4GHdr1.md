@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-402 songs - 17 hr 54 min
+404 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Recuerdos De La Alhambra](https://open.spotify.com/track/7Ahed5NrDuiMeq16Y7LxvI) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Christopher Parkening](https://open.spotify.com/artist/2e3OImB8yCNVk1SppFne96) | [In The Spanish Style](https://open.spotify.com/album/2ylRlmfvJD3TZ3t6kt9Rkw) | 3:56 | 2022-11-25 | 2023-03-10 |
 | [Red Fir](https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Esperanza](https://open.spotify.com/album/2TcqC96KU39tGmStFfx4AT) | 2:41 | 2022-03-03 | 2024-11-07 |
 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 | 2024-02-02 |  |
+| [Resemblance](https://open.spotify.com/track/15dYzKBvOT9nM2X7Ldz6Qm) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Resemblance](https://open.spotify.com/album/644MLbJzDUsm8FnKZsouMi) | 2:30 | 2025-01-07 |  |
 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 | 2024-03-29 |  |
 | [Rialto](https://open.spotify.com/track/6x1IIozbhUKLHu0a024rDt) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Rialto](https://open.spotify.com/album/5IdiH14XYSAeS7DC33wFtO) | 2:25 | 2024-05-24 |  |
 | [Rickover's Dream](https://open.spotify.com/track/3rbanyAxECNBbFFi2IM0S2) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Aerial Boundaries](https://open.spotify.com/album/2hgrTinAeHSNaSPzLFoamH) | 4:50 | 2021-12-10 | 2023-03-10 |
@@ -360,6 +361,7 @@
 | [Timeless](https://open.spotify.com/track/21Av8NmwEwc6uYIjjeUm54) | [Parascope](https://open.spotify.com/artist/3HL4rODpP9DHDgCUlsJnvG) | [Timeless](https://open.spotify.com/album/37Ffg43nlbeDlocMD3VtPj) | 2:28 | 2021-12-10 | 2022-07-22 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 | 2023-06-16 |
 | [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 | 2021-12-10 | 2024-04-20 |
+| [To The Brim](https://open.spotify.com/track/0DbVOryVKBRdOFgfhPYok4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [To The Brim](https://open.spotify.com/album/0v0QEp2zydw5qHPNWwVebn) | 2:09 | 2025-01-07 |  |
 | [Together Again](https://open.spotify.com/track/163pGELrVriFgvYwdiOHlW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Together Again](https://open.spotify.com/album/14Iv2IpxEhAsdqehdpbHfc) | 2:31 | 2024-06-28 |  |
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |
 | [Transcriptions](https://open.spotify.com/track/3ATzG4vitn9sofXnijDnC4) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Transcriptions](https://open.spotify.com/album/3hupzNirqWswKUEO17rz6s) | 2:50 | 2024-05-10 |  |

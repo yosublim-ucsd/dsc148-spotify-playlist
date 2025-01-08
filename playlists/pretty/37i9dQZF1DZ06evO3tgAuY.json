@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2127,
+  "num_followers": 2128,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAADawZhHCOkEvXKGW7woRS7s",
+  "snapshot_id": "Z3sdAAAAAAD62UpLr/cqv+JZe3O+U95P",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Lo Hubiera Pensado",
-        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 149994,
-      "name": "Nadie Lo Hubiera Pensado",
-      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Uno Al 7",
         "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 204826,
       "name": "El Uno Al 7",
       "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Lo Hubiera Pensado",
+        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 149994,
+      "name": "Nadie Lo Hubiera Pensado",
+      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Marin",
-        "url": "https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd"
-      },
-      "artists": [
-        {
-          "name": "David Santos",
-          "url": "https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 133923,
-      "name": "El Marin",
-      "url": "https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Lic",
         "url": "https://open.spotify.com/album/2xZEwYIbbGnjvKOL89DjJS"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 124438,
       "name": "El Lic",
       "url": "https://open.spotify.com/track/47zq3s9SJbPsFLSAutzZ3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Marin",
+        "url": "https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd"
+      },
+      "artists": [
+        {
+          "name": "David Santos",
+          "url": "https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 133923,
+      "name": "El Marin",
+      "url": "https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Gusto El Estilo",
-        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Perfil SS",
-          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
-        }
-      ],
-      "duration_ms": 179141,
-      "name": "Nos Gusto El Estilo",
-      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Te He Podido Olvidar",
         "url": "https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 218662,
       "name": "No Te He Podido Olvidar",
       "url": "https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nos Gusto El Estilo",
+        "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Perfil SS",
+          "url": "https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Nos Gusto El Estilo",
+      "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
     },
     {
       "added_at": null,

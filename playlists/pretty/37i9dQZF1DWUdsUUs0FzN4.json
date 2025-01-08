@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 18929,
+  "num_followers": 18934,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -1583,38 +1583,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "No Puedo Controlarme",
-        "url": "https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4"
-      },
-      "artists": [
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 189437,
-      "name": "NO PUEDO CONTROLARME",
-      "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "RAYBEN CAP 7: BELLAKACOQUETTE (feat. Profeta Yao Yao & Cachirula)",
         "url": "https://open.spotify.com/album/6oacIxkILsvDG3nG045io9"
       },
@@ -1643,6 +1611,38 @@
       "duration_ms": 159937,
       "name": "RAYBEN CAP 7: BELLAKACOQUETTE (feat. Profeta Yao Yao & Cachirula)",
       "url": "https://open.spotify.com/track/2PliTxLuOKE7RykFqDeDGb"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "No Puedo Controlarme",
+        "url": "https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4"
+      },
+      "artists": [
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 189437,
+      "name": "NO PUEDO CONTROLARME",
+      "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2191,6 +2191,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "SUELTA SOLTERA",
+        "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "SUELTA SOLTERA",
+      "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
         "url": "https://open.spotify.com/album/43x0a0LF23uvXHtyUJ9QzP"
       },
@@ -2223,26 +2243,6 @@
       "duration_ms": 172800,
       "name": "Que Bien Te Ves (feat. Andre Noriega, Jey F, Ovi\u00f1a)",
       "url": "https://open.spotify.com/track/3kttLBZNxNodchxatGjlTv"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "SUELTA SOLTERA",
-        "url": "https://open.spotify.com/album/5AAZooAUX4mK4pyFoyMTGd"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        },
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "SUELTA SOLTERA",
-      "url": "https://open.spotify.com/track/1CkmF0SMrATEAusAqm77v0"
     },
     {
       "added_at": "2024-08-30 06:00:00",

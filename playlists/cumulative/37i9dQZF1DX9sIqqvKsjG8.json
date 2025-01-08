@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 167120,
       "name": "All I Hear Is Birds,",
       "url": "https://open.spotify.com/track/15hyn4FNUMbHexh7kLvb0e"
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 150910,
       "name": "Concepts",
       "url": "https://open.spotify.com/track/2VRtvXFwINloiZyYE5GGNG"
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 147379,
       "name": "crystal creek",
       "url": "https://open.spotify.com/track/5elkvtzKLz3UEJP4M8ZmhI"
@@ -8440,7 +8440,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 141971,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win"
@@ -9452,6 +9452,24 @@
       "duration_ms": 156143,
       "name": "Old Paths",
       "url": "https://open.spotify.com/track/4c185uEKVcnM2fwF0Tvjis"
+    },
+    {
+      "album": {
+        "name": "Olivanders",
+        "url": "https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q"
+      },
+      "artists": [
+        {
+          "name": "May Laude",
+          "url": "https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Olivanders",
+      "url": "https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu"
     },
     {
       "album": {
@@ -14300,6 +14318,24 @@
       "duration_ms": 157159,
       "name": "Thirst",
       "url": "https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp"
+    },
+    {
+      "album": {
+        "name": "Through a Rainy Window",
+        "url": "https://open.spotify.com/album/6wSmwxjnOgAkkO702TqpGv"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170291,
+      "name": "Through a Rainy Window",
+      "url": "https://open.spotify.com/track/2dE60i6I1i6AMyn0Ccp4FR"
     },
     {
       "album": {

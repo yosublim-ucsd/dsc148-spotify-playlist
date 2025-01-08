@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 227762,
+  "num_followers": 227838,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "All We Ever Do",
+        "url": "https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "All We Ever Do",
+      "url": "https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "BADO",
         "url": "https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 194395,
       "name": "BADO",
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "All We Ever Do",
-        "url": "https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "All We Ever Do",
-      "url": "https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 249749,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 169275,
       "name": "Embers",
       "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 249749,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "duration_ms": 234448,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Give Me Something To Hold",
         "url": "https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU"
       },
@@ -1115,38 +1135,26 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
+        "name": "Been There Before",
+        "url": "https://open.spotify.com/album/6cxXtXjXkiXSSpEMHQkh8p"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         },
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
-        }
-      ],
-      "duration_ms": 234448,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b"
-      },
-      "artists": [
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        },
         {
-          "name": "Jamek Ortega",
-          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+          "name": "LIVI",
+          "url": "https://open.spotify.com/artist/1zgMn2RP87AwuP9B9z79Fo"
         }
       ],
-      "duration_ms": 298125,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"
+      "duration_ms": 188608,
+      "name": "Been There Before",
+      "url": "https://open.spotify.com/track/6unWfD9WVxx7e0ue3MYX15"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1175,26 +1183,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Been There Before",
-        "url": "https://open.spotify.com/album/6cxXtXjXkiXSSpEMHQkh8p"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/7CBAW6Fk7QWpu96q4Vxi9b"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Pig&Dan",
-          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
-        },
-        {
-          "name": "LIVI",
-          "url": "https://open.spotify.com/artist/1zgMn2RP87AwuP9B9z79Fo"
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
         }
       ],
-      "duration_ms": 188608,
-      "name": "Been There Before",
-      "url": "https://open.spotify.com/track/6unWfD9WVxx7e0ue3MYX15"
+      "duration_ms": 298125,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/453srtIQeJkXx3xbPZC6Pv"
     },
     {
       "added_at": "2024-11-22 00:00:00",

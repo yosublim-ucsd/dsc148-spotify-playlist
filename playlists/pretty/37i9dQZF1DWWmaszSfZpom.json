@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 952727,
+  "num_followers": 952678,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Liberdade (Quando o Grave Bate Forte)",
-        "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
+        "name": "Os Muleke \u00c9 Liso",
+        "url": "https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Dj GBR",
-          "url": "https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV"
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
         }
       ],
-      "duration_ms": 150461,
-      "name": "Liberdade (Quando o Grave Bate Forte)",
-      "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
+      "duration_ms": 232646,
+      "name": "Os Muleke \u00c9 Liso",
+      "url": "https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -439,18 +431,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Os Muleke \u00c9 Liso",
-        "url": "https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp"
+        "name": "Liberdade (Quando o Grave Bate Forte)",
+        "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
       "artists": [
         {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Dj GBR",
+          "url": "https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV"
         }
       ],
-      "duration_ms": 232646,
-      "name": "Os Muleke \u00c9 Liso",
-      "url": "https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX"
+      "duration_ms": 150461,
+      "name": "Liberdade (Quando o Grave Bate Forte)",
+      "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Cara Bacana",
+        "url": "https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Cara Bacana",
+      "url": "https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "MANO DO AK",
         "url": "https://open.spotify.com/album/2xHun1copzDEkU6MMedGk1"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 184845,
       "name": "MANO DO AK",
       "url": "https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Cara Bacana",
-        "url": "https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU"
-      },
-      "artists": [
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Cara Bacana",
-      "url": "https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr"
     },
     {
       "added_at": "2023-06-26 14:06:50",

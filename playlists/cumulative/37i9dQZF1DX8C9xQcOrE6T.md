@@ -2,9 +2,9 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.
+> All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & Mufasa: The Lion King.
 
-219 songs - 11 hr 10 min
+220 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Under the Sea](https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 | 2022-04-01 |  |
 | [Waiting On A Miracle](https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt) | [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:41 | 2022-04-01 |  |
 | [We Don't Talk About Bruno](https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz) | [Carolina Gaitán](https://open.spotify.com/artist/4zonL9YdcI15v7dYqVLuMV), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh), [Rhenzy Feliz](https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr), [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:36 | 2022-04-01 |  |
+| [We Go Together](https://open.spotify.com/track/284ZbEfENR043XOhHXGZMp) | [Aaron Pierre](https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK), [Tiffany Boone](https://open.spotify.com/artist/0Fiux5J8PsM7hSFScc3qiz), [Preston Nyman](https://open.spotify.com/artist/04L8fmukIScRuBz3HtwbEa), [Kagiso Lediga](https://open.spotify.com/artist/63WWvknQ98iON5mw6r1c3q), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mufasa: The Lion King \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/5pMwIoxFUbf0mHvjlMGWLq) | 2:44 | 2025-01-08 |  |
 | [We Own the Night](https://open.spotify.com/track/3n1lJB7m8iNDToXJVzIHD2) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs) | 2:30 | 2024-10-21 |  |
 | [We're All In This Together](https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys) | [High School Musical Cast](https://open.spotify.com/artist/2gUMs9PE8XZVQyzCDqaYmW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical](https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci) | 3:51 | 2022-04-01 |  |
 | [We're Back](https://open.spotify.com/track/1t0BoWU7oLtfrOX5XsBXAG) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Villagers of Motunui](https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3K7KtvJLEzijZoLJfKsOma) | 3:11 | 2024-12-05 |  |

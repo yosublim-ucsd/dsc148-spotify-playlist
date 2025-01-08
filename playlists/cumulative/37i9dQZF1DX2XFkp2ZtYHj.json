@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Fares",
+        "url": "https://open.spotify.com/album/5VfCMA0661DODtD9hNtH7T"
+      },
+      "artists": [
+        {
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126850,
+      "name": "Fares",
+      "url": "https://open.spotify.com/track/3XHRlU43qYbiFhDDL4rOmO"
+    },
+    {
+      "album": {
         "name": "Feeling for the next",
         "url": "https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n"
       },
@@ -2432,6 +2450,24 @@
       "duration_ms": 144875,
       "name": "Les Soir",
       "url": "https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj"
+    },
+    {
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/2Wg959wMUN5HG8N5WH17RY"
+      },
+      "artists": [
+        {
+          "name": "Della Valle",
+          "url": "https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193462,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/0yh3jz4zWk3N9nliAqFqEn"
     },
     {
       "album": {

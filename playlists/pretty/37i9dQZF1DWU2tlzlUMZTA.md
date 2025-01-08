@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > I\-Pop tracks we loved the most in 2024\. Cover \- Anuv Jain \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,812 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,847 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

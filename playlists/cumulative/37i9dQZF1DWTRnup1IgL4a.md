@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-277 songs - 11 hr 48 min
+280 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 | 2024-09-25 |  |
 | [Cerulean Coast](https://open.spotify.com/track/151zr84hWWWrr8L1gAH8kM) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Cerulean Coast](https://open.spotify.com/album/0TdiawvezxLE0aWFhNW6z8) | 2:44 | 2024-09-03 | 2024-11-12 |
 | [Clermont\-Ferrand](https://open.spotify.com/track/3ebmMzqWToAPoVGFOPispU) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Clermont\-Ferrand](https://open.spotify.com/album/4RgALF2EPsUJlZJ4PLGCli) | 2:09 | 2022-10-14 | 2024-06-21 |
+| [Closer Between](https://open.spotify.com/track/1O8tshcWQvfZfs9H4R4ipq) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [Closer Between](https://open.spotify.com/album/3xgjyaQ8fz26lLx0BtFERm) | 2:51 | 2025-01-07 |  |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-17 |  |
 | [Con Amore](https://open.spotify.com/track/3ddRRVM3eVeIAKUqF105Ch) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Con Amore](https://open.spotify.com/album/6ePub6XVRKOYZBuZLCFCvE) | 2:54 | 2024-06-07 |  |
 | [Consolata](https://open.spotify.com/track/7egT9FX8MKlnTzFfxJ0SWg) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Consolata](https://open.spotify.com/album/5VL0da8nssniJPw6Ljdcny) | 2:38 | 2024-10-23 |  |
@@ -114,6 +115,7 @@
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2021-12-09 |  |
 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 | 2024-04-05 |  |
 | [Hush Little Baby](https://open.spotify.com/track/0AQoulYov7Lbw1fuOiXYFT) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Hush Little Baby](https://open.spotify.com/album/6bETXLIIaW9PNZsU3XRMAF) | 1:53 | 2022-10-14 | 2023-02-25 |
+| [Husker](https://open.spotify.com/track/6sj9EO7zIISy4ZOreagxeR) | [David Isner](https://open.spotify.com/artist/2WGXK53ulKkW9Cmi7anYRI) | [Husker](https://open.spotify.com/album/3kFF1dznSHdC8Y2nD7KeF5) | 2:31 | 2025-01-07 |  |
 | [I Found You](https://open.spotify.com/track/53hH9eXghbc7lbmGdfylX2) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [I Found You](https://open.spotify.com/album/5uW6Fo9RnB9IBjHcDtVVwQ) | 2:42 | 2021-12-09 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 |  |
 | [Ianthe](https://open.spotify.com/track/2ceHVcgNFK0mOTobgkfcKq) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Ianthe](https://open.spotify.com/album/6nj0buHhm6cNARNGzSlDeZ) | 2:07 | 2021-12-09 | 2023-08-24 |
@@ -183,6 +185,7 @@
 | [Once Upon a Time](https://open.spotify.com/track/7J1jJSay3pm0pxQzhS6Ska) | [Claudie Mackula](https://open.spotify.com/artist/0LgBUNYaoW69hco9l7m9mX) | [Once Upon a Time](https://open.spotify.com/album/30SBQYbqd5XPdEjA90yrhA) | 6:14 | 2022-09-23 | 2023-02-25 |
 | [One And Only](https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [One And Only](https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45) | 1:48 | 2022-09-09 | 2023-08-26 |
 | [Over the hill is Leighan](https://open.spotify.com/track/21dL4Fi5yOXGm3PBgZI1yk) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Over the hill is Leighan](https://open.spotify.com/album/62YlNkM4p58NlHPjyUuexA) | 1:59 | 2021-12-09 | 2023-08-26 |
+| [Parallel](https://open.spotify.com/track/0hz1P3cEakXbQzaNjpoOwK) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Parallel](https://open.spotify.com/album/7zpkVAGBnaU0yBNrVipsxH) | 2:37 | 2025-01-07 |  |
 | [Passing Rain](https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Passing Rain](https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM) | 3:02 | 2022-06-10 | 2023-04-29 |
 | [Passing Through](https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Passing Through](https://open.spotify.com/album/2ByVknXLBoYoXVP8hzGQ5s) | 2:06 | 2023-04-28 |  |
 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 | 2021-12-09 | 2022-09-03 |

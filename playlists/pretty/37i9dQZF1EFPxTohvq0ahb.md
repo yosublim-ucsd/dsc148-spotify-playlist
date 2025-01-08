@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,388 likes - 116 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,389 likes - 116 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 72 | [Psycho](https://open.spotify.com/track/4kvX7vpWzQ2dsLkpDKFxXA) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 4:11 |
 | 73 | [That High \(feat\. Kelly Rowland\)](https://open.spotify.com/track/0zbAkytd9gbRmWpmri6BbF) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:14 |
 | 74 | [All I Want \- From “Star” Season 2](https://open.spotify.com/track/3DXhdfi3qt6Mn8OAojIezA) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR), [Brittany O’Grady](https://open.spotify.com/artist/0d6oqX4dLHg29y8zf0K8Ab), [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM) | [All I Want \(From “Star” Season 2\)](https://open.spotify.com/album/2l3WaX3voHKcFCp7YFPhGG) | 3:05 |
-| 75 | [In My City](https://open.spotify.com/track/2Ry6arkPobqjO7skQBJoUb) | [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [In My City](https://open.spotify.com/album/4fDZE7ejUIYa5tY0HtzNVA) | 3:40 |
-| 76 | [Somewhere in Vegas](https://open.spotify.com/track/305JUOn2scJ85yXmf2zT2G) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Somewhere in Vegas](https://open.spotify.com/album/3MzfiAvF6hweDfGmWRyMWR) | 2:44 |
+| 75 | [Somewhere in Vegas](https://open.spotify.com/track/305JUOn2scJ85yXmf2zT2G) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Somewhere in Vegas](https://open.spotify.com/album/3MzfiAvF6hweDfGmWRyMWR) | 2:44 |
+| 76 | [In My City](https://open.spotify.com/track/2Ry6arkPobqjO7skQBJoUb) | [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [In My City](https://open.spotify.com/album/4fDZE7ejUIYa5tY0HtzNVA) | 3:40 |
 | 77 | [Always](https://open.spotify.com/track/1MVP32Lab4ANXONxtGxOL2) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:26 |
 | 78 | [Wide Open \(feat\. Ester Dean\)](https://open.spotify.com/track/6ovEssKNR2OuwFdFMgNWWA) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 2:33 |
 | 79 | [Love Struck \(From Songland\)](https://open.spotify.com/track/5bXNCPNdgTSYbA9NECTOLk) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Love Struck \(From Songland\)](https://open.spotify.com/album/2vWoFMDURyyWVsjtMd7m3E) | 2:08 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 115 | [Gotta Get Up](https://open.spotify.com/track/4qfJUsO8ede16DZDcT5LA1) | [Haven Burton](https://open.spotify.com/artist/10ZqjgXYftp9SFt7f2wHZh), [Lilias White](https://open.spotify.com/artist/2vCRuRgI4PMtjQoNP1y4Fq), [Georgia Engel](https://open.spotify.com/artist/41ikFrMg552IvT5cpKTYE0), [Company of HALF TIME](https://open.spotify.com/artist/3fIoUPRtPSrCxWxOJFQPlx) | [HALF TIME \(Original Cast Recording\)](https://open.spotify.com/album/6HuEqXAEaG5Pvv4JnOKoR9) | 3:54 |
 | 116 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 
-Snapshot ID: `AbmLCgAAAAAWDCFGpc+ZdP+U8vIhI7fG`
+Snapshot ID: `AbmQyAAAAAA9nTbzInnF5u96x+5utifP`

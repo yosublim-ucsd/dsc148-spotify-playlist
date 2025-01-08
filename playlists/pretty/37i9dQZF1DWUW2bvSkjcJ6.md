@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Die besten Neuerscheinungen der letzten beiden Wochen in einer Playlist\. Cover: Zerb, Ty Dolla $ign, Wiz Khalifa
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,521 likes - 46 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,541 likes - 47 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,6 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 43 | [Beautiful People](https://open.spotify.com/track/2L3ElzZIa4L0rd8UHDtyDp) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Beautiful People](https://open.spotify.com/album/1WyRTRFPQjJxgQVLD3siMh) | 6:21 |
 | 44 | [In The Air Tonight \(Tut wieder weh 🖤\)](https://open.spotify.com/track/10mvqSIsM8rovloKVQFPC8) | [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y), [IIVEN](https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq) | [In The Air Tonight \(Tut wieder weh 🖤\)](https://open.spotify.com/album/12NVxjSNJBo9K2QuSNplJc) | 1:57 |
 | 45 | [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 |
-| 46 | [Bright Eyes](https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Bright Eyes](https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ) | 3:31 |
+| 46 | [Was du nicht siehst](https://open.spotify.com/track/7zrs1TP73ItZiFDqVkV0NR) | [Laurenz](https://open.spotify.com/artist/2SxLNXXcBhIYkH8EkSfJm5) | [Was du nicht siehst](https://open.spotify.com/album/4fpmxOoo49SVr3pdpCmZI3) | 2:34 |
+| 47 | [Bright Eyes](https://open.spotify.com/track/6IGMSe8YVg5O2YfvD7KW1G) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Bright Eyes](https://open.spotify.com/album/6FPrPk5H6cm8qcbRRTgXEZ) | 3:31 |
 
 Snapshot ID: `Z3cacgAAAAC4LuvhimlFCxnrbX/420b7`

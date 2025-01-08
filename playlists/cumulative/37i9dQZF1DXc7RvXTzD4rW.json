@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "JOY!!",
+        "url": "https://open.spotify.com/album/3t79dOxTADtvd5le5TmuDq"
+      },
+      "artists": [
+        {
+          "name": "Miho Okasaki",
+          "url": "https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "JOY!!",
+      "url": "https://open.spotify.com/track/5jc5lzeYJHXX9QEzh3IHza"
+    },
+    {
+      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/1aB0YGK9wQktijd3N9W84d"
       },
@@ -8074,7 +8092,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 229719,
       "name": "\u7d46\u5275\u818f",
       "url": "https://open.spotify.com/track/3ct9qVfFddPNrnPH0woecU"

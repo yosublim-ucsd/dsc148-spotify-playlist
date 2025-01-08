@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 433374,
+  "num_followers": 433383,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAABER/bogC7yPHuss9CnSgk5",
+  "snapshot_id": "Z3sdAAAAAADjmIWAzsBCNgX9gq7rdK8U",
   "tracks": [
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 262308,
-      "name": "Drip (feat. Migos)",
-      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 274096,
       "name": "Deadz (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/3sTsxjv7yb0cM3rWvQdVan"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 262308,
+      "name": "Drip (feat. Migos)",
+      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III (Deluxe)",
-        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 229434,
-      "name": "How We Coming",
-      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 216677,
       "name": "RAW SHIT (feat. Migos)",
       "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture III (Deluxe)",
+        "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 229434,
+      "name": "How We Coming",
+      "url": "https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k"
     },
     {
       "added_at": null,

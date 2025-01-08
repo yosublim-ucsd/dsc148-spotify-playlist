@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3201,
+  "num_followers": 3204,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAAYhZWl+KjLNj60nSytKl2n",
+  "snapshot_id": "Z3sdAAAAAAAs18HsiyZ8iZhp7Jrqxmof",
   "tracks": [
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Throw It In The Bag",
-      "url": "https://open.spotify.com/track/6Ay3zS8Qq8gMhgDypDFCMl"
+      "duration_ms": 145822,
+      "name": "Pretty Brown",
+      "url": "https://open.spotify.com/track/2H0wxi6MurPj7C6JxuuDEs"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 145822,
-      "name": "Pretty Brown",
-      "url": "https://open.spotify.com/track/2H0wxi6MurPj7C6JxuuDEs"
+      "duration_ms": 141818,
+      "name": "Throw It In The Bag",
+      "url": "https://open.spotify.com/track/6Ay3zS8Qq8gMhgDypDFCMl"
     },
     {
       "added_at": null,
@@ -574,15 +574,11 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
         }
       ],
-      "duration_ms": 166730,
-      "name": "Brand New (feat. Layton Green)",
-      "url": "https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc"
+      "duration_ms": 113450,
+      "name": "I Look Good",
+      "url": "https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9"
     },
     {
       "added_at": null,
@@ -646,11 +642,15 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
         }
       ],
-      "duration_ms": 113450,
-      "name": "I Look Good",
-      "url": "https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9"
+      "duration_ms": 166730,
+      "name": "Brand New (feat. Layton Green)",
+      "url": "https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc"
     },
     {
       "added_at": null,

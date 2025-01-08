@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 6665,
+  "num_followers": 6668,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAAJdp3mIUpV/6WJZg2/tcM8",
+  "snapshot_id": "Z3sdAAAAAAAvst6C87I224Ez2wgETz/n",
   "tracks": [
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 160773,
-      "name": "I Got To Go",
-      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
+      "duration_ms": 159333,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 159333,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx"
+      "duration_ms": 160773,
+      "name": "I Got To Go",
+      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
     },
     {
       "added_at": null,
@@ -623,26 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+        "name": "Saga Blues: Blowing With a Feeling",
+        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
           "name": "Little Walter",
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        },
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
         }
       ],
-      "duration_ms": 250800,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
+      "duration_ms": 189773,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/1J4C3L3ouWmzzUNXSQLzSm"
     },
     {
       "added_at": null,
@@ -663,22 +659,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saga Blues: Blowing With a Feeling",
-        "url": "https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB"
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
       "artists": [
         {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
         },
         {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 189773,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/1J4C3L3ouWmzzUNXSQLzSm"
+      "duration_ms": 250800,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
     },
     {
       "added_at": null,

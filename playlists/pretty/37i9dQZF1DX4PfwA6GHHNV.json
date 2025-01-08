@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19816,
+  "num_followers": 19826,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "VER\u00c3O",
+      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 135693,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "VER\u00c3O",
-      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "PILULA DO DIA SEGUINTE",
-        "url": "https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "Biuw",
-          "url": "https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv"
-        }
-      ],
-      "duration_ms": 150602,
-      "name": "PEGA PEGA",
-      "url": "https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 194862,
       "name": "Luar",
       "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
+        "name": "PILULA DO DIA SEGUINTE",
+        "url": "https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Biuw",
+          "url": "https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv"
+        }
+      ],
+      "duration_ms": 150602,
+      "name": "PEGA PEGA",
+      "url": "https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "Saia Rodada",
-        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Saia Rodada",
-      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "Saia Rodada",
+        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Saia Rodada",
+      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "1 a 1.",
         "url": "https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB"
       },
@@ -703,22 +703,22 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "T\u00f4 Aqui de Novo",
-        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+        "name": "Natureza",
+        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
       },
       "artists": [
         {
-          "name": "Vinijoe",
-          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
         }
       ],
-      "duration_ms": 215572,
-      "name": "T\u00f4 Aqui de Novo",
-      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+      "duration_ms": 144000,
+      "name": "Natureza",
+      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -743,6 +743,26 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "T\u00f4 Aqui de Novo",
+        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+      },
+      "artists": [
+        {
+          "name": "Vinijoe",
+          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "duration_ms": 215572,
+      "name": "T\u00f4 Aqui de Novo",
+      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 185741,
       "name": "Brinca Comigo",
       "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
-        "name": "Natureza",
-        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Natureza",
-      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "TocToc",
+        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "TocToc",
+      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "Sossega (Nada Mal)",
         "url": "https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt"
       },
@@ -979,42 +995,6 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "TocToc",
-        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "TocToc",
-      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
         "name": "A\u00ed \u00e9 Bom Demais",
         "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
@@ -1035,6 +1015,46 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -1075,26 +1095,6 @@
       "duration_ms": 186896,
       "name": "Slow",
       "url": "https://open.spotify.com/track/2gV2UT3QTYlmx6KduymFg1"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     }
   ],
   "unique_name": "pique afrobeats",

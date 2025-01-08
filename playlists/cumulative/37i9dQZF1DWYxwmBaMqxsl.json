@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Blue Haze",
+        "url": "https://open.spotify.com/album/20KfqhxnYCTul4JLiWXBAL"
+      },
+      "artists": [
+        {
+          "name": "Ray Love Trio",
+          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "Blue Haze",
+      "url": "https://open.spotify.com/track/1s1l7ksPaqruuvc4LdCH6f"
+    },
+    {
+      "album": {
         "name": "Blue in Green",
         "url": "https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq"
       },
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 204125,
       "name": "Everything and Nothing",
       "url": "https://open.spotify.com/track/0AGbSr475KpVcGPwbI1hBu"
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 277360,
       "name": "Fall Song",
       "url": "https://open.spotify.com/track/07SatuQJo7AH6eHZQxpFp2"
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 239687,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 194532,
       "name": "I Will Never Forget You",
       "url": "https://open.spotify.com/track/2k6t2F2sRJnCRflfc5lLHb"
@@ -3329,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "Midnight Fog",
+        "url": "https://open.spotify.com/album/66aPKq9OcOikr2QZCQcslM"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209904,
+      "name": "Midnight Fog",
+      "url": "https://open.spotify.com/track/6DSGKzGP9H5HW3WdNq3iBH"
+    },
+    {
+      "album": {
         "name": "Midnight midtown",
         "url": "https://open.spotify.com/album/0zCX7YfKIsb7SmiDl93KZi"
       },
@@ -3520,7 +3556,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 181477,
       "name": "Monsieur Petit",
       "url": "https://open.spotify.com/track/355fsbshakbWMu6eB2gs20"
@@ -3844,7 +3880,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 271624,
       "name": "No Time To Lose",
       "url": "https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd"
@@ -4852,7 +4888,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 208929,
       "name": "Sorrowful",
       "url": "https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej"
@@ -4906,7 +4942,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 185263,
       "name": "South River",
       "url": "https://open.spotify.com/track/4TLWEgxwgSUSfSWvONeWzi"
@@ -5086,7 +5122,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 228851,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/5oldvHqsUzfMtwnKlMkRnr"
@@ -5642,6 +5678,24 @@
       "duration_ms": 274157,
       "name": "Too Late For Tears",
       "url": "https://open.spotify.com/track/3jd766vnNaZF8Z1zxGI1dj"
+    },
+    {
+      "album": {
+        "name": "Travelling Story",
+        "url": "https://open.spotify.com/album/3y3emncjPtAAjPncdEbnLp"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195697,
+      "name": "Travelling Story",
+      "url": "https://open.spotify.com/track/35U8EnZgLHlBzREzo6UGpC"
     },
     {
       "album": {

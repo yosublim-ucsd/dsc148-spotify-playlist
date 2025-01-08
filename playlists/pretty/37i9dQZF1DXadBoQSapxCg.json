@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 314732,
+  "num_followers": 314725,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -731,50 +731,6 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
-        "name": "Luzes Apagadas",
-        "url": "https://open.spotify.com/album/4wFOxzqJLIlt6x6P1zNaSH"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Baficca",
-          "url": "https://open.spotify.com/artist/589OLUilByLppoNWT0Xrvy"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Luzes Apagadas",
-      "url": "https://open.spotify.com/track/2mhI8Js7ZkMVwsQif3R5wZ"
-    },
-    {
-      "added_at": "2024-12-13 16:48:02",
-      "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
-    },
-    {
-      "added_at": "2024-12-13 16:48:02",
-      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -799,6 +755,50 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
+    },
+    {
+      "added_at": "2024-12-13 16:48:02",
+      "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
+    },
+    {
+      "added_at": "2024-12-13 16:48:02",
+      "album": {
+        "name": "Luzes Apagadas",
+        "url": "https://open.spotify.com/album/4wFOxzqJLIlt6x6P1zNaSH"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Baficca",
+          "url": "https://open.spotify.com/artist/589OLUilByLppoNWT0Xrvy"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Luzes Apagadas",
+      "url": "https://open.spotify.com/track/2mhI8Js7ZkMVwsQif3R5wZ"
     },
     {
       "added_at": "2024-12-13 16:48:02",
@@ -979,18 +979,26 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
-        "name": "VERSOS",
-        "url": "https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X"
+        "name": "Apela\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
       },
       "artists": [
         {
-          "name": "BELLI",
-          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Chibatinha",
+          "url": "https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt"
         }
       ],
-      "duration_ms": 140000,
-      "name": "DESASTRE NATURAL",
-      "url": "https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf"
+      "duration_ms": 137333,
+      "name": "Apela\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
     },
     {
       "added_at": "2024-12-13 16:48:02",
@@ -1015,26 +1023,18 @@
     {
       "added_at": "2024-12-13 16:48:02",
       "album": {
-        "name": "Apela\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1dFNG3V6K51mOWtwZAPO4v"
+        "name": "VERSOS",
+        "url": "https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X"
       },
       "artists": [
         {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Chibatinha",
-          "url": "https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt"
+          "name": "BELLI",
+          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
         }
       ],
-      "duration_ms": 137333,
-      "name": "Apela\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0IN3WGJIqcwnypFHtGpoZJ"
+      "duration_ms": 140000,
+      "name": "DESASTRE NATURAL",
+      "url": "https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf"
     },
     {
       "added_at": "2024-12-13 16:48:02",

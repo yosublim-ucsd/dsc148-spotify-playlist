@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: تامر حسني و رامي صبري
 
-1,297 songs - 3 day 0 hr 17 min
+1,298 songs - 3 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [ARRB \- قرب](https://open.spotify.com/track/0T3pWguSvkMtvjgG7dJmIZ) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [ARRB \- قرب](https://open.spotify.com/album/3yfMjN5m1lT78xgIEpUhXh) | 3:54 | 2023-10-06 | 2024-01-12 |
 | [Asayef](https://open.spotify.com/track/7miqRfmxpMVXB64w7zMcAi) | [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t) | [Asayef](https://open.spotify.com/album/7s2D3JmVB8EUcfIRuRHA90) | 2:15 | 2024-08-28 | 2024-10-18 |
 | [Asda2 Meen](https://open.spotify.com/track/6makYhAOg1d1KuPZzSezWo) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Asda2 Meen](https://open.spotify.com/album/2kYHYBoInCrmBKW9Mi2WN1) | 2:44 | 2024-01-17 | 2024-02-15 |
-| [Aseblak Rohy](https://open.spotify.com/track/3baoeifxx1faQNpk5lzosv) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Aseblak Rohy](https://open.spotify.com/album/4bXYJcShNLa3oifePIGewn) | 3:55 | 2024-10-18 |  |
+| [Aseblak Rohy](https://open.spotify.com/track/3baoeifxx1faQNpk5lzosv) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Aseblak Rohy](https://open.spotify.com/album/4bXYJcShNLa3oifePIGewn) | 3:55 | 2024-10-18 | 2025-01-08 |
 | [Asef](https://open.spotify.com/track/6lWCaMrjUxopxKJfsO0e1W) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Asef](https://open.spotify.com/album/3bwbHPTavXwjHsGsRaPVy7) | 3:16 | 2023-09-29 | 2024-01-05 |
 | [Asmrani Eyounoh Samrah](https://open.spotify.com/track/6M8EcLbklscFeUPav8fIGu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Asmrani Eyounoh Samrah](https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY) | 3:12 | 2024-03-12 | 2024-06-14 |
 | [Asrar](https://open.spotify.com/track/17kMbUwpSIdXdLUe70XHps) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Asrar](https://open.spotify.com/album/79LLrOm3su0LwbV2JGkMlt) | 3:19 | 2023-03-21 | 2023-05-12 |
@@ -165,6 +165,7 @@
 | [Balbata](https://open.spotify.com/track/5NHOHEmOIGysPGy895thVt) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Balbata](https://open.spotify.com/album/6peahsqt5fShCKRvSqm6U7) | 2:46 | 2023-06-29 | 2023-08-02 |
 | [Ballerina](https://open.spotify.com/track/78fs5ektDphjXmEjZy99Do) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP) | [Ballerina](https://open.spotify.com/album/4RsqLNot8uxTQGH0FBoQTZ) | 3:08 | 2025-01-02 |  |
 | [Banady 3alek](https://open.spotify.com/track/61sfLiMRUTWLCpsKfbf0Jy) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Banady 3alek](https://open.spotify.com/album/5fwF3SwuQicnvFxYGBPbNt) | 4:09 | 2022-03-03 | 2022-06-29 |
+| [Barko](https://open.spotify.com/track/5QVzCdsWs7lRU6LtXCen0U) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Barko](https://open.spotify.com/album/4LKKSzbJSTAymsEHb6DPeq) | 3:24 | 2025-01-07 |  |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 | 2022-08-24 |
 | [Baseeta](https://open.spotify.com/track/0SL61SAE5LKt2ktmG3tdWA) | [Samo Zaen](https://open.spotify.com/artist/4s7xsFTPsZZcIzKv0Ryg22) | [Baseeta](https://open.spotify.com/album/0BNmZqLzCnwrmi44w72Hqd) | 3:08 | 2022-02-24 | 2022-06-07 |
 | [Baseta](https://open.spotify.com/track/480PjO2GhgZURZGDbiV8Nl) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Baseta](https://open.spotify.com/album/0T9jKAUDuWfcttmux6fnA0) | 2:49 | 2024-09-12 | 2024-11-15 |
@@ -1155,7 +1156,7 @@
 | [كداب](https://open.spotify.com/track/1KK6btqSOoG2uW0dldinOx) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كداب](https://open.spotify.com/album/5l0kncVsCrQpzxC2vnbEkn) | 3:27 | 2024-08-06 | 2024-10-04 |
 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2023-07-28 | 2023-08-10 |
 | [كعبك علي](https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كعبك علي](https://open.spotify.com/album/1Kgo9nVQn4AwUiaFg3NIFu) | 3:34 | 2023-07-28 | 2023-09-30 |
-| [كفاياك](https://open.spotify.com/track/2JbVi1uv2ViF7tLI3z2zwJ) | [Abdelrahman](https://open.spotify.com/artist/06pd7R2YV4jwzkJTFULdn2) | [كفاياك](https://open.spotify.com/album/7rHgANUhOAqja8LEGKydTz) | 3:29 | 2024-11-29 |  |
+| [كفاياك](https://open.spotify.com/track/2JbVi1uv2ViF7tLI3z2zwJ) | [Abdelrahman](https://open.spotify.com/artist/06pd7R2YV4jwzkJTFULdn2) | [كفاياك](https://open.spotify.com/album/7rHgANUhOAqja8LEGKydTz) | 3:29 | 2024-11-29 | 2025-01-08 |
 | [كل الحكاية](https://open.spotify.com/track/0s1sc7gWtigPnKEEkjBojU) | [Meery](https://open.spotify.com/artist/7v4YgvdfeIZLwqbrASG50n) | [كل الحكاية](https://open.spotify.com/album/4EmGOjK0vbZnHf5lyzhESK) | 3:48 | 2024-04-11 | 2024-06-21 |
 | [كل سنه](https://open.spotify.com/track/0nc1WH81RNOchRvheduzEi) | [Ammar Hosny](https://open.spotify.com/artist/2U9Wq183dC8s01VOinrjK3) | [كل سنه](https://open.spotify.com/album/62MemAmrKN7MwFZNxvFdvB) | 3:01 | 2023-06-14 | 2023-07-21 |
 | [كل ليل](https://open.spotify.com/track/3FmjlI2P0aYuVbSo5fzSZs) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [كل ليل](https://open.spotify.com/album/67ZFyMPeTn5L5FAZC94WAY) | 4:02 | 2023-06-27 | 2023-07-28 |

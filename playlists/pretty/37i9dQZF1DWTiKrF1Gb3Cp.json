@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 217574,
+  "num_followers": 217644,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Tenis Jordan",
-        "url": "https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 149962,
-      "name": "Tenis Jordan",
-      "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "hARAkiRi",
         "url": "https://open.spotify.com/album/6jJL6sH7cT8f2kDYPI4N5D"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 169258,
       "name": "hARAkiRi",
       "url": "https://open.spotify.com/track/4m0ypZ1c1l0WulMk3fkVA0"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "Tenis Jordan",
+        "url": "https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 149962,
+      "name": "Tenis Jordan",
+      "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
     },
     {
       "added_at": "2024-12-27 06:00:18",

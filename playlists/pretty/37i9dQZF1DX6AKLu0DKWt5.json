@@ -1,49 +1,13 @@
 {
-  "description": "Music from nominees from the 82nd Golden Globe Awards. ",
-  "num_followers": 6954,
+  "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
+  "num_followers": 6994,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2V4aAAAAAAIC6fmO1V+24vNZe/VPFWk",
+  "snapshot_id": "Z33DYgAAAAAHQm4OIdVCCynUS1z+6trf",
   "tracks": [
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Andrew Wyatt",
-          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
-        }
-      ],
-      "duration_ms": 140484,
-      "name": "Beautiful That Way - from The Last Showgirl Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Challengers (Original Score)",
-        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 229228,
-      "name": "Compress / Repress",
-      "url": "https://open.spotify.com/track/40k8Fcfap0ZOiMClwz9VlP"
-    },
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
@@ -71,118 +35,18 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
+        "name": "Challengers (Original Score)",
+        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
         }
       ],
-      "duration_ms": 197419,
-      "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Kiss the Sky (from The Wild Robot)",
-        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 215716,
-      "name": "Kiss the Sky (from The Wild Robot)",
-      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 87085,
-      "name": "Overture of Conclave",
-      "url": "https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "The Brutalist (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p"
-      },
-      "artists": [
-        {
-          "name": "Daniel Blumberg",
-          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
-        }
-      ],
-      "duration_ms": 289386,
-      "name": "Overture (Ship)",
-      "url": "https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "I Could Use a Boost",
-      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
-      },
-      "artists": [
-        {
-          "name": "Adriana Paz",
-          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
-        },
-        {
-          "name": "The Mexican Choir",
-          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Las Damas que Pasan",
-      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
+      "duration_ms": 85287,
+      "name": "Challengers",
+      "url": "https://open.spotify.com/track/5dgXKKrU6A9kccwDfANdjS"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -295,6 +159,26 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "url": "https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm"
+        }
+      ],
+      "duration_ms": 140484,
+      "name": "Beautiful That Way - from The Last Showgirl Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Dune: Part Two (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC"
       },
@@ -307,6 +191,22 @@
       "duration_ms": 261795,
       "name": "A Time of Quiet Between the Storms",
       "url": "https://open.spotify.com/track/7lG5m4JN0exualOkghSNXq"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Kiss the Sky (from The Wild Robot)",
+        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 215716,
+      "name": "Kiss the Sky (from The Wild Robot)",
+      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -331,6 +231,22 @@
       "duration_ms": 196306,
       "name": "Beyond (End Credit Version)",
       "url": "https://open.spotify.com/track/4PPVkEZuEy4lQzKOsxLVGH"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -367,6 +283,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "I Could Use a Boost",
+      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "The Substance (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/3DdlSNLeDtqi7aNTOKu6Wc"
       },
@@ -383,18 +315,18 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Challengers (Original Score)",
-        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
       },
       "artists": [
         {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 85287,
-      "name": "Challengers",
-      "url": "https://open.spotify.com/track/5dgXKKrU6A9kccwDfANdjS"
+      "duration_ms": 223666,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -487,8 +419,8 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Queer (Original Score)",
-        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
+        "name": "Challengers (Original Score)",
+        "url": "https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv"
       },
       "artists": [
         {
@@ -496,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
         }
       ],
-      "duration_ms": 274463,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
+      "duration_ms": 229228,
+      "name": "Compress / Repress",
+      "url": "https://open.spotify.com/track/40k8Fcfap0ZOiMClwz9VlP"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -515,6 +447,42 @@
       "duration_ms": 215333,
       "name": "The Talented Mr. Ripley - FIN",
       "url": "https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+      },
+      "artists": [
+        {
+          "name": "Adriana Paz",
+          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
+        },
+        {
+          "name": "The Mexican Choir",
+          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Las Damas que Pasan",
+      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "The Brutalist (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p"
+      },
+      "artists": [
+        {
+          "name": "Daniel Blumberg",
+          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
+        }
+      ],
+      "duration_ms": 289386,
+      "name": "Overture (Ship)",
+      "url": "https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -539,6 +507,22 @@
       "duration_ms": 111733,
       "name": "Main Title (Sh\u014dgun)",
       "url": "https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 87085,
+      "name": "Overture of Conclave",
+      "url": "https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -603,6 +587,22 @@
       "duration_ms": 155471,
       "name": "O mio babbino caro",
       "url": "https://open.spotify.com/track/3mzYziP0FUhEcnKL9zbIZ2"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Queer (Original Score)",
+        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 274463,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
     },
     {
       "added_at": "2024-12-20 14:00:08",

@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 622683,
+  "num_followers": 622965,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAAigl7JhDgsaZDKJCIonqCS",
+  "snapshot_id": "Z3sdAAAAAACwmQpjQbcvV06gsfjOGjTB",
   "tracks": [
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Issue",
-        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
+      "duration_ms": 213640,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 213640,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
+      "duration_ms": 225666,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
       "duration_ms": 179586,
       "name": "La La La",
       "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
     },
     {
       "added_at": null,
@@ -695,38 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 47643,
-      "name": "Intro (Alive)",
-      "url": "https://open.spotify.com/track/4G1DVtcCpyzcA3tBjOvF38"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "What Is Right",
-      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 233320,
       "name": "Always",
       "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 47643,
+      "name": "Intro (Alive)",
+      "url": "https://open.spotify.com/track/4G1DVtcCpyzcA3tBjOvF38"
     },
     {
       "added_at": null,

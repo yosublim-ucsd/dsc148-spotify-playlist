@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8vpLK1FoEw3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8vpLK1FoEw3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8vpLK1FoEw3)
 
-### [Um BELO Ano Novo](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
+### [Um BELO 2025](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
 
 > Deu 00h, é hora de se Reinventar!! Que 2025 seja um <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a>  ano para todos!!! \#MeuSpotify feita por Belo
 

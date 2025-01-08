@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-144 songs - 8 hr 20 min
+146 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blue Moon](https://open.spotify.com/track/6xEHmGdGA9ZnjwuHUD9EFm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Blue Moon](https://open.spotify.com/album/655YlNnJaQaflqOYHRUogN) | 3:37 | 2023-04-27 | 2023-09-29 |
 | [Blue Sunday](https://open.spotify.com/track/4wRroGt99b7BQGV7Lp59f3) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Blue Sunday](https://open.spotify.com/album/4BxrAZLnMBaSwzdODpcTwx) | 3:27 | 2024-03-08 |  |
 | [Blue Tennessee](https://open.spotify.com/track/65xukQJeGh8BMUAPIGldf3) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:46 | 2023-04-27 |  |
+| [Blue Winds](https://open.spotify.com/track/28EQq9IWf3sYG9K92wo5XA) | [Dreamland](https://open.spotify.com/artist/5WXDXyGmpfLSUlaRXueUYj) | [Blue Winds](https://open.spotify.com/album/1CVh3z4KqNY5J3j2tdqXKH) | 3:14 | 2025-01-07 |  |
 | [Boxroom](https://open.spotify.com/track/5SsQyltME8sKOX8jU7LXiH) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Boxroom](https://open.spotify.com/album/0Llf3NZanAqYEwbg9paS8b) | 3:05 | 2024-03-08 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/4kY4TFMLtGkbr3yclyHCeN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:11 | 2023-04-27 |  |
 | [Broken Promises](https://open.spotify.com/track/4sSuZdKAQ5DaGXMcTVB1cJ) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:36 | 2023-04-27 |  |
@@ -49,6 +50,7 @@
 | [Evening Rain](https://open.spotify.com/track/4tfNLlpSHpFvBsVufocJKn) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Evening Rain](https://open.spotify.com/album/6dWDQjgAC5tLFm19J2YgFU) | 4:02 | 2023-04-27 |  |
 | [Faber](https://open.spotify.com/track/482CNrlW4YFB0QiKySuxFq) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Faber](https://open.spotify.com/album/2at9fFe2ZxNu7MVCetxx4U) | 3:30 | 2024-02-23 |  |
 | [Far Away From Home](https://open.spotify.com/track/3vqwzMRKAi8Zr2JKuzYqhz) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Far Away From Home](https://open.spotify.com/album/09fyD6GBCml59WivM8dhow) | 3:38 | 2024-06-24 |  |
+| [Far Out East](https://open.spotify.com/track/6Bo85LoxPZAdeHcfLMS0LJ) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Far Out East](https://open.spotify.com/album/4PrR6jsiqH3BvNm1pPZbop) | 2:48 | 2025-01-07 |  |
 | [Farmland](https://open.spotify.com/track/1l5zTu0n5D0D1488z9QKvL) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Farmland](https://open.spotify.com/album/1CknfwJF9oqXYKFwCNYo1C) | 3:36 | 2023-06-22 |  |
 | [Feathers](https://open.spotify.com/track/06NxUSlMIb6JsSC0cW4HhH) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Eternity Rain](https://open.spotify.com/album/3VyBGuqp5a0oBTCbLkpIdr) | 3:23 | 2023-04-27 |  |
 | [Forests Sometimes](https://open.spotify.com/track/3rDVLfUb6s70EdNhrVOycF) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Forests Sometimes](https://open.spotify.com/album/4c5tCMY258trdUWxqJ4J5j) | 4:03 | 2023-04-27 |  |

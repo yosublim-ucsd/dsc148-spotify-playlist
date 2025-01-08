@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Young Igi
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,548 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,736 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 7 | [WSZYSTKO MIJA](https://open.spotify.com/track/6XK2NHIhrIaS7rexbiiiq7) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF), [Lonzo](https://open.spotify.com/artist/23a4GHE8SXM3a5sX6oDQNM) | [WSZYSTKO MIJA](https://open.spotify.com/album/14zjan9MfMAAyNfQhf09Z6) | 3:19 |
 | 8 | [Mood](https://open.spotify.com/track/3gWEv74rPdF2L03M7GxGB6) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Opał](https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Mood](https://open.spotify.com/album/19mfMmhrF9ujR6jeFUdnm4) | 3:09 |
 | 9 | [PRZEKAZ MYŚLI](https://open.spotify.com/track/2cm6RJemeOITG5MualyhAU) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [PRZEKAZ MYŚLI](https://open.spotify.com/album/2xihBYjoahj3QAJg6B6iNR) | 2:32 |
-| 10 | [Futurama 3 \(fanserwis\)](https://open.spotify.com/track/7ousJJ6DkKOeeXwfgWEMpN) | [Quebonafide, Gedz, Odys](https://open.spotify.com/artist/1dyPwO2W1M1Yg4ZYOnvffS) | [Futurama 3 \(fanserwis\)](https://open.spotify.com/album/3SO1Pzy8RRa66qGR5yAhBt) | 4:36 |
+| 10 | [Futurama 3 \(fanserwis\)](https://open.spotify.com/track/7ousJJ6DkKOeeXwfgWEMpN) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Gedz](https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a), [Odys](https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm) | [Futurama 3 \(fanserwis\)](https://open.spotify.com/album/3SO1Pzy8RRa66qGR5yAhBt) | 4:36 |
 | 11 | [Freestyle](https://open.spotify.com/track/5uMqtyQuLYqH5bUPLf00vO) | [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni) | [Freestyle](https://open.spotify.com/album/5XfbKQbM2Q4DRPCMahGOau) | 2:20 |
 | 12 | [OGRODY WINTER FREESTYLE](https://open.spotify.com/track/2qXptpJThd4LC1UNVhIhif) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD) | [OGRODY WINTER FREESTYLE](https://open.spotify.com/album/6qdUT2lpuSxo7hAYdDvnoD) | 2:42 |
 | 13 | [Kocie oczy](https://open.spotify.com/track/5elP52iIC8BW92SVbXQYYz) | [Cheatz](https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B), [buffalo](https://open.spotify.com/artist/1bVkR5pJgnHF3XwmKbhv5v) | [Kocie oczy](https://open.spotify.com/album/0l6Lgu9yVhB7HjQLCj0mOX) | 2:21 |

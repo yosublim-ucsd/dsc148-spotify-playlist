@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-948 songs - 2 day 1 hr 59 min
+949 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,7 +632,7 @@
 | [Party's Over](https://open.spotify.com/track/1z4pmUXpI3zIcVxFegGMS2) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Party's Over](https://open.spotify.com/album/2Js0FkD0MMLaw6H1YWgzs2) | 2:27 | 2021-08-21 | 2021-09-24 |
 | [Party's Over](https://open.spotify.com/track/4DPRz4NNpFtmqYTqbAnEvU) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Party's Over](https://open.spotify.com/album/6wsGIebo4XbIg59xGBlPF0) | 2:35 | 2022-01-13 | 2022-03-04 |
 | [Pearl](https://open.spotify.com/track/1l4fsop2H0buZdcYaa7KM1) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/7uyyNpmNR8yE1MqPNnxik0) | 3:54 | 2024-09-12 | 2024-11-29 |
-| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-18 |  |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-18 | 2025-01-08 |
 | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 | 2022-08-12 | 2023-03-25 |
 | [People Happy](https://open.spotify.com/track/7afcFEV1xMYlzeE4kyrYCH) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT) | [People Happy](https://open.spotify.com/album/0bjC4rvDNRzbMYSgaB5zBG) | 2:38 | 2021-05-29 | 2022-07-16 |
 | [People Happy \- KLP Remix](https://open.spotify.com/track/5IfUyU5AC82xQBEek4UXOn) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT) | [People Happy \(KLP Remix\)](https://open.spotify.com/album/2BYaGNaKdOirsrKMcF57MZ) | 2:46 | 2024-11-28 |  |
@@ -836,6 +836,7 @@
 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 | 2022-07-08 | 2022-08-27 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-04-07 |  |
 | [Things I Never Nu](https://open.spotify.com/track/1NAYrYgd473ua418mz32xb) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Second Nature](https://open.spotify.com/album/39g7HzX4s9teKLxwNYebw1) | 3:46 | 2022-11-11 | 2022-12-16 |
+| [Think About It](https://open.spotify.com/track/1NyGisWiw1SxUXCaINfCx1) | [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh), [2HOT2PLAY](https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA) | [Think About It](https://open.spotify.com/album/71naf0dyKUCucdXEODamHK) | 2:58 | 2025-01-07 |  |
 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 | 2023-12-08 | 2024-02-23 |
 | [Think of You \- Ninajirachi Remix](https://open.spotify.com/track/3lEzt8kae6iWq3LWfDJbR9) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Think of You \(Ninajirachi Remix\)](https://open.spotify.com/album/52DsSOVonnD1ZrGhoUjCnZ) | 3:24 | 2024-06-06 | 2024-07-19 |
 | [Thinkin' of You](https://open.spotify.com/track/2lUkWTfqLLMmCLrH41YpBd) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Bklava \- EP](https://open.spotify.com/album/5vj3Ca8rK10V6Dy01hip5E) | 2:52 | 2020-11-03\* | 2020-11-06 |

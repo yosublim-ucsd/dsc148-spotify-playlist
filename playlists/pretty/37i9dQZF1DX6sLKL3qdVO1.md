@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Bad Bunny en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,202 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,242 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 4 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 |
 | 5 | [LOS DEPURO \(feat\. L\-Gante\)](https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 3:10 |
 | 6 | [Bandi2 \(feat\. Blow Music\)](https://open.spotify.com/track/1bgpWAyQKYO7BEymQ0vyjQ) | [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Leo Torrez](https://open.spotify.com/artist/6UXEZZz3zgjBq5nrFLWAvH), [Blow Music](https://open.spotify.com/artist/47Q0wtkZDDvDMZ2sKJy2bW) | [Bandi2 \(feat\. Blow Music\)](https://open.spotify.com/album/21bqfUpKQel0X411vIMsPq) | 2:28 |
-| 7 | [BLANQUITA PERLA](https://open.spotify.com/track/1S9fzhOcPnfr8PsclH7Sct) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [BLANQUITA PERLA](https://open.spotify.com/album/1bIIgYf8b5YXHIADEPBPST) | 2:38 |
+| 7 | [BLANQUITA PERLA](https://open.spotify.com/track/1S9fzhOcPnfr8PsclH7Sct) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [BLANQUITA PERLA](https://open.spotify.com/album/1bIIgYf8b5YXHIADEPBPST) | 2:38 |
 | 8 | [Besitos Pa' Esas Nalgas](https://open.spotify.com/track/59Mva6jPt9BZQVqSlPWnkW) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Papi Arca](https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN) | 2:51 |
 | 9 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 |
 | 10 | [MIRAME REMIX](https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [MIRAME REMIX](https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK) | 3:58 |

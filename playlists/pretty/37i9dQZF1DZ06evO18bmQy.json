@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 202351,
+  "num_followers": 202380,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAA31P8hAIWUo9M5Ur2IIg81",
+  "snapshot_id": "Z3sdAAAAAADgKcr6LM+t1PD0KJfcTemk",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 213983,
+      "name": "Procuro Algu\u00e9m",
+      "url": "https://open.spotify.com/track/0iCOIAN5PaXnATuKkzTVNx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
         "url": "https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 242526,
       "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
       "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 213983,
-      "name": "Procuro Algu\u00e9m",
-      "url": "https://open.spotify.com/track/0iCOIAN5PaXnATuKkzTVNx"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 184277,
+      "name": "cora\u00e7\u00e3o gelado",
+      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 242000,
       "name": "Ningu\u00e9m Vai Te Superar",
       "url": "https://open.spotify.com/track/3tU3mMJYq6qU3h0HCwdn0S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 184277,
-      "name": "cora\u00e7\u00e3o gelado",
-      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 138321,
+      "name": "das amantes freestyle",
+      "url": "https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olho de Tigre",
         "url": "https://open.spotify.com/album/1J5MVubFR95AEBMekVp5Dq"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 238080,
       "name": "Olho de Tigre",
       "url": "https://open.spotify.com/track/5QoA1Ttcfi1OVCgRLxsVZN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 138321,
-      "name": "das amantes freestyle",
-      "url": "https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pior M\u00fasica do Ano",
-        "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 219103,
-      "name": "A Pior M\u00fasica do Ano",
-      "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -875,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Pior M\u00fasica do Ano",
+        "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 219103,
+      "name": "A Pior M\u00fasica do Ano",
+      "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hist\u00f3rias da Minha \u00c1rea",
         "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 197600,
       "name": "Todo Errado",
       "url": "https://open.spotify.com/track/540aOl7XanLFQPAxc9uDBd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 197098,
+      "name": "valeu a batalha",
+      "url": "https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq"
     },
     {
       "added_at": null,
@@ -923,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 197098,
-      "name": "valeu a batalha",
-      "url": "https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ladr\u00e3o",
         "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
       },
@@ -955,26 +955,6 @@
       "duration_ms": 222128,
       "name": "FALC\u00c3O",
       "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Dono do Lugar",
-        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 209114,
-      "name": "bala fini",
-      "url": "https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC"
     },
     {
       "added_at": null,
@@ -1007,6 +987,26 @@
       "duration_ms": 251520,
       "name": "Obstinado",
       "url": "https://open.spotify.com/track/5UBfIiXf71PxgqyO6vAfxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Dono do Lugar",
+        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 209114,
+      "name": "bala fini",
+      "url": "https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC"
     },
     {
       "added_at": null,
@@ -1235,46 +1235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Era de Aquarius",
-        "url": "https://open.spotify.com/album/4w8zGC0mKxObMx71b2KgG6"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 178207,
-      "name": "Era de Aquarius",
-      "url": "https://open.spotify.com/track/0HifRAxIjuvd7XBJEviQOK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 256810,
-      "name": "Esquim\u00f3",
-      "url": "https://open.spotify.com/track/0LMO2d7QubdqrRXuQGvtfQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rap Bom",
         "url": "https://open.spotify.com/album/6hrm0jhirwAUa7ZK6ipidD"
       },
@@ -1315,6 +1275,46 @@
       "duration_ms": 196800,
       "name": "Rap Bom",
       "url": "https://open.spotify.com/track/6evYUApZFaZyJF5W5O6qKR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 256810,
+      "name": "Esquim\u00f3",
+      "url": "https://open.spotify.com/track/0LMO2d7QubdqrRXuQGvtfQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Era de Aquarius",
+        "url": "https://open.spotify.com/album/4w8zGC0mKxObMx71b2KgG6"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 178207,
+      "name": "Era de Aquarius",
+      "url": "https://open.spotify.com/track/0HifRAxIjuvd7XBJEviQOK"
     },
     {
       "added_at": null,

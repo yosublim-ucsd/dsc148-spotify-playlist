@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 13352,
+  "num_followers": 13369,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-10-25 06:06:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
+        "name": "God Reigns",
+        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 219168,
-      "name": "W'asem",
-      "url": "https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz"
+      "duration_ms": 192027,
+      "name": "You Saved Me",
+      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
     },
     {
       "added_at": "2024-10-25 06:06:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-10-25 06:06:00",
       "album": {
-        "name": "God Reigns",
-        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 192027,
-      "name": "You Saved Me",
-      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
+      "duration_ms": 219168,
+      "name": "W'asem",
+      "url": "https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz"
     },
     {
       "added_at": "2024-10-25 06:06:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-10-25 06:06:00",
       "album": {
+        "name": "Sometin",
+        "url": "https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Sometin",
+      "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
+    },
+    {
+      "added_at": "2024-10-25 06:06:00",
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX"
       },
@@ -855,34 +871,18 @@
     {
       "added_at": "2024-10-25 06:06:00",
       "album": {
-        "name": "Sometin",
-        "url": "https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP"
+        "name": "Watch & Pray",
+        "url": "https://open.spotify.com/album/1aPAV46V8U8g0x0mEZOznd"
       },
       "artists": [
         {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+          "name": "Siisi Baidoo",
+          "url": "https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ"
         }
       ],
-      "duration_ms": 221714,
-      "name": "Sometin",
-      "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
-    },
-    {
-      "added_at": "2024-10-25 06:06:00",
-      "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
+      "duration_ms": 505463,
+      "name": "Watch & Pray",
+      "url": "https://open.spotify.com/track/7uJNTmxFppTj3nZdbtSLDG"
     }
   ],
   "unique_name": "Aseda",

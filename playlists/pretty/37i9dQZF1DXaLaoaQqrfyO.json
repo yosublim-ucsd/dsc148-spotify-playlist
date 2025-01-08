@@ -1,6 +1,6 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 351677,
+  "num_followers": 351706,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 204811,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Hold My Home",
         "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 200360,
       "name": "First",
       "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Now, Not Yet",
-        "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "still feel.",
-      "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 249906,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Now, Not Yet",
+        "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "still feel.",
+      "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 352003,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 226610,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 352003,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
+        "name": "Saw You In A Dream",
+        "url": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
       },
       "artists": [
         {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 269142,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
+      "duration_ms": 208280,
+      "name": "Saw You In A Dream",
+      "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -955,22 +955,6 @@
       "duration_ms": 217386,
       "name": "Trojans",
       "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
-        "name": "Saw You In A Dream",
-        "url": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Saw You In A Dream",
-      "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1003,6 +987,22 @@
       "duration_ms": 186440,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
-        "name": "Pop Psychology",
-        "url": "https://open.spotify.com/album/6Xi4dJ9SudvC0ZoE5Krh3G"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Sleeping With A Friend",
-      "url": "https://open.spotify.com/track/0K1KOCeJBj3lpDYxEX9qP2"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
         "name": "About A Feeling",
         "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
+        "name": "Pop Psychology",
+        "url": "https://open.spotify.com/album/6Xi4dJ9SudvC0ZoE5Krh3G"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Sleeping With A Friend",
+      "url": "https://open.spotify.com/track/0K1KOCeJBj3lpDYxEX9qP2"
     },
     {
       "added_at": "2024-04-02 17:00:58",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-04-02 17:00:58",
       "album": {
+        "name": "Nothing's Real",
+        "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 214555,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2ylVfK4pVfeSV4zxieyT2B"
+    },
+    {
+      "added_at": "2024-04-02 17:00:58",
+      "album": {
         "name": "55",
         "url": "https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 248506,
       "name": "Classic (feat. POWERS)",
       "url": "https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ"
-    },
-    {
-      "added_at": "2024-04-02 17:00:58",
-      "album": {
-        "name": "Nothing's Real",
-        "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 214555,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2ylVfK4pVfeSV4zxieyT2B"
     },
     {
       "added_at": "2024-04-02 17:00:58",

@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-117 songs - 5 hr 20 min
+118 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [IF I STOP NOW](https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [IF I STOP NOW](https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8) | 2:57 | 2023-01-28 | 2023-04-11 |
 | [Jeffery's Innocent](https://open.spotify.com/track/2msi6aUT3FldwSxMqj5074) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Pendleton](https://open.spotify.com/album/3WOrW5A7S4dADPx8mSkLMf) | 3:24 | 2023-04-05 | 2023-04-21 |
 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 | 2022-10-28 | 2024-07-23 |
-| [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 | 2022-10-28 |  |
+| [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 | 2022-10-28 | 2025-01-08 |
 | [Lick Back](https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:33 | 2022-10-28 |  |
 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 | 2022-10-28 |  |
 | [LIE TO ME SOME MORE](https://open.spotify.com/track/3hdWtlY4bawZp7Zf8bz27b) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:46 | 2023-07-26 | 2023-08-22 |
@@ -93,6 +93,7 @@
 | [Scarface \(feat\. EST Gee\)](https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 3:24 | 2022-10-28 |  |
 | [Self Esteem \(featuring EST Gee\)](https://open.spotify.com/track/3Ii7QxjlXsOOb2Usrfrspp) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Self Esteem \(featuring EST Gee\)](https://open.spotify.com/album/7a40mtofAp39yICF1FIOqF) | 3:17 | 2022-11-28 | 2023-02-13 |
 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 | 2022-10-28 |  |
+| [Shoot Sumn](https://open.spotify.com/track/6qPTbhvtFkNAjIuiSbnATq) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Shoot Sumn](https://open.spotify.com/album/6dkW3ATHGcB7QbcSC8kBA6) | 2:39 | 2025-01-08 |  |
 | [Since When \(feat\. EST Gee\)](https://open.spotify.com/track/7It1USqre8TEwwsp8SDXks) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [4eva Us Neva Them](https://open.spotify.com/album/2OzHv0qu65juqIUaCWlq6j) | 3:02 | 2024-07-07 |  |
 | [Sky Dweller](https://open.spotify.com/track/4nBsccyzGPbIIXmHNCN4ij) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:08 | 2024-05-11 | 2024-06-09 |
 | [SLAM DUNK \(FEAT\. YOUNG SCOOTER\)](https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:22 | 2023-03-19 | 2023-07-27 |

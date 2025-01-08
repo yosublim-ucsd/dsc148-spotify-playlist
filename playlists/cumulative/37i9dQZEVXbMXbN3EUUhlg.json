@@ -497,7 +497,7 @@
       "artists": [
         {
           "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/522bjacTyw3Lic4H0ohqdv"
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
         },
         {
           "name": "DJ Oreia",
@@ -522,7 +522,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "A Beb\u00ea Quer Oque",
       "url": "https://open.spotify.com/track/3sv5Da5mGwNvLDc6h3sVzq"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 156150,
       "name": "Amor Na Praia",
       "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -6442,7 +6442,7 @@
       ],
       "date_added": "2024-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 165301,
       "name": "Cron\u00f4metro - Ao Vivo",
       "url": "https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu"
@@ -10481,6 +10481,36 @@
     },
     {
       "album": {
+        "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
+        "url": "https://open.spotify.com/album/7JbiJkrVXvo1num2mfA33v"
+      },
+      "artists": [
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "Mc Menor DN",
+          "url": "https://open.spotify.com/artist/2FJjf1qmmogfQyqLKjbPML"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
+      "url": "https://open.spotify.com/track/6x6EA3N9xXgptSakS7VZUg"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -11912,7 +11942,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
@@ -13508,7 +13538,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -17240,7 +17270,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 141230,
       "name": "MTG PASSA PASSA PRA EU SARRAR",
       "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
@@ -19894,7 +19924,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 144461,
       "name": "PARECE - Ao Vivo",
       "url": "https://open.spotify.com/track/77X5UMAX4FjUx1aOaLqotz"
@@ -28876,7 +28906,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 154555,
       "name": "Xonei",
       "url": "https://open.spotify.com/track/2xTM0m9HD3gIqNSutA0LNJ"

@@ -2,7 +2,7 @@
 
 ### [Golden Globes Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6AKLu0DKWt5)
 
-> Music from nominees from the 82nd Golden Globe Awards.
+> Music from the winners and nominees of the 82nd Golden Globe Awards.
 
 112 songs - 5 hr 33 min
 

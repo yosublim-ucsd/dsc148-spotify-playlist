@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195461,
+  "num_followers": 195468,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 211153,
       "name": "Habits (Stay High) - Spotify Singles",
       "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
-        "name": "Jag borde g\u00e5",
-        "url": "https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "Jag borde g\u00e5",
-      "url": "https://open.spotify.com/track/2v9FTezxTq2caERaOKGgdr"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -407,18 +407,18 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Childhood",
-        "url": "https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk"
+        "name": "Jag borde g\u00e5",
+        "url": "https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw"
       },
       "artists": [
         {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
         }
       ],
-      "duration_ms": 182824,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT"
+      "duration_ms": 217026,
+      "name": "Jag borde g\u00e5",
+      "url": "https://open.spotify.com/track/2v9FTezxTq2caERaOKGgdr"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "Aldrig igen (Abandon)",
-      "url": "https://open.spotify.com/track/3JxqTgw4qnvWvOj4FfR7XY"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
         "name": "Du lever bara en g\u00e5ng",
         "url": "https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 184500,
       "name": "En sista chans",
       "url": "https://open.spotify.com/track/5MwZYdZ7MLDJtV5SVRaNmr"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Aldrig igen (Abandon)",
+      "url": "https://open.spotify.com/track/3JxqTgw4qnvWvOj4FfR7XY"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz"
+        "name": "Molly fr\u00e5n Fru\u00e4ngen",
+        "url": "https://open.spotify.com/album/2vQc4MLIdCDZzkSNdSwvB7"
       },
       "artists": [
         {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Ikv\u00e4ll tar vi \u00f6ver stan",
-      "url": "https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun"
+      "duration_ms": 228337,
+      "name": "Fru\u00e4ngen",
+      "url": "https://open.spotify.com/track/5foc3SckhG8CWzTq3JQ7w1"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Ikv\u00e4ll tar vi \u00f6ver stan",
+      "url": "https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
         "name": "My Body",
         "url": "https://open.spotify.com/album/74y1aev14ke4Wo4v7h02Dv"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 163231,
       "name": "My Body",
       "url": "https://open.spotify.com/track/6VJtEbhv2RRF0OcrwY6wbe"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
-        "name": "Molly fr\u00e5n Fru\u00e4ngen",
-        "url": "https://open.spotify.com/album/2vQc4MLIdCDZzkSNdSwvB7"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 228337,
-      "name": "Fru\u00e4ngen",
-      "url": "https://open.spotify.com/track/5foc3SckhG8CWzTq3JQ7w1"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "D\u00e5 \u00e4r det inte jag",
-        "url": "https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 207532,
-      "name": "D\u00e5 \u00e4r det inte jag",
-      "url": "https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
         "name": "Duktig flicka",
         "url": "https://open.spotify.com/album/7shSAZOh7CFRhNZs2MNLq7"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 184465,
       "name": "Duktig flicka",
       "url": "https://open.spotify.com/track/1xMUDBB8ZkfI9kQBzrE0eP"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "D\u00e5 \u00e4r det inte jag",
+        "url": "https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 207532,
+      "name": "D\u00e5 \u00e4r det inte jag",
+      "url": "https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Sv\u00e5rt att f\u00f6rl\u00e5ta",
-        "url": "https://open.spotify.com/album/5w1tBpgMghhcUHI25MUDe3"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 189393,
-      "name": "Sv\u00e5rt att f\u00f6rl\u00e5ta",
-      "url": "https://open.spotify.com/track/2YztAZvZvIGpeb0hT2vs7r"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
         "name": "Vad har du gjort med mig",
         "url": "https://open.spotify.com/album/3nR2oclY01lsVsDSPCeCgB"
       },
@@ -819,34 +803,18 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Discomforts",
-        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+        "name": "Sv\u00e5rt att f\u00f6rl\u00e5ta",
+        "url": "https://open.spotify.com/album/5w1tBpgMghhcUHI25MUDe3"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
         }
       ],
-      "duration_ms": 168497,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
-        "name": "Talk / Bye Bye",
-        "url": "https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
+      "duration_ms": 189393,
+      "name": "Sv\u00e5rt att f\u00f6rl\u00e5ta",
+      "url": "https://open.spotify.com/track/2YztAZvZvIGpeb0hT2vs7r"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -867,6 +835,38 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
+        "name": "Talk / Bye Bye",
+        "url": "https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "Discomforts",
+        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 168497,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
         "name": "L\u00e4tt",
         "url": "https://open.spotify.com/album/7nPeiml6nLN9Sm6l5DJ56t"
       },
@@ -879,38 +879,6 @@
       "duration_ms": 223626,
       "name": "L\u00e4tt",
       "url": "https://open.spotify.com/track/1rU3xTM0G4qQ0dfBhjTUCz"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
-        "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
-        "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
-      "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
-        "name": "Pink Velvet Theatre",
-        "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 275386,
-      "name": "All My Life - and then\u2026",
-      "url": "https://open.spotify.com/track/3YXzBX4UsYFPe11sUty9yS"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -943,6 +911,38 @@
       "duration_ms": 198000,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "Pink Velvet Theatre",
+        "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 275386,
+      "name": "All My Life - and then\u2026",
+      "url": "https://open.spotify.com/track/3YXzBX4UsYFPe11sUty9yS"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+        "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+      "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Hur ska jag sova inatt",
-        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        }
-      ],
-      "duration_ms": 161434,
-      "name": "Hur ska jag sova inatt",
-      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
         "name": "Hurts",
         "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 200655,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "Hur ska jag sova inatt",
+        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "duration_ms": 161434,
+      "name": "Hur ska jag sova inatt",
+      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "SAD ROMANCE",
-        "url": "https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        }
-      ],
-      "duration_ms": 174861,
-      "name": "Tiden l\u00e4ker alla s\u00e5r",
-      "url": "https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
         "name": "OK\u00c4ND MARK",
         "url": "https://open.spotify.com/album/2WdpOTMALyoIO3aJO95gCF"
       },
@@ -1207,22 +1191,6 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Other Girls",
-        "url": "https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 198334,
-      "name": "Other Girls",
-      "url": "https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
         "name": "S\u00e4kra kort",
         "url": "https://open.spotify.com/album/6pUqEAq1WoB1O9g7HWNuXL"
       },
@@ -1239,18 +1207,18 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Efter efterfesten",
-        "url": "https://open.spotify.com/album/0qb9fiPyMUDdTB5UmRhUpd"
+        "name": "Other Girls",
+        "url": "https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD"
       },
       "artists": [
         {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 203280,
-      "name": "Efter efterfesten",
-      "url": "https://open.spotify.com/track/4vpHmKY5BDiS5U7GDUGwEE"
+      "duration_ms": 198334,
+      "name": "Other Girls",
+      "url": "https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1271,6 +1239,22 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
+        "name": "SAD ROMANCE",
+        "url": "https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "duration_ms": 174861,
+      "name": "Tiden l\u00e4ker alla s\u00e5r",
+      "url": "https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
         "name": "All Over Town",
         "url": "https://open.spotify.com/album/321cYact51YEkdO42GqeVe"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 227106,
       "name": "All Over Town",
       "url": "https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Blue Ruin",
+      "url": "https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW"
+        "name": "Efter efterfesten",
+        "url": "https://open.spotify.com/album/0qb9fiPyMUDdTB5UmRhUpd"
       },
       "artists": [
         {
-          "name": "Say Lou Lou",
-          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
         }
       ],
-      "duration_ms": 250293,
-      "name": "Blue Ruin",
-      "url": "https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC"
+      "duration_ms": 203280,
+      "name": "Efter efterfesten",
+      "url": "https://open.spotify.com/track/4vpHmKY5BDiS5U7GDUGwEE"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
+        "name": "Samma Sak",
+        "url": "https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Hultgren",
+          "url": "https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW"
+        },
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Samma Sak",
+      "url": "https://open.spotify.com/track/0HVjpl9YfZd5z0KoqJAo6C"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
         "name": "KALLAX CARGO",
         "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
       },
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Samma Sak",
-        "url": "https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Hultgren",
-          "url": "https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW"
-        },
-        {
-          "name": "Albin Johns\u00e9n",
-          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Samma Sak",
-      "url": "https://open.spotify.com/track/0HVjpl9YfZd5z0KoqJAo6C"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
         "name": "\u00d6nskar det vore s\u00e5 enkelt",
         "url": "https://open.spotify.com/album/6UF1HqWxGmhwMJqwQ4CaQ8"
       },
@@ -1467,22 +1467,6 @@
       "duration_ms": 137476,
       "name": "\u00d6nskar det vore s\u00e5 enkelt",
       "url": "https://open.spotify.com/track/0dgzmvAuiFwU1b66y7gOPr"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
-        "name": "Wasted Years",
-        "url": "https://open.spotify.com/album/48UUllni9ssLwl8s3JQaMe"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 210077,
-      "name": "Wasted Years",
-      "url": "https://open.spotify.com/track/0N5APTm9GGa7V0guEq2Hus"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
+        "name": "Wasted Years",
+        "url": "https://open.spotify.com/album/48UUllni9ssLwl8s3JQaMe"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 210077,
+      "name": "Wasted Years",
+      "url": "https://open.spotify.com/track/0N5APTm9GGa7V0guEq2Hus"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
         "name": "Akta dig",
         "url": "https://open.spotify.com/album/4hcFFUgotmXQnIbbM3ifKo"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 140571,
       "name": "Akta dig",
       "url": "https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "Hello Cowboy",
+        "url": "https://open.spotify.com/album/07xIxp1A0Lm6euiBdGTmf4"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 185258,
+      "name": "Leave a Little Love Behind",
+      "url": "https://open.spotify.com/track/4Nk8zZ9TEjBb4NHgPHNq6k"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1539,22 +1555,6 @@
       "duration_ms": 183718,
       "name": "30 grader",
       "url": "https://open.spotify.com/track/5vgXUNzWWxOFSWM93PapZ3"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
-        "name": "Hello Cowboy",
-        "url": "https://open.spotify.com/album/07xIxp1A0Lm6euiBdGTmf4"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 185258,
-      "name": "Leave a Little Love Behind",
-      "url": "https://open.spotify.com/track/4Nk8zZ9TEjBb4NHgPHNq6k"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Stay Young",
-        "url": "https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79"
-      },
-      "artists": [
-        {
-          "name": "Ludwig Hart",
-          "url": "https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl"
-        }
-      ],
-      "duration_ms": 195954,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
         "name": "Hon \u00e4r vild",
         "url": "https://open.spotify.com/album/28dPgtLK8PND2rzZHCNwbk"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 144510,
       "name": "Hon \u00e4r vild",
       "url": "https://open.spotify.com/track/1Th1uvS3oPsZP30JiMuSHw"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "Stay Young",
+        "url": "https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Hart",
+          "url": "https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl"
+        }
+      ],
+      "duration_ms": 195954,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Out of My Mind",
-        "url": "https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 217294,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
-    },
-    {
-      "added_at": "2025-01-02 23:00:06",
-      "album": {
         "name": "H\u00f6r n\u00e5n mig",
         "url": "https://open.spotify.com/album/2gIaeRBhsHjrWtm8aTyibU"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 227250,
       "name": "H\u00f6r n\u00e5n mig",
       "url": "https://open.spotify.com/track/2V1G22JWj9SxlONKYjUMrG"
+    },
+    {
+      "added_at": "2025-01-02 23:00:06",
+      "album": {
+        "name": "Out of My Mind",
+        "url": "https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 217294,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
     },
     {
       "added_at": "2025-01-02 23:00:06",
@@ -1783,18 +1783,26 @@
     {
       "added_at": "2025-01-02 23:00:06",
       "album": {
-        "name": "Solen i den v\u00e4nstra",
-        "url": "https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q"
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/5qIs8wPgtWnBmb3M5ZIDvF"
       },
       "artists": [
         {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+          "name": "Daniel Javan",
+          "url": "https://open.spotify.com/artist/57zzhjfSo12jD4PSDCJot1"
+        },
+        {
+          "name": "Rivio",
+          "url": "https://open.spotify.com/artist/3kyvBibMHNR127br0XBKDO"
+        },
+        {
+          "name": "Dean Andrew",
+          "url": "https://open.spotify.com/artist/3FLv7WMZZhNVTAago3P4Xq"
         }
       ],
-      "duration_ms": 293083,
-      "name": "Solen i den v\u00e4nstra",
-      "url": "https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI"
+      "duration_ms": 152470,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/4wJ4UgipPD7grD9bk6ADRd"
     },
     {
       "added_at": "2025-01-02 23:00:06",

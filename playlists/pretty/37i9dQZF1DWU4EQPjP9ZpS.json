@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 320228,
+  "num_followers": 320274,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
+      },
+      "artists": [
+        {
+          "name": "FM Attack",
+          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
+        }
+      ],
+      "duration_ms": 200019,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Lynx",
         "url": "https://open.spotify.com/album/6bWCczrlwsGGc9B8wCFair"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 201933,
       "name": "Lynx",
       "url": "https://open.spotify.com/track/07RjOHhgQG6FsQHZhfcNdv"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
-      },
-      "artists": [
-        {
-          "name": "FM Attack",
-          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
-        }
-      ],
-      "duration_ms": 200019,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Exit simulation",
+        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 104337,
+      "name": "Procedurally Generated Corridor",
+      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1231,38 +1247,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Fire Magic",
-        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
-      },
-      "artists": [
-        {
-          "name": "Virtual Mage",
-          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Fire Magic",
-      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Exit simulation",
-        "url": "https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 104337,
-      "name": "Procedurally Generated Corridor",
-      "url": "https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Melatonin High (Rework 2021)",
         "url": "https://open.spotify.com/album/2sXLqJZI9hraRNOdAYBtdK"
       },
@@ -1279,22 +1263,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Downpour",
-        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
+        "name": "Fire Magic",
+        "url": "https://open.spotify.com/album/5I70VHdIilo0dbckapINnW"
       },
       "artists": [
         {
-          "name": "Sleepless-Nights",
-          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
-        },
-        {
-          "name": "Cosmic Cycler",
-          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
         }
       ],
-      "duration_ms": 484471,
-      "name": "Downpour",
-      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
+      "duration_ms": 197500,
+      "name": "Fire Magic",
+      "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1315,6 +1295,26 @@
       "duration_ms": 147280,
       "name": "Screensaver",
       "url": "https://open.spotify.com/track/0xEeYkUtQlXT2r7WO0uzRP"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Downpour",
+        "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
+      },
+      "artists": [
+        {
+          "name": "Sleepless-Nights",
+          "url": "https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE"
+        },
+        {
+          "name": "Cosmic Cycler",
+          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
+        }
+      ],
+      "duration_ms": 484471,
+      "name": "Downpour",
+      "url": "https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
-      },
-      "artists": [
-        {
-          "name": "datfootdive",
-          "url": "https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "stay",
-      "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Dusty Shelves",
         "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 156230,
       "name": "Entrust",
       "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518"
+      },
+      "artists": [
+        {
+          "name": "datfootdive",
+          "url": "https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI"
+        }
+      ],
+      "duration_ms": 72000,
+      "name": "stay",
+      "url": "https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        }
-      ],
-      "duration_ms": 176086,
-      "name": "Harlequin",
-      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "The 33rd Split",
         "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Polygon Paradise",
-        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
       },
       "artists": [
         {
-          "name": "Vaporwave Club",
-          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
         }
       ],
-      "duration_ms": 140678,
-      "name": "Monogon",
-      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
+      "duration_ms": 176086,
+      "name": "Harlequin",
+      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "VaporLoops, Vol. 1",
-        "url": "https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc"
+        "name": "Polygon Paradise",
+        "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
       },
       "artists": [
         {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "Vaporwave Club",
+          "url": "https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx"
         }
       ],
-      "duration_ms": 229269,
-      "name": "Misty Reflections",
-      "url": "https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3"
+      "duration_ms": 140678,
+      "name": "Monogon",
+      "url": "https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1575,6 +1559,22 @@
       "duration_ms": 106581,
       "name": "Island",
       "url": "https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "VaporLoops, Vol. 1",
+        "url": "https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 229269,
+      "name": "Misty Reflections",
+      "url": "https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Electric Elevator 2: Second Floor",
+        "url": "https://open.spotify.com/album/15uhjGCpE6oXgUFZSOPtkp"
+      },
+      "artists": [
+        {
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+        }
+      ],
+      "duration_ms": 182968,
+      "name": "Home Office",
+      "url": "https://open.spotify.com/track/4IiBBXXJEDmuv4Gn3PDjNB"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Electric Elevator 2: Second Floor",
-        "url": "https://open.spotify.com/album/15uhjGCpE6oXgUFZSOPtkp"
+        "name": "Illuminations",
+        "url": "https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo"
       },
       "artists": [
         {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
         }
       ],
-      "duration_ms": 182968,
-      "name": "Home Office",
-      "url": "https://open.spotify.com/track/4IiBBXXJEDmuv4Gn3PDjNB"
+      "duration_ms": 196363,
+      "name": "Veranda",
+      "url": "https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1715,22 +1731,6 @@
       "duration_ms": 176000,
       "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
       "url": "https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Illuminations",
-        "url": "https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Veranda",
-      "url": "https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe"
     }
   ],
   "unique_name": "vaporwave",

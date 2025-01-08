@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: White\-B
 
-3,020 songs - 6 day 16 hr 34 min
+3,021 songs - 6 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -906,7 +906,7 @@
 | [Faut pas](https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:18 | 2024-02-02 | 2024-04-13 |
 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 | 2024-03-15 | 2024-05-18 |
 | [Faut s'y mettre \(tellement\)](https://open.spotify.com/track/2FFFvXx5KGaua3459AO1bz) | [Anthony Gaudet](https://open.spotify.com/artist/2Acgfke9DIf3ZLRwiVMqCi) | [Faut s'y mettre \(tellement\)](https://open.spotify.com/album/0DpCxwwOVZ44AVV206Pk8e) | 2:49 | 2022-09-16 | 2022-09-24 |
-| [Faux Paradis](https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Faux Paradis](https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr) | 3:04 | 2024-12-13 |  |
+| [Faux Paradis](https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Faux Paradis](https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr) | 3:04 | 2024-12-13 | 2025-01-08 |
 | [Faux Soleil](https://open.spotify.com/track/0CM7NZiGAhkKKAFTOC53vD) | [Bozko](https://open.spotify.com/artist/55diYJnywqtU2R6FkjGGCS), [Taga](https://open.spotify.com/artist/3yb7X8fR1v1agIya64pWlr) | [Faux Soleil](https://open.spotify.com/album/2uHuenadoIMRD4Ss9b58aN) | 2:13 | 2022-05-27 | 2022-06-04 |
 | [Faya](https://open.spotify.com/track/4les0O6MtkBDgWlgrn3Q5j) | [J\-Ron](https://open.spotify.com/artist/2utc2XhGTLpg0RHMTtfQ9k) | [Faya](https://open.spotify.com/album/5GGK96cbzqshgbePSScGgs) | 3:05 | 2022-07-08 | 2022-07-30 |
 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 | 2023-09-15 | 2023-11-11 |
@@ -2861,6 +2861,7 @@
 | [VDM \(feat\. Leto\)](https://open.spotify.com/track/2Bgh9sUZDtRo43Z491TaBd) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [VDM \(feat\. Leto\)](https://open.spotify.com/album/3yC77NQtuhVxH0uLc8Jhvj) | 3:31 | 2024-02-02 | 2024-03-11 |
 | [Vendeur de bière](https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1) | [L'an 8000](https://open.spotify.com/album/7i55NtPr5ZQ1hsg42WemjU) | 2:48 | 2021-12-31 | 2022-01-15 |
 | [Vendredi](https://open.spotify.com/track/4hdSkfUs1LUisa1owTWqe4) | [Rouge Pompier](https://open.spotify.com/artist/6juqd2DiJxLYeldyOvjzql) | [Vendredi](https://open.spotify.com/album/0SMlVogwTii9DqvIetc129) | 3:34 | 2023-11-17 | 2023-11-25 |
+| [Vendredi soir](https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Vendredi soir](https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY) | 3:12 | 2025-01-03 |  |
 | [Verre de trop](https://open.spotify.com/track/3TP7rff5C07nasdDYOtVMD) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 2:39 | 2023-03-17 | 2023-04-15 |
 | [VERS LE SOLEIL](https://open.spotify.com/track/3p5XOcprH4snIOohtBxnPv) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [VERS LE SOLEIL](https://open.spotify.com/album/2oDjLFFA6rKnEMogxIJZ8Y) | 4:04 | 2022-05-27 | 2022-06-04 |
 | [Vertige](https://open.spotify.com/track/1ImplX8y9L2iv53JX2NkCy) | [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Vertige](https://open.spotify.com/album/2yoSmS2boP6CbLhUlZPciN) | 3:45 | 2022-07-01 | 2022-07-23 |

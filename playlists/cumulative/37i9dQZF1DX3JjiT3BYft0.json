@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
+  "description": "Music from \u201cBanG Dream! \u201c series! ",
+  "name": "BanG Dream!",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 267900,
       "name": "-N-E-M-E-S-I-S-",
       "url": "https://open.spotify.com/track/5skDEFT2MJYyNTrSf3pMlF"
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Bad Kids All Bet",
+        "url": "https://open.spotify.com/album/2Yb6OebNGpCjyTf4dddU7A"
+      },
+      "artists": [
+        {
+          "name": "RAISE A SUILEN",
+          "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "Bad Kids All Bet",
+      "url": "https://open.spotify.com/track/0y5QgAAEZoqStDtz5XGJlV"
+    },
+    {
+      "album": {
         "name": "ERA",
         "url": "https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD"
       },
@@ -380,6 +398,36 @@
       "duration_ms": 277500,
       "name": "Blessing Chord",
       "url": "https://open.spotify.com/track/7nMYeKL40J7wNBxm0i5ruo"
+    },
+    {
+      "album": {
+        "name": "Blessing Chord (\u30d1\u30e9\u30ec\u30ebver.)",
+        "url": "https://open.spotify.com/album/3OvUzC1Qv0e9xaHV48n0lh"
+      },
+      "artists": [
+        {
+          "name": "I\u2661\u30a4\u30f3\u30c9\u30a2",
+          "url": "https://open.spotify.com/artist/0HydIryDI0cb2xdizA8MRu"
+        },
+        {
+          "name": "\u5e02\u30f6\u8c37\u6709\u54b2(CV\uff1a\u4f0a\u85e4\u5f69\u6c99)",
+          "url": "https://open.spotify.com/artist/0wm8M1C1O0Str979kE7MUR"
+        },
+        {
+          "name": "\u767d\u91d1\u71d0\u5b50(CV\uff1a\u5fd7\u5d0e\u6a3a\u97f3)",
+          "url": "https://open.spotify.com/artist/4Ra3Di0TwwE4lFA21m1Hbj"
+        },
+        {
+          "name": "\u5009\u7530\u307e\u3057\u308d(CV\uff1a\u9032\u85e4\u3042\u307e\u306d)",
+          "url": "https://open.spotify.com/artist/5uMq5LpiCbQAuyx2t3oUFW"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276233,
+      "name": "Blessing Chord (\u30d1\u30e9\u30ec\u30ebver.)",
+      "url": "https://open.spotify.com/track/2lfs1l1xaVOxrFNqKZrAkk"
     },
     {
       "album": {
@@ -1180,7 +1228,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 285665,
       "name": "Ether",
       "url": "https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v"
@@ -2012,6 +2060,24 @@
       "duration_ms": 246266,
       "name": "Keep Heart",
       "url": "https://open.spotify.com/track/1eanLmF0Q6F3UbwZMlfPS6"
+    },
+    {
+      "album": {
+        "name": "KiLLKiSS",
+        "url": "https://open.spotify.com/album/54Hg1DhcIcnRz3BeqUew1p"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208772,
+      "name": "KiLLKiSS",
+      "url": "https://open.spotify.com/track/4m9bU1ifWPGprAtAab3VZn"
     },
     {
       "album": {
@@ -3638,7 +3704,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 239092,
       "name": "Symbol IV : Earth",
       "url": "https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5"
@@ -3656,7 +3722,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 239093,
       "name": "Symbol IV : Earth",
       "url": "https://open.spotify.com/track/6kbss4tmwNu4bYrAfpR51J"
@@ -7502,7 +7568,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 211373,
       "name": "\u8ff7\u661f\u53eb",
       "url": "https://open.spotify.com/track/17XvFKtkd5vgB6yW0ob2R9"

@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 100858,
       "name": "70s",
       "url": "https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 73500,
       "name": "All My Ladies",
       "url": "https://open.spotify.com/track/3rIrIajLfPH2pom9OLlJwY"
@@ -717,6 +717,28 @@
     },
     {
       "album": {
+        "name": "Bbl Drizzy (Jersey Club)",
+        "url": "https://open.spotify.com/album/1UTiZHIMa2jspPMZWdyVFZ"
+      },
+      "artists": [
+        {
+          "name": "Fazobeats",
+          "url": "https://open.spotify.com/artist/5fpOmsbbaKJNE4hqbPzMhT"
+        },
+        {
+          "name": "ProdByAbnormal",
+          "url": "https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128004,
+      "name": "Bbl Drizzy (Jersey Club)",
+      "url": "https://open.spotify.com/track/4FlUWawGvc3f1xV78SVEPx"
+    },
+    {
+      "album": {
         "name": "BE FORREAL",
         "url": "https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h"
       },
@@ -806,7 +828,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 225175,
       "name": "Beat it Up 2k23",
       "url": "https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj"
@@ -1082,7 +1104,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 144065,
       "name": "Boo'd Up (Jersey Club)",
       "url": "https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA"
@@ -1958,7 +1980,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 128000,
       "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
       "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
@@ -2377,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Garden Kisses (Jersey Club)",
+        "url": "https://open.spotify.com/album/2Ti1ZCceE5gjPl0rot3YvC"
+      },
+      "artists": [
+        {
+          "name": "noturgf",
+          "url": "https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110250,
+      "name": "Garden Kisses - Jersey Club",
+      "url": "https://open.spotify.com/track/5GXxbbiPn4zcjWhP0nyRgN"
+    },
+    {
+      "album": {
         "name": "Get It TT Challenge",
         "url": "https://open.spotify.com/album/7lX2lIMHg5QKauvcwwvt8u"
       },
@@ -2450,7 +2490,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 124393,
       "name": "Girls Wanna Have Fun",
       "url": "https://open.spotify.com/track/0CAoC5v4ACbffXKaOp6VcE"
@@ -3032,6 +3072,24 @@
       "duration_ms": 152593,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
+    },
+    {
+      "album": {
+        "name": "I Like It (Jersey Club)",
+        "url": "https://open.spotify.com/album/1YcKWxKI6L1GFHQKqReRMN"
+      },
+      "artists": [
+        {
+          "name": "Fazobeats",
+          "url": "https://open.spotify.com/artist/5fpOmsbbaKJNE4hqbPzMhT"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93554,
+      "name": "I Like It - Jersey Club",
+      "url": "https://open.spotify.com/track/5qv88TiHN37d0O9F45xfCj"
     },
     {
       "album": {
@@ -4646,6 +4704,28 @@
       "duration_ms": 98208,
       "name": "Nobody's Perfect - Original Mix",
       "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
+    },
+    {
+      "album": {
+        "name": "now rock",
+        "url": "https://open.spotify.com/album/7FdDt6ToaawcKKfJJOg2p1"
+      },
+      "artists": [
+        {
+          "name": "gangwalkk",
+          "url": "https://open.spotify.com/artist/5CfPXXv7fxuj8CeegMa5hK"
+        },
+        {
+          "name": "Rrodney",
+          "url": "https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170710,
+      "name": "now rock",
+      "url": "https://open.spotify.com/track/0sLiGUOYYRQ2pzJgijFCNm"
     },
     {
       "album": {

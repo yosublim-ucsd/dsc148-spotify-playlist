@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAd2bANNI+2adsY0AQ5H3KT+VAYIHY/",
+  "snapshot_id": "AAAd2gAhBAswvO49ijuEWwMh9zVsFEyo",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -3283,6 +3283,26 @@
       "duration_ms": 225347,
       "name": "Ridin Strikers",
       "url": "https://open.spotify.com/track/6PHbWsTTlmQKF9i9VC1KFv"
+    },
+    {
+      "added_at": "2025-01-07 22:32:33",
+      "album": {
+        "name": "Like Spike",
+        "url": "https://open.spotify.com/album/00ilJ2EvWO9HSIQWq8xTLX"
+      },
+      "artists": [
+        {
+          "name": "CHASETHEMONEY",
+          "url": "https://open.spotify.com/artist/1OuuJcg5OofM36OyEzoB2X"
+        },
+        {
+          "name": "Baby Smoove",
+          "url": "https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy"
+        }
+      ],
+      "duration_ms": 107760,
+      "name": "Like Spike",
+      "url": "https://open.spotify.com/track/4KY57NMk1n64RQmnkd7OHZ"
     }
   ],
   "unique_name": "main ",

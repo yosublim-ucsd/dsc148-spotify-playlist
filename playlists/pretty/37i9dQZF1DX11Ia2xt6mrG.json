@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
-  "num_followers": 61082,
+  "num_followers": 61135,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -271,30 +271,6 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Quemando Papel",
-        "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
-      },
-      "artists": [
-        {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Quemando Papel",
-      "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
         "name": "NIENTIENDO",
         "url": "https://open.spotify.com/album/0cq6E8PgDiEOnV0CCpXEVy"
       },
@@ -319,22 +295,26 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "\u00d1EROSTARS",
-        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+        "name": "Quemando Papel",
+        "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
         },
         {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
         }
       ],
-      "duration_ms": 190169,
-      "name": "Todo Tiene Su Final",
-      "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
+      "duration_ms": 194645,
+      "name": "Quemando Papel",
+      "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -363,6 +343,26 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 190169,
+      "name": "Todo Tiene Su Final",
+      "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 188706,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Movie Star",
-        "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
-      },
-      "artists": [
-        {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 357703,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
-    },
-    {
-      "added_at": "2024-12-06 17:24:21",
-      "album": {
         "name": "Pump up the Volume",
         "url": "https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8"
       },
@@ -1599,22 +1579,22 @@
     {
       "added_at": "2024-12-06 17:24:21",
       "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
         },
         {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+      "duration_ms": 357703,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
     },
     {
       "added_at": "2024-12-06 17:24:21",
@@ -1635,6 +1615,26 @@
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
+    },
+    {
+      "added_at": "2024-12-06 17:24:21",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2024-12-06 17:24:21",

@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 488834,
+  "num_followers": 489052,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV"
     },
     {
-      "added_at": "2024-10-18 13:40:11",
-      "album": {
-        "name": "HOME IS CHANGING",
-        "url": "https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O"
-      },
-      "artists": [
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "ATARAXIA",
-      "url": "https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "ALPHA",
@@ -495,6 +479,22 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2024-10-18 13:40:11",
+      "album": {
+        "name": "HOME IS CHANGING",
+        "url": "https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O"
+      },
+      "artists": [
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "ATARAXIA",
+      "url": "https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
-      "added_at": "2024-05-02 22:57:54",
-      "album": {
-        "name": "Love from the Other Side",
-        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 249405,
-      "name": "Love from the Other Side",
-      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
-    },
-    {
       "added_at": "2023-12-20 03:34:06",
       "album": {
         "name": "Loveher",
@@ -623,6 +607,22 @@
       "duration_ms": 229346,
       "name": "Loveher",
       "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
+    },
+    {
+      "added_at": "2024-05-02 22:57:54",
+      "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
     },
     {
-      "added_at": "2022-09-29 00:10:44",
-      "album": {
-        "name": "Mercurial World (Deluxe)",
-        "url": "https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 189004,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
-    },
-    {
       "added_at": "2021-10-28 19:01:32",
       "album": {
         "name": "Time to Melt",
@@ -791,6 +775,22 @@
       "duration_ms": 258026,
       "name": "Dream Free",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2022-09-29 00:10:44",
+      "album": {
+        "name": "Mercurial World (Deluxe)",
+        "url": "https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 189004,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
     },
     {
       "added_at": "2024-07-09 04:54:48",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
     },
     {
-      "added_at": "2022-12-07 04:04:10",
-      "album": {
-        "name": "head down",
-        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
-      },
-      "artists": [
-        {
-          "name": "Habe",
-          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
-        }
-      ],
-      "duration_ms": 148304,
-      "name": "head down",
-      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
-    },
-    {
       "added_at": "2023-04-05 03:20:02",
       "album": {
         "name": "For Granted",
@@ -951,6 +935,22 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+    },
+    {
+      "added_at": "2022-12-07 04:04:10",
+      "album": {
+        "name": "head down",
+        "url": "https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ"
+      },
+      "artists": [
+        {
+          "name": "Habe",
+          "url": "https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW"
+        }
+      ],
+      "duration_ms": 148304,
+      "name": "head down",
+      "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV"
     },
     {
-      "added_at": "2024-07-09 04:55:40",
-      "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
-    },
-    {
       "added_at": "2022-09-09 13:33:50",
       "album": {
         "name": "Look To Him",
@@ -1031,6 +1015,22 @@
       "duration_ms": 251533,
       "name": "Look To Him",
       "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
+    },
+    {
+      "added_at": "2024-07-09 04:55:40",
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2023-02-21 02:56:05",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak"
     },
     {
-      "added_at": "2023-12-20 03:34:06",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Run A Red Light",
-      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
-    },
-    {
       "added_at": "2022-01-12 18:14:24",
       "album": {
         "name": "ocean tales",
@@ -1099,6 +1083,22 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
+    },
+    {
+      "added_at": "2023-12-20 03:34:06",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
     },
     {
       "added_at": "2024-07-09 04:30:16",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
-      "added_at": "2022-08-13 01:09:13",
-      "album": {
-        "name": "Marci",
-        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
-      },
-      "artists": [
-        {
-          "name": "Marci",
-          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
-        }
-      ],
-      "duration_ms": 209873,
-      "name": "Immaterial Girl",
-      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
-    },
-    {
       "added_at": "2024-01-03 18:42:32",
       "album": {
         "name": "So Pacific",
@@ -1255,6 +1239,22 @@
       "duration_ms": 213956,
       "name": "So Pacific",
       "url": "https://open.spotify.com/track/5YLwJT8yaC5jLDGjhN4yXF"
+    },
+    {
+      "added_at": "2022-08-13 01:09:13",
+      "album": {
+        "name": "Marci",
+        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
+      },
+      "artists": [
+        {
+          "name": "Marci",
+          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
+        }
+      ],
+      "duration_ms": 209873,
+      "name": "Immaterial Girl",
+      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
     },
     {
       "added_at": "2023-09-25 02:40:58",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
-      "added_at": "2022-01-26 18:13:44",
-      "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Virtual U",
@@ -1523,6 +1507,22 @@
       "duration_ms": 302190,
       "name": "Virtual U",
       "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
+    },
+    {
+      "added_at": "2022-01-26 18:13:44",
+      "album": {
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Tru Love",
-        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 198084,
-      "name": "Tru Love",
-      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey"
       },
@@ -1615,26 +1599,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "pop songs 2020",
-        "url": "https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF"
+        "name": "Tru Love",
+        "url": "https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8"
       },
       "artists": [
         {
-          "name": "BUMPER",
-          "url": "https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV"
-        },
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        },
-        {
-          "name": "Ryan Galloway",
-          "url": "https://open.spotify.com/artist/0NK0Nuqcb2sZGqJ3tWYpyo"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 207535,
-      "name": "Black Light",
-      "url": "https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT"
+      "duration_ms": 198084,
+      "name": "Tru Love",
+      "url": "https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1667,6 +1643,30 @@
       "duration_ms": 172320,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/6zCnQMobnm85NlmYwaj54Q"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "pop songs 2020",
+        "url": "https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF"
+      },
+      "artists": [
+        {
+          "name": "BUMPER",
+          "url": "https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV"
+        },
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        {
+          "name": "Ryan Galloway",
+          "url": "https://open.spotify.com/artist/0NK0Nuqcb2sZGqJ3tWYpyo"
+        }
+      ],
+      "duration_ms": 207535,
+      "name": "Black Light",
+      "url": "https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT"
     },
     {
       "added_at": "2021-10-15 03:01:31",

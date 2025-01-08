@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 143283,
       "name": "Jhoote Laare",
       "url": "https://open.spotify.com/track/2t2D0QjGOscAMxo7arMT6Z"
@@ -3146,6 +3146,36 @@
       "duration_ms": 200474,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/4tYzK8WBdYB609O0jKRVGC"
+    },
+    {
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/305KJcXEeB9RCZuYxZess4"
+      },
+      "artists": [
+        {
+          "name": "Mannat Noor",
+          "url": "https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp"
+        },
+        {
+          "name": "G Guri",
+          "url": "https://open.spotify.com/artist/1wyLADmnHMGhDbTEOcGrwA"
+        },
+        {
+          "name": "Babbu Brar",
+          "url": "https://open.spotify.com/artist/5iVo4PE7XoDT1eDEh65gKj"
+        },
+        {
+          "name": "Navdeesh Arora",
+          "url": "https://open.spotify.com/artist/7kU8gQOzNhp7JsuEFBic7R"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223304,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/2Z9d3935U8kg8cExrI33jd"
     },
     {
       "album": {

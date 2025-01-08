@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Javier Blake en portada.",
-  "num_followers": 32371,
+  "num_followers": 32391,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Cliente Frecuente",
-        "url": "https://open.spotify.com/album/5cVg6TTXQvrzD7YaVvoY2Q"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 169556,
-      "name": "Cliente Frecuente",
-      "url": "https://open.spotify.com/track/21Rty7kWQngfzDLqRBDJzh"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Llamada Perdida",
         "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Cliente Frecuente",
+        "url": "https://open.spotify.com/album/5cVg6TTXQvrzD7YaVvoY2Q"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 169556,
+      "name": "Cliente Frecuente",
+      "url": "https://open.spotify.com/track/21Rty7kWQngfzDLqRBDJzh"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
         "name": "Hablar de Flores",
         "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 189551,
       "name": "Hablar de Flores",
       "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
-        "name": "Narvarte",
-        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "Prometimos",
-      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "\u00daltimo D\u00eda",
-      "url": "https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Que Somos (Remix)",
         "url": "https://open.spotify.com/album/6VOLzbfFo0ZvTtywKLRqDZ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 185678,
       "name": "Que Somos - Remix",
       "url": "https://open.spotify.com/track/57gyk5Nu81GRzC55glFN95"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/71vi2JGeiJNNjmNy1Ua31r"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "\u00daltimo D\u00eda",
+      "url": "https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -951,26 +951,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "A C\u00e1mara Lenta",
-        "url": "https://open.spotify.com/album/3tUp1EwaPobnuLU14EwmsF"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "A C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/1iKFiYONcwgZQK1pZEFBbg"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Marta tiene un marcapasos",
         "url": "https://open.spotify.com/album/3MMHQ8sRJO9QW6znUhgQBW"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 178535,
       "name": "Marta tiene un marcapasos",
       "url": "https://open.spotify.com/track/7shspTz6FNQstsNXsKPiGe"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "A C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/3tUp1EwaPobnuLU14EwmsF"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "A C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/1iKFiYONcwgZQK1pZEFBbg"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Pienso En Vos",
-        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Pienso En Vos",
-      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "El para\u00edso #2",
         "url": "https://open.spotify.com/album/64GURwXiHXbcjdCIxk6Bpu"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 174629,
       "name": "El para\u00edso #2",
       "url": "https://open.spotify.com/track/0Sk0gQDXrdlrCFk8xFYOrx"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Pienso En Vos",
+        "url": "https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Pienso En Vos",
+      "url": "https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Antes de que apague el sol",
         "url": "https://open.spotify.com/album/5JIWBd8fxFUALqYyJw6ltf"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
         }
       ],
-      "duration_ms": 193360,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -1307,6 +1291,22 @@
       "duration_ms": 245586,
       "name": "Rey Ahogado",
       "url": "https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9"
     },
     {
       "added_at": "2025-01-03 06:00:20",

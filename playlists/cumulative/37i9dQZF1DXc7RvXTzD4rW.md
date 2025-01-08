@@ -4,7 +4,7 @@
 
 > A collection of music from voice actors/ actresses in Japan\. Cover:Miho Okasaki
 
-465 songs - 1 day 6 hr 48 min
+466 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Invincible Love](https://open.spotify.com/track/0AGbLFnswjmsuNCl8Uqb3m) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Invincible Love](https://open.spotify.com/album/2MdBFOCJlHfVVdERAGFY4W) | 3:54 | 2023-02-03 | 2023-04-26 |
 | [Issen Mankai Hug Nanda](https://open.spotify.com/track/470YNERPfTa62WU5Kc2KKm) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Issen Mankai Hug Nanda](https://open.spotify.com/album/1trzpISQxHdfKvwzTx5zU3) | 4:24 | 2022-12-21 | 2023-01-14 |
 | [JACKPOT JOKER](https://open.spotify.com/track/1niQl25M1KWfuRyKj150zQ) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [JACKPOT JOKER](https://open.spotify.com/album/6bsveu5J0deYPpEjLprzY6) | 4:42 | 2024-03-19 | 2024-04-13 |
+| [JOY!!](https://open.spotify.com/track/5jc5lzeYJHXX9QEzh3IHza) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [JOY!!](https://open.spotify.com/album/3t79dOxTADtvd5le5TmuDq) | 3:21 | 2025-01-07 |  |
 | [Joyful](https://open.spotify.com/track/2zRLLFvhcAlfqPTt5dzd2Y) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Joyful](https://open.spotify.com/album/1aB0YGK9wQktijd3N9W84d) | 3:36 | 2023-09-22 | 2023-10-13 |
 | [Just a little bit](https://open.spotify.com/track/0C5XMxcTleuBCRE1F89AQB) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [Just a little bit](https://open.spotify.com/album/7rBC4zRreOc5U16g48oOnh) | 3:47 | 2023-04-25 | 2023-06-01 |
 | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/album/7dNZvllHiZ4x3z89gM9JoJ) | 4:49 | 2023-09-22 | 2024-04-13 |
@@ -447,7 +448,7 @@
 | [箱庭の幸福](https://open.spotify.com/track/1OCE0YptdrXn8h31fzkwT2) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [箱庭の幸福](https://open.spotify.com/album/1Ln2bsxA0nLjlsMtsoS4R2) | 4:55 | 2022-05-31 | 2022-07-14 |
 | [約束のOverture \- リアレンジバージョン](https://open.spotify.com/track/0G93wdmkCJ576eHSwZK9yZ) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Good For](https://open.spotify.com/album/2gNrUIMXZSJwRg2qlJ6K5e) | 4:18 | 2022-05-31 | 2022-07-29 |
 | [終焉のDestiny](https://open.spotify.com/track/6NdiMgPfwfmjvfLpUYBJjc) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [終焉のDestiny](https://open.spotify.com/album/47QURrkAfB80PiwXbLesqv) | 3:29 | 2023-04-25 | 2023-11-11 |
-| [絆創膏](https://open.spotify.com/track/3ct9qVfFddPNrnPH0woecU) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [絆創膏](https://open.spotify.com/album/7ePL3Prq6zJf9o0gwGuE6c) | 3:49 | 2025-01-07 |  |
+| [絆創膏](https://open.spotify.com/track/3ct9qVfFddPNrnPH0woecU) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [絆創膏](https://open.spotify.com/album/7ePL3Prq6zJf9o0gwGuE6c) | 3:49 | 2025-01-07 | 2025-01-08 |
 | [群青インフィニティ \(Acoustic Live\)](https://open.spotify.com/track/4faFuTVgP5dD6u3RqgNzIy) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [NAO TOYAMA Billboard Live 2024 “p.rhythm” \(Special Edition\)](https://open.spotify.com/album/1JuPQXH4CeP1I8bubq5INi) | 5:43 | 2025-01-07 |  |
 | [聴こえる?](https://open.spotify.com/track/7GcvnBOg6XvRLSiZkbMxMf) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [聴こえる?](https://open.spotify.com/album/4EHOHkOBpbMRs8JCjzt4T8) | 4:05 | 2022-05-31 | 2022-07-29 |
 | [色違いの糸束](https://open.spotify.com/track/5xPI7VtyFnqbGYmfpcYstH) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [色違いの糸束](https://open.spotify.com/album/6BvvtGIXs0hVyBWq758vUo) | 4:28 | 2022-08-05 | 2022-08-31 |

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain](/playlists/plain/37i9dQZF1DX8vpLK1FoEw3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8vpLK1FoEw3)
 
-### [Um BELO Ano Novo](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
+### [Um BELO 2025](https://open.spotify.com/playlist/37i9dQZF1DX8vpLK1FoEw3)
 
 > Deu 00h, é hora de se Reinventar!! Que 2025 seja um <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a>  ano para todos!!! \#MeuSpotify feita por Belo
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,765 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,771 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 49 | [Pura Adrenalina \- Ao Vivo](https://open.spotify.com/track/43VDWEYXNozZ5VSfKS8Jgc) | [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Pura Adrenalina \(Ao Vivo\)](https://open.spotify.com/album/5YnGvLrYfB8tfiMN3Wwa3k) | 4:07 |
 | 50 | [Lambada De Serpente](https://open.spotify.com/track/5VHL3pHhL12Mjug8g8hAjt) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Alumbramento & Cara De Indio](https://open.spotify.com/album/49FoSOvDEIIWBiUcgQMxOU) | 2:55 |
 
-Snapshot ID: `Z24YUgAAAABZk2ySsX0iUViQKg0gFNpr`
+Snapshot ID: `Z31J1wAAAABYhcNC2DAhziVQuTcKAIlh`

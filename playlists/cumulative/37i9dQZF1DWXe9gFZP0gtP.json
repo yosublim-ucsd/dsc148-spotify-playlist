@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Divino",
+        "url": "https://open.spotify.com/album/1ibmlqnuhuA4a1XOBUbHPf"
+      },
+      "artists": [
+        {
+          "name": "Volta Celeste",
+          "url": "https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Divino",
+      "url": "https://open.spotify.com/track/7BAEA2vhxnEVHXmwVzfACt"
+    },
+    {
+      "album": {
         "name": "Do We Really Know",
         "url": "https://open.spotify.com/album/0LRCtNt8B7iIolAz6y2Gxx"
       },
@@ -1878,6 +1896,24 @@
       "duration_ms": 201000,
       "name": "Dormiveglia",
       "url": "https://open.spotify.com/track/59wYGLIGo4rMqIXcteuFd2"
+    },
+    {
+      "album": {
+        "name": "Dream Vision",
+        "url": "https://open.spotify.com/album/3siMOt2YviDaqAubEpPixV"
+      },
+      "artists": [
+        {
+          "name": "Hector Warrens",
+          "url": "https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "Dream Vision",
+      "url": "https://open.spotify.com/track/6Gq98qETyw5wYA9y0zyyPV"
     },
     {
       "album": {
@@ -1968,6 +2004,24 @@
       "duration_ms": 240185,
       "name": "Drift",
       "url": "https://open.spotify.com/track/3K202vUOi7UMALeb7udcTa"
+    },
+    {
+      "album": {
+        "name": "Drifting Through Time",
+        "url": "https://open.spotify.com/album/1B190XLYUoQtstxMJBo2TF"
+      },
+      "artists": [
+        {
+          "name": "Jorin Williams",
+          "url": "https://open.spotify.com/artist/5sKdm7FEijRv1JQfPHwrc7"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137687,
+      "name": "Drifting Through Time",
+      "url": "https://open.spotify.com/track/4k0Ytghuul9KbJBWCZJgyK"
     },
     {
       "album": {
@@ -3120,7 +3174,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 190000,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/2XlCYHSgtAgxJm7l6UUQXl"
@@ -3444,7 +3498,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 210166,
       "name": "Illustratosphere",
       "url": "https://open.spotify.com/track/5YZGwFeQxvTrgUFa4Fmtth"
@@ -3682,6 +3736,24 @@
       "duration_ms": 195600,
       "name": "Innervate",
       "url": "https://open.spotify.com/track/2ZUsvuyl43t1oqiwGaHMt7"
+    },
+    {
+      "album": {
+        "name": "Innovation",
+        "url": "https://open.spotify.com/album/4LVEhQt8tbLDaLx50bDVPe"
+      },
+      "artists": [
+        {
+          "name": "Solitary Sun",
+          "url": "https://open.spotify.com/artist/04SEbGYbxfXBnXj8kvXyVg"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173841,
+      "name": "Innovation",
+      "url": "https://open.spotify.com/track/03u2DfpiI7MmAGfigT89PU"
     },
     {
       "album": {
@@ -4783,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "Mu",
+        "url": "https://open.spotify.com/album/6893AcTPpaEg7AyyCi0lwJ"
+      },
+      "artists": [
+        {
+          "name": "Bayesian",
+          "url": "https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157767,
+      "name": "Mu",
+      "url": "https://open.spotify.com/track/0TcMJaa7AS7iAIjODoEG2y"
+    },
+    {
+      "album": {
         "name": "Muer",
         "url": "https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4"
       },
@@ -5622,7 +5712,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 162592,
       "name": "Pulsar",
       "url": "https://open.spotify.com/track/1DS4QEIy4juYscI1xWYnad"
@@ -6756,7 +6846,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 145000,
       "name": "Sons Apaisants",
       "url": "https://open.spotify.com/track/020AF2ZkmpfBL1AeLXcHmB"
@@ -8077,6 +8167,24 @@
     },
     {
       "album": {
+        "name": "When You Feel",
+        "url": "https://open.spotify.com/album/6O5CNFZmFf4YqY2bNu2VZ4"
+      },
+      "artists": [
+        {
+          "name": "Lumen Sonitus",
+          "url": "https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173341,
+      "name": "When You Feel",
+      "url": "https://open.spotify.com/track/1CWZw2kURWX9xDfMgInLO3"
+    },
+    {
+      "album": {
         "name": "Where Dreams Begin",
         "url": "https://open.spotify.com/album/0PsJWHZYcrJYa6TOIBamrD"
       },
@@ -8182,6 +8290,24 @@
       "duration_ms": 163422,
       "name": "Winters Sleep",
       "url": "https://open.spotify.com/track/4LyDHXJDTfFSxuhpivXgGd"
+    },
+    {
+      "album": {
+        "name": "Wishful",
+        "url": "https://open.spotify.com/album/6wOdhsDybQ7spFm4ZunSzK"
+      },
+      "artists": [
+        {
+          "name": "Placidous",
+          "url": "https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Wishful",
+      "url": "https://open.spotify.com/track/1Uo8DN8pMJ5BaVN0bSdjjW"
     },
     {
       "album": {

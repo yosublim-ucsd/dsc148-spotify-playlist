@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 247814,
       "name": "DESPAIR",
       "url": "https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy"
@@ -2522,6 +2522,32 @@
       "duration_ms": 198857,
       "name": "Forgive Forget",
       "url": "https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q"
+    },
+    {
+      "album": {
+        "name": "Fuck It Up",
+        "url": "https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132974,
+      "name": "Fuck It Up",
+      "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
     },
     {
       "album": {
@@ -5686,7 +5712,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L"
@@ -7722,6 +7748,24 @@
       "duration_ms": 232000,
       "name": "Torture",
       "url": "https://open.spotify.com/track/4Z3lOky8FsA5o53jM9nQg4"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/6QqqFdBO5ZRdf4xkTF8NTY"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144335,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
     },
     {
       "album": {

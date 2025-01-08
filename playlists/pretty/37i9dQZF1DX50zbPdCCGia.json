@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 261170,
+  "num_followers": 261310,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "One of These Nights (2013 Remaster)",
         "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 291685,
       "name": "One of These Nights - 2013 Remaster",
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 257962,
-      "name": "Peaceful Easy Feeling - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Rocky Mountain High",
         "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 283640,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 257962,
+      "name": "Peaceful Easy Feeling - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Little River Band (Remastered 2022)",
-        "url": "https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC"
+        "name": "Ambrosia",
+        "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
       },
       "artists": [
         {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        },
+        {
+          "name": "Alan Parsons",
+          "url": "https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG"
         }
       ],
-      "duration_ms": 522633,
-      "name": "It's A Long Way There - Remastered 2022",
-      "url": "https://open.spotify.com/track/6eVtCSzb3ZKRAA37dQWzbb"
+      "duration_ms": 256160,
+      "name": "Holdin' on to Yesterday",
+      "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Ambrosia",
-        "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
+        "name": "Little River Band (Remastered 2022)",
+        "url": "https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC"
       },
       "artists": [
         {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        },
-        {
-          "name": "Alan Parsons",
-          "url": "https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG"
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
         }
       ],
-      "duration_ms": 256160,
-      "name": "Holdin' on to Yesterday",
-      "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
+      "duration_ms": 522633,
+      "name": "It's A Long Way There - Remastered 2022",
+      "url": "https://open.spotify.com/track/6eVtCSzb3ZKRAA37dQWzbb"
     },
     {
       "added_at": "2023-03-29 17:34:27",

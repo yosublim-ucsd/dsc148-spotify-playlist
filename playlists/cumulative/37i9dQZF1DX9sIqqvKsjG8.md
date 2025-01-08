@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-915 songs - 1 day 15 hr 6 min
+917 songs - 1 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Agile](https://open.spotify.com/track/6mib8jl6fASfaAahkDoCr8) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Agile](https://open.spotify.com/album/5aaxGHW6MyyYF8TSjBeGyF) | 3:26 | 2021-12-07 | 2022-05-06 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2021-12-07 | 2022-11-12 |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 | 2023-07-26 |
-| [All I Hear Is Birds,](https://open.spotify.com/track/15hyn4FNUMbHexh7kLvb0e) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [All I Hear Is Birds,](https://open.spotify.com/album/0Bon3Uwy0rkElLuBz1YV71) | 2:47 | 2023-05-03 |  |
+| [All I Hear Is Birds,](https://open.spotify.com/track/15hyn4FNUMbHexh7kLvb0e) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [All I Hear Is Birds,](https://open.spotify.com/album/0Bon3Uwy0rkElLuBz1YV71) | 2:47 | 2023-05-03 | 2025-01-08 |
 | [All The Way](https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8) | [Thane Oliverson](https://open.spotify.com/artist/0AsFKDsc3IkADjvtPBEI5k) | [All The Way](https://open.spotify.com/album/0X7ZASZKFRhy6ANYCXl3RI) | 2:41 | 2021-12-07 | 2022-11-25 |
 | [Almonte](https://open.spotify.com/track/7zIIyNRGYpFSCtEf2SfcrL) | [Paco Ruiz](https://open.spotify.com/artist/0u9wDbPkhtpcLsufDJ4zc8) | [Almonte](https://open.spotify.com/album/5VJsgBNa4q6FyUIN3Bpvkp) | 2:31 | 2021-12-07 | 2022-10-14 |
 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 | 2023-02-06 |  |
@@ -164,7 +164,7 @@
 | [Completion](https://open.spotify.com/track/1mL8ZN23Rv9J4pNFp9lLCe) | [Roads to Doheny](https://open.spotify.com/artist/5m4Jvb3zpdQiDsauKHtD3b) | [Completion](https://open.spotify.com/album/1h8lJ0SeWAGouw7frZLAqq) | 2:01 | 2021-12-07 | 2022-10-14 |
 | [Con Cupido](https://open.spotify.com/track/54eceUoCcFJUi1YV20rXfY) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Con Cupido](https://open.spotify.com/album/09LK6yRnnWz7pm6QIesK95) | 1:56 | 2023-02-28 | 2023-07-26 |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-12-07 | 2023-10-07 |
-| [Concepts](https://open.spotify.com/track/2VRtvXFwINloiZyYE5GGNG) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Concepts](https://open.spotify.com/album/32MCK2MQSiyfyQxGElbKuy) | 2:30 | 2022-10-04 |  |
+| [Concepts](https://open.spotify.com/track/2VRtvXFwINloiZyYE5GGNG) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Concepts](https://open.spotify.com/album/32MCK2MQSiyfyQxGElbKuy) | 2:30 | 2022-10-04 | 2025-01-08 |
 | [Confession](https://open.spotify.com/track/7IhjDHQ2l4uRgyRNkWgbWt) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Confession](https://open.spotify.com/album/7CSswOSFP7HjwUzXWhZYiT) | 2:29 | 2022-03-16 | 2023-09-23 |
 | [Consolation](https://open.spotify.com/track/10J0Gos6S2zgLbTdmWMAAz) | [Jamie Bendrodt](https://open.spotify.com/artist/3NBXKIjJCcTcDmhq7cbyei) | [Consolation](https://open.spotify.com/album/26Dlhu9Mz2Wr3Dmk31zhgh) | 2:15 | 2023-02-06 | 2024-12-12 |
 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 | 2021-12-07 | 2023-06-28 |
@@ -175,7 +175,7 @@
 | [Countless](https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Countless](https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3) | 2:26 | 2023-10-09 |  |
 | [Creeks](https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Horizons](https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn) | 2:33 | 2022-01-04 | 2023-10-07 |
 | [Crossing Paths](https://open.spotify.com/track/6JmgdhklkWQBWZBhh8Too2) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Crossing Paths](https://open.spotify.com/album/1vj9YCKCsagqPUV5rdfDVX) | 2:58 | 2021-12-07 | 2022-10-05 |
-| [crystal creek](https://open.spotify.com/track/5elkvtzKLz3UEJP4M8ZmhI) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [chateau & crystal creek](https://open.spotify.com/album/27ZmGbSDeBUUb7G6f9Wllj) | 2:27 | 2022-07-19 |  |
+| [crystal creek](https://open.spotify.com/track/5elkvtzKLz3UEJP4M8ZmhI) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [chateau & crystal creek](https://open.spotify.com/album/27ZmGbSDeBUUb7G6f9Wllj) | 2:27 | 2022-07-19 | 2025-01-08 |
 | [Cupola Quadrata](https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Cupola Quadrata](https://open.spotify.com/album/7Hidl4kOIR67qsnZVwzLq5) | 2:18 | 2022-03-30 | 2024-10-16 |
 | [Cyclist Waltz Solo](https://open.spotify.com/track/1mURpkUAqx3EIqHpNV9l8c) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mosi](https://open.spotify.com/album/6s50HIZV1AmlBDOPZTpjjB) | 2:27 | 2021-12-07 | 2022-05-06 |
 | [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 | 2024-01-09 |  |
@@ -474,7 +474,7 @@
 | [Memoirs](https://open.spotify.com/track/1GMMCBRboxvDYnm7oOFBNO) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Memoirs](https://open.spotify.com/album/2IgIZfVGaNycbjNv6egtRe) | 2:03 | 2022-10-04 |  |
 | [Memories](https://open.spotify.com/track/29oFfCDtNaQF9q7ilyLpz9) | [bzur](https://open.spotify.com/artist/0oGuRxr8O9eLnI4MS3pkTt) | [Memories](https://open.spotify.com/album/10jbRX3Xdwagm2xs54Gb4j) | 2:00 | 2022-01-17 | 2023-09-23 |
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2021-12-07 | 2024-03-26 |
-| [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2022-11-24 |  |
+| [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2022-11-24 | 2025-01-08 |
 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 | 2024-03-15 |  |
 | [Minuit à Paris](https://open.spotify.com/track/4MEQkYg6D715wDzzm5r5K6) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Minuit à Paris](https://open.spotify.com/album/2OxcHeyTYMZ9vFOj2Ktml6) | 2:14 | 2021-12-07 | 2023-05-10 |
 | [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-01-04 | 2022-07-20 |
@@ -531,6 +531,7 @@
 | [Ocean](https://open.spotify.com/track/5Sr5Tz8xszf0Wpk12w4117) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Ocean](https://open.spotify.com/album/23bNIKhaP1ggWvYroajgWk) | 2:16 | 2021-12-07 | 2023-09-23 |
 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 | 2021-12-07 | 2022-05-06 |
 | [Old Paths](https://open.spotify.com/track/4c185uEKVcnM2fwF0Tvjis) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Old Paths](https://open.spotify.com/album/78QyOiZWAJXH81udDd37f6) | 2:36 | 2024-03-15 |  |
+| [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 | 2025-01-07 |  |
 | [On the Bright Side](https://open.spotify.com/track/76LnyzbX3ZKGapQP0MENm8) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [On the Bright Side](https://open.spotify.com/album/6XZnOiB4lD1zTdblZj6hcE) | 2:52 | 2021-12-07 | 2022-03-02 |
 | [On The Hills](https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [On The Hills](https://open.spotify.com/album/3axzEVHVEU6UL2aqpMcyuC) | 1:52 | 2022-04-28 | 2023-07-26 |
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-07 | 2022-06-08 |
@@ -799,6 +800,7 @@
 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-13 |  |
 | [Things Unsaid](https://open.spotify.com/track/1HDwUXmzoVXyBV8onqUyUv) | [Marcos Betancourt](https://open.spotify.com/artist/7JjCfmLQHeuWreo08C7hBt) | [Walking Home](https://open.spotify.com/album/7HEfIdgk9TQjlnnroQAgzM) | 2:41 | 2021-12-07 | 2022-10-14 |
 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 | 2023-02-13 |  |
+| [Through a Rainy Window](https://open.spotify.com/track/2dE60i6I1i6AMyn0Ccp4FR) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Through a Rainy Window](https://open.spotify.com/album/6wSmwxjnOgAkkO702TqpGv) | 2:50 | 2025-01-07 |  |
 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 | 2024-04-15 |  |
 | [Time Lapse](https://open.spotify.com/track/7xVyUAYKQ2a2Z8509J2EI3) | [Reece Marshburn](https://open.spotify.com/artist/2qzyY3Znnk0VZka0UQ9Zqk) | [Time Lapse](https://open.spotify.com/album/1DjuJspUziskT5uTPrJtVB) | 2:58 | 2022-04-20 | 2023-09-23 |
 | [Time Will Tell](https://open.spotify.com/track/0kijSPgMw8MJ6DTUAg7cTp) | [Tomas Wilhelm](https://open.spotify.com/artist/6qibUXoNUClS6TmVSMHQ29) | [Time Will Tell](https://open.spotify.com/album/5Du97wOJzOW4vTj2CdiWYt) | 2:13 | 2022-11-11 | 2024-08-14 |

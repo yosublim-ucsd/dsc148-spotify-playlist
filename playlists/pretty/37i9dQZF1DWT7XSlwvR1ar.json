@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2090001,
+  "num_followers": 2090058,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Mary (b-sides)",
-        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 219696,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 332386,
       "name": "Look At Us Now (Honeycomb)",
       "url": "https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Mary (b-sides)",
+        "url": "https://open.spotify.com/album/15RYnRTIMHrCB6X3HjK2mC"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 219696,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/5L7IgwUPhir2FJftGNXJDW"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Pour It Out Into The Night",
-        "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Good Old Days",
-      "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Thrilled To Be Here",
         "url": "https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 241120,
       "name": "Something Tells Me",
       "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Pour It Out Into The Night",
+        "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 262066,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Feet Off The Ground (feat. Jade Bird)",
-        "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        },
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 258188,
-      "name": "Feet Off The Ground (feat. Jade Bird)",
-      "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Brighter Day",
         "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
       },
@@ -1203,18 +1183,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+        "name": "Feet Off The Ground (feat. Jade Bird)",
+        "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        },
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+      "duration_ms": 258188,
+      "name": "Feet Off The Ground (feat. Jade Bird)",
+      "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Spanish Villager No. 3",
-        "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
       },
       "artists": [
         {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 259607,
-      "name": "An Alien In Minneapolis - Edit",
-      "url": "https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7"
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1311,6 +1295,22 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Spanish Villager No. 3",
+        "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 259607,
+      "name": "An Alien In Minneapolis - Edit",
+      "url": "https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Chronicles of a Diamond",
-        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Ice Cream (Pay Phone)",
-      "url": "https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/7MMCqgxXaZkGvmSYSl4hp7"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 217983,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0T4SSmBlTtKAvcqZo8LT6i"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Chronicles of a Diamond",
+        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Ice Cream (Pay Phone)",
+      "url": "https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
+        "name": "Love Is Love",
+        "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 186783,
+      "name": "Love Is Love",
+      "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
-        "name": "Love Is Love",
-        "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 186783,
-      "name": "Love Is Love",
-      "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
-    },
-    {
-      "added_at": "2024-07-05 22:00:55",
-      "album": {
         "name": "Calm Yourself Down",
         "url": "https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66"
       },
@@ -2039,18 +2023,18 @@
     {
       "added_at": "2024-07-05 22:00:55",
       "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 213169,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2024-07-05 22:00:55",
@@ -2067,6 +2051,22 @@
       "duration_ms": 201253,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb"
+    },
+    {
+      "added_at": "2024-07-05 22:00:55",
+      "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
     },
     {
       "added_at": "2024-07-05 22:00:55",

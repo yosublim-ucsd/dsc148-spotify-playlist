@@ -4,7 +4,7 @@
 
 > Ally Evenson
 
-3,121 songs - 7 day 1 hr 11 min
+3,123 songs - 7 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-18 | 2023-07-29 |
 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 | 2023-06-30 | 2024-02-22 |
 | [All You Do](https://open.spotify.com/track/3TR91cx8KHmuT6w54Zv3TZ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [All You Do](https://open.spotify.com/album/1Gl26ZjmMEOZdutBjxiTCd) | 4:28 | 2022-08-24 | 2022-10-29 |
-| [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-12 |  |
+| [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-12 | 2025-01-08 |
 | [Alma Mater](https://open.spotify.com/track/0XJ5H4jtFNrlywhYkhjCcb) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Alma Mater](https://open.spotify.com/album/33ZsoPlzcb0TXIdZQlSqHH) | 3:30 | 2023-11-15 | 2024-01-11 |
 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 | 2022-12-02 | 2023-02-16 |
 | [alone](https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [little vice](https://open.spotify.com/album/7qdwpXcHWL1rlRGxYbkrPl) | 3:05 | 2024-02-27 | 2024-05-01 |
@@ -912,6 +912,7 @@
 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2024-01-03 | 2024-10-19 |
 | [Far Away](https://open.spotify.com/track/0Y4xg5612xZ3vAgWEkMjw3) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Far Away](https://open.spotify.com/album/6SqaQ1JdHWMK2BJQcrXWYq) | 3:05 | 2021-04-24 | 2021-12-02 |
 | [Faraway](https://open.spotify.com/track/0Q4PkMbhBDSS5jBaPm4ZmH) | [Ruben Dawnson](https://open.spotify.com/artist/4TyxwOt2w5n4gNtGRwUMKy) | [Faraway](https://open.spotify.com/album/3DKLTzynscOG3Ix88stW5S) | 2:27 | 2019-10-30 | 2020-02-05 |
+| [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 | 2025-01-07 |  |
 | [Fauxllennium](https://open.spotify.com/track/6m7cJtdIvS7AiL7QvyOHwS) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Fauxllennium](https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1) | 3:08 | 2024-12-03 |  |
 | [Favorite Drug](https://open.spotify.com/track/18ZjYJcgFWiBhnvFzh5m3N) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:29 | 2019-08-30 | 2019-10-11 |
 | [Favors](https://open.spotify.com/track/1BBZlU3fsvpVRiwLO16Aoe) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Favors](https://open.spotify.com/album/5AR8I2iwdSOM5HiiDHy9Lg) | 2:44 | 2022-07-29 | 2022-10-13 |
@@ -2011,6 +2012,7 @@
 | [Open Up!](https://open.spotify.com/track/7gP1Jb8a2GfnrOWnAlvP8Q) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Open Up!](https://open.spotify.com/album/5BNodmT6yNYY9A5YUa3hd2) | 4:46 | 2024-06-07 | 2024-09-07 |
 | [orange juice](https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [orange juice](https://open.spotify.com/album/4bmluZugh54DkReHoghYGu) | 2:43 | 2022-04-15 | 2022-05-28 |
 | [Ordinary](https://open.spotify.com/track/5Xhsf1DLA9j2pVyCbqjkLh) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Balance](https://open.spotify.com/album/71Q44PCgBGD6QyxI12jJNy) | 2:39 | 2019-07-30\* | 2019-10-26 |
+| [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-08 |  |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-10 | 2022-07-16 |
 | [Oui ou non](https://open.spotify.com/track/7rBP4bLjMLNkix1nGHjheP) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol La Suite](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu) | 3:16 | 2019-11-08 | 2020-03-13 |
 | [Out of Love](https://open.spotify.com/track/0ITjwjywJdyBk5jDCu8Zk5) | [Whose Rules](https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j) | [Out of Love](https://open.spotify.com/album/05LewJJSoCiOqJGv9NtH2H) | 2:39 | 2021-06-11 | 2021-08-14 |
@@ -2506,7 +2508,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-11-08 | 2022-12-25 |
 | [Spit Up](https://open.spotify.com/track/0DYIVjRfixT8rHJyBkW3ns) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [I Don't Like My Chances On The Outside](https://open.spotify.com/album/6aD5li3XAl6aT4oTq8bE2M) | 4:40 | 2023-08-11 | 2023-08-26 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-11 | 2024-06-06 |
-| [SPJ](https://open.spotify.com/track/0DcUSjMBZFzqy37knKFm0m) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [SPJ](https://open.spotify.com/album/3MFVcbp3tgK5fcVXRqvpal) | 3:30 | 2024-11-08 |  |
+| [SPJ](https://open.spotify.com/track/0DcUSjMBZFzqy37knKFm0m) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [SPJ](https://open.spotify.com/album/3MFVcbp3tgK5fcVXRqvpal) | 3:30 | 2024-11-08 | 2025-01-08 |
 | [Splendor](https://open.spotify.com/track/5gtBltnNY2bjlAxy0RPlhf) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [She Only Said](https://open.spotify.com/album/0T7eVLYyDDliWwggDLZ9iU) | 4:13 | 2023-10-11 | 2023-11-11 |
 | [Splinter](https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Splinter](https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K) | 2:28 | 2022-05-20 | 2022-07-19 |
 | [sports](https://open.spotify.com/track/4xp4OChbf94rpxwPe9qA5R) | [Elah Hale](https://open.spotify.com/artist/0EDEUACmghvLBhxLnMpyeU) | [sports](https://open.spotify.com/album/6bxnyq3skEwaXzcauU7FUs) | 3:00 | 2020-09-25 | 2020-10-13 |

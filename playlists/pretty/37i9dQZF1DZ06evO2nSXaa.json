@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 233550,
+  "num_followers": 233739,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3nLgAAAAAB84KyTWOerqW2Z3o5BQ/K8",
+  "snapshot_id": "Z3sdAAAAAACMNlYDXwQmk31qZDYlA2dy",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 202340,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -207,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 202340,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 152049,
       "name": "guilty conscience",
       "url": "https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": null,
@@ -259,6 +243,22 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "greedy (remixes)",
-        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 119871,
-      "name": "greedy sped up",
-      "url": "https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "all the things i never said",
         "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 119871,
+      "name": "greedy sped up",
+      "url": "https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10:35 (feat. Tate McRae) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/2dYGTMqlV5r52u5Os7w8Im"
       },
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "all my friends are fake",
+      "url": "https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "u love u (with Tate McRae)",
         "url": "https://open.spotify.com/album/08nlCo5zY9nE3isQgZm4yf"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 189062,
       "name": "u love u (with Tate McRae)",
       "url": "https://open.spotify.com/track/4RCpHnkhMmm67EKbI4aEO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "all my friends are fake",
-      "url": "https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT"
     },
     {
       "added_at": null,

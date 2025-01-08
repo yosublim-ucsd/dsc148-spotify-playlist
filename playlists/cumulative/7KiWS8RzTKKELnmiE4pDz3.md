@@ -4,7 +4,7 @@
 
 > 
 
-871 songs - 1 day 18 hr 3 min
+872 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Like Him \(feat\. Lola Young\)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:38 | 2024-11-05 |  |
 | [Like Me \(feat\. Kevin Gates and Stroke tha Don\)](https://open.spotify.com/track/2v2bCAheJHzMGsqT1oxCxp) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Stroke Tha Don](https://open.spotify.com/artist/4GZkKCpdq61U2k0Yeiu00F) | [38 Baby](https://open.spotify.com/album/2O8EgP8trTkKflc5qtXyrl) | 4:16 | 2022-06-17 | 2023-03-21 |
 | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/track/19DxfiuqUiuAB2QtDkgTPj) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/album/2F3ecFWb26F4F67H1ChUJk) | 2:13 | 2023-02-28 | 2023-05-09 |
+| [Like Spike](https://open.spotify.com/track/4KY57NMk1n64RQmnkd7OHZ) | [CHASETHEMONEY](https://open.spotify.com/artist/1OuuJcg5OofM36OyEzoB2X), [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Like Spike](https://open.spotify.com/album/00ilJ2EvWO9HSIQWq8xTLX) | 1:47 | 2025-01-07 |  |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-05-03 | 2024-11-06 |
 | [Like This \(feat\. Lil Uzi Vert, Destroy Lonely\)](https://open.spotify.com/track/1DypGkTryeH4cPFBVucxo4) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:12 | 2023-10-27 | 2024-04-24 |
 | [Lil Haiti Baby](https://open.spotify.com/track/3IMZ6j3mlRQYsatEuzt0Y3) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 4:37 | 2024-12-04 |  |

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,838 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,829 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 |
-| 2 | [Spring \- Single Edit](https://open.spotify.com/track/4amOLvYbgXIezj5Gjh1OAr) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Spring](https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29) | 5:08 |
-| 3 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 |
-| 4 | [Pop Song \- Acoustic](https://open.spotify.com/track/3WqIhK2AolZ1ZhD3kMFKfn) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Pop Song \(Acoustic\)](https://open.spotify.com/album/2s1ZeXA6uPt3WEu9PuvICy) | 2:55 |
-| 5 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 |
-| 6 | [Places To Be](https://open.spotify.com/track/72OhurZMGaH7nja23KnFs5) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Places To Be](https://open.spotify.com/album/6pMIeLMlduThBJqYnugEQB) | 4:03 |
-| 7 | [Slow Down](https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Slow Down](https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm) | 2:38 |
-| 8 | [Cover To Cover](https://open.spotify.com/track/4yu891jBP6l633Fy4dBokv) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Cover To Cover](https://open.spotify.com/album/1J1VVBCKfD92IYfEZFAY9I) | 4:00 |
-| 9 | [Queen Of Cove](https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Queen Of Cove](https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX) | 4:21 |
-| 10 | [Take Me Home](https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh) | 3:01 |
-| 11 | [Everything In Harmony \- Acoustic](https://open.spotify.com/track/6sDV1rXmmx4e3PFFYscTnk) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Fuzz / Everything In Harmony \(Acoustic\)](https://open.spotify.com/album/3YnQm8Q7dtsxlLhpgoPx9o) | 3:04 |
+| 1 | [Places To Be](https://open.spotify.com/track/72OhurZMGaH7nja23KnFs5) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Places To Be](https://open.spotify.com/album/6pMIeLMlduThBJqYnugEQB) | 4:03 |
+| 2 | [Slow Down](https://open.spotify.com/track/1Ku0rcSxsvFDpzE6hW597H) | [Marle Thomson](https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY) | [Slow Down](https://open.spotify.com/album/35WNLrZQLucMaXJ8x0GMYm) | 2:38 |
+| 3 | [Cover To Cover](https://open.spotify.com/track/4yu891jBP6l633Fy4dBokv) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Cover To Cover](https://open.spotify.com/album/1J1VVBCKfD92IYfEZFAY9I) | 4:00 |
+| 4 | [Queen Of Cove](https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Queen Of Cove](https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX) | 4:21 |
+| 5 | [Take Me Home](https://open.spotify.com/track/45j9PpkMtx7mQorNkJ1H60) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Take Me Home](https://open.spotify.com/album/5Z2wr4tZdJ0PbDabvwQjeh) | 3:01 |
+| 6 | [Everything In Harmony \- Acoustic](https://open.spotify.com/track/6sDV1rXmmx4e3PFFYscTnk) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Fuzz / Everything In Harmony \(Acoustic\)](https://open.spotify.com/album/3YnQm8Q7dtsxlLhpgoPx9o) | 3:04 |
+| 7 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 |
+| 8 | [Spring \- Single Edit](https://open.spotify.com/track/4amOLvYbgXIezj5Gjh1OAr) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Spring](https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29) | 5:08 |
+| 9 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 |
+| 10 | [Pop Song \- Acoustic](https://open.spotify.com/track/3WqIhK2AolZ1ZhD3kMFKfn) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [Pop Song \(Acoustic\)](https://open.spotify.com/album/2s1ZeXA6uPt3WEu9PuvICy) | 2:55 |
+| 11 | [Half Full](https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg) | [levi boon](https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ) | [Half Full](https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux) | 3:29 |
 | 12 | [Wings](https://open.spotify.com/track/2GfSI35lY8p6tr9IUqiwKo) | [Samuel Andryk](https://open.spotify.com/artist/3stQBG1xd0n7nnHk5EFkzc) | [Wings](https://open.spotify.com/album/02dDDinLmvyM5fc8z7MQ1n) | 3:16 |
 | 13 | [All Is Ours \- Acoustic Version](https://open.spotify.com/track/2GiKm519SjcHtETEGsSXwi) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [All Is Ours](https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT) | 4:51 |
 | 14 | [Peaceful Now](https://open.spotify.com/track/6SiGBl8vh4vJuxxTrE4uqE) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Peaceful Now](https://open.spotify.com/album/27JGlj8aO16dMYFe62fsxN) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Selfish Love](https://open.spotify.com/track/6ywvpOWVw6GerSxaY8WQI2) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Selfish Love](https://open.spotify.com/album/2XALd6mECQvIXM8Zjg1hIP) | 3:54 |
 | 100 | [if i wasn't made for love](https://open.spotify.com/track/0gTQHu2jECAp9qSw1t5dkr) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [if i wasn't made for love](https://open.spotify.com/album/3zLvfi1YxYdN0YwgIc8vDA) | 3:56 |
 
-Snapshot ID: `Z0BgOgAAAAB8sz9J3ROiTOQnB7kd+SlT`
+Snapshot ID: `Z30ZzQAAAACENw3U/Kqmh4F1aJJllbh3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: Anna and Vulkan
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,994 likes - 95 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,000 likes - 95 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

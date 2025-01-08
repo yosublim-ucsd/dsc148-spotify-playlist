@@ -1,93 +1,13 @@
 {
   "description": "Lekker rustig aan doen op zaterdag met deze zachte popliedjes.",
-  "num_followers": 112838,
+  "num_followers": 112829,
   "original_name": "Easy On Saturday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0BgOgAAAAB8sz9J3ROiTOQnB7kd+SlT",
+  "snapshot_id": "Z30ZzQAAAACENw3U/Kqmh4F1aJJllbh3",
   "tracks": [
-    {
-      "added_at": "2024-11-22 10:43:06",
-      "album": {
-        "name": "Saturday Silence",
-        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
-      },
-      "artists": [
-        {
-          "name": "Iskander Moon",
-          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Saturday Silence",
-      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
-    },
-    {
-      "added_at": "2024-11-22 10:43:06",
-      "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29"
-      },
-      "artists": [
-        {
-          "name": "Gildor",
-          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
-        }
-      ],
-      "duration_ms": 308906,
-      "name": "Spring - Single Edit",
-      "url": "https://open.spotify.com/track/4amOLvYbgXIezj5Gjh1OAr"
-    },
-    {
-      "added_at": "2024-11-22 10:43:06",
-      "album": {
-        "name": "The First Train Home",
-        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "The First Train Home",
-      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
-    },
-    {
-      "added_at": "2024-11-22 10:43:06",
-      "album": {
-        "name": "Pop Song (Acoustic)",
-        "url": "https://open.spotify.com/album/2s1ZeXA6uPt3WEu9PuvICy"
-      },
-      "artists": [
-        {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
-        }
-      ],
-      "duration_ms": 175877,
-      "name": "Pop Song - Acoustic",
-      "url": "https://open.spotify.com/track/3WqIhK2AolZ1ZhD3kMFKfn"
-    },
-    {
-      "added_at": "2024-11-22 10:43:06",
-      "album": {
-        "name": "Half Full",
-        "url": "https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux"
-      },
-      "artists": [
-        {
-          "name": "levi boon",
-          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
-        }
-      ],
-      "duration_ms": 209324,
-      "name": "Half Full",
-      "url": "https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg"
-    },
     {
       "added_at": "2024-11-22 10:43:06",
       "album": {
@@ -183,6 +103,86 @@
       "duration_ms": 184186,
       "name": "Everything In Harmony - Acoustic",
       "url": "https://open.spotify.com/track/6sDV1rXmmx4e3PFFYscTnk"
+    },
+    {
+      "added_at": "2024-11-22 10:43:06",
+      "album": {
+        "name": "Saturday Silence",
+        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Saturday Silence",
+      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+    },
+    {
+      "added_at": "2024-11-22 10:43:06",
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29"
+      },
+      "artists": [
+        {
+          "name": "Gildor",
+          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
+        }
+      ],
+      "duration_ms": 308906,
+      "name": "Spring - Single Edit",
+      "url": "https://open.spotify.com/track/4amOLvYbgXIezj5Gjh1OAr"
+    },
+    {
+      "added_at": "2024-11-22 10:43:06",
+      "album": {
+        "name": "The First Train Home",
+        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "The First Train Home",
+      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
+    },
+    {
+      "added_at": "2024-11-22 10:43:06",
+      "album": {
+        "name": "Pop Song (Acoustic)",
+        "url": "https://open.spotify.com/album/2s1ZeXA6uPt3WEu9PuvICy"
+      },
+      "artists": [
+        {
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+        }
+      ],
+      "duration_ms": 175877,
+      "name": "Pop Song - Acoustic",
+      "url": "https://open.spotify.com/track/3WqIhK2AolZ1ZhD3kMFKfn"
+    },
+    {
+      "added_at": "2024-11-22 10:43:06",
+      "album": {
+        "name": "Half Full",
+        "url": "https://open.spotify.com/album/78aNecnjtMcMoCy1tAW0ux"
+      },
+      "artists": [
+        {
+          "name": "levi boon",
+          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
+        }
+      ],
+      "duration_ms": 209324,
+      "name": "Half Full",
+      "url": "https://open.spotify.com/track/1VQmes5qHWKQ5p3C4v6NBg"
     },
     {
       "added_at": "2024-11-22 10:43:06",

@@ -1,13 +1,61 @@
 {
   "description": "The playlist made for furries, by furries. | Request songs @ Furrest.Online",
-  "num_followers": 427,
+  "num_followers": 428,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADDww4n9hn1wUxV888MxicA3nwGOFV",
+  "snapshot_id": "AAADEUAzwi7P/AjBQ6HZaG+v7dUGy934",
   "tracks": [
+    {
+      "added_at": "2025-01-07 19:23:23",
+      "album": {
+        "name": "I LOVE BEING NORMAL",
+        "url": "https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE"
+      },
+      "artists": [
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "I LOVE BEING NORMAL",
+      "url": "https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe"
+    },
+    {
+      "added_at": "2025-01-07 19:20:28",
+      "album": {
+        "name": "No Matter What 2024 EP",
+        "url": "https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        },
+        {
+          "name": "NekoSnicker",
+          "url": "https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo"
+        },
+        {
+          "name": "Sylver Stripe",
+          "url": "https://open.spotify.com/artist/0aohwwtpLSJi4RAXQkjKkb"
+        },
+        {
+          "name": "Namii",
+          "url": "https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6"
+        },
+        {
+          "name": "GalaxySquid",
+          "url": "https://open.spotify.com/artist/5Bf0U4uWT0KwE3047UWYja"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "No Matter What - 2024",
+      "url": "https://open.spotify.com/track/2XJlp7wla0EJI8CNlzICpG"
+    },
     {
       "added_at": "2025-01-06 19:39:36",
       "album": {

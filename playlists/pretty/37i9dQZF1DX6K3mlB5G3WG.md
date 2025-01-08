@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Gazzelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,112 likes - 86 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,108 likes - 86 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Noi no](https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Noi no](https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je) | 3:16 |
 | 2 | ['A 'MBASCIATA](https://open.spotify.com/track/0EpP4OASPWKz4dVhg69LQe) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO III](https://open.spotify.com/album/3ULYRmnGV3zXbRQkCuFbBS) | 2:58 |
 | 3 | [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 |
-| 4 | [Angel in the Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel in the Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
+| 4 | [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
 | 5 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 |
 | 6 | [Vengo a fidarmi di te](https://open.spotify.com/track/2p4xwVY0d0veJ4w8PEz7EY) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Vengo a fidarmi di te](https://open.spotify.com/album/5w6jP0SfIiQTPQSZ86H2uE) | 3:27 |
 | 7 | [IL CAMPIONE](https://open.spotify.com/track/77sksbQUGsIrN9d7whIW9u) | [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [IL CAMPIONE](https://open.spotify.com/album/2aZFBNgUfffsAjsS2Lo2zR) | 3:50 |

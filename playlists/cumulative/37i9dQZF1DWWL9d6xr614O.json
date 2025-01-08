@@ -546,24 +546,6 @@
     {
       "album": {
         "name": "Are We There Yet?",
-        "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        }
-      ],
-      "date_added": "2024-03-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 307896,
-      "name": "Delightful (The Sower Never Wastes A Tear)",
-      "url": "https://open.spotify.com/track/7dF6TYCE35cgOTeVMGmrrC"
-    },
-    {
-      "album": {
-        "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq"
       },
       "artists": [
@@ -582,6 +564,28 @@
       "duration_ms": 307896,
       "name": "Delightful (The Sower Never Wastes A Tear)",
       "url": "https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Josh Kpozehouen",
+          "url": "https://open.spotify.com/artist/6lqVPpXm5sED9guM2fnx6x"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307896,
+      "name": "Delightful (The Sower Never Wastes A Tear)",
+      "url": "https://open.spotify.com/track/7dF6TYCE35cgOTeVMGmrrC"
     },
     {
       "album": {

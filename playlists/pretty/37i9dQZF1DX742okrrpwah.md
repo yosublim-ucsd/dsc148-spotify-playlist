@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Lil Baby au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,412 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,426 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 15 | [Old Man's Grace](https://open.spotify.com/track/1e6dg6ohzTawDtoIq176F2) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Old Man's Grace](https://open.spotify.com/album/4KeY1C3DnZSw37kEFCgmHr) | 2:47 |
 | 16 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
 | 17 | [Belle madame](https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Essonne History X](https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT) | 2:44 |
-| 18 | [Angel in the Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel in the Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
+| 18 | [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 |
 | 19 | [Molly's Song](https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Molly's Song](https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr) | 3:05 |
 | 20 | [Oser](https://open.spotify.com/track/2OwSd94EtSFh5dzrp4SFWY) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Oser](https://open.spotify.com/album/2fl3JX1Iq19Ar3ByUKlZoQ) | 2:34 |
 | 21 | [See You Again](https://open.spotify.com/track/4FYqsrv2Uqa6mjuwCcqrWy) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [See You Again](https://open.spotify.com/album/0JVzuGmBDqSXC66nqes8R0) | 2:32 |

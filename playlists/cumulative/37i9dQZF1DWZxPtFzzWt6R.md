@@ -2,9 +2,9 @@
 
 ### [Sertanejo Religioso](https://open.spotify.com/playlist/37i9dQZF1DWZxPtFzzWt6R)
 
-> A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Luciano Camargo
+> A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gabriel Brito, Kaique e Felipe
 
-93 songs - 6 hr 11 min
+94 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Deus por Mim](https://open.spotify.com/track/06W5Cw6eutln721NGGKc1g) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Deus por Mim](https://open.spotify.com/album/6LlVP6cnz2lHACZkeiHHy3) | 3:43 | 2023-06-23 |  |
 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 | 2023-07-28 | 2024-08-31 |
 | [Deus É Fiel \- Ao Vivo](https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Deus É Fiel \(Ao Vivo\)](https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48) | 4:29 | 2023-06-23 |  |
+| [Do Tamanho do Meu Deus](https://open.spotify.com/track/4bsgd7pMCr7ZmFtsLBF7iI) | [Val e Simone](https://open.spotify.com/artist/2K7xKoDaTtqzvntEKTxtSm) | [Confiança](https://open.spotify.com/album/5lYrNwyDmUG9OYVzeaTcHj) | 3:21 | 2025-01-07 |  |
 | [Duas Vezes Mais](https://open.spotify.com/track/2UxerwRMfxlSTBcKhWdUhA) | [Jonas Maciel](https://open.spotify.com/artist/3UiDvGmreSdFHLFAQmk5NY) | [Duas Vezes Mais](https://open.spotify.com/album/6Pq1Yz43OJMhFtl0spnifB) | 2:46 | 2023-06-23 | 2023-09-02 |
 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 | 2023-09-01 |  |
 | [Estações](https://open.spotify.com/track/2RIq8jJy01rwLYXTGuVILo) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Estações](https://open.spotify.com/album/7ax1cHCKMLx4fbCpKHrNa2) | 2:47 | 2023-06-23 | 2024-08-10 |
@@ -95,7 +96,7 @@
 | [Um Lugar à Mesa](https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Um Lugar à Mesa](https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4) | 4:00 | 2024-08-09 |  |
 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 | 2023-06-23 |  |
 | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/track/5CeWqSYsDIFj56f45yBU33) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/album/50E3HpxrrCnKufDBgwkWgM) | 3:37 | 2024-07-05 |  |
-| [Vai Passar](https://open.spotify.com/track/5wZVgm6hcDTGMD9K5EOO5r) | [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3) | [Vai Passar](https://open.spotify.com/album/13rAeWiERICVJ5H4s0NJvp) | 5:19 | 2024-12-13 |  |
+| [Vai Passar](https://open.spotify.com/track/5wZVgm6hcDTGMD9K5EOO5r) | [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3) | [Vai Passar](https://open.spotify.com/album/13rAeWiERICVJ5H4s0NJvp) | 5:19 | 2024-12-13 | 2025-01-08 |
 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 | 2023-06-23 |  |
 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 | 2023-06-23 |  |
 | [Vou Embora pro Céu](https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Vou Embora pro Céu](https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S) | 3:34 | 2024-08-09 |  |

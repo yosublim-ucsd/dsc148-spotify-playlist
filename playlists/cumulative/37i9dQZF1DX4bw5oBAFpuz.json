@@ -3835,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/2pcI0ixfcCz1eUUxbYO69n"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Inner Smile",
+      "url": "https://open.spotify.com/track/0yvDNlMoafoHNR9M5LIOGJ"
+    },
+    {
+      "album": {
         "name": "_UP_",
         "url": "https://open.spotify.com/album/6L4Cw7UGLQxUAVaY1RNYBr"
       },
@@ -8994,7 +9012,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 206952,
       "name": "Who Gave You The Right",
       "url": "https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr"

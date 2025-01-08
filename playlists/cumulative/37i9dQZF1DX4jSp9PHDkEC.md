@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-593 songs - 1 day 16 hr 4 min
+594 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2023-01-17 | 2024-04-19 |
 | [Hard to Let Go](https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5) | 4:07 | 2023-01-17 | 2024-04-19 |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2023-01-17 |  |
-| [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 | 2024-01-03 |  |
+| [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 | 2024-01-03 | 2025-01-08 |
 | [Hard To Tell You](https://open.spotify.com/track/1QJQIDeX1bH0VxLGzUKTKK) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Radiate Like This](https://open.spotify.com/album/480jVncbNknTjPUAvxp8or) | 5:00 | 2023-01-17 |  |
 | [Hasta Mañana](https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [P.O.N](https://open.spotify.com/album/716BZhl3283diYxQJZCSyF) | 2:54 | 2023-01-17 |  |
 | [Headrush](https://open.spotify.com/track/0dSuiOmmNJoSfQwDPjosjS) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Headrush](https://open.spotify.com/album/12dz9Z3JkLGhmQOk8kcA1Y) | 3:28 | 2023-01-17 |  |
@@ -411,7 +411,7 @@
 | [Riverside](https://open.spotify.com/track/1UmFRZU3taMGZApPhK32mc) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/79JZVTdAztJJEYm6xtDzBM) | 3:48 | 2023-01-17 |  |
 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 | 2023-01-17 | 2024-04-19 |
 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 | 2023-01-17 | 2024-04-19 |
-| [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 | 2023-01-17 |  |
+| [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 | 2023-01-17 | 2025-01-08 |
 | [Romance](https://open.spotify.com/track/6OekrDohNUa6lMUQ6UWy1l) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/30sddBZ6VjuOkhIXvdE0Pw) | 6:43 | 2023-01-17 | 2024-04-19 |
 | [Romance](https://open.spotify.com/track/7Ky78y9gxAKlujRin3vzZf) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Ex:Re](https://open.spotify.com/album/2TzaLffI6wNpSstYdP07bv) | 6:43 | 2023-01-17 | 2024-11-12 |
 | [Room Temperature](https://open.spotify.com/track/6TPTnROcnJQXuAyRDw2qfu) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 4:04 | 2023-01-17 | 2024-04-19 |
@@ -515,7 +515,7 @@
 | [The Last One](https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:50 | 2023-01-17 | 2024-03-23 |
 | [The Last One](https://open.spotify.com/track/5ihoKh6U2qCQ3lRXaGi3lh) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 3:50 | 2023-01-17 | 2024-05-09 |
 | [The Message](https://open.spotify.com/track/0i5r3EWZsCMYRrpUy8YofZ) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/5wQzD4g80qIXRVUOD9we2G) | 4:52 | 2023-01-17 | 2024-04-19 |
-| [The Message](https://open.spotify.com/track/3oLJlBI7OveRtPOuMe4oaM) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/0dpT4eWbisGVXyLkA3NBwc) | 4:52 | 2023-01-17 | 2025-01-07 |
+| [The Message](https://open.spotify.com/track/3oLJlBI7OveRtPOuMe4oaM) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/0dpT4eWbisGVXyLkA3NBwc) | 4:52 | 2023-01-17 |  |
 | [The Mind's Eye](https://open.spotify.com/track/1igVdCr2mrzwu2lHxUbJWn) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [This Ascension is Ours](https://open.spotify.com/album/57B07YMvOwOCrze4qRzhNA) | 5:31 | 2023-01-17 |  |
 | [The Moon Song \- Film Version](https://open.spotify.com/track/2tr9JHGOa5ZRar7IedAiQc) | [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa), [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv) | [The Moon Song \(Music From And Inspired By The Motion Picture Her\)](https://open.spotify.com/album/6LFZaTo38vtBqq75Goxcky) | 1:50 | 2023-01-17 | 2024-04-19 |
 | [The Oranges](https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 4:14 | 2024-02-02 |  |
@@ -582,6 +582,7 @@
 | [Wolf](https://open.spotify.com/track/0gI6KFnLCbneSdaayPBwiI) | [Darkstar](https://open.spotify.com/artist/45ALMSzoLNFkaYxyhS4QZ1) | [Civic Jams](https://open.spotify.com/album/4Ls6xTsUYpgpYap10m6gVi) | 5:29 | 2023-01-17 | 2024-04-19 |
 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 | 2023-01-17 |  |
 | [Would You Rather](https://open.spotify.com/track/0ulpimSr7njRd2UFadBAPv) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:19 | 2023-01-17 | 2024-04-19 |
+| [Would You Rather](https://open.spotify.com/track/4ctEt5qumxA8RuzdeQagkk) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:19 | 2023-01-17 |  |
 | [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 | 2023-01-17 | 2024-12-29 |
 | [Yam Yam](https://open.spotify.com/track/26iu1k7U1NT2i8Sz7mDPGa) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/127WZmGnH2ui60lIJVSEZi) | 3:36 | 2023-01-17 | 2024-04-19 |
 | [Year of Love](https://open.spotify.com/track/2xMf6kbsGhfmrzLxC5HRLw) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 4:13 | 2023-01-17 |  |

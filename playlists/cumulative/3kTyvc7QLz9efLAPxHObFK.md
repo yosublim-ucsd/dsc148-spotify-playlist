@@ -4,7 +4,7 @@
 
 > 
 
-1,936 songs - 4 day 7 hr 1 min
+1,937 songs - 4 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1133,6 +1133,7 @@
 | [Mockingbird](https://open.spotify.com/track/116OIOZ24EvyvSWbF1Coxt) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [Mockingbird](https://open.spotify.com/album/4VarRQSY6fVdfsDnwHE3GU) | 2:34 | 2024-10-29 |  |
 | [Momentum](https://open.spotify.com/track/4AXO0nCqvp82u9Iwl8IQO1) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Momentum](https://open.spotify.com/album/2KEVJqNUsmOxMiXzfMvJOe) | 3:18 | 2023-10-06 |  |
 | [Money](https://open.spotify.com/track/7kehpnYPI5v9KmMR05F6Bt) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId), [Triple X](https://open.spotify.com/artist/2vJyuppwPbnxzGGVy7xm03) | [Money](https://open.spotify.com/album/4tNbhXeYT5oNzD6HdwKrRP) | 2:15 | 2024-10-11 |  |
+| [Money On The Dash](https://open.spotify.com/track/0PuK76HaHGnw9TUlorwdso) | [Double Trouble](https://open.spotify.com/artist/5GPepE4EJ70TsAFBlkaF7A) | [Money On The Dash](https://open.spotify.com/album/5MrtUWzWx7AwdYoj4HmtS0) | 3:01 | 2025-01-07 |  |
 | [Monsone](https://open.spotify.com/track/0BFUKPveW2yxVDHrnlWkGv) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Monsone](https://open.spotify.com/album/3ZHVBTDoQ9Fdez4ySXoMis) | 2:33 | 2023-12-26 |  |
 | [Monster](https://open.spotify.com/track/5Sfq2xZvYxdckMjU2ykQ91) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j), [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Samynator](https://open.spotify.com/artist/0stG6nm18OkbJlJHWHxrPw), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Live And Have Fun](https://open.spotify.com/album/5O1lrsMbl1jSSTMvQPn16c) | 2:55 | 2024-07-24 |  |
 | [MONSTER](https://open.spotify.com/track/3Hm4sJEQU17qf53mccVysv) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [MONSTER](https://open.spotify.com/album/1XGQDdnidqpBCi9PWKQ6Hh) | 2:03 | 2024-03-15 |  |

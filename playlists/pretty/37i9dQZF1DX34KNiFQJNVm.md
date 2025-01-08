@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc IG, Salvador da Rima, Gabb MC e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,988,514 likes - 45 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,988,626 likes - 45 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 41 | [Famosinha do Tiktok](https://open.spotify.com/track/45vKvodvWBrB9taDK03cSo) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Mc Menor Salim](https://open.spotify.com/artist/6iVAQg1U9KBZjG3CYBy3Vo), [Mc Guill Sp](https://open.spotify.com/artist/3dF41Zo4sQXTQvlTieyIvA), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Renannobeat](https://open.spotify.com/artist/4r0YgjntWlIiOrfjg9KRdv) | [Famosinha do Tiktok](https://open.spotify.com/album/5hdDnPR4ZPsQbgNsxswP7e) | 5:31 |
 | 42 | [Lili Cantou](https://open.spotify.com/track/7t2YHX9u10Vm2N43pNTQ4m) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm) | [Lili Cantou](https://open.spotify.com/album/0jL912nZnrxl39XIvlI2xN) | 1:58 |
 | 43 | [Coisas Surreais](https://open.spotify.com/track/01BbNxhDVVwyxfxQt5RBNZ) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [Coisas Surreais](https://open.spotify.com/album/1gEJ8tlHvSuI0iVR0g4iPH) | 2:00 |
-| 44 | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/track/61NuOY0AZp2cO7oOLOnEjN) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/album/3kq0VICAcxc9xnPa6Zqkkl) | 2:28 |
+| 44 | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/track/61NuOY0AZp2cO7oOLOnEjN) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/album/3kq0VICAcxc9xnPa6Zqkkl) | 2:28 |
 | 45 | [Estilo Cachorro](https://open.spotify.com/track/0R9cbTWfMuQrPUoIlonYcu) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Éffe](https://open.spotify.com/artist/1uKqxcvSO6zfE4UgU93rmW), [P7](https://open.spotify.com/artist/13pa0wJAx2rbhEkdncAGzn), [Lukas Lk](https://open.spotify.com/artist/3fe2KGpcMdVYL1SukpZ7if), [Andy](https://open.spotify.com/artist/3IHfZEC6zpFC24Ox8T8Q3G), [Hericles Mc](https://open.spotify.com/artist/63yN3HyGE9vV6GUYPL68rl) | [Estilo Cachorro](https://open.spotify.com/album/44NvhEv76TrEtW3StRdNnX) | 5:11 |
 
 Snapshot ID: `Z3dS8QAAAAAmD6GWEmiVxz+8ifPJJFxY`

@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 170549,
+  "num_followers": 170611,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "duration_ms": 107034,
+      "name": "The Thrombey Family Theme",
+      "url": "https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6EqM2rlOCixg83ma0o4uDB"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 204064,
       "name": "Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",
       "url": "https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Knives Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
-      },
-      "artists": [
-        {
-          "name": "Nathan Johnson",
-          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
-        }
-      ],
-      "duration_ms": 107034,
-      "name": "The Thrombey Family Theme",
-      "url": "https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
+        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
+      },
+      "artists": [
+        {
+          "name": "Vince Giordano And The Nighthawks",
+          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "Everybody Loves My Baby",
+      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Chico & Rita",
         "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
@@ -1067,38 +1083,18 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
-        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
+        "name": "Blow-Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
       },
       "artists": [
         {
-          "name": "Vince Giordano And The Nighthawks",
-          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 188413,
-      "name": "Everybody Loves My Baby",
-      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Sylvie's Love (Amazon Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj"
-      },
-      "artists": [
-        {
-          "name": "Fabrice Lecomte",
-          "url": "https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp"
-        },
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 119986,
-      "name": "B.-Loved (feat. C\u00e9cile McLorin Salvant) - French Version",
-      "url": "https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6"
+      "duration_ms": 156773,
+      "name": "The Bed",
+      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Blow-Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
+        "name": "Sylvie's Love (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Fabrice Lecomte",
+          "url": "https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp"
+        },
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
         }
       ],
-      "duration_ms": 156773,
-      "name": "The Bed",
-      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
+      "duration_ms": 119986,
+      "name": "B.-Loved (feat. C\u00e9cile McLorin Salvant) - French Version",
+      "url": "https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6"
     },
     {
       "added_at": "2024-06-14 07:09:21",

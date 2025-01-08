@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-669 songs - 1 day 6 hr 32 min
+671 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,9 @@
 | [Tucson](https://open.spotify.com/track/5mn1QrLBhEUI5XGmcn9HKT) | [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV) | [Tucson](https://open.spotify.com/album/36hJeUhSYbDSkdz2Kx2828) | 2:27 | 2022-07-01 | 2022-09-28 |
 | [Tuesday](https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Till Next Time](https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT) | 2:08 | 2023-06-23 | 2023-11-11 |
 | [Turn It Up](https://open.spotify.com/track/3tLxUfISaz59RTcJIAPqDJ) | [JayXander](https://open.spotify.com/artist/20mG4NVCankcytn70YIplV) | [Turn It Up](https://open.spotify.com/album/5iHuuoKsqdlwbQM2ANFbCN) | 2:12 | 2023-04-21 | 2024-01-23 |
+| [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 | 2025-01-07 |  |
 | [twice](https://open.spotify.com/track/3VV8J6Zy11zsU4yBGroexd) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [twice](https://open.spotify.com/album/6BXAJhLPQTUjOi45aoiE7t) | 1:54 | 2022-09-02 | 2022-10-01 |
+| [two](https://open.spotify.com/track/18ENCZw5lQc10UwwFiH1QK) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [two](https://open.spotify.com/album/1ooRAUPQgUixYyS8yHLirr) | 2:15 | 2025-01-07 |  |
 | [UH OH](https://open.spotify.com/track/0ibUXjc38yUf1RbQOVOahu) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [UH OH](https://open.spotify.com/album/3MCpaDhJ0Ebdj3EPYanDQO) | 2:52 | 2023-03-17 | 2024-03-16 |
 | [Unreplaceable](https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 2:58 | 2022-01-28 | 2022-03-17 |
 | [up again](https://open.spotify.com/track/4wrhAoRQfmv35znEXDip7X) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [up again](https://open.spotify.com/album/5a5ueckwVJ6n5CVIOeyMVU) | 2:48 | 2022-03-25 | 2022-07-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: 鄭宜農 \(Enno Cheng\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,345 likes - 132 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,388 likes - 132 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 31 | [森と星の約束 \(森林與星星的約定\)](https://open.spotify.com/track/1gydnqDRfR9E0fiXUre5DT) | [林忠諭 Cosmos J](https://open.spotify.com/artist/6z96kF9JzUTvkwSHFbobmm) | [森と星の約束 \(森林與星星的約定\)](https://open.spotify.com/album/0xrk2Gd2ASJvXP9eKA3cv3) | 5:21 |
 | 32 | [往前飛 \- 《超棒的我們》插曲](https://open.spotify.com/track/0wlAh0qRnP2IrzeqUku7ca) | [郭嘉誼](https://open.spotify.com/artist/0H2Gv4CQTL87hhn1p08TnC), [聖恩](https://open.spotify.com/artist/0BZRJ2yVhVp9OF5N2qla9C) | [往前飛 \(《超棒的我們》插曲\)](https://open.spotify.com/album/3ktAQsdDYr4hMEitQMUMMv) | 3:07 |
 | 33 | [想一個人](https://open.spotify.com/track/1yfJ2Oc5p4KWr6kBHIYlTe) | [Lin Si Tong](https://open.spotify.com/artist/1FXhxn9AhnOPufmvvu7qGc) | [想一個人](https://open.spotify.com/album/2PiOLiIqyiTuAwVeAC9Dy2) | 4:32 |
-| 34 | [第十三月](https://open.spotify.com/track/0CQONJ2tntH7ji3CVkfepk) | [文年 Wayne Nian](https://open.spotify.com/artist/6uPJuPdYKwa1t94hTbM3vJ) | [第十三月](https://open.spotify.com/album/1MtUDltrFxQSt3IoqVaacG) | 2:56 |
+| 34 | [第十三月](https://open.spotify.com/track/0CQONJ2tntH7ji3CVkfepk) | [文年 Wayne Nian](https://open.spotify.com/artist/7Cv0ZkqsFuzt56i3udK2Up) | [第十三月](https://open.spotify.com/album/1MtUDltrFxQSt3IoqVaacG) | 2:56 |
 | 35 | [我可以](https://open.spotify.com/track/7FJ1eVDKKZMblOygYVTSkz) | [洪以芯](https://open.spotify.com/artist/5PMS3LPsDNAhBc3Sa5EEuO) | [我可以](https://open.spotify.com/album/5bitmU8nDk51WqYtPjohYg) | 3:23 |
 | 36 | [多一天 Another Day](https://open.spotify.com/track/4meJ5ad7qAydmPQ9FaIQ5l) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [多一天 Another Day](https://open.spotify.com/album/0UrVI2FBSXBTyxwclGJ6Lq) | 3:04 |
 | 37 | [大象的絕望](https://open.spotify.com/track/1MbTrOblKr1kseix3np6LC) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [大象的絕望](https://open.spotify.com/album/1PHhlHoCABwkZIxZehqC3z) | 2:45 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 98 | [偏南風](https://open.spotify.com/track/10nw9cTqrTj7uc9QQPIHKG) | [謝銘祐](https://open.spotify.com/artist/38kvukZeDwVBlhLnVVCKWw) | [偏南](https://open.spotify.com/album/0A4aZPUpNwHlMj6UsDnLos) | 4:33 |
 | 99 | [Say It To My Face \(feat\. ØZI\)](https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Made For You](https://open.spotify.com/album/1s5Prxw2pVBcOr6mQFPk9N) | 2:40 |
 | 100 | [你能不能真的懂我](https://open.spotify.com/track/35COvqvA8VD9XMg8paUcLz) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [你能不能真的懂我](https://open.spotify.com/album/36FKuwf0cL4BTpbkpItlMk) | 3:25 |
-| 101 | [日落擁抱](https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W) | [Ben Ladin](https://open.spotify.com/artist/12kEQTCYPhSoW54jJ0Pngm) | [日落擁抱](https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp) | 3:16 |
+| 101 | [日落擁抱](https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [日落擁抱](https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp) | 3:16 |
 | 102 | [心跳加速](https://open.spotify.com/track/0lPBgAd4IdMdOgDAIJRBLb) | [阿金 Mr\. King](https://open.spotify.com/artist/7Gw7JpKXur2ljdw4D0KHYI) | [心跳加速](https://open.spotify.com/album/0RQyiv99tQalIO1oRn5bYu) | 3:13 |
 | 103 | [片尾曲 \- 綜藝《芒果新生班·搭檔季》片尾曲](https://open.spotify.com/track/27G8OuXxVX7lUpMm3d3E53) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [片尾曲 \(綜藝《芒果新生班·搭檔季》片尾曲\)](https://open.spotify.com/album/6ghgv4f7s74Tb8L6zxPKCn) | 4:14 |
 | 104 | [撲火](https://open.spotify.com/track/154QFdFsYVS57FOJWkgPXw) | [God Øne](https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL), [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [撲火](https://open.spotify.com/album/6SdcmoRsFvG9jcTc2i8GBa) | 3:45 |

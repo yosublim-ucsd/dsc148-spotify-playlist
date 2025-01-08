@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "2025 FLOW",
+        "url": "https://open.spotify.com/album/7rhYIxUBvfOSO5QuCoMVKx"
+      },
+      "artists": [
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        },
+        {
+          "name": "Andy Grewal",
+          "url": "https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368296,
+      "name": "2025 FLOW",
+      "url": "https://open.spotify.com/track/0o6j2OLr5tUvpGldAYjLUw"
+    },
+    {
+      "album": {
         "name": "22 Rules Of Hood",
         "url": "https://open.spotify.com/album/6Tzk72kEKoCwHJgjveHwp8"
       },
@@ -104,6 +126,28 @@
       "duration_ms": 134720,
       "name": "24K",
       "url": "https://open.spotify.com/track/6xY43nXOaQezJsdE88019U"
+    },
+    {
+      "album": {
+        "name": "3 Case",
+        "url": "https://open.spotify.com/album/4QdzzhZ3KL5mxEbihrajXs"
+      },
+      "artists": [
+        {
+          "name": "Sukhrawal",
+          "url": "https://open.spotify.com/artist/49HWqbDp2hrzvorAAbTqaD"
+        },
+        {
+          "name": "AD Yaar",
+          "url": "https://open.spotify.com/artist/7gnnzRTepcTqsIHIybl5rQ"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177429,
+      "name": "3 Case",
+      "url": "https://open.spotify.com/track/29LOwNLNY7U5gbrtDQhS6r"
     },
     {
       "album": {
@@ -1256,7 +1300,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 168228,
       "name": "Challa",
       "url": "https://open.spotify.com/track/02CNhdsx0gHla9gNpuMc3E"
@@ -4346,7 +4390,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 174000,
       "name": "Night Talks",
       "url": "https://open.spotify.com/track/5wGl5zYuin9qNzBjlHWCyq"
@@ -4711,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/5nq1H0zG0LN6uaBE4YJLKy"
+      },
+      "artists": [
+        {
+          "name": "Sukha Sandhu",
+          "url": "https://open.spotify.com/artist/6JGz5B12Ek0m8GJahoYRus"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181339,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/4JYk1cLcpJjJChjjCNT97x"
+    },
+    {
+      "album": {
         "name": "Outta Reach",
         "url": "https://open.spotify.com/album/0IYDXuY0NWcBV1ACZkHmL5"
       },
@@ -4788,6 +4850,14 @@
         {
           "name": "Arjun Bajwa",
           "url": "https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R"
+        },
+        {
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
         }
       ],
       "date_added": "2025-01-06",
@@ -6398,7 +6468,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-08",
       "duration_ms": 167940,
       "name": "Villian",
       "url": "https://open.spotify.com/track/6rTzAfcwO8JHqAY0XhngkY"
