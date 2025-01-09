@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 11293,
+  "num_followers": 11297,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAADj7bgJy5kUScXBUWNvrLdD",
+  "snapshot_id": "Z3xugAAAAADfVeAcrjTdfWhdlWHJsdVz",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 199725,
-      "name": "Same God - Live",
-      "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greater Than (Live)",
         "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 302106,
       "name": "You Are Good - Live",
       "url": "https://open.spotify.com/track/2AfxHwD4EII0RKJmSo7Z2C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 199725,
+      "name": "Same God - Live",
+      "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 101106,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/2vpzga018mYLVXkE77wEds"
+      "duration_ms": 50188,
+      "name": "There Is Nothing Like - Live",
+      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 50188,
-      "name": "There Is Nothing Like - Live",
-      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
+      "duration_ms": 101106,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/2vpzga018mYLVXkE77wEds"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 198226,
-      "name": "1-2 (Victory Check) - Live",
-      "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
+      "duration_ms": 327400,
+      "name": "Hallelujah To Your Name - Live",
+      "url": "https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ"
     },
     {
       "added_at": null,

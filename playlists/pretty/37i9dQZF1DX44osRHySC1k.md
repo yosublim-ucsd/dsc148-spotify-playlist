@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,406 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,412 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 50 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 |
 | 51 | [Your Peace](https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:44 |
 | 52 | [The Breath Inside the Breath](https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 5:25 |
-| 53 | [anywhere](https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [unspoken](https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI) | 2:39 |
-| 54 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 |
+| 53 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 |
+| 54 | [anywhere](https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [unspoken](https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI) | 2:39 |
 | 55 | [Dulces Sueños](https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 4:05 |
 | 56 | [Quiet Nights](https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:06 |
 | 57 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 70 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
 | 71 | [Linger](https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL) | [Alexander Molina](https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW) | [Linger](https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI) | 2:43 |
 | 72 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 |
-| 73 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 |
-| 74 | [Canon in D](https://open.spotify.com/track/5b7rilZzZG7QbiaXiMyWqz) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 5:11 |
+| 73 | [Canon in D](https://open.spotify.com/track/5b7rilZzZG7QbiaXiMyWqz) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 5:11 |
+| 74 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 |
 | 75 | [Danny](https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Broadchurch \(Music From The Original TV Series\)](https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR) | 4:23 |
 | 76 | [Inside Out](https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V) | [Borghild Wenn](https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7) | [Inside Out](https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7) | 2:32 |
 | 77 | [Heavenly Walk](https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Heavenly Walk](https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS) | 4:44 |

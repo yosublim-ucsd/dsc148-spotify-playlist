@@ -1,13 +1,93 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Jan 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Jan 19:02 UTC.",
   "num_followers": 86,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOWH9vj+LX+WBhICw0HgjcjvlKSbOh",
+  "snapshot_id": "AAAOXaC4Q6TC52pVf5Hz1urqB+SIJRvL",
   "tracks": [
+    {
+      "added_at": "2025-01-08 09:02:45",
+      "album": {
+        "name": "Change the Channel",
+        "url": "https://open.spotify.com/album/2PKmzNJPfctS1oXMkrVfG7"
+      },
+      "artists": [
+        {
+          "name": "clipping.",
+          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Jonathan Snipes",
+          "url": "https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M"
+        },
+        {
+          "name": "William Hutson",
+          "url": "https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm"
+        }
+      ],
+      "duration_ms": 135654,
+      "name": "Change the Channel",
+      "url": "https://open.spotify.com/track/2AY9O7SaYWCWrJ92qTWcng"
+    },
+    {
+      "added_at": "2025-01-08 19:02:39",
+      "album": {
+        "name": "Bologna",
+        "url": "https://open.spotify.com/album/3PR12ArZ8CbnuMrFWFGNz3"
+      },
+      "artists": [
+        {
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        },
+        {
+          "name": "Fiver",
+          "url": "https://open.spotify.com/artist/1nvq3vakg2j1A0wTpV0AkO"
+        }
+      ],
+      "duration_ms": 264120,
+      "name": "Bologna",
+      "url": "https://open.spotify.com/track/1lUeZctPxbFJWysc8w9aha"
+    },
+    {
+      "added_at": "2025-01-08 19:02:39",
+      "album": {
+        "name": "Building 650",
+        "url": "https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 231677,
+      "name": "Building 650",
+      "url": "https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr"
+    },
+    {
+      "added_at": "2025-01-08 09:02:45",
+      "album": {
+        "name": "Portrait of My Heart",
+        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "duration_ms": 282850,
+      "name": "Portrait of My Heart",
+      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
+    },
     {
       "added_at": "2025-01-07 19:03:30",
       "album": {
@@ -235,6 +315,22 @@
       "duration_ms": 133003,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
+    },
+    {
+      "added_at": "2025-01-08 09:02:45",
+      "album": {
+        "name": "Yes I Can",
+        "url": "https://open.spotify.com/album/6xnu5R7xVEm6ThD1wAAEjM"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Yes I Can",
+      "url": "https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6"
     },
     {
       "added_at": "2025-01-06 23:02:59",
@@ -795,94 +891,6 @@
       "duration_ms": 182078,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/1scHcVeu2euE1EldbxtxMq"
-    },
-    {
-      "added_at": "2024-12-20 14:03:21",
-      "album": {
-        "name": "Apple",
-        "url": "https://open.spotify.com/album/6i0atmeYVUoeI58dINmglw"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 135001,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/2qVxkSW21r1r6aXRbCA3Q6"
-    },
-    {
-      "added_at": "2024-12-20 09:03:15",
-      "album": {
-        "name": "MF Mosh Pit",
-        "url": "https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Und3rsound",
-          "url": "https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47"
-        }
-      ],
-      "duration_ms": 134812,
-      "name": "MF Mosh Pit",
-      "url": "https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF"
-    },
-    {
-      "added_at": "2024-12-20 19:03:12",
-      "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/3QobEXKuMPBaNz23tet7qW"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 166838,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/3S0aN2k0WlUrHgDoiUkcxA"
-    },
-    {
-      "added_at": "2024-12-20 14:03:21",
-      "album": {
-        "name": "Christmas in New York",
-        "url": "https://open.spotify.com/album/5M1VumcjimDhPgMbKxNEgB"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 144362,
-      "name": "Christmas in New York",
-      "url": "https://open.spotify.com/track/62aON6Cryxp0VFjQALuUcK"
-    },
-    {
-      "added_at": "2024-12-20 14:03:21",
-      "album": {
-        "name": "Mental Health",
-        "url": "https://open.spotify.com/album/6mCf6lxzbJYtcPktVBSBRR"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 388366,
-      "name": "Mental Health",
-      "url": "https://open.spotify.com/track/2gCVUZhdojdcuCZlhjaLmp"
     }
   ],
   "unique_name": "New Singles Now",

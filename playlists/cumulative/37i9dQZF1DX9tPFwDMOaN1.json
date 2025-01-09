@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: TWICE, Megan Thee Stallion",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: BSS",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
@@ -1518,6 +1518,24 @@
       "duration_ms": 224000,
       "name": "Catch (Feat. Hwa Sa)",
       "url": "https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ"
+    },
+    {
+      "album": {
+        "name": "BSS 2nd Single Album \u2018TELEPARTY\u2019",
+        "url": "https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq"
+      },
+      "artists": [
+        {
+          "name": "BSS",
+          "url": "https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153013,
+      "name": "CBZ (Prime time)",
+      "url": "https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS"
     },
     {
       "album": {
@@ -4287,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF"
+    },
+    {
+      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -5760,7 +5796,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
@@ -7897,6 +7933,24 @@
     },
     {
       "album": {
+        "name": "Season of Memories",
+        "url": "https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186558,
+      "name": "Season of Memories",
+      "url": "https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK"
       },
@@ -8714,7 +8768,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
@@ -9968,7 +10022,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 183786,
       "name": "TTYL",
       "url": "https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT"

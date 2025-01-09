@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 409756,
+  "num_followers": 409880,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAADvWWoOthu3kk6sFSD0nl5B",
+  "snapshot_id": "Z3xugAAAAABRlAqmBqFZSkiL6j5a+sSN",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 264240,
-      "name": "Still in Love with You",
-      "url": "https://open.spotify.com/track/51UNNIXG0vZrwB40N6qWOo"
+      "duration_ms": 253106,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 253106,
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
+      "duration_ms": 264240,
+      "name": "Still in Love with You",
+      "url": "https://open.spotify.com/track/51UNNIXG0vZrwB40N6qWOo"
     },
     {
       "added_at": null,

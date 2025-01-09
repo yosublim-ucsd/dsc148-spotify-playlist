@@ -1,6 +1,6 @@
 {
   "description": "the best new metalcore - where brutality and technicality collide. Cover: LANDMVRKS",
-  "num_followers": 938451,
+  "num_followers": 938546,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "Hatred",
-        "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
+        "name": "SLEEP WHEN I\u2019M DEAD / HELLBOUND",
+        "url": "https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt"
       },
       "artists": [
         {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "Autumn Kings",
+          "url": "https://open.spotify.com/artist/7BYLAgXd3LygQ9aJupZ6p8"
         }
       ],
-      "duration_ms": 183964,
-      "name": "Hatred",
-      "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
+      "duration_ms": 216716,
+      "name": "SLEEP WHEN I\u2019M DEAD",
+      "url": "https://open.spotify.com/track/4ExLy31ilDb3T7xBCK46hG"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "SLEEP WHEN I\u2019M DEAD / HELLBOUND",
-        "url": "https://open.spotify.com/album/7sjnUsvvEHwqhyob2YHtlt"
+        "name": "Hatred",
+        "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
       },
       "artists": [
         {
-          "name": "Autumn Kings",
-          "url": "https://open.spotify.com/artist/7BYLAgXd3LygQ9aJupZ6p8"
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 216716,
-      "name": "SLEEP WHEN I\u2019M DEAD",
-      "url": "https://open.spotify.com/track/4ExLy31ilDb3T7xBCK46hG"
+      "duration_ms": 183964,
+      "name": "Hatred",
+      "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -879,30 +879,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
-        "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        },
-        {
-          "name": "Eric Vanlerberghe",
-          "url": "https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2"
-        },
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 263161,
-      "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
-      "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "Exhumed",
         "url": "https://open.spotify.com/album/62GxN4mHQpOSmSidCNRo15"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 211230,
       "name": "Apathy",
       "url": "https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+        "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Eric Vanlerberghe",
+          "url": "https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 263161,
+      "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
+      "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "Let The Ocean Take Me (Redux)",
-        "url": "https://open.spotify.com/album/3rFpcPqcUpFRcbFwd5kyCm"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 239799,
-      "name": "Pittsburgh - Redux",
-      "url": "https://open.spotify.com/track/4WLnFkOz45jnsDmrFopEIM"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "Killshot",
         "url": "https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 152547,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "Let The Ocean Take Me (Redux)",
+        "url": "https://open.spotify.com/album/3rFpcPqcUpFRcbFwd5kyCm"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 239799,
+      "name": "Pittsburgh - Redux",
+      "url": "https://open.spotify.com/track/4WLnFkOz45jnsDmrFopEIM"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "Reincarnate: 10 Year Anniversary",
-        "url": "https://open.spotify.com/album/4JeIjV5hjOfr1WcKLMySzz"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 216661,
-      "name": "Reincarnate: Reincarnated",
-      "url": "https://open.spotify.com/track/7F2x6DJvZvXmTSM8YWg5lF"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "Murder8",
         "url": "https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 228493,
       "name": "Murder8",
       "url": "https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "Reincarnate: 10 Year Anniversary",
+        "url": "https://open.spotify.com/album/4JeIjV5hjOfr1WcKLMySzz"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 216661,
+      "name": "Reincarnate: Reincarnated",
+      "url": "https://open.spotify.com/track/7F2x6DJvZvXmTSM8YWg5lF"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "Infection",
-        "url": "https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 167867,
-      "name": "Infection",
-      "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "Darker Colors (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 198593,
       "name": "suffer.",
       "url": "https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "Infection",
+        "url": "https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 167867,
+      "name": "Infection",
+      "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "Villain Arc",
-        "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 219330,
-      "name": "Villain Arc",
-      "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "Lore",
         "url": "https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 164916,
       "name": "No Answer",
       "url": "https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "Villain Arc",
+        "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 219330,
+      "name": "Villain Arc",
+      "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
     },
     {
       "added_at": "2024-12-20 17:06:36",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-12-20 17:06:36",
       "album": {
-        "name": "ODDWORLD",
-        "url": "https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF"
-      },
-      "artists": [
-        {
-          "name": "Ocean Grove",
-          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
-        }
-      ],
-      "duration_ms": 180625,
-      "name": "SOWHAT1999",
-      "url": "https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q"
-    },
-    {
-      "added_at": "2024-12-20 17:06:36",
-      "album": {
         "name": "Invisible Rain",
         "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 159280,
       "name": "Invisible Rain",
       "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+    },
+    {
+      "added_at": "2024-12-20 17:06:36",
+      "album": {
+        "name": "ODDWORLD",
+        "url": "https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF"
+      },
+      "artists": [
+        {
+          "name": "Ocean Grove",
+          "url": "https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU"
+        }
+      ],
+      "duration_ms": 180625,
+      "name": "SOWHAT1999",
+      "url": "https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q"
     },
     {
       "added_at": "2024-12-20 17:06:36",

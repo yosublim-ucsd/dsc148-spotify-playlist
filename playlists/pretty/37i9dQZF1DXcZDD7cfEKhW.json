@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Addison Rae",
-  "num_followers": 4090838,
+  "num_followers": 4090869,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Your Love (Diplo Remix)",
-        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
-      },
-      "artists": [
-        {
-          "name": "The Outfield",
-          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "Your Love - Diplo Remix",
-      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Your Love (Diplo Remix)",
+        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "Your Love - Diplo Remix",
+      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
-        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
+        "name": "Lose You (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
       },
       "artists": [
         {
@@ -1308,17 +1308,13 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 234411,
-      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
-      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
+      "duration_ms": 156404,
+      "name": "Lose You - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1495,8 +1491,8 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Lose You (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
+        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
       },
       "artists": [
         {
@@ -1504,13 +1500,17 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 156404,
-      "name": "Lose You - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
+      "duration_ms": 234411,
+      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
+      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
       "added_at": "2024-07-26 04:00:00",

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-784 songs - 2 day 4 hr 37 min
+785 songs - 2 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [Long Was The Year](https://open.spotify.com/track/4aUHXyMSMVfuLyz8FAEiNm) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:38 | 2024-03-26 | 2024-05-20 |
 | [lookaliveandplaydead \(feat\. Quelle Chris, Mal Devisa, Denmark Vessey, Foonyap\)](https://open.spotify.com/track/6G36vIi1xI9SoLIq7hrIcL) | [Temps](https://open.spotify.com/artist/4PbGB2yeGKAyS7ZSZ5m9PU), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi), [Mal Devisa](https://open.spotify.com/artist/3YMOzNArPJIyR5Y5iIxOpi), [Denmark Vessey](https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ), [Foonyap](https://open.spotify.com/artist/37cFjzZQ7aSlexb2IoNJgO) | [PARTY GATOR PURGATORY](https://open.spotify.com/album/0c9GiN1Zkg2Wz9Qk5AJa3l) | 4:22 | 2023-12-04 | 2024-07-09 |
 | [Looking For Someone](https://open.spotify.com/track/2lvM9dA12IIqBVU2aF5MaV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Trespass](https://open.spotify.com/album/17hKeFpIov0cxAFQbGegEy) | 7:07 | 2023-10-30 | 2024-01-04 |
-| [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 | 2024-08-01 |  |
+| [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 | 2024-08-01 | 2025-01-09 |
 | [Loser](https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/1M1dhwZE65bqGfbUdMzvlj) | 3:55 | 2022-04-21 |  |
 | [Lost](https://open.spotify.com/track/494Mu6x7PKSjuuh975jcI3) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Evergreen](https://open.spotify.com/album/1IN1QBfV9tNR6fFgR7PsUl) | 3:20 | 2024-11-03 | 2024-11-06 |
 | [Lost & Found](https://open.spotify.com/track/6jaLFu5HvfNrI1JmcM4eXu) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 5:14 | 2023-05-19 |  |
@@ -486,6 +486,7 @@
 | [On Glaze](https://open.spotify.com/track/1gy0GG6iGjD8EBAO3gvEft) | [Department Of Eagles](https://open.spotify.com/artist/0d2BmAcZ7p8vrtBPY48WMW) | [The Cold Nose](https://open.spotify.com/album/6Mdlj2C8YahbrF8KqHTM8d) | 1:51 | 2024-01-19 | 2024-07-12 |
 | [On The Ground](https://open.spotify.com/track/23UUCJfCR7V19EszpVctmK) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Survival Sounds](https://open.spotify.com/album/59ghXuWp5F2eqDovUHS0yB) | 3:38 | 2024-01-04 |  |
 | [On Tonight](https://open.spotify.com/track/0WmVoQjWbJ1TX8pAZ8Rq0j) | [Rosali](https://open.spotify.com/artist/2WpwNw5EKb52c1QlvnGqfs) | [Bite Down](https://open.spotify.com/album/28ZqFucRGgeTSWyVMN5DV8) | 4:17 | 2024-12-21 |  |
+| [On Your Wings](https://open.spotify.com/track/5WElqOGrOB9b2p30RQdpRh) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx) | 3:53 | 2025-01-08 |  |
 | [Once Twice Melody](https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:44 | 2022-10-24 |  |
 | [Oncle Jazz](https://open.spotify.com/track/204t5SErksNRHRhU52g5JF) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 0:57 | 2023-08-19 | 2023-08-28 |
 | [One More Chance \- 2018 Remaster](https://open.spotify.com/track/5GOBlnqd5yjo6Xxf4kC7t5) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually \(2018 Remaster\)](https://open.spotify.com/album/0p5QwhEke5P9mFY4CY9u4j) | 5:31 | 2023-08-04 | 2024-01-22 |

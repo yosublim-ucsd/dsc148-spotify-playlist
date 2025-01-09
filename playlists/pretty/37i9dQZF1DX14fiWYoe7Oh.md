@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 
 > The K\-Pop idols who started it all from 90's \- 10's\. \(90년대부터 2010년대까지 케이팝 아이돌 필수곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,545 likes - 137 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,578 likes - 137 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fiWYoe7Oh.md) - [plain]
 | 87 | [This Love](https://open.spotify.com/track/0T5G5cJUwg3WnAiCVtClOs) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [The Classic](https://open.spotify.com/album/1C0uqSZyf4EIBpx3qPK567) | 3:38 |
 | 88 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
 | 89 | [My Sweetie](https://open.spotify.com/track/3TizzRfLv29Iv3wUgCSQ77) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:38 |
-| 90 | [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 |
+| 90 | [Hug](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 |
 | 91 | [너 때문에 미쳐](https://open.spotify.com/track/33KzJtbSIQY3z9q3hfKnLO) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Breaking Heart](https://open.spotify.com/album/4yGB5VxkZIKO7LzD48U99p) | 3:14 |
 | 92 | [Power](https://open.spotify.com/track/1B8b49DDYAP64KnDaRfJkQ) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [Power](https://open.spotify.com/album/3WNcpqYGMq6fCWF2ryN6Gg) | 3:51 |
 | 93 | [Clap Your Hands \(박수쳐\)](https://open.spotify.com/track/65UOmhzHI1X3XQ5UJmlRDe) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [To Anyone](https://open.spotify.com/album/06OmG4w99ODgvopIqunr52) | 3:42 |

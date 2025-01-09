@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37905,
+  "num_followers": 37906,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABwaE+MxBVTPoUoHa7GR9pm",
+  "snapshot_id": "Z3xugAAAAAAC5BAdy9DhgFiyYN8DtsiV",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criador do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 262140,
-      "name": "Fa\u00e7a Morada - Ao Vivo",
-      "url": "https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daniela Ara\u00fajo",
         "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
       },
@@ -647,42 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 180188,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+        "name": "Criador do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv"
       },
       "artists": [
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 343320,
-      "name": "Entrega",
-      "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
+      "duration_ms": 262140,
+      "name": "Fa\u00e7a Morada - Ao Vivo",
+      "url": "https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC"
     },
     {
       "added_at": null,
@@ -703,6 +663,26 @@
       "duration_ms": 216533,
       "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
       "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 343320,
+      "name": "Entrega",
+      "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
     },
     {
       "added_at": null,
@@ -739,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 180188,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Criador do Mundo",
         "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 244800,
       "name": "Imensur\u00e1vel",
       "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 254407,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/6ktpmdpTcsHiMl17l1k5Nl"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 232965,
       "name": "Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/1Xt0Sg8fdXGH70vQDz7AaU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 254407,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/6ktpmdpTcsHiMl17l1k5Nl"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 202875,
+      "name": "Sintonia",
+      "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarse: Lado B",
-        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 202875,
-      "name": "Sintonia",
-      "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
     },
     {
       "added_at": null,

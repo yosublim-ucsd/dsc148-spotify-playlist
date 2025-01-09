@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/4qstWgP2KMRSiTY3a1fF2R.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Click Click Boom](https://open.spotify.com/track/55SUneDPq3ZOrJi8sVG78G) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Moving Forward In Reverse: Greatest Hits](https://open.spotify.com/album/2DUQWxuRC0J8Nn3ejQHROx) | 4:12 |
 | 2 | [Pressure and Time](https://open.spotify.com/track/6XDNRpkuzEc7zpKXSEWkVr) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Pressure & Time](https://open.spotify.com/album/5zD6AMrPIPyJc0ZEb5W4Wr) | 3:16 |
-| 3 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:45 |
+| 3 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:46 |
 | 4 | [Piece by Piece](https://open.spotify.com/track/5A495HyfXkBqQf3Vk7ygBK) | [Strata](https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv) | [Strata](https://open.spotify.com/album/1DYHpns3UkdTJuYeyc9T0N) | 3:36 |
 | 5 | [Psychosocial](https://open.spotify.com/track/5Pm9uuEL0q6aXSRT3161UP) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/4vD8PvUW4UfSL9K4CspEzv) | 4:43 |
 | 6 | [This Is the New Shit](https://open.spotify.com/track/4b4eQqhpgmJsy4dP07V7cG) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Matrix Reloaded: The Album](https://open.spotify.com/album/4iLPd0Abb4S96sB2QEz2bl) | 4:20 |

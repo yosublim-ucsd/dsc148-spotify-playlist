@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74986,
+  "num_followers": 74982,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Quiet Moon, Wild Sea",
         "url": "https://open.spotify.com/album/0TRwHdBtNJyI7d2Pfboc2b"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 248858,
       "name": "Quiet Moon, Wild Sea",
       "url": "https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Love Is an Open Road",
-        "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
-      },
-      "artists": [
-        {
-          "name": "Israel Cannan",
-          "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Love Is an Open Road",
-      "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Evermore",
         "url": "https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK"
+        "name": "Love Is an Open Road",
+        "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Israel Cannan",
+          "url": "https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx"
         }
       ],
-      "duration_ms": 204573,
-      "name": "Every Side Of You",
-      "url": "https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb"
+      "duration_ms": 166000,
+      "name": "Love Is an Open Road",
+      "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -579,6 +563,22 @@
       "duration_ms": 260049,
       "name": "End of the Line",
       "url": "https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "Every Side Of You",
+      "url": "https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Where'd You Go",
-        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
+        "name": "Oh My Girl",
+        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "Freight Train Foxes",
+          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
         }
       ],
-      "duration_ms": 219479,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
+      "duration_ms": 168393,
+      "name": "Oh My Girl",
+      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Where'd You Go",
+        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 219479,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Oh My Girl",
-        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
-      },
-      "artists": [
-        {
-          "name": "Freight Train Foxes",
-          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
-        }
-      ],
-      "duration_ms": 168393,
-      "name": "Oh My Girl",
-      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Furniture",
+      "url": "https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Still Care (feat. NASAYA)",
         "url": "https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
       "artists": [
         {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 194884,
-      "name": "Furniture",
-      "url": "https://open.spotify.com/track/0AnwmrTTnCLku2gx1yPoLZ"
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -747,22 +763,6 @@
       "duration_ms": 205999,
       "name": "The Race",
       "url": "https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Winner Takes It All",
-        "url": "https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU"
-      },
-      "artists": [
-        {
-          "name": "Didirri",
-          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
-        }
-      ],
-      "duration_ms": 319798,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "The Sweetest Days",
         "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 214088,
       "name": "The Sweetest Days",
       "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "The Winner Takes It All",
+        "url": "https://open.spotify.com/album/4CBJ50kqiFjnrnw0meoSJU"
+      },
+      "artists": [
+        {
+          "name": "Didirri",
+          "url": "https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw"
+        }
+      ],
+      "duration_ms": 319798,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -959,22 +959,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Wasting Time",
-        "url": "https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp"
+        "name": "Hit or Miss",
+        "url": "https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6"
       },
       "artists": [
         {
-          "name": "MADDY MAY",
-          "url": "https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu"
-        },
-        {
-          "name": "Billy Otto",
-          "url": "https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH"
+          "name": "Alexander Biggs",
+          "url": "https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo"
         }
       ],
-      "duration_ms": 192627,
-      "name": "Wasting Time",
-      "url": "https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh"
+      "duration_ms": 235280,
+      "name": "Laundromat",
+      "url": "https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP"
     },
     {
       "added_at": "2023-11-30 13:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,056 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,062 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 25 | [Falta Coragem](https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l) | 2:37 |
 | 26 | [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Alleff](https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 |
 | 27 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW) | 3:12 |
-| 28 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 |
-| 29 | [No Hablo Español](https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:46 |
+| 28 | [No Hablo Español](https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:46 |
+| 29 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 |
 | 30 | [10/10](https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [PRISCILLA](https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik) | 2:16 |
 | 31 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
-| 32 | [Bandida \(feat\. Mc Mayara\)](https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Mayara](https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:26 |
-| 33 | [Problema Seu](https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:42 |
+| 32 | [Problema Seu](https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:42 |
+| 33 | [Bandida \(feat\. Mc Mayara\)](https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Mayara](https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:26 |
 | 34 | [Fun Tonight \- Pabllo Vittar Remix](https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:20 |
 | 35 | [A Lua](https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:35 |
 | 36 | [Descontrolada \- Cyberkills Remix](https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws), [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Calma Amiga \(feat\. Anitta\) \- Dj RaMeMes \(O DESTRUIDOR DO FUNK\) & DJ Tonias Extended Mix](https://open.spotify.com/track/3TRIwk9p4ACUJwTxs8SqWQ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3), [DJ Tonias](https://open.spotify.com/artist/6R9FiidHLdoF8vJLIsnjub) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:59 |
 | 50 | [Buzina](https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:17 |
 
-Snapshot ID: `Z3sdAAAAAABc5quABv8qkxJcthzgfNPp`
+Snapshot ID: `Z3xugAAAAABBnv016tm94NxOdSGEISiB`

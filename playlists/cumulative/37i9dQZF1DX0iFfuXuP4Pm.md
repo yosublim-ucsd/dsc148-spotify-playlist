@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Jan Roberts
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Amiel Sol
 
-252 songs - 15 hr 29 min
+254 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Hoy!](https://open.spotify.com/track/7kTlnlBIKQvt2dQD1f58kE) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 4:21 | 2024-01-24 | 2024-04-11 |
 | [Hulaan](https://open.spotify.com/track/2i75Hz2OpChywxnUguC3Kw) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Hulaan](https://open.spotify.com/album/2jvtYVPReKC4CCQVNEYQOS) | 3:38 | 2024-01-31 | 2024-04-11 |
 | [Huling Liham](https://open.spotify.com/track/5lM05T9khhd1esKZNQ0u2p) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v), [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Huling Liham](https://open.spotify.com/album/6Ec7m4RcENPvxbvlgNQQtA) | 2:31 | 2024-12-25 |  |
+| [Hunyo '97](https://open.spotify.com/track/3D4qbZwiUGkWP4GayyvQ0t) | [john sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Hunyo '97](https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe) | 5:45 | 2025-01-08 |  |
 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/album/7GZBDFbz4L9aGnegmi8ZtF) | 3:18 | 2024-01-24 | 2024-04-19 |
 | [I Need You](https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL) | [Sam Mangubat](https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw) | [I Need You](https://open.spotify.com/album/3czIPEVrxzNqOsFcQYNAOf) | 3:09 | 2024-01-24 | 2024-02-22 |
 | [I'll Be Somebody You Want](https://open.spotify.com/track/7xCg44FlaaWMkyfAWhoSL1) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [I'll Be Somebody You Want](https://open.spotify.com/album/5J0PdxyEV1WClHdHpm2PEV) | 3:14 | 2024-07-03 | 2024-08-01 |
@@ -159,6 +160,7 @@
 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2024-09-04 |  |
 | [Nandito Na Ako](https://open.spotify.com/track/6Af7cKFcnabaS0WAILVS5g) | [Benj Pangilinan](https://open.spotify.com/artist/6zJwFsIO19JxvxUAveVAFa), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Nandito Na Ako](https://open.spotify.com/album/70S1f3uJouuxCigEVwOfPP) | 3:20 | 2024-06-26 | 2024-10-30 |
 | [Nandiyan Pa Ba? \(feat\. Josh Villena of Autotelic, Bayang Barrios & 6cyclemind kids\)](https://open.spotify.com/track/38TWELRTS1gCaGY1FFmrWN) | [6cyclemind](https://open.spotify.com/artist/3nZa8vRD64ueq3d0JNYTsl), [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Josh Villena of Autotelic](https://open.spotify.com/artist/5kRyaBz2TvIqlr32fA0mV9), [Bayang Barrios](https://open.spotify.com/artist/301vkLsUJgZZ05hWnT14YO), [6cyclemind kids](https://open.spotify.com/artist/44D5K6Tw3FnnRHOtgBczWC) | [Nandiyan Pa Ba? \(feat\. Josh Villena of Autotelic, Bayang Barrios & 6cyclemind kids\)](https://open.spotify.com/album/4hLbshQ7nWrmE70fY1q7bp) | 3:56 | 2024-03-20 | 2024-04-24 |
+| [Nang Tahimik](https://open.spotify.com/track/2ZvnsAhdcPO0P6pM4JWmKs) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Nang Tahimik](https://open.spotify.com/album/5gC6gRRQB40oSPOoyPMDdA) | 5:34 | 2025-01-08 |  |
 | [Napagod Na](https://open.spotify.com/track/4UZdLLW8Pn5xPrvNdnZJQ4) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Napagod Na](https://open.spotify.com/album/5JMLaYvckd8WSXZnC2uLeN) | 2:27 | 2024-04-10 | 2024-06-06 |
 | [Nene](https://open.spotify.com/track/5d7Ymd1AVlmflKF2Sp780l) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Nene](https://open.spotify.com/album/3fNsuXJpYe0wEXB0Ept0pV) | 3:18 | 2024-03-27 | 2024-05-15 |
 | [New Dimensions](https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Traveller Across Dimensions](https://open.spotify.com/album/3AxFszKy5olWdrPV3bHTFY) | 4:18 | 2024-12-04 |  |
@@ -180,10 +182,10 @@
 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 | 2024-01-24 | 2024-02-08 |
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-09-04 |  |
 | [Palihim](https://open.spotify.com/track/7d3lqYm2DtCg7zdulTfBQ8) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/7zKcc6B3ZqbMG117tsGMk3) | 3:49 | 2024-09-11 | 2024-11-21 |
-| [Pamamaalam](https://open.spotify.com/track/6OSekJDcxZkthDnEycnRLr) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Pamamaalam](https://open.spotify.com/album/1EwEagKWXDpCHa7W1imleB) | 3:46 | 2024-11-20 |  |
+| [Pamamaalam](https://open.spotify.com/track/6OSekJDcxZkthDnEycnRLr) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Pamamaalam](https://open.spotify.com/album/1EwEagKWXDpCHa7W1imleB) | 3:46 | 2024-11-20 | 2025-01-09 |
 | [Panaginip Ko](https://open.spotify.com/track/1xZwIbyfN6WXouzprW4CqR) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Panaginip Ko](https://open.spotify.com/album/1yULhjvIedMHjzbgGpSGQD) | 3:42 | 2024-05-29 | 2024-06-21 |
 | [panalangin](https://open.spotify.com/track/68doFzNBmManicbD9yfRoA) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [panalangin](https://open.spotify.com/album/662zfB0NP7XjMNIiup69jj) | 2:42 | 2024-07-24 | 2024-11-07 |
-| [Panatag](https://open.spotify.com/track/3vU2mrdIZdJuVjLq9LhTOF) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN), [Barbie Almalbis](https://open.spotify.com/artist/6XMiJRtSvw0PYHOBSBEsMg) | [Panatag](https://open.spotify.com/album/65QGhrDwDsrJEv94Ltqixh) | 3:47 | 2024-11-28 |  |
+| [Panatag](https://open.spotify.com/track/3vU2mrdIZdJuVjLq9LhTOF) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN), [Barbie Almalbis](https://open.spotify.com/artist/6XMiJRtSvw0PYHOBSBEsMg) | [Panatag](https://open.spotify.com/album/65QGhrDwDsrJEv94Ltqixh) | 3:47 | 2024-11-28 | 2025-01-09 |
 | [Pantropiko](https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pantropiko](https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8) | 3:45 | 2024-02-28 | 2024-07-25 |
 | [PAPALAYO](https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [PAPALAYO](https://open.spotify.com/album/4th74t7vSm28kVsqVwb9ii) | 4:00 | 2024-05-15 | 2024-08-29 |
 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 | 2024-01-24 | 2024-05-09 |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 366177,
+  "num_followers": 366188,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LxCWSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LxHu0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Peggy",
         "url": "https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
+      "album": {
+        "name": "Derik Fein Essentials",
+        "url": "https://open.spotify.com/album/0B6rjlqKygAJkJQADXXRU3"
+      },
+      "artists": [
+        {
+          "name": "Derik Fein",
+          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/4iyCORYRUEVoGZ8aU0DN7F"
+    },
+    {
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -93,7 +109,23 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
@@ -121,39 +153,7 @@
       "url": "https://open.spotify.com/track/2g8J25mESnMa9jseFrvDE1"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
-      "album": {
-        "name": "Derik Fein Essentials",
-        "url": "https://open.spotify.com/album/0B6rjlqKygAJkJQADXXRU3"
-      },
-      "artists": [
-        {
-          "name": "Derik Fein",
-          "url": "https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/4iyCORYRUEVoGZ8aU0DN7F"
-    },
-    {
-      "added_at": "2025-01-07 14:30:48",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Broken Girl",
         "url": "https://open.spotify.com/album/02zGqoK00H1Rx5T5A9dUXI"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Weathervane",
         "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
@@ -201,23 +201,7 @@
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
-    },
-    {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
@@ -237,47 +221,43 @@
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+        "name": "flashes",
+        "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
         },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         }
       ],
-      "duration_ms": 278277,
-      "name": "30 For 30 (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+      "duration_ms": 185076,
+      "name": "flashes",
+      "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "Sigma Boy (\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439)",
-        "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
       },
       "artists": [
         {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK"
-        },
-        {
-          "name": "\u041c\u0430\u0440\u0438\u044f \u042f\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
-          "url": "https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Sigma Boy - \u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
-      "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Restless Mind",
         "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
@@ -297,7 +277,47 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "added_at": "2025-01-08 13:54:54",
+      "album": {
+        "name": "Sigma Boy (\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439)",
+        "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
+      },
+      "artists": [
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK"
+        },
+        {
+          "name": "\u041c\u0430\u0440\u0438\u044f \u042f\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
+          "url": "https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Sigma Boy - \u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
+      "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
+    },
+    {
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -313,27 +333,23 @@
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "Montagem Lunar Diamante",
-        "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
       },
       "artists": [
         {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        },
-        {
-          "name": "WXCHSXN",
-          "url": "https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O"
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 185177,
-      "name": "Montagem Lunar Diamante - Slowed",
-      "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
+      "duration_ms": 215338,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/1Q8iOXsn2SJGFSxUyMHjmk"
@@ -357,23 +373,27 @@
       "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "Speak for Yourself (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+        "name": "Montagem Lunar Diamante",
+        "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "WXCHSXN",
+          "url": "https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O"
         }
       ],
-      "duration_ms": 215338,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
+      "duration_ms": 185177,
+      "name": "Montagem Lunar Diamante - Slowed",
+      "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "I Got A New One",
         "url": "https://open.spotify.com/album/1pzzR7iluYWZd8l0SA1922"
@@ -389,7 +409,7 @@
       "url": "https://open.spotify.com/track/3YQzOzUKb2hcx64XQhmct5"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -405,7 +425,7 @@
       "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB"
@@ -421,23 +441,23 @@
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "Saaheem",
-        "url": "https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Viking",
-      "url": "https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM"
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "keep steady",
         "url": "https://open.spotify.com/album/54IUGypqXx17Z0MhhJ7MhL"
@@ -453,23 +473,23 @@
       "url": "https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+        "name": "Saaheem",
+        "url": "https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
         }
       ],
-      "duration_ms": 235466,
-      "name": "New Year\u2019s Day",
-      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
+      "duration_ms": 164571,
+      "name": "Viking",
+      "url": "https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -505,47 +525,23 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 222568,
-      "name": "EL CL\u00faB",
-      "url": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
+      "duration_ms": 235466,
+      "name": "New Year\u2019s Day",
+      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
-      "album": {
-        "name": "Don\u2019t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
-        "url": "https://open.spotify.com/album/37uyi12r4K8M8rNZKS6JWj"
-      },
-      "artists": [
-        {
-          "name": "BloodHound Q50",
-          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
-        },
-        {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        },
-        {
-          "name": "CEO Trayle",
-          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
-        }
-      ],
-      "duration_ms": 101893,
-      "name": "Don\u2019t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
-      "url": "https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ"
-    },
-    {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
@@ -569,7 +565,7 @@
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
@@ -585,55 +581,31 @@
       "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+        "name": "Don\u2019t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
+        "url": "https://open.spotify.com/album/37uyi12r4K8M8rNZKS6JWj"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 205214,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r"
-    },
-    {
-      "added_at": "2025-01-07 14:30:48",
-      "album": {
-        "name": "Dinner in America Soundtrack",
-        "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
-      },
-      "artists": [
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        },
         {
-          "name": "John + Jane Q. Public",
-          "url": "https://open.spotify.com/artist/6zj2ZyQxZl9Omk4v7kcahS"
-        }
-      ],
-      "duration_ms": 110110,
-      "name": "Watermelon",
-      "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
-    },
-    {
-      "added_at": "2025-01-07 14:30:48",
-      "album": {
-        "name": "Chest Pain (I Love)",
-        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
-      },
-      "artists": [
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        },
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+      "duration_ms": 101893,
+      "name": "Don\u2019t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
+      "url": "https://open.spotify.com/track/5e2f1XLGX2Onj05lxiPfWJ"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "AFTERCARE",
         "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
@@ -649,7 +621,7 @@
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Mi Refe",
         "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
@@ -669,7 +641,39 @@
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 205214,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r"
+    },
+    {
+      "added_at": "2025-01-08 13:54:54",
+      "album": {
+        "name": "Chest Pain (I Love)",
+        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
+    },
+    {
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -685,7 +689,7 @@
       "url": "https://open.spotify.com/track/3VPeA7IW68QRNTfgzb6biZ"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Bing Bong",
         "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
@@ -705,23 +709,7 @@
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
-      "album": {
-        "name": "Well Dude Here's My Thing",
-        "url": "https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN"
-      },
-      "artists": [
-        {
-          "name": "Dave Blunts",
-          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
-        }
-      ],
-      "duration_ms": 146986,
-      "name": "The Cup",
-      "url": "https://open.spotify.com/track/7FYOAvb72KIVFO7l993ADO"
-    },
-    {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "POOKIE'S REQUIEM",
         "url": "https://open.spotify.com/album/3k3lBgSzva1P7XqfqxzmIj"
@@ -737,7 +725,7 @@
       "url": "https://open.spotify.com/track/0CT22b8NYf47LKD5FSrJHO"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
@@ -753,7 +741,23 @@
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
+      "album": {
+        "name": "Best Buds",
+        "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 239597,
+      "name": "Scott Pilgrim vs. My GPA",
+      "url": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA"
+    },
+    {
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
@@ -773,39 +777,7 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
-      "album": {
-        "name": "Driving Through Forever -The Ultimate Crush 40 Collection-",
-        "url": "https://open.spotify.com/album/1uT8wCFZID2svXr4QrrwYm"
-      },
-      "artists": [
-        {
-          "name": "Crush 40",
-          "url": "https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "Live & Learn",
-      "url": "https://open.spotify.com/track/5tUfJOqyiROxClednTF2FC"
-    },
-    {
-      "added_at": "2025-01-07 14:30:48",
-      "album": {
-        "name": "Best Buds",
-        "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 239597,
-      "name": "Scott Pilgrim vs. My GPA",
-      "url": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA"
-    },
-    {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk"
@@ -821,23 +793,39 @@
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+        "name": "Well Dude Here's My Thing",
+        "url": "https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
         }
       ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+      "duration_ms": 146986,
+      "name": "The Cup",
+      "url": "https://open.spotify.com/track/7FYOAvb72KIVFO7l993ADO"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
+      "album": {
+        "name": "Driving Through Forever -The Ultimate Crush 40 Collection-",
+        "url": "https://open.spotify.com/album/1uT8wCFZID2svXr4QrrwYm"
+      },
+      "artists": [
+        {
+          "name": "Crush 40",
+          "url": "https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "Live & Learn",
+      "url": "https://open.spotify.com/track/5tUfJOqyiROxClednTF2FC"
+    },
+    {
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -857,7 +845,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
@@ -885,7 +873,7 @@
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
         "name": "Chill Guy",
         "url": "https://open.spotify.com/album/36iq2WKqQKVStO1sfAAlv4"
@@ -913,24 +901,36 @@
       "url": "https://open.spotify.com/track/5koLyxl6fWprtuT1TKlZ35"
     },
     {
-      "added_at": "2025-01-07 14:30:48",
+      "added_at": "2025-01-08 13:54:54",
       "album": {
-        "name": "MALA M\u00cdA",
-        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 212002,
-      "name": "ME JALO",
-      "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2025-01-08 13:54:54",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     }
   ],
   "unique_name": "Viral 50 - USA",

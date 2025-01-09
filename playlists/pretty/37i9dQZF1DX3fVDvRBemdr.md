@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollandse hits\. Cover: Manuel
+> De nieuwste Hollandse hits\. Cover: Django Wagner & Nelis Leeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,592 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,631 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ik Ben Een Dromer](https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht) | [Manuel](https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy) | [Ik Ben Een Dromer](https://open.spotify.com/album/3E2OfsIaDT7EP05Lboql9A) | 2:54 |
-| 2 | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/track/6S3eaVWKuKmsNyvF1dw5op) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2), [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE) | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/album/2pZijjTGEG1GWxMfiV9EgN) | 2:51 |
+| 1 | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/track/6S3eaVWKuKmsNyvF1dw5op) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2), [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE) | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/album/2pZijjTGEG1GWxMfiV9EgN) | 2:51 |
+| 2 | [Ik Ben Een Dromer](https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht) | [Manuel](https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy) | [Ik Ben Een Dromer](https://open.spotify.com/album/3E2OfsIaDT7EP05Lboql9A) | 2:54 |
 | 3 | [Bandolero](https://open.spotify.com/track/5k9CrZ3aW3JqvA1XuUiEWW) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Bandolero](https://open.spotify.com/album/6EH4sQTdM1gyew6f3oWDr4) | 3:05 |
 | 4 | [Losse Pols](https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Losse Pols](https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa) | 2:38 |
 | 5 | [Ook Maar Een Mens](https://open.spotify.com/track/1ANI5lXz3XUycm6tTOxZ7Q) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Ook Maar Een Mens](https://open.spotify.com/album/1PiffcQz64z5cW7A4PedKe) | 3:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 69 | [Als De Bouzouki's Klinken](https://open.spotify.com/track/2KGl4AQdeOkZy6eXnZMHIP) | [Bob Offenberg](https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO) | [Als De Bouzouki's Klinken](https://open.spotify.com/album/0MBGqIqKRlC1XULE0w4bpI) | 2:55 |
 | 70 | [Op De Vijfde Rij](https://open.spotify.com/track/1hKqHdaqJk3RqZ64P9xNHc) | [Dora](https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn) | [Op De Vijfde Rij](https://open.spotify.com/album/1KjWGmfsM9vFUlW4GHFdde) | 2:51 |
 
-Snapshot ID: `Z3vOswAAAADQs1wNtTEInImc58h/7lbT`
+Snapshot ID: `Z36G3AAAAADk7DcaLXrq6+3nszKe0xgQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,977 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,012 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 12 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
 | 13 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 14 | [Sin Ti](https://open.spotify.com/track/57QF4UIb5JicadAG6WZRKI) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Sin Ti](https://open.spotify.com/album/4mv1g3vawUWCavTnRXf3Mf) | 2:46 |
-| 15 | [Secreto de Amor](https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:53 |
-| 16 | [Historia De Un Amor](https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Historia De Un Amor](https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg) | 3:06 |
+| 15 | [Historia De Un Amor](https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Historia De Un Amor](https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg) | 3:06 |
+| 16 | [Secreto de Amor](https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:53 |
 | 17 | [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 |
 | 18 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 |
 | 19 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
 | 20 | [La Media Vuelta](https://open.spotify.com/track/2bHEWIKnvwC8UODwSjXMCu) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 2:27 |
 | 21 | [No](https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [No](https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k) | 2:41 |
-| 22 | [Sabor A Mi](https://open.spotify.com/track/2T5EXt3R5JlSgsDU31CQNl) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Sabor A Mi](https://open.spotify.com/album/26DHsH3JefudnjpnssJh2c) | 2:48 |
-| 23 | [Cuando Te Duermas](https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Cuando Te Duermas](https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT) | 2:42 |
+| 22 | [Cuando Te Duermas](https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Cuando Te Duermas](https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT) | 2:42 |
+| 23 | [Sabor A Mi](https://open.spotify.com/track/2T5EXt3R5JlSgsDU31CQNl) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Sabor A Mi](https://open.spotify.com/album/26DHsH3JefudnjpnssJh2c) | 2:48 |
 | 24 | [Nos Hizo Falta Tiempo](https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Nos Hizo Falta Tiempo](https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf) | 2:46 |
 | 25 | [Lagrima](https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Ambientes](https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0) | 2:00 |
 | 26 | [Perdoname](https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Perdoname](https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M) | 2:24 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 29 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
 | 30 | [No Se Tú](https://open.spotify.com/track/6BFAhQJHsOqJCa9lIJZUE8) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:14 |
 | 31 | [Cerezo Rosa](https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Cerezo Rosa](https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj) | 3:04 |
-| 32 | [Costumbres](https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:15 |
-| 33 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 |
+| 32 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 |
+| 33 | [Costumbres](https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:15 |
 | 34 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 |
 | 35 | [Toda Esta Gente](https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Toda Esta Gente](https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1) | 2:31 |
 | 36 | [Luna Lunera](https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg) | [Cortando Troncos](https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn) | [Luna Lunera](https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr) | 2:04 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 40 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
 | 41 | [Costumbres](https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6) | [Chamin Madero](https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4) | [Juan Gabriel Instrumental](https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg) | 4:06 |
 | 42 | [Siempre Te Amare](https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Siempre Te Amare](https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4) | 2:29 |
-| 43 | [Se Que No Vendras](https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Se Que No Vendras](https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G) | 2:17 |
-| 44 | [Piel Canela](https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:17 |
+| 43 | [Piel Canela](https://open.spotify.com/track/5jgDyBwJ9MT6r1L8LsJXhJ) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:17 |
+| 44 | [Se Que No Vendras](https://open.spotify.com/track/5OonKRrr7zPJ2giLp2onc4) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Se Que No Vendras](https://open.spotify.com/album/1dFqAFCScCb2I5Ycee0z1G) | 2:17 |
 | 45 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
 | 46 | [Tan Enamorados](https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Tan Enamorados](https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV) | 2:21 |
 | 47 | [Amor Que Malo Eres](https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Amor Que Malo Eres](https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB) | 2:36 |

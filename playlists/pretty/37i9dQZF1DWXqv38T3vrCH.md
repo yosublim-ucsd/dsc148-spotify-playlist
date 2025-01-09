@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,601 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,562 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 67 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 |
 | 68 | [Burn The Witch](https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8) | 3:35 |
 | 69 | [Halloween](https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:39 |
-| 70 | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [L'Orchestra Cinematique](https://open.spotify.com/artist/4m1i53DaEliWzSkSFwqv5W) | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo) | 3:19 |
-| 71 | [Nightmares](https://open.spotify.com/track/2SYcSMSO1F6aLirqRxHBpu) | [Huxlxy](https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS) | [Nightmares](https://open.spotify.com/album/1li5K1UxlRdD4rtcwBQQbS) | 3:56 |
+| 70 | [Nightmares](https://open.spotify.com/track/2SYcSMSO1F6aLirqRxHBpu) | [Huxlxy](https://open.spotify.com/artist/2hPnGJ5lirFEwDW38GM2eS) | [Nightmares](https://open.spotify.com/album/1li5K1UxlRdD4rtcwBQQbS) | 3:56 |
+| 71 | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [L'Orchestra Cinematique](https://open.spotify.com/artist/4m1i53DaEliWzSkSFwqv5W) | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo) | 3:19 |
 | 72 | [Monster](https://open.spotify.com/track/4gEmS1pwdSjAEmrHdar9je) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:56 |
 | 73 | [A Shrine to Madness](https://open.spotify.com/track/0VEk1PEMmFPb0dwoAK30sk) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Ritual](https://open.spotify.com/album/787iiwJUZgZLZzRIZWzNeK) | 4:40 |
 | 74 | [Devil Inside](https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Devil Inside](https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq) | 5:14 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 77 | [Am I Evil?](https://open.spotify.com/track/1bqxO1wuMODj6x7fiCCovB) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?](https://open.spotify.com/album/3Kq7zsHEu1aueV2ukmjwKA) | 8:25 |
 | 78 | [Happy Happy Halloween](https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Happy Happy Halloween](https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm) | 2:17 |
 | 79 | [Zombie](https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 5:06 |
-| 80 | [Every Day Is Halloween](https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Every Day Is Halloween](https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE) | 6:24 |
+| 80 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 |
 
 Snapshot ID: `Zw1QywAAAAAFKGyWjE7Q8TBH5lTZ/82H`

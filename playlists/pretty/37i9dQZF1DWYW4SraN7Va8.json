@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 146198,
+  "num_followers": 146371,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me - Remastered 2017",
       "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Dogs Of War",
-        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Dogs Of War",
-      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
         "name": "Automatic Sun",
         "url": "https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 190859,
       "name": "Automatic Sun",
       "url": "https://open.spotify.com/track/3p8SLhMdp3M5cusqAp6H3L"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
+        "name": "Dogs Of War",
+        "url": "https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Dogs Of War",
+      "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Hot Wire",
-        "url": "https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi"
-      },
-      "artists": [
-        {
-          "name": "Kix",
-          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Girl Money",
-      "url": "https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 204913,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
+        "name": "Hot Wire",
+        "url": "https://open.spotify.com/album/1w4WPh0JBQbnrwwes1kgHi"
+      },
+      "artists": [
+        {
+          "name": "Kix",
+          "url": "https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Girl Money",
+      "url": "https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC"
     },
     {
       "added_at": "2024-09-13 06:02:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-09-13 06:02:00",
       "album": {
-        "name": "Call of the Road",
-        "url": "https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr"
-      },
-      "artists": [
-        {
-          "name": "Jenny Don't And The Spurs",
-          "url": "https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk"
-        }
-      ],
-      "duration_ms": 228729,
-      "name": "Paso Del Norte",
-      "url": "https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv"
-    },
-    {
-      "added_at": "2024-09-13 06:02:00",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 231733,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/7i6r9KotUPQg3ozKKgEPIN"
+    },
+    {
+      "added_at": "2024-09-13 06:02:00",
+      "album": {
+        "name": "Call of the Road",
+        "url": "https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr"
+      },
+      "artists": [
+        {
+          "name": "Jenny Don't And The Spurs",
+          "url": "https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk"
+        }
+      ],
+      "duration_ms": 228729,
+      "name": "Paso Del Norte",
+      "url": "https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv"
     }
   ],
   "unique_name": "Las Choppers",

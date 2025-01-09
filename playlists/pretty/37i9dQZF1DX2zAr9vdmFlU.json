@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 438180,
+  "num_followers": 438234,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Todos Tenemos un Amor",
-        "url": "https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0"
-      },
-      "artists": [
-        {
-          "name": "La Mosca Tse-Tse",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 224317,
-      "name": "Todos Tenemos un Amor",
-      "url": "https://open.spotify.com/track/6vH11o55aRZCZqvF7SycPq"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
@@ -635,22 +615,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Me Llaman Nella",
-        "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
+        "name": "Todos Tenemos un Amor",
+        "url": "https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0"
       },
       "artists": [
         {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
         },
         {
-          "name": "Santiago Perin\u00e9",
-          "url": "https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 198298,
-      "name": "Me Llaman Nella",
-      "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
+      "duration_ms": 224317,
+      "name": "Todos Tenemos un Amor",
+      "url": "https://open.spotify.com/track/6vH11o55aRZCZqvF7SycPq"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -667,6 +647,26 @@
       "duration_ms": 138151,
       "name": "sweet nothings",
       "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Me Llaman Nella",
+        "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Santiago Perin\u00e9",
+          "url": "https://open.spotify.com/artist/10kEF3JBr2POevADU2lGmj"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Me Llaman Nella",
+      "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+        "name": "Morena m\u00eda",
+        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+      "duration_ms": 188543,
+      "name": "Morena m\u00eda",
+      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Morena m\u00eda",
-        "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
       },
       "artists": [
         {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 188543,
-      "name": "Morena m\u00eda",
-      "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 224261,
+      "name": "Price of Life",
+      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Versus (EP)",
         "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 258373,
       "name": "El Liso (feat. Luis Towers)",
       "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 224261,
-      "name": "Price of Life",
-      "url": "https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Ay\u00fadame Inspiraci\u00f3n",
-        "url": "https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO"
-      },
-      "artists": [
-        {
-          "name": "Maite Hontel\u00e9",
-          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 247504,
-      "name": "Ay\u00fadame Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 153208,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ay\u00fadame Inspiraci\u00f3n",
+        "url": "https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO"
+      },
+      "artists": [
+        {
+          "name": "Maite Hontel\u00e9",
+          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 247504,
+      "name": "Ay\u00fadame Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "LADAMA",
+        "url": "https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 226405,
+      "name": "Porro Maracatu",
+      "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Cerca de ti (feat. Georgina)",
         "url": "https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 208013,
       "name": "Cerca de ti (feat. Georgina)",
       "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "LADAMA",
-        "url": "https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 226405,
-      "name": "Porro Maracatu",
-      "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Nobreza",
-        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 201364,
-      "name": "Nobreza",
-      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Canta Mundo",
         "url": "https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 231075,
       "name": "Canta Mundo",
       "url": "https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Nobreza",
+        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 201364,
+      "name": "Nobreza",
+      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
     },
     {
       "added_at": "2024-10-25 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,621 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,584 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 49 | [Phir Aur Kya Chahiye \- Asees Version](https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Phir Aur Kya Chahiye \- Asees Version](https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG) | 3:58 |
 | 50 | [Satranga \(Stripped\)](https://open.spotify.com/track/2dYyMsXlyTwJgWXUAWVjZj) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [ANIMAL \(Deluxe Edition Album\)](https://open.spotify.com/album/2OvmWeSaHWe4q6Ru4Myo52) | 3:14 |
 
-Snapshot ID: `Z3YpPgAAAAB5TL4rZXDqUGyu4UQ8JmFG`
+Snapshot ID: `Z345BQAAAAD9j4Yf7goKz4enwxRYLBLJ`

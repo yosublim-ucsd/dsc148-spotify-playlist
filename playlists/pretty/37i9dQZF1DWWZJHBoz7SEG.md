@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Guarda espacio para la Rosca! Empezamos el año con música nueva y un estreno de José Madero, en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 900,707 likes - 52 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,731 likes - 52 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

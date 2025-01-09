@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Domenica, Angelina Victoria en portada.",
-  "num_followers": 113387,
+  "num_followers": 113439,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 166121,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 166121,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
     },
     {
       "added_at": "2024-12-20 06:00:11",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
+        "name": "Deja Que Salga la Luna (En Vivo)",
+        "url": "https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 197525,
+      "name": "Deja Que Salga la Luna - En Vivo",
+      "url": "https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
         "name": "La Loca",
         "url": "https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Deja Que Salga la Luna (En Vivo)",
-        "url": "https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 197525,
-      "name": "Deja Que Salga la Luna - En Vivo",
-      "url": "https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -1003,6 +1003,42 @@
       "duration_ms": 180320,
       "name": "Cuando Hablo De Ti",
       "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
+        "name": "No Me Deja De Doler",
+        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 157946,
+      "name": "No Me Deja De Doler",
+      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
     },
     {
       "added_at": "2024-12-20 06:00:11",
@@ -1039,6 +1075,22 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
+        "name": "Camila Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Aqu\u00ed Lo Siento",
+      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
         "name": "Pa\u2019Delante",
         "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
       },
@@ -1059,58 +1111,6 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "No Me Deja De Doler",
-        "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 157946,
-      "name": "No Me Deja De Doler",
-      "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
-        "name": "Camila Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Aqu\u00ed Lo Siento",
-      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
         "name": "Cowboy Rockstar",
         "url": "https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-12-20 06:00:11",
       "album": {
-        "name": "Beyonce",
-        "url": "https://open.spotify.com/album/3NI6t8o1YTwIDdPMx3yGfR"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Beyonce",
-      "url": "https://open.spotify.com/track/32n44FJQOYB4DPWiDfi1N3"
-    },
-    {
-      "added_at": "2024-12-20 06:00:11",
-      "album": {
         "name": "NAC\u00cd PA CORONAR",
         "url": "https://open.spotify.com/album/4nxAttMtUUuAcdmipG544Q"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 184006,
       "name": "NAC\u00cd PA CORONAR",
       "url": "https://open.spotify.com/track/04KdeYUniYsBPDibppKl3Q"
+    },
+    {
+      "added_at": "2024-12-20 06:00:11",
+      "album": {
+        "name": "Beyonce",
+        "url": "https://open.spotify.com/album/3NI6t8o1YTwIDdPMx3yGfR"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 166529,
+      "name": "Beyonce",
+      "url": "https://open.spotify.com/track/32n44FJQOYB4DPWiDfi1N3"
     },
     {
       "added_at": "2024-12-20 06:00:11",

@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 727820,
+  "num_followers": 727855,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
       "artists": [
         {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
         }
       ],
-      "duration_ms": 160053,
-      "name": "Too Good to be True",
-      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "firstborn",
         "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 213340,
       "name": "sunflower.",
       "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Because Of Yours",
-        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Because Of Yours",
-      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "Giving It All (To You)",
         "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 224626,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Nothing New",
-        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Nothing New",
-      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
+        "name": "Because Of Yours",
+        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 240837,
+      "name": "Because Of Yours",
+      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
     },
     {
       "added_at": "2024-08-19 19:57:57",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "Time Is Cold (Coffee House Version)",
-        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 188541,
-      "name": "Time Is Cold (Coffee House Version)",
-      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
-    },
-    {
-      "added_at": "2024-08-19 19:57:57",
-      "album": {
         "name": "The Other Way",
         "url": "https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
+        "name": "Time Is Cold (Coffee House Version)",
+        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 188541,
+      "name": "Time Is Cold (Coffee House Version)",
+      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
+    },
+    {
+      "added_at": "2024-08-19 19:57:57",
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2024-08-19 19:57:57",
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+        "name": "I Forget Myself (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
       },
       "artists": [
         {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
+      "duration_ms": 212146,
+      "name": "I Forget Myself",
+      "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
     }
   ],
   "unique_name": "Country Coffeehouse",

@@ -1,6 +1,6 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 8484,
+  "num_followers": 8483,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 326533,
-      "name": "Ex-Factor",
-      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 229413,
       "name": "Take A Bow",
       "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 326533,
+      "name": "Ex-Factor",
+      "url": "https://open.spotify.com/track/2VjXGuPVVxyhMgER3Uz2Fe"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 247840,
       "name": "U Got It Bad",
       "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 289760,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 233666,
       "name": "Don't Hurt Yourself (feat. Jack White)",
       "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301173,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/3pxJuMLjNPtiC0fX8EHFlF"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Unappreciated",
         "url": "https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/3pxJuMLjNPtiC0fX8EHFlF"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Fear Of Flying",
         "url": "https://open.spotify.com/album/6DOrJ531pbcGf3ZkrfayPD"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "Officially Missing You",
-      "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
@@ -1247,38 +1231,6 @@
       "duration_ms": 218466,
       "name": "Almost Doesn't Count",
       "url": "https://open.spotify.com/track/5ZCv9I8mgChcYkSrLuLSTc"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "3LW",
-        "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
-      },
-      "artists": [
-        {
-          "name": "3LW",
-          "url": "https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "No More (Baby I'ma Do Right)",
-      "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Toni Braxton",
-        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 301560,
-      "name": "Another Sad Love Song",
-      "url": "https://open.spotify.com/track/70iDnqYvxCPl3mPd3ddxgD"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1299,6 +1251,38 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "Officially Missing You",
+      "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "3LW",
+        "url": "https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7"
+      },
+      "artists": [
+        {
+          "name": "3LW",
+          "url": "https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "No More (Baby I'ma Do Right)",
+      "url": "https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 266306,
       "name": "Bust Your Windows",
       "url": "https://open.spotify.com/track/0rE8OLQpoOFe2xa35twgve"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Toni Braxton",
+        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 301560,
+      "name": "Another Sad Love Song",
+      "url": "https://open.spotify.com/track/70iDnqYvxCPl3mPd3ddxgD"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "Need U Bad",
+      "url": "https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/2ksJHf3VXQ9GHI6Ng5bafL"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Not Gon' Cry",
-      "url": "https://open.spotify.com/track/2OA0iq9hGkvUcS5qA1ZJnU"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0"
       },
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Not Gon' Cry",
+      "url": "https://open.spotify.com/track/2OA0iq9hGkvUcS5qA1ZJnU"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Love and War",
         "url": "https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 241920,
       "name": "Love and War",
       "url": "https://open.spotify.com/track/3fLBmhcgWkPI47LfVQ8paB"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "Need U Bad",
-      "url": "https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Gracie Productions Presents: Hip Hop Volume 1",
-        "url": "https://open.spotify.com/album/6PTPDE5KLE3IeCcqiz0712"
-      },
-      "artists": [
-        {
-          "name": "Ray J",
-          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
-        }
-      ],
-      "duration_ms": 337640,
-      "name": "One Wish",
-      "url": "https://open.spotify.com/track/6QON2WlAI1QayzhgebwvWd"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 237699,
       "name": "Fair Chance",
       "url": "https://open.spotify.com/track/7dZ83x0X0QnZfm1mvJ83bn"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Gracie Productions Presents: Hip Hop Volume 1",
+        "url": "https://open.spotify.com/album/6PTPDE5KLE3IeCcqiz0712"
+      },
+      "artists": [
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        }
+      ],
+      "duration_ms": 337640,
+      "name": "One Wish",
+      "url": "https://open.spotify.com/track/6QON2WlAI1QayzhgebwvWd"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Next Friday (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4e0MOgtJeKQXt0MQGzFVcY"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "I Don't Wanna",
-      "url": "https://open.spotify.com/track/4h7wUvVV8Ff8UL7JqAByiL"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Love Me Back",
         "url": "https://open.spotify.com/album/4FcJwv9ebTXeMuTX1HkK4q"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 192546,
       "name": "Change (with Kehlani)",
       "url": "https://open.spotify.com/track/2qhId6ko1ug9A0mw8BQJs8"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Next Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4e0MOgtJeKQXt0MQGzFVcY"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "I Don't Wanna",
+      "url": "https://open.spotify.com/track/4h7wUvVV8Ff8UL7JqAByiL"
     },
     {
       "added_at": "2024-04-05 09:59:10",

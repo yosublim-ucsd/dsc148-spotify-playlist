@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Awich
 
-1,313 songs - 2 day 19 hr 20 min
+1,314 songs - 2 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [G.O.A.T](https://open.spotify.com/track/1uApzLM9ksJn4CqWuMrBKZ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [G.O.A.T / Never Disappoint](https://open.spotify.com/album/2tvMrD9fO4DfL2xMXeWTR9) | 1:40 | 2024-08-07 | 2024-10-05 |
 | [GARY PAYTON](https://open.spotify.com/track/231qzPrKFz7py1Ce6MlmXV) | [Kapsoul](https://open.spotify.com/artist/4MfpSSOsKtg5bSBpeXCuP8), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [ASCENT](https://open.spotify.com/album/3HTOnKukMs0RuZwzPryPoY) | 3:11 | 2024-04-02 | 2024-05-01 |
 | [Gas City](https://open.spotify.com/track/6BplH7R9tKDPu0lVqxGPk7) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I) | [JAPANESE AMAPIANO](https://open.spotify.com/album/1HWNAyuS01dk3hyspkwyyk) | 4:25 | 2023-11-07 | 2023-11-18 |
+| [GASOLINA \(feat\. Young Coco\)](https://open.spotify.com/track/6BS7LoFuRdIImmeh2S8708) | [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq), [VLOT](https://open.spotify.com/artist/5I9DSyEXlMP12Qw59gshyk), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [VIIH](https://open.spotify.com/album/5Jj21CdmxRk0bO1lGcFtmY) | 3:08 | 2025-01-08 |  |
 | [Gear 5](https://open.spotify.com/track/1Qr1Ao4y3mHqHhCZX6APLi) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [SUN NO KUNI](https://open.spotify.com/album/64svoq5jDGIA3PshBnkeQA) | 3:46 | 2024-04-18 | 2024-04-24 |
 | [Gear 5](https://open.spotify.com/track/3a3IzXws4QWyMJjpalutIi) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [SUN NO KUNI](https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu) | 3:46 | 2023-09-21 | 2024-04-19 |
 | [Gear 5 \- Remix](https://open.spotify.com/track/09qFuP62AreGvLsjpEoqhv) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Gear 5 \(Remix\)](https://open.spotify.com/album/3p1RDGa2EFeq2T4tRIj15Q) | 3:45 | 2024-07-30 | 2024-10-05 |
@@ -583,7 +584,7 @@
 | [Lemonade](https://open.spotify.com/track/1nGM8ZmPGh2aBq1MTDmoIl) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4) | [Lemonade](https://open.spotify.com/album/023Dii2BudetXrtAeF7q05) | 2:19 | 2024-05-16 | 2024-08-21 |
 | [LET DAH $ TALK feat\. levi](https://open.spotify.com/track/5Y6BqbxdrxO60cNImLzvCD) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [REX](https://open.spotify.com/artist/2ll1Av1xmVEOzwNZF0ZOdX), [levi](https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP) | [LET DAH $ TALK feat\. levi](https://open.spotify.com/album/62xLFxRmdcuHf1MPvMxWcp) | 2:08 | 2024-07-23 | 2024-07-31 |
 | [Let Go \(feat\. 柊人\)](https://open.spotify.com/track/4upoXNub9Rh9mXeoq9W1uy) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [Grandma's Wish](https://open.spotify.com/album/2nZymAc6SIUQ769WRPTKzz) | 3:00 | 2023-09-21 | 2024-05-15 |
-| [Let Me Know](https://open.spotify.com/track/2IkishLgusfYXkBnXJMOR0) | [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14) | [Windiw](https://open.spotify.com/album/3phd081w8UMfQLNLFDYLZN) | 3:57 | 2024-12-04 |  |
+| [Let Me Know](https://open.spotify.com/track/2IkishLgusfYXkBnXJMOR0) | [ratiff](https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14) | [Windiw](https://open.spotify.com/album/3phd081w8UMfQLNLFDYLZN) | 3:57 | 2024-12-04 | 2025-01-09 |
 | [LEVELS \(feat\. TXMIYAMA\)](https://open.spotify.com/track/5F62PkZ3pYfoh5hQj8x46M) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw) | [LEVELS \(feat\. TXMIYAMA\)](https://open.spotify.com/album/6xQchSsc3V217VrtsQFtBQ) | 3:03 | 2024-05-09 | 2024-05-15 |
 | [Liar](https://open.spotify.com/track/2Gfbwak1K7UlbsRwldAgIx) | [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [Too Hot To Be Cool](https://open.spotify.com/album/0FAA91iDubYdHcZSOwy4J4) | 2:54 | 2024-08-28 | 2024-09-25 |
 | [Life Goes On](https://open.spotify.com/track/7cqlYNkL4d8SWJobi6k8AD) | [TKdaKurobuchi](https://open.spotify.com/artist/3YeqRPuVdUg4RbLJkIMrY8), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [Re:Dream](https://open.spotify.com/album/2rdzvPC7QL2B7sgGzUiWks) | 3:04 | 2024-06-11 | 2024-07-03 |

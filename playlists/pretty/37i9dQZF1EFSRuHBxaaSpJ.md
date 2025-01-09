@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49 likes - 71 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 71 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 36 | [1992](https://open.spotify.com/track/0Hzgsewk4Rikq44haxwfTO) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:52 |
 | 37 | [Adios](https://open.spotify.com/track/4z8pJ74Yw4B4G3SToTzCKL) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:02 |
 | 38 | [2014](https://open.spotify.com/track/7eIAX5Kkm0N3aQCAEa9QsV) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 2:57 |
-| 39 | [C'est ça les z'hommes](https://open.spotify.com/track/3ScPY519jnogbOKNQPav3I) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Carré VIP](https://open.spotify.com/album/2tqPdi5mS2Ol41V81256zd) | 3:37 |
-| 40 | [Oh My](https://open.spotify.com/track/46MSKqBl3pvuSJcp2VR7qD) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:18 |
+| 39 | [Oh My](https://open.spotify.com/track/46MSKqBl3pvuSJcp2VR7qD) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 3:18 |
+| 40 | [C'est ça les z'hommes](https://open.spotify.com/track/3ScPY519jnogbOKNQPav3I) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Carré VIP](https://open.spotify.com/album/2tqPdi5mS2Ol41V81256zd) | 3:37 |
 | 41 | [Essaie encore](https://open.spotify.com/track/792zA7PcYHPDtUoXnYrV5e) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:40 |
 | 42 | [Booboo](https://open.spotify.com/track/5yFqa6JldRyAPyDQiDPaTk) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Booboo](https://open.spotify.com/album/0NTh1ghyhk0qeyhbDPMGEf) | 2:42 |
 | 43 | [Viens dans mon 93](https://open.spotify.com/track/20b6XMR9nGmtzO8CJ89VIn) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Viens dans mon 93 \(Extrait du projet 93 Empire\)](https://open.spotify.com/album/60RTLxX87WtHyhVDkvjRyk) | 3:23 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 70 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 |
 | 71 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 
-Snapshot ID: `AbmQqgAAAAABzBhrK8fAi9LdSL8+J6Wr`
+Snapshot ID: `AbmWcgAAAABJL2VbxySaRvLjti0Mu/Zc`

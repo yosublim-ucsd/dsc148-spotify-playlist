@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1232955,
+  "num_followers": 1233029,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABAaznaCalNn7jr1JkyUJG4",
+  "snapshot_id": "Z3xugAAAAAAb44c8GbV8udpwZ3VxeJb+",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 179360,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT"
+      "duration_ms": 389933,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 389933,
-      "name": "All I Want Is You",
-      "url": "https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU"
+      "duration_ms": 179360,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT"
     },
     {
       "added_at": null,

@@ -2647,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "The Gift Of Love",
+        "url": "https://open.spotify.com/album/4RpetlbDDEMU1nFLSdG9m5"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176943,
+      "name": "Find The Love",
+      "url": "https://open.spotify.com/track/06M9ASH9hJumE0IkbeVdPH"
+    },
+    {
+      "album": {
         "name": "Finest Hour: The Best of Gavin DeGraw",
         "url": "https://open.spotify.com/album/0IMzbxnAqwRi6sm9s5oOJO"
       },

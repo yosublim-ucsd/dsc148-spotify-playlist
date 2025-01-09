@@ -14357,6 +14357,24 @@
     },
     {
       "album": {
+        "name": "CONNECTION",
+        "url": "https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU"
+    },
+    {
+      "album": {
         "name": "winter dance",
         "url": "https://open.spotify.com/album/6rUp3SNTFjtPD9dRtwreYJ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 
 > Höre dir jetzt die Deutschrap Songs des Jahres an\. Cover: Pashanim
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,302 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,367 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 22 | [40 Tage](https://open.spotify.com/track/1Bds1PSumHSeVQFqIWc77p) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [40 Tage](https://open.spotify.com/album/5Ql4MLA6MSB56ZwJ01lPul) | 1:57 |
 | 23 | [Keine Homies](https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Keine Homies](https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du) | 2:02 |
 | 24 | [Substanzen \(feat\. Aymen, Jiyo & ilo 7araga\)](https://open.spotify.com/track/1EypcNrXUoHSv6siw5FNPi) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Jiyo](https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Substanzen \(feat\. Aymen, Jiyo & ilo 7araga\)](https://open.spotify.com/album/6gv4kiVC6pdkz3qV70WKzz) | 2:27 |
-| 25 | [it girl \(feat\. Sampagne\)](https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [it girl \(feat\. Sampagne\)](https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko) | 2:23 |
+| 25 | [it girl \(feat\. sampagne\)](https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [it girl \(feat\. sampagne\)](https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko) | 2:23 |
 | 26 | [Panama](https://open.spotify.com/track/3qcreqi8RaGqahtJSQDxNI) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Glückskind](https://open.spotify.com/album/2J3En8aAFnHAT3rgsobCoI) | 2:37 |
 | 27 | [LOVEBOMB](https://open.spotify.com/track/24KU81wN6PtnKs6SXktFHP) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LOVEBOMB](https://open.spotify.com/album/2PbtxsIx0WXfhCJYBKDjHE) | 2:32 |
 | 28 | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/track/46Hmjs6AR6xrxDFlFkmXHi) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Bis zur Spree \(feat\. Juju\)](https://open.spotify.com/album/4b8uHELxuYPysvbaUi4Ip7) | 2:45 |

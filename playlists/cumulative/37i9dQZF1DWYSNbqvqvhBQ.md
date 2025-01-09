@@ -2,7 +2,7 @@
 
 ### [Blijf Luisteren](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> De mooiste liedjes van het moment\. Cover: Lenny Kravitz
+> De mooiste liedjes van het moment\. Cover: Robbie Williams
 
 556 songs - 1 day 8 hr 19 min
 

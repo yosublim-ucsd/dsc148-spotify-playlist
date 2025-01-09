@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 246419,
+  "num_followers": 246422,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAC2IhlZFW7hMHyh+c+APq/Q",
+  "snapshot_id": "Z3xugAAAAAAwxq9Xu2B4+D3luUTSZEvy",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "hole in the bottle (with Shania Twain)",
-        "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 156275,
-      "name": "hole in the bottle (with Shania Twain)",
-      "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
+      "duration_ms": 259739,
+      "name": "Endless Love",
+      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
     },
     {
       "added_at": null,
@@ -243,22 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+        "name": "hole in the bottle (with Shania Twain)",
+        "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 259739,
-      "name": "Endless Love",
-      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
+      "duration_ms": 156275,
+      "name": "hole in the bottle (with Shania Twain)",
+      "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
     },
     {
       "added_at": null,

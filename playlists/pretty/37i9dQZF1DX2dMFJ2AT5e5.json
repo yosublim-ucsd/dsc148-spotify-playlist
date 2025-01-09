@@ -1,6 +1,6 @@
 {
   "description": "una lloradita y a seguirle \ud83e\udd72",
-  "num_followers": 126767,
+  "num_followers": 126928,
   "original_name": "pa llorar",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-12-06 16:12:13",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 233128,
+      "name": "Otra Noche en Miami",
+      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
+    },
+    {
+      "added_at": "2024-12-06 16:12:13",
+      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
-    },
-    {
-      "added_at": "2024-12-06 16:12:13",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 233128,
-      "name": "Otra Noche en Miami",
-      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
     },
     {
       "added_at": "2024-12-06 16:12:13",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-06 16:12:13",
       "album": {
-        "name": "Mi Satisfacci\u00f3n",
-        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
-    },
-    {
-      "added_at": "2024-12-06 16:12:13",
-      "album": {
         "name": "Back to Front (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 221373,
       "name": "Alone Again (Naturally)",
       "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
+    },
+    {
+      "added_at": "2024-12-06 16:12:13",
+      "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 157760,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
     },
     {
       "added_at": "2024-12-06 16:12:13",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-12-06 16:12:13",
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "\u2060Aviso importante",
-      "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"
-    },
-    {
-      "added_at": "2024-12-06 16:12:13",
-      "album": {
         "name": "Ropa De Bazar",
         "url": "https://open.spotify.com/album/7z9qYJVpdYt9zplriyrrZI"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 197906,
       "name": "Ropa De Bazar",
       "url": "https://open.spotify.com/track/7kWFRZdedr2gtfE8JDumVZ"
+    },
+    {
+      "added_at": "2024-12-06 16:12:13",
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "\u2060Aviso importante",
+      "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"
     },
     {
       "added_at": "2024-12-06 16:12:13",

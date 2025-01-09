@@ -2,9 +2,9 @@
 
 ### [EQUAL Arabia](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: Elyanna
+> Listen to Arab women, at full volume\. Cover: Haneen Hussain
 
-691 songs - 1 day 15 hr 51 min
+692 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Ask the Birds in Cairo](https://open.spotify.com/track/0smhfpWtRIvkZfmSHtlqFP) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [MC Bolbol](https://open.spotify.com/artist/2pvO2XJbzr9F3kzPwPsZW3) | [Citadel](https://open.spotify.com/album/5R5Y42WWQaGI2ZLl9AUkeo) | 3:47 | 2021-12-30 | 2022-02-26 |
 | [Asli Barri](https://open.spotify.com/track/03KTLf6CPbn53mvq96zybI) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7), [Nancy Hawa](https://open.spotify.com/artist/6dFTgftg5qijJnLBRPqWUd), [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL), [Yusor Hamed](https://open.spotify.com/artist/6ed5NBGyvev1Q2JzDIS47x) | [Asli Barri](https://open.spotify.com/album/5fnQD9hhQa40g4Bk1xFdsX) | 3:32 | 2021-12-23 | 2022-03-02 |
 | [Atoul](https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Atoul](https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX) | 2:42 | 2022-03-03 | 2023-05-13 |
+| [Awal Wahid](https://open.spotify.com/track/3IXtbaSAsaIETueni4EZd7) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Awal Wahid](https://open.spotify.com/album/44xlGgmWCZ8WAJihy39K0c) | 2:57 | 2025-01-08 |  |
 | [Ayzak Ala Enferad](https://open.spotify.com/track/7GvJaBiQmrzLP5FNz61p47) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Ayzak Ala Enferad](https://open.spotify.com/album/5gtfKG7lMH9U5hZjCoV3U3) | 3:18 | 2023-09-22 | 2023-11-23 |
 | [B3eed](https://open.spotify.com/track/5OggynuvjzOkXkwZJxWfD1) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [B3eed](https://open.spotify.com/album/7c6yPPCR5QHWh2l4GCGJvv) | 3:18 | 2024-02-15 | 2024-07-19 |
 | [Ba3d Al Frak](https://open.spotify.com/track/01KJufb1Qt3s3xeiRZll1z) | [Deema Cam](https://open.spotify.com/artist/6r28s3Wv8IIIQgKptX71zj) | [Ba3d Al Frak](https://open.spotify.com/album/0iHOLK0SOIEP4YnNi6wG7S) | 3:54 | 2021-12-23 | 2022-03-01 |
@@ -478,7 +479,7 @@
 | [Stylo warqa](https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Stylo warqa](https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc) | 2:57 | 2022-03-01 | 2023-01-24 |
 | [Superstar](https://open.spotify.com/track/1ujDSWTQvn3WPkgJE7aaSC) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [Superstar](https://open.spotify.com/album/5kflETaCOTX19lMKDUlEwW) | 4:26 | 2021-12-23 | 2022-03-01 |
 | [Ta'lan](https://open.spotify.com/track/4ELuH56Piqzxkuz23pbBUq) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Ta'lan](https://open.spotify.com/album/4a8SJ5uy1axuUEarsnqEV7) | 3:34 | 2023-07-28 | 2023-09-09 |
-| [Ta3ala Wefrah](https://open.spotify.com/track/6qAzmWlNTpJAzw2nwNdO2t) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Ta3ala Wefrah](https://open.spotify.com/album/15Q2tVLsA3e7LBK5d3kcA6) | 3:36 | 2024-02-01 |  |
+| [Ta3ala Wefrah](https://open.spotify.com/track/6qAzmWlNTpJAzw2nwNdO2t) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Ta3ala Wefrah](https://open.spotify.com/album/15Q2tVLsA3e7LBK5d3kcA6) | 3:36 | 2024-02-01 | 2025-01-09 |
 | [Taahod Lel Bachariyye](https://open.spotify.com/track/7czRja1ENXg26jtlQcNctY) | [Manel Mallat](https://open.spotify.com/artist/7bObjqtDpzyr6ge9MyM4ov) | [Taahod Lel Bachariyye](https://open.spotify.com/album/5YkA9Rs1FyzoDXrhjkNMFJ) | 3:32 | 2021-12-23 | 2022-03-02 |
 | [Taal \(\#YOM 10\)](https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [\#YOM](https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE) | 2:23 | 2021-12-30 | 2022-03-02 |
 | [tab eh](https://open.spotify.com/track/3KageFXJDD7z1EehXS2N3J) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Five Seasons](https://open.spotify.com/album/46GrjxPRDj59cFzTw0Pwqq) | 3:13 | 2023-05-08 | 2023-07-07 |

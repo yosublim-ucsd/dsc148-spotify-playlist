@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gabriel Brito, Kaique e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,844 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,883 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 4 | [Medley: João Viu / Sou um Milagre / Vou Seguir \- Ao Vivo](https://open.spotify.com/track/5dsWXguf4QMnRt1JxakWZi) | [Banda Som e Louvor](https://open.spotify.com/artist/2MXmyzaX94wBeNmIjsx6Dc) | [Medley: João Viu / Sou um Milagre / Vou Seguir \(Ao Vivo\)](https://open.spotify.com/album/4fQTfXxHoGjpOXXTkvMISd) | 5:54 |
 | 5 | [Quem Era Eu](https://open.spotify.com/track/3YSTY0yjV7ShECDHRZAF6G) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Quem Era Eu](https://open.spotify.com/album/7JBQKYned5Tt40QkhLoDf6) | 3:06 |
 | 6 | [Tempo de Vitória](https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Tempo de Vitória](https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9) | 3:49 |
-| 7 | [Não e Fake News \- Ao Vivo](https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Não é Fake News \(Ao Vivo\)](https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9) | 3:26 |
+| 7 | [O Barco](https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW) | [Junior e Mateus](https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I) | [No Barco](https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB) | 3:33 |
 | 8 | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/track/5CeWqSYsDIFj56f45yBU33) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/album/50E3HpxrrCnKufDBgwkWgM) | 3:37 |
-| 9 | [O Barco](https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW) | [Junior e Mateus](https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I) | [No Barco](https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB) | 3:33 |
+| 9 | [Não e Fake News \- Ao Vivo](https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Não é Fake News \(Ao Vivo\)](https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9) | 3:26 |
 | 10 | [A Casa](https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [A Casa](https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9) | 4:53 |
 | 11 | [Contigo Até o Fim](https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R) | [Elida Rodrigues](https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ), [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb) | [Contigo Até o Fim](https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye) | 4:03 |
 | 12 | [Adorador por Excelência \- Ao Vivo](https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Adorador por Excelência \(Ao Vivo\)](https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF) | 3:59 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 18 | [Nós \- Acústico](https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Nós \(Acústico\)](https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI) | 4:15 |
 | 19 | [Estou Contigo](https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Estou Contigo](https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE) | 4:09 |
 | 20 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 |
-| 21 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 |
+| 21 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 |
 | 22 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 |
-| 23 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 |
+| 23 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 |
 | 24 | [Sem Mim](https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Sem Mim](https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC) | 3:46 |
 | 25 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
 | 26 | [O Pródigo Vai Voltar](https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Triunfo de Glória](https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH) | 5:36 |

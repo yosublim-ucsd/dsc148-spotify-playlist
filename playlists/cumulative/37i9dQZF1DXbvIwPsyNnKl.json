@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Zae & Hev Abi",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: O SIDE MAFIA, BRGR",
   "name": "KALYE",
   "tracks": [
     {
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 135549,
       "name": "julie pakipot",
       "url": "https://open.spotify.com/track/0mAzGN40qLHmKL5uMKV8Ht"
@@ -4072,6 +4072,28 @@
       "duration_ms": 181708,
       "name": "Sumugal",
       "url": "https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy"
+    },
+    {
+      "album": {
+        "name": "Swanton Bomb",
+        "url": "https://open.spotify.com/album/41GDUh1cgsYr2kv3lAm6lT"
+      },
+      "artists": [
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Swanton Bomb",
+      "url": "https://open.spotify.com/track/2RrTeVhmNxAZmAEVhkUtL1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,974 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,036 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 14 | [Ein Affe und ein Pferd](https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Ganz Oben \(Mixtape\)](https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk) | 3:45 |
 | 15 | [Dickes B \(feat\. Black Kappa\)](https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV), [Black Kappa](https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6) | [New Dubby Conquerors](https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le) | 4:44 |
 | 16 | [Weck mich auf](https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 5:43 |
-| 17 | [Ich rolle mit meim Besten \- Babos Remix](https://open.spotify.com/track/2AXOg2WMjJt8Os7M3b589T) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Russisch Roulette \(Deluxe\)](https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc) | 3:09 |
-| 18 | [Du bist Boss](https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [King](https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v) | 2:43 |
+| 17 | [Du bist Boss](https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [King](https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v) | 2:43 |
+| 18 | [Ich rolle mit meim Besten \- Babos Remix](https://open.spotify.com/track/2AXOg2WMjJt8Os7M3b589T) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Russisch Roulette \(Deluxe\)](https://open.spotify.com/album/3K6MF35dS8vhxKvkcocAHc) | 3:09 |
 | 19 | [Im Ascheregen](https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 4:59 |
 | 20 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
 | 21 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 43 | [Susanne Zur Freiheit](https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw) | [Fischmob](https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1) | [Power](https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu) | 4:12 |
 | 44 | [Hammerhart](https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 3:23 |
 | 45 | [Das Urteil](https://open.spotify.com/track/0RWY3ZawHvW1BxvoO8sHdS) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [The Best Of](https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn) | 5:11 |
-| 46 | [Chartbreaker \(Einmal Star und zurück\)](https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [Überfall](https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP) | 3:48 |
-| 47 | [Ladies & Gentlemen](https://open.spotify.com/track/0UKJzXJ7ffg6kHguTEAVfr) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:46 |
+| 46 | [Ladies & Gentlemen](https://open.spotify.com/track/0UKJzXJ7ffg6kHguTEAVfr) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:46 |
+| 47 | [Chartbreaker \(Einmal Star und zurück\)](https://open.spotify.com/track/6qorcL5WbegRPijl53BVCl) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [Überfall](https://open.spotify.com/album/1VYFFp5JBhO9Cp8oNfCIdP) | 3:48 |
 | 48 | [Safari](https://open.spotify.com/track/5IdPCWPtBLLC6cSxP4BZGm) | [Blumentopf](https://open.spotify.com/artist/3aVwqkJqkpiRLbM0dVqOz6) | [Großes Kino](https://open.spotify.com/album/3DGtfZr0LuTO6zDMyCUscU) | 4:08 |
 | 49 | [Höha, schnella, weita](https://open.spotify.com/track/5YUNatsZEDeY3SYPEaFjs3) | [Rödelheim Hartreim Projekt](https://open.spotify.com/artist/40VZtOKdJ2J5KzjCBUhQpJ), [Moses Pelham](https://open.spotify.com/artist/00DSCauOVv9bIKe8bGWSTG) | [Zurück nach Rödelheim \(3p Master Edition\)](https://open.spotify.com/album/3Rx70sfKqGTwnUwCSLciRb) | 5:01 |
 | 50 | [Hey Du!](https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [\#Beste](https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE) | 4:10 |

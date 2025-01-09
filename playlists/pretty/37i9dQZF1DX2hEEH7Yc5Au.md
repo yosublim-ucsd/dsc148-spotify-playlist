@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 163 braces
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,914 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,917 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 17 | [空白題](https://open.spotify.com/track/4jylN5RdQ1e3azFwtisPrO) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [青春疾走](https://open.spotify.com/album/1E86c02P0E5EuRs3YNgOjZ) | 3:04 |
 | 18 | [路邊的野花](https://open.spotify.com/track/7GWZeRV0UdXItmS7MPZ348) | [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [路邊的野花](https://open.spotify.com/album/38aZXIyQvFGdoVlOExSFhh) | 4:33 |
 | 19 | [好好的](https://open.spotify.com/track/70gPCPrGTuOtS3YVG9XLcW) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [好好的](https://open.spotify.com/album/7EyELTaTBFn5jGwTorXxMH) | 4:02 |
-| 20 | [炒雞喜歡你](https://open.spotify.com/track/3G7qxNluF8hqNbwaeWFL1k) | [Yuki Hsu](https://open.spotify.com/artist/06w51RzkHkpkp2x09REY7v), [彭柏邑](https://open.spotify.com/artist/5aacxSews2ZIWSR23ywXAz) | [光致．蛻變](https://open.spotify.com/album/72qXQjXcbEENF5T2ZhCGzv) | 3:27 |
+| 20 | [炒雞喜歡你](https://open.spotify.com/track/3G7qxNluF8hqNbwaeWFL1k) | [Yuki Hsu](https://open.spotify.com/artist/06w51RzkHkpkp2x09REY7v) | [光致．蛻變](https://open.spotify.com/album/72qXQjXcbEENF5T2ZhCGzv) | 3:27 |
 | 21 | [Always U](https://open.spotify.com/track/4zU94woKSgQsYLFT2m5AsG) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [SGN\-TPE](https://open.spotify.com/album/4ZiPBd4PpdNsjQdJrXf8Uz) | 2:55 |
 | 22 | [晨星 \- 《超棒的我們》插曲](https://open.spotify.com/track/1KTjl8ZQDn5ZE68yXPczsN) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [晨星 \(《超棒的我們》插曲\)](https://open.spotify.com/album/4WdK12HDJKg8UFSr0qjeVf) | 3:18 |
 | 23 | [討厭自己](https://open.spotify.com/track/1hkHdOv56xXHeZAoBrTNpT) | [采子](https://open.spotify.com/artist/448XOK57P1RpvGyLuMUwep) | [討厭自己](https://open.spotify.com/album/0kfyLpMQwN1UigkoLrDEJR) | 2:59 |

@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: N.SSign\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: RIIZE\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-642 songs - 1 day 11 hr 28 min
+643 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Horololo](https://open.spotify.com/track/6u2lCxHSfDki4rhl9pkI0C) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [MAGIC](https://open.spotify.com/album/2NbpxzWVFJfUuNXbIVeWhd) | 3:12 | 2022-04-04 | 2022-04-14 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-30 |  |
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 | 2024-09-13 |
+| [Hug](https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Hug](https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2) | 3:54 | 2025-01-08 |  |
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2022-02-15 | 2022-07-23 |
 | [HWEEK](https://open.spotify.com/track/7muY2OFMX8iuDqk1wP10kn) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [4SHO](https://open.spotify.com/album/0RPXqJPuiBeXYkjpqDd7YU) | 3:18 | 2023-07-04 | 2023-07-21 |
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 | 2022-11-16 |
@@ -504,7 +505,7 @@
 | [SHE BAD](https://open.spotify.com/track/7k1YG4KliiXCVawNyvwT7X) | [MYTEEN](https://open.spotify.com/artist/0Jy5VMwm7X25fOaYh0PyXK) | [F;UZZLE](https://open.spotify.com/album/65Bt7vUBjsEpWv11eNMol5) | 3:27 | 2022-03-31 | 2022-04-20 |
 | [She′s Smiling](https://open.spotify.com/track/6FrwYUcP7qM4TccrPtwOg8) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [She's Smiling](https://open.spotify.com/album/3tQnUoE2Y1QV0VrB1WLPEF) | 3:53 | 2024-12-04 | 2024-12-10 |
 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 | 2022-01-03 | 2023-06-13 |
-| [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 3:25 | 2024-04-18 |  |
+| [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 3:25 | 2024-04-18 | 2025-01-09 |
 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-04-26 | 2024-04-09 |
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2021-12-08 | 2022-06-07 |
 | [Shoot Out](https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.1 Are You There?](https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I) | 3:27 | 2022-03-22 | 2022-03-30 |

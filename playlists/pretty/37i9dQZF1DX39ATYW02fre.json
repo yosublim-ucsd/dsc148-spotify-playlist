@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 243540,
+  "num_followers": 243642,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -679,30 +679,6 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Flower",
-        "url": "https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "AURIq",
-          "url": "https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "AURIq",
+          "url": "https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
+        "name": "is this real love",
+        "url": "https://open.spotify.com/album/0kVBNM3IL2xyDCigklYFAF"
+      },
+      "artists": [
+        {
+          "name": "Ninezz",
+          "url": "https://open.spotify.com/artist/6QnL72psaayojSvTDQaJqY"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "is this real love",
+      "url": "https://open.spotify.com/track/2p3SjPcPdxZ9rYYzS6l6F0"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
         "name": "Boat Party",
         "url": "https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V"
       },
@@ -903,26 +919,6 @@
       "duration_ms": 175609,
       "name": "Boat Party",
       "url": "https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 233009,
-      "name": "Dreaming (feat. Bruno Major)",
-      "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"
     }
   ],
   "unique_name": "Melantronic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Dancing Mood en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,579 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,647 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 65 | [Mi Vida sin tu Amor \(featuring Miño\)](https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Miño](https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 5:28 |
 | 66 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
 | 67 | [Ska en la Playa](https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 2:42 |
-| 68 | [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 |
-| 69 | [Envenenen a Mis Labios](https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 3:50 |
+| 68 | [Envenenen a Mis Labios](https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 3:50 |
+| 69 | [Que me quemen tus ojos](https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Macha Y El Bloque Depresivo](https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy) | [Que me quemen tus ojos](https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ) | 2:39 |
 | 70 | [Un Amor Violento](https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Alvaro Henriquez](https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP) | [Un Amor Violento](https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1) | 4:49 |
 | 71 | [Contigo Me Encontré](https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Contigo Me Encontré](https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0) | 3:22 |
 | 72 | [El Peor Momento](https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [2](https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp) | 3:10 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 82 | [El Túnel Del Amor](https://open.spotify.com/track/11iCxKAxXLyMUmO5044LV9) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Túnel Del Amor](https://open.spotify.com/album/5uAPjTGzfaJhsSAs79kzEQ) | 3:42 |
 | 83 | [Que Se Joda el Amor](https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Que Se Joda el Amor](https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt) | 2:31 |
 | 84 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
-| 85 | [Traka Traka](https://open.spotify.com/track/5uCLc5LAmdQZd6N6A2x9WP) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Los Tulipanes](https://open.spotify.com/artist/2OPPguYEtzBlHakIUE9f6L) | [Traka Traka](https://open.spotify.com/album/4XKB8AEKOAUsAkLi9gmGzV) | 3:05 |
-| 86 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
+| 85 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
+| 86 | [Traka Traka](https://open.spotify.com/track/5uCLc5LAmdQZd6N6A2x9WP) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Los Tulipanes](https://open.spotify.com/artist/2OPPguYEtzBlHakIUE9f6L) | [Traka Traka](https://open.spotify.com/album/4XKB8AEKOAUsAkLi9gmGzV) | 3:05 |
 | 87 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 88 | [El Diablo](https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [El Diablo](https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW) | 2:22 |
 | 89 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |

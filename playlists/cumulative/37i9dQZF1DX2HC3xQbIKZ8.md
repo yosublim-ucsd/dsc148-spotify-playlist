@@ -165,6 +165,6 @@
 | [Why Oh Why](https://open.spotify.com/track/0JMazmj2Tzqr7cgcwlYjVf) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 4:50 | 2023-11-28 | 2024-04-19 |
 | [Why Oh Why](https://open.spotify.com/track/2Jzb0W1Hl83lPMnRu0ehXR) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Why Oh Why](https://open.spotify.com/album/2B1oZVnpqFf96bIM8mg0cC) | 4:50 | 2024-03-21 |  |
 | [Working](https://open.spotify.com/track/3WA9SHUrBSnSJdZ6zG1x64) | [Bradamon Band](https://open.spotify.com/artist/3SGQLqF1vIQNVRmY54FNmr), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Working](https://open.spotify.com/album/5x2umHD2Cv6xFDhl7o12PY) | 3:28 | 2023-11-28 |  |
-| [You've Got A Friend](https://open.spotify.com/track/46eSIuzf3z4gU2MSrCHlyJ) | [UAli](https://open.spotify.com/artist/2VmStNxU1B8egmGyD6mG9O), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [You've Got A Friend](https://open.spotify.com/album/4lr9cWbWcW0fsoY4q4jrrI) | 4:18 | 2024-03-21 |  |
+| [You've Got A Friend](https://open.spotify.com/track/46eSIuzf3z4gU2MSrCHlyJ) | [U\-Ali](https://open.spotify.com/artist/7azxOsXcDxaDx2XDukzdCo), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [You've Got A Friend](https://open.spotify.com/album/4lr9cWbWcW0fsoY4q4jrrI) | 4:18 | 2024-03-21 |  |
 
 \*This playlist was first scraped on 2023-12-10. Prior content cannot be recovered.

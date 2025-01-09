@@ -680,7 +680,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 157866,
       "name": "Cupid's Guidance",
       "url": "https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 204324,
       "name": "I'm a Rock",
       "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
@@ -2528,6 +2528,28 @@
       "duration_ms": 239000,
       "name": "PARRIS",
       "url": "https://open.spotify.com/track/4wPn4wMPCYx7eCU0D5HkJK"
+    },
+    {
+      "album": {
+        "name": "Passenger Princess / Adam",
+        "url": "https://open.spotify.com/album/6eszObM49D1h61rbPxS7po"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147961,
+      "name": "Passenger Princess (feat. Smino)",
+      "url": "https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC"
     },
     {
       "album": {
@@ -4062,6 +4084,28 @@
       "duration_ms": 335310,
       "name": "When I'm in Your Arms",
       "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+    },
+    {
+      "album": {
+        "name": "Why Lie?",
+        "url": "https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Why Lie?",
+      "url": "https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy"
     },
     {
       "album": {

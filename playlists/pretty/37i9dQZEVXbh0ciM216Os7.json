@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABMdoXVcvhV8EnOm4i0iUL9",
+  "snapshot_id": "AAAAAAAAAAD8htTM5fMX5YbdJ/eYgeLE",
   "tracks": [
     {
       "added_at": "2025-01-03 05:00:00",
@@ -23,34 +23,6 @@
       "duration_ms": 224127,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Strange Universe",
-        "url": "https://open.spotify.com/album/32cj6HXBrzQ6odHAQKMXrt"
-      },
-      "artists": [
-        {
-          "name": "Non Phixion",
-          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
-        },
-        {
-          "name": "ILL BILL",
-          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
-        },
-        {
-          "name": "Lord Goat",
-          "url": "https://open.spotify.com/artist/1jEQ9dVjupKqchhxVIkHyD"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 128394,
-      "name": "Strange Universe (The CZAR-KEYS Remix)",
-      "url": "https://open.spotify.com/track/3HPpG7OGpUE6C2sjBn3JLr"
     },
     {
       "added_at": "2025-01-03 05:00:00",
@@ -115,6 +87,34 @@
     {
       "added_at": "2025-01-03 05:00:00",
       "album": {
+        "name": "Strange Universe",
+        "url": "https://open.spotify.com/album/32cj6HXBrzQ6odHAQKMXrt"
+      },
+      "artists": [
+        {
+          "name": "Non Phixion",
+          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
+        },
+        {
+          "name": "ILL BILL",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+        },
+        {
+          "name": "Lord Goat",
+          "url": "https://open.spotify.com/artist/1jEQ9dVjupKqchhxVIkHyD"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 128394,
+      "name": "Strange Universe (The CZAR-KEYS Remix)",
+      "url": "https://open.spotify.com/track/3HPpG7OGpUE6C2sjBn3JLr"
+    },
+    {
+      "added_at": "2025-01-03 05:00:00",
+      "album": {
         "name": "Movies On Demand",
         "url": "https://open.spotify.com/album/23ZTlzMpNcnYYHKmqCsWnQ"
       },
@@ -175,6 +175,30 @@
     {
       "added_at": "2025-01-03 05:00:00",
       "album": {
+        "name": "ALL BUSINESS",
+        "url": "https://open.spotify.com/album/1aTz8gfZiLMfuLiWOVXafd"
+      },
+      "artists": [
+        {
+          "name": "The Massholez",
+          "url": "https://open.spotify.com/artist/3juyI2GMuiHP0XDUWkzO7c"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Sean Price",
+          "url": "https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW"
+        }
+      ],
+      "duration_ms": 238620,
+      "name": "ALL BUSINESS",
+      "url": "https://open.spotify.com/track/4EGbNjLBi1Iui8t7D27PAi"
+    },
+    {
+      "added_at": "2025-01-03 05:00:00",
+      "album": {
         "name": "PREY",
         "url": "https://open.spotify.com/album/5dkx20BaGJVP7NhAyrwY1E"
       },
@@ -199,30 +223,6 @@
       "duration_ms": 216277,
       "name": "MUSIC STORY",
       "url": "https://open.spotify.com/track/0tgTddCceTDvjyrAVHvPaT"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "ALL BUSINESS",
-        "url": "https://open.spotify.com/album/1aTz8gfZiLMfuLiWOVXafd"
-      },
-      "artists": [
-        {
-          "name": "The Massholez",
-          "url": "https://open.spotify.com/artist/3juyI2GMuiHP0XDUWkzO7c"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Sean Price",
-          "url": "https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW"
-        }
-      ],
-      "duration_ms": 238620,
-      "name": "ALL BUSINESS",
-      "url": "https://open.spotify.com/track/4EGbNjLBi1Iui8t7D27PAi"
     },
     {
       "added_at": "2025-01-03 05:00:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2025-01-03 05:00:00",
       "album": {
-        "name": "Philip Glass: Etude No.6",
-        "url": "https://open.spotify.com/album/2C7jFwKmwccy1iNbMeUe6g"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Halcyon String Quartet",
-          "url": "https://open.spotify.com/artist/4QQn5qeygvBoaA2VsRhBQO"
-        }
-      ],
-      "duration_ms": 303693,
-      "name": "Etude No.6 (arranged for string quartet)",
-      "url": "https://open.spotify.com/track/43m2O66Vix5XCqBA5B0z35"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
         "name": "Ivar's Revenge (Cyantist & Mr.Main Remix)",
         "url": "https://open.spotify.com/album/2lWLwzPHx5TV7Y8tpoORQ0"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 275322,
       "name": "Ivar's Revenge - Cyantist & Mr.Main Remix",
       "url": "https://open.spotify.com/track/67M3SJ3sjHmPFQpfQrv143"
+    },
+    {
+      "added_at": "2025-01-03 05:00:00",
+      "album": {
+        "name": "Philip Glass: Etude No.6",
+        "url": "https://open.spotify.com/album/2C7jFwKmwccy1iNbMeUe6g"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Halcyon String Quartet",
+          "url": "https://open.spotify.com/artist/4QQn5qeygvBoaA2VsRhBQO"
+        }
+      ],
+      "duration_ms": 303693,
+      "name": "Etude No.6 (arranged for string quartet)",
+      "url": "https://open.spotify.com/track/43m2O66Vix5XCqBA5B0z35"
     },
     {
       "added_at": "2025-01-03 05:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-01-03 05:00:00",
       "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
         "name": "Unreal Unearth: Unending",
         "url": "https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ"
       },
@@ -419,30 +399,6 @@
       "duration_ms": 202937,
       "name": "Hymn to Virgil",
       "url": "https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd"
-    },
-    {
-      "added_at": "2025-01-03 05:00:00",
-      "album": {
-        "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-        "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Big Dawgs (Remix) [with A$AP Rocky]",
-      "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
     },
     {
       "added_at": "2025-01-03 05:00:00",
@@ -475,18 +431,58 @@
     {
       "added_at": "2025-01-03 05:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/25E7mK5NcKtLTWj8Qs5q1N"
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
       },
       "artists": [
         {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/3bZQDQyabVOAwKNO8YyxRd"
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
+    },
+    {
+      "added_at": "2025-01-03 05:00:00",
+      "album": {
+        "name": "Montagem Lunar Diamante",
+        "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "WXCHSXN",
+          "url": "https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O"
+        }
+      ],
+      "duration_ms": 185177,
+      "name": "Montagem Lunar Diamante - Slowed",
+      "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
+    },
+    {
+      "added_at": "2025-01-03 05:00:00",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 156685,
+      "name": "toxic till the end",
+      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
     },
     {
       "added_at": "2025-01-03 05:00:00",

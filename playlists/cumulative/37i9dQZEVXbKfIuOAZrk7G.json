@@ -5560,10 +5560,28 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221173,
+      "name": "BANG BANG BANG - KR Ver.",
+      "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
     },
     {
       "album": {
@@ -31892,7 +31910,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 185039,
       "name": "La Danse \u00c0 St-Dilon",
       "url": "https://open.spotify.com/track/1o7fCXSFzxdTpaMkpHm1Ns"
@@ -35612,7 +35630,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -35642,7 +35660,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -45430,7 +45448,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 108791,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"

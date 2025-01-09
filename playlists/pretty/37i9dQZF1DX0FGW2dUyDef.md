@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Simge x Era7capone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,405 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,563 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 3 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 |
 | 4 | [Ama Yine Sen](https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Yine Sen](https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj) | 2:14 |
 | 5 | [Yasemen](https://open.spotify.com/track/2SVoUZdzxuDuxBdHSO73KF) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Yasemen](https://open.spotify.com/album/10hs7zZCXHauEHe9mjzG0z) | 2:30 |
-| 6 | [Doldum](https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Doldum](https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav) | 2:26 |
-| 7 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 |
-| 8 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 |
-| 9 | [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 |
-| 10 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 |
-| 11 | [Aradan Çok Yıllar Geçti](https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Aradan Çok Yıllar Geçti](https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc) | 2:50 |
-| 12 | [Gönlüm](https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9) | [Electro Tülay](https://open.spotify.com/artist/3nYlYKL8wcK4OertfuVsfl) | [Gece Film \(Soundtrack\)](https://open.spotify.com/album/7Kenl6rraE4GJi7RRev7LD) | 4:24 |
-| 13 | [Açık Adres \- SAYGI1](https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm), [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Açık Adres \(SAYGI1\)](https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL) | 4:37 |
+| 6 | [Açık Adres \- SAYGI1](https://open.spotify.com/track/0AwkJj5Pj7CKZe7sZo7tHv) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm), [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Açık Adres \(SAYGI1\)](https://open.spotify.com/album/4cHzv7AkgEi8lWAx9iKGCL) | 4:37 |
+| 7 | [Doldum](https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Doldum](https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav) | 2:26 |
+| 8 | [Canın Beni Çekti](https://open.spotify.com/track/6xTi66mobAdZcKR3SMyygD) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Canın Beni Çekti](https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB) | 3:13 |
+| 9 | [Onlar Anlamaz Halden](https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:54 |
+| 10 | [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 |
+| 11 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 |
+| 12 | [Aradan Çok Yıllar Geçti](https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Aradan Çok Yıllar Geçti](https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc) | 2:50 |
+| 13 | [Gönlüm](https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9) | [Electro Tülay](https://open.spotify.com/artist/3nYlYKL8wcK4OertfuVsfl) | [Gece Film \(Soundtrack\)](https://open.spotify.com/album/7Kenl6rraE4GJi7RRev7LD) | 4:24 |
 | 14 | [Silinmez](https://open.spotify.com/track/4sVIEO6DXqoGakHuixuPad) | [Mansur Ark](https://open.spotify.com/artist/4dtvhNNnGCEi7bGpi3DsQd) | [Gazla Gitsin](https://open.spotify.com/album/0tvnLtAh5B0INwHi14UoW5) | 4:07 |
 | 15 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 16 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Durma Yürüsene](https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Durma Yürüsene](https://open.spotify.com/album/08x2uyRPSt4x3UYwKUuKJc) | 3:41 |
 | 50 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 |
 
-Snapshot ID: `Z3b+VgAAAABAWb/wBC7X72qEeLY11WJK`
+Snapshot ID: `Z3581AAAAACYQjqADbkhG1TfJsk9pdm3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,966 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,008 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 19 | [If It’s Okay \(feat\. David Guetta & Davido\)](https://open.spotify.com/track/7uFi3inTvFSPIJPnalgmI3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [The Pinkprint \(Tenth Anniversary Edition\)](https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa) | 3:44 |
 | 20 | [FOR THE ROAD](https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:27 |
 | 21 | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Woju \(Remix\) \[feat\. Davido & Tiwa Savage\]](https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M) | 3:24 |
-| 22 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 |
-| 23 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 |
+| 22 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 |
+| 23 | [Jowo](https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 2:56 |
 | 24 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
 | 25 | [Fall](https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fall](https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs) | 4:00 |
 | 26 | [Dodo](https://open.spotify.com/track/2F21BqgPX0wsmFjNs9ghPz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dodo](https://open.spotify.com/album/02V6jQifJP6Yoo1pI9idaA) | 3:33 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 51 | [Gobe](https://open.spotify.com/track/0OU8OELBKP0WlQmK4Uedse) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/5sFGAjqTJ1c0WVa3zNpk4Z) | 3:49 |
 | 52 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 |
 
-Snapshot ID: `Z3sdAAAAAADCzKlSfXPt+Yb08z/bFgxy`
+Snapshot ID: `Z3xugAAAAABplmAw0eVvrxAMT4E0HTp4`

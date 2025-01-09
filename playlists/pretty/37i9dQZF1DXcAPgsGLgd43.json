@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 63799,
+  "num_followers": 63841,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
-        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
-      },
-      "artists": [
-        {
-          "name": "Joseph Sinatra",
-          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
-        },
-        {
-          "name": "Joe Mangione",
-          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
-        }
-      ],
-      "duration_ms": 167578,
-      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
-      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Solo Se Vive Una Vez",
         "url": "https://open.spotify.com/album/6YTklleoAqtGCag9H07M8u"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 147601,
       "name": "Solo Se Vive Una Vez",
       "url": "https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Rosa Que Linda Eres (Joe Mangione Remix)",
+        "url": "https://open.spotify.com/album/4cxa4HdxHynJUVsQzODpl4"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sinatra",
+          "url": "https://open.spotify.com/artist/3dLBlepvkEvMssg0ijkZGn"
+        },
+        {
+          "name": "Joe Mangione",
+          "url": "https://open.spotify.com/artist/3S7OxW2gSjdlze74MbO2f2"
+        }
+      ],
+      "duration_ms": 167578,
+      "name": "Rosa Que Linda Eres - Joe Mangione Edit Remix",
+      "url": "https://open.spotify.com/track/1GIa4bJA0G61N1bD7j6JxN"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1423,30 +1423,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Ta Sendo",
-        "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
-        },
-        {
-          "name": "MC K9",
-          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
-        }
-      ],
-      "duration_ms": 203809,
-      "name": "Ta Sendo",
-      "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Pasto Y Perico (feat Jay Vazquez)",
         "url": "https://open.spotify.com/album/301NeU6R2RZXAN5Q8S5qud"
       },
@@ -1467,6 +1443,30 @@
       "duration_ms": 167441,
       "name": "Pasto Y Perico",
       "url": "https://open.spotify.com/track/1JtqmmPyjuSS6mgYDuvtP9"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Ta Sendo",
+        "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        }
+      ],
+      "duration_ms": 203809,
+      "name": "Ta Sendo",
+      "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Hola Venga",
-        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 235238,
-      "name": "Hola Venga",
-      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "CKULO",
         "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 152523,
       "name": "CKULO",
       "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Hola Venga",
+        "url": "https://open.spotify.com/album/7aq0bsElWGy4XLv0QNckLB"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 235238,
+      "name": "Hola Venga",
+      "url": "https://open.spotify.com/track/2wkdtvIHPmdaaK0IeDrg3b"
     },
     {
       "added_at": "2024-12-20 05:00:31",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
+        "name": "Vamo Que Vamo",
+        "url": "https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Vamo Que Vamo",
+      "url": "https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
       },
@@ -1879,22 +1895,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Vamo Que Vamo",
-        "url": "https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Vamo Que Vamo",
-      "url": "https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/5eqIgU8H7RVxr5HHnmoodF"
       },
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-12-20 05:00:31",
       "album": {
-        "name": "Locamente",
-        "url": "https://open.spotify.com/album/5akhXBcvTPaVGrKDwvi711"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 139687,
-      "name": "Locamente",
-      "url": "https://open.spotify.com/track/54LL57cecNcm6sNmTglKPH"
-    },
-    {
-      "added_at": "2024-12-20 05:00:31",
-      "album": {
         "name": "Tu Sabor",
         "url": "https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 175357,
       "name": "Tu Sabor",
       "url": "https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT"
+    },
+    {
+      "added_at": "2024-12-20 05:00:31",
+      "album": {
+        "name": "Locamente",
+        "url": "https://open.spotify.com/album/5akhXBcvTPaVGrKDwvi711"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "Locamente",
+      "url": "https://open.spotify.com/track/54LL57cecNcm6sNmTglKPH"
     },
     {
       "added_at": "2024-12-20 05:00:31",

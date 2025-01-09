@@ -4,13 +4,14 @@
 
 > Canciones instrumentales de guitarra.
 
-752 songs - 1 day 8 hr 3 min
+755 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A beautiful promise](https://open.spotify.com/track/1NVbYXCYqpJmPlHEAsPwmz) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [A beautiful promise](https://open.spotify.com/album/6GfMrTCB1Kcs0qDtiG77k6) | 2:02 | 2023-04-21 |  |
 | [A Cardinal Moonlight](https://open.spotify.com/track/7s46C3yeQvTSOehOgtmSCR) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [A Cardinal Moonlight](https://open.spotify.com/album/7Ckwv4JpZENq4VywyXBQKo) | 2:54 | 2023-11-24 |  |
 | [A Few Reasons](https://open.spotify.com/track/5f47RLk3HgmaCBrhI9Ibrf) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [A Few Reasons](https://open.spotify.com/album/6NAR2psL2E6ViUIZgHurEZ) | 2:31 | 2023-04-21 |  |
+| [A Heart of Forest](https://open.spotify.com/track/0i7mA2SMLy5pSLX99yzDAT) | [Bill Soeder](https://open.spotify.com/artist/2QZ8GuCD39JBAgRSlZHhhn) | [A Heart of Forest](https://open.spotify.com/album/4kLhaxxgunOXkEGxTKwcN6) | 3:21 | 2025-01-07 |  |
 | [A Mano](https://open.spotify.com/track/3I543eAVQG6u3Sm9k4PLAM) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [De Mano A Mano](https://open.spotify.com/album/7ilmeRDYvSLSsIgBBjdPIQ) | 2:40 | 2022-07-15 | 2023-04-22 |
 | [A New Strange Feeling](https://open.spotify.com/track/4k5gLhElD40OwbYu7M4us1) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [A New Strange Feeling](https://open.spotify.com/album/2Zr0enscRh1m9sCMubg5Zt) | 3:19 | 2022-10-07 | 2023-04-22 |
 | [A place to go](https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [Lonely Trip](https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf) | 2:15 | 2023-03-31 | 2023-04-22 |
@@ -133,7 +134,7 @@
 | [Chiapas](https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Chiapas](https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl) | 3:05 | 2022-07-15 | 2023-03-11 |
 | [Chiaro di Luna](https://open.spotify.com/track/5wMHOl6I3s50DgLuajsJZM) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Chiaro di Luna](https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [Choro pra Acalmar](https://open.spotify.com/track/50e5GkpVaPnZw4JtLvBzyL) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Iguazu Falls](https://open.spotify.com/album/22IAlT7WhxkkMaNOxuM6V1) | 3:07 | 2022-07-15 | 2023-04-22 |
-| [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2023-04-21 |  |
+| [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2023-04-21 | 2025-01-09 |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2023-04-21 | 2023-08-26 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-31 | 2023-04-22 |
 | [Coma Pedrosa](https://open.spotify.com/track/51cywj6ZBciJT6xKDm9wyV) | [Victor Alvida](https://open.spotify.com/artist/6Fw6K0ReXC3BS6IrmJU96R) | [Coma Pedrosa](https://open.spotify.com/album/0Eo35G5FqMSC4T1hKVnLw4) | 2:18 | 2022-07-15 | 2023-04-22 |
@@ -160,7 +161,7 @@
 | [Dancing Shadows](https://open.spotify.com/track/6eLHmtQQw0J6guPKQpkcjR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Dancing Shadows](https://open.spotify.com/album/3908kc5syeU5k1DdmO2w7A) | 2:31 | 2024-09-03 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 | 2023-04-22 |
 | [Dans tes mains](https://open.spotify.com/track/5ECdxrA7QwtRFqxyuM3BK6) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Toucher mon coeur](https://open.spotify.com/album/2gz6d6FUO7EUSGT3YAXSZl) | 2:29 | 2023-04-21 |  |
-| [Dartden Road](https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Dartden Road](https://open.spotify.com/album/2CY1GbH0o6jWzddu6qR13U) | 2:07 | 2023-04-21 |  |
+| [Dartden Road](https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Dartden Road](https://open.spotify.com/album/2CY1GbH0o6jWzddu6qR13U) | 2:07 | 2023-04-21 | 2025-01-09 |
 | [das einsame Waldhaus](https://open.spotify.com/track/4vZ4qi9FYdMdqKB8g0dzxo) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [das einsame Waldhaus](https://open.spotify.com/album/6qkwLbJ5GqcOaLRYysZ511) | 3:03 | 2022-07-15 | 2023-04-22 |
 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 | 2022-07-15 | 2024-04-06 |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2022-07-15 | 2023-04-22 |
@@ -392,6 +393,7 @@
 | [Lonely Prayer](https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Lonely Prayer](https://open.spotify.com/album/0dz5PGLVD6QEdPtYWJShbq) | 2:47 | 2023-04-21 |  |
 | [Long Story](https://open.spotify.com/track/5FfMConflMM1ugP9XvyfON) | [Gabriel Femi](https://open.spotify.com/artist/5TfOpr1QMPSdpygmQvf1qX) | [Long Story](https://open.spotify.com/album/7pBjNolzTyWdcFGwufrLsl) | 2:05 | 2023-03-10 | 2024-11-07 |
 | [Longing for Light](https://open.spotify.com/track/45gfOKyt6rXK1jvHUYLAc0) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [Longing for Light](https://open.spotify.com/album/5IGCr7YcKK9ttN3H0qeank) | 2:05 | 2023-02-24 | 2023-04-22 |
+| [Look Up](https://open.spotify.com/track/0ZiRInDpULhyc77lBcqMoQ) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Look Up](https://open.spotify.com/album/035ju6sd54YQIg44aCRMzU) | 2:37 | 2025-01-07 |  |
 | [Love Forever](https://open.spotify.com/track/62in71BXkesE9Y5nGCvHSY) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Love Forever](https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d) | 2:24 | 2023-02-24 | 2023-04-22 |
 | [Love In Distance](https://open.spotify.com/track/08eRZ1EP3sSTuu9CBuWSIS) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Love In Distance](https://open.spotify.com/album/4wmuigjrfEGY1OdoUzmKx0) | 1:56 | 2023-04-21 | 2023-08-26 |
 | [Love Is A Prison](https://open.spotify.com/track/3n0tTzx7hU375khQC1SmDl) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Love Is A Prison](https://open.spotify.com/album/2wCznnuPomzia6n2VxsbfO) | 3:42 | 2023-03-31 | 2023-04-22 |
@@ -593,6 +595,7 @@
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2023-04-21 |  |
 | [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2023-04-22 |
 | [Slowmood](https://open.spotify.com/track/2uBdx5OBEQmRIBcM7FSnSB) | [Mike Duff](https://open.spotify.com/artist/3CCA4rgJaywSdKgYyuBzQy) | [Slowmood](https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L) | 2:15 | 2023-02-24 | 2023-04-22 |
+| [Smile](https://open.spotify.com/track/2U1vBJccBgHLok37WqNUM4) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Smile](https://open.spotify.com/album/6WgzKrrzhbuZ7cnuCgXb2k) | 2:20 | 2025-01-07 |  |
 | [Snowbound](https://open.spotify.com/track/1qcfNVwh2pXCbXYMkzLw8l) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Snowbound](https://open.spotify.com/album/2pDaJIUSykL55ow4EzScl0) | 2:40 | 2023-04-21 | 2023-05-13 |
 | [So Close](https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [So Close](https://open.spotify.com/album/6Q4SI5mpUxi0dwms50VNzz) | 3:39 | 2022-07-15 | 2022-10-29 |
 | [Sofia](https://open.spotify.com/track/67kLDQq8ItgqmAxvOgcgnJ) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:19 | 2023-03-31 | 2023-04-22 |
@@ -738,7 +741,7 @@
 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 | 2023-03-31 | 2023-04-22 |
 | [Whispering Layers](https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Whispering Layers](https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT) | 2:34 | 2022-07-22 | 2022-11-18 |
 | [Whispers At Dawn](https://open.spotify.com/track/5WyGvhxqJjNyFUf7TsZ6ra) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers At Dawn](https://open.spotify.com/album/2Mbd5VHwehYOKADGeuRFqU) | 1:50 | 2022-07-15 | 2023-04-22 |
-| [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2023-04-21 |  |
+| [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 | 2023-04-21 | 2025-01-09 |
 | [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 |  |
 | [Window](https://open.spotify.com/track/7Avxe9ZBaBQ8yWk1fpYM8Y) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Window](https://open.spotify.com/album/1Qa7H30jLp6XDAxCv7M769) | 2:02 | 2023-10-27 |  |
 | [Wing It](https://open.spotify.com/track/3kxF9scsDgLlF3UP2vPTvZ) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Wing It](https://open.spotify.com/album/3YwKDFW3Soe7PC8cm0cfWa) | 1:50 | 2023-04-21 | 2023-08-26 |

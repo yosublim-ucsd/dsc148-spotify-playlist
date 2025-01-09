@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 235671,
+  "num_followers": 235728,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAb23XTxQXqQqSL6V3NiMA4",
+  "snapshot_id": "Z3xugAAAAACDOl1AN9kbquS63Eu526U0",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cleopatra / \u201cGobernante\u201d",
-        "url": "https://open.spotify.com/album/01wDeB5SPl6HUZEiHrsWsh"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Samtwenty",
-          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
-        }
-      ],
-      "duration_ms": 179507,
-      "name": "Cleopatra / \u201cGobernante\u201d",
-      "url": "https://open.spotify.com/track/7azFSJzBdzOQqPU7kZsvML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olvidemos el Reloj",
         "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 232947,
       "name": "Olvidemos el Reloj",
       "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cleopatra / \u201cGobernante\u201d",
+        "url": "https://open.spotify.com/album/01wDeB5SPl6HUZEiHrsWsh"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        }
+      ],
+      "duration_ms": 179507,
+      "name": "Cleopatra / \u201cGobernante\u201d",
+      "url": "https://open.spotify.com/track/7azFSJzBdzOQqPU7kZsvML"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        }
-      ],
-      "duration_ms": 166499,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cada Vez",
         "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 207000,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "duration_ms": 166499,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
     },
     {
       "added_at": null,

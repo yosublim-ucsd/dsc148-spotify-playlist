@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kV7MLy24Ug.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: LA NUEVA ESCUELA
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,886 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,907 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kV7MLy24Ug.md) - [plain]
 | 28 | [TAMBIÉN](https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 2:19 |
 | 29 | [GAFITA Y CHOMBA](https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [GAFITA Y CHOMBA](https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB) | 3:12 |
 | 30 | [QUE ME FALTE TODO](https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE ME FALTE TODO](https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd) | 2:45 |
-| 31 | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/3uLPhd9X8kY1JU13bPRG9W) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 |
+| 31 | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 |
 | 32 | [Mírame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mírame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 |
 | 33 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 |
 | 34 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 |

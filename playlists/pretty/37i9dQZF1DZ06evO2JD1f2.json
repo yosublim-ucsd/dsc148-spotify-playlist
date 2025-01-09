@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 12131,
+  "num_followers": 12146,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAty5dU95UagQUAJwrTNFKM",
+  "snapshot_id": "Z3xugAAAAAAU+EM2Eh3wT4Pdu+EFxpTS",
   "tracks": [
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
+      "duration_ms": 103249,
+      "name": "Bigger Than Life Or Death",
+      "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 103249,
-      "name": "Bigger Than Life Or Death",
-      "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
     },
     {
       "added_at": null,
@@ -735,30 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNOFALL",
-        "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 204791,
-      "name": "Scarface (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
         "url": "https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 231085,
       "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
       "url": "https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SNOFALL",
+        "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 204791,
+      "name": "Scarface (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 141633,
-      "name": "Capitol 1",
-      "url": "https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cold Gangsta",
         "url": "https://open.spotify.com/album/59XP7yesh6A9KlpST9Rx11"
       },
@@ -915,22 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER NEED (feat. Selfpaid Savage)",
-        "url": "https://open.spotify.com/album/0hzjM23HhN6oUdJiqsQo3b"
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
       "artists": [
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Selfpaid Savage",
-          "url": "https://open.spotify.com/artist/28GRwxrB26GDq4SmyHduqo"
         }
       ],
-      "duration_ms": 172419,
-      "name": "NEVER NEED (feat. Selfpaid Savage)",
-      "url": "https://open.spotify.com/track/5zXRj09yjA9iRz0VH5OQKw"
+      "duration_ms": 141633,
+      "name": "Capitol 1",
+      "url": "https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK"
     },
     {
       "added_at": null,
@@ -951,6 +931,46 @@
       "duration_ms": 152314,
       "name": "On Da Floor (feat. EST Gee)",
       "url": "https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER NEED (feat. Selfpaid Savage)",
+        "url": "https://open.spotify.com/album/0hzjM23HhN6oUdJiqsQo3b"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Selfpaid Savage",
+          "url": "https://open.spotify.com/artist/28GRwxrB26GDq4SmyHduqo"
+        }
+      ],
+      "duration_ms": 172419,
+      "name": "NEVER NEED (feat. Selfpaid Savage)",
+      "url": "https://open.spotify.com/track/5zXRj09yjA9iRz0VH5OQKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 131825,
+      "name": "All 100s",
+      "url": "https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb"
     },
     {
       "added_at": null,
@@ -987,26 +1007,6 @@
       "duration_ms": 165878,
       "name": "Break Check",
       "url": "https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Ones Left",
-        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 131825,
-      "name": "All 100s",
-      "url": "https://open.spotify.com/track/3tZWlcLtAp7YHH8zt7cDVb"
     },
     {
       "added_at": null,

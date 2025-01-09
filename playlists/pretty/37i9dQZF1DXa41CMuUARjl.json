@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Killen.",
-  "num_followers": 507633,
+  "num_followers": 507727,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "U (Remixes)",
-        "url": "https://open.spotify.com/album/6c5FsWPH0iGnMoTJtMwoBr"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "U - Mura Masa Remix",
-      "url": "https://open.spotify.com/track/2bPLo7PvlUlZCYBPcNAgLc"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "Dolce Vita (with Groove Crackers)",
         "url": "https://open.spotify.com/album/0htw7GtQaBD4X3dQyPxMrO"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 110571,
       "name": "Dolce Vita (with Groove Crackers)",
       "url": "https://open.spotify.com/track/6C6cj4ULrTQTPniF3NDjya"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "U (Remixes)",
+        "url": "https://open.spotify.com/album/6c5FsWPH0iGnMoTJtMwoBr"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "U - Mura Masa Remix",
+      "url": "https://open.spotify.com/track/2bPLo7PvlUlZCYBPcNAgLc"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -671,38 +671,22 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Call Me Up",
-        "url": "https://open.spotify.com/album/2ZrCdI8gu5ZhOFkM7m8CeI"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5FN5EogNLlecas66RVD22U"
       },
       "artists": [
         {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+          "name": "Marco Nobel",
+          "url": "https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB"
         },
         {
-          "name": "ANATTA",
-          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+          "name": "TR\u00d8VES",
+          "url": "https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg"
         }
       ],
-      "duration_ms": 182325,
-      "name": "Call Me Up",
-      "url": "https://open.spotify.com/track/4GeZ56YAbi5Zn5kBqcASdC"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/1WyRTRFPQjJxgQVLD3siMh"
-      },
-      "artists": [
-        {
-          "name": "Kellerkind",
-          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
-        }
-      ],
-      "duration_ms": 381611,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/2L3ElzZIa4L0rd8UHDtyDp"
+      "duration_ms": 161404,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4LMWg2yuCVoz29FGaxVpoH"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -727,22 +711,18 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5FN5EogNLlecas66RVD22U"
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/1WyRTRFPQjJxgQVLD3siMh"
       },
       "artists": [
         {
-          "name": "Marco Nobel",
-          "url": "https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB"
-        },
-        {
-          "name": "TR\u00d8VES",
-          "url": "https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg"
+          "name": "Kellerkind",
+          "url": "https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA"
         }
       ],
-      "duration_ms": 161404,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4LMWg2yuCVoz29FGaxVpoH"
+      "duration_ms": 381611,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/2L3ElzZIa4L0rd8UHDtyDp"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -763,6 +743,42 @@
       "duration_ms": 144705,
       "name": "Leave Me Slowly - Babsy. Remix",
       "url": "https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Call Me Up",
+        "url": "https://open.spotify.com/album/2ZrCdI8gu5ZhOFkM7m8CeI"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        },
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/4GeZ56YAbi5Zn5kBqcASdC"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "YOU KNOW WHAT I LIKE",
+        "url": "https://open.spotify.com/album/41Vu3tBpDnOzoboY6B2X34"
+      },
+      "artists": [
+        {
+          "name": "DONT BLINK",
+          "url": "https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "YOU KNOW WHAT I LIKE",
+      "url": "https://open.spotify.com/track/5fgzqeqdL1bKiGwz8Q6Ydl"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -827,22 +843,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "YOU KNOW WHAT I LIKE",
-        "url": "https://open.spotify.com/album/41Vu3tBpDnOzoboY6B2X34"
-      },
-      "artists": [
-        {
-          "name": "DONT BLINK",
-          "url": "https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "YOU KNOW WHAT I LIKE",
-      "url": "https://open.spotify.com/track/5fgzqeqdL1bKiGwz8Q6Ydl"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/51SaHFcUt96rZoj1tVXnST"
       },
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Some Of It",
-        "url": "https://open.spotify.com/album/4dzT5Lt1pDMQ6jQn3PBiJy"
-      },
-      "artists": [
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        },
-        {
-          "name": "Nixxie",
-          "url": "https://open.spotify.com/artist/25ZwJCQFcPHh5dGCQF2qzt"
-        }
-      ],
-      "duration_ms": 309865,
-      "name": "Some Of It",
-      "url": "https://open.spotify.com/track/3phvGNkxVjtNSVBvLwobA2"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "Don't Stop The Music",
         "url": "https://open.spotify.com/album/3v3ITy298AvdwZ12c3YHyc"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 183000,
       "name": "Don't Stop The Music - Leandro Da Silva Remix",
       "url": "https://open.spotify.com/track/57yImhldzJfiWhDIN5Jxq4"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Some Of It",
+        "url": "https://open.spotify.com/album/4dzT5Lt1pDMQ6jQn3PBiJy"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        },
+        {
+          "name": "Nixxie",
+          "url": "https://open.spotify.com/artist/25ZwJCQFcPHh5dGCQF2qzt"
+        }
+      ],
+      "duration_ms": 309865,
+      "name": "Some Of It",
+      "url": "https://open.spotify.com/track/3phvGNkxVjtNSVBvLwobA2"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -963,6 +963,26 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
+        "name": "Glowing",
+        "url": "https://open.spotify.com/album/3JQtq080WNvBNEvQZqfRXx"
+      },
+      "artists": [
+        {
+          "name": "Agus Zack",
+          "url": "https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK"
+        },
+        {
+          "name": "Maikko",
+          "url": "https://open.spotify.com/artist/45xKUKqIer47CE8Ms4ahkJ"
+        }
+      ],
+      "duration_ms": 129427,
+      "name": "Glowing",
+      "url": "https://open.spotify.com/track/5OLZ7WonFykDncQp500SHf"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
         "name": "Skylite",
         "url": "https://open.spotify.com/album/0Ybrh4DJhdIQJnqRyuLdr0"
       },
@@ -999,22 +1019,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Jumping Master",
-        "url": "https://open.spotify.com/album/4gggYFVmuEZXYfaK3EhHeY"
-      },
-      "artists": [
-        {
-          "name": "RMS",
-          "url": "https://open.spotify.com/artist/4pJ8HL3kT31Gc3fqXQBG9c"
-        }
-      ],
-      "duration_ms": 373500,
-      "name": "Jumping Master",
-      "url": "https://open.spotify.com/track/1kWlD5sbC0xQWVktYoDu4d"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "I Told You",
         "url": "https://open.spotify.com/album/2jobpYrfrPOUuGVs2Ecr4p"
       },
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Glowing",
-        "url": "https://open.spotify.com/album/3JQtq080WNvBNEvQZqfRXx"
+        "name": "Jumping Master",
+        "url": "https://open.spotify.com/album/4gggYFVmuEZXYfaK3EhHeY"
       },
       "artists": [
         {
-          "name": "Agus Zack",
-          "url": "https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK"
-        },
-        {
-          "name": "Maikko",
-          "url": "https://open.spotify.com/artist/45xKUKqIer47CE8Ms4ahkJ"
+          "name": "RMS",
+          "url": "https://open.spotify.com/artist/4pJ8HL3kT31Gc3fqXQBG9c"
         }
       ],
-      "duration_ms": 129427,
-      "name": "Glowing",
-      "url": "https://open.spotify.com/track/5OLZ7WonFykDncQp500SHf"
+      "duration_ms": 373500,
+      "name": "Jumping Master",
+      "url": "https://open.spotify.com/track/1kWlD5sbC0xQWVktYoDu4d"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Promise Me",
-        "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
-      },
-      "artists": [
-        {
-          "name": "Harmonee",
-          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
-        }
-      ],
-      "duration_ms": 266880,
-      "name": "Promise Me",
-      "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "Cuttin Shapes",
         "url": "https://open.spotify.com/album/0aZPZeoIzolVJ5AKT1hyli"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
+        "name": "Promise Me",
+        "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
+      },
+      "artists": [
+        {
+          "name": "Harmonee",
+          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
+        }
+      ],
+      "duration_ms": 266880,
+      "name": "Promise Me",
+      "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
         "name": "All I Wanna",
         "url": "https://open.spotify.com/album/02Y4ffnFiiVjaDV4vgdakm"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 176470,
       "name": "All I Wanna",
       "url": "https://open.spotify.com/track/50inRPYRRUO0dDHJGNKC6m"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "Only Your Love",
-        "url": "https://open.spotify.com/album/2aQ7DGVU5DfaIr3YiIKeOD"
-      },
-      "artists": [
-        {
-          "name": "Cedric Lass",
-          "url": "https://open.spotify.com/artist/2BXSs8oWq4LFL0Qm1XTbbb"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Only Your Love",
-      "url": "https://open.spotify.com/track/1woQUkEOra6B9ZbY8xT28T"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Blasta",
-        "url": "https://open.spotify.com/album/5ixfonZ6PyjQF6mISF8KN8"
+        "name": "Only Your Love",
+        "url": "https://open.spotify.com/album/2aQ7DGVU5DfaIr3YiIKeOD"
       },
       "artists": [
         {
-          "name": "Captain Malik",
-          "url": "https://open.spotify.com/artist/0mdMSIS1beHEnMh2H6XM55"
+          "name": "Cedric Lass",
+          "url": "https://open.spotify.com/artist/2BXSs8oWq4LFL0Qm1XTbbb"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Blasta",
-      "url": "https://open.spotify.com/track/6GcfT9xtSY5Rzcd0sMYINn"
+      "duration_ms": 202500,
+      "name": "Only Your Love",
+      "url": "https://open.spotify.com/track/1woQUkEOra6B9ZbY8xT28T"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1215,26 +1199,18 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Missed the Message",
-        "url": "https://open.spotify.com/album/0PDYVctxsr5M11QW6LaC1B"
+        "name": "Blasta",
+        "url": "https://open.spotify.com/album/5ixfonZ6PyjQF6mISF8KN8"
       },
       "artists": [
         {
-          "name": "Aaron Payne",
-          "url": "https://open.spotify.com/artist/3mhYyyPofi8S3e29boIKzk"
-        },
-        {
-          "name": "Phrase",
-          "url": "https://open.spotify.com/artist/4yEv7aBzMnv2o7YpgfwX5d"
-        },
-        {
-          "name": "Sydney Bryce",
-          "url": "https://open.spotify.com/artist/57wU47pYKEcHOfb97oeSy6"
+          "name": "Captain Malik",
+          "url": "https://open.spotify.com/artist/0mdMSIS1beHEnMh2H6XM55"
         }
       ],
-      "duration_ms": 256743,
-      "name": "Missed the Message",
-      "url": "https://open.spotify.com/track/5ubeTk7ki33QBghfPI2WsN"
+      "duration_ms": 185600,
+      "name": "Blasta",
+      "url": "https://open.spotify.com/track/6GcfT9xtSY5Rzcd0sMYINn"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1259,6 +1235,30 @@
       "duration_ms": 170840,
       "name": "I Can't Stop",
       "url": "https://open.spotify.com/track/10Lip3CZqr72hA105yZrmJ"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "Missed the Message",
+        "url": "https://open.spotify.com/album/0PDYVctxsr5M11QW6LaC1B"
+      },
+      "artists": [
+        {
+          "name": "Aaron Payne",
+          "url": "https://open.spotify.com/artist/3mhYyyPofi8S3e29boIKzk"
+        },
+        {
+          "name": "Phrase",
+          "url": "https://open.spotify.com/artist/4yEv7aBzMnv2o7YpgfwX5d"
+        },
+        {
+          "name": "Sydney Bryce",
+          "url": "https://open.spotify.com/artist/57wU47pYKEcHOfb97oeSy6"
+        }
+      ],
+      "duration_ms": 256743,
+      "name": "Missed the Message",
+      "url": "https://open.spotify.com/track/5ubeTk7ki33QBghfPI2WsN"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2mqYSubsIZSI9LTmVcCaM5"
-      },
-      "artists": [
-        {
-          "name": "Jason Padrone",
-          "url": "https://open.spotify.com/artist/12dE2mQ0G1i2TnbIBGFMXO"
-        },
-        {
-          "name": "Val",
-          "url": "https://open.spotify.com/artist/4O9s2SXRMUJqxiDJqZqV4X"
-        }
-      ],
-      "duration_ms": 291147,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2ZUzVVkvVgGmLo287Y5oJc"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
         "name": "Precipice",
         "url": "https://open.spotify.com/album/41rgNGA4j5rySJvezVogLa"
       },
@@ -1347,22 +1327,22 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
-        "name": "One Shot",
-        "url": "https://open.spotify.com/album/6E0w26o1sbjyWUGjnC9sKO"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2mqYSubsIZSI9LTmVcCaM5"
       },
       "artists": [
         {
-          "name": "Sub Killaz",
-          "url": "https://open.spotify.com/artist/5prZyzacNgCvsfzZjztfTZ"
+          "name": "Jason Padrone",
+          "url": "https://open.spotify.com/artist/12dE2mQ0G1i2TnbIBGFMXO"
         },
         {
-          "name": "Magenta",
-          "url": "https://open.spotify.com/artist/4MRV3eXum1ufhoVvgQb1wb"
+          "name": "Val",
+          "url": "https://open.spotify.com/artist/4O9s2SXRMUJqxiDJqZqV4X"
         }
       ],
-      "duration_ms": 266057,
-      "name": "One Shot",
-      "url": "https://open.spotify.com/track/2YYIq8enZd8IearNR1jmgA"
+      "duration_ms": 291147,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2ZUzVVkvVgGmLo287Y5oJc"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1387,6 +1367,26 @@
       "duration_ms": 205810,
       "name": "Midnight Drive",
       "url": "https://open.spotify.com/track/0jwbl694pu2sjnLVCr85oR"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
+        "name": "One Shot",
+        "url": "https://open.spotify.com/album/6E0w26o1sbjyWUGjnC9sKO"
+      },
+      "artists": [
+        {
+          "name": "Sub Killaz",
+          "url": "https://open.spotify.com/artist/5prZyzacNgCvsfzZjztfTZ"
+        },
+        {
+          "name": "Magenta",
+          "url": "https://open.spotify.com/artist/4MRV3eXum1ufhoVvgQb1wb"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "One Shot",
+      "url": "https://open.spotify.com/track/2YYIq8enZd8IearNR1jmgA"
     },
     {
       "added_at": "2025-01-03 17:00:49",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-01-03 17:00:49",
       "album": {
+        "name": "I'm Creeping",
+        "url": "https://open.spotify.com/album/6g9qFYSpRg7PHySYWKYF1G"
+      },
+      "artists": [
+        {
+          "name": "Mirandxx",
+          "url": "https://open.spotify.com/artist/1Dncrjkf8QEGmmX4wsdixb"
+        }
+      ],
+      "duration_ms": 310153,
+      "name": "I'm Creeping",
+      "url": "https://open.spotify.com/track/3tkTx9IR6hlmbOA0MkzXLQ"
+    },
+    {
+      "added_at": "2025-01-03 17:00:49",
+      "album": {
         "name": "I Can\u2019t Forget",
         "url": "https://open.spotify.com/album/0qtciU9ee6bfjVF18T6Nnh"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 205612,
       "name": "I Can't Forget",
       "url": "https://open.spotify.com/track/31iQRF9wlgJ4ehPZFCsjk7"
-    },
-    {
-      "added_at": "2025-01-03 17:00:49",
-      "album": {
-        "name": "I'm Creeping",
-        "url": "https://open.spotify.com/album/6g9qFYSpRg7PHySYWKYF1G"
-      },
-      "artists": [
-        {
-          "name": "Mirandxx",
-          "url": "https://open.spotify.com/artist/1Dncrjkf8QEGmmX4wsdixb"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "I'm Creeping",
-      "url": "https://open.spotify.com/track/3tkTx9IR6hlmbOA0MkzXLQ"
     },
     {
       "added_at": "2025-01-03 17:00:49",

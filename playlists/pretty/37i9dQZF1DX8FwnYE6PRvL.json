@@ -1,6 +1,6 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2674269,
+  "num_followers": 2674395,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
@@ -59,8 +59,8 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -203,8 +203,8 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 155973,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 219826,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 155973,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W"
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
       "artists": [
         {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 210373,
-      "name": "Born To Be Wild",
-      "url": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -935,6 +919,22 @@
       "duration_ms": 222426,
       "name": "Rock the Casbah - Remastered",
       "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Born To Be Wild",
+      "url": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "Still Waiting",
-      "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 202573,
       "name": "Want You Bad",
       "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Mellow Gold",
         "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 278706,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2024-12-03 14:36:35",

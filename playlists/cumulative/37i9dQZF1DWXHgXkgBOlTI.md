@@ -4,7 +4,7 @@
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: fox capture plan
 
-117 songs - 9 hr 0 min
+118 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,11 +51,12 @@
 | [Horns Riot](https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [Horns Riot](https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6) | 4:07 | 2023-06-14 |  |
 | [In The Twilight](https://open.spotify.com/track/2Q0ZmisH3IBgmB88wLJYQ8) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [Man Steals the Stars](https://open.spotify.com/album/2EeZCGDC5sJEmZPRyxygda) | 6:48 | 2023-03-14 | 2023-05-16 |
 | [Infinite Mirror](https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Phantasia](https://open.spotify.com/album/61kijqkLmurIjlNOv65WYJ) | 4:39 | 2024-02-27 |  |
+| [Keep on Going](https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Keep on Going](https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH) | 3:34 | 2025-01-08 |  |
 | [Lamp \(feat\. Nujabes\)](https://open.spotify.com/track/5fpIho8igzgHw9FTmZGoTU) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [MELODICA](https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3) | 6:40 | 2023-03-14 |  |
 | [Love Lights](https://open.spotify.com/track/4kQbWhGdyt1OHTutPHlcjm) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy) | [PYRAMID4](https://open.spotify.com/album/1YeWcKq1F4VLvGescahAG7) | 5:06 | 2023-10-17 | 2024-04-19 |
 | [MAGIC PARADE](https://open.spotify.com/track/3wnWbvyCrNpxWYgeKxrWR6) | [TRIX](https://open.spotify.com/artist/6bQlQn3QZhhTtcO4TG9lkE) | [PARADE](https://open.spotify.com/album/3uUhGcJnu2zjVAKLX6VCpg) | 5:38 | 2023-08-22 | 2023-10-18 |
 | [Metamorphosis](https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Metamorphosis](https://open.spotify.com/album/4QdhwNxSlMYIqp74Y27pLO) | 4:06 | 2024-01-30 | 2024-08-14 |
-| [Moment of Clarity](https://open.spotify.com/track/3DC2AEoH1yjL60FRRaEIRZ) | [colspan](https://open.spotify.com/artist/0vjyVjLLoaqpkOUQWpOtOi) | [Moment of Clarity](https://open.spotify.com/album/3DfsBjwKqAYJCC24LsQfbL) | 4:44 | 2023-11-21 |  |
+| [Moment of Clarity](https://open.spotify.com/track/3DC2AEoH1yjL60FRRaEIRZ) | [colspan](https://open.spotify.com/artist/0vjyVjLLoaqpkOUQWpOtOi) | [Moment of Clarity](https://open.spotify.com/album/3DfsBjwKqAYJCC24LsQfbL) | 4:44 | 2023-11-21 | 2025-01-09 |
 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 | 2023-03-14 |  |
 | [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 | 2023-04-04 | 2024-04-19 |
 | [Mystic Island](https://open.spotify.com/track/6vqjr1gx5FRzVzrODlbxix) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 6:02 | 2024-02-27 | 2024-04-04 |

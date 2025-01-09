@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,644 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,722 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 41 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 |
 | 42 | [Don't You Cry](https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Don't You Cry](https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg) | 4:06 |
 | 43 | [Sound of da Police \(with DES3ETT\)](https://open.spotify.com/track/3g3kOgJyakUFt8FClE2EbQ) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN) | [Sound of da Police \(with DES3ETT\)](https://open.spotify.com/album/19tOFbOwSqZkQONwDtxss9) | 2:07 |
-| 44 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
-| 45 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
-| 46 | [Bittersweet Goodbye](https://open.spotify.com/track/61H6DK37r2uyNryJAqUAXf) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA) | [Bittersweet Goodbye](https://open.spotify.com/album/1KZIiURBJs63wz3uuCapCu) | 2:40 |
-| 47 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
+| 44 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
+| 45 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
+| 46 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
+| 47 | [Bittersweet Goodbye](https://open.spotify.com/track/61H6DK37r2uyNryJAqUAXf) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA) | [Bittersweet Goodbye](https://open.spotify.com/album/1KZIiURBJs63wz3uuCapCu) | 2:40 |
 | 48 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 |
 | 49 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
-| 50 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [PHANTOMA](https://open.spotify.com/artist/2nVkiO6d4vQJFWGZ4OQ5mC) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
+| 50 | [Together](https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Together](https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi) | 2:31 |
 
 Snapshot ID: `Z3ulgwAAAACvQc7yIrmbtAzhTpwrgNHq`

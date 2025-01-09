@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,141 songs - 11 day 6 hr 43 min
+7,142 songs - 11 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2427,6 +2427,7 @@
 | [Gloom](https://open.spotify.com/track/5rBb2uP6oXtenyXSjNee6W) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC), [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Afloat Again](https://open.spotify.com/album/3yjLYYs4lfeO8VSWpC8rmi) | 2:11 | 2020-04-06 | 2021-09-04 |
 | [Gloombop](https://open.spotify.com/track/5wgZKHeI35mIvcSUdhsbDT) | [Say Ray Ray](https://open.spotify.com/artist/6Zg46UvoybmqNgOr3CVDRF) | [Gloombop](https://open.spotify.com/album/1nhVPQBgwwabnU5xraB6vG) | 2:13 | 2022-12-23 | 2024-05-25 |
 | [gloomy forecast](https://open.spotify.com/track/0JOOhy4DD2DhsDUuFLcxKY) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [gloomy forecast](https://open.spotify.com/album/7AwLVPooBNokzJzlLyn91r) | 3:35 | 2022-01-14 | 2022-09-02 |
+| [Gloomy Mornings](https://open.spotify.com/track/2I9vHfnFsCcn0xmlQtj59l) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [Clark Can](https://open.spotify.com/artist/0JGNOIhIiz8RuyOzxAQ5cP) | [Gloomy Mornings](https://open.spotify.com/album/3YosOgyWFCjNXCFneVbv6T) | 2:25 | 2024-12-20 |  |
 | [Glory](https://open.spotify.com/track/7aiYEVjizYPNasyyHUinBE) | [Goodge](https://open.spotify.com/artist/7ChpiDDHfolxNhgmjoPnJB) | [Glory](https://open.spotify.com/album/3Vy9ciHW8yuQncCxOKfI2I) | 3:09 | 2021-09-12 | 2022-04-08 |
 | [Glory](https://open.spotify.com/track/3F7VdgQCmDTXscfrvnBdkJ) | [Neo Era](https://open.spotify.com/artist/1Lczbyf24WccxMnd8Hj3qv) | [Glory](https://open.spotify.com/album/4scanwFuOK1YekVfldiyUv) | 1:47 | 2023-01-13 | 2023-11-17 |
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2022-06-03 | 2022-09-30 |
@@ -3476,7 +3477,7 @@
 | [Light Blue](https://open.spotify.com/track/1MR84S2jOKu98U48pUIFQA) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Light Blue](https://open.spotify.com/album/46cEmEYX7yPfkwyFVAEBCh) | 2:37 | 2022-09-02 | 2022-11-20 |
 | [Light Blue](https://open.spotify.com/track/2RTfUv4FdLK04d2oasfaND) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Light Blue](https://open.spotify.com/album/7EmayVIg0jsQZeCJrlpSAn) | 2:37 | 2022-11-18 | 2022-12-09 |
 | [light breeze](https://open.spotify.com/track/2Q6U5dHI5X0k4jG8Zbww8F) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [light breeze](https://open.spotify.com/album/6tNzcgbxRRZaLctoLugAX7) | 2:49 | 2022-08-26 | 2022-11-25 |
-| [Light Breeze](https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Light Breeze](https://open.spotify.com/album/3cGiW50UTCjwTrUDV0Vtth) | 2:05 | 2023-09-22 |  |
+| [Light Breeze](https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [Light Breeze](https://open.spotify.com/album/3cGiW50UTCjwTrUDV0Vtth) | 2:05 | 2023-09-22 | 2025-01-09 |
 | [Light It Up](https://open.spotify.com/track/0UnxuUzeW8LAAgQFbOgOwS) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Light It Up](https://open.spotify.com/album/2lDFPAiVZclsLncjbYjlrh) | 2:35 | 2023-08-10 | 2023-09-20 |
 | [Light Time](https://open.spotify.com/track/6GykzEBOn6H9QNmEYhjK6q) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Light Time](https://open.spotify.com/album/4xtCLh67I4JlB7wUKwG5vS) | 1:15 | 2022-07-29 | 2022-11-11 |
 | [Light Tower](https://open.spotify.com/track/1j5iv2pHY6bhK3FNPqduhS) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Textures, Vol\. 1](https://open.spotify.com/album/12kYlTM2a3e5ONRZD5XsUl) | 1:28 | 2019-11-20 | 2020-06-24 |

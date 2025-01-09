@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 307760,
       "name": "I Can Do Bad By Myself",
       "url": "https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA"
@@ -2362,6 +2362,28 @@
       "duration_ms": 200840,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
+    },
+    {
+      "album": {
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "Sweet Thing - Live Version",
+      "url": "https://open.spotify.com/track/0pri9hL20P6wbjUtVB0Stt"
     },
     {
       "album": {

@@ -6391,6 +6391,36 @@
     },
     {
       "album": {
+        "name": "Ce Quer Pix",
+        "url": "https://open.spotify.com/album/1hEon2RWK7W0WnENqlg0S9"
+      },
+      "artists": [
+        {
+          "name": "Will BL",
+          "url": "https://open.spotify.com/artist/2BnCntxaxxCQzlB3s4wcVm"
+        },
+        {
+          "name": "MC DH da CT",
+          "url": "https://open.spotify.com/artist/2JTPFfBzVFaEma8IA1Umfy"
+        },
+        {
+          "name": "Lord Johwn",
+          "url": "https://open.spotify.com/artist/56z6tUOr4q10M7IUyJT9Fr"
+        },
+        {
+          "name": "MC Nasci",
+          "url": "https://open.spotify.com/artist/2iud0genzWdo7FtDfkdf9D"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "Ce Quer Pix",
+      "url": "https://open.spotify.com/track/3zzP9cxOgq3oZvecjBWBw0"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -16902,7 +16932,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 131017,
       "name": "Hef Veri\u00f0 Verri",
       "url": "https://open.spotify.com/track/4k92ZvGtKAVJLzwnS0lIrW"
@@ -40588,7 +40618,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 234166,
       "name": "Til \u00ed allt, Pt. III",
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
@@ -41012,7 +41042,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -44343,6 +44373,32 @@
     },
     {
       "album": {
+        "name": "Whistle",
+        "url": "https://open.spotify.com/album/2UvS9zypWch5gHi74b432u"
+      },
+      "artists": [
+        {
+          "name": "Statik G",
+          "url": "https://open.spotify.com/artist/0J4ydkhzuxmYgAqxgNM21x"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Pelvis Presley",
+          "url": "https://open.spotify.com/artist/5AgE4DMD6RmLARAWKrBxno"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232055,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/532BMzRCaYJViTrtORkpkc"
+    },
+    {
+      "album": {
         "name": "Holiday Inn (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
       },
@@ -44630,7 +44686,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 211107,
       "name": "Win win",
       "url": "https://open.spotify.com/track/1N2F5D3sdjY3Ud8QnsnaRu"

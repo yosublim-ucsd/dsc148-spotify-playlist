@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 45117,
+  "num_followers": 45148,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABuSB1MS7Kny+XWv0pOrvWX",
+  "snapshot_id": "Z3xugAAAAADwcdUUBcnRpX5eHK6phnDl",
   "tracks": [
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rather Be",
-        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 171142,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
+      "duration_ms": 215373,
+      "name": "Hard To Leave",
+      "url": "https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 215373,
-      "name": "Hard To Leave",
-      "url": "https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4"
+      "duration_ms": 171142,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runnin' With An Angel",
-        "url": "https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Runnin' With An Angel",
-      "url": "https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If It Wasn't For Trucks",
         "url": "https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 180360,
       "name": "If I Didn\u2019t Wear Boots",
       "url": "https://open.spotify.com/track/2imQgpXrOacGLfgx9nevja"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Runnin' With An Angel",
+        "url": "https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Runnin' With An Angel",
+      "url": "https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se"
     }
   ],
   "unique_name": "This Is Riley Green",

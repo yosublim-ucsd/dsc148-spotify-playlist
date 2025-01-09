@@ -4253,6 +4253,28 @@
     },
     {
       "album": {
+        "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "iAmSon",
+          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP"
+    },
+    {
+      "album": {
         "name": "A Drummer Boy Christmas",
         "url": "https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT"
       },
@@ -4290,28 +4312,6 @@
       "duration_ms": 163773,
       "name": "O Come, O Come Emmanuel",
       "url": "https://open.spotify.com/track/2bivz4pQKTXTzb0aqf35m2"
-    },
-    {
-      "album": {
-        "name": "O Come, O Come Emmanuel (feat. IAMSON)",
-        "url": "https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "iAmSon",
-          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
-        }
-      ],
-      "date_added": "2022-11-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207906,
-      "name": "O Come, O Come Emmanuel (feat. IAMSON)",
-      "url": "https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP"
     },
     {
       "album": {

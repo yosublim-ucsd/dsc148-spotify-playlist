@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,904 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,933 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 25 | [Moonlight Highlife](https://open.spotify.com/track/0VbMP1oje4fglCoKDk99GT) | [Victor Olaiya](https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f) | [The Evil Genius Of Highlife Vol\. 2](https://open.spotify.com/album/3ODHfdhSsx7SqI1RCHFtUy) | 3:13 |
 | 26 | [One Inna Million](https://open.spotify.com/track/7w7bSbZvdECMaolAIXLl3Y) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [There Is No End](https://open.spotify.com/album/4BK64Duprygx9JNpXv9dmH) | 3:20 |
 | 27 | [Ja Funmi](https://open.spotify.com/track/4LidH8Kgu792vuq5avk2aL) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Ju Ju Music](https://open.spotify.com/album/73Sm0AObUMEtnCu53o6QfX) | 7:08 |
-| 28 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
-| 29 | [Kirikisi](https://open.spotify.com/track/4c0yGgAUGdtsIY0FlGk8XF) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Legend Reborn, Vol\. 2](https://open.spotify.com/album/7CoB4yPBc8n28rbw1THzEh) | 4:19 |
+| 28 | [Kirikisi](https://open.spotify.com/track/4c0yGgAUGdtsIY0FlGk8XF) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Legend Reborn, Vol\. 2](https://open.spotify.com/album/7CoB4yPBc8n28rbw1THzEh) | 4:19 |
+| 29 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
 | 30 | [Mo Gbono Feli Feli](https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:18 |
 | 31 | [Stalemate](https://open.spotify.com/track/039djQX5LwqXM93UxvktmR) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 12:54 |
 | 32 | [Nwa Baby \- Ashawo Remix](https://open.spotify.com/track/3yLliVuAdxCnXwqSJgF3TX) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Nwa Baby \(Ashawo Remix\)](https://open.spotify.com/album/1oUpWwSxEMQNea1eHCLcmy) | 4:17 |

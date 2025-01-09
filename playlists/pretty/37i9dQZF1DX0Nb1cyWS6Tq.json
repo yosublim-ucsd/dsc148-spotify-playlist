@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 855480,
+  "num_followers": 855796,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
-      "added_at": "2023-01-04 01:49:09",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l"
-      },
-      "artists": [
-        {
-          "name": "Crone Visions",
-          "url": "https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Loved",
@@ -1287,6 +1271,22 @@
       "duration_ms": 231613,
       "name": "Shining Road",
       "url": "https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK"
+    },
+    {
+      "added_at": "2023-01-04 01:49:09",
+      "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l"
+      },
+      "artists": [
+        {
+          "name": "Crone Visions",
+          "url": "https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV"
     }
   ],
   "unique_name": "Dark & Gothic",

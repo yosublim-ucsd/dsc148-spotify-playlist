@@ -1,27 +1,27 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain](/playlists/plain/37i9dQZF1DWXoqmNKv7cNC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXoqmNKv7cNC)
 
-### [Lo Mejor de EQUAL México 2024](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
+### [EQUAL México](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
-> ¡Celebramos a las mujeres mexicanas a todo volumen!  Belinda, Kenia OS y Danna en portada 💚
+> ¡Mujeres mexicanas a todo volumen! Kenia OS en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,288 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,324 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JACKPOT](https://open.spotify.com/track/23W44WWCP8SibyP292TWo5) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [JACKPOT](https://open.spotify.com/album/2jwthspFSdYQk8m64Qmk4N) | 3:13 |
 | 2 | [Kitty](https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:38 |
 | 3 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |
-| 4 | [rimel](https://open.spotify.com/track/6m9P5fS7YGK9mhdjFotuV9) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 2:06 |
-| 5 | [A Donde Va El Viento](https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Nadie Nos Va A Extrañar \(Banda Sonora De La Serie Original De Prime\)](https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa) | 2:46 |
+| 4 | [A Donde Va El Viento](https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Nadie Nos Va A Extrañar \(Banda Sonora De La Serie Original De Prime\)](https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa) | 2:46 |
+| 5 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
 | 6 | [Tenochtitlán](https://open.spotify.com/track/1qL4NB9N5g20OiNcn5yAJc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:13 |
-| 7 | [U R SUCH A LAME!](https://open.spotify.com/track/1Ybt52Gx6UdrI9z0qUbJP3) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/38XZ32UdU2fnN2sk2XO6uP) | 2:16 |
-| 8 | [PUSHAINA](https://open.spotify.com/track/7nAUV8ljrPSMOy23YnsEhF) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poesías](https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F) | 2:34 |
-| 9 | [Brinca \- Spotify Singles](https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Brinca \- Spotify Singles](https://open.spotify.com/album/0yyEToTNjg7jnvLo10paCC) | 3:24 |
-| 10 | [Funa](https://open.spotify.com/track/4osMcQDSAIMYJWLSohVFhB) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [La Matatana](https://open.spotify.com/album/70gDfy20s1Sh9BEU1YZY1k) | 2:46 |
-| 11 | [Bebe Ricota](https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Bebe Ricota](https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l) | 2:31 |
-| 12 | [MORE](https://open.spotify.com/track/0qyGXVhCHaHvCa7BNKlYg5) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Automatic Sun](https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ) | 3:07 |
-| 13 | [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 |
-| 14 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
+| 7 | [rimel](https://open.spotify.com/track/6m9P5fS7YGK9mhdjFotuV9) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 2:06 |
+| 8 | [U R SUCH A LAME!](https://open.spotify.com/track/1Ybt52Gx6UdrI9z0qUbJP3) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/38XZ32UdU2fnN2sk2XO6uP) | 2:16 |
+| 9 | [PUSHAINA](https://open.spotify.com/track/7nAUV8ljrPSMOy23YnsEhF) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poesías](https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F) | 2:34 |
+| 10 | [Brinca \- Spotify Singles](https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Brinca \- Spotify Singles](https://open.spotify.com/album/0yyEToTNjg7jnvLo10paCC) | 3:24 |
+| 11 | [Funa](https://open.spotify.com/track/4osMcQDSAIMYJWLSohVFhB) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [La Matatana](https://open.spotify.com/album/70gDfy20s1Sh9BEU1YZY1k) | 2:46 |
+| 12 | [Bebe Ricota](https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Bebe Ricota](https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l) | 2:31 |
+| 13 | [MORE](https://open.spotify.com/track/0qyGXVhCHaHvCa7BNKlYg5) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Automatic Sun](https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ) | 3:07 |
+| 14 | [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 |
 | 15 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
 | 16 | [ALV](https://open.spotify.com/track/3MMjT6Kz7lcoa816eg0p4L) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Ojos Diamante](https://open.spotify.com/album/2Xt25pQkjDzqiPMRMs4uol) | 3:37 |
 | 17 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [Complicada](https://open.spotify.com/track/0KZD8Lryg3KbpuJhdWk8bP) | [Majo Rivas](https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY) | [Complicada](https://open.spotify.com/album/1W4e3zUTAa39vJY19cSv3m) | 2:59 |
 | 50 | [¿Qué te falta?](https://open.spotify.com/track/6hMoVNrYrJCCvaTe4W8D6P) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Canciones que te hice para el fin del mundo](https://open.spotify.com/album/0AqCiN2Pya57InqnCTbTBj) | 3:19 |
 
-Snapshot ID: `Z1M0GwAAAADw4wwcDcScBDQH89NLxkfK`
+Snapshot ID: `Z36TuwAAAAD1CCWC7oywWgGy3iuDIiO6`

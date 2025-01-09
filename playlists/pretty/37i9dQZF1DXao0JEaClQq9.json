@@ -1,29 +1,13 @@
 {
   "description": "Modern heavenly sounds. Cover: ML Buch",
-  "num_followers": 1645239,
+  "num_followers": 1645475,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2M2vAAAAAAU7Zo6KSizLo9Ypu+iiWFE",
+  "snapshot_id": "Z371GgAAAAAXtWk3+/NaKoV4la1I7Jpr",
   "tracks": [
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
-      },
-      "artists": [
-        {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Flames shards goo",
-      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
-    },
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2025-01-08 21:58:49",
+      "album": {
+        "name": "Perverts",
+        "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 692000,
+      "name": "Amber Waves",
+      "url": "https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -189,6 +189,42 @@
       "url": "https://open.spotify.com/track/7iXOrfBdLbdpbtmN1BMSAf"
     },
     {
+      "added_at": "2024-12-18 20:55:24",
+      "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Dust beam",
+      "url": "https://open.spotify.com/track/2R6VAECQgZYy4Zn8tIXGi6"
+    },
+    {
+      "added_at": "2024-12-12 23:47:57",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 203945,
+      "name": "Everything is romantic featuring caroline polachek",
+      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
+    },
+    {
       "added_at": "2024-12-12 23:47:57",
       "album": {
         "name": "Ride Or Die, Pt. 2",
@@ -215,26 +251,6 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 203945,
-      "name": "Everything is romantic featuring caroline polachek",
-      "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -247,30 +263,6 @@
       "duration_ms": 177922,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
-        "name": "A New Kind Of Love (Demo)",
-        "url": "https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        },
-        {
-          "name": "Guy Sigsworth",
-          "url": "https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj"
-        }
-      ],
-      "duration_ms": 259071,
-      "name": "A New Kind Of Love - Demo",
-      "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -307,22 +299,26 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+        "name": "A New Kind Of Love (Demo)",
+        "url": "https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb"
       },
       "artists": [
         {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
         },
         {
           "name": "Imogen Heap",
           "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        },
+        {
+          "name": "Guy Sigsworth",
+          "url": "https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj"
         }
       ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+      "duration_ms": 259071,
+      "name": "A New Kind Of Love - Demo",
+      "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -339,6 +335,26 @@
       "duration_ms": 285375,
       "name": "How We See The Light",
       "url": "https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu"
+    },
+    {
+      "added_at": "2024-12-12 23:47:57",
+      "album": {
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -407,22 +423,6 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Cherry-coloured Funk",
-      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
         "name": "The Laugh Is in the Eyes",
         "url": "https://open.spotify.com/album/4dGlRIF8CjkOzHDxhZeyx2"
       },
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 87466,
-      "name": "QKThr",
-      "url": "https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM"
+      "duration_ms": 192466,
+      "name": "Cherry-coloured Funk",
+      "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -487,6 +487,22 @@
       "duration_ms": 129554,
       "name": "Video Music",
       "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
+    },
+    {
+      "added_at": "2024-12-12 23:47:57",
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 87466,
+      "name": "QKThr",
+      "url": "https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -543,22 +559,6 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
         "name": "Essential Mixtape",
         "url": "https://open.spotify.com/album/1RPWcvh3EzFv0VRqAMVwV7"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 413880,
       "name": "idle citi",
       "url": "https://open.spotify.com/track/3osNWyAjlf1AWPtatunyS4"
+    },
+    {
+      "added_at": "2024-12-12 23:47:57",
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -619,26 +635,6 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
-        "name": "Omega (feat. Ralphie Choo)",
-        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Omega (feat. Ralphie Choo)",
-      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
         "name": "$0",
         "url": "https://open.spotify.com/album/5b00Hg03YFtGfkXWRGeBNq"
       },
@@ -667,6 +663,26 @@
       "duration_ms": 356333,
       "name": "How to Disappear Completely",
       "url": "https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6"
+    },
+    {
+      "added_at": "2024-12-12 23:47:57",
+      "album": {
+        "name": "Omega (feat. Ralphie Choo)",
+        "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Omega (feat. Ralphie Choo)",
+      "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -703,22 +719,6 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
         "name": "don't text me back",
         "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
+      "added_at": "2024-12-12 23:47:57",
+      "album": {
         "name": "WILLOW",
         "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
       },
@@ -747,6 +763,22 @@
       "duration_ms": 143640,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI"
+    },
+    {
+      "added_at": "2024-12-12 23:47:57",
+      "album": {
+        "name": "Punish",
+        "url": "https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 407710,
+      "name": "Punish",
+      "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -783,22 +815,6 @@
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
-        "name": "Punish",
-        "url": "https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 407710,
-      "name": "Punish",
-      "url": "https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-12-12 23:47:57",
       "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
         "name": "Titanic Rising",
         "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 353732,
       "name": "Movies",
       "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
+    },
+    {
+      "added_at": "2024-12-12 23:47:57",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2024-12-12 23:47:57",
@@ -1303,22 +1319,6 @@
       "duration_ms": 300432,
       "name": "You And I",
       "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"
-    },
-    {
-      "added_at": "2024-12-12 23:47:57",
-      "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 352178,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
     }
   ],
   "unique_name": "Ethereal",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,060 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,070 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 50 | [Gucci Fake](https://open.spotify.com/track/54DKbAzqQLDy4EPKtM961C) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [CORRIDOS CHAKALOSOS II](https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH) | 3:39 |
 | 51 | [Bikini Dior](https://open.spotify.com/track/0wZiACJz2BQaEvfFmHdagZ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bikini Dior](https://open.spotify.com/album/25s553TzfBrDz4GgAo3etU) | 3:08 |
 
-Snapshot ID: `Z3sdAAAAAACXy4Y02atOGZQ4q6nhaZYl`
+Snapshot ID: `Z3xugAAAAABa3MRGZ+ntko/SKR17yvwT`

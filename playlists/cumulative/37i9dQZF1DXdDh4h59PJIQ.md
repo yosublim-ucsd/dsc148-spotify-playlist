@@ -2,9 +2,9 @@
 
 ### [Electrónica & Dance Music](https://open.spotify.com/playlist/37i9dQZF1DXdDh4h59PJIQ)
 
-> ¡Estos son los hits de la electrónica en el 2024!
+> ¡Estos son los hits de la electrónica en el 2025!
 
-373 songs - 18 hr 33 min
+374 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-08-12 | 2023-11-18 |
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-02-13 | 2024-08-14 |
 | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Edward Artemyev](https://open.spotify.com/artist/097u8n1F4JjTzmOR9VUVEK), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Space Melody \(Edward Artemyev\) \(feat\. Leony\)](https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K) | 3:00 | 2021-10-22 |  |
+| [Squid Game \(Let's Play\)](https://open.spotify.com/track/75pquWTQ3292AqzMsaik85) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 2:32 | 2025-01-08 |  |
 | [Stars Align \(with Jolin Tsai\)](https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Stars Align \(with Jolin Tsai\)](https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5) | 2:41 | 2021-10-22 | 2022-08-10 |
 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 | 2021-10-22 | 2022-08-10 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-11-16 |  |
@@ -356,7 +357,7 @@
 | [Tus Besos](https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Tus Besos](https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg) | 3:00 | 2022-08-09 | 2023-02-14 |
 | [Under The Water](https://open.spotify.com/track/0aYkYtV9oDepLueh0hgVmV) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Under The Water](https://open.spotify.com/album/5iOQNycOAXI5ujKv8gwA3R) | 2:45 | 2021-10-22 | 2022-08-10 |
 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 | 2021-10-22 |  |
-| [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-11-16 |  |
+| [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-11-16 | 2025-01-09 |
 | [Vole Little a Vealwav](https://open.spotify.com/track/12weYE4oRjWLcKcJyzah8T) | [Nigma 遮蔽](https://open.spotify.com/artist/2vqFl9TETQoy3qc2wUN0t4) | [Vole Little a Vealwav](https://open.spotify.com/album/5frP6KO4nOf8LD1a3AYWXF) | 3:07 | 2023-02-13 | 2023-11-11 |
 | [Vole Little a Vealwav](https://open.spotify.com/track/1zXkPCjdZ7rQSV1YsH0duA) | [Nigma 遮蔽](https://open.spotify.com/artist/2vqFl9TETQoy3qc2wUN0t4) | [Vole Little a Vealwav](https://open.spotify.com/album/6f5S9IzxBHktmEbMzSLfC7) | 3:07 | 2023-02-13 | 2023-11-18 |
 | [Water \(feat\. ZOHARA\)](https://open.spotify.com/track/6KddlPfPQ0L8MyffEpo63p) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [ZOHARA](https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2) | [Water \(feat\. ZOHARA\)](https://open.spotify.com/album/6WUWZOs8AO2hO18VAGpB4t) | 3:12 | 2021-10-22 | 2023-11-18 |

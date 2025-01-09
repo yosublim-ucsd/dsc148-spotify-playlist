@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! Con una selecci\u00f3n especial de Greeicy.",
-  "name": "Lo Mejor de EQUAL Andes 2024",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen!",
+  "name": "EQUAL Andes",
   "tracks": [
     {
       "album": {
@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "BROKEN",
+        "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271435,
+      "name": "BROKEN",
+      "url": "https://open.spotify.com/track/3n4FkCfKlscDqYPMcTBdXm"
+    },
+    {
+      "album": {
         "name": "Br\u00fajula",
         "url": "https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr"
       },
@@ -2120,6 +2138,24 @@
       "duration_ms": 183050,
       "name": "De Fuego",
       "url": "https://open.spotify.com/track/6WmA8K4fywCoN70Z4YmdiT"
+    },
+    {
+      "album": {
+        "name": "De La Tierra Broto",
+        "url": "https://open.spotify.com/album/17zqbJBmSxvDR0WXCPlZhJ"
+      },
+      "artists": [
+        {
+          "name": "Flor de Lava",
+          "url": "https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198774,
+      "name": "De La Tierra Broto",
+      "url": "https://open.spotify.com/track/0Krf0hepTKqOutMVLzfGOR"
     },
     {
       "album": {
@@ -2944,7 +2980,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 208749,
       "name": "Eres (Como El Mar)",
       "url": "https://open.spotify.com/track/3Fgpx3szuM9U3TgiWWLYE0"
@@ -3454,7 +3490,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 209160,
       "name": "GAT\u00daBELA",
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
@@ -4032,6 +4068,24 @@
       "duration_ms": 123356,
       "name": "La Cara",
       "url": "https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye"
+    },
+    {
+      "album": {
+        "name": "La Centella",
+        "url": "https://open.spotify.com/album/7srjYpihPdovf4rE7v2qWw"
+      },
+      "artists": [
+        {
+          "name": "Emily Galaviz",
+          "url": "https://open.spotify.com/artist/0oxb3uhVq0HQLq3Oi7OIp7"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166450,
+      "name": "La Centella",
+      "url": "https://open.spotify.com/track/4KaBK1nVbMcTJKnrVJu5NV"
     },
     {
       "album": {
@@ -6781,6 +6835,24 @@
     },
     {
       "album": {
+        "name": "Remolino",
+        "url": "https://open.spotify.com/album/5j6oC1iKYDKxIu3QrV39oD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213411,
+      "name": "Remolino",
+      "url": "https://open.spotify.com/track/7r4biENX41GzIlIJa1mguM"
+    },
+    {
+      "album": {
         "name": "IRENE ALEJANDRA",
         "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
       },
@@ -7002,7 +7074,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 218903,
       "name": "San Fernando",
       "url": "https://open.spotify.com/track/1p3ZKldjJcSBnfqn5FXb0d"
@@ -7316,7 +7388,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 167840,
       "name": "So\u00f1\u00e9 Que Te Perd\u00eda",
       "url": "https://open.spotify.com/track/7jiVLuYG7RgzsINDzthEWM"
@@ -8175,6 +8247,24 @@
     },
     {
       "album": {
+        "name": "UPWARDS",
+        "url": "https://open.spotify.com/album/7KjHJN6O7LbV2HXlSpY6Uc"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195802,
+      "name": "UPWARDS",
+      "url": "https://open.spotify.com/track/43jg7CNRhPRHYgpXTowd3O"
+    },
+    {
+      "album": {
         "name": "Usted Ya Perdi\u00f3",
         "url": "https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ"
       },
@@ -8696,7 +8786,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 304228,
       "name": "\u00bfQu\u00e9 Voy a Hacer?",
       "url": "https://open.spotify.com/track/39VaE08TKJEJQLYyOBn8hM"

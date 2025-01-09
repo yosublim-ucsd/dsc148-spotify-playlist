@@ -1,12 +1,12 @@
 {
   "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
-  "num_followers": 7365,
+  "num_followers": 7366,
   "original_name": "This Is Funeral For A Friend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABov+yiH0QfV+mJmmmFHS2v",
+  "snapshot_id": "Z3xugAAAAACDuHbotsMFPBc0fY6FawbJ",
   "tracks": [
     {
       "added_at": null,
@@ -220,7 +220,7 @@
       "added_at": null,
       "album": {
         "name": "Casually Dressed And Deep In Conversation",
-        "url": "https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0"
+        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 215266,
-      "name": "She Drove Me to Daytime Television",
-      "url": "https://open.spotify.com/track/6v1iCqLDznDBwjDkP2tCt8"
+      "duration_ms": 313106,
+      "name": "Red Is the New Black",
+      "url": "https://open.spotify.com/track/00xrSZwKt8BZWF5Lv5gVuB"
     },
     {
       "added_at": null,
@@ -284,7 +284,7 @@
       "added_at": null,
       "album": {
         "name": "Casually Dressed And Deep In Conversation",
-        "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
+        "url": "https://open.spotify.com/album/2bYoFP0paBuoznlUnAHYv0"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 313106,
-      "name": "Red Is the New Black",
-      "url": "https://open.spotify.com/track/00xrSZwKt8BZWF5Lv5gVuB"
+      "duration_ms": 215266,
+      "name": "She Drove Me to Daytime Television",
+      "url": "https://open.spotify.com/track/6v1iCqLDznDBwjDkP2tCt8"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 236800,
-      "name": "On a Wire",
-      "url": "https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd"
+      "duration_ms": 206800,
+      "name": "All Hands on Deck, Pt. 1: Raise the Sail",
+      "url": "https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 206800,
-      "name": "All Hands on Deck, Pt. 1: Raise the Sail",
-      "url": "https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB"
+      "duration_ms": 236800,
+      "name": "On a Wire",
+      "url": "https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 151173,
-      "name": "Wrench",
-      "url": "https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5"
+      "duration_ms": 260600,
+      "name": "Built to Last",
+      "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 260600,
-      "name": "Built to Last",
-      "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
+      "duration_ms": 151173,
+      "name": "Wrench",
+      "url": "https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5"
     },
     {
       "added_at": null,

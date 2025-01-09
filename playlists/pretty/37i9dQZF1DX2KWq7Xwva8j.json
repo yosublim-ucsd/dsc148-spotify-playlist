@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Luis Cort\u00e9s.",
-  "num_followers": 27779,
+  "num_followers": 27784,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -544,13 +544,17 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        },
+        {
           "name": "Bexnil",
           "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
         }
       ],
-      "duration_ms": 160695,
-      "name": "habibi",
-      "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
+      "duration_ms": 154549,
+      "name": "Xarnega",
+      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
     },
     {
       "added_at": "2024-12-12 23:00:18",
@@ -852,17 +856,13 @@
           "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
         },
         {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        },
-        {
           "name": "Bexnil",
           "url": "https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg"
         }
       ],
-      "duration_ms": 154549,
-      "name": "Xarnega",
-      "url": "https://open.spotify.com/track/49qfhb3mTtHwcW4t3375iK"
+      "duration_ms": 160695,
+      "name": "habibi",
+      "url": "https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys"
     },
     {
       "added_at": "2024-12-12 23:00:18",

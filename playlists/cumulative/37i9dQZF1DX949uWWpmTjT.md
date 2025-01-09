@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,106 songs - 2 day 23 hr 16 min
+1,107 songs - 2 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [For All We Know](https://open.spotify.com/track/6GE5NlqY4yH8IRNR9lI713) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [For All We Know](https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ) | 4:24 | 2022-11-10 | 2024-03-22 |
 | [For All We Know](https://open.spotify.com/track/78A47D8csBBwaBD2o61JvV) | [NO\(w\) Beauty](https://open.spotify.com/artist/36pbhMHDmMUotharAzC35Q), [Enzo Carniel](https://open.spotify.com/artist/2g4MfwXbDBoVoyeE54DIEk), [Hermon Mehari](https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT) | [NO\(w\) Beauty](https://open.spotify.com/album/2c4wOdwMYhJFeWdVDmdjMI) | 6:49 | 2023-03-16 | 2023-05-01 |
 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 | 2021-12-03 | 2024-03-22 |
-| [For EH](https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [Bright Light](https://open.spotify.com/album/5c5L9EM11mcoHhJLjLqSnV) | 4:56 | 2022-05-13 | 2024-12-31 |
+| [For EH](https://open.spotify.com/track/2FbnvVjodpaYP9L8CKMgOw) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [Bright Light](https://open.spotify.com/album/5c5L9EM11mcoHhJLjLqSnV) | 4:56 | 2022-05-13 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/4kAwnSBZKNrCVwjwZnVNgf) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 2:50 | 2021-12-03 | 2022-11-11 |
 | [For Heavens Sake](https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 3:47 | 2023-02-09 |  |
 | [For Jan](https://open.spotify.com/track/5NG4mBMnXbStVPm8eWydDy) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [For Jan](https://open.spotify.com/album/00kBMTEVOjTctQyjaFwRBP) | 2:38 | 2024-02-02 |  |
@@ -919,7 +919,7 @@
 | [The Fool That Fell For You](https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [The Fool That Fell For You](https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R) | 4:30 | 2023-08-10 |  |
 | [The Foolish Heart](https://open.spotify.com/track/1tNLxWFOh4XBS2xnyVyaCQ) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [The Foolish Heart](https://open.spotify.com/album/7BuobZ0EqYrV7XKEMqFctt) | 3:03 | 2023-12-08 |  |
 | [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 | 2024-02-09 |  |
-| [The heat she gives](https://open.spotify.com/track/3b6UkXsKzEAkJfZI1P6AsM) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [The heat she gives](https://open.spotify.com/album/3WYVEv0vyp2eDYUgZr5bUz) | 3:23 | 2023-09-22 |  |
+| [The heat she gives](https://open.spotify.com/track/3b6UkXsKzEAkJfZI1P6AsM) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [The heat she gives](https://open.spotify.com/album/3WYVEv0vyp2eDYUgZr5bUz) | 3:23 | 2023-09-22 | 2025-01-09 |
 | [The Itsy Bitsy Spider](https://open.spotify.com/track/7vUTrdcsrbu8SrA8NYorom) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Jazz Lullaby](https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7) | 2:53 | 2023-06-15 | 2024-02-04 |
 | [The Last Call](https://open.spotify.com/track/31ojaZG2e30V671L4Z5ntW) | [Nicholas Fischer](https://open.spotify.com/artist/23xwLdy4T9jEB9igNfXBIb) | [The Last Call](https://open.spotify.com/album/3ifBBmWsuoHqpXnfYJ4YwS) | 3:36 | 2023-08-10 |  |
 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 | 2022-11-10 |  |
@@ -946,6 +946,7 @@
 | [The Sun Forgot To Shine This Morning](https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Lonely Lovers](https://open.spotify.com/album/7C0U90ZfIzSYNpPu4gFyzD) | 2:40 | 2021-12-03 | 2023-03-03 |
 | [The surf shirt](https://open.spotify.com/track/4J2kmDH5fJLInAO34TQq93) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The surf shirt](https://open.spotify.com/album/0ubI5Ens5d3TqeGafHcZ6r) | 3:04 | 2023-09-29 |  |
 | [The Swing of Things](https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [The Swing of Things](https://open.spotify.com/album/52iuF1UEHKnd1vJ46teQlA) | 3:11 | 2023-05-11 |  |
+| [The Things We Did Last Summer](https://open.spotify.com/track/4MZsXEDZvZhXiohdK08fRd) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [The Things We Did Last Summer](https://open.spotify.com/album/3zUrJ8YKkss9xFnuPwg7Zc) | 3:46 | 2025-01-07 |  |
 | [The Times We Almost Spoke](https://open.spotify.com/track/50XpKvY6g0lmk3RLOV9KzX) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [The Times We Almost Spoke](https://open.spotify.com/album/3gN7ZN40oekLY5mTFsfevN) | 4:09 | 2024-12-16 | 2025-01-08 |
 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 | 2021-12-03 | 2023-05-12 |
 | [The View of Aurora](https://open.spotify.com/track/6opoSywJ0hiCbUMKsA7q8z) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [The View of Aurora](https://open.spotify.com/album/2NCgRncDEvCbDtcFkmO58T) | 2:48 | 2023-06-01 |  |
@@ -1062,7 +1063,7 @@
 | [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |
 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 | 2023-08-10 |  |
 | [Whereabouts](https://open.spotify.com/track/3Rdu91Lo2IV8DGtRxDGLUW) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Whereabouts](https://open.spotify.com/album/741MymriPlO7PoJwbbjQ57) | 4:19 | 2023-05-04 |  |
-| [While My Lady Sleeps \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 4:41 | 2022-03-25 |  |
+| [While My Lady Sleeps \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4JJmrV9xPO70AMGvxgmlbw) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 4:41 | 2022-03-25 | 2025-01-09 |
 | [Whiplashed](https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Whiplashed](https://open.spotify.com/album/48K8veuVqjwlO3SMUguVHw) | 3:17 | 2023-04-27 |  |
 | [Whispered Longing](https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Whispered Longing](https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF) | 3:12 | 2024-02-02 |  |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Whispers of jazz in the Wind](https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ) | 4:25 | 2023-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Carsen Gray.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,633 likes - 30 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,632 likes - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 22 | [Rez \- Remix](https://open.spotify.com/track/0fVsyiWDpscYVpOeMxZ35q) | [Mattmac](https://open.spotify.com/artist/2wn3YMzruUNJ2Ee1z6xnjY), [Dakota Bear](https://open.spotify.com/artist/25MEoFUjbq3v7Tc66YHv48), [Okema](https://open.spotify.com/artist/7mitKpwBFwe4LhYTij1lZY) | [Rez \(Remix\)](https://open.spotify.com/album/02yVU33mtZP7Ag3ABtzCLf) | 4:24 |
 | 23 | [Catch Me](https://open.spotify.com/track/0CtifxdZdPKQaMbHdlz6wz) | [Tirrell Thomas](https://open.spotify.com/artist/2uzhtMAP5M016lQXodWbDp), [One8Tea](https://open.spotify.com/artist/1sgIz4NcRSFQ5X0lVhzWiF), [Fresh IE](https://open.spotify.com/artist/5cxgY8wa4cYuez4CqimbsK) | [Lone Wolf](https://open.spotify.com/album/2tVWI7aRKJ63RZFUVLkBJb) | 3:06 |
 | 24 | [Ride the Waves](https://open.spotify.com/track/1MGVRYvlMdqLHQWO582Zno) | [Hayley Wallis](https://open.spotify.com/artist/3oz5416NViDyRVxarOd9Fz), [HK Higher Knowledge](https://open.spotify.com/artist/3O4n8bVzigjJR0UXLE8UwG) | [Halulu](https://open.spotify.com/album/16WDVwNM1Sgcsnl2qsQ22z) | 4:08 |
-| 25 | [We Were Here \- DJ Shub Remix](https://open.spotify.com/track/5h4H1kECsGYdxMQPiUtaHY) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Dan General](https://open.spotify.com/artist/27CGrUzGjboqmLMGhUbKTw) | [We Were Here \(DJ Shub Remix\)](https://open.spotify.com/album/0IWrDV94T8olys3q7nIkTD) | 4:49 |
+| 25 | [We Were Here \- Shub Remix](https://open.spotify.com/track/5h4H1kECsGYdxMQPiUtaHY) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A) | [We Were Here \(DJ Shub Remix\)](https://open.spotify.com/album/0IWrDV94T8olys3q7nIkTD) | 4:49 |
 | 26 | [If I Wanted You Boy](https://open.spotify.com/track/3k7UiaPjmtJWxjQOZTWBQv) | [Natasha Fisher](https://open.spotify.com/artist/644igyu4xfNmbD8r0SJmGJ) | [If I Wanted You Boy](https://open.spotify.com/album/74GRo1ML7Cylk45WzxylC8) | 1:29 |
 | 27 | [Ghost](https://open.spotify.com/track/0mQ9bUpYTMTLnFt1chc7Ak) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Ghost](https://open.spotify.com/album/2EBnf41jLKUV8XwIHLPu9p) | 3:31 |
 | 28 | [Deadman](https://open.spotify.com/track/30fLbJvDKHjP079STO4VZK) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 3:44 |

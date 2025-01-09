@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Kappa Jotta, Bispo",
-  "num_followers": 48493,
+  "num_followers": 48503,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
+      },
+      "artists": [
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        }
+      ],
+      "duration_ms": 176425,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
         "name": "Bem-Vindo Ao Meu Mundo",
         "url": "https://open.spotify.com/album/0PeQXhEAlEwBgDAYDfNcVE"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "Clima",
-        "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
       },
       "artists": [
         {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
         }
       ],
-      "duration_ms": 176425,
-      "name": "Clima",
-      "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -767,22 +783,6 @@
       "duration_ms": 176320,
       "name": "Brutos Diamantes",
       "url": "https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2024-12-20 14:04:14",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-12-20 14:04:14",
       "album": {
-        "name": "longe.com",
-        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "longe.com",
-      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
-    },
-    {
-      "added_at": "2024-12-20 14:04:14",
-      "album": {
         "name": "Lugar Favorito",
         "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 197333,
       "name": "Lugar Favorito",
       "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
+    },
+    {
+      "added_at": "2024-12-20 14:04:14",
+      "album": {
+        "name": "longe.com",
+        "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "longe.com",
+      "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
     },
     {
       "added_at": "2024-12-20 14:04:14",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 6992,
+  "num_followers": 7027,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABHq61wjgihIAtldSewy3ma",
+  "snapshot_id": "Z3xugAAAAAB80hwWKQBcxMZNvcn7cB0R",
   "tracks": [
     {
       "added_at": null,
@@ -955,6 +955,74 @@
       "duration_ms": 296655,
       "name": "At All",
       "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
+        "url": "https://open.spotify.com/album/67Jg1hcxNYLXz3uEgkX4Kn"
+      },
+      "artists": [
+        {
+          "name": "A Broader Way Choir",
+          "url": "https://open.spotify.com/artist/0Mh72dwufZuZhoXDkPfQ9q"
+        },
+        {
+          "name": "Morgan James",
+          "url": "https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ellyn Marie Marsh",
+          "url": "https://open.spotify.com/artist/5NRsKBS8aOiSL4BcNHRgiD"
+        },
+        {
+          "name": "Bridget Everett",
+          "url": "https://open.spotify.com/artist/3lGCeZUVfMtPi31TZ6JJkI"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        },
+        {
+          "name": "Ann Harada",
+          "url": "https://open.spotify.com/artist/743OB85I8BftMRfuNAO1RS"
+        },
+        {
+          "name": "Soshana Bean",
+          "url": "https://open.spotify.com/artist/09JjY7IeBtwkt98cmmIGpe"
+        },
+        {
+          "name": "Debbie Gravitte",
+          "url": "https://open.spotify.com/artist/2JpR9gbNPF9CetFECCP7RD"
+        },
+        {
+          "name": "Tamika Lawrence",
+          "url": "https://open.spotify.com/artist/4EluKx55HoQgTLTEeASX2r"
+        },
+        {
+          "name": "Bryonha Marie Parham",
+          "url": "https://open.spotify.com/artist/1g9JVT9tpJAFmCac6ei8wq"
+        },
+        {
+          "name": "Orfeh",
+          "url": "https://open.spotify.com/artist/5UCLo0DwCef9lexQS5bzhb"
+        },
+        {
+          "name": "Eden Espinosa",
+          "url": "https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X"
+        },
+        {
+          "name": "Marva Hicks",
+          "url": "https://open.spotify.com/artist/7nvSw8uZGQMB3ZXQ2mf3i6"
+        }
+      ],
+      "duration_ms": 189993,
+      "name": "The Arrest",
+      "url": "https://open.spotify.com/track/4vHwX5m3m0cZwi78Ugo6vV"
     },
     {
       "added_at": null,

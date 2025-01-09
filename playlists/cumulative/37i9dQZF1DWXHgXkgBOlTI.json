@@ -795,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Keep on Going",
+        "url": "https://open.spotify.com/album/0VLVwijg2EzNbHRYJO7PMH"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Keep on Going",
+      "url": "https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM"
+    },
+    {
+      "album": {
         "name": "MELODICA",
         "url": "https://open.spotify.com/album/2rbEQqaCzEfUU5QB8Uv1D3"
       },
@@ -882,7 +900,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 284926,
       "name": "Moment of Clarity",
       "url": "https://open.spotify.com/track/3DC2AEoH1yjL60FRRaEIRZ"

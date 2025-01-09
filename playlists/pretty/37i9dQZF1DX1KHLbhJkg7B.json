@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Brooks & Dunn",
-  "num_followers": 121666,
+  "num_followers": 121715,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Simply The Hits",
+        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Walking In Memphis",
+      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Simply The Hits",
-        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Walking In Memphis",
-      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "I'm A Ram",
-        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 239040,
-      "name": "I'm A Ram",
-      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
+      "duration_ms": 257893,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+        "name": "I'm A Ram",
+        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 257893,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
+      "duration_ms": 239040,
+      "name": "I'm A Ram",
+      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "15 Years, the Wild Ride",
-        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "A Tribute To The Judds",
         "url": "https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 197637,
       "name": "Mama He\u2019s Crazy",
       "url": "https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "15 Years, the Wild Ride",
+        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
-      },
-      "artists": [
-        {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
-        "url": "https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
         }
       ],
-      "duration_ms": 233400,
-      "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
-      "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
+      "duration_ms": 262520,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 204760,
       "name": "If You Want Love",
       "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+        "url": "https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Sand In My Boots",
-        "url": "https://open.spotify.com/album/5aVfMWa43PH8NRVVcfaPVE"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 256212,
-      "name": "Sand In My Boots",
-      "url": "https://open.spotify.com/track/2rbzYW7Cc2UUFbIyzHQtfL"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 162411,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Sand In My Boots",
+        "url": "https://open.spotify.com/album/5aVfMWa43PH8NRVVcfaPVE"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 256212,
+      "name": "Sand In My Boots",
+      "url": "https://open.spotify.com/track/2rbzYW7Cc2UUFbIyzHQtfL"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Folsom Prison Blues - Spotify Singles",
-      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Glen Campbell I'll Be Me Soundtrack",
         "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 189253,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Folsom Prison Blues - Spotify Singles",
+      "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
     },
     {
       "added_at": "2024-12-06 05:00:00",

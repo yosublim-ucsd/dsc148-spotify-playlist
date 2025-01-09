@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,146 likes - 250 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,145 likes - 250 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 84 | [Up Out My Face](https://open.spotify.com/track/5PIbdp9yrXFQnBe5hwwM29) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:41 |
 | 85 | [Lil Love](https://open.spotify.com/track/4OcLeBfVjxjBn2LHEqHJVR) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 3:52 |
 | 86 | [The Star](https://open.spotify.com/track/0hLwOAorcYaNTrFLQtw69C) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/0cS9prZ8u3fdbc7lmtCaMV) | 4:01 |
-| 87 | [Head Over Heels](https://open.spotify.com/track/40tF4AA5hOwgQFmnN4KoSV) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Head Over Heels](https://open.spotify.com/album/4hhAHjqULEmVZFEvL9oa4Q) | 2:33 |
-| 88 | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7) | 3:09 |
+| 87 | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7) | 3:09 |
+| 88 | [Head Over Heels](https://open.spotify.com/track/40tF4AA5hOwgQFmnN4KoSV) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Head Over Heels](https://open.spotify.com/album/4hhAHjqULEmVZFEvL9oa4Q) | 2:33 |
 | 89 | [Someone to Hold](https://open.spotify.com/track/0QxHxD5A0qzNBIMobsQT4X) | [Trey Lorenz](https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW) | [Trey Lorenz](https://open.spotify.com/album/4AoQMFNjIDh3GxonncoMTd) | 4:43 |
 | 90 | [Lead the Way](https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:53 |
 | 91 | [Never Forget You](https://open.spotify.com/track/03VtT9Da5Ivxh8n3PHnQem) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 3:44 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 121 | [Bliss](https://open.spotify.com/track/4CO8s7CeEwoFkQ6zWGC520) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 5:43 |
 | 122 | [The First Noel/Born Is The King Interlude \- Medley](https://open.spotify.com/track/2y4Ii9MRFtPKkDK2akfsvD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 4:32 |
 | 123 | [I'm That Chick](https://open.spotify.com/track/5VGkXUGvKoE83aNzknNtXK) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:31 |
-| 124 | [If It's Over](https://open.spotify.com/track/3GONDOCwJprD1lZZ32JbuJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:37 |
-| 125 | [Loverboy \(Remix\)](https://open.spotify.com/track/4igqjAFcH35y4XybHzJ3aD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Twenty II](https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:30 |
+| 124 | [Loverboy \(Remix\)](https://open.spotify.com/track/4igqjAFcH35y4XybHzJ3aD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Twenty II](https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:30 |
+| 125 | [If It's Over](https://open.spotify.com/track/3GONDOCwJprD1lZZ32JbuJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:37 |
 | 126 | [Candy Bling](https://open.spotify.com/track/4Ahcld58IdttCXdyhdWLEq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:03 |
 | 127 | [Almost Home](https://open.spotify.com/track/6JZXpVvOOiSfZVeT7UPvX9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Almost Home](https://open.spotify.com/album/4Plx5OeMybRUW6fvYKIZS3) | 3:47 |
 | 128 | [Long Ago](https://open.spotify.com/track/3gc1gXQN7HcKJrzkQwEYc0) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:31 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 249 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 250 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbmQtAAAAAB9DIfyrlQFP8EXQT6H4yQi`
+Snapshot ID: `AbmWSgAAAACd6VVbigRMp1aCaN3a2L4X`

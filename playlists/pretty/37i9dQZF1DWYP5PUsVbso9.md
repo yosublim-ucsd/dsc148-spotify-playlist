@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,519 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,547 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 63 | [Country Sunshine](https://open.spotify.com/track/4jE0JNXJ2H3UdhoYBeu8st) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [The Essential Dottie West](https://open.spotify.com/album/0dVCPUNJWfXOw5DZqwzmT1) | 2:03 |
 | 64 | [If I Were a Carpenter](https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:00 |
 | 65 | [You've Never Been This Far Before](https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [25 Number Ones](https://open.spotify.com/album/4GeLWE7lG3Ur3SaYaolhkh) | 3:01 |
-| 66 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
+| 66 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
 | 67 | [Love Is Like a Butterfly](https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 2:20 |
-| 68 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
+| 68 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
 | 69 | [The Fightin' Side Of Me](https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [HAG: The Hits Volume 2](https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC) | 2:49 |
 | 70 | [Amos Moses](https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
 | 71 | [Help Me Make It Through The Night](https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 2:35 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 97 | [Marie Laveau](https://open.spotify.com/track/7nIcb2zJj0HPNws3PRCl7k) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Super Hits](https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v) | 3:10 |
 | 98 | [I Just Fall In Love Again](https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [New Kind Of Feeling](https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG) | 2:51 |
 | 99 | [Y'all Come Back Saloon](https://open.spotify.com/track/5O8eCRZGcjLfztSye87CMw) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Greatest Hits](https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN) | 2:54 |
-| 100 | [This Time](https://open.spotify.com/track/03T4H6czLK426qcW870hBZ) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:24 |
+| 100 | [Till the End](https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:46 |
 
 Snapshot ID: `ZykKAAAAAACLTBX4e2riYqFGmbKt08RA`

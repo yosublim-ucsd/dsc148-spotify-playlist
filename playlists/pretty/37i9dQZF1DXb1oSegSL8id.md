@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,741 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,842 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 26 | [Amor Falsificado](https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Amor Falsificado](https://open.spotify.com/album/39lPbTks55YEHh4J9yZqpT) | 3:26 |
 | 27 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 |
 | 28 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
-| 29 | [A Fila Anda \- Ao Vivo](https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 2:57 |
-| 30 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 |
-| 31 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 |
+| 29 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 |
+| 30 | [A Fila Anda \- Ao Vivo](https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 2:57 |
+| 31 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 |
 | 32 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 |
 | 33 | [Acabei de Terminar \- Ao Vivo](https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acabei de Terminar \(Ao Vivo\)](https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo) | 3:43 |
 | 34 | [Todo Mundo Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:34 |

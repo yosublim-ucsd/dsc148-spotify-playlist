@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92605,
+  "num_followers": 92604,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
+        "name": "The Player",
+        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "The Player",
+      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
         "name": "S\u00e5 Mycket B\u00e4ttre 2024 - Tolkningarna",
         "url": "https://open.spotify.com/album/5fzaDwfgQ8wa3sq6Bwy2ww"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
-        "name": "The Player",
-        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "The Player",
-      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -667,22 +667,18 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/5WhLbhoV8ZB4P0SxceezKc"
+        "name": "Country Song Came On",
+        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
       },
       "artists": [
         {
-          "name": "Kleerup",
-          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 187040,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/1HiMLlD5OBUqoKNMNBMgTV"
+      "duration_ms": 234652,
+      "name": "Country Song Came On",
+      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -707,34 +703,22 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/5WhLbhoV8ZB4P0SxceezKc"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
-        "name": "Country Song Came On",
-        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
-      },
-      "artists": [
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        },
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
         }
       ],
-      "duration_ms": 234652,
-      "name": "Country Song Came On",
-      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
+      "duration_ms": 187040,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/1HiMLlD5OBUqoKNMNBMgTV"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -751,6 +735,22 @@
       "duration_ms": 168497,
       "name": "If You Ever Change Your Mind",
       "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "Swallow My Tears",
-        "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Swallow My Tears",
-      "url": "https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "Hurts",
         "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
       },
@@ -867,22 +851,18 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "Ljusare moln",
-        "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
+        "name": "Swallow My Tears",
+        "url": "https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8"
       },
       "artists": [
         {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        },
-        {
-          "name": "Linus Wahlgren",
-          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Ljusare moln",
-      "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
+      "duration_ms": 174213,
+      "name": "Swallow My Tears",
+      "url": "https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -903,18 +883,22 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "R\u00f6r vid mig",
-        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
+        "name": "Ljusare moln",
+        "url": "https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt"
       },
       "artists": [
         {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        },
+        {
+          "name": "Linus Wahlgren",
+          "url": "https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q"
         }
       ],
-      "duration_ms": 190328,
-      "name": "R\u00f6r vid mig",
-      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
+      "duration_ms": 238000,
+      "name": "Ljusare moln",
+      "url": "https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -935,18 +919,18 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+        "name": "R\u00f6r vid mig",
+        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
         }
       ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
+      "duration_ms": 190328,
+      "name": "R\u00f6r vid mig",
+      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -987,22 +971,18 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "S\u00e4llskapssjuk",
-        "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
       },
       "artists": [
         {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        },
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 214783,
-      "name": "S\u00e4llskapssjuk",
-      "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1019,6 +999,26 @@
       "duration_ms": 223908,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/1cVhitY0LNYiskEEIwSANH"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "S\u00e4llskapssjuk",
+        "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        }
+      ],
+      "duration_ms": 214783,
+      "name": "S\u00e4llskapssjuk",
+      "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
+        "name": "S\u00e5nger om dig",
+        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 174054,
+      "name": "Ingen annan",
+      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/1dtyicmDm2kBFPmwMLdVMu"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 210520,
       "name": "Har p\u00e5 k\u00e4nn",
       "url": "https://open.spotify.com/track/2jlC60WVWghOGflEo0kt9L"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
-        "name": "S\u00e5nger om dig",
-        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 174054,
-      "name": "Ingen annan",
-      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1203,34 +1203,18 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "Bortom M\u00e5nen Och Mars",
-        "url": "https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi"
+        "name": "Upp med hakan",
+        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
       },
       "artists": [
         {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Bortom M\u00e5nen Och Mars",
-      "url": "https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
-        "name": "Akta dig",
-        "url": "https://open.spotify.com/album/4hcFFUgotmXQnIbbM3ifKo"
-      },
-      "artists": [
-        {
-          "name": "Albin Johns\u00e9n",
-          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Akta dig",
-      "url": "https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o"
+      "duration_ms": 165333,
+      "name": "Upp med hakan",
+      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1251,18 +1235,34 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "Upp med hakan",
-        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
+        "name": "Akta dig",
+        "url": "https://open.spotify.com/album/4hcFFUgotmXQnIbbM3ifKo"
       },
       "artists": [
         {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Upp med hakan",
-      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+      "duration_ms": 140571,
+      "name": "Akta dig",
+      "url": "https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "Bortom M\u00e5nen Och Mars",
+        "url": "https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Bortom M\u00e5nen Och Mars",
+      "url": "https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "V\u00e5rt \u00e5r",
-        "url": "https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "V\u00e5rt \u00e5r",
-      "url": "https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "Hoppas du m\u00e5r bra",
         "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 196560,
       "name": "Hoppas du m\u00e5r bra",
       "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "V\u00e5rt \u00e5r",
+        "url": "https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "V\u00e5rt \u00e5r",
+      "url": "https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg"
     },
     {
       "added_at": "2025-01-02 23:00:05",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-01-02 23:00:05",
       "album": {
-        "name": "Weak Point",
-        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 285520,
-      "name": "Weak Point",
-      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
-    },
-    {
-      "added_at": "2025-01-02 23:00:05",
-      "album": {
         "name": "V\u00e5r v\u00e4nskap best\u00e5r",
         "url": "https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 170453,
       "name": "V\u00e5r v\u00e4nskap best\u00e5r",
       "url": "https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD"
+    },
+    {
+      "added_at": "2025-01-02 23:00:05",
+      "album": {
+        "name": "Weak Point",
+        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
+      },
+      "artists": [
+        {
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
+        }
+      ],
+      "duration_ms": 285520,
+      "name": "Weak Point",
+      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     },
     {
       "added_at": "2025-01-02 23:00:05",

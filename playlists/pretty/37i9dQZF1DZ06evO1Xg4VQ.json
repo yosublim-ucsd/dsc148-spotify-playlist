@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 70803,
+  "num_followers": 70804,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAACgU5KwXhOFDVnPrQ3w6AAM",
+  "snapshot_id": "Z3xugAAAAACgWiH07ThDuBpjpHbNxM7C",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
-        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
+        "name": "Ra\u00edz",
+        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 166973,
-      "name": "Tu Voz (with Lila Downs)",
-      "url": "https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV"
+      "duration_ms": 230680,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/6kYIZQ1uG6hu0FltPc5CzD"
     },
     {
       "added_at": null,
@@ -275,26 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra\u00edz",
-        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
+        "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
+        "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
       "artists": [
         {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 230680,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/6kYIZQ1uG6hu0FltPc5CzD"
+      "duration_ms": 166973,
+      "name": "Tu Voz (with Lila Downs)",
+      "url": "https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV"
     },
     {
       "added_at": null,
@@ -983,26 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra\u00edz Nunca Me Fui",
-        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 197402,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"
+      "duration_ms": 214333,
+      "name": "Dos Corazones",
+      "url": "https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6"
     },
     {
       "added_at": null,
@@ -1023,18 +1015,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+        "name": "Ra\u00edz Nunca Me Fui",
+        "url": "https://open.spotify.com/album/2sRduC2gcyo5qGQ0nqa5wf"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 214333,
-      "name": "Dos Corazones",
-      "url": "https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6"
+      "duration_ms": 197402,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/72bPIOHvWZHuWeTlQfBgaf"
     },
     {
       "added_at": null,

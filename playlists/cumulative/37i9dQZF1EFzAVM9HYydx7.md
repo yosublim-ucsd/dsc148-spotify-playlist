@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-315 songs - 19 hr 27 min
+316 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [CIVIL WAR \- Bonus](https://open.spotify.com/track/0IUgswE9wJaY4QIQZEDTKe) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 2:24 | 2023-12-13 |  |
 | [Clean Edit](https://open.spotify.com/track/0lR9C9p0w0EaYU1ENet9Ty) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 2:08 | 2023-12-13 |  |
 | [Cold Sweat](https://open.spotify.com/track/4RSYgNxty83tnXcexSdgVA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 5:11 | 2023-12-13 |  |
+| [Condone It](https://open.spotify.com/track/5iG5cxNN8um3C4b4rDAWl8) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:00 | 2025-01-08 |  |
 | [Controlla](https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:05 | 2023-12-13 |  |
 | [CrasH](https://open.spotify.com/track/6BKAKoo7J2vwJGZJs5dhGD) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [CrasH Talk](https://open.spotify.com/album/3UTp6spxkyTdvsmJDPfb7n) | 2:41 | 2023-12-13 |  |
 | [CROWN](https://open.spotify.com/track/4STskVkFJFtNbjuZmDe26C) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CROWN](https://open.spotify.com/album/0mRiqLvYIjafS4sKy4kAKW) | 2:35 | 2023-12-13 |  |

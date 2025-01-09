@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Lithuania.",
-  "num_followers": 28663,
+  "num_followers": 28668,
   "original_name": "Top 50 - Lithuania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LxCWSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LxHu0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Jeigu \u017dinai Ko Tu Nori",
         "url": "https://open.spotify.com/album/1ytSDPGcluM6SCt0n3YH28"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2iYWspPgOWNEDkx7tSzD2Y"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -65,23 +65,7 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "Plastika",
-        "url": "https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF"
-      },
-      "artists": [
-        {
-          "name": "Free Finga",
-          "url": "https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Vienas",
-      "url": "https://open.spotify.com/track/7bi0RIjwiZ0r6HlW0Lb4eq"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -101,39 +85,23 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Sutemos",
-        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
+        "name": "Plastika",
+        "url": "https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF"
       },
       "artists": [
         {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+          "name": "Free Finga",
+          "url": "https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd"
         }
       ],
-      "duration_ms": 127272,
-      "name": "1000 V\u0117tr\u0173",
-      "url": "https://open.spotify.com/track/2p9Jb5GxSdQvCJ7zTBSuXK"
+      "duration_ms": 253714,
+      "name": "Vienas",
+      "url": "https://open.spotify.com/track/7bi0RIjwiZ0r6HlW0Lb4eq"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -149,7 +117,39 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Sutemos",
+        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 127272,
+      "name": "1000 V\u0117tr\u0173",
+      "url": "https://open.spotify.com/track/2p9Jb5GxSdQvCJ7zTBSuXK"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
@@ -165,47 +165,7 @@
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "Prisimink",
-        "url": "https://open.spotify.com/album/13uIsq9amuUco2Pdb0d7Z0"
-      },
-      "artists": [
-        {
-          "name": "Adomas Vy\u0161niauskas",
-          "url": "https://open.spotify.com/artist/7i2U71XuLFajkGpxuJWFDG"
-        }
-      ],
-      "duration_ms": 187997,
-      "name": "Prisimink",
-      "url": "https://open.spotify.com/track/0nDJPe1kG1xVrtgatH7Xj2"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
@@ -221,23 +181,35 @@
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Sutemos",
-        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
       "artists": [
         {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Tarp Gelton\u0173 R\u016bt\u0173",
-      "url": "https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71"
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
@@ -257,43 +229,23 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+        "name": "Prisimink",
+        "url": "https://open.spotify.com/album/13uIsq9amuUco2Pdb0d7Z0"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Adomas Vy\u0161niauskas",
+          "url": "https://open.spotify.com/artist/7i2U71XuLFajkGpxuJWFDG"
         }
       ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+      "duration_ms": 187997,
+      "name": "Prisimink",
+      "url": "https://open.spotify.com/track/0nDJPe1kG1xVrtgatH7Xj2"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 301623,
-      "name": "S\u00e3o Paulo (feat. Anitta)",
-      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
         "url": "https://open.spotify.com/album/3eb4GbFzAMjgoRAuuSkoLo"
@@ -317,79 +269,59 @@
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Plastika",
-        "url": "https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
-          "name": "Free Finga",
-          "url": "https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "name": "Monika LIU",
-          "url": "https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 265423,
-      "name": "Ber\u017eas (feat. Monika Liu)",
-      "url": "https://open.spotify.com/track/5GY1DG6DwtqCv7au849YRu"
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+        "name": "Sutemos",
+        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
         }
       ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+      "duration_ms": 123000,
+      "name": "Tarp Gelton\u0173 R\u016bt\u0173",
+      "url": "https://open.spotify.com/track/7oT03aTBgEAC3MqizjLL71"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 183550,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "yustyna",
-        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Stadionai",
         "url": "https://open.spotify.com/album/0mvlCZJYaEuJOjI3MsiJ4n"
@@ -409,23 +341,95 @@
       "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Pasaka",
-        "url": "https://open.spotify.com/album/6SYCoF4BmXHB9ppAD9fufe"
+        "name": "Plastika",
+        "url": "https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF"
       },
       "artists": [
         {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+          "name": "Free Finga",
+          "url": "https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd"
+        },
+        {
+          "name": "Monika LIU",
+          "url": "https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD"
         }
       ],
-      "duration_ms": 134126,
-      "name": "Apkabink",
-      "url": "https://open.spotify.com/track/6EOpPeCBiBYF0yITU0VQwT"
+      "duration_ms": 265423,
+      "name": "Ber\u017eas (feat. Monika Liu)",
+      "url": "https://open.spotify.com/track/5GY1DG6DwtqCv7au849YRu"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "yustyna",
+        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Sapnas",
+        "url": "https://open.spotify.com/album/4lIvqRTZwvDzEp4OAtATVC"
+      },
+      "artists": [
+        {
+          "name": "Norbertas",
+          "url": "https://open.spotify.com/artist/314gEtVHpWMBWfExBpeBwz"
+        }
+      ],
+      "duration_ms": 171624,
+      "name": "Sapnas",
+      "url": "https://open.spotify.com/track/2RPhv8h2qctj8PH1r4067D"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -441,7 +445,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -457,7 +461,23 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Sutemos",
+        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "\u017dvaig\u017ed\u0117s",
+      "url": "https://open.spotify.com/track/0dWhliZrU41gOE51Zgbbyz"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
@@ -473,7 +493,7 @@
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -509,23 +529,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Unreal Unearth: Unaired",
         "url": "https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL"
@@ -541,7 +545,87 @@
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Pasaka",
+        "url": "https://open.spotify.com/album/6SYCoF4BmXHB9ppAD9fufe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "duration_ms": 134126,
+      "name": "Apkabink",
+      "url": "https://open.spotify.com/track/6EOpPeCBiBYF0yITU0VQwT"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/6LP4N0YyahcbORO3PfUkcR"
+      },
+      "artists": [
+        {
+          "name": "\u0160okoledas",
+          "url": "https://open.spotify.com/artist/2LHgl3iIcr7kD07zspLIpL"
+        }
+      ],
+      "duration_ms": 196507,
+      "name": "A\u0161 \u0160alia",
+      "url": "https://open.spotify.com/track/0g4FU2WlInNO2VfAQzm1sK"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Pasilik Praeity",
+        "url": "https://open.spotify.com/album/1PZJzzEPN9YMEwdBrsfgI7"
+      },
+      "artists": [
+        {
+          "name": "Paulina Pauk\u0161taityt\u0117",
+          "url": "https://open.spotify.com/artist/4x1VXRYFuagEOeanJhVX4Z"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Pasilik Praeity",
+      "url": "https://open.spotify.com/track/02mXuuyMLt1QOJx1hLb6Jw"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "Hotel Cabana (Deluxe Version)",
         "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
@@ -561,126 +645,74 @@
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Demo",
-        "url": "https://open.spotify.com/album/6LP4N0YyahcbORO3PfUkcR"
+        "name": "\u012ekliuvau",
+        "url": "https://open.spotify.com/album/3OlGDHgw26Qmr4WiKIgndF"
       },
       "artists": [
         {
-          "name": "\u0160okoledas",
-          "url": "https://open.spotify.com/artist/2LHgl3iIcr7kD07zspLIpL"
+          "name": "Evgenya Redko",
+          "url": "https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK"
         }
       ],
-      "duration_ms": 196507,
-      "name": "A\u0161 \u0160alia",
-      "url": "https://open.spotify.com/track/0g4FU2WlInNO2VfAQzm1sK"
+      "duration_ms": 190387,
+      "name": "\u012ekliuvau",
+      "url": "https://open.spotify.com/track/3gmO6f3WDuorQqxTjqjATO"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+        "name": "Patogu",
+        "url": "https://open.spotify.com/album/6RnUzinMY6jMvVFPAz8sYP"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Evgenya Redko",
+          "url": "https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+      "duration_ms": 215992,
+      "name": "Patogu",
+      "url": "https://open.spotify.com/track/4MXAjSbfE8R8ugq99HKHUS"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Pasilik Praeity",
-        "url": "https://open.spotify.com/album/1PZJzzEPN9YMEwdBrsfgI7"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "Paulina Pauk\u0161taityt\u0117",
-          "url": "https://open.spotify.com/artist/4x1VXRYFuagEOeanJhVX4Z"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Pasilik Praeity",
-      "url": "https://open.spotify.com/track/02mXuuyMLt1QOJx1hLb6Jw"
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "PIRMA DALIS",
-        "url": "https://open.spotify.com/album/5x5fy79nDz1pteQ7DB4nnb"
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
       },
       "artists": [
         {
-          "name": "Furytto",
-          "url": "https://open.spotify.com/artist/53xjuOkCa7byXggNs2VZOw"
-        },
-        {
-          "name": "OG Version",
-          "url": "https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5"
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
         }
       ],
-      "duration_ms": 192932,
-      "name": "Kelintadienis",
-      "url": "https://open.spotify.com/track/61PSOcQ0RetSngy95dUql4"
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "Sutemos",
-        "url": "https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A"
-      },
-      "artists": [
-        {
-          "name": "Jessica Shy",
-          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "\u017dvaig\u017ed\u0117s",
-      "url": "https://open.spotify.com/track/0dWhliZrU41gOE51Zgbbyz"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "Balti Sparnai",
-        "url": "https://open.spotify.com/album/0yhTScGqRtfdLIUtPOQVHI"
-      },
-      "artists": [
-        {
-          "name": "Sel",
-          "url": "https://open.spotify.com/artist/3x5BNVdaDxbzqEQOxPoQ5F"
-        }
-      ],
-      "duration_ms": 192156,
-      "name": "Balti Sparnai",
-      "url": "https://open.spotify.com/track/08IPAPl38NTzuGL86TGJW1"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+        "url": "https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr"
       },
       "artists": [
         {
@@ -688,44 +720,32 @@
           "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 240400,
+      "duration_ms": 240426,
       "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+      "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Breakin' Dishes",
-      "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 149440,
-      "name": "PORNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
+      "duration_ms": 177598,
+      "name": "luther (with sza)",
+      "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -749,111 +769,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "Noriu \u0160okt",
-        "url": "https://open.spotify.com/album/6PiqXDe7wIJjhsiObo4LXx"
-      },
-      "artists": [
-        {
-          "name": "Jovani",
-          "url": "https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U"
-        },
-        {
-          "name": "Ledi Ais",
-          "url": "https://open.spotify.com/artist/1S8GUDg4ojjbFAS2QAb6m2"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "Jis",
-      "url": "https://open.spotify.com/track/5WvEHyZk6m9ij0ajvvqXCa"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "\u012ekliuvau",
-        "url": "https://open.spotify.com/album/3OlGDHgw26Qmr4WiKIgndF"
-      },
-      "artists": [
-        {
-          "name": "Evgenya Redko",
-          "url": "https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "\u012ekliuvau",
-      "url": "https://open.spotify.com/track/3gmO6f3WDuorQqxTjqjATO"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "Sapnas",
-        "url": "https://open.spotify.com/album/4lIvqRTZwvDzEp4OAtATVC"
-      },
-      "artists": [
-        {
-          "name": "Norbertas",
-          "url": "https://open.spotify.com/artist/314gEtVHpWMBWfExBpeBwz"
-        }
-      ],
-      "duration_ms": 171624,
-      "name": "Sapnas",
-      "url": "https://open.spotify.com/track/2RPhv8h2qctj8PH1r4067D"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "Melodramos",
-        "url": "https://open.spotify.com/album/2Xtm7Esg9qcPk4VnfWBVl8"
-      },
-      "artists": [
-        {
-          "name": "Rokas Yan",
-          "url": "https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs"
-        },
-        {
-          "name": "Evgenya Redko",
-          "url": "https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Melodramos",
-      "url": "https://open.spotify.com/track/0RJHLXajHNw2QrvnT709yQ"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
-      "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
-    },
-    {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -873,20 +789,104 @@
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2025-01-07 12:51:59",
+      "added_at": "2025-01-08 12:44:09",
       "album": {
-        "name": "Patogu",
-        "url": "https://open.spotify.com/album/6RnUzinMY6jMvVFPAz8sYP"
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
       },
       "artists": [
         {
-          "name": "Evgenya Redko",
-          "url": "https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 215992,
-      "name": "Patogu",
-      "url": "https://open.spotify.com/track/4MXAjSbfE8R8ugq99HKHUS"
+      "duration_ms": 200573,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 149440,
+      "name": "PORNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "Paskend\u0119 vyne",
+        "url": "https://open.spotify.com/album/49Av61NYQ6SwuZrttWqNRY"
+      },
+      "artists": [
+        {
+          "name": "Furytto",
+          "url": "https://open.spotify.com/artist/53xjuOkCa7byXggNs2VZOw"
+        }
+      ],
+      "duration_ms": 134044,
+      "name": "Paskend\u0119 vyne",
+      "url": "https://open.spotify.com/track/7hUjUlcZyl9N6zWzqyYbjs"
+    },
+    {
+      "added_at": "2025-01-08 12:44:09",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 278014,
+      "name": "Like Him (feat. Lola Young)",
+      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
     }
   ],
   "unique_name": "Top 50 - Lithuania",

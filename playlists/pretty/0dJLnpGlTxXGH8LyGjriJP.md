@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 812 songs - 1 day 17 hr 33 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 814 songs - 1 day 17 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -820,5 +820,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 810 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 |
 | 811 | [BURR](https://open.spotify.com/track/0TLuRPNABhCmoRDTwaMKK9) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [BURR](https://open.spotify.com/album/07b2ukrOeBHxOZmbGwZcNc) | 2:37 |
 | 812 | [I Serve the Base](https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:10 |
+| 813 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 |
+| 814 | [Outfit \(with 21 Savage\)](https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:57 |
 
-Snapshot ID: `AAAD466Kn/IFZDwlFZbqRI5oiFjXy75u`
+Snapshot ID: `AAAD5eVpHwP1RMglVwfS3CpwZ7jaQQFZ`

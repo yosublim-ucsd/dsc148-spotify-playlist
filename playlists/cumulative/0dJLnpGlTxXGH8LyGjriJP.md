@@ -4,7 +4,7 @@
 
 > 
 
-821 songs - 1 day 17 hr 59 min
+823 songs - 1 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Drippin'](https://open.spotify.com/track/3hRgJDDSSv7ldLVlWUlas9) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 2:36 | 2022-12-28 |  |
 | [DROP TOP](https://open.spotify.com/track/0NLiG7qT43kEvdMARkuj7d) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 3:12 | 2023-04-14 |  |
 | [Dropped The Lo](https://open.spotify.com/track/6tXUGESOMRSdpYJIiPCeAl) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Dropped The Lo](https://open.spotify.com/album/16Eq5sqIZvM7TmYORwyxhh) | 2:41 | 2023-04-14 |  |
+| [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 | 2025-01-08 |  |
 | [EA \(feat\. 21 Savage\)](https://open.spotify.com/track/68MTDH8Kk4jBEV1ah0n89s) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [SlimeBall 2](https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t) | 3:47 | 2022-05-26 |  |
 | [Eastside \(with Lil Tjay\) \- Remix](https://open.spotify.com/track/2dlMnyDEWEam9hp1xpfu5Z) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Eastside \(with Lil Tjay\) \[Remix\]](https://open.spotify.com/album/2KwJWaEp5Du3FlZsUCAiE6) | 2:37 | 2022-11-13 |  |
 | [Element](https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:15 | 2022-06-12 |  |
@@ -541,6 +542,7 @@
 | [Our Time](https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:38 | 2023-01-20 |  |
 | [Out The Mud](https://open.spotify.com/track/2wZjsbwmWfNVslgV5afl1L) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Out The Mud](https://open.spotify.com/album/1LGwG4vhQIOwCBZhyEtL4u) | 2:37 | 2023-03-21 |  |
 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 | 2022-12-21 |  |
+| [Outfit \(with 21 Savage\)](https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:57 | 2025-01-08 |  |
 | [Outro](https://open.spotify.com/track/5mlPARhG0SStiNoQHNl8B1) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [GMTO Vol\. 1 \(Get Money Take Over\)](https://open.spotify.com/album/4UDPZgxZy3VnIFQ8os0G29) | 2:14 | 2022-05-26 |  |
 | [Outside \(100 MPH\)](https://open.spotify.com/track/67lvhLT01Fq3GEIrt5RpPn) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:18 | 2023-10-15 |  |
 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 | 2022-10-28 |  |

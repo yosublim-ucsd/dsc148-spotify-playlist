@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,866 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,909 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 13 | [Imagination](https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 5:55 |
 | 14 | [Inside Impromptu](https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:32 |
 | 15 | [My Funny Valentine \- Live At The Shrine Auditorium, Los Angeles / 1957](https://open.spotify.com/track/3XMlpZZy7YhvfnHoiIKlYa) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [Stan Getz And J.J\. Johnson At The Opera House \(Live / 1957\)](https://open.spotify.com/album/6u0UBTSzmzL9CbfpwcNwKm) | 8:28 |
-| 16 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
-| 17 | [On The Street Where You Live \- Instrumental](https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 5:38 |
+| 16 | [On The Street Where You Live \- Instrumental](https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 5:38 |
+| 17 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
 | 18 | [Far More Blue](https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Further Out](https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT) | 4:37 |
 | 19 | [Nights At The Turntable](https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Gerry Mulligan Quartet Vol.1 \(Expanded Edition\)](https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB) | 2:55 |
 | 20 | [Too Close For Comfort](https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp) | [Stan Getz Quartet](https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r) | [The Steamer \(Expanded Edition\)](https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA) | 6:19 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 25 | [Steve Allen Theme](https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 4:11 |
 | 26 | [Resonant Emotions](https://open.spotify.com/track/5jqlbjVMrHHSV9oFEinHKb) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Picture Of Heath](https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO) | 5:43 |
 | 27 | [Stand Still](https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time](https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv) | 3:30 |
-| 28 | [Brandenburg Gate](https://open.spotify.com/track/2hHMogPlvtE3i1TnUI5lmP) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Jazz Impressions Of Eurasia](https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs) | 6:51 |
-| 29 | [Sometime Ago](https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 4:04 |
+| 28 | [Sometime Ago](https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 4:04 |
+| 29 | [Brandenburg Gate](https://open.spotify.com/track/2hHMogPlvtE3i1TnUI5lmP) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Jazz Impressions Of Eurasia](https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs) | 6:51 |
 | 30 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 |
 | 31 | [The Wind](https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Chico Hamilton Quintet In Hi\-Fi](https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg) | 3:39 |
 | 32 | [Blue Thoughts](https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [In New York \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ) | 7:33 |

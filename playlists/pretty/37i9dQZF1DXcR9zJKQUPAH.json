@@ -1,6 +1,6 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 155276,
+  "num_followers": 155355,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "So Young",
+      "url": "https://open.spotify.com/track/4SNtyKNyYJ8ERT7YLlnFBr"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 197546,
       "name": "Andromeda (feat. DRAM)",
       "url": "https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "So Young",
-      "url": "https://open.spotify.com/track/4SNtyKNyYJ8ERT7YLlnFBr"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -503,22 +503,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 181906,
-      "name": "Saturnz Barz (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
+      "duration_ms": 246786,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -539,18 +535,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+      "duration_ms": 181906,
+      "name": "Saturnz Barz (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "LA DIVINE",
-        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Love Is Mystical",
-      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Don't You Worry, Honey",
         "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 231896,
       "name": "High",
       "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "LA DIVINE",
+        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Love Is Mystical",
+      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Lost in You",
-        "url": "https://open.spotify.com/album/5c9otgSaGE52UfeQ4Eq3zH"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 101000,
-      "name": "Lost in You",
-      "url": "https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Lost in You",
+        "url": "https://open.spotify.com/album/5c9otgSaGE52UfeQ4Eq3zH"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 101000,
+      "name": "Lost in You",
+      "url": "https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e"
     },
     {
       "added_at": "2024-03-18 13:08:31",

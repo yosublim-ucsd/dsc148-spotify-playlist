@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe9UYa8hql9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe9UYa8hql9y)
 
-### [Guadalupe \- Reyes ](https://open.spotify.com/playlist/37i9dQZF1DXe9UYa8hql9y)
+### [La Peda ](https://open.spotify.com/playlist/37i9dQZF1DXe9UYa8hql9y)
 
-> En nombre sea de Dios y que no se haga vicio
+> puro rolón para amanecer y seguirla
 
 554 songs - 1 day 6 hr 18 min
 

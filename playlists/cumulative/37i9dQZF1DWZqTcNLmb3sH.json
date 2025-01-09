@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 239416,
       "name": "Anthem Of Martin (From \"Martin\") (Kannada)",
       "url": "https://open.spotify.com/track/4afXxPuT4KFDtDrEIPncyL"
@@ -16340,7 +16340,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 156346,
       "name": "Kannu Noduthe (From \"Ellige Payana Yavudo Daari\")",
       "url": "https://open.spotify.com/track/7AuCczILa66mVc6Ge8RAkN"
@@ -17778,6 +17778,32 @@
       "duration_ms": 146880,
       "name": "Lion's Roar (From \"Max\") (Kannada)",
       "url": "https://open.spotify.com/track/3fYtnQP9CgiaT3JRfw4PCJ"
+    },
+    {
+      "album": {
+        "name": "Lock Lock (From \"Unlock Raghava\")",
+        "url": "https://open.spotify.com/album/7kgxuem4TNxNMhjPrwZ7sH"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/0m7V5e0K5bJpXbU7A1J2te"
+        },
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244575,
+      "name": "Lock Lock - From \"Unlock Raghava\"",
+      "url": "https://open.spotify.com/track/6G2jGoXEZjFS8ZfusbWX3f"
     },
     {
       "album": {

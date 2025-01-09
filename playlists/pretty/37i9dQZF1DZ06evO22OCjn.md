@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,789 likes - 52 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,837 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 37 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
 | 38 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 |
 | 39 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 |
-| 40 | [Pree Me](https://open.spotify.com/track/1h1oC8n5nh3IKxCmpUtw85) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Redemption](https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H) | 3:20 |
-| 41 | [Coming Home](https://open.spotify.com/track/2cJq3u0BRlsGFOYqP9KidJ) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:15 |
+| 40 | [Coming Home](https://open.spotify.com/track/2cJq3u0BRlsGFOYqP9KidJ) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:15 |
+| 41 | [Pree Me](https://open.spotify.com/track/1h1oC8n5nh3IKxCmpUtw85) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Redemption](https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H) | 3:20 |
 | 42 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 |
 | 43 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
 | 44 | [Wetin Man Go Do](https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:08 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 51 | [Deja Vu](https://open.spotify.com/track/3QjuJWCHmzJi8w3o6AT1Fq) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Deja Vu](https://open.spotify.com/album/3u6Y16d0KHXyIdj378tX1w) | 3:28 |
 | 52 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 
-Snapshot ID: `Z3sdAAAAAABhh+wI0fFEvMbDPYLISatx`
+Snapshot ID: `Z3xugAAAAAAHMnjBDKUS42WTDnoN+Ul1`

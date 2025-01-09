@@ -4,7 +4,7 @@
 
 > The sweet sounds of Syria.
 
-97 songs - 7 hr 30 min
+98 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Abu Dub](https://open.spotify.com/track/4PYYYrvbQZFd0aK8yKeYby) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Abu Dub](https://open.spotify.com/album/6VcIiBjQaMqCJxNx9Nqq1N) | 4:49 | 2021-10-19 |  |
 | [Abu Dub](https://open.spotify.com/track/6X3XDA36ekI3xQ75QkfKdZ) | [Jamila & The Other Heroes](https://open.spotify.com/artist/4SXSjuoWAU7XTyXF9JZcHe) | [Abu Dub](https://open.spotify.com/album/35zz7cXSUfe67McbGGrRk6) | 4:49 | 2022-06-20 | 2024-04-19 |
 | [Akbar Ghalta Bhaiati](https://open.spotify.com/track/16y55jwMHL4nOwluPlGdXe) | [ريم السواس](https://open.spotify.com/artist/69F3HmSAZ3eP1lmZ3OTkCA) | [Akbar Ghalta Bhaiati](https://open.spotify.com/album/0DaJP0Wx5cfsQSBDv5KYYu) | 9:50 | 2024-10-11 |  |
+| [Al Harbein](https://open.spotify.com/track/6Ot3W2qlxch3yje4gl10Of) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Al Harbein](https://open.spotify.com/album/3V5nwOj4A4NuuMFJ9p8spI) | 3:07 | 2025-01-08 |  |
 | [Al Tayr](https://open.spotify.com/track/3KtalxQzxUlkRVeBWsjEii) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Monologue](https://open.spotify.com/album/1tZH9Nv3aLL1AxJTQNwDHr) | 4:47 | 2021-10-19 | 2024-10-28 |
 | [Alloosh](https://open.spotify.com/track/4SutQpeY0rtwP9XeRfa0hi) | [Ali Al Deek](https://open.spotify.com/artist/4gJE3vuk92stqZIRWieUe8) | [Ali Hits](https://open.spotify.com/album/1RL5PDCpMACLDpuIMTsXeI) | 13:43 | 2022-06-20 | 2024-04-19 |
 | [Alloosh](https://open.spotify.com/track/5xv6FRGgAvTMDNciqXkV5H) | [Ali El Deek](https://open.spotify.com/artist/33qFtGCQ4HLTagGMaAOn5N) | [Ali Hits](https://open.spotify.com/album/50NsorNvEUNpA8vsrncpOI) | 13:43 | 2021-10-19 |  |
@@ -104,6 +105,6 @@
 | [Ya Qatily](https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ya Qatily](https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ) | 4:15 | 2021-10-19 |  |
 | [You Make Me Laugh](https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew) | [Omar Offendum](https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk), [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL) | [You Make Me Laugh](https://open.spotify.com/album/1gHpXCOHGd6Fy59HY5mi6Q) | 2:41 | 2021-10-19 |  |
 | [ارجعلا بدا](https://open.spotify.com/track/0PsJP3Igq0uUSwKNu5tN6q) | [Wael Idrees](https://open.spotify.com/artist/00MQ5607RYLIP2OH8jSWOA) | [ارجعلا بدا](https://open.spotify.com/album/2bixbH22rOVxfiR1kk3xne) | 3:01 | 2024-10-22 |  |
-| [يا نونا](https://open.spotify.com/track/3thjMMTxrwakQsSukfYlti) | [ريم السواس](https://open.spotify.com/artist/69F3HmSAZ3eP1lmZ3OTkCA) | [يا نونا](https://open.spotify.com/album/3xrFfDeR4L3X2D7FIWA9tf) | 3:26 | 2024-12-29 |  |
+| [يا نونا](https://open.spotify.com/track/3thjMMTxrwakQsSukfYlti) | [ريم السواس](https://open.spotify.com/artist/69F3HmSAZ3eP1lmZ3OTkCA) | [يا نونا](https://open.spotify.com/album/3xrFfDeR4L3X2D7FIWA9tf) | 3:26 | 2024-12-29 | 2025-01-09 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

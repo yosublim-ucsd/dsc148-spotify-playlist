@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 254655,
+  "num_followers": 254713,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAACf9vvS/EbmZut+sz948rgq",
+  "snapshot_id": "Z3xugAAAAACIrp3SbTd8lD/skpZl9afK",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
+        "name": "Hotel Caro",
+        "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 125538,
-      "name": "FAMA",
-      "url": "https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk"
+      "duration_ms": 221857,
+      "name": "Hotel Caro",
+      "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
     },
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caro",
-        "url": "https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 221857,
-      "name": "Hotel Caro",
-      "url": "https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "recadin no espelho",
         "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 124312,
       "name": "recadin no espelho",
       "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "FAMA",
+      "url": "https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 124455,
-      "name": "A Dona Aranha",
-      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
+      "duration_ms": 222435,
+      "name": "Iguaria",
+      "url": "https://open.spotify.com/track/0xjlf07YcizDPmtLIGl5Og"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 222435,
-      "name": "Iguaria",
-      "url": "https://open.spotify.com/track/0xjlf07YcizDPmtLIGl5Og"
+      "duration_ms": 124455,
+      "name": "A Dona Aranha",
+      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
     },
     {
       "added_at": null,

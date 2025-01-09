@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Arca & Tokischa",
-  "num_followers": 136129,
+  "num_followers": 136142,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Clich\u00e9s",
+        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Fugitivo",
         "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 173206,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "C\u00e1scara de Coco",
-      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Clich\u00e9s",
-        "url": "https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9"
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 224066,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1"
+      "duration_ms": 176960,
+      "name": "C\u00e1scara de Coco",
+      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Sex Tape",
         "url": "https://open.spotify.com/album/4PwLR9s5OokLJnsS9HcZ3t"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 118206,
       "name": "Sex Tape",
       "url": "https://open.spotify.com/track/7Iku20a8bDT1bMs2JOnaku"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 225000,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "NO BINARIA",
-        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
-      },
-      "artists": [
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 131416,
-      "name": "NO BINARIA",
-      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "NO BINARIA",
+        "url": "https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA"
+      },
+      "artists": [
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 131416,
+      "name": "NO BINARIA",
+      "url": "https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a"
+        "name": "As\u00ed Me Siento Hoy",
+        "url": "https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe"
       },
       "artists": [
         {
-          "name": "Nikky Bourbon",
-          "url": "https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL"
-        },
-        {
-          "name": "Stylolive",
-          "url": "https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ"
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
         }
       ],
-      "duration_ms": 195048,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4"
+      "duration_ms": 155159,
+      "name": "me gusta que me gustes",
+      "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
     }
   ],
   "unique_name": "BRILLO",

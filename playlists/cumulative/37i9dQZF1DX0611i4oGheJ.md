@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-387 songs - 1 day 0 hr 29 min
+388 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Black Eyed Dog](https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Black Eyed Dog](https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj) | 2:48 | 2021-10-22 | 2022-07-24 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-29 |  |
 | [Blazing Highway Home](https://open.spotify.com/track/0Z2Q9i0qg8zKtK1rL5tFSu) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:58 | 2021-10-22 | 2022-07-29 |
+| [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 | 2025-01-08 |  |
 | [Blood Hunters](https://open.spotify.com/track/6v0zVFmYrF6FmJ8f7GIrv8) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 3:19 | 2021-10-22 | 2022-11-14 |
 | [Both](https://open.spotify.com/track/6Lv7dlKQthbBNua9XHWuGH) | [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Water Dog](https://open.spotify.com/album/14od62nFeY9aOW4x7MAoyk) | 3:44 | 2021-10-22 | 2022-07-29 |
 | [Bottomless Mimosas](https://open.spotify.com/track/3Ox18GRfrmkayoD9QTE10K) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Tenderheart](https://open.spotify.com/album/6cSAc78Ys9r2RDpCHFQK4i) | 3:46 | 2021-10-22 | 2022-07-27 |
@@ -86,7 +87,7 @@
 | [Ever New \- Reworked by Bon Iver & Flock of Dimes Single Version](https://open.spotify.com/track/02BFhF6HybAE3vjBX9ptjS) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Ever New \(Reworked by Bon Iver & Flock Of Dimes\)](https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE) | 6:23 | 2025-01-07 |  |
 | [Everybody Needs Somebody](https://open.spotify.com/track/1uheNSEpSpLy6RQ9iJ0PXn) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Everybody Needs Somebody](https://open.spotify.com/album/2k4v7znbAQYat1ndcvZ48n) | 3:30 | 2022-05-27 | 2023-02-04 |
 | [Everybody Needs Somebody](https://open.spotify.com/track/2M2pSUyaOpEg83cjK3Va7q) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Everybody Needs Somebody](https://open.spotify.com/album/0VHkRpOycTEskfVDfR1fq0) | 3:30 | 2021-10-22 | 2022-07-29 |
-| [Everything](https://open.spotify.com/track/0tsaquCXztQovOSRJhVCVi) | [Sun Child](https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX) | [Everything](https://open.spotify.com/album/7iqiQOwXT2Gf0gCsNi80i8) | 3:53 | 2024-03-15 |  |
+| [Everything](https://open.spotify.com/track/0tsaquCXztQovOSRJhVCVi) | [Sun Child](https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX) | [Everything](https://open.spotify.com/album/7iqiQOwXT2Gf0gCsNi80i8) | 3:53 | 2024-03-15 | 2025-01-09 |
 | [Evidence of Living](https://open.spotify.com/track/3vTw0hP6ksUfC6dQ9JnaG7) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [A Beginner's Guide to Bravery](https://open.spotify.com/album/5zo0VhHzIPJJMEdhiV3DLo) | 6:48 | 2021-10-22 |  |
 | [Faceplant](https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 3:41 | 2021-10-22 | 2024-04-20 |
 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 | 2021-10-22 |  |

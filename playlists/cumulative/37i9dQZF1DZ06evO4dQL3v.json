@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "La Morenita Corrido a Zacatecas",
+        "url": "https://open.spotify.com/album/52ZYbF5pWUFFISLm0OQOE6"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "La Morenita Corrido a Zacatecas",
+      "url": "https://open.spotify.com/track/18YWFM0IEaaKNQY9r7LGIh"
+    },
+    {
+      "album": {
         "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
         "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 184413,
       "name": "Ritmo Que Jala",
       "url": "https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,818 likes - 35 songs - 1 hr 46 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,819 likes - 35 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 11 | [Heal](https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heal](https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB) | 4:33 |
 | 12 | [Have Faith](https://open.spotify.com/track/1rtt60xdoXDoqeTb7XgWjN) | [Arctec](https://open.spotify.com/artist/1KzMaLiqjVR3B7WwGMlTWT), [Jones 2.0](https://open.spotify.com/artist/6XeLD4xycpIo0ET72akKle) | [Have Faith](https://open.spotify.com/album/7r8ME6h4Mx04uFOXfDNZos) | 3:37 |
 | 13 | [Bassline Vandal](https://open.spotify.com/track/1GUMaM9D1qF2eHxMy7KwXT) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [Bassline Vandal](https://open.spotify.com/album/5wlxgzkOV92T2RHqMGXoeM) | 3:20 |
-| 14 | [Overdrive \(Alive\)](https://open.spotify.com/track/2NqsSaJYjwLwwWHGJpKIFw) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Blair](https://open.spotify.com/artist/7EiaXz6xsGmIoPSviGIHel) | [Overdrive \(Alive\)](https://open.spotify.com/album/2Hs0ICfieli2hAQpIoIO04) | 2:42 |
+| 14 | [Overdrive \(Alive\)](https://open.spotify.com/track/2NqsSaJYjwLwwWHGJpKIFw) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Blair](https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O) | [Overdrive \(Alive\)](https://open.spotify.com/album/2Hs0ICfieli2hAQpIoIO04) | 2:42 |
 | 15 | [Goodbye](https://open.spotify.com/track/3m1D4CGQAvQLYXZlPjMFJB) | [TimZz](https://open.spotify.com/artist/1uSvCJ4OdrwwabDffeQBAW) | [Goodbye](https://open.spotify.com/album/3yXjbBmDzBEAxlqitlzNdc) | 2:25 |
 | 16 | [Midnight Craving](https://open.spotify.com/track/754tjSD2lKHOEnrNtmlvdj) | [RODA](https://open.spotify.com/artist/39PpUkKS1ul0OKtz72q0qE) | [Midnight Craving](https://open.spotify.com/album/0zydVpNA6BoWA6053xmjkN) | 2:47 |
 | 17 | [Turn Lights Out](https://open.spotify.com/track/2yCCt1RlVgVNgeuPh3uTl7) | [Flexxus](https://open.spotify.com/artist/0KIOQL6cgarrHCSaIdIMJv) | [Turn Lights Out](https://open.spotify.com/album/7q2i2lvwkdw481kjVyviD1) | 2:23 |

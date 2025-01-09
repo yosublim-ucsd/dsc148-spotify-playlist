@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Morocco’s biggest playlist featuring the hottest 50 tracks\. Cover: ROSÉ & Bruno Mars
+> Morocco’s biggest playlist featuring the hottest 50 tracks\. Cover: ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,241 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,290 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 |
 | 2 | [Dawini](https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Dawini](https://open.spotify.com/album/3013V6wepDbBnb81uVU95j) | 2:41 |
 | 3 | [PELIGROSA](https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:14 |
-| 4 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
-| 5 | [Mahboul Ana](https://open.spotify.com/track/6bQftLbIxlg6uMXEL77h1a) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/4gsrCRVyVyzxQnaA6ZCi3K) | 3:05 |
-| 6 | [Minimum ça](https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Minimum ça](https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha) | 2:29 |
-| 7 | [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 |
+| 4 | [Mahboul Ana](https://open.spotify.com/track/6bQftLbIxlg6uMXEL77h1a) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/4gsrCRVyVyzxQnaA6ZCi3K) | 3:05 |
+| 5 | [Minimum ça](https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Minimum ça](https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha) | 2:29 |
+| 6 | [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 |
+| 7 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 8 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
 | 9 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 |
 | 10 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Chouwafat](https://open.spotify.com/track/6Ncxu0CAuY2C1WEZJFdMMk) | [Houssainy](https://open.spotify.com/artist/0Vd0wj4JUTJ6M4ts8Xhpko), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Chouwafat](https://open.spotify.com/album/3h7c3KmNTk1OTdLEhKLBlp) | 3:24 |
 | 50 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 |
 
-Snapshot ID: `Z3zJ/AAAAAC61acHHBD48X/L17Ah9xSf`
+Snapshot ID: `Z34fPgAAAACiGJk52BHpOo/XfWxETZ3A`

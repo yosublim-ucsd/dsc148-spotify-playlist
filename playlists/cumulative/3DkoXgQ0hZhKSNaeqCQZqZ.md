@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\. \| Request songs @ Furrest.Online
 
-265 songs - 14 hr 8 min
+267 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [boosterpack fx](https://open.spotify.com/track/1LfzbK5FAHP7C1kIZCAUzz) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [OkayKirk](https://open.spotify.com/artist/7r9Nf86AyrMUWvbc8krSTx), [coldpizza](https://open.spotify.com/artist/5RvcrWaucYqDPlrfnMBzDj) | [deadWorld\(s\)](https://open.spotify.com/album/2rsHf3qGt1bBI5WXsWbptV) | 3:12 | 2024-05-28 |  |
 | [Boy kisser \(song\)](https://open.spotify.com/track/0zGjTWaMwZ7YXcagWAYGai) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3) | [Boy kisser \(song\)](https://open.spotify.com/album/126vT864AneXpsxM2zg75k) | 1:45 | 2023-09-12 |  |
 | [brighter day](https://open.spotify.com/track/59nYXwfY6lyUc9zgY7l03L) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 4:15 | 2024-08-15 |  |
+| [broken bottles](https://open.spotify.com/track/3BSoT0FpJcehfxxGZIdxxM) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [broken bottles](https://open.spotify.com/album/5ol4vdyNW2TTu299hJZ1xL) | 4:44 | 2025-01-08 |  |
 | [Burn](https://open.spotify.com/track/3M9zCSQGRBgvLAdmyrkznh) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Burn](https://open.spotify.com/album/40dj6oGJyFyeeYiklY4dgK) | 3:31 | 2024-07-22 |  |
 | [Campfire Song](https://open.spotify.com/track/5ZK9bDniZfEkc0sjthyKSo) | [fish eat cat](https://open.spotify.com/artist/4lqXQlGrKjNYgXi5fTPBZa) | [Campfire Song](https://open.spotify.com/album/0P9Ui8VhxgD5v8A3f681rU) | 4:05 | 2024-05-28 |  |
 | [CAN'T STOP](https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [CAN'T STOP](https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT) | 2:58 | 2024-11-03 |  |
@@ -77,6 +78,7 @@
 | [EAT YOU UP](https://open.spotify.com/track/0MKnQvS2nCL3AC6Acd4NLY) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:00 | 2024-09-09 |  |
 | [EAT YOU UP](https://open.spotify.com/track/0MeybRC4lyCjjYRAWDd2Ht) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:00 | 2024-03-24 |  |
 | [EAT YOU UP \- Single Version](https://open.spotify.com/track/0PYguVkr2AQZBqWoCUgDLd) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:41 | 2024-02-20 |  |
+| [Ecstasy](https://open.spotify.com/track/3LbpWLzCv8FycJaAqHthdi) | [ZephyrInTheWind](https://open.spotify.com/artist/2lqQ3jGN37e45ZjxAvRT1E), [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Back On Top](https://open.spotify.com/album/6NYYBa0pcmhh6yrD9iYo5V) | 3:52 | 2025-01-08 |  |
 | [EDGE PLAY \- theSpackster Remix](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 | 2024-06-09 |  |
 | [EM⓪CEANS](https://open.spotify.com/track/6yHqbAh2nYOTJFsS5cgEKE) | [ZeWei](https://open.spotify.com/artist/5Lo7AznRQVZur2qhDwg2OA) | [⎳fliCkERiNG⎲](https://open.spotify.com/album/2gZWvlmFnQ9TTGeVGeXkOQ) | 2:48 | 2024-05-28 |  |
 | [enby](https://open.spotify.com/track/7hqHsQlwymS7BIT53hzi9L) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [enby](https://open.spotify.com/album/708Sdmpbu2yG1BmXiEX2Yu) | 2:17 | 2024-07-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,973 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,001 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 49 | [doing it wrong](https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Dreamcache](https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa) | [doing it wrong](https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo) | 2:27 |
 | 50 | [hope u doing well](https://open.spotify.com/track/44mzhLKr8e5C8ytP6zzMwe) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hope u doing well](https://open.spotify.com/album/1bbLvy7JrUy34A4gZ9kQqE) | 1:36 |
 | 51 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 |
-| 52 | [go white boy go](https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [go white boy go](https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF) | 1:41 |
-| 53 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
+| 52 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
+| 53 | [go white boy go](https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [go white boy go](https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF) | 1:41 |
 | 54 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
 | 55 | [Whatuworried4?](https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Whatuworried4?](https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp) | 2:35 |
 | 56 | [Of Course I Still Love You](https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Peace & Love](https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD) | 3:22 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 90 | [i dont want that many friends in the first place](https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv) | 1:49 |
 | 91 | [Hot Pink](https://open.spotify.com/track/1MAhhW31aMIknkD19pZmrP) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/5Bnhkya5cGltQFTrnC0grx) | 4:08 |
 | 92 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 |
-| 93 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 |
-| 94 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 |
-| 95 | [Drama \(feat\. Charli XCX\)](https://open.spotify.com/track/3VzW3IXIwEvZ0HcKZEFZjJ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Drama \(feat\. Charli XCX\)](https://open.spotify.com/album/3CR9ZfCeWVq7LbQg5deUqu) | 2:00 |
-| 96 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 |
-| 97 | [BFF](https://open.spotify.com/track/2uvmVeBZ2YLk8jPVQnOFsI) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [BFF](https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD) | 3:35 |
+| 93 | [BFF](https://open.spotify.com/track/2uvmVeBZ2YLk8jPVQnOFsI) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [BFF](https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD) | 3:35 |
+| 94 | [So Clear](https://open.spotify.com/track/1NI1eV3ekhn0HbfkNp8i6m) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [So Clear](https://open.spotify.com/album/37ePGxUZSQLlOMIE2SxOxf) | 3:00 |
+| 95 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 |
+| 96 | [Drama \(feat\. Charli XCX\)](https://open.spotify.com/track/3VzW3IXIwEvZ0HcKZEFZjJ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Drama \(feat\. Charli XCX\)](https://open.spotify.com/album/3CR9ZfCeWVq7LbQg5deUqu) | 2:00 |
+| 97 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 |
 | 98 | [istillmissu](https://open.spotify.com/track/1CaNhBI6BSvuit0Wv2GI3c) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [istillmissu](https://open.spotify.com/album/7azXfougJlzX392ac1Mxha) | 2:57 |
-| 99 | [I <3 Harajuku](https://open.spotify.com/track/1fMIomiIqQUSLynNzU4y1w) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [I <3 Harajuku](https://open.spotify.com/album/2P4HZoMnQ2qwLNb3Klo4W8) | 2:26 |
-| 100 | [i hate it here](https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5) | 2:37 |
+| 99 | [i hate it here](https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i hate it here](https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5) | 2:37 |
+| 100 | [Faceshopping](https://open.spotify.com/track/5Phe35xgdkRSxTdM4MAVIk) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/0CKiI5WdJ5rzUIK8hyD3SY) | 3:56 |
 
 Snapshot ID: `Zwb7ygAAAACoKSD82Mz/meKtPbMGXuB/`

@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 25514,
+  "num_followers": 25526,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAA2q/Fce4UMPHr5A4VfGpao",
+  "snapshot_id": "Z3xugAAAAAAA168coNZnc1H3td6oBX6V",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 164456,
-      "name": "Can't Deny It",
-      "url": "https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F"
+      "duration_ms": 190394,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/47BhgqJy3oRTGzjNTgf3hq"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 190394,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/47BhgqJy3oRTGzjNTgf3hq"
+      "duration_ms": 96588,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 96588,
-      "name": "Drop",
-      "url": "https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk"
+      "duration_ms": 164456,
+      "name": "Can't Deny It",
+      "url": "https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F"
     },
     {
       "added_at": null,

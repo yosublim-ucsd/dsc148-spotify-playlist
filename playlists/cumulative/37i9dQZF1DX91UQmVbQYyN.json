@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227841,
+      "name": "Be Careful With Yourself",
+      "url": "https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti"
+    },
+    {
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 207778,
       "name": "I See It Now",
       "url": "https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE"

@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 450300,
+  "num_followers": 450328,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
       },
       "artists": [
         {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Music From Big Pink (Remastered)",
-        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
       "artists": [
         {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
         }
       ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
+        "name": "Chicago V (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Saturday in the Park - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 141506,
       "name": "Everyday People",
       "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
-        "name": "Chicago V (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Saturday in the Park - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 248426,
-      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Breezin'",
         "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 196000,
       "name": "I Can See Clearly Now",
       "url": "https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 248426,
+      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
     },
     {
       "added_at": "2024-07-14 16:19:42",

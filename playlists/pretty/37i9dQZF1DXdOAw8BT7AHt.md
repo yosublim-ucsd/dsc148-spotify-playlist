@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Amyl & The Sniffers
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,600 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,610 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 34 | [All This Time](https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [All This Time](https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30) | 2:48 |
 | 35 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 |
 | 36 | [Mirage](https://open.spotify.com/track/486JaB4ZK017faPW9kNpje) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Mirage](https://open.spotify.com/album/42D3FszT9XdwpK9zICUBsa) | 2:52 |
-| 37 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
-| 38 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 |
-| 39 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
+| 37 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
+| 38 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
+| 39 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 |
 | 40 | [Waiting Room](https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Waiting Room](https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS) | 3:14 |
 | 41 | [NO LOVE BUT FOR OUR OWN](https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:52 |
 | 42 | [love bombs](https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [love bombs](https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2) | 3:25 |
@@ -77,12 +77,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 67 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 |
 | 68 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |
 | 69 | [Claw](https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Claw](https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ) | 3:15 |
-| 70 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
+| 70 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
 | 71 | [GET A JOB!](https://open.spotify.com/track/33P7T4AeMmNi7aaVRD0IB3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GET A JOB!](https://open.spotify.com/album/5Htr73zW5tGvolH7foL7X6) | 2:34 |
-| 72 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
+| 72 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
 | 73 | [No Backbone](https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [No Backbone](https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL) | 2:17 |
-| 74 | [Gravity](https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Sentiment Valley](https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR) | 3:06 |
-| 75 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
+| 74 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
+| 75 | [Gravity](https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Sentiment Valley](https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR) | 3:06 |
 | 76 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
 | 77 | [Elster Stares the Desert Down](https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Elster Stares the Desert Down](https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3) | 3:41 |
 | 78 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |

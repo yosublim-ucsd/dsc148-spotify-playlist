@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-506 songs - 1 day 5 hr 0 min
+507 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Feel Again](https://open.spotify.com/track/1nE1VjP943pIuFdNWcLgYM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 3:05 | 2024-01-29 |  |
 | [Feel Like Me](https://open.spotify.com/track/1XIq6CyuR7ye5s9Th88QZI) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Ibifornia \(Deluxe\)](https://open.spotify.com/album/3pz8g0tnXoFdFldlItvxxD) | 5:05 | 2024-01-29 |  |
 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 | 2024-01-29 |  |
+| [Find The Love](https://open.spotify.com/track/06M9ASH9hJumE0IkbeVdPH) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Gift Of Love](https://open.spotify.com/album/4RpetlbDDEMU1nFLSdG9m5) | 2:56 | 2025-01-08 |  |
 | [Finest Hour \- New Version](https://open.spotify.com/track/41isF5DR6sT9acqYDTQ7FS) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Finest Hour: The Best of Gavin DeGraw](https://open.spotify.com/album/0IMzbxnAqwRi6sm9s5oOJO) | 3:41 | 2024-01-29 |  |
 | [Fingertips](https://open.spotify.com/track/7FQgwxkgClQLTwEilUlscr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:15 | 2024-01-29 |  |
 | [Flamingo](https://open.spotify.com/track/60O8anfyLd33w5J6zEqWA0) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Anything's Possible \(Motion Picture Soundtrack\)](https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w) | 2:43 | 2024-01-29 |  |

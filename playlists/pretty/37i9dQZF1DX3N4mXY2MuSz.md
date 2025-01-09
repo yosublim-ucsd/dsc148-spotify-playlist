@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,467 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,433 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 17 | [Christmas Song](https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Christmas Song](https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9) | 2:54 |
 | 18 | [His Favorite Christmas Story](https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr) | [Capital Lights](https://open.spotify.com/artist/0xhIBddw7R69CWKsCt2gVt) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 3:32 |
 | 19 | [O Come, O Come Emmanuel](https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 2:07 |
-| 20 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
-| 21 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 |
-| 22 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
-| 23 | [Deadbeat Holiday](https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:35 |
+| 20 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 |
+| 21 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
+| 22 | [Deadbeat Holiday](https://open.spotify.com/track/02COSjkOwyoMNW30Tge9Gu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:35 |
+| 23 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
 | 24 | [Somewhere in My Memory](https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Somewhere in My Memory](https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa) | 2:29 |
 | 25 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
 | 26 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 83 | [Christmas At My House](https://open.spotify.com/track/3tNGeh2arYnVYQTsyQs51E) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Christmas At My House](https://open.spotify.com/album/2B0f5yFrMJjxVHKZr9Hvhv) | 3:10 |
 | 84 | [Wonderful Christmastime \- Remastered 2011 / Edited Version](https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/7G2kEoHNNWxq6j8okgMvCr) | 3:47 |
 | 85 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
-| 86 | [The Christmas Song](https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas EP](https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy) | 3:07 |
-| 87 | [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe) | 3:33 |
+| 86 | [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1vpKLPLaYymnwkIHALc5J1) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/22jWMvcp7ruHDfqn9EVxwe) | 3:33 |
+| 87 | [The Christmas Song](https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas EP](https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy) | 3:07 |
 | 88 | [I Want An Alien For Christmas](https://open.spotify.com/track/5MosvqhyVHyDsgoTmfImDP) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Out\-Of\-State Plates](https://open.spotify.com/album/2WgUYiKZhGfUEXIhH04lfY) | 2:19 |
 | 89 | [Feliz Navidad](https://open.spotify.com/track/4EFkiPIt2RwKK38uH8RnX5) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol 1 and 2](https://open.spotify.com/album/5FinvD7N9FXLY685eghYSp) | 3:37 |
 | 90 | [Oi To The World](https://open.spotify.com/track/2NHsVkNPnEnM3LldoVtsKx) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-sides, Rarities, Remixes\)](https://open.spotify.com/album/5dhs4L0WJlreE7UAqfv5rr) | 2:40 |

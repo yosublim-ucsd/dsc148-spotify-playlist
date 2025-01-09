@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,847 likes - 151 songs - 8 hr 51 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,843 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,6 +158,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 148 | [Don't Play](https://open.spotify.com/track/5L2jBYCrHvxFLVVYq6CQEt) | [Eli ALXNDR](https://open.spotify.com/artist/6hqIhXUjNlad8hgVwQ9wEU) | [Not Leaving](https://open.spotify.com/album/3WmsVOkLsl5dOFxG8ewsBS) | 2:53 |
 | 149 | [Sheesh \- Radio Edit](https://open.spotify.com/track/3UayrrhZabQopysb16raI8) | [Adam Ford](https://open.spotify.com/artist/7ynSCUXRlL5Wq7lED2D19n) | [Sheesh \(Radio Edit\)](https://open.spotify.com/album/38ihYW9v5OdKNpeQUDgkZT) | 2:38 |
 | 150 | [Slow Down](https://open.spotify.com/track/4daGwGbV3fEgpoUnpR1xa4) | [Moongold](https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6) | [Modern Life](https://open.spotify.com/album/47iSFfmdFnspzi2K4nsjmK) | 3:07 |
-| 151 | [Missed Call](https://open.spotify.com/track/3kN8eP9bJLdlFrB82TMld4) | [Jack DeNicola](https://open.spotify.com/artist/2Kb1e1SXdaNvd1ICwQTBK3) | [Missed Call](https://open.spotify.com/album/18ANJa0wJjddOPwUsZ5EcD) | 2:31 |
 
-Snapshot ID: `AAAsM3MeEKmPqp+GEKaVt8b39AJnI1nj`
+Snapshot ID: `AAAsNOwrwel8nyDd3FostwtqV3PDgV0o`

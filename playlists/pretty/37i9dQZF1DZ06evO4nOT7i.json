@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 376367,
+  "num_followers": 376394,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAACAsJDveAbBwvEMjE0DkR4P",
+  "snapshot_id": "Z3xugAAAAABrUJSuFNFZBTlkspwp2B5N",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/3SxSrUogj4LpAkLKXeTtTQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Me Not (feat. Rex Orange County)",
         "url": "https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 188198,
       "name": "Love Me Not (feat. Rex Orange County)",
       "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3SxSrUogj4LpAkLKXeTtTQ"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
+        "name": "New House",
+        "url": "https://open.spotify.com/album/4yOWF2YwCTZrpvW8P5kp89"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 107170,
-      "name": "Rex (Intro)",
-      "url": "https://open.spotify.com/track/5GB646asCrgVsjO9FK68Gy"
+      "duration_ms": 199052,
+      "name": "New House",
+      "url": "https://open.spotify.com/track/0O6zO72N38DFXx6R7fKsqx"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New House",
-        "url": "https://open.spotify.com/album/4yOWF2YwCTZrpvW8P5kp89"
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 199052,
-      "name": "New House",
-      "url": "https://open.spotify.com/track/0O6zO72N38DFXx6R7fKsqx"
+      "duration_ms": 107170,
+      "name": "Rex (Intro)",
+      "url": "https://open.spotify.com/track/5GB646asCrgVsjO9FK68Gy"
     },
     {
       "added_at": null,

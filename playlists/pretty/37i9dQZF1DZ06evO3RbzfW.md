@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,373,362 likes - 46 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,373,554 likes - 46 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 38 | [Bück dich](https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:23 |
 | 39 | [Mein Land](https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Made In Germany 1995 \- 2011 \(Special Edition\)](https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB) | 3:53 |
 | 40 | [Benzin](https://open.spotify.com/track/1XanLfYUUBB6bLbnSh1KyU) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:46 |
-| 41 | [Rammstein](https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:27 |
+| 41 | [Wollt ihr das Bett in Flammen sehen](https://open.spotify.com/track/2MC5MLUdhrVUWGHUFHvaLF) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 5:15 |
 | 42 | [Rammlied](https://open.spotify.com/track/1jBL8PB3CqDYjR0luCpX00) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:18 |
 | 43 | [Te quiero puta!](https://open.spotify.com/track/0KwqP13BnZMIycfxnqWtK1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:55 |
-| 44 | [Wollt ihr das Bett in Flammen sehen](https://open.spotify.com/track/2MC5MLUdhrVUWGHUFHvaLF) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 5:15 |
+| 44 | [Rammstein](https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:27 |
 | 45 | [Stirb nicht vor mir \(Don't Die Before I Do\)](https://open.spotify.com/track/0xv6NzfBHZhbZ5MWLzdh3T) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 4:05 |
 | 46 | [Heirate mich](https://open.spotify.com/track/33LTCp3HM36k7KuB7M3IHd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:44 |
 
-Snapshot ID: `Z3sdAAAAAAAspLDsh/fFENANDDes8Ets`
+Snapshot ID: `Z3xugAAAAACs6d67qWULX6JYkz1Dlffb`

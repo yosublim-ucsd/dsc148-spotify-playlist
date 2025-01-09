@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 475145,
+  "num_followers": 475133,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-08-01 08:14:21",
       "album": {
-        "name": "Like Strangers Do",
-        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 160790,
-      "name": "Like Strangers Do",
-      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
-    },
-    {
-      "added_at": "2024-08-01 08:14:21",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2024-08-01 08:14:21",
+      "album": {
+        "name": "Like Strangers Do",
+        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 160790,
+      "name": "Like Strangers Do",
+      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
     },
     {
       "added_at": "2024-08-01 08:14:21",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-01 08:14:21",
       "album": {
-        "name": "Falling Up",
-        "url": "https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Falling Up",
-      "url": "https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8"
-    },
-    {
-      "added_at": "2024-08-01 08:14:21",
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 293453,
       "name": "Home",
       "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
+    },
+    {
+      "added_at": "2024-08-01 08:14:21",
+      "album": {
+        "name": "Falling Up",
+        "url": "https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Falling Up",
+      "url": "https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8"
     },
     {
       "added_at": "2024-08-01 08:14:21",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-01 08:14:21",
       "album": {
-        "name": "I'm the One (Acoustic)",
-        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
-      },
-      "artists": [
-        {
-          "name": "Sunset & Highland",
-          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
-        }
-      ],
-      "duration_ms": 233488,
-      "name": "I'm the One - Acoustic",
-      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
-    },
-    {
-      "added_at": "2024-08-01 08:14:21",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2024-08-01 08:14:21",
+      "album": {
+        "name": "I'm the One (Acoustic)",
+        "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
+      },
+      "artists": [
+        {
+          "name": "Sunset & Highland",
+          "url": "https://open.spotify.com/artist/11gRZ3XWWyqrY8LUdV5EZT"
+        }
+      ],
+      "duration_ms": 233488,
+      "name": "I'm the One - Acoustic",
+      "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
     },
     {
       "added_at": "2024-08-01 08:14:21",

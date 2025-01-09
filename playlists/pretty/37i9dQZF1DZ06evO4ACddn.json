@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABVBCRp9Y8TgBMaWmrH6JYB",
+  "snapshot_id": "Z3xugAAAAAAEYtPmtFguCyjAGUAjiL19",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 213986,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/1CHVMZOzCUr7ytuyM3Mclb"
+      "duration_ms": 252733,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
+      "duration_ms": 213986,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/1CHVMZOzCUr7ytuyM3Mclb"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things Will Matter",
-        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
+        "name": "The Hope List",
+        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Dust & Bones",
-      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
+      "duration_ms": 177080,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hope List",
-        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
+        "name": "Things Will Matter",
+        "url": "https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 177080,
-      "name": "Bright Eyes",
-      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
+      "duration_ms": 214013,
+      "name": "Dust & Bones",
+      "url": "https://open.spotify.com/track/11VMKvo0PUGzNwngQ5Ebvn"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only You Say It",
-        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
+        "name": "The Hope List",
+        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 200932,
-      "name": "Only You Say It",
-      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
+      "duration_ms": 219853,
+      "name": "Distant Light",
+      "url": "https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hope List",
-        "url": "https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92"
+        "name": "Only You Say It",
+        "url": "https://open.spotify.com/album/4CMYzNo5XGNoGExI7piQ5O"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 219853,
-      "name": "Distant Light",
-      "url": "https://open.spotify.com/track/4gpvE7nVnjSVFEy2aiFQzb"
+      "duration_ms": 200932,
+      "name": "Only You Say It",
+      "url": "https://open.spotify.com/track/1InK0K5uVrrwT47a4CMnAC"
     },
     {
       "added_at": null,

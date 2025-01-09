@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,312 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,316 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 33 | [Vroom Vroom](https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [Vroom Vroom](https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX) | 3:36 |
 | 34 | [Starlight](https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:44 |
 | 35 | [Love Triangle](https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:13 |
-| 36 | [夢への一歩](https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:47 |
-| 37 | [Poppin' Up!](https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Dream with You / Poppin' Up! / DIVE! \(中須かすみ盤\)](https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar) | 4:18 |
+| 36 | [Poppin' Up!](https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Dream with You / Poppin' Up! / DIVE! \(中須かすみ盤\)](https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar) | 4:18 |
+| 37 | [夢への一歩](https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:47 |
 | 38 | [Sing & Smile!!](https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Sing & Smile!!](https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW) | 4:41 |
 | 39 | [哀温ノ詩](https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:17 |
 | 40 | [SUPER NOVA](https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: Study Group(\uc2a4\ud130\ub514\uadf8\ub8f9)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: Solo Leveling(LiSA, Felix of Stray Kids)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (\ucee4\ubc84: \ub098 \ud63c\uc790\ub9cc \ub808\ubca8\uc5c5(LiSA, Felix of Stray Kids))",
   "name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 266829,
       "name": "An Old Love Story (2021) (Romance 101 X KCM)",
       "url": "https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ"
@@ -2433,6 +2433,28 @@
     },
     {
       "album": {
+        "name": "ReawakeR (feat. Felix of Stray Kids)",
+        "url": "https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        },
+        {
+          "name": "Felix of Stray Kids",
+          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
+        }
+      ],
+      "date_added": "2025-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184993,
+      "name": "ReawakeR (feat. Felix of Stray Kids)",
+      "url": "https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL"
+    },
+    {
+      "album": {
         "name": "Remember my love (Bunny and Guys X Solji)",
         "url": "https://open.spotify.com/album/6e6OSfYHtIrnASNXG2iU5O"
       },
@@ -2758,7 +2780,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 165293,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/10mZOfUMXYsXVTGuxp69O3"
@@ -3346,7 +3368,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 207760,
       "name": "We Go Run",
       "url": "https://open.spotify.com/track/1AFJbKhcePFRzZGaySGIhZ"

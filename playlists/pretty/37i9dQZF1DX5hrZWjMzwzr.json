@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10017,
+  "num_followers": 10016,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -687,42 +687,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M"
-      },
-      "artists": [
-        {
-          "name": "Aleshen",
-          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "ZAZA",
-      "url": "https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "K\u0141AMCZUCH",
-        "url": "https://open.spotify.com/album/6pjGoaCAWx7ruzcmxCdRa7"
-      },
-      "artists": [
-        {
-          "name": "Floral Bugs",
-          "url": "https://open.spotify.com/artist/7e6iH8brpvXHIcxlK8WHZK"
-        },
-        {
-          "name": "Kudel",
-          "url": "https://open.spotify.com/artist/0iaQyrpwB9pFge9sRokeim"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "K\u0142amczuch",
-      "url": "https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Stary Pezet (klasyczny)",
         "url": "https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO"
       },
@@ -747,22 +711,38 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Czarne czy Czerwone",
-        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
+        "name": "K\u0141AMCZUCH",
+        "url": "https://open.spotify.com/album/6pjGoaCAWx7ruzcmxCdRa7"
       },
       "artists": [
         {
-          "name": "VHS",
-          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
+          "name": "Floral Bugs",
+          "url": "https://open.spotify.com/artist/7e6iH8brpvXHIcxlK8WHZK"
         },
         {
-          "name": "E V",
-          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
+          "name": "Kudel",
+          "url": "https://open.spotify.com/artist/0iaQyrpwB9pFge9sRokeim"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Czarne czy Czerwone",
-      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
+      "duration_ms": 161142,
+      "name": "K\u0142amczuch",
+      "url": "https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -787,6 +767,26 @@
       "duration_ms": 184733,
       "name": "Kr\u00f3l jest nagi",
       "url": "https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Czarne czy Czerwone",
+        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
+      },
+      "artists": [
+        {
+          "name": "VHS",
+          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
+        },
+        {
+          "name": "E V",
+          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Czarne czy Czerwone",
+      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "TEN HIP HOP",
-        "url": "https://open.spotify.com/album/78N4wGOJbLz1zjv1vLIj4l"
-      },
-      "artists": [
-        {
-          "name": "TEDE",
-          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
-        },
-        {
-          "name": "FANT\u00d8M",
-          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
-        }
-      ],
-      "duration_ms": 165966,
-      "name": "TEN HIP HOP",
-      "url": "https://open.spotify.com/track/7qvZCSR9iGHcBhgYH0V8rm"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Park (DJ Eprom Version)",
         "url": "https://open.spotify.com/album/1E8RMvtqQeteUrVyzPgSAU"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 246816,
       "name": "Park - DJ Eprom Version",
       "url": "https://open.spotify.com/track/3UOrC4xBfgivme5fXh7PFN"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "TEN HIP HOP",
+        "url": "https://open.spotify.com/album/78N4wGOJbLz1zjv1vLIj4l"
+      },
+      "artists": [
+        {
+          "name": "TEDE",
+          "url": "https://open.spotify.com/artist/38iqZSGa2pvToKrMISU8g1"
+        },
+        {
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+        }
+      ],
+      "duration_ms": 165966,
+      "name": "TEN HIP HOP",
+      "url": "https://open.spotify.com/track/7qvZCSR9iGHcBhgYH0V8rm"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Uwolni\u0107 Bonusa",
-        "url": "https://open.spotify.com/album/2WEpLdZw9WxNLF3rzGRrkK"
-      },
-      "artists": [
-        {
-          "name": "Czerwin",
-          "url": "https://open.spotify.com/artist/1YgUMe9ocdtAkJJMk1PwNL"
-        },
-        {
-          "name": "Dobry Dzieciak",
-          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
-        },
-        {
-          "name": "\u017baku PPS",
-          "url": "https://open.spotify.com/artist/155OxUaF4dBASQQ15GFrk9"
-        }
-      ],
-      "duration_ms": 191433,
-      "name": "Uwolni\u0107 Bonusa",
-      "url": "https://open.spotify.com/track/1YcaiLGCs9KWxu63JMOwcN"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Kochaj albo zabij",
         "url": "https://open.spotify.com/album/5LikEgsPwdF0Wu4vgvO2YF"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 140000,
       "name": "Kochaj albo zabij",
       "url": "https://open.spotify.com/track/0TK3ja2LhgWQRuFB1t9xcK"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Uwolni\u0107 Bonusa",
+        "url": "https://open.spotify.com/album/2WEpLdZw9WxNLF3rzGRrkK"
+      },
+      "artists": [
+        {
+          "name": "Czerwin",
+          "url": "https://open.spotify.com/artist/1YgUMe9ocdtAkJJMk1PwNL"
+        },
+        {
+          "name": "Dobry Dzieciak",
+          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
+        },
+        {
+          "name": "\u017baku PPS",
+          "url": "https://open.spotify.com/artist/155OxUaF4dBASQQ15GFrk9"
+        }
+      ],
+      "duration_ms": 191433,
+      "name": "Uwolni\u0107 Bonusa",
+      "url": "https://open.spotify.com/track/1YcaiLGCs9KWxu63JMOwcN"
     },
     {
       "added_at": "2024-02-27 08:21:33",

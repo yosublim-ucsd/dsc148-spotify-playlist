@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 179108,
+  "num_followers": 179161,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Me Dej\u00e9 Llevar",
         "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 199320,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 156520,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 233546,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -335,26 +351,6 @@
       "duration_ms": 200161,
       "name": "Sigo Chambeando",
       "url": "https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -375,18 +371,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 233546,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z"
+      "duration_ms": 266213,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Camale\u00f3n",
-        "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 186546,
-      "name": "El Camale\u00f3n",
-      "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 230306,
       "name": "Sshh!!",
       "url": "https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Camale\u00f3n",
+        "url": "https://open.spotify.com/album/6w20flSfh4CyLpQALjOape"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 186546,
+      "name": "El Camale\u00f3n",
+      "url": "https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1495,18 +1495,26 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/0ucwoASnxx3Y3pt7vy2esy"
+        "name": "Int\u00e9ntalo",
+        "url": "https://open.spotify.com/album/2QGWI5XAUxXEXBfc2QHxbl"
       },
       "artists": [
         {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/7GVxAP3rK73EvCoAqxk5vJ"
+      "duration_ms": 193453,
+      "name": "Int\u00e9ntalo",
+      "url": "https://open.spotify.com/track/2HFWe77s9n7MExMTFY035N"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1523,6 +1531,22 @@
       "duration_ms": 154493,
       "name": "Un Fin en Culiac\u00e1n",
       "url": "https://open.spotify.com/track/2NRFCNwTDT4uReqyyQrovU"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/0ucwoASnxx3Y3pt7vy2esy"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/7GVxAP3rK73EvCoAqxk5vJ"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1555,30 +1579,6 @@
       "duration_ms": 241452,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/3PTfu2zsB5IH0nTu9vP8iR"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
-        "name": "Int\u00e9ntalo",
-        "url": "https://open.spotify.com/album/2QGWI5XAUxXEXBfc2QHxbl"
-      },
-      "artists": [
-        {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Int\u00e9ntalo",
-      "url": "https://open.spotify.com/track/2HFWe77s9n7MExMTFY035N"
     },
     {
       "added_at": "2024-08-30 08:25:49",

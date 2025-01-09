@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: D\u00e9bora Buzas, Isaias Saad",
-  "num_followers": 318903,
+  "num_followers": 319115,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,22 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Teu Amor Por Mim",
-        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
       },
       "artists": [
         {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
         }
       ],
-      "duration_ms": 185969,
-      "name": "Teu Amor Por Mim",
-      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
+      "duration_ms": 236013,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -399,22 +403,18 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
+        "name": "Teu Amor Por Mim",
+        "url": "https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
         }
       ],
-      "duration_ms": 236013,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
+      "duration_ms": 185969,
+      "name": "Teu Amor Por Mim",
+      "url": "https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Impressionante (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
-      },
-      "artists": [
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
-        }
-      ],
-      "duration_ms": 331250,
-      "name": "Impressionante - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 222607,
       "name": "Encaixe",
       "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Impressionante (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
+      },
+      "artists": [
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "duration_ms": 331250,
+      "name": "Impressionante - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -755,6 +755,30 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
+        "name": "Me Enche de Amor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        }
+      ],
+      "duration_ms": 309333,
+      "name": "Me Enche de Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -795,30 +819,6 @@
       "duration_ms": 247104,
       "name": "Doce Presen\u00e7a",
       "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
-        "name": "Me Enche de Amor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        }
-      ],
-      "duration_ms": 309333,
-      "name": "Me Enche de Amor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
+        "name": "Nossa Hist\u00f3ria, Pt. 1",
+        "url": "https://open.spotify.com/album/3lS2E1CMUjTCUERCaEjDoE"
+      },
+      "artists": [
+        {
+          "name": "Igor Felix",
+          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+        }
+      ],
+      "duration_ms": 327980,
+      "name": "Ficar Aqui",
+      "url": "https://open.spotify.com/track/1rRyqNPnozrr5wLEjrnoF1"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
         "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Hist\u00f3rias Vol. 1 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Quero Mais - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "Ficarei Aqui (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1xh3s0d92kE7lKXCNCQ1zL"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Nossa Hist\u00f3ria, Pt. 1",
-        "url": "https://open.spotify.com/album/3lS2E1CMUjTCUERCaEjDoE"
+        "name": "Hist\u00f3rias Vol. 1 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2zSnQpQr9HxRWCz4OaUPSx"
       },
       "artists": [
         {
-          "name": "Igor Felix",
-          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
         }
       ],
-      "duration_ms": 327980,
-      "name": "Ficar Aqui",
-      "url": "https://open.spotify.com/track/1rRyqNPnozrr5wLEjrnoF1"
+      "duration_ms": 248000,
+      "name": "Quero Mais - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7gC2JG5pQNF2YJg0cFWlPC"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
         "name": "Nova Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
       },
@@ -1151,18 +1167,26 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+        "name": "Esque\u00e7o At\u00e9 o Tempo",
+        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        },
+        {
+          "name": "Feliz7Play",
+          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
+        },
+        {
+          "name": "Benjamim Silva",
+          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
         }
       ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
+      "duration_ms": 159825,
+      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -1215,30 +1239,6 @@
       "duration_ms": 347727,
       "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
       "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
-        "name": "Esque\u00e7o At\u00e9 o Tempo",
-        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        },
-        {
-          "name": "Feliz7Play",
-          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
-        },
-        {
-          "name": "Benjamim Silva",
-          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
-        }
-      ],
-      "duration_ms": 159825,
-      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
         "name": "Acoustic Session, Vol. 01",
         "url": "https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 342250,
       "name": "A Casa \u00c9 Sua - Acoustic Session",
       "url": "https://open.spotify.com/track/5ROOQb6C8Tz71kJbViGSwG"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2024-12-13 16:41:17",

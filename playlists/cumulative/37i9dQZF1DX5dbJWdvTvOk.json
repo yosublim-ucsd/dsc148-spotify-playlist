@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Heart of Forest",
+        "url": "https://open.spotify.com/album/4kLhaxxgunOXkEGxTKwcN6"
+      },
+      "artists": [
+        {
+          "name": "Bill Soeder",
+          "url": "https://open.spotify.com/artist/2QZ8GuCD39JBAgRSlZHhhn"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201964,
+      "name": "A Heart of Forest",
+      "url": "https://open.spotify.com/track/0i7mA2SMLy5pSLX99yzDAT"
+    },
+    {
+      "album": {
         "name": "De Mano A Mano",
         "url": "https://open.spotify.com/album/7ilmeRDYvSLSsIgBBjdPIQ"
       },
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 144116,
       "name": "Cinque Terre",
       "url": "https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN"
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 127269,
       "name": "Dartden Road",
       "url": "https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff"
@@ -6953,6 +6971,24 @@
     },
     {
       "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/035ju6sd54YQIg44aCRMzU"
+      },
+      "artists": [
+        {
+          "name": "Marian Rose",
+          "url": "https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157686,
+      "name": "Look Up",
+      "url": "https://open.spotify.com/track/0ZiRInDpULhyc77lBcqMoQ"
+    },
+    {
+      "album": {
         "name": "Love Forever",
         "url": "https://open.spotify.com/album/4h2qFwZR8EDXUpN7cBSw6d"
       },
@@ -10575,6 +10611,24 @@
     },
     {
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6WgzKrrzhbuZ7cnuCgXb2k"
+      },
+      "artists": [
+        {
+          "name": "Karl Schintz",
+          "url": "https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun"
+        }
+      ],
+      "date_added": "2025-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140124,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2U1vBJccBgHLok37WqNUM4"
+    },
+    {
+      "album": {
         "name": "Snowbound",
         "url": "https://open.spotify.com/album/2pDaJIUSykL55ow4EzScl0"
       },
@@ -13204,7 +13258,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 151750,
       "name": "White Sands",
       "url": "https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz"

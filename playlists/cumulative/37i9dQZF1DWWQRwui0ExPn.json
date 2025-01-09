@@ -47115,6 +47115,28 @@
     },
     {
       "album": {
+        "name": "Gloomy Mornings",
+        "url": "https://open.spotify.com/album/3YosOgyWFCjNXCFneVbv6T"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        },
+        {
+          "name": "Clark Can",
+          "url": "https://open.spotify.com/artist/0JGNOIhIiz8RuyOzxAQ5cP"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145135,
+      "name": "Gloomy Mornings",
+      "url": "https://open.spotify.com/track/2I9vHfnFsCcn0xmlQtj59l"
+    },
+    {
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/3Vy9ciHW8yuQncCxOKfI2I"
       },
@@ -67584,7 +67606,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 125787,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2"

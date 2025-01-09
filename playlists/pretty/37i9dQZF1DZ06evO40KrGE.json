@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 35631,
+  "num_followers": 35639,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABn19Lgm2KuDf0GmtUErRAv",
+  "snapshot_id": "Z3xugAAAAAA0tDwyeNqdPncfFX/ZO++Q",
   "tracks": [
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu N\u00e3o Mudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 281391,
-      "name": "Eu N\u00e3o Mudo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.1",
         "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 247942,
       "name": "A Alma Abatida",
       "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu N\u00e3o Mudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 281391,
+      "name": "Eu N\u00e3o Mudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT"
     },
     {
       "added_at": null,

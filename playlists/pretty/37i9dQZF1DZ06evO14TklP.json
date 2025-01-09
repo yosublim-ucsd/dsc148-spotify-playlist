@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 10816,
+  "num_followers": 10848,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABxAY7iZm3kYpYwlfkjPwJB",
+  "snapshot_id": "Z3xugAAAAAAJCyWTOavchT27La7+oz8Z",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        }
+      ],
+      "duration_ms": 178964,
+      "name": "Flashes",
+      "url": "https://open.spotify.com/track/2aKWPngHDEtzEzqtRWG7SL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PADRIM",
         "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 216774,
       "name": "CONFIO",
       "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "BENO",
-          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        }
-      ],
-      "duration_ms": 178964,
-      "name": "Flashes",
-      "url": "https://open.spotify.com/track/2aKWPngHDEtzEzqtRWG7SL"
     },
     {
       "added_at": null,
@@ -483,6 +483,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        }
+      ],
+      "duration_ms": 164941,
+      "name": "P\u00f3dio",
+      "url": "https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fresh Stars 2020 Pnpl",
         "url": "https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE"
       },
@@ -519,30 +543,6 @@
       "duration_ms": 280000,
       "name": "Fresh Stars 2020 Pnpl",
       "url": "https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "BENO",
-          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        }
-      ],
-      "duration_ms": 164941,
-      "name": "P\u00f3dio",
-      "url": "https://open.spotify.com/track/1rfDQtL6vMfUD0aBuVR1Jk"
     },
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "After",
+      "url": "https://open.spotify.com/track/40D3BjcNrKXsn1dUNBGGJC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Condessa",
         "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 134569,
       "name": "Disco",
       "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "After",
-      "url": "https://open.spotify.com/track/40D3BjcNrKXsn1dUNBGGJC"
     },
     {
       "added_at": null,
@@ -691,30 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 115999,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 194338,
       "name": "Camarim",
       "url": "https://open.spotify.com/track/3EX9khxUXGS1YFmM6WcWP0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 115999,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs"
     },
     {
       "added_at": null,
@@ -783,30 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 169590,
-      "name": "Flat",
-      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vis\u00e3o Perif\u00e9rica",
         "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 188581,
       "name": "Caneta",
       "url": "https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 169590,
+      "name": "Flat",
+      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 150452,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Dia \u00c9 Hoje",
         "url": "https://open.spotify.com/album/0Kk44oAU5n6vR6eEFEh41O"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 353907,
       "name": "Que Dia \u00c9 Hoje",
       "url": "https://open.spotify.com/track/02byVHeKRX0Vj5Vl4rbeu0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 150452,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 294653,
+  "num_followers": 294703,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAACmdMSfIWO7m8Y6KLIsuqZh",
+  "snapshot_id": "Z3xugAAAAAAIepiFY1LC845phvdhfKGK",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sick, The Dying\u2026 And The Dead!",
-        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "Life In Hell",
-      "url": "https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 262026,
       "name": "The Threat Is Real",
       "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 252146,
+      "name": "Life In Hell",
+      "url": "https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sick, The Dying\u2026 And The Dead!",
-        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 294426,
-      "name": "Soldier On!",
-      "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Collider",
         "url": "https://open.spotify.com/album/4SG1HFhXihESspVTyKYl5j"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 190040,
       "name": "Cold Sweat",
       "url": "https://open.spotify.com/track/5UJraESM8I4ksmQoEzu95i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Soldier On!",
+      "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Th1rt3en",
+        "url": "https://open.spotify.com/album/0ja6Rjg1a5Fw2IEwTymwQE"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "Sudden Death",
+      "url": "https://open.spotify.com/track/1JjrlHVsqKFDr0j8PebFnp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 398253,
       "name": "Night Stalkers",
       "url": "https://open.spotify.com/track/4WyO8RoNmV8n67eJixCGI6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Th1rt3en",
-        "url": "https://open.spotify.com/album/0ja6Rjg1a5Fw2IEwTymwQE"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "Sudden Death",
-      "url": "https://open.spotify.com/track/1JjrlHVsqKFDr0j8PebFnp"
     },
     {
       "added_at": null,

@@ -1,29 +1,13 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 29096,
+  "num_followers": 29103,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAADKtuIoyC44kHfRza9gLsFd",
+  "snapshot_id": "Z3xugAAAAAAtlJLuojHlCTRS2bgiCZ/N",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 140543,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/7bXqvbsH7owO0tjlzHItqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If God Is A woman",
+        "url": "https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 205962,
+      "name": "If God Is A Woman",
+      "url": "https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hardware",
         "url": "https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 196840,
       "name": "Stackin\u2019 Bones",
       "url": "https://open.spotify.com/track/2cZhG6PNPa2Ykh9xsoAcHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If God Is A woman",
-        "url": "https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 205962,
-      "name": "If God Is A Woman",
-      "url": "https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kin",
+        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paint The Roses (Live In Concert)",
         "url": "https://open.spotify.com/album/02FRIUcCGRWYsN7ZeIksRg"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 312824,
       "name": "Mad As A Hatter - Live In Concert",
       "url": "https://open.spotify.com/track/165iM5ZIR7JnNLDBEG8rHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kin",
-        "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 184173,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "John The Revelator",
-      "url": "https://open.spotify.com/track/08rDWs842pEffjE4kSYIf1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kin",
         "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 228360,
       "name": "Jailbreak",
       "url": "https://open.spotify.com/track/1AHc7OT7yz3BY9IDDAVD4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "John The Revelator",
+      "url": "https://open.spotify.com/track/08rDWs842pEffjE4kSYIf1"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Look Away",
-      "url": "https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kin",
         "url": "https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 189453,
       "name": "Sugar High",
       "url": "https://open.spotify.com/track/2wSZEb1pCkYoZn0jJs0CGd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Look Away",
+      "url": "https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek"
     },
     {
       "added_at": null,

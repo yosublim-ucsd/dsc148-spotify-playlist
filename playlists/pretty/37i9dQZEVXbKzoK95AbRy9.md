@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,949 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,005 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [ESCADA DO PRÉDIO](https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:17 |
 | 50 | [Cachorro](https://open.spotify.com/track/2f6GG12VL2rGMS9BGjD7rM) | [Thiago Carvalho](https://open.spotify.com/artist/5tJOBjBtoHgSp1x7iYWsPP) | [Cachorro](https://open.spotify.com/album/7xYYUQbzFRcIMdh2UU1lNe) | 2:10 |
 
-Snapshot ID: `LxCWSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LxHu0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > Take another hit.
 
-220 songs - 11 hr 2 min
+221 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-14 |  |
 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 | 2022-07-28 | 2023-02-03 |
 | [Low](https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ) | [Kidda](https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj) | [Low](https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id) | 3:14 | 2023-02-02 |  |
+| [LUJ](https://open.spotify.com/track/4KyW8q0wRd4OSznGrGOiYX) | [Butrint Imeri](https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Luj](https://open.spotify.com/album/4w3SEFhcR99G9xUVsgitxy) | 2:51 | 2025-01-08 |  |
 | [Luna](https://open.spotify.com/track/4zNQMKy3jLlWvAah2s1WGl) | [Ladron](https://open.spotify.com/artist/4ukBIpYtjftGdlgAnc1E5V), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Moeman](https://open.spotify.com/artist/0wCD0zZxxhHU91kYZolMnu) | [Luna](https://open.spotify.com/album/6UBnhnwPBXn96Nc7B58csV) | 3:22 | 2022-07-28 | 2023-07-08 |
 | [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2022-07-28 | 2024-11-22 |
 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 | 2022-07-28 | 2023-03-28 |
@@ -149,7 +150,7 @@
 | [No Money](https://open.spotify.com/track/3e0yFn74MouCqsAxTCKOUf) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No Money](https://open.spotify.com/album/4HW0xW2nhso4HHSO6rhM8n) | 4:14 | 2022-11-28 | 2023-08-25 |
 | [No Tenía](https://open.spotify.com/track/5sU8VO1S2SIbbA9vcFmG0u) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [No Tenía](https://open.spotify.com/album/3HDnq1J4fonyWE2FLq1juf) | 3:43 | 2024-02-15 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-07-28 |  |
-| [Non Stop](https://open.spotify.com/track/1udtNC01aJJqdFkfUZ3HnQ) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Non Stop](https://open.spotify.com/album/5oToh2qNHoL9qSbUDnbcWg) | 2:22 | 2024-03-28 |  |
+| [Non Stop](https://open.spotify.com/track/1udtNC01aJJqdFkfUZ3HnQ) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Non Stop](https://open.spotify.com/album/5oToh2qNHoL9qSbUDnbcWg) | 2:22 | 2024-03-28 | 2025-01-09 |
 | [Non Stop](https://open.spotify.com/track/25ebw2P96Ko23Hadj76hgp) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Door](https://open.spotify.com/album/7aWyb1hPRmwMFnGKhtdIXS) | 2:22 | 2022-07-28 | 2022-10-13 |
 | [Non Stop](https://open.spotify.com/track/27jrtXnXRFZEAH1sQavMTJ) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Loyaal](https://open.spotify.com/album/0WkK3Bx6NqOyQe7JSU0Vkz) | 2:22 | 2022-10-03 | 2022-12-12 |
 | [Non Stop](https://open.spotify.com/track/69IVetIraoHzjpHNoUrhSx) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Autobahn](https://open.spotify.com/album/2NtRis2vPCaLFaMZ3OxXJj) | 2:22 | 2022-12-05 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,256 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,583 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 26 | [O que é teu te encontra](https://open.spotify.com/track/66fooxtrQgWTwuQwEAc7MX) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [O que é teu te encontra](https://open.spotify.com/album/7K4f3QNa01fIlvh7vaC2dn) | 2:31 |
 | 27 | [Rindo À Toa \- Ao Vivo](https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Rindo À Toa \(Ao Vivo\)](https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo) | 3:15 |
 | 28 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 |
-| 29 | [Rede no Coqueiro](https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Entre Borboletas e Aviões](https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC) | 3:27 |
-| 30 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 |
+| 29 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 |
+| 30 | [Rede no Coqueiro](https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Entre Borboletas e Aviões](https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC) | 3:27 |
 | 31 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 32 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 |
 | 33 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,121 likes - 301 songs - 16 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,122 likes - 301 songs - 16 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 84 | [Bad Girl](https://open.spotify.com/track/0Q0U4Z2zjSOGoI5aeZz6n6) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bad Girl](https://open.spotify.com/album/0f8iJ8W9pvERxZajjKqFmz) | 3:06 |
 | 85 | [Mount Rageous](https://open.spotify.com/track/6CaimL6w9jlWB76SVMm0IX) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:57 |
 | 86 | [Joy](https://open.spotify.com/track/57Ga9hGNv9hh9W5E1fx2Bc) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Monster \(Deluxe\)](https://open.spotify.com/album/4OwY7UUFCdDugJaKFNSkCd) | 3:13 |
-| 87 | [Lie Like This](https://open.spotify.com/track/1rqIA9CG4Vj44JYVqBpxIj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:38 |
-| 88 | [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 |
+| 87 | [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/2qyeAiFswWB2PmYhdeObTP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:25 |
+| 88 | [Lie Like This](https://open.spotify.com/track/1rqIA9CG4Vj44JYVqBpxIj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:38 |
 | 89 | [You](https://open.spotify.com/track/3LNRi4UytUnez6T0hFb4x3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 2:59 |
 | 90 | [Beg](https://open.spotify.com/track/2YXEabNsLoihw7kBtiQpSa) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Beg](https://open.spotify.com/album/2b89LTGiZ9okXDOyRHjR4M) | 3:03 |
 | 91 | [Save Myself](https://open.spotify.com/track/3MBdq6U779PbN8WSfsRZAx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:44 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 143 | [My Girlfriends Are My Boyfriend \(feat\. Saweetie\)](https://open.spotify.com/track/2Z2u68PwXoDvaLLrv7EkFQ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:07 |
 | 144 | [Peace](https://open.spotify.com/track/20JGGCzwmvA9t1vs9HYkxE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Peace](https://open.spotify.com/album/6zM5YxPEEgJTDKzqEBUcWa) | 2:57 |
 | 145 | [Diamonds & Dancefloors](https://open.spotify.com/track/4fVxlf4IxJNJl8OmPsQ2C1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:35 |
-| 146 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 |
-| 147 | [Celebrate!](https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:06 |
+| 146 | [Celebrate!](https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:06 |
+| 147 | [Hold You 'Til We’re Old](https://open.spotify.com/track/5aT0NEQAFMbX5RXe6DYJQK) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Hold You 'Til We’re Old](https://open.spotify.com/album/3Uy0TTHUOKQYCvEU0gLVkd) | 3:02 |
 | 148 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 149 | [Lead Me On](https://open.spotify.com/track/4Rp2SBHnd68nEBvpKX8sTA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/5QWMCRZ2PfAUOTslrs3wGg) | 2:53 |
 | 150 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 195 | [Brad Pitt](https://open.spotify.com/track/1305H2NYoSJJpRodGdh5yZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:01 |
 | 196 | [Never Not Love You](https://open.spotify.com/track/7Jx9gIEAsr32gtg2UJd9Gv) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:14 |
 | 197 | [Odds \- Bonus Track](https://open.spotify.com/track/0ci6bL4OULrhspWhWcgwE3) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [January Flower \(Deluxe\)](https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4) | 3:13 |
-| 198 | [Alone Together](https://open.spotify.com/track/6WHlbk5H0JpeTV80zrjZVU) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \(Deluxe Edition\)](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:28 |
-| 199 | [Minute](https://open.spotify.com/track/5T9oCNxslGlodgZd282juI) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 3:05 |
+| 198 | [Minute](https://open.spotify.com/track/5T9oCNxslGlodgZd282juI) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 3:05 |
+| 199 | [Alone Together](https://open.spotify.com/track/6WHlbk5H0JpeTV80zrjZVU) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \(Deluxe Edition\)](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:28 |
 | 200 | [Sorry For Myself](https://open.spotify.com/track/3gnijR68ZgnTEIrwFQsdfQ) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Sorry For Myself](https://open.spotify.com/album/2jJkAYn7UHtG47tv33mOdr) | 2:54 |
 | 201 | [NEVERMIND](https://open.spotify.com/track/02IuhAGzHtZFc1lJozOC08) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [NEVERMIND](https://open.spotify.com/album/0xnuMxgI3tYVFaShnNHvgD) | 2:56 |
 | 202 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 |
@@ -310,4 +310,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 300 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
 | 301 | [With or Without \- Live](https://open.spotify.com/track/4pVx0df00wwPN8IkbZBWda) | [R.A.H](https://open.spotify.com/artist/4Rz6ZsosxzkgkGqKFqYXNG) | [Live From The Roof](https://open.spotify.com/album/0MIbD4UmCfjcnOhBcSPPv1) | 6:42 |
 
-Snapshot ID: `AbmQlgAAAAB02gD0dvcKc5vrXg6CGwpq`
+Snapshot ID: `AbmWcgAAAAAbcNfQzQfOllHb/gZd+5fJ`

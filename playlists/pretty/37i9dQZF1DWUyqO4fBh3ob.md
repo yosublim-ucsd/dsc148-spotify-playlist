@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,520 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,544 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wein](https://open.spotify.com/track/1QSMPPfQD7uMBbT0KN1ey2) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Wein](https://open.spotify.com/album/6qpyG94O0DlV4wubXAlyLN) | 2:52 |
-| 2 | [يا نونا](https://open.spotify.com/track/3thjMMTxrwakQsSukfYlti) | [ريم السواس](https://open.spotify.com/artist/69F3HmSAZ3eP1lmZ3OTkCA) | [يا نونا](https://open.spotify.com/album/3xrFfDeR4L3X2D7FIWA9tf) | 3:26 |
+| 2 | [Al Harbein](https://open.spotify.com/track/6Ot3W2qlxch3yje4gl10Of) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Al Harbein](https://open.spotify.com/album/3V5nwOj4A4NuuMFJ9p8spI) | 3:07 |
 | 3 | [Ma Fi Leil](https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ma Fi Leil](https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM) | 3:57 |
 | 4 | [Lamma Bada Yatathana](https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 4:01 |
 | 5 | [Ya Magnon](https://open.spotify.com/track/0Tiq0Glqoi6AFMpiLRLX8M) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ya Magnoon](https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Dommini](https://open.spotify.com/track/3yYxfPZFP3JdIChDo0BQS3) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Dommini](https://open.spotify.com/album/7f79BxczEBnQfBLhtOY942) | 4:50 |
 | 50 | [Ghayrik Ma Bekhtar](https://open.spotify.com/track/4pRWh4mIWMrbWxaj69ZGrg) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Ghayrik Ma Bekhtar](https://open.spotify.com/album/1B2zhLpuoIRshm639SeXVe) | 4:00 |
 
-Snapshot ID: `Z3GccwAAAABd6/1Rji2i8b3rvDh5xfjw`
+Snapshot ID: `Z35GJgAAAACHTNaYrXi4DCCX1mibYxJA`

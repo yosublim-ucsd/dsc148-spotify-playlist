@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 454933,
+  "num_followers": 454943,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "In Comparison With",
+        "url": "https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP"
+      },
+      "artists": [
+        {
+          "name": "State Artefact",
+          "url": "https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "In Comparison With",
+      "url": "https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "no reply",
         "url": "https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 132512,
       "name": "stars",
       "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "In Comparison With",
-        "url": "https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP"
-      },
-      "artists": [
-        {
-          "name": "State Artefact",
-          "url": "https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "In Comparison With",
-      "url": "https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "a day with the kids",
+        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
+      },
+      "artists": [
+        {
+          "name": "blank maxxymus",
+          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "a day with the kids",
+      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "lunar walk",
         "url": "https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 131432,
       "name": "Watching Walls",
       "url": "https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "a day with the kids",
-        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
-      },
-      "artists": [
-        {
-          "name": "blank maxxymus",
-          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "a day with the kids",
-      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -855,6 +855,38 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Silent Sky",
+        "url": "https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV"
+      },
+      "artists": [
+        {
+          "name": "Lofi Leif",
+          "url": "https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N"
+        }
+      ],
+      "duration_ms": 139723,
+      "name": "Silent Sky",
+      "url": "https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "duration_ms": 132260,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "call me when ur lonely",
         "url": "https://open.spotify.com/album/5ypeVEv4lRQhg3wXZKaIf5"
       },
@@ -887,34 +919,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
+        "name": "clear blue atmosphere",
+        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
       },
       "artists": [
         {
-          "name": "Laflov",
-          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+          "name": "Touristique",
+          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
         }
       ],
-      "duration_ms": 132260,
-      "name": "Melatonin",
-      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Silent Sky",
-        "url": "https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV"
-      },
-      "artists": [
-        {
-          "name": "Lofi Leif",
-          "url": "https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N"
-        }
-      ],
-      "duration_ms": 139723,
-      "name": "Silent Sky",
-      "url": "https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0"
+      "duration_ms": 140109,
+      "name": "clear blue atmosphere",
+      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "clear blue atmosphere",
-        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
+        "name": "Through My Window",
+        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
       },
       "artists": [
         {
-          "name": "Touristique",
-          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
+          "name": "day zee",
+          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
         }
       ],
-      "duration_ms": 140109,
-      "name": "clear blue atmosphere",
-      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
+      "duration_ms": 150955,
+      "name": "Through My Window",
+      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -967,22 +983,6 @@
       "duration_ms": 144000,
       "name": "kyoto dreams",
       "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Through My Window",
-        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
-      },
-      "artists": [
-        {
-          "name": "day zee",
-          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
-        }
-      ],
-      "duration_ms": 150955,
-      "name": "Through My Window",
-      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
     },
     {
       "added_at": "2024-09-03 08:14:22",

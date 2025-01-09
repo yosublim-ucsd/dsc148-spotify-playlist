@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 75697,
       "name": "ACIDO",
       "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
@@ -1659,6 +1659,28 @@
     },
     {
       "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171520,
+      "name": "BOLO (feat. YDG)",
+      "url": "https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk"
+    },
+    {
+      "album": {
         "name": "BOLSHIE KURTKI",
         "url": "https://open.spotify.com/album/1Lm1tt8t4d1eyxoYnZS6L1"
       },
@@ -2538,7 +2560,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 243133,
       "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
       "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
@@ -3172,7 +3194,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 184366,
       "name": "Ela Vira Mortal [Slowed]",
       "url": "https://open.spotify.com/track/4HFOE32m12zid0B4QMCrxi"
@@ -3190,7 +3212,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 231800,
       "name": "Elle t\u2019a tu\u00e9",
       "url": "https://open.spotify.com/track/0gfQf6PBw6aPv6GVwfTSIj"
@@ -6532,7 +6554,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-22",
+      "date_removed": null,
       "duration_ms": 112083,
       "name": "lazit po stenam",
       "url": "https://open.spotify.com/track/4Ro4O1feGQwjPGqYocrjVj"
@@ -15195,6 +15217,24 @@
     },
     {
       "album": {
+        "name": "\u0437\u0435\u0440\u043a\u0430\u043b\u043e",
+        "url": "https://open.spotify.com/album/5a3pR2LcMdO3gkeRvdS43B"
+      },
+      "artists": [
+        {
+          "name": "\u0442\u0438\u043c\u0430 \u0438\u0449\u0435\u0442 \u0441\u0432\u0435\u0442",
+          "url": "https://open.spotify.com/artist/4MbtAJqaqDuPTAan7bI736"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190832,
+      "name": "\u0432\u043e\u043b\u043d\u0430",
+      "url": "https://open.spotify.com/track/74UTzZAyhs0ZJhB2BRKOKZ"
+    },
+    {
+      "album": {
         "name": "\u0412\u043e\u0440 \u0437\u0430\u043c\u043e\u0447\u0435\u043a \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442",
         "url": "https://open.spotify.com/album/1gPKp9dpivqkLErpMxVuVd"
       },
@@ -15690,7 +15730,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 277500,
       "name": "\u0413\u0440\u0430\u0431\u043b\u0438",
       "url": "https://open.spotify.com/track/1U5qB87uilRJgwkE9q9SUh"
@@ -16818,6 +16858,24 @@
       "duration_ms": 171500,
       "name": "\u041a\u0438\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/3WIWqQMBUBQgmJERv3xTMV"
+    },
+    {
+      "album": {
+        "name": "\u041a\u043b\u0430\u043d\u043e\u0432\u0430\u044f \u0436\u0438\u0437\u043d\u044c",
+        "url": "https://open.spotify.com/album/1BpwVAn4sg9oL0lf6y1K6V"
+      },
+      "artists": [
+        {
+          "name": "forestdump",
+          "url": "https://open.spotify.com/artist/4ROsYofMMyOCHsRJaR96u5"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168228,
+      "name": "\u041a\u043b\u0430\u043d\u043e\u0432\u0430\u044f \u0436\u0438\u0437\u043d\u044c",
+      "url": "https://open.spotify.com/track/2SoPP5d6pOjzKWbWF0LFma"
     },
     {
       "album": {
@@ -18380,7 +18438,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 211565,
       "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u0438\u0435 \u0438\u0433\u0440\u0443\u0448\u043a\u0438",
       "url": "https://open.spotify.com/track/7E8xz52g3DJljfwosC1qoF"
@@ -18398,7 +18456,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 239493,
       "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u0438\u0435 \u0438\u0433\u0440\u0443\u0448\u043a\u0438",
       "url": "https://open.spotify.com/track/4a4lunUcBidjJY9Lt8dX57"
@@ -18456,7 +18514,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 186754,
       "name": "\u041d\u043e\u0432\u044b\u0439 \u0433\u043e\u0434",
       "url": "https://open.spotify.com/track/2OYvPEnvrI9wFSHwqcPicf"
@@ -18474,7 +18532,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 241893,
       "name": "\u041d\u043e\u0432\u044b\u0439 \u0433\u043e\u0434",
       "url": "https://open.spotify.com/track/5Ne6yWmQZ8qrCnOJ2Fc7Tb"
@@ -20256,7 +20314,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 207307,
       "name": "\u0421 \u041d\u043e\u0432\u044b\u043c \u0433\u043e\u0434\u043e\u043c, \u043c\u0430\u043c\u0430! \u0421 \u041d\u043e\u0432\u044b\u043c \u0433\u043e\u0434\u043e\u043c, \u043f\u0430\u043f\u0430!",
       "url": "https://open.spotify.com/track/5Vdeef7lW0XhZb1fd82SQX"

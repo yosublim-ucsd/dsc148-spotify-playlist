@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,819 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,032 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 60 | [Crystalline](https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Crystalline](https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u) | 5:48 |
 | 61 | [Highlander \- English Version](https://open.spotify.com/track/6pihX9dY5MGrWIXNk2qqys) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI) | [Highlander](https://open.spotify.com/album/3hkHaaVtwSP3sWoQsj1mA5) | 3:19 |
 | 62 | [Oraakkelit](https://open.spotify.com/track/1xPcaGTkI1OaK3Zjxvy0hX) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Oraakkelit](https://open.spotify.com/album/50yrNdmIunYGqarLPxAF07) | 3:12 |
-| 63 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
-| 64 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
+| 63 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
+| 64 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
 | 65 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |
 | 66 | [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 |
 | 67 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 |
 | 68 | [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/track/1uNwMVBI3fZeCcGrSlKfc8) | [Sharm](https://open.spotify.com/artist/1wRg4gzKanLRgNeMIB1zAR) | [The Wolven Storm \(Priscilla's Song\)](https://open.spotify.com/album/4mDJYxhnWHxKIJTUbKlBqk) | 3:58 |
 | 69 | [Appalachia](https://open.spotify.com/track/7u0XWL41N6AqkmaqYGjBv8) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Appalachia](https://open.spotify.com/album/0wLo8lUnywiRPgkjrqZ3Bf) | 3:59 |
 | 70 | [Leaving Valhalla](https://open.spotify.com/track/2g0iFselHG8Tdd5UMWaobE) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed Valhalla \(Original Game Soundtrack\)](https://open.spotify.com/album/14p9JmhV36K6jzhyqrXmUl) | 1:32 |
-| 71 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 |
-| 72 | [Slow Motion](https://open.spotify.com/track/1MlFP727igtyqCqFcvEgng) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Slow Motion](https://open.spotify.com/album/5ev4zVppLL7mptzcvZWgAD) | 5:19 |
-| 73 | [Østavind](https://open.spotify.com/track/5iudG1J8VPUeTTtQDh6S2g) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Østavind](https://open.spotify.com/album/18Ga6kb55vcF8ZBLoonSCu) | 3:13 |
-| 74 | [How Fare the Gods?](https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR) | [Syven](https://open.spotify.com/artist/4zFQKcJwnetVMj3FaLh7Y3) | [Whom the Moon a Nightsong Sings](https://open.spotify.com/album/1owCmNT9Sswuqyohl3GfXJ) | 14:10 |
+| 71 | [Slow Motion](https://open.spotify.com/track/1MlFP727igtyqCqFcvEgng) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Slow Motion](https://open.spotify.com/album/5ev4zVppLL7mptzcvZWgAD) | 5:19 |
+| 72 | [Østavind](https://open.spotify.com/track/5iudG1J8VPUeTTtQDh6S2g) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Østavind](https://open.spotify.com/album/18Ga6kb55vcF8ZBLoonSCu) | 3:13 |
+| 73 | [How Fare the Gods?](https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR) | [Syven](https://open.spotify.com/artist/4zFQKcJwnetVMj3FaLh7Y3) | [Whom the Moon a Nightsong Sings](https://open.spotify.com/album/1owCmNT9Sswuqyohl3GfXJ) | 14:10 |
+| 74 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 |
 | 75 | [Rún](https://open.spotify.com/track/4YmSk5JhkXdiG0LbQgjXma) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant](https://open.spotify.com/album/2lA9qxoicTpczW6FyCySzH) | 2:40 |
 
 Snapshot ID: `Z1KGcAAAAAC4du1mOEkMbGCG1DrKTNnk`

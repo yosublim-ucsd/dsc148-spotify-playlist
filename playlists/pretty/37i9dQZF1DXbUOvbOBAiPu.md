@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: DJ Licious
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,363 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,367 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 33 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
 | 34 | [Gorgeous](https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Gorgeous](https://open.spotify.com/album/0bCdGyOL3c0jJlKvxisXeE) | 3:34 |
 | 35 | [25](https://open.spotify.com/track/56jTnYDvZUiqxObrZfTGKL) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [25](https://open.spotify.com/album/0UxP4J7ZeECzGQ3BaYx2DC) | 2:59 |
-| 36 | [Overdrive \(Alive\)](https://open.spotify.com/track/2NqsSaJYjwLwwWHGJpKIFw) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Blair](https://open.spotify.com/artist/7EiaXz6xsGmIoPSviGIHel) | [Overdrive \(Alive\)](https://open.spotify.com/album/2Hs0ICfieli2hAQpIoIO04) | 2:42 |
+| 36 | [Overdrive \(Alive\)](https://open.spotify.com/track/2NqsSaJYjwLwwWHGJpKIFw) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Blair](https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O) | [Overdrive \(Alive\)](https://open.spotify.com/album/2Hs0ICfieli2hAQpIoIO04) | 2:42 |
 | 37 | [Higher Than Heaven](https://open.spotify.com/track/7y6Gf3LYX2PikZzeLFkIQX) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Higher Than Heaven](https://open.spotify.com/album/76OjT7IOfHulV6KIyxjc34) | 2:03 |
 | 38 | [L O T T O](https://open.spotify.com/track/6zf88z6ryaBu2k5KaDS3PQ) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [L O T T O](https://open.spotify.com/album/1bS9YbOoR9CGQF55mvHvRy) | 3:52 |
 | 39 | [LOS DEPURO \(feat\. L\-Gante\)](https://open.spotify.com/track/5GArlMelCbeXczJsdEHoA3) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [LYKE MIIKE](https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e) | 3:10 |

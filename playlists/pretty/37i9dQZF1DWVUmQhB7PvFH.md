@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 梁靜茹 \(Fish Leong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,500 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,579 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 38 | [堅持到底](https://open.spotify.com/track/3OUu5vlYe1YGdaLjfOff6v) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [堅持到底](https://open.spotify.com/album/5JBaIYqjcaxYVa149gaH1f) | 4:05 |
 | 39 | [心牆](https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [在樹上唱歌](https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih) | 3:46 |
 | 40 | [給我你的愛](https://open.spotify.com/track/1mJVfsnUcrcNHlEgbUu3i3) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [Fighting!生存之道](https://open.spotify.com/album/4IOL0XtsH9wOFM2LPCiujv) | 4:45 |
-| 41 | [孤單北半球](https://open.spotify.com/track/7tzPzs6GUueoIaZHBgN1rG) | [林依晨](https://open.spotify.com/artist/5NKGqVsjoayAzsh27iGGyB) | [愛情合約 \(電視原聲帶\)](https://open.spotify.com/album/5ifxYpQgIw3ZIziD97WCfq) | 4:26 |
+| 41 | [孤單北半球](https://open.spotify.com/track/7tzPzs6GUueoIaZHBgN1rG) | [林依晨](https://open.spotify.com/artist/5NKGqVsjoayAzsh27iGGyB) | [愛情合約 電視原聲帶](https://open.spotify.com/album/5ifxYpQgIw3ZIziD97WCfq) | 4:26 |
 | 42 | [思念是一種病](https://open.spotify.com/track/5JaPBs2aQjEfLwM5kVb4jq) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [OK](https://open.spotify.com/album/25kMDfOmyzEEz7xzL05tOD) | 4:15 |
 | 43 | [當你離開的時候](https://open.spotify.com/track/1P43VyM78qYm10rlcQ9R5d) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [Goodbye & Hello](https://open.spotify.com/album/7jyiXKzJYgJ24IqlGMKcjN) | 3:57 |
 | 44 | [無與倫比的美麗](https://open.spotify.com/track/2UwbKIkGPgTPdp7CVx1Dok) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [無與倫比的美麗](https://open.spotify.com/album/6qNB0HMe9AoVBxsLn7CZPa) | 5:06 |

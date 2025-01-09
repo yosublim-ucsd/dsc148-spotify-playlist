@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > Robocop 🤯 <a href="spotify:artist:2KbikmQKGiUPR2ARs1h0sq">Gilli</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,508 likes - 64 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,512 likes - 64 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,297 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,264 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 79 | [Bonjour, Noël!](https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY) | [Patrick Norman](https://open.spotify.com/artist/3eGAOzOuxjhxwi9MeQ7knd) | [Noël sans faim](https://open.spotify.com/album/3aoqwVv7tuZpUlrvo1oZ5b) | 3:26 |
 | 80 | [Mittens](https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [604 Records: The Second Noel](https://open.spotify.com/album/0wkGuSTPqrhtX25czWgPfw) | 4:11 |
 | 81 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 |
-| 82 | [Noël sous les tropiques](https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:16 |
-| 83 | [Noël Encore](https://open.spotify.com/track/6wQlQTlwL4blFWVhKVCtdN) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Noël Encore](https://open.spotify.com/album/0kJot0t3EJ4IbGKWjoEEPm) | 2:17 |
+| 82 | [Noël Encore](https://open.spotify.com/track/6wQlQTlwL4blFWVhKVCtdN) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Noël Encore](https://open.spotify.com/album/0kJot0t3EJ4IbGKWjoEEPm) | 2:17 |
+| 83 | [Noël sous les tropiques](https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:16 |
 | 84 | [Jolis sapins](https://open.spotify.com/track/6qH7KJZXbfjmTlz0d18R7n) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 4:02 |
 | 85 | [Noël tout blanc \- Décembre : le Noël de Québec Issime](https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX) | [Québec Issime](https://open.spotify.com/artist/7gtD7XIKiUOORajXTt6bO7), [Marc\-André Fortin](https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI), [Alexandre Lapointe](https://open.spotify.com/artist/04mRH0TRHwKcPf5PxqJBfO), [Natalie Byrns](https://open.spotify.com/artist/3oztZVgQ27wNBMDttJskLO), [Les Enfants de Décembre](https://open.spotify.com/artist/4oPfByw3kxFBch8bD3cjAI) | [Noël tout blanc \(feat\. Marc\-André Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de Décembre\) \[Décembre : le Noël de Québec Issime\]](https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ) | 3:09 |
 | 86 | [Noël au camp](https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe) | [Tex Lecor](https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek) | [Québec love : La collection](https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8) | 3:02 |

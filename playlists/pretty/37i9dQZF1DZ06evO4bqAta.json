@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 535789,
+  "num_followers": 536043,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAgsxc20kkEDlTIgE7n+eRQ",
+  "snapshot_id": "Z3xugAAAAACJrh4r0y8wIyeJyrCCz40D",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blonde On Blonde",
-        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 290466,
-      "name": "Just Like a Woman",
-      "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 271360,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde On Blonde",
+        "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "You're Gonna Make Me Lonesome When You Go",
-      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 107226,
       "name": "Oxford Town",
       "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "You're Gonna Make Me Lonesome When You Go",
+      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Corrina, Corrina",
+      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Planet Waves",
         "url": "https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R"
       },
@@ -515,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
       "artists": [
         {
@@ -524,9 +540,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 161466,
-      "name": "Corrina, Corrina",
-      "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
+      "duration_ms": 205826,
+      "name": "Highway 61 Revisited",
+      "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 356706,
-      "name": "Ballad of a Thin Man",
-      "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 277106,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 356706,
+      "name": "Ballad of a Thin Man",
+      "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Highway 61 Revisited",
-      "url": "https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 157933,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 245133,
-      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
-      "url": "https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 201133,
       "name": "Tonight I'll Be Staying Here with You",
       "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "From a Buick 6",
+      "url": "https://open.spotify.com/track/6txGFpco4cfgG1sA1MxLCp"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "From a Buick 6",
-      "url": "https://open.spotify.com/track/6txGFpco4cfgG1sA1MxLCp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 143066,
       "name": "I Threw It All Away",
       "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 356226,
+      "name": "Tombstone Blues",
+      "url": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 356226,
-      "name": "Tombstone Blues",
-      "url": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 234626,
-      "name": "Maggie's Farm",
-      "url": "https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg"
+      "duration_ms": 327466,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/0c2DAekH6ZEnHhf8dM1leK"
     }
   ],
   "unique_name": "This Is Bob Dylan",

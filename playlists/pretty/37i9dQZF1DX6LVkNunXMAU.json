@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Pol Nada",
-  "num_followers": 59194,
+  "num_followers": 59198,
   "original_name": "folk & primavera",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,26 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Velocidad Crucero",
+        "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
+      },
+      "artists": [
+        {
+          "name": "Puebla",
+          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "duration_ms": 232947,
+      "name": "Velocidad Crucero",
+      "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "Quemarropa",
         "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 169487,
       "name": "el film - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Velocidad Crucero",
-        "url": "https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1"
-      },
-      "artists": [
-        {
-          "name": "Puebla",
-          "url": "https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm"
-        },
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 232947,
-      "name": "Velocidad Crucero",
-      "url": "https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "Para\u00edso Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
-      },
-      "artists": [
-        {
-          "name": "Luca Bocci",
-          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
-        }
-      ],
-      "duration_ms": 206777,
-      "name": "M\u00fasica de Computadora",
-      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
         "name": "La Capital",
         "url": "https://open.spotify.com/album/1P3OUooECLJYVUj8NJ1IUJ"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 178439,
       "name": "La Capital",
       "url": "https://open.spotify.com/track/138AMAxJawuLPkPlxgHsHq"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
+        "name": "Para\u00edso Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
+      },
+      "artists": [
+        {
+          "name": "Luca Bocci",
+          "url": "https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF"
+        }
+      ],
+      "duration_ms": 206777,
+      "name": "M\u00fasica de Computadora",
+      "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -503,26 +503,6 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "V13",
-        "url": "https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        },
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        }
-      ],
-      "duration_ms": 175810,
-      "name": "V13",
-      "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
         "name": "tal vez, no s\u00e9",
         "url": "https://open.spotify.com/album/6fYLb4o4jJFam1UbdKKhla"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 224599,
       "name": "tal vez, no s\u00e9",
       "url": "https://open.spotify.com/track/4JUb6pkv9qrz0oZfuiZ8Gj"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
+        "name": "V13",
+        "url": "https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        },
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        }
+      ],
+      "duration_ms": 175810,
+      "name": "V13",
+      "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "Lo que necesito",
-        "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
-      },
-      "artists": [
-        {
-          "name": "Seba Alfaro",
-          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 200191,
-      "name": "Lo que necesito",
-      "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
         "name": "Carretera Austral",
         "url": "https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 264582,
       "name": "Carretera Austral",
       "url": "https://open.spotify.com/track/5xtCrCYy7q5od2jx0GHkdg"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
+        "name": "Lo que necesito",
+        "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 200191,
+      "name": "Lo que necesito",
+      "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "Trance",
         "url": "https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ"
       },
@@ -747,18 +763,22 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+        "name": "Las Mareas",
+        "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
       },
       "artists": [
         {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+          "name": "Clara Presta",
+          "url": "https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX"
+        },
+        {
+          "name": "Matias Cella",
+          "url": "https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC"
         }
       ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+      "duration_ms": 194085,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -783,26 +803,6 @@
       "duration_ms": 243501,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Las Mareas",
-        "url": "https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9"
-      },
-      "artists": [
-        {
-          "name": "Clara Presta",
-          "url": "https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX"
-        },
-        {
-          "name": "Matias Cella",
-          "url": "https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC"
-        }
-      ],
-      "duration_ms": 194085,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Y vos dec\u00eds que me gust\u00e1s",
+        "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 153320,
+      "name": "Y vos dec\u00eds que me gust\u00e1s",
+      "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 168037,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Y vos dec\u00eds que me gust\u00e1s",
-        "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 153320,
-      "name": "Y vos dec\u00eds que me gust\u00e1s",
-      "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
+        "name": "Me Fui",
+        "url": "https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w"
+      },
+      "artists": [
+        {
+          "name": "Velo Vela",
+          "url": "https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K"
+        }
+      ],
+      "duration_ms": 285953,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE"
+    },
+    {
+      "added_at": "2024-11-14 17:43:11",
+      "album": {
         "name": "Color De Flor",
         "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 273219,
       "name": "Color De Flor",
       "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
-    },
-    {
-      "added_at": "2024-11-14 17:43:11",
-      "album": {
-        "name": "Me Fui",
-        "url": "https://open.spotify.com/album/0iIH3rlW6AknjzD3mnIm5w"
-      },
-      "artists": [
-        {
-          "name": "Velo Vela",
-          "url": "https://open.spotify.com/artist/6cu1BLrPH1CkWeouSim02K"
-        }
-      ],
-      "duration_ms": 285953,
-      "name": "Me Fui",
-      "url": "https://open.spotify.com/track/1rn45Ad3hTSwcXxoghZwsE"
     },
     {
       "added_at": "2024-11-14 17:43:11",
@@ -1523,18 +1523,22 @@
     {
       "added_at": "2024-11-14 17:43:11",
       "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/0w38eh7Mri9G90T8h6E90r"
+        "name": "Nuestras Formas",
+        "url": "https://open.spotify.com/album/30TBSDnmG0b4mjZHuUeXYE"
       },
       "artists": [
         {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        },
+        {
+          "name": "Peperina",
+          "url": "https://open.spotify.com/artist/3lDXYMlB5VIBZdLoIZNC2r"
         }
       ],
-      "duration_ms": 222721,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
+      "duration_ms": 151653,
+      "name": "Nuestras Formas",
+      "url": "https://open.spotify.com/track/3FsYdqpzwud7ZRjLRHi21S"
     }
   ],
   "unique_name": "folk & primavera",

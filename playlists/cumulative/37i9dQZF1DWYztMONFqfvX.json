@@ -1527,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "Yeh Jawaani Hai Deewani",
+        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228982,
+      "name": "Ilahi",
+      "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
+    },
+    {
+      "album": {
         "name": "In Raahon Mein (From \"The Archies\")",
         "url": "https://open.spotify.com/album/1QH9L2KybZAacyZODZyZ3n"
       },
@@ -3494,7 +3516,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 222122,
       "name": "Tum Kya Ho",
       "url": "https://open.spotify.com/track/3uspYgFcd8JXFmoLW4AlmH"

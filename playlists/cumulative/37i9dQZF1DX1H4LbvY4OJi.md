@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-978 songs - 2 day 7 hr 12 min
+979 songs - 2 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Bloom](https://open.spotify.com/track/5KGAL7bQE8vkF2mTUJfthi) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Bloom](https://open.spotify.com/album/2ppwP0NppuVoRwA0G3J0BD) | 3:19 | 2019-10-08 | 2022-04-17 |
 | [Bloom](https://open.spotify.com/track/1hSOt9IeshMkuKP9ri4hOf) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/2k7dz4vu8APcaIqI8dQiQw) | 3:42 | 2019-08-01 | 2019-08-08 |
 | [Blow Out My Candle](https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blow Out My Candle](https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk) | 2:59 | 2022-07-25 | 2022-07-27 |
+| [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-08 |  |
 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF) | 3:34 | 2020-07-03 | 2022-07-27 |
 | [Boom Clap](https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:49 | 2019-07-30 | 2019-11-09 |
 | [Bootylicious](https://open.spotify.com/track/41nT1Sp6ChR65FbsdLlFHW) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:27 | 2019-07-31 | 2019-08-01 |
@@ -203,7 +204,7 @@
 | [Despacito \- Remix](https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3smvpv7CdrhVcGYaNDLOqn) | 3:48 | 2019-08-04 | 2019-11-09 |
 | [Die Young](https://open.spotify.com/track/6y4HksqJ8qGipgsDxvlb2u) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Die Young](https://open.spotify.com/album/4XTCTeiJNvZYqYdluoKbA8) | 3:55 | 2019-11-14 | 2022-04-16 |
 | [Dirty Sexy Money \(feat\. Charli XCX & French Montana\)](https://open.spotify.com/track/0tPQPaOKM32WgMSbPCYyRH) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dirty Sexy Money \(feat\. Charli XCX & French Montana\)](https://open.spotify.com/album/613u1KxcevDq5Kd8j0zD2U) | 2:52 | 2019-08-02 | 2019-08-04 |
-| [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/track/0TEEKxwbiFzWsgz8bNiv5R) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/album/71D9MrSKeTKlyEn8btYGlv) | 3:30 | 2024-10-31 |  |
+| [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/track/0TEEKxwbiFzWsgz8bNiv5R) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/album/71D9MrSKeTKlyEn8btYGlv) | 3:30 | 2024-10-31 | 2025-01-09 |
 | [Doing To Me](https://open.spotify.com/track/1ioqD1XvFGDomjXkKNCBQB) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Trust Issues](https://open.spotify.com/album/0p9VYdjKX7XgC7M3wm5R3E) | 3:10 | 2019-12-17 | 2022-04-11 |
 | [Domino](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:51 | 2019-10-25 |  |
 | [Don't Give It Up](https://open.spotify.com/track/1ECSawP9NzrYybLMTuE5M8) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Don't Give It Up](https://open.spotify.com/album/4yBvIRFlok1lFN1hregwQw) | 3:21 | 2019-07-31 | 2021-03-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 345660,
+  "num_followers": 345715,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -895,38 +895,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'",
-        "url": "https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo"
-      },
-      "artists": [
-        {
-          "name": "Civil Twilight",
-          "url": "https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8"
-        }
-      ],
-      "duration_ms": 258706,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Hard To Be Alone",
-        "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Hard To Be Alone",
-      "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
         "url": "https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V"
       },
@@ -947,6 +915,38 @@
       "duration_ms": 247243,
       "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
       "url": "https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Hard To Be Alone",
+        "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Hard To Be Alone",
+      "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'",
+        "url": "https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo"
+      },
+      "artists": [
+        {
+          "name": "Civil Twilight",
+          "url": "https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8"
+        }
+      ],
+      "duration_ms": 258706,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX"
     },
     {
       "added_at": "2024-07-05 19:40:49",

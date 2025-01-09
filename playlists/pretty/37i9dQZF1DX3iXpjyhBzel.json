@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Drops INA",
-  "num_followers": 1108555,
+  "num_followers": 1108930,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "\u00danico (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 506122,
-      "name": "\u00danico - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "Eu Quero Ser Grato",
         "url": "https://open.spotify.com/album/6FTw5OQuXaNQzMKPkxM2D0"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 192403,
       "name": "Eu Quero Ser Grato",
       "url": "https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
+        "name": "\u00danico (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 506122,
+      "name": "\u00danico - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Eu Confio em Ti",
-        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
-      },
-      "artists": [
-        {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
-        }
-      ],
-      "duration_ms": 303582,
-      "name": "Eu Confio em Ti",
-      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "Quem \u00e9 Como Nosso Deus?",
         "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 489116,
       "name": "Quem \u00e9 Como Nosso Deus?",
       "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
+        "name": "Eu Confio em Ti",
+        "url": "https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ"
+      },
+      "artists": [
+        {
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
+        }
+      ],
+      "duration_ms": 303582,
+      "name": "Eu Confio em Ti",
+      "url": "https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "N\u00e3o Acabou (Ao Vivo)",
         "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
       },
@@ -683,22 +667,6 @@
       "duration_ms": 315556,
       "name": "N\u00e3o Acabou (Ao Vivo)",
       "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
-        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 431470,
-      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -723,6 +691,22 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
+        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 431470,
+      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
         "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
         "url": "https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 378000,
       "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
       "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Estou Te Esperando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 411745,
-      "name": "Estou Te Esperando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "Teu Toque (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
       },
@@ -891,6 +871,26 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
+        "name": "Estou Te Esperando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 411745,
+      "name": "Estou Te Esperando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
         "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
         "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
       },
@@ -907,22 +907,22 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Si\u00e3o / Derrama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+        "name": "Deus N\u00e3o Falhar\u00e1",
+        "url": "https://open.spotify.com/album/6WddTfFBjojKQZ7VMztSah"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Jeyzer Maia",
+          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
         },
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Ad\u00f4nis Maia",
+          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
         }
       ],
-      "duration_ms": 508733,
-      "name": "Si\u00e3o / Derrama - Ao Vivo",
-      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+      "duration_ms": 243252,
+      "name": "Esp\u00edrito, Enche a Minha Vida",
+      "url": "https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -947,22 +947,22 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Deus N\u00e3o Falhar\u00e1",
-        "url": "https://open.spotify.com/album/6WddTfFBjojKQZ7VMztSah"
+        "name": "Si\u00e3o / Derrama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
       },
       "artists": [
         {
-          "name": "Jeyzer Maia",
-          "url": "https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh"
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         },
         {
-          "name": "Ad\u00f4nis Maia",
-          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 243252,
-      "name": "Esp\u00edrito, Enche a Minha Vida",
-      "url": "https://open.spotify.com/track/5vui0rUNNhaYWzGKsYYq8H"
+      "duration_ms": 508733,
+      "name": "Si\u00e3o / Derrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Brilha Tua Luz",
-        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 295997,
-      "name": "Brilha Tua Luz",
-      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
-    },
-    {
-      "added_at": "2024-12-27 03:01:07",
-      "album": {
         "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
       },
@@ -1259,22 +1239,22 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Seu Amor / Diante da Cruz",
-        "url": "https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS"
+        "name": "Brilha Tua Luz",
+        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         },
         {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 497600,
-      "name": "Seu Amor / Diante da Cruz",
-      "url": "https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x"
+      "duration_ms": 295997,
+      "name": "Brilha Tua Luz",
+      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1299,6 +1279,26 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
+        "name": "Seu Amor / Diante da Cruz",
+        "url": "https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 497600,
+      "name": "Seu Amor / Diante da Cruz",
+      "url": "https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x"
+    },
+    {
+      "added_at": "2024-12-27 03:01:07",
+      "album": {
         "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
       },
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
+        "name": "Mem\u00f3ri4s Groove (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9"
       },
       "artists": [
         {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 354173,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
+      "duration_ms": 277777,
+      "name": "Santo, Santo, Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Mem\u00f3ri4s Groove (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9"
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 277777,
-      "name": "Santo, Santo, Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav"
+      "duration_ms": 354173,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1407,18 +1407,22 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
+        "name": "Altar (Altar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
+      "duration_ms": 408720,
+      "name": "Altar (Altar) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
     },
     {
       "added_at": "2024-12-27 03:01:07",
@@ -1443,22 +1447,18 @@
     {
       "added_at": "2024-12-27 03:01:07",
       "album": {
-        "name": "Altar (Altar) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
+        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
       },
       "artists": [
         {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 408720,
-      "name": "Altar (Altar) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
+      "duration_ms": 258146,
+      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
     },
     {
       "added_at": "2024-12-27 03:01:07",

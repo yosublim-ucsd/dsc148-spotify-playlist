@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,087 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,114 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 27 | [Amor Em Vão](https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Amor Em Vão](https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65) | 3:31 |
 | 28 | [Só nós 2](https://open.spotify.com/track/5jzsJ2u56u12yENrxCRqSJ) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Só nós 2](https://open.spotify.com/album/5dyKUb7rCo92aGGYnVGyiH) | 3:38 |
 | 29 | [Not the One](https://open.spotify.com/track/5jpqyokFLz5Atb9Ve6f0FH) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Not the One](https://open.spotify.com/album/6zBLkJVa4eSXgP7o7ta7IO) | 4:26 |
-| 30 | [Estrela Misteriosa](https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Uma Estrela Misteriosa](https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W) | 7:06 |
-| 31 | [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 |
+| 30 | [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 |
+| 31 | [Estrela Misteriosa](https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Uma Estrela Misteriosa](https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W) | 7:06 |
 | 32 | [Nada Sei \- Apneia, Ao Vivo](https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2) | [Paula Toller](https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Nada Sei \(Apneia\)](https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO) | 3:49 |
 | 33 | [Desejo Hostil](https://open.spotify.com/track/54MHgaSeIjTsTCBL6RVmTI) | [Universo Will](https://open.spotify.com/artist/30N6YR0KILQLFvvR7VTgfw) | [Desejo Hostil](https://open.spotify.com/album/6NjmgbqiODgs6Q08tLPvEl) | 2:45 |
 | 34 | [Doomed](https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Doomed](https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0) | 3:26 |
 | 35 | [Só Eu Sei](https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Sonora](https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj) | 3:33 |
 | 36 | [Marvin \- Microfonado](https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Marvin \(Microfonado\)](https://open.spotify.com/album/3AlCkEugY2m9apDEJZJS9j) | 3:39 |
-| 37 | [Tela Quente \- Acústico](https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Acústico](https://open.spotify.com/album/62ZewpKcRoXUCdOcSJuWkR) | 3:13 |
-| 38 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 |
-| 39 | [Te procurando \(Saturno\)](https://open.spotify.com/track/0d2hvijCjozSP5sZQtkFJg) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Te procurando \(Saturno\)](https://open.spotify.com/album/356KtUTSYSU5khCZlEXWWb) | 2:49 |
-| 40 | [Nada](https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp) | [Nada](https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY) | 2:29 |
+| 37 | [Nada](https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm) | [CORA](https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp) | [Nada](https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY) | 2:29 |
+| 38 | [Tela Quente \- Acústico](https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Acústico](https://open.spotify.com/album/62ZewpKcRoXUCdOcSJuWkR) | 3:13 |
+| 39 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 |
+| 40 | [Te procurando \(Saturno\)](https://open.spotify.com/track/0d2hvijCjozSP5sZQtkFJg) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Te procurando \(Saturno\)](https://open.spotify.com/album/356KtUTSYSU5khCZlEXWWb) | 2:49 |
 | 41 | [One \- Songs Of Surrender](https://open.spotify.com/track/75afCBeMaRgeOZDe2Eyxrd) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [One \(Songs Of Surrender\)](https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq) | 3:36 |
 | 42 | [Só Hoje \- Strings Orchestra](https://open.spotify.com/track/1WMoGAaApDZWppKKSjdP9h) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Só Hoje \(Strings Orchestra\)](https://open.spotify.com/album/2bDZbub5i4W1JE4sEg6tOq) | 3:29 |
 | 43 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |

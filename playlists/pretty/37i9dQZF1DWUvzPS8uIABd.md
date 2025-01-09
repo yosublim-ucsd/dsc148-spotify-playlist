@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa KIKI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,678 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,689 likes - 65 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 3 | [Ihmishirviö](https://open.spotify.com/track/6EsFnbuNzZmSgiKAd0weFZ) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ihmishirviö](https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17) | 3:06 |
 | 4 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 |
 | 5 | [Luotathan](https://open.spotify.com/track/0hua7obC2aRxJdPkSoFKEu) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Luotathan](https://open.spotify.com/album/1JH90V2dgSBiHZbuCzgIIZ) | 3:20 |
-| 6 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 |
-| 7 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
+| 6 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
+| 7 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 |
 | 8 | [Etsin kunnes löydän sun](https://open.spotify.com/track/0zmJahUP1YTKCoa5CrtzNw) | [90's FIN Cover Boyz & Girlz!](https://open.spotify.com/artist/1Zr5kGpWfxy6auQn5bTpmG), [Markku Aro](https://open.spotify.com/artist/10phXQ1GPuNowsGsmZJaST) | [Etsin kunnes löydän sun](https://open.spotify.com/album/6Pi3sdod4HBUXZsOobaoTV) | 2:46 |
 | 9 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
 | 10 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 64 | [Ennen kun sä meet](https://open.spotify.com/track/2MKR7OmHQ2NoqhFbl4tdmZ) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Ennen kun sä meet](https://open.spotify.com/album/2aNLZzioDL0waR2hCcMoV2) | 3:09 |
 | 65 | [Pikatie](https://open.spotify.com/track/4XGR0bFoP8VPNOSCd3PnrM) | [Juhana Haukkala](https://open.spotify.com/artist/0JtYpxkop6SX7L5trzsmp7) | [Pikatie](https://open.spotify.com/album/396bXuH5biFYTxGpaWBlK6) | 2:55 |
 
-Snapshot ID: `Z3z7HgAAAABGt+efOqy95KFrvQYx9JXG`
+Snapshot ID: `Z37TpgAAAAB8bhyykAPrOC3AZ1UxamUa`

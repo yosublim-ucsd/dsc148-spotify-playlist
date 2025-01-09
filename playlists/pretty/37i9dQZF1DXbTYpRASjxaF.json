@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Danzo",
-  "num_followers": 132687,
+  "num_followers": 132676,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-01-03 03:01:07",
       "album": {
-        "name": "Sensa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
-      },
-      "artists": [
-        {
-          "name": "Tribo da Periferia",
-          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
-        },
-        {
-          "name": "Duckjay",
-          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Sensa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
-    },
-    {
-      "added_at": "2025-01-03 03:01:07",
-      "album": {
         "name": "Bag",
         "url": "https://open.spotify.com/album/4qvdAVnIVYQ82Gl7l4OpeP"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 224680,
       "name": "Bag",
       "url": "https://open.spotify.com/track/56wZGer3DfhZXC6v30Ya1w"
+    },
+    {
+      "added_at": "2025-01-03 03:01:07",
+      "album": {
+        "name": "Sensa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Sensa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
     },
     {
       "added_at": "2025-01-03 03:01:07",
@@ -703,50 +703,6 @@
     {
       "added_at": "2025-01-03 03:01:07",
       "album": {
-        "name": "PABLO",
-        "url": "https://open.spotify.com/album/6Y9PmzOlhKuhnOHjx9wky1"
-      },
-      "artists": [
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "CHF",
-          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "PABLO",
-      "url": "https://open.spotify.com/track/6COhIAUNHSnXmj2PgcdF8v"
-    },
-    {
-      "added_at": "2025-01-03 03:01:07",
-      "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pra Se Entorpecer",
-      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
-    },
-    {
-      "added_at": "2025-01-03 03:01:07",
-      "album": {
         "name": "Notas no Plastico",
         "url": "https://open.spotify.com/album/6b47iof8rRXcmipSuBmpCc"
       },
@@ -779,6 +735,50 @@
     {
       "added_at": "2025-01-03 03:01:07",
       "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pra Se Entorpecer",
+      "url": "https://open.spotify.com/track/7ytjb8ZvBX7hViPXKBJp95"
+    },
+    {
+      "added_at": "2025-01-03 03:01:07",
+      "album": {
+        "name": "PABLO",
+        "url": "https://open.spotify.com/album/6Y9PmzOlhKuhnOHjx9wky1"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "CHF",
+          "url": "https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "PABLO",
+      "url": "https://open.spotify.com/track/6COhIAUNHSnXmj2PgcdF8v"
+    },
+    {
+      "added_at": "2025-01-03 03:01:07",
+      "album": {
         "name": "Nois T\u00e1 Pra Cima",
         "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
       },
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-01-03 03:01:07",
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 151797,
+      "name": "Macetinho Lento - B\u00f4nus",
+      "url": "https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f"
+    },
+    {
+      "added_at": "2025-01-03 03:01:07",
+      "album": {
         "name": "Pr\u00f3ximo Milion\u00e1rio",
         "url": "https://open.spotify.com/album/53cn7NCICzSr2pyYHRu4Gc"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 192379,
       "name": "Pr\u00f3ximo Milion\u00e1rio",
       "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
-    },
-    {
-      "added_at": "2025-01-03 03:01:07",
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 151797,
-      "name": "Macetinho Lento - B\u00f4nus",
-      "url": "https://open.spotify.com/track/08kJNUSwBMDZAQCDxmHt5f"
     },
     {
       "added_at": "2025-01-03 03:01:07",

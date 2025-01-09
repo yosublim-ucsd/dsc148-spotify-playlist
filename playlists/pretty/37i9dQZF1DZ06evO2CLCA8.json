@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABOYVN44hhhrKRJiADmrDsE",
+  "snapshot_id": "Z3xugAAAAADb/zi0zyjG6KPxFDUGk9Io",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Never Be You",
-      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
@@ -627,22 +611,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pack Up The Plantation: Live!",
-        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
+        "name": "Long After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
       },
       "artists": [
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 145201,
-      "name": "Needles And Pins - Live At The The Forum/1981",
-      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
+      "duration_ms": 235213,
+      "name": "Never Be You",
+      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Alright for Now - Live",
+      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
     },
     {
       "added_at": null,
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Anthology",
-        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+        "name": "Pack Up The Plantation: Live!",
+        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
       },
       "artists": [
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 169893,
-      "name": "Alright for Now - Live",
-      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
+      "duration_ms": 145201,
+      "name": "Needles And Pins - Live At The The Forum/1981",
+      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+        "name": "Angel Dream (Songs and Music From The Motion Picture \"She\u2019s The One\")",
+        "url": "https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 350733,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI"
+      "duration_ms": 215802,
+      "name": "Thirteen Days",
+      "url": "https://open.spotify.com/track/5khakanIneOQaelzgiG7LK"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

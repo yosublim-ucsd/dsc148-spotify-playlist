@@ -1,12 +1,12 @@
 {
   "description": "This is Calibre 50. The essential tracks, all in one playlist.",
-  "num_followers": 691303,
+  "num_followers": 691393,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAADUiSKK7nU3MVAVbpcBkjl2",
+  "snapshot_id": "Z3xugAAAAAB4g802/2qyFetFfABxlAcF",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Historias de la Calle",
+        "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Gan\u00f3 Holanda, Perdi\u00f3 China",
+      "url": "https://open.spotify.com/track/4WmQUNTvYadj1SdxHYJtEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuidando El Territorio",
         "url": "https://open.spotify.com/album/4wVfnheoToJD1kYyjpjcGZ"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 186833,
       "name": "Cuidando El Territorio",
       "url": "https://open.spotify.com/track/0RR9X1AxLrdldzwwIVrHYf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Historias de la Calle",
-        "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Gan\u00f3 Holanda, Perdi\u00f3 China",
-      "url": "https://open.spotify.com/track/4WmQUNTvYadj1SdxHYJtEZ"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Recompensa",
-        "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "Ni Que Estuvieras Tan Buena",
-      "url": "https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Volver\u00eda A Elegir",
         "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 180400,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Recompensa",
+        "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 138320,
+      "name": "Ni Que Estuvieras Tan Buena",
+      "url": "https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco"
     },
     {
       "added_at": null,
@@ -467,38 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Ni Mand\u00e1ndote A Hacer",
-      "url": "https://open.spotify.com/track/5JQLQCEqMOZLZW78qIVm9N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Sali\u00f3 A La Perfecci\u00f3n",
-      "url": "https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Buen Ejemplo",
         "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
@@ -519,6 +487,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Sali\u00f3 A La Perfecci\u00f3n",
+      "url": "https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Ni Mand\u00e1ndote A Hacer",
+      "url": "https://open.spotify.com/track/5JQLQCEqMOZLZW78qIVm9N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+        "name": "El Buen Ejemplo",
+        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 156680,
-      "name": "Deja De Joder",
-      "url": "https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6"
+      "duration_ms": 286920,
+      "name": "El Ni\u00f1o Sicario",
+      "url": "https://open.spotify.com/track/4gLEbXINCGCMmqfnWa5iqw"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Buen Ejemplo",
-        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 286920,
-      "name": "El Ni\u00f1o Sicario",
-      "url": "https://open.spotify.com/track/4gLEbXINCGCMmqfnWa5iqw"
+      "duration_ms": 156680,
+      "name": "Deja De Joder",
+      "url": "https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 128639,
-      "name": "Una Mala Elecci\u00f3n",
-      "url": "https://open.spotify.com/track/5lEjdcCF84tGOx54LbZZKC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Recompensa",
         "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 230493,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/5ak02CIeaWbhQr8M479AfN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 128639,
+      "name": "Una Mala Elecci\u00f3n",
+      "url": "https://open.spotify.com/track/5lEjdcCF84tGOx54LbZZKC"
     },
     {
       "added_at": null,

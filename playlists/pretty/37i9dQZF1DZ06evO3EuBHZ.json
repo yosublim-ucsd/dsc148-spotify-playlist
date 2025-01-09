@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 14587,
+  "num_followers": 14595,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAADt/hGjHTi++MuVyy0JhlsJ",
+  "snapshot_id": "Z3xugAAAAACf/NMiTVVm9Ybid4MPylQB",
   "tracks": [
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 366693,
-      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
-      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 356472,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
+      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Vanguard Recordings",
-        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 292973,
-      "name": "Lost City",
-      "url": "https://open.spotify.com/track/3WGHCI52pWHbcVPTouKbOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jail",
         "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 200666,
       "name": "Everybody's Happy (But Me)",
       "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 292973,
+      "name": "Lost City",
+      "url": "https://open.spotify.com/track/3WGHCI52pWHbcVPTouKbOK"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 148259,
-      "name": "Story of My Blues - Remastered",
-      "url": "https://open.spotify.com/track/0B9DPk7wxckVDU4HbzpIsf"
+      "duration_ms": 163489,
+      "name": "Don\u0092T Talk Back - Remastered",
+      "url": "https://open.spotify.com/track/0E7ZBfWZucmak8MWxzb9L5"
     }
   ],
   "unique_name": "This Is Big Mama Thornton",

@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 30258,
+  "num_followers": 30313,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAADXxk1kYT1d2e2V9H4NGG+K",
+  "snapshot_id": "Z3xugAAAAADUghSjN8FemEg2uMav/rJK",
   "tracks": [
     {
       "added_at": null,
@@ -723,30 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop It (GloRilla, Mike WiLL Made-It)",
-        "url": "https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Pop It (GloRilla, Mike WiLL Made-It)",
-      "url": "https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 145655,
       "name": "FTCU (feat. GloRilla & Gangsta Boo)",
       "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop It (GloRilla, Mike WiLL Made-It)",
+        "url": "https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Pop It (GloRilla, Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B"
     },
     {
       "added_at": null,

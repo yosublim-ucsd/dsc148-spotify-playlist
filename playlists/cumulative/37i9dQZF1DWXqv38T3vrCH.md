@@ -4,7 +4,7 @@
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-90 songs - 6 hr 2 min
+91 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 | 2023-10-13 |  |
 | [Devil Inside](https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Devil Inside](https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq) | 5:14 | 2023-10-13 |  |
 | [Dragula](https://open.spotify.com/track/4QEFQlNFerDnWvNU8NASiV) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2kYUGuzvFalmxjhSD0q7u1) | 3:42 | 2023-10-13 |  |
-| [Every Day Is Halloween](https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Every Day Is Halloween](https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE) | 6:24 | 2023-10-13 |  |
+| [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 | 2024-10-11 |  |
+| [Every Day Is Halloween](https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Every Day Is Halloween](https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE) | 6:24 | 2023-10-13 | 2025-01-09 |
 | [Fangs](https://open.spotify.com/track/5CmHmD89cmI1F7XiNXhvYT) | [Snaggletooth](https://open.spotify.com/artist/0xjDbJ1jJAQTW5bc51cA1n) | [Fangs](https://open.spotify.com/album/53sP17YO0wLNr6dqqQ362O) | 3:32 | 2023-10-13 | 2024-10-15 |
 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO) | 7:18 | 2023-10-13 |  |
 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 | 2024-10-14 |  |

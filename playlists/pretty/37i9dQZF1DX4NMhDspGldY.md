@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 792 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 793 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 20 | [Need Your Touch](https://open.spotify.com/track/26un2NdBK4eLwX5TJCA1eI) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Need Your Touch](https://open.spotify.com/album/0QrWko9I2LyEOgGk2vLE68) | 3:52 |
 | 21 | [Yasuke in Roppongi](https://open.spotify.com/track/47nkIbi7iyQ5k4CHkQN8xC) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Yasuke In Roppongi](https://open.spotify.com/album/74v6dv4Uuw3het0QzpMpia) | 5:25 |
 | 22 | [Made 4 U](https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Made 4 U](https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp) | 3:39 |
-| 23 | [Bye Bye](https://open.spotify.com/track/1ynCux8DPn9obCyZIQ8lwL) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Bye Bye](https://open.spotify.com/album/2qKD1Q4vs2TahMwrJocyPA) | 2:43 |
-| 24 | [95 Selection](https://open.spotify.com/track/1agOtTTtPQKMyOEGfCaPEP) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [95 Selection](https://open.spotify.com/album/5FVk3IIv7XoOHfQl7qoHZr) | 4:34 |
+| 23 | [95 Selection](https://open.spotify.com/track/1agOtTTtPQKMyOEGfCaPEP) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [95 Selection](https://open.spotify.com/album/5FVk3IIv7XoOHfQl7qoHZr) | 4:34 |
+| 24 | [Bye Bye](https://open.spotify.com/track/1ynCux8DPn9obCyZIQ8lwL) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Bye Bye](https://open.spotify.com/album/2qKD1Q4vs2TahMwrJocyPA) | 2:43 |
 | 25 | [Leeds Town](https://open.spotify.com/track/6Vab7BOaIXufeOfzikCeDb) | [Temz](https://open.spotify.com/artist/3ksrra1WHKgGrr7ss2BYYg), [Caution](https://open.spotify.com/artist/4ibBdkHVvSRnTRZok0ezBz) | [Leeds Town](https://open.spotify.com/album/0FXYoRSbSliqHQDxqH1DhI) | 2:29 |
 | 26 | [Yacht Money](https://open.spotify.com/track/15IpsxxAoY6wAkppXaGftf) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Yacht Money](https://open.spotify.com/album/7kY0EWaq3UcUhkUi5fxwb6) | 4:28 |
 | 27 | [Pressure \(Oh My Goodness\)](https://open.spotify.com/track/4VA1cclXrIbTLXoP3lkid3) | [Ntantu](https://open.spotify.com/artist/3ijqECUdixtCFSyNw4FQJq) | [Pressure \(Oh My Goodness\)](https://open.spotify.com/album/7kycie79CZeMsMUdaW2RDZ) | 2:45 |

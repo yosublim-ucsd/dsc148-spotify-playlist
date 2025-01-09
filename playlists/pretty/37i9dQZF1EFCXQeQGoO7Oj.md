@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,211 likes - 465 songs - 1 day 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,225 likes - 465 songs - 1 day 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 181 | [Hold It Against Me](https://open.spotify.com/track/7Dyq1bhhjknLKEGg4k5NLr) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:48 |
 | 182 | [Your Body](https://open.spotify.com/track/2pmtavvgqZN52EePYxutgk) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:59 |
 | 183 | [Nobody Love](https://open.spotify.com/track/0AXym3uMYhCOngivsnwjkz) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:23 |
-| 184 | [Army](https://open.spotify.com/track/1PzKBUHhyD035EQM9GNMfV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:57 |
-| 185 | [If I Had You](https://open.spotify.com/track/1bq6XxdA59f5qJS5mw67Sc) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO) | 3:48 |
+| 184 | [If I Had You](https://open.spotify.com/track/1bq6XxdA59f5qJS5mw67Sc) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO) | 3:48 |
+| 185 | [Army](https://open.spotify.com/track/1PzKBUHhyD035EQM9GNMfV) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:57 |
 | 186 | [Who's In Your Head](https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Who's In Your Head](https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja) | 3:03 |
 | 187 | [Bad To You \(with Normani & Nicki Minaj\)](https://open.spotify.com/track/7vJS1DPc3FzBtqBs8n3mW5) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:51 |
 | 188 | [The One](https://open.spotify.com/track/44kgtDJyAFv4Z01z7bIxco) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:46 |
@@ -339,8 +339,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 329 | [Can't Make You Love Me](https://open.spotify.com/track/7pY6xLJqmezJNG7VwuKVSH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:17 |
 | 330 | [Seal It with a Kiss](https://open.spotify.com/track/1gilYs9AY8a75q275GTkiY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:26 |
 | 331 | [Miss You](https://open.spotify.com/track/61cy3MyZTZkYbKPAoRfzqP) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:23 |
-| 332 | [I Will Be There](https://open.spotify.com/track/2I320CTP7hYFTtiFo1H6CD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:53 |
-| 333 | [The Final Fight](https://open.spotify.com/track/1sTUyx1NWS3eAjnlUF7EXW) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:09 |
+| 332 | [The Final Fight](https://open.spotify.com/track/1sTUyx1NWS3eAjnlUF7EXW) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:09 |
+| 333 | [I Will Be There](https://open.spotify.com/track/2I320CTP7hYFTtiFo1H6CD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:53 |
 | 334 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 |
 | 335 | [I'll Never Stop](https://open.spotify.com/track/4EAbAlO8QWzIpONNkUkOvC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 3:26 |
 | 336 | [If Jesus Was A Rockstar](https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [If Jesus Was A Rockstar](https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL) | 2:50 |
@@ -385,8 +385,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 375 | [Since U Been Gone \- Juliet’s Version](https://open.spotify.com/track/1WZdToQ3vpfpgKD9jPlFOS) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Lorna Courtney](https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap) | [Since U Been Gone \(Juliet’s Version\)](https://open.spotify.com/album/4f5ao8f2W8n7Rx24Dpn9TT) | 2:49 |
 | 376 | [Analogue \(All I Want\) \- MTV Unplugged](https://open.spotify.com/track/0Qd9Uf3LUsbUObtLK8NSdI) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [MTV Unplugged \- Summer Solstice](https://open.spotify.com/album/55SHqC4ZxSnT0wWQgg9eOY) | 4:43 |
 | 377 | [Outta My Head](https://open.spotify.com/track/3dRAE3coX1uJXNHa5HZbxC) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 3:39 |
-| 378 | [Pablo Escobar](https://open.spotify.com/track/39OeihQRJWcERIbuKrHyUj) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good](https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6) | 3:00 |
-| 379 | [Man in The Moon](https://open.spotify.com/track/5NPe4fAhaMwcho571EJXDi) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:54 |
+| 378 | [Man in The Moon](https://open.spotify.com/track/5NPe4fAhaMwcho571EJXDi) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:54 |
+| 379 | [Pablo Escobar](https://open.spotify.com/track/39OeihQRJWcERIbuKrHyUj) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good](https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6) | 3:00 |
 | 380 | [Problem / Can't Feel My Face](https://open.spotify.com/track/7tFUciZjy3REK27sxt6gat) | [Miriam\-Teak Lee](https://open.spotify.com/artist/5RpwpK4ZHaDCcS2uWzi1Em), [Jordan Luke Gage](https://open.spotify.com/artist/2Fg34b45Srhuvd8FHLYLQd), [Original London Cast of & Juliet](https://open.spotify.com/artist/2apx0wGXPeZG2A4EzS9omR) | [& Juliet \(Original London Cast Recording\)](https://open.spotify.com/album/3JbJ4BZWKu38meXMPwmxmh) | 3:16 |
 | 381 | [Nobody but You](https://open.spotify.com/track/024v6TtQuwzaudtdWFEOuM) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 3:03 |
 | 382 | [Blank Space/Style](https://open.spotify.com/track/2DO19aPAU1zPD4eWSpgXrz) | [Nothing But Treble](https://open.spotify.com/artist/5Sng1k7qku7n6WAJsL1euv) | [This Time](https://open.spotify.com/album/2E3MuSG1OlV9ub5Enkpdmg) | 2:55 |
@@ -474,4 +474,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 464 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 465 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `AbmQlgAAAACG0mQqBhuwViC7Ko4BcBzG`
+Snapshot ID: `AbmWcgAAAABcdiSaqpwQeGBnLxbOAdvx`

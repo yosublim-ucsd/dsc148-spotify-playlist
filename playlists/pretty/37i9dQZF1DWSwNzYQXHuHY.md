@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,473 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,484 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 40 | [What about \(feat\. PENOMECO\)](https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [What about \(feat\. PENOMECO\)](https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig) | 3:28 |
 | 41 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 |
 | 42 | [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 |
-| 43 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
-| 44 | [Love me Again](https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Love me Again \(This is a Campus Romance Series X KEN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv) | 3:07 |
+| 43 | [Love me Again](https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Love me Again \(This is a Campus Romance Series X KEN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv) | 3:07 |
+| 44 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 |
 | 45 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 |
 | 46 | [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 |
 | 47 | [I Say Ya! You Say Yeah! \(feat\. Kyoung Seo\)](https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt), [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [I Say Ya! You Say Yeah!](https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN) | 3:50 |

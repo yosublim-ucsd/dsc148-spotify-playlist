@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,853 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,858 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 28 | [Sometimes](https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Sometimes](https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40) | 3:02 |
 | 29 | [Holy](https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Holy](https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz) | 4:15 |
 | 30 | [Sober](https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Sober](https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk) | 2:42 |
-| 31 | [In My Head](https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [In My Head](https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D) | 3:58 |
-| 32 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 |
-| 33 | [Ups & Downs](https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Ups & Downs](https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU) | 3:02 |
+| 31 | [Like Home \- Radio Edit](https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK) | [Like Home](https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW) | 3:20 |
+| 32 | [Ups & Downs](https://open.spotify.com/track/6zrkWFn28ep82mbAXsQn1k) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Ups & Downs](https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU) | 3:02 |
+| 33 | [In My Head](https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [In My Head](https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D) | 3:58 |
 | 34 | [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 |
-| 35 | [Bass Down Low](https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Bass Down Low](https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4) | 3:04 |
-| 36 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 |
+| 35 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 |
+| 36 | [Bass Down Low](https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Bass Down Low](https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4) | 3:04 |
 | 37 | [Sensation](https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sensation](https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs) | 2:54 |
 | 38 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
 | 39 | [Drown \(feat\. Clinton Kane\) \- Nicky Romero Remix](https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Drown \(feat\. Clinton Kane\) \[Nicky Romero Remix\]](https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza) | 3:07 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 50 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 |
 | 51 | [Destiny](https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Alexander Tidebrink](https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC) | [Destiny](https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq) | 4:13 |
 
-Snapshot ID: `Z3sdAAAAAAC3b+gUP7jtrkDNA6JQsPeR`
+Snapshot ID: `Z3xugAAAAABgrSPOeMOVvBiPDA3SviDP`

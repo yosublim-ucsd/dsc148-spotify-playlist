@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain](/playlists/plain/2p24KuIbwho6IKwVb2VYiC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2p24KuIbwho6IKwVb2VYiC)
 
-### [New Dance Hits 2024](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
+### [New Dance Hits 2025](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
 > The best Dance and EDM tracks right now! Cover: Zeds Dead
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,934 likes - 154 songs - 8 hr 3 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,935 likes - 154 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 153 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
 | 154 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 
-Snapshot ID: `AAAfKHAzUblzP1R1d3RmRoEDJatL+H3a`
+Snapshot ID: `AAAfKbXT5fH0fjoZ67+H0w3qoWcB4hEx`

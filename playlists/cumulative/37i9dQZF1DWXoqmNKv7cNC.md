@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXoqmNKv7cNC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXoqmNKv7cNC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXoqmNKv7cNC)
 
-### [Lo Mejor de EQUAL México 2024](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
+### [EQUAL México](https://open.spotify.com/playlist/37i9dQZF1DWXoqmNKv7cNC)
 
-> ¡Celebramos a las mujeres mexicanas a todo volumen!  Belinda, Kenia OS y Danna en portada 💚
+> ¡Mujeres mexicanas a todo volumen! Kenia OS en portada 💚
 
 1,274 songs - 2 day 21 hr 46 min
 

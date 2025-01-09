@@ -1,6 +1,6 @@
 {
   "description": "Turma do Pagode e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 373372,
+  "num_followers": 373353,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,22 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Vou Querer De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
       },
       "artists": [
         {
           "name": "Thiaguinho",
           "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 180964,
-      "name": "Vou Querer De Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -479,22 +483,18 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+        "name": "Vou Querer De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
       },
       "artists": [
         {
           "name": "Thiaguinho",
           "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+      "duration_ms": 180964,
+      "name": "Vou Querer De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
     },
     {
       "added_at": "2025-01-03 14:39:51",
@@ -639,6 +639,30 @@
     {
       "added_at": "2025-01-03 14:39:51",
       "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/4N8bnqG6Y8bNibjaYppqos"
+    },
+    {
+      "added_at": "2025-01-03 14:39:51",
+      "album": {
         "name": "Vamo Marolar",
         "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
       },
@@ -663,30 +687,6 @@
       "duration_ms": 181512,
       "name": "Vamo Marolar",
       "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
-    },
-    {
-      "added_at": "2025-01-03 14:39:51",
-      "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/4N8bnqG6Y8bNibjaYppqos"
     },
     {
       "added_at": "2025-01-03 14:39:51",

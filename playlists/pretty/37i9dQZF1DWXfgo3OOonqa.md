@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,424 likes - 147 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,432 likes - 147 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DERBY](https://open.spotify.com/track/6BbxOaw7A0RtJwFSqD3CT1) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [DERBY](https://open.spotify.com/album/7uJUZcxPHsROB24PV1GWE5) | 2:16 |
 | 2 | [En av En](https://open.spotify.com/track/25gpMBmBl7NirmrPNCCejo) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [En av En](https://open.spotify.com/album/2gwH6ZL3Y1eJtOABL5Lely) | 1:58 |
 | 3 | [G & P](https://open.spotify.com/track/2J6rn2z8zw9jBmWCJfuHYW) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [G & P](https://open.spotify.com/album/1D0BqbVwT9l2jjkYhs3vCY) | 1:51 |
-| 4 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
+| 4 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
 | 5 | [PICASSO](https://open.spotify.com/track/5FMWYAjbeDQj3os2WGQs5E) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [PICASSO](https://open.spotify.com/album/5HQxmiimIqUv8l9rg6babh) | 2:19 |
 | 6 | [Love Drug](https://open.spotify.com/track/5mjFqHlhUUKsFgM0HM8tVa) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Love Drug](https://open.spotify.com/album/6OtMyQtpZ30ZAe6QOLkohq) | 2:46 |
 | 7 | [Aj Aj Aj](https://open.spotify.com/track/55M6DeR1dnoeYU9Ig4nP3m) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [DnoteOnDaBeat](https://open.spotify.com/artist/4wsqTX9xCVoObzRPvjoV4H) | [Aj Aj Aj](https://open.spotify.com/album/1orU6gnKffJv1mg14FNVcl) | 2:07 |

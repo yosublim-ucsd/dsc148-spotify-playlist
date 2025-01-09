@@ -1,6 +1,6 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2423647,
+  "num_followers": 2423990,
   "original_name": "Heavy Workout",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
-        "name": "Hail to the King",
-        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Hail to the King",
-      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
-    },
-    {
-      "added_at": "2024-11-26 17:56:10",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 201960,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y"
+    },
+    {
+      "added_at": "2024-11-26 17:56:10",
+      "album": {
+        "name": "Hail to the King",
+        "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "Hail to the King",
+      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo"
     },
     {
       "added_at": "2024-11-26 17:56:10",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Nookie",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
+    },
+    {
+      "added_at": "2024-11-26 17:56:10",
+      "album": {
         "name": "RATATATA",
         "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 216428,
       "name": "RATATATA",
       "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
-    },
-    {
-      "added_at": "2024-11-26 17:56:10",
-      "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Nookie",
-      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
     },
     {
       "added_at": "2024-11-26 17:56:10",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
         }
       ],
-      "duration_ms": 304373,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
+      "duration_ms": 259959,
+      "name": "Metalingus",
+      "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
     },
     {
       "added_at": "2024-11-26 17:56:10",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 259959,
-      "name": "Metalingus",
-      "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
+      "duration_ms": 304373,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
       "added_at": "2024-11-26 17:56:10",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
+        "name": "The Oracle (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Cryin' Like A Bitch!!",
+      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
+    },
+    {
+      "added_at": "2024-11-26 17:56:10",
+      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 177626,
       "name": "Tekkno Train",
       "url": "https://open.spotify.com/track/1XK0SrwnujLMZv22WjVQU9"
-    },
-    {
-      "added_at": "2024-11-26 17:56:10",
-      "album": {
-        "name": "The Oracle (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Cryin' Like A Bitch!!",
-      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
     },
     {
       "added_at": "2024-11-26 17:56:10",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
-        "name": "KILLING ME",
-        "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
-      },
-      "artists": [
-        {
-          "name": "TSS",
-          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
-        }
-      ],
-      "duration_ms": 223375,
-      "name": "KILLING ME",
-      "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
-    },
-    {
-      "added_at": "2024-11-26 17:56:10",
-      "album": {
         "name": "Scars (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 195653,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
+    },
+    {
+      "added_at": "2024-11-26 17:56:10",
+      "album": {
+        "name": "KILLING ME",
+        "url": "https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "duration_ms": 223375,
+      "name": "KILLING ME",
+      "url": "https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d"
     },
     {
       "added_at": "2024-11-26 17:56:10",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
-        "name": "Hands of Sin",
-        "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Hands of Sin",
-      "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
-    },
-    {
-      "added_at": "2024-11-26 17:56:10",
-      "album": {
         "name": "Violent Noise",
         "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 193653,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
+    },
+    {
+      "added_at": "2024-11-26 17:56:10",
+      "album": {
+        "name": "Hands of Sin",
+        "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Hands of Sin",
+      "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
     },
     {
       "added_at": "2024-11-26 17:56:10",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-11-26 17:56:10",
       "album": {
-        "name": "Scoring The End Of The World (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 187321,
-      "name": "Hollow Points",
-      "url": "https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU"
-    },
-    {
-      "added_at": "2024-11-26 17:56:10",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 233297,
       "name": "MANTRA",
       "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
+    },
+    {
+      "added_at": "2024-11-26 17:56:10",
+      "album": {
+        "name": "Scoring The End Of The World (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 187321,
+      "name": "Hollow Points",
+      "url": "https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU"
     },
     {
       "added_at": "2024-11-26 17:56:10",

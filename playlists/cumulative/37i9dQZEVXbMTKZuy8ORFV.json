@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 112848,
       "name": "Ah\u00ed Estabas T\u00fa",
       "url": "https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y"
@@ -2696,6 +2696,28 @@
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "album": {
+        "name": "BLUE HORIZON FUNK",
+        "url": "https://open.spotify.com/album/5jXbkZ8fgtvq5OufR9LJz4"
+      },
+      "artists": [
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        },
+        {
+          "name": "DJ ZAP",
+          "url": "https://open.spotify.com/artist/1HJglK87YzctjxETSJqh64"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85642,
+      "name": "BLUE HORIZON FUNK - SLOWED",
+      "url": "https://open.spotify.com/track/6ISgjQNYq70ahUOL9rOrcz"
     },
     {
       "album": {
@@ -5818,7 +5840,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 167000,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/1ITMvdrsyEaHwFrc7f6ncW"
@@ -6750,7 +6772,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 174329,
       "name": "Faltan 5 Pa' las 12",
       "url": "https://open.spotify.com/track/17Kwdd9xubJr27UVruMPGf"
@@ -6868,7 +6890,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 150569,
       "name": "Faz de Chicote",
       "url": "https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0"
@@ -7144,7 +7166,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 190876,
       "name": "Fly Me to the Moon",
       "url": "https://open.spotify.com/track/4RxyIfOAN8HsjBBoKKt0A4"
@@ -7242,7 +7264,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 317320,
       "name": "Frances Limon",
       "url": "https://open.spotify.com/track/755bmgNnWiS1NHYIHE5XQM"
@@ -7260,7 +7282,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 317320,
       "name": "Frances Limon",
       "url": "https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw"
@@ -10240,7 +10262,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 187358,
       "name": "Lejos de la Ciudad - con Camilo",
       "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
@@ -11849,6 +11871,32 @@
     },
     {
       "album": {
+        "name": "MI MAMI FUNK, Vol. 2",
+        "url": "https://open.spotify.com/album/1XqQiDsPvBUiOOjDu7ZA2a"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        },
+        {
+          "name": "DJ-JY12",
+          "url": "https://open.spotify.com/artist/5opiOfmWLFeHTjI3dL6alu"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100263,
+      "name": "MI MAMI FUNK, Vol. 2 - Ultra Slowed",
+      "url": "https://open.spotify.com/track/4gAjWKO67qLFrWHZmuK5h6"
+    },
+    {
+      "album": {
         "name": "Mi Otra Mitad (Remix)",
         "url": "https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW"
       },
@@ -12468,7 +12516,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 185177,
       "name": "Montagem Lunar Diamante - Slowed",
       "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
@@ -16180,7 +16228,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,788 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,096 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 2 | [Creep \- Acoustic](https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Creep EP](https://open.spotify.com/album/1w1LIhUSQLKew0dYwiVX2q) | 4:18 |
 | 3 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 |
 | 4 | [Black \- Live MTV Unplugged](https://open.spotify.com/track/3xIaUb1WsnrqbJo6CsJMLO) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [MTV Unplugged](https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX) | 5:30 |
-| 5 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
-| 6 | [Two Steps Behind \- String / Acoustic Version](https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:16 |
+| 5 | [Two Steps Behind \- String / Acoustic Version](https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 4:16 |
+| 6 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 7 | [Sweet Child O' Mine \(feat\. Myles Kennedy and The Conspirators\) \- Live at Spotify, London](https://open.spotify.com/track/1BMDaiVYDREQnrQZA7Drpk) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [Spotify Sessions](https://open.spotify.com/album/4oieM9FgOhdsYIssk1SoM2) | 6:36 |
 | 8 | [The Middle \- Acoustic Version](https://open.spotify.com/track/7HJmJYQqBq2tn7RleFlun5) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 3:10 |
 | 9 | [Drive \- Acoustic](https://open.spotify.com/track/2Yzw1oQwuCJDglARieFOEY) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Pardon Me](https://open.spotify.com/album/0ki1gVexSfmfMxVYWMTB3A) | 3:47 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 44 | [Disarm \- Acoustic](https://open.spotify.com/track/1CfFF36728zzSOcSLzj74U) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:18 |
 | 45 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 | 46 | [mother tongue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/32iqkyCIOKogzuExLw1WTQ) | 3:37 |
-| 47 | [Hated \(Acoustic Version\)](https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive \(Deluxe Edition\)](https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1) | 2:51 |
-| 48 | [A Ton of Love \- Acoustic Version](https://open.spotify.com/track/0QlJAgg3zveXMQwKWmJdyJ) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Formaldehyde](https://open.spotify.com/album/0PYwWFc9D6TaFnxnOuVZ9b) | 3:11 |
+| 47 | [A Ton of Love \- Acoustic Version](https://open.spotify.com/track/0QlJAgg3zveXMQwKWmJdyJ) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Formaldehyde](https://open.spotify.com/album/0PYwWFc9D6TaFnxnOuVZ9b) | 3:11 |
+| 48 | [Hated \(Acoustic Version\)](https://open.spotify.com/track/0PHrdruYGBzeOZH43A9QG8) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive \(Deluxe Edition\)](https://open.spotify.com/album/6NNxeJZ1h3J2wIzolVNlx1) | 2:51 |
 | 49 | [Grand Theft Autumn / Where Is Your Boy \- Acoustic](https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [My Heart Will Always Be the B\-Side to My Tongue](https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H) | 3:12 |
 | 50 | [fleabag \- acoustic](https://open.spotify.com/track/7GOXymmseLpEUAveeA03hK) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag \(acoustic\)](https://open.spotify.com/album/5TER2W8dPyfyUIO3FjheKf) | 3:09 |
 

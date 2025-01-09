@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Chloe Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,820 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,890 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 21 | [Callin' U \(Tamally Maak\)](https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:56 |
 | 22 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
 | 23 | [Crush](https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Crush](https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D) | 3:15 |
-| 24 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
-| 25 | [someday, someone](https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye \(over nostalgic edition\)](https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0) | 3:37 |
+| 24 | [someday, someone](https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye \(over nostalgic edition\)](https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0) | 3:37 |
+| 25 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
 | 26 | [Sour](https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Sour](https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c) | 3:07 |
 | 27 | [The Same Bitch!](https://open.spotify.com/track/1NiHPhOiEqtqxIyuvF5X4E) | [Sarah Defne Gray](https://open.spotify.com/artist/6TbjlN6D9H1Oa7I1o31QtS) | [The Same Bitch!](https://open.spotify.com/album/3pqKZZppo8LYgke5rJaUsK) | 3:26 |
 | 28 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 37 | [ZARI](https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz) | 3:00 |
 | 38 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 |
 | 39 | [ATARAXIA](https://open.spotify.com/track/11TdG2gdwYU6Cmt6Lb7Yvz) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 2:56 |
-| 40 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 |
+| 40 | [Velvet Connection](https://open.spotify.com/track/1dJt5Ax1sdC6ltKFHGgXIQ) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Velvet Connection](https://open.spotify.com/album/1YQRJ6RrgTTIxMcqVHCmYk) | 2:59 |
 | 41 | [How’s That Working Out](https://open.spotify.com/track/7xxDOfhfEA3TwYwqSBg0hL) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:00 |
-| 42 | [Velvet Connection](https://open.spotify.com/track/1dJt5Ax1sdC6ltKFHGgXIQ) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Velvet Connection](https://open.spotify.com/album/1YQRJ6RrgTTIxMcqVHCmYk) | 2:59 |
+| 42 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 |
 | 43 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 |
 | 44 | [Asphalt](https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Asphalt](https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0) | 2:47 |
 | 45 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |

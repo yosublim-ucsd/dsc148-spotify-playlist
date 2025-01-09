@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 35 min
+86 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [ALMIGHTY〜仮面の約束 \- feat.川上洋平 『仮面ライダーセイバー』主題歌](https://open.spotify.com/track/0A2W626CJSt3rw6iJHYL8A) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 4:07 | 2023-01-14 |  |
 | [Blues In The Wind](https://open.spotify.com/track/3h4tEYHzsrlDxC2zCfqgsu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Takuma \(10\-FEET\)](https://open.spotify.com/artist/6MJbQmwV3YSEQnO3EnVsy6) | [Blues In The Wind](https://open.spotify.com/album/2KcZMoEkaGMyRzRLSO6gWB) | 5:03 | 2024-05-08 | 2024-06-04 |
 | [Break into the Light〜約束の帽子〜](https://open.spotify.com/track/58XinNr00MVez9TV323KJZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Break into the Light 〜約束の帽子〜/The Sharing Song 〜トリコのテーマ〜](https://open.spotify.com/album/2JBiEFSXLCs6NKsyktYOaW) | 3:40 | 2023-01-14 | 2023-03-20 |
+| [Buring Scale \-1993 MIX\-](https://open.spotify.com/track/4PelziOnOzdVXKzk3p9PIn) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Burning Scale](https://open.spotify.com/album/6yZILOS7GGrVXb3QRnOXNG) | 3:45 | 2025-01-09 |  |
 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/4deHviaMO5PAecTlfJUOLL) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 2:43 | 2023-01-14 |  |
 | [Departure](https://open.spotify.com/track/45XhQVKn0bKC74OAtcGu3m) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 4:11 | 2024-11-10 | 2024-12-28 |
 | [Diamond In Your Heart](https://open.spotify.com/track/7aqiDKiC83zDz54vzp0QtV) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Diamond In Your Heart](https://open.spotify.com/album/579Nh3mt3qtwk9q3jRNkNC) | 5:37 | 2023-01-14 |  |
@@ -51,7 +52,7 @@
 | [カナリヤ鳴く空](https://open.spotify.com/track/6xGoSgYLZ1oSBmCdVlqxnn) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Stompin' On DOWN BEAT ALLEY](https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ) | 3:58 | 2023-01-14 |  |
 | [カルぺ・ディエム～今日がその日さ](https://open.spotify.com/track/30gSJf2EyyXKij3fvQUjsi) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 4:56 | 2023-03-19 |  |
 | [クリスマスカ \(諸人こぞりて\)](https://open.spotify.com/track/1iXpI5zNsSCg9dih1n9l6g) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [東京スカパラダイスオーケストラ](https://open.spotify.com/album/7gKRUkx9rEts3ITxoXj5qP) | 2:12 | 2023-12-23 | 2024-01-12 |
-| [グランドスラム](https://open.spotify.com/track/5ScWpZwjjvFIhuBWARJKgb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:06 | 2024-10-31 |  |
+| [グランドスラム](https://open.spotify.com/track/5ScWpZwjjvFIhuBWARJKgb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:06 | 2024-10-31 | 2025-01-09 |
 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 | 2023-01-14 |  |
 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 | 2023-01-14 |  |
 | [ツバメ \- feat\. ミドリーズ & 長濱ねる & 東京都立片倉高等学校吹奏楽部](https://open.spotify.com/track/7JbneHNJCvLcBDkcXbddMK) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p), [長濱ねる](https://open.spotify.com/artist/7iDeYKknsBspvtbbC5kf4V), [東京都立片倉高等学校吹奏楽部](https://open.spotify.com/artist/7aF2lxzayrDdambGDmZ3Qk) | [ツバメ \(feat\. ミドリーズ & 長濱ねる & 東京都立片倉高等学校吹奏楽部\)](https://open.spotify.com/album/3Wjb7fLV5CEZWjG9odwkCB) | 4:24 | 2023-01-14 |  |

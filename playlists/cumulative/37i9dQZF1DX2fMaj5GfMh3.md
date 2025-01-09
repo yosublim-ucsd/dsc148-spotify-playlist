@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Yaro Mila
 
-788 songs - 1 day 16 hr 3 min
+790 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Blame It On You](https://open.spotify.com/track/3zaKVvx1nm5wiEBVBdMpM7) | [Mellie](https://open.spotify.com/artist/0fCB3cu52wsor5eiGb2OhK) | [Blame It On You](https://open.spotify.com/album/3iCfKKQ8KW8aicP8zadJMd) | 3:23 | 2024-01-04 | 2024-03-15 |
 | [Bloodline](https://open.spotify.com/track/2GNPhhSY0Fwdd7s0MLR7Ws) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [Bloodline](https://open.spotify.com/album/6jQ3xVBUKhF94X1kvScRnc) | 3:21 | 2023-02-24 | 2023-04-15 |
 | [Blue ft\. Berre](https://open.spotify.com/track/6W851KE7s5gwJvEk8L9h2q) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV), [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Blue](https://open.spotify.com/album/0IHMJOuhVv3YyFScmeX6RM) | 3:40 | 2024-02-22 | 2024-05-03 |
+| [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-08 |  |
 | [Bodybag](https://open.spotify.com/track/0n7G59orkm7Sh7rvOXAopY) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Bodybag](https://open.spotify.com/album/2es7bY8oRAtSLFTdbr7A2l) | 3:33 | 2023-03-30 | 2023-07-01 |
 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 | 2023-02-24 | 2023-04-28 |
 | [Bored](https://open.spotify.com/track/6RPIcksFhn8yeAQgVeRBte) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Get In Loser/Bored \- A Super Over Double Feature](https://open.spotify.com/album/1Xez6OzIKFRT3PcMyjOgQL) | 3:12 | 2023-08-21 | 2023-10-27 |
@@ -136,6 +137,7 @@
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-04-25 | 2024-07-16 |
 | [Coming of Age \(feat\. Melle\)](https://open.spotify.com/track/7Did4KpyQRorJo0L3k8zx5) | [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL), [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [Out of the blue](https://open.spotify.com/album/31KrWGRwKiI6ZLjStdSZ1V) | 2:48 | 2024-02-05 | 2024-04-13 |
 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-13 | 2023-08-04 |
+| [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 | 2025-01-08 |  |
 | [Cool Girl](https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:00 | 2023-11-09 | 2024-02-06 |
 | [Crazy For You](https://open.spotify.com/track/6SlMEK9meJOWCxlPk1yr51) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Crazy For You](https://open.spotify.com/album/0LKaCSPTuHk2z1Pdntl5jG) | 2:43 | 2024-11-04 |  |
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-19 | 2024-12-04 |

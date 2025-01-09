@@ -1,6 +1,6 @@
 {
   "description": "2014 highlights from the home of indie music. Cover: Lorde",
-  "num_followers": 92063,
+  "num_followers": 92132,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
         "name": "BADLANDS",
         "url": "https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 204811,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2024-01-24 21:21:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-01-24 21:21:00",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Seasons (Waiting on You)",
-      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
-    },
-    {
-      "added_at": "2024-01-24 21:21:00",
-      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
+    },
+    {
+      "added_at": "2024-01-24 21:21:00",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting on You)",
+      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
     },
     {
       "added_at": "2024-01-24 21:21:00",

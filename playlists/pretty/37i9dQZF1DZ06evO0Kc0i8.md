@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 
 > This is Rauw Alejandro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,782 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,210 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Kc0i8.md) - [plain]
 | 49 | [Dolida](https://open.spotify.com/track/0B23bjg6n7mQOATyOVNjVG) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SOLO](https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0) | 3:10 |
 | 50 | [BYAK](https://open.spotify.com/track/6zMWAKMDVH1uHHDOrm2RdL) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 3:36 |
 
-Snapshot ID: `Z3sdAAAAAACGrgyRxoVx991Sj+rFmS3W`
+Snapshot ID: `Z3xugAAAAACSX4+T3gKVpS5S3Z1mGm9A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,251 likes - 125 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,203 likes - 125 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 41 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
 | 42 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 43 | [Christmas Island](https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:17 |
-| 44 | [Jingle Bell Rock](https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 2:18 |
-| 45 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
+| 44 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
+| 45 | [Jingle Bell Rock](https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 2:18 |
 | 46 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
 | 47 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 |
 | 48 | [The Christmas Song](https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [A Joyful Holiday](https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU) | 3:26 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 102 | [Once A Year Miracle](https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:57 |
 | 103 | [Silent Night](https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:24 |
 | 104 | [Toyland](https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4) | [Stephen Stevens Quartet](https://open.spotify.com/artist/0sHjwkrwfeNPET9gG2nNfQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/29NEpWZtAc1pKuVl6LvEvm) | 2:54 |
-| 105 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
-| 106 | [We Three Kings](https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [More Sounds Of Christmas](https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C) | 4:01 |
+| 105 | [We Three Kings](https://open.spotify.com/track/4F5Ht2JjkaMmL4b8verZ2W) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [More Sounds Of Christmas](https://open.spotify.com/album/0PXIY5ZJpZWy3LMpujLN6C) | 4:01 |
+| 106 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
 | 107 | [A Holly Jolly Christmas](https://open.spotify.com/track/2qIufYDNP1YlmKVsNuOFdn) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Christmas Eve](https://open.spotify.com/album/5cexNJyM1uYPlM3EH2bSpP) | 2:22 |
 | 108 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 |
 | 109 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko) | 2:42 |

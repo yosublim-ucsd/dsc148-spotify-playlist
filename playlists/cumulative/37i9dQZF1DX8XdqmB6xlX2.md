@@ -2,9 +2,9 @@
 
 ### [bops.](https://open.spotify.com/playlist/37i9dQZF1DX8XdqmB6xlX2)
 
-> El hogar de tu nueva canción favorita\. Foto: Lola Young
+> El hogar de tu nueva canción favorita\. Foto: The Marías
 
-231 songs - 13 hr 16 min
+232 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2023-04-28 | 2024-08-03 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2023-03-10 | 2023-08-12 |
 | [Lauren](https://open.spotify.com/track/7vptmeNwSEVkcwDdqk7UQO) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Lauren](https://open.spotify.com/album/3rlpbpAzZUayIquPKgqpfX) | 3:38 | 2023-08-11 | 2023-10-14 |
-| [Le Monde \- From Talk to Me](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-09-15 |  |
+| [Le Monde \- From Talk to Me](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-09-15 | 2025-01-09 |
 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 | 2023-09-08 | 2023-10-14 |
 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 | 2023-06-26 | 2023-09-09 |
 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 | 2024-05-24 |  |
@@ -148,6 +148,7 @@
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2023-03-10 | 2023-08-12 |
 | [Nightcall](https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [OutRun](https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb) | 4:17 | 2024-08-14 |  |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-28 | 2023-06-27 |
+| [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-01-08 |  |
 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 | 2023-03-10 | 2023-08-12 |
 | [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 | 2023-12-05 |  |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2023-03-10 |  |

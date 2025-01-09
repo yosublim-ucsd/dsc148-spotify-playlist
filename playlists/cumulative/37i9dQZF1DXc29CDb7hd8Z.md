@@ -4,7 +4,7 @@
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-166 songs - 8 hr 58 min
+167 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [India Song \(piano\)](https://open.spotify.com/track/1oqrEcuxbzibmFx8Ebn4Z6) | [Carlos D'Alessio](https://open.spotify.com/artist/5tj60o8qX6VLwdc9zaVvqF) | [India Song et autres musiques de films](https://open.spotify.com/album/1ZVLjN4opMPA2pFyHs63Fs) | 2:46 | 2021-09-10 |  |
 | [Interconnectivity](https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S) | [Sigríður](https://open.spotify.com/artist/2L3YlhhQBndlD8eQJaF6dT) | [Interconnectivity](https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY) | 1:43 | 2021-09-10 |  |
 | [Intiefemnachts](https://open.spotify.com/track/7ybAf48sOJIWrm5MODP7CK) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Intiefemnachts](https://open.spotify.com/album/5Fw12Zf8uZEvuuIjyPOIMi) | 2:36 | 2021-09-10 |  |
+| [Jay](https://open.spotify.com/track/4APoqrhYmINORxY4O2neDg) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Jay](https://open.spotify.com/album/4UyiqHjDhTdMs4onWlNLMk) | 3:12 | 2025-01-08 |  |
 | [Jeremy and Maureen](https://open.spotify.com/track/7ISwUxOAvFJhIM7Q9c1mcu) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Jeremy and Maureen](https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf) | 3:24 | 2021-09-10 |  |
 | [Ker Yegu](https://open.spotify.com/track/1e4fUWZRPW7H3a1ZX0MARA) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Kerber](https://open.spotify.com/album/0L9QNawAYPBbMOkHD1tZOM) | 4:34 | 2021-09-10 | 2024-04-19 |
 | [Ker Yegu](https://open.spotify.com/track/2maI2rqhSgHfqNnz4c7Ymn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker Yegu](https://open.spotify.com/album/7g7ytUsfYU1Ak5ElqOvOFt) | 4:34 | 2021-09-10 |  |

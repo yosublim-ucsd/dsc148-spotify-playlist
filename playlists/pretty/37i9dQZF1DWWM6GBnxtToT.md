@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,035 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,091 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 51 | [Little Lucille](https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Little Lucille](https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A) | 3:18 |
 | 52 | [2001](https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2001](https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX) | 4:26 |
 | 53 | [Bleach](https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Bleach](https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L) | 3:29 |
-| 54 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
-| 55 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
+| 54 | [Kalif Onya](https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T) | [Al Pride](https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB) | [Kalif Onya](https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl) | 3:58 |
+| 55 | [I Swear It's True](https://open.spotify.com/track/61AYzKQ7kvLJ82IFaIbRWn) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [I Swear It's True](https://open.spotify.com/album/1amufMJmaSVgIvRujOq5Va) | 3:55 |
 | 56 | [Your Moment](https://open.spotify.com/track/5JAbCjlhaks42cZsR7iYlL) | [Hugo Hamlet](https://open.spotify.com/artist/4sh4kcFQN5pZcNxX4eBGmO), [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Your Moment](https://open.spotify.com/album/7xuuHSrc2f8oJlp5ndu2E2) | 3:24 |
 | 57 | [Like You](https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [Like You](https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6) | 2:53 |
 | 58 | [Raincoats](https://open.spotify.com/track/2hxAUdQ6YbsvplYpBuYJvy) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D), [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Raincoats](https://open.spotify.com/album/0zP2Syhcw4PzK9igud1t5O) | 2:37 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 90 | [Power of Denial](https://open.spotify.com/track/6gKEM5PLDjH2WsInN5JroT) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Power of Denial](https://open.spotify.com/album/6Evnriuz8ieQypvk4V2OJT) | 5:14 |
 | 91 | [Divine](https://open.spotify.com/track/06eMGYbD8sbYmxaQ11KWNM) | [Good Wilson](https://open.spotify.com/artist/72tmD7IO0OwXgkswzuURye) | [Divine](https://open.spotify.com/album/3TRXJ67MWVvbi1kVXm7ICe) | 3:23 |
 | 92 | [Geometric](https://open.spotify.com/track/0IRAtFcPIqysHbfNAfArgK) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Geometric](https://open.spotify.com/album/5ARMVAvzgckxtlo09wDi17) | 3:17 |
-| 93 | [Passion](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
-| 94 | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/track/1P48tbboGkgiE6HPwguSOO) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/album/0oS7wSnaV0S4PUss03i6jF) | 3:32 |
+| 93 | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/track/1P48tbboGkgiE6HPwguSOO) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [Open \(feat\. Cailin Russo\)](https://open.spotify.com/album/0oS7wSnaV0S4PUss03i6jF) | 3:32 |
+| 94 | [Passion](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
 | 95 | [Feel It All](https://open.spotify.com/track/26SdeD5OY1YzFsDQCNnCIp) | [Kita Menari](https://open.spotify.com/artist/1noOoapXyyCG1nYTH436qw) | [Feel It All](https://open.spotify.com/album/7p4YxLifRcs95dxZo8aVXd) | 4:07 |
 | 96 | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/track/4DMDtsHojzFgAKbtFYKoJ9) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Nobody But Me \(feat\. Cold War Kids\)](https://open.spotify.com/album/5Q4MnV0Phqr0R5eEM78Ycr) | 3:44 |
 | 97 | [Zeus](https://open.spotify.com/track/0RQxUDg6l0yLtdjGsByaRX) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Zeus](https://open.spotify.com/album/35VinbtlSAyJGLF8lrazez) | 3:18 |
 | 98 | [Take Me Out](https://open.spotify.com/track/3QfDceqmFnYDJi87fwI3lK) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Take Me Out](https://open.spotify.com/album/2YCBz7N0Lrdagv6Fym6a8e) | 4:55 |
-| 99 | [Don't Let Me Down](https://open.spotify.com/track/36fHADliwp4ColP0Gypg5W) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Don't Let Me Down](https://open.spotify.com/album/3e2btgBFWY3kzpobOTRCN2) | 3:20 |
-| 100 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 |
+| 99 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 |
+| 100 | [Where Do You Go](https://open.spotify.com/track/6fFV8yGBRnXRYkXDzXLgQG) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Where Do You Go](https://open.spotify.com/album/7ffU7oeQlFNtNoAk2KI5PS) | 3:22 |
 
 Snapshot ID: `ZtBJzQAAAADeGygk8+JMd5nXRgMdiE7K`

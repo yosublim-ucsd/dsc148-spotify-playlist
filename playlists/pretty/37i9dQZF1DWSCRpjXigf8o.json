@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 87552,
+  "num_followers": 87559,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "So Much Wine",
-        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "So Much Wine",
-      "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
-    },
-    {
-      "added_at": "2024-12-17 15:18:21",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 226386,
       "name": "Warwick Avenue",
       "url": "https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx"
+    },
+    {
+      "added_at": "2024-12-17 15:18:21",
+      "album": {
+        "name": "So Much Wine",
+        "url": "https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "So Much Wine",
+      "url": "https://open.spotify.com/track/4ZPNGLtydYARKP681L3TAF"
     },
     {
       "added_at": "2024-12-17 15:18:21",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-12-17 15:18:21",
       "album": {
-        "name": "Everglow",
-        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "Everglow - Edit",
-      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
-    },
-    {
-      "added_at": "2024-12-17 15:18:21",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 171527,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
+    },
+    {
+      "added_at": "2024-12-17 15:18:21",
+      "album": {
+        "name": "Everglow",
+        "url": "https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "Everglow - Edit",
+      "url": "https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE"
     },
     {
       "added_at": "2024-12-17 15:18:21",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Sica
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,554 likes - 433 songs - 1 day 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,558 likes - 433 songs - 1 day 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [nothing about you](https://open.spotify.com/track/0DhPLOi5pwaNzH74yI82wM) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [nothing about you](https://open.spotify.com/album/5nWghT9U5ZdEiQOeB4rYPC) | 3:01 |
 | 2 | [JET\-51CA](https://open.spotify.com/track/4h5K62op14M02lx0GA1TH9) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [JET\-51CA](https://open.spotify.com/album/6AKhCOyS3lRQBea0E0jtQH) | 3:12 |
 | 3 | [夜幕下告別](https://open.spotify.com/track/3QaEWGHGKHmnJFxIOSE3rt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [夜幕下告別](https://open.spotify.com/album/33xSL6feMYksWgTkgTnmJK) | 4:12 |
-| 4 | [世界多了一個陌生人](https://open.spotify.com/track/3ss1P1zMP6Cxt9Z3nfE3Bl) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [世界多了一個陌生人](https://open.spotify.com/album/3zdcb9ekOltMonaF4SwG3j) | 3:22 |
+| 4 | [世界多了一個陌生人](https://open.spotify.com/track/3ss1P1zMP6Cxt9Z3nfE3Bl) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [世界多了一個陌生人](https://open.spotify.com/album/3zdcb9ekOltMonaF4SwG3j) | 3:21 |
 | 5 | [最動人一次](https://open.spotify.com/track/3EyP7T8w9tpTeNOL4i45Iy) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [最動人一次](https://open.spotify.com/album/09GDfUNAQtK3EPqLST4Swj) | 3:39 |
 | 6 | [到時](https://open.spotify.com/track/4FcEVN18bBNzv6Mp1oG4F6) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [到時](https://open.spotify.com/album/4MI3HWSBBmBS9qfmKiL3LE) | 4:13 |
 | 7 | [My Christmas time awaits](https://open.spotify.com/track/4Su9txGoMk3IogDUDtlAu6) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [My Christmas time awaits](https://open.spotify.com/album/5VfXDe4Y8p3BDQQI0vvPfj) | 2:18 |
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 120 | [被吃掉的靈魂](https://open.spotify.com/track/5C803SxLZnhe9e6FC0YiNW) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [被吃掉的靈魂](https://open.spotify.com/album/2I7CoLPIkTjR6R8mSXJwTB) | 3:31 |
 | 121 | [我的受保護動物](https://open.spotify.com/track/5YW8XsFfxPJIi5SmMbDVZk) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [我的受保護動物](https://open.spotify.com/album/42oZpxR4YktkYD2j0jkteb) | 3:37 |
 | 122 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 |
-| 123 | [Dizzy](https://open.spotify.com/track/7M79OcQyAjDlUp38qx7tgA) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [Dizzy](https://open.spotify.com/album/6UARsSmrrQSex8qNvXYeBl) | 3:09 |
+| 123 | [Dizzy](https://open.spotify.com/track/7M79OcQyAjDlUp38qx7tgA) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [Dizzy](https://open.spotify.com/album/6UARsSmrrQSex8qNvXYeBl) | 3:07 |
 | 124 | [物無類聚](https://open.spotify.com/track/1kf2gjFvJ7m9mTXcyedsqm) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [物無類聚](https://open.spotify.com/album/7osatkOGfOD1zXMUp0SavU) | 4:48 |
 | 125 | [左手香](https://open.spotify.com/track/2PATmOyvRZGKwOoD46DQpC) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [左手香](https://open.spotify.com/album/0d1i03fdM8bnMKQjj4PdCA) | 3:30 |
 | 126 | [社畜完全體](https://open.spotify.com/track/5zc0B9YxMhanwdDp5D3B9S) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [社畜完全體](https://open.spotify.com/album/3cmzJdniYEVObAZAHS3dqd) | 4:23 |

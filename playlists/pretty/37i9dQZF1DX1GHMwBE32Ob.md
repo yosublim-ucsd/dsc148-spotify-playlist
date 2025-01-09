@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 
 > From the trenches\. Through the streets.<br/>Cover: Pheelz
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,917 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,047 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GHMwBE32Ob.md) - [plain]
 | 56 | [Born Fi Dis](https://open.spotify.com/track/4jL2U9V8qa4aQH4IHQ6hTv) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Ghetto Vibrations](https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch) | 2:30 |
 | 57 | [Oghene](https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4Su2KjN1mxdB5JpT5aAtQw), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [R2 Sept 12](https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB) | 3:04 |
 | 58 | [O.U.A.T](https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [O.U.A.T](https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b) | 2:21 |
-| 59 | [Abanikanda](https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Abanikanda](https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE) | 3:27 |
+| 59 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 |
 | 60 | [50 Billion \(feat\. Zlatan\)](https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:14 |
 
 Snapshot ID: `Z1/w1gAAAACl3AAyKVqOYuUAsAwPlHTf`

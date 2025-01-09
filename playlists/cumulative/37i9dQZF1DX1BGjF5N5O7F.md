@@ -4,7 +4,7 @@
 
 > sensual roots & indie folk.
 
-138 songs - 9 hr 7 min
+139 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Beach Baby](https://open.spotify.com/track/7oRNU7Tmek0nm2lqyDojoG) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK) | 2:40 | 2024-02-09 |  |
 | [Billie Holiday](https://open.spotify.com/track/1YVD5cqaERd5F5w4IA9yFY) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Exquisite Corpse](https://open.spotify.com/album/1q4RS7dbemCVtyW5msIErW) | 6:45 | 2023-01-27 | 2024-01-20 |
 | [Billie Holiday](https://open.spotify.com/track/3JCFw3L2g1NsSjbnjR869j) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [The Fool \(Deluxe\)](https://open.spotify.com/album/3vNQPnY0Dv8fyyN3gHBmBh) | 6:45 | 2024-02-09 |  |
+| [Bless the Telephone](https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Singer & The Song](https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH) | 1:40 | 2025-01-08 |  |
 | [Both Hands](https://open.spotify.com/track/3sQIESZGkkxYRn4NCq9B55) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0G6JEkNgzfTlve4XAiRlCk) | 3:35 | 2021-03-19 | 2022-07-29 |
 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 | 2021-03-19 | 2024-04-19 |
 | [Both Hands](https://open.spotify.com/track/4FJsFAdLFGqrmuM74CIzhs) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw) | 3:38 | 2021-03-19 | 2022-11-03 |
@@ -128,7 +129,7 @@
 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 | 2021-03-19 |  |
 | [TRUE](https://open.spotify.com/track/4Cz2tFaDnb08uKHumBdYzu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2sw2jwyFml3Ola4RO3by8v) | 3:06 | 2021-03-19 | 2024-03-12 |
 | [TRUE](https://open.spotify.com/track/7xKw53dwg7KWWwrF5Cm8gt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [TRUE](https://open.spotify.com/album/2QF8p6fZZoSJArprSJvTPN) | 3:06 | 2021-03-19 | 2022-07-29 |
-| [Uncuff Me](https://open.spotify.com/track/4Xv1crOLCZIuWDRW4d7ePJ) | [Nikolaj Grandjean](https://open.spotify.com/artist/1ggbWttqLqXwrJTtYMtna9) | [Carrying Stars \(Bonus Version\)](https://open.spotify.com/album/7w1hkVKmKxc01FyHDWnMre) | 3:46 | 2021-03-19 |  |
+| [Uncuff Me](https://open.spotify.com/track/4Xv1crOLCZIuWDRW4d7ePJ) | [Nikolaj Grandjean](https://open.spotify.com/artist/1ggbWttqLqXwrJTtYMtna9) | [Carrying Stars \(Bonus Version\)](https://open.spotify.com/album/7w1hkVKmKxc01FyHDWnMre) | 3:46 | 2021-03-19 | 2025-01-09 |
 | [Unknown / Nth](https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/39EdZpzcvb0odv7kaJzBhj) | 4:40 | 2023-06-30 | 2023-08-21 |
 | [Unknown / Nth](https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unknown / Nth](https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP) | 4:40 | 2024-02-09 |  |
 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2023-06-30 | 2024-04-19 |

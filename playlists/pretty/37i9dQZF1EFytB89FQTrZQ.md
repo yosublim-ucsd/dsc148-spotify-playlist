@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,571 likes - 321 songs - 17 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,568 likes - 321 songs - 17 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 93 | [Sweet Lies](https://open.spotify.com/track/1ciemDCppxQbYhXzqMoBV0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Sweet Lies](https://open.spotify.com/album/0Uf9BYVnE9KkSZMPSf4RJN) | 2:01 |
 | 94 | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/track/2iBm8zv7d3qUKphL0FgVog) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/album/28yED9i2j4hJHx4NPlRSXP) | 3:07 |
 | 95 | [Scent of you](https://open.spotify.com/track/1KnKp1eEdotLWF7OzKVIgo) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:59 |
-| 96 | [Cheque](https://open.spotify.com/track/2PRjwWPjJHmjFmC3NPXrTy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [FORΞVΞR \(DΞLUXΞ ΞDITION\)](https://open.spotify.com/album/53F4qZCDBwulb9eoMuWHf2) | 2:45 |
-| 97 | [Check](https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:45 |
+| 96 | [Check](https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:45 |
+| 97 | [Cheque](https://open.spotify.com/track/2PRjwWPjJHmjFmC3NPXrTy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [FORΞVΞR \(DΞLUXΞ ΞDITION\)](https://open.spotify.com/album/53F4qZCDBwulb9eoMuWHf2) | 2:45 |
 | 98 | [Trash](https://open.spotify.com/track/5lzWrMDYLuAugJCHG5C2d0) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 2:53 |
 | 99 | [City That Never Sleeps](https://open.spotify.com/track/2jv9q6oVcAlrVLk9QEmzar) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [City That Never Sleeps](https://open.spotify.com/album/6FBlk7tAhSkKtzslsX7Xce) | 2:44 |
 | 100 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 |
@@ -330,4 +330,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 320 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 321 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbmQqgAAAADtS4cciW/WQIUNMn8VF/z+`
+Snapshot ID: `AbmWcgAAAAD5OyWr3WOY0idQgL4uf2S5`

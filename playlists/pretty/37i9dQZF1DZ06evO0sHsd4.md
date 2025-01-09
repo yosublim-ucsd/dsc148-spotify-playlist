@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,483 likes - 38 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,505 likes - 38 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 37 | [Pisto En Mano Y Humo Al Viento](https://open.spotify.com/track/0V7SFLu8aL8JPVJagw0D0x) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 2:29 |
 | 38 | [A Nadie Mas](https://open.spotify.com/track/5BPJCeEDMCaJ0q3VrAgnFc) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 2:29 |
 
-Snapshot ID: `Z3sdAAAAAACULB3ovsNj2JbSVCibqktq`
+Snapshot ID: `Z3xugAAAAADSQh7cXPA5b2h7TJzMfD44`

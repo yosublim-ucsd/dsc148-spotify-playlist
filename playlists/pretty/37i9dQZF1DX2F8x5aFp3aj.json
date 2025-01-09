@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 220377,
+  "num_followers": 220498,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -459,18 +459,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "So (Remastered)",
-        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
       "artists": [
         {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 394826,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD"
+      "duration_ms": 448306,
+      "name": "Pictures Of You - Remastered",
+      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
     },
     {
       "added_at": "2024-07-12 13:30:25",
@@ -491,18 +491,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+        "name": "So (Remastered)",
+        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 448306,
-      "name": "Pictures Of You - Remastered",
-      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
+      "duration_ms": 394826,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "All Four One (Remastered 1999)",
-        "url": "https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz"
-      },
-      "artists": [
-        {
-          "name": "The Motels",
-          "url": "https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Only The Lonely - Remastered 1999",
-      "url": "https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "London Town 1983-1993",
         "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 297066,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "All Four One (Remastered 1999)",
+        "url": "https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz"
+      },
+      "artists": [
+        {
+          "name": "The Motels",
+          "url": "https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Only The Lonely - Remastered 1999",
+      "url": "https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO"
     },
     {
       "added_at": "2021-09-28 03:14:02",

@@ -4,7 +4,7 @@
 
 > Für einen tollen Start in den Tag\. Oder einfach so.
 
-149 songs - 7 hr 27 min
+151 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,11 +98,11 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-20 | 2024-08-20 |
 | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9) | 2:25 | 2024-06-20 | 2024-08-08 |
 | [Mama hat gesagt](https://open.spotify.com/track/086edN2nz8TjB3zddIdlPn) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Mama hat gesagt](https://open.spotify.com/album/3396TEBenjqgtH7GskkRXu) | 3:16 | 2024-06-20 | 2024-10-04 |
-| [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2024-11-13 |  |
+| [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2024-11-13 | 2025-01-09 |
 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2024-06-20 | 2024-11-10 |
 | [Menschen](https://open.spotify.com/track/4rT8KycWfIjUjh4kD2k5et) | [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe) | [Menschen](https://open.spotify.com/album/4RaZENO3TDlIsipmssLYus) | 2:41 | 2024-11-09 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-11-09 |  |
-| [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/track/7t9kghsVb4ScWGnQGS8pVs) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/album/47f7gbtZx0UbvPcO5lx6Lu) | 3:08 | 2024-08-30 |  |
+| [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/track/7t9kghsVb4ScWGnQGS8pVs) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/album/47f7gbtZx0UbvPcO5lx6Lu) | 3:08 | 2024-08-30 | 2025-01-09 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-06-20 | 2024-11-10 |
 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 | 2024-10-11 |  |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-13 |  |
@@ -111,6 +111,7 @@
 | [Old Friend](https://open.spotify.com/track/63NQJKiTf57EOHazzq0Oif) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [La symphonie des éclairs \(Le dernier des voyages\)](https://open.spotify.com/album/4nXalwXLXOcfyQMw0WOZBW) | 2:37 | 2024-11-09 |  |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-07-10 | 2024-08-20 |
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2024-10-11 |  |
+| [Pfeil im Herz](https://open.spotify.com/track/0pBDHJFnlMzKBUvchbpaCT) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [Pfeil im Herz](https://open.spotify.com/album/3VZ9cXALFOcFbs2RMlsJzp) | 1:46 | 2025-01-08 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-06-20 | 2024-11-14 |
 | [Promise](https://open.spotify.com/track/69UvdEslYCoxIuFj7K8Bdg) | [Malik Harris](https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n) | [Promise](https://open.spotify.com/album/2b89nN80pEq5v5tP5ya5ed) | 3:14 | 2024-07-22 | 2024-11-10 |
 | [Ray Of Light](https://open.spotify.com/track/3yFWhxIlIzlyro5r6IMuT4) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ray Of Light](https://open.spotify.com/album/1GBySAbVIvQTKCR0Tg4a4U) | 2:56 | 2024-12-18 |  |
@@ -135,6 +136,7 @@
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-10-03 | 2024-12-19 |
 | [Stop Calling](https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stop Calling](https://open.spotify.com/album/0uvwr9erzNBwxjzqBSUz5Q) | 2:58 | 2024-11-09 |  |
 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 | 2024-06-20 | 2024-08-08 |
+| [Sun](https://open.spotify.com/track/4iyCORYRUEVoGZ8aU0DN7F) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Derik Fein Essentials](https://open.spotify.com/album/0B6rjlqKygAJkJQADXXRU3) | 3:02 | 2025-01-08 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-30 | 2024-10-12 |
 | [Tears Like Rain](https://open.spotify.com/track/4jJyldGnhcl0DWckyPUdtY) | [Bodine Monet](https://open.spotify.com/artist/3yYjWBj7KIlhTtr8LPeKVz) | [Tears Like Rain](https://open.spotify.com/album/1mFt8cO5LBFJs3z91Lp9RW) | 2:39 | 2024-06-20 | 2024-08-20 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-13 |  |

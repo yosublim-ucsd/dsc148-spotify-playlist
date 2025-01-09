@@ -2,7 +2,7 @@
 
 ### [Partyhymnen](https://open.spotify.com/playlist/37i9dQZF1DX9EM98aZosoy)
 
-> Feier mit den größten aktuellen und zeitlosen Partyhits ins neue Jahr.
+> Feiern mit den größten aktuellen und zeitlosen Partyhits.
 
 294 songs - 14 hr 36 min
 

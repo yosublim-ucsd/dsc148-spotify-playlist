@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293240,
+  "num_followers": 293236,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Caro Vapor / Vida e Veneno de Don L",
+        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Izabell Shamylla",
+          "url": "https://open.spotify.com/artist/6UYNE2SuiqJgaBIXIQ6XjN"
+        }
+      ],
+      "duration_ms": 184412,
+      "name": "Depois das Tr\u00eas",
+      "url": "https://open.spotify.com/track/2gQthJ9Xq8ghOQkJESERhK"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Acr\u00f4nico",
         "url": "https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 156082,
       "name": "Ela \u00e9 Tipo",
       "url": "https://open.spotify.com/track/7xvS7CszxIOfK2FxQJ5LXb"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Caro Vapor / Vida e Veneno de Don L",
-        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Izabell Shamylla",
-          "url": "https://open.spotify.com/artist/6UYNE2SuiqJgaBIXIQ6XjN"
-        }
-      ],
-      "duration_ms": 184412,
-      "name": "Depois das Tr\u00eas",
-      "url": "https://open.spotify.com/track/2gQthJ9Xq8ghOQkJESERhK"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -939,6 +939,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
         "name": "Vinho",
         "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
       },
@@ -963,22 +983,18 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+        "name": "Sabores",
+        "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
       },
       "artists": [
         {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+          "name": "N\u00fabia",
+          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
         }
       ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+      "duration_ms": 267000,
+      "name": "Sabores",
+      "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -999,22 +1015,6 @@
       "duration_ms": 138857,
       "name": "Tangar\u00e1",
       "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
-        "name": "Sabores",
-        "url": "https://open.spotify.com/album/5my3zgk9Y6WgPZhwwN2Sdm"
-      },
-      "artists": [
-        {
-          "name": "N\u00fabia",
-          "url": "https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Sabores",
-      "url": "https://open.spotify.com/track/0gVedBfQb3sejNkkLCqJBZ"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1083,30 +1083,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "O Som do Litoral",
-        "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
-      },
-      "artists": [
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Lucas Baha",
-          "url": "https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v"
-        },
-        {
-          "name": "Prodbythb",
-          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
-        }
-      ],
-      "duration_ms": 174064,
-      "name": "Espa\u00e7o Aberto",
-      "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -1127,6 +1103,30 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "O Som do Litoral",
+        "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Lucas Baha",
+          "url": "https://open.spotify.com/artist/5cgDtQOQJveXGCFDn8uT9v"
+        },
+        {
+          "name": "Prodbythb",
+          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
+        }
+      ],
+      "duration_ms": 174064,
+      "name": "Espa\u00e7o Aberto",
+      "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "eu n\u00e3o queria mais nada",
         "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 148187,
       "name": "eu n\u00e3o queria mais nada",
       "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1327,22 +1327,26 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "FOME",
-        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
+        "name": "n\u00e3o te amo mais",
+        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
       "artists": [
         {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+          "name": "Isa Guerra",
+          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
         },
         {
-          "name": "FP do Trem Bala",
-          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
         }
       ],
-      "duration_ms": 169868,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+      "duration_ms": 133921,
+      "name": "n\u00e3o te amo mais",
+      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1371,26 +1375,22 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "n\u00e3o te amo mais",
-        "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
+        "name": "FOME",
+        "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
       },
       "artists": [
         {
-          "name": "Isa Guerra",
-          "url": "https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC"
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
         },
         {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
         }
       ],
-      "duration_ms": 133921,
-      "name": "n\u00e3o te amo mais",
-      "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+      "duration_ms": 169868,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 138205,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2024-12-20 03:25:46",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2024-12-20 03:25:46",
       "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
-      },
-      "artists": [
-        {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
-        },
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
-    },
-    {
-      "added_at": "2024-12-20 03:25:46",
-      "album": {
         "name": "Seu Z\u00e9",
         "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 136430,
       "name": "Seu Z\u00e9",
       "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
+    },
+    {
+      "added_at": "2024-12-20 03:25:46",
+      "album": {
+        "name": "Risco de se Apaixonar",
+        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
+      },
+      "artists": [
+        {
+          "name": "Marcello Melo Jr.",
+          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
+        },
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Risco de se Apaixonar",
+      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
     },
     {
       "added_at": "2024-12-20 03:25:46",

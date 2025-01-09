@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: The Castellows
 
-2,670 songs - 5 day 23 hr 33 min
+2,671 songs - 5 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,7 +489,7 @@
 | [Cowboys Did Cocaine](https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [Cowboys Did Cocaine](https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6) | 3:52 | 2022-10-07 | 2023-02-04 |
 | [Cowboys Never Cry](https://open.spotify.com/track/03Pq6pgO1cUWqgMc3KaSSr) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Cowboys Never Cry](https://open.spotify.com/album/2dtdwplgMTEG2yDhIQSHnh) | 3:25 | 2023-11-10 | 2024-04-27 |
 | [Cowboys Talkin'](https://open.spotify.com/track/2jz9PifMeY1ZYmE720XkID) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboys Talkin'](https://open.spotify.com/album/3C4reNN9sXoVmK5CArdmzk) | 2:49 | 2023-01-13 | 2023-04-15 |
-| [Craving You](https://open.spotify.com/track/1XunthJTG5Wg1BqXONGN5Y) | [Timmy McKeever](https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N) | [Craving You](https://open.spotify.com/album/10ssYDIqVehCGWUB9z7oMd) | 2:45 | 2024-08-30 |  |
+| [Craving You](https://open.spotify.com/track/1XunthJTG5Wg1BqXONGN5Y) | [Timmy McKeever](https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N) | [Craving You](https://open.spotify.com/album/10ssYDIqVehCGWUB9z7oMd) | 2:45 | 2024-08-30 | 2025-01-09 |
 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 | 2022-04-22 | 2022-05-20 |
 | [Crazy One More Time \- Revisited](https://open.spotify.com/track/0jy7nb2V8Twnk6aGz3hqCE) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Crazy One More Time \(Revisited\)](https://open.spotify.com/album/4qoFgtGcRTrdlfrIXcrwF9) | 3:51 | 2022-01-21 | 2022-02-05 |
 | [Crazy, Crazy](https://open.spotify.com/track/4Ivs28JGgrJ1YAdN2RNx28) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Crazy, Crazy](https://open.spotify.com/album/3teFX8YpNvcen0xPLuS6RD) | 3:01 | 2023-04-14 | 2023-09-23 |
@@ -1330,6 +1330,7 @@
 | [Lightning In A Bottle](https://open.spotify.com/track/67QO8DV0Zq2Anl8AKkup35) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Lightning In A Bottle](https://open.spotify.com/album/0cpBj2fBJO1DoD0xXfhLGe) | 2:46 | 2022-02-11 | 2022-04-29 |
 | [Lightning in a Mason Jar](https://open.spotify.com/track/4EEDM81KAdPvmD4VLXhPo3) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Jesus and Jesse James](https://open.spotify.com/album/0oQWHsX2T5q1JcYLtOJWDM) | 3:50 | 2023-07-07 | 2023-09-02 |
 | [Lightning in July \(Prairie Fire\)](https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas / Lightning in July \(Prairie Fire\)](https://open.spotify.com/album/4sb2phigQoxyIkRU9kSMYQ) | 4:02 | 2024-08-09 | 2024-09-14 |
+| [Lightning Speed](https://open.spotify.com/track/793pyZGXnMMaEh0keDx3YC) | [Timmy McKeever](https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N) | [Devils & Angels](https://open.spotify.com/album/53cV2vEr77UVOI2PwQNo0u) | 4:09 | 2025-01-08 |  |
 | [Like a Broken Record](https://open.spotify.com/track/3yL9Tp6I8SRb2hzBVwBQpL) | [Gracee Shriver](https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1) | [Like a Broken Record](https://open.spotify.com/album/3Kq692hrHkTk8EBqpN2b5w) | 3:39 | 2022-03-18 | 2022-03-26 |
 | [Like Home](https://open.spotify.com/track/1DRwtey1bIxUNn5NZbISU4) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2), [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Like Home](https://open.spotify.com/album/6QVWxWlFWC1aqloCiR8UYv) | 3:20 | 2022-05-13 | 2022-07-09 |
 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 | 2022-05-06 | 2022-05-20 |

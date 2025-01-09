@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,590 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,604 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 73 | [C'est la vie](https://open.spotify.com/track/0JXcCXu1MGlMg7UBsbAv2z) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [C'est la vie](https://open.spotify.com/album/50HT256QPt4DIkxnLZps0e) | 3:14 |
 | 74 | [Boldogtalanság](https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Boldogtalanság](https://open.spotify.com/album/61nJQwXqRRvAcvWWsclK18) | 3:06 |
 | 75 | [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 |
-| 76 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
-| 77 | [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 |
+| 76 | [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 |
+| 77 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
 | 78 | [KINT VAGYOK A SORON](https://open.spotify.com/track/61lwlMPrt7VfUsVDjTWJF2) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 3:04 |
 | 79 | [15](https://open.spotify.com/track/3bccJlU6zh1SZ79jvduQ06) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:24 |
 | 80 | [Gyufa a lángon](https://open.spotify.com/track/0NlXimeK63kcIg51nnfY0W) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Gyufa a lángon](https://open.spotify.com/album/5Q6M1tY1pBE7tcqHMGO6h4) | 2:56 |

@@ -4,7 +4,7 @@
 
 > und macht laune
 
-267 songs - 12 hr 28 min
+268 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bei Nacht](https://open.spotify.com/track/2hEV30dObDzShJ3MbR9mGQ) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Bei Nacht](https://open.spotify.com/album/7nYEQwOK9T1EupUwsqVba5) | 2:36 | 2023-07-21 | 2023-09-06 |
 | [BELOHNEN](https://open.spotify.com/track/5aMvdnOSZxslL2I083yxvR) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [BELOHNEN](https://open.spotify.com/album/21Qru59PSvQEdVEKCQ4ZeC) | 2:10 | 2024-10-10 | 2024-12-10 |
 | [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 | 2023-11-10 | 2023-11-25 |
+| [Biertornado](https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L) | [PA69](https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h) | [Biertornado](https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK) | 3:38 | 2024-12-16 |  |
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2023-07-21 |  |
 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 | 2023-07-21 |  |
 | [BIKINI GRELL](https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [BIKINI GRELL](https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM) | 2:03 | 2024-03-06 |  |
@@ -154,7 +155,7 @@
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2023-08-11 | 2023-11-18 |
 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-05-01 |  |
 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2023-07-28 | 2024-05-11 |
-| [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 | 2024-05-01 |  |
+| [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 | 2024-05-01 | 2025-01-09 |
 | [Mamma Mia \(feat\. Mentissa\) \- Techno Mix](https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Mamma Mia \(feat\. Mentissa\) \[Techno Mix\]](https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf) | 3:20 | 2024-09-02 |  |
 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-06-11 | 2024-09-01 |
 | [Maneater](https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Maneater](https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw) | 2:34 | 2023-07-21 |  |

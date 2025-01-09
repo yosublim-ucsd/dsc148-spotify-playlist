@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Donovan Mitchell and Shai Gilgeous\-Alexander
 
-767 songs - 1 day 15 hr 40 min
+768 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [Just Do It](https://open.spotify.com/track/2tp6wkprabKNoIXi6XCc27) | [Jaylen Brown](https://open.spotify.com/artist/65pmmi5k1k9xeT8IQ8N9Wi), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Just Do It](https://open.spotify.com/album/1GwXAD16lCjCVSRkAnqCjN) | 3:45 | 2024-10-25 | 2024-11-02 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-10-21 |  |
 | [Jwett](https://open.spotify.com/track/6kEMoHRKZWc0JZKLijIjVh) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Jwett](https://open.spotify.com/album/4nva8ngqJypVALqkcZSPOG) | 2:44 | 2024-11-08 |  |
-| [Kaboom](https://open.spotify.com/track/05CkiUUE3PZz1s1Hv4gevH) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [The Reaper](https://open.spotify.com/album/5DyuTZUXgZBk40wy03M17o) | 2:31 | 2024-08-23 |  |
+| [Kaboom](https://open.spotify.com/track/05CkiUUE3PZz1s1Hv4gevH) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [The Reaper](https://open.spotify.com/album/5DyuTZUXgZBk40wy03M17o) | 2:31 | 2024-08-23 | 2025-01-09 |
 | [KARMA](https://open.spotify.com/track/5m5cGJxI82Qa91JELoI4pF) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:07 | 2024-07-12 | 2024-07-19 |
 | [Keep Calling](https://open.spotify.com/track/44p5ZWDBSppOoABrxoH5jU) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Keep Calling](https://open.spotify.com/album/64fH0Mdf8BZGAw3ijFJTLs) | 2:36 | 2022-12-09 | 2023-02-18 |
 | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/track/68ccsqXPhYGGTQ1RVDDtOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Keep Dissing 2 \(with Lil Durk\)](https://open.spotify.com/album/5Xt2jd95PhUWTLXoy2pyJN) | 2:53 | 2022-07-29 | 2023-06-09 |
@@ -710,6 +710,7 @@
 | [Turks \(feat\. Travis Scott\)](https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Turks](https://open.spotify.com/album/2nfOFXxNyf61geA17cW6e6) | 2:41 | 2021-09-02 | 2024-07-13 |
 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 | 2023-07-20 | 2023-09-02 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-23 |  |
+| [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 | 2025-01-08 |  |
 | [Tweakin \(feat\. Future\)](https://open.spotify.com/track/15kQL3Jyd1yeFzVUnAaT8P) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Tweakin \(feat\. Future\)](https://open.spotify.com/album/4o0RQNBivFc7JuxzLT9Kqs) | 3:03 | 2021-09-02 | 2023-03-15 |
 | [Tweaking \(feat\. Vory\)](https://open.spotify.com/track/0OOQ6JTTFaWIoUWc6r33w4) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:17 | 2024-10-25 | 2024-11-02 |
 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 | 2021-09-02 | 2022-06-11 |

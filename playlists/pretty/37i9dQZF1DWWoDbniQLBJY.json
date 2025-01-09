@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Chris Lebron & Manuel Turizo",
-  "num_followers": 1894214,
+  "num_followers": 1894160,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,18 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Acoustic Sessions #1",
-        "url": "https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR"
+        "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+        "url": "https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS"
       },
       "artists": [
         {
-          "name": "NOREH",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Maquillaje (Acoustic)",
-      "url": "https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH"
+      "duration_ms": 192922,
+      "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
+      "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -579,18 +575,22 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
-        "url": "https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS"
+        "name": "Acoustic Sessions #1",
+        "url": "https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "NOREH",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 192922,
-      "name": "Donde Est\u00e1s - Live from Spotify Green Screen",
-      "url": "https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5"
+      "duration_ms": 184000,
+      "name": "Maquillaje (Acoustic)",
+      "url": "https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Un Chingo",
-        "url": "https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT"
-      },
-      "artists": [
-        {
-          "name": "Carlos Neda",
-          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
-        }
-      ],
-      "duration_ms": 177285,
-      "name": "Un Chingo",
-      "url": "https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Soldadito de Hierro",
         "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
       },
@@ -659,22 +643,18 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "NUEVE",
-        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+        "name": "Un Chingo",
+        "url": "https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Carlos Neda",
+          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
         }
       ],
-      "duration_ms": 208057,
-      "name": "EL LOBBY",
-      "url": "https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ"
+      "duration_ms": 177285,
+      "name": "Un Chingo",
+      "url": "https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -695,6 +675,26 @@
       "duration_ms": 216960,
       "name": "Universo Amor",
       "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "NUEVE",
+        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "EL LOBBY",
+      "url": "https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Natalia Lafourcade (Spotify Session)",
-        "url": "https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 280080,
-      "name": "Nunca Es Suficiente - Spotify Session",
-      "url": "https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 258412,
       "name": "Volv\u00ed a Nacer - Live from Spotify",
       "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Natalia Lafourcade (Spotify Session)",
+        "url": "https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 280080,
+      "name": "Nunca Es Suficiente - Spotify Session",
+      "url": "https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Cuanto antes (feat. Lali)",
-        "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 226844,
-      "name": "Cuanto antes (feat. Lali)",
-      "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 205177,
       "name": "Me Haces Muy Bien - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "Cuanto antes (feat. Lali)",
+        "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 226844,
+      "name": "Cuanto antes (feat. Lali)",
+      "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
     },
     {
       "added_at": "2024-12-13 05:00:32",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
+        "name": "Cenizas y Miel",
+        "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
+      },
+      "artists": [
+        {
+          "name": "Pachar\u00e1",
+          "url": "https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI"
+        }
+      ],
+      "duration_ms": 191474,
+      "name": "Cenizas y Miel",
+      "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
         "name": "Underdog (Acoustic Version)",
         "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
       },
@@ -1627,38 +1643,6 @@
     {
       "added_at": "2024-12-13 05:00:32",
       "album": {
-        "name": "Cenizas y Miel",
-        "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
-      },
-      "artists": [
-        {
-          "name": "Pachar\u00e1",
-          "url": "https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI"
-        }
-      ],
-      "duration_ms": 191474,
-      "name": "Cenizas y Miel",
-      "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
-        "name": "escrita (deluxe)",
-        "url": "https://open.spotify.com/album/6dIqmHcuEqEj0CTLLm3Aiv"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 206494,
-      "name": "m\u00e1ndame un beso",
-      "url": "https://open.spotify.com/track/46fedM2fTd59tUabilqlUk"
-    },
-    {
-      "added_at": "2024-12-13 05:00:32",
-      "album": {
         "name": "Souvenir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 198213,
       "name": "Souvenir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
+    },
+    {
+      "added_at": "2024-12-13 05:00:32",
+      "album": {
+        "name": "escrita (deluxe)",
+        "url": "https://open.spotify.com/album/6dIqmHcuEqEj0CTLLm3Aiv"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 206494,
+      "name": "m\u00e1ndame un beso",
+      "url": "https://open.spotify.com/track/46fedM2fTd59tUabilqlUk"
     },
     {
       "added_at": "2024-12-13 05:00:32",

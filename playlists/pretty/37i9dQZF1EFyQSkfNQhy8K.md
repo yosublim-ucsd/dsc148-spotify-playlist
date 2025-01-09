@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,626 likes - 161 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,625 likes - 161 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 130 | [Catira](https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Catira](https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY) | 3:04 |
 | 131 | [Tokio](https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 |
 | 132 | [Sandunga](https://open.spotify.com/track/7EDPfx0FpzEU6eKnHKqyCU) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Sandunga](https://open.spotify.com/album/26svn8qJxkSRCrCVFXIA0F) | 2:49 |
-| 133 | [No Voy A Cambiar](https://open.spotify.com/track/6mflYV4snpVRc7SLkeb80n) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Voy A Cambiar](https://open.spotify.com/album/1rtdyipqp4TCLicTHf9gp5) | 4:02 |
-| 134 | [Me Lo Merezco \- Versión Acústica \- En Las Nubes](https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \- Versión Acústica \(En Las Nubes\)](https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD) | 3:14 |
+| 133 | [Me Lo Merezco \- Versión Acústica \- En Las Nubes](https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \- Versión Acústica \(En Las Nubes\)](https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD) | 3:14 |
+| 134 | [No Voy A Cambiar](https://open.spotify.com/track/6mflYV4snpVRc7SLkeb80n) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Voy A Cambiar](https://open.spotify.com/album/1rtdyipqp4TCLicTHf9gp5) | 4:02 |
 | 135 | [Trago Al Pecho](https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Trago Al Pecho](https://open.spotify.com/album/1ZgHIkKZSnxj0DbBKmOdv4) | 2:48 |
 | 136 | [Tu Canción](https://open.spotify.com/track/7luRwvd1VnAkqzA9cNQ0ad) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 2:50 |
 | 137 | [Karma](https://open.spotify.com/track/4GhOUUmIG4HggOP6IKqgRl) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRO NIVEL](https://open.spotify.com/album/3DGyBlglOLup5uVRKy8uSd) | 2:29 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 160 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 161 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbmQqgAAAAB4HXFDL26c6QNIWW5WWF7F`
+Snapshot ID: `AbmWSgAAAAC0jXzgWF43/lAvS1Nj1ev4`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,869 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,865 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
+| 1 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
 | 2 | [Längesen](https://open.spotify.com/track/40yRQySDfSc5I6SoZzRLxZ) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Längesen](https://open.spotify.com/album/0Fo160cTKdluGDAueV4aAy) | 2:39 |
 | 3 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 |
 | 4 | [Badass High School Band](https://open.spotify.com/track/7CnkuNF0MUZ72hOJOd2KLG) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Badass High School Band](https://open.spotify.com/album/5wNBPhKhVXv1yOLB1mFxC4) | 3:54 |

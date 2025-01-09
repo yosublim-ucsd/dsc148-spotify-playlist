@@ -1,6 +1,6 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Carrie Underwood",
-  "num_followers": 112319,
+  "num_followers": 112355,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Stop Draggin' Your Boots",
-        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Stop Draggin' Your Boots",
-      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "Love Ain't",
         "url": "https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0"
       },
@@ -1459,22 +1443,34 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Throw It Back (feat. Keith Urban)",
-        "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
+        "name": "Stop Draggin' Your Boots",
+        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
       },
       "artists": [
         {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 188936,
-      "name": "Throw It Back (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
+      "duration_ms": 164347,
+      "name": "Stop Draggin' Your Boots",
+      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "Almost Maybes",
+        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179152,
+      "name": "Almost Maybes",
+      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1495,18 +1491,22 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Almost Maybes",
-        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+        "name": "Throw It Back (feat. Keith Urban)",
+        "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 179152,
-      "name": "Almost Maybes",
-      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
+      "duration_ms": 188936,
+      "name": "Throw It Back (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T"
     },
     {
       "added_at": "2024-07-15 15:07:12",

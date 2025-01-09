@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 191549,
+  "num_followers": 191641,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zuy7PAAAAAD0yBrhnr/RjDanBH+C9B45",
   "tracks": [
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Spring Island",
-        "url": "https://open.spotify.com/album/4JeLdGuCEO9SF9SnFa9LBh"
-      },
-      "artists": [
-        {
-          "name": "Delta Sleep",
-          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "The Detail",
-      "url": "https://open.spotify.com/track/1ExXxnndA4qMDA0SK8KnLM"
-    },
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 382600,
       "name": "Athens, France",
       "url": "https://open.spotify.com/track/4gb6bKMg61GGfbhPTifP8A"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Spring Island",
+        "url": "https://open.spotify.com/album/4JeLdGuCEO9SF9SnFa9LBh"
+      },
+      "artists": [
+        {
+          "name": "Delta Sleep",
+          "url": "https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "The Detail",
+      "url": "https://open.spotify.com/track/1ExXxnndA4qMDA0SK8KnLM"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Here comes a new challenger!",
-        "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
+        "name": "potage",
+        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
       },
       "artists": [
         {
-          "name": "Chinese Football",
-          "url": "https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk"
+          "name": "tricot",
+          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
         }
       ],
-      "duration_ms": 310432,
-      "name": "Electronic Girl",
-      "url": "https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW"
+      "duration_ms": 246915,
+      "name": "potage",
+      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "potage",
-        "url": "https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu"
+        "name": "Here comes a new challenger!",
+        "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
       },
       "artists": [
         {
-          "name": "tricot",
-          "url": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
+          "name": "Chinese Football",
+          "url": "https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk"
         }
       ],
-      "duration_ms": 246915,
-      "name": "potage",
-      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa"
+      "duration_ms": 310432,
+      "name": "Electronic Girl",
+      "url": "https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Ten-Day Interval",
+      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "The Endless Shimmering",
         "url": "https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 280235,
       "name": "firebird",
       "url": "https://open.spotify.com/track/1MYCp8HhMJfQuYqiHruJ7N"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Ten-Day Interval",
-      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "split",
-        "url": "https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN"
-      },
-      "artists": [
-        {
-          "name": "archipi\u00e9lagos",
-          "url": "https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d"
-        }
-      ],
-      "duration_ms": 225334,
-      "name": "minet",
-      "url": "https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Stegosauro",
         "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+        "name": "split",
+        "url": "https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN"
       },
       "artists": [
         {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+          "name": "archipi\u00e9lagos",
+          "url": "https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d"
         }
       ],
-      "duration_ms": 173106,
-      "name": "Los Bajos Fondos",
-      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
+      "duration_ms": 225334,
+      "name": "minet",
+      "url": "https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "World Class Listening Problem",
-        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
       "artists": [
         {
-          "name": "Don Caballero",
-          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
         }
       ],
-      "duration_ms": 316213,
-      "name": "Railroad Cancellation",
-      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
+      "duration_ms": 173106,
+      "name": "Los Bajos Fondos",
+      "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -691,6 +675,22 @@
       "duration_ms": 234813,
       "name": "Echolocation",
       "url": "https://open.spotify.com/track/51Vs7KeraqZwfR5OQLuaeI"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "World Class Listening Problem",
+        "url": "https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk"
+      },
+      "artists": [
+        {
+          "name": "Don Caballero",
+          "url": "https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C"
+        }
+      ],
+      "duration_ms": 316213,
+      "name": "Railroad Cancellation",
+      "url": "https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Retcon",
         "url": "https://open.spotify.com/album/5Jc8bTdM6qeNF0debAlSjR"
       },
@@ -775,22 +759,6 @@
       "duration_ms": 256629,
       "name": "Hungover Tehran",
       "url": "https://open.spotify.com/track/4Ozb0oXQEVavh1er60QOtx"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Puentes",
-        "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
-      },
-      "artists": [
-        {
-          "name": "Helices",
-          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Crucemos los Puentes...",
-      "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -811,6 +779,38 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Puentes",
+        "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
+      },
+      "artists": [
+        {
+          "name": "Helices",
+          "url": "https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Crucemos los Puentes...",
+      "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Naufragio",
         "url": "https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z"
       },
@@ -823,38 +823,6 @@
       "duration_ms": 174000,
       "name": "Baile Amargo",
       "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Beow",
-        "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
-      },
-      "artists": [
-        {
-          "name": "Suffer Like G Did",
-          "url": "https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf"
-        }
-      ],
-      "duration_ms": 208892,
-      "name": "Beow",
-      "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Yum !!",
-        "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
-      },
-      "artists": [
-        {
-          "name": "standards",
-          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
-        }
-      ],
-      "duration_ms": 188129,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -875,6 +843,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Beow",
+        "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
+      },
+      "artists": [
+        {
+          "name": "Suffer Like G Did",
+          "url": "https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf"
+        }
+      ],
+      "duration_ms": 208892,
+      "name": "Beow",
+      "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 395146,
       "name": "D'arcy",
       "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Yum !!",
+        "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
+      },
+      "artists": [
+        {
+          "name": "standards",
+          "url": "https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe"
+        }
+      ],
+      "duration_ms": 188129,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Magyarorsz\u00e1g vagy hal\u00e1l",
-        "url": "https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M"
-      },
-      "artists": [
-        {
-          "name": "Hungr\u00eda",
-          "url": "https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx"
-        }
-      ],
-      "duration_ms": 337006,
-      "name": "Queso",
-      "url": "https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "I left work on my way home december 1st 1955",
         "url": "https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 228440,
       "name": "Hornet Vision",
       "url": "https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Magyarorsz\u00e1g vagy hal\u00e1l",
+        "url": "https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M"
+      },
+      "artists": [
+        {
+          "name": "Hungr\u00eda",
+          "url": "https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx"
+        }
+      ],
+      "duration_ms": 337006,
+      "name": "Queso",
+      "url": "https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz"
     },
     {
       "added_at": "2024-09-20 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2517,
+  "num_followers": 2518,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAFfw4UPxK9FBzHIFLe8qHq",
+  "snapshot_id": "Z3xugAAAAABPC+08LOk05WI6iPXM6rDY",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festival Grupero Vol. I",
-        "url": "https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc"
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 145853,
-      "name": "El esdr\u00fajulo",
-      "url": "https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW"
+      "duration_ms": 182973,
+      "name": "Pinto Raya",
+      "url": "https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+        "name": "Festival Grupero Vol. I",
+        "url": "https://open.spotify.com/album/6YoH7XzcfCh5szR3sOC9Jc"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Pinto Raya",
-      "url": "https://open.spotify.com/track/1SaWeuHTTtX3bmLx8dvvGY"
+      "duration_ms": 145853,
+      "name": "El esdr\u00fajulo",
+      "url": "https://open.spotify.com/track/595aNIZhkh4pjBGPiigqwW"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
       "duration_ms": 156275,
       "name": "Caderas Lait",
       "url": "https://open.spotify.com/track/01OXvmhM7T5D1nayJ3YEko"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "La Buenota",
+      "url": "https://open.spotify.com/track/0yaXCQ3HblOcM1swa7mN3s"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "La Buenota",
-      "url": "https://open.spotify.com/track/0yaXCQ3HblOcM1swa7mN3s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pal Bailador (Pasito Tun Tun)",
         "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "A Pesar De Todo",
-      "url": "https://open.spotify.com/track/2DZmRvxjFzZZv6BnByxsAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 138480,
       "name": "La chispa",
       "url": "https://open.spotify.com/track/5frBieEOpYDKSmYByQeQ4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "A Pesar De Todo",
+      "url": "https://open.spotify.com/track/2DZmRvxjFzZZv6BnByxsAv"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Acariciame",
-      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 151066,
       "name": "All\u00e1 en el oeste",
       "url": "https://open.spotify.com/track/2M7a8eODNHtBwtmi69yCa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Acariciame",
+      "url": "https://open.spotify.com/track/4D4T9dfFC2D31OvolyhM3R"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "Con un poquito de amor",
+      "url": "https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dame Chamoy",
         "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 146538,
       "name": "Dame Chamoy",
       "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Con un poquito de amor",
-      "url": "https://open.spotify.com/track/241BmTaBzj3c96kzcZH34O"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Como un Tatuaje",
-      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 179826,
       "name": "Clases de baile",
       "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Como un Tatuaje",
+      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
     },
     {
       "added_at": null,

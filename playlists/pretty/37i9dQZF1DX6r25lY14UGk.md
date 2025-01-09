@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,352 likes - 299 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,431 likes - 299 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 101 | [Lyla in the Loop Theme Song](https://open.spotify.com/track/7nGboqSUZN4wulhkTWkzh9) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Lyla in the Loop Theme Song](https://open.spotify.com/album/0QJ3tPei9ccVhIID8YhzkD) | 1:16 |
 | 102 | [On Top of Spaghetti](https://open.spotify.com/track/1DQuCk1DJjjxrSXc34Hmni) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [On Top of Spaghetti](https://open.spotify.com/album/7JOdBzuwWb25aEDz3HmGcm) | 2:10 |
 | 103 | [Tom Tom The Plumber's Son](https://open.spotify.com/track/0N93qWW4ODc16gXdTGwc0p) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Tom Tom the Plumber’s Son](https://open.spotify.com/album/66UC2JVcervp4CelY5wBhm) | 1:42 |
-| 104 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/4pIROEObzShhsBdOiLg58K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [L\-O\-V\-E](https://open.spotify.com/album/5d6LDEZxtzD33l9m6HR2zM) | 2:32 |
+| 104 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/4pIROEObzShhsBdOiLg58K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg) | [L\-O\-V\-E](https://open.spotify.com/album/5d6LDEZxtzD33l9m6HR2zM) | 2:32 |
 | 105 | [Go Go Go](https://open.spotify.com/track/2u72fa8ggNbLzMMuCUVkUF) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Blaze and the Monster Machines](https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l) | [Rockin’ Ride\-Along Songs Vol\. 5](https://open.spotify.com/album/6UCuL9pdhRVeJVLVZ7f33Z) | 0:31 |
 | 106 | [The Other Side](https://open.spotify.com/track/0uHYIeqpt6VvjdG8oozms3) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [The Other Side](https://open.spotify.com/album/5PiipjffGECiDVh1KxCfgY) | 3:06 |
 | 107 | [Alphabet Rhyme](https://open.spotify.com/track/4dLleJwbmymrg5uM0O7esV) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Alphabet Rhyme](https://open.spotify.com/album/0UYsaQb7WRd0C0ua1biEJC) | 2:52 |

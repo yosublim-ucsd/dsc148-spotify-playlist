@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,135 songs - 4 day 16 hr 58 min
+2,136 songs - 4 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Champion](https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Champion](https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl) | 3:10 | 2021-03-27\* | 2021-06-27 |
 | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Chaque seconde \(feat\. M\. Pokora\)](https://open.spotify.com/album/6tksgNrY872kjEs4q2v3Um) | 2:45 | 2024-11-02 | 2024-11-09 |
 | [Chemin d'or](https://open.spotify.com/track/3rkyVQEgaDR5nZvW10QOrQ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 3:32 | 2023-09-08 | 2024-05-18 |
+| [Chemin d'or](https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/7kUEtGrWj083U6ppOmGAeQ) | 3:32 | 2025-01-08 |  |
 | [Chemin de diamant](https://open.spotify.com/track/2TptptixWihgnk1jOEbnMZ) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:40 | 2024-02-17 | 2024-02-19 |
 | [Chez nous](https://open.spotify.com/track/2W6Wa9WQYKskMyCk35zyR1) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:07 | 2022-06-11 | 2022-06-17 |
 | [Chicha kaloud](https://open.spotify.com/track/7aAGyzvSuNBaXQWK8TeZIG) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Kalif Hardcore](https://open.spotify.com/artist/12rqcxsx28NPNRwPOEBxYG) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:43 | 2021-10-10 | 2021-10-14 |
@@ -1141,7 +1142,7 @@
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-25 | 2024-12-28 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-12-25 | 2023-12-30 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [The Classic Christmas Album](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) | 2:35 | 2024-12-25 | 2024-12-28 |
-| [Let's Go](https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [Let's Go](https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6) | 2:39 | 2025-01-05 |  |
+| [Let's Go](https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [Let's Go](https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6) | 2:39 | 2025-01-05 | 2025-01-09 |
 | [LETTRE À UN OPPS](https://open.spotify.com/track/7LQxyZwcn4Ryq4Z0qllQd3) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 2:58 | 2022-07-02 | 2022-07-15 |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2021-08-02 | 2021-09-05 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-06-12 | 2021-08-01 |

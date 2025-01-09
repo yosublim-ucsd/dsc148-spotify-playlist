@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 50415,
+  "num_followers": 50439,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABuwxeO7wdx7SmRuC32mi2c",
+  "snapshot_id": "Z3xugAAAAAAs2hMtrf5MgAYEVDQAsQSC",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 287533,
-      "name": "La Batalla",
-      "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Hope (The House Sessions)",
         "url": "https://open.spotify.com/album/0L6S4hhgpSsy59QmMKUnvS"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 254618,
       "name": "I BELIEVE \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/6B7ptdnKOpm4I4hPXkZWQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 287533,
+      "name": "La Batalla",
+      "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
     },
     {
       "added_at": null,

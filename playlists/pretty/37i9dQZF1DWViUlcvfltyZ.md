@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie, e punk dall'Italia 🎸 chiaroscuro in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,924 likes - 96 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,931 likes - 96 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

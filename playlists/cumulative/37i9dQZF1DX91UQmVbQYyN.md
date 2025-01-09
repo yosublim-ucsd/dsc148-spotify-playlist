@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Remi Wolf
 
-525 songs - 1 day 7 hr 53 min
+526 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bada Bing Bada Boom \(feat\. Zag\)](https://open.spotify.com/track/1lUD1nH1Kegd1cfFnRmi5c) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf), [Zag](https://open.spotify.com/artist/0K0shHKytYy0r1v29fK719) | [One BeyonD](https://open.spotify.com/album/5TPLQgRQsuInJAMo9mHUH1) | 3:12 | 2021-09-03 | 2022-04-21 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2022-03-08 |  |
 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2021-09-03 | 2022-03-10 |
+| [Be Careful With Yourself](https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [PRE PLEASURE](https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5) | 3:47 | 2024-09-30 |  |
 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 | 2022-03-08 | 2024-04-19 |
 | [Be Sweet](https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Be Sweet](https://open.spotify.com/album/1gEdYwz5hkFchccCnPlVyu) | 3:15 | 2022-02-11 | 2022-07-29 |
 | [Beautiful Women](https://open.spotify.com/track/6GgJgMasppfEm55mqVw4bh) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [SARM](https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP) | [The Light, The Water](https://open.spotify.com/album/2jMhmotXWNRgU8MQHD8tZL) | 3:57 | 2022-03-08 | 2022-04-21 |
@@ -219,7 +220,7 @@
 | [I Feel Alive](https://open.spotify.com/track/5BL5JIhruwOhrRZd3Djoqs) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [I Feel Alive](https://open.spotify.com/album/0aFqZJGOa5R2wETNRQPW8m) | 2:34 | 2022-03-08 | 2022-07-28 |
 | [I Follow Rivers](https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:48 | 2022-03-08 | 2024-07-25 |
 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-09-03 | 2022-07-29 |
-| [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 | 2024-09-30 |  |
+| [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 | 2024-09-30 | 2025-01-09 |
 | [i think i wanna be alone](https://open.spotify.com/track/0uORqw0i7S97SG4dwb4Ett) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 1:42 | 2022-03-08 | 2022-11-29 |
 | [i think i wanna be alone](https://open.spotify.com/track/1md2KOmyjGwQxuy5W39Lsz) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [i think i wanna be alone](https://open.spotify.com/album/0QhJHjBtJmNy8sfdQU7XoJ) | 1:42 | 2021-09-03 | 2022-07-29 |
 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2024-03-08 |  |

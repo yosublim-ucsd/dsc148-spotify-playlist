@@ -1,6 +1,6 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 563739,
+  "num_followers": 563803,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
     },
     {
+      "added_at": "2024-03-18 14:05:32",
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 129686,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC"
+    },
+    {
       "added_at": "2024-02-01 12:54:41",
       "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
@@ -367,22 +383,6 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
-    },
-    {
-      "added_at": "2024-03-18 14:05:32",
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 129686,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "Loved By You (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Loved By You (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -631,30 +631,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Not So Bad (feat. Emie)",
-        "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
-      },
-      "artists": [
-        {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
-        },
-        {
-          "name": "Ilkay Sencan",
-          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 153696,
-      "name": "Not So Bad (feat. Emie)",
-      "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "Forever Yours (Avicii Tribute)",
         "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 193846,
       "name": "Forever Yours - Avicii Tribute",
       "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Not So Bad (feat. Emie)",
+        "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 153696,
+      "name": "Not So Bad (feat. Emie)",
+      "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "REMEDY",
+        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "REMEDY",
+      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Drown (feat. Clinton Kane)",
         "url": "https://open.spotify.com/album/7rU4vsRIhRRfMt3qy6ADND"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "REMEDY",
-        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 190295,
-      "name": "REMEDY",
-      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -771,22 +787,6 @@
       "duration_ms": 192111,
       "name": "Tired",
       "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 140011,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "Body Back (feat. Maia Wright)",
         "url": "https://open.spotify.com/album/3VCPQRcHVxiVaePlQ6TwoF"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 214634,
       "name": "Body Back (feat. Maia Wright)",
       "url": "https://open.spotify.com/track/1z1XegUChLLQfcbtIK8ABn"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 140011,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt"
     },
     {
       "added_at": "2024-02-01 12:54:41",

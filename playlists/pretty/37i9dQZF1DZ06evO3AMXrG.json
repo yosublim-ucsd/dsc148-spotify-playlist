@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 237760,
+  "num_followers": 237802,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABqCP0NhBq2dqJCR6PIHsg0",
+  "snapshot_id": "Z3xugAAAAAAFQkiaWu3LQg4DBbYHS1jw",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
       },
       "artists": [
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 229150,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN"
+      "duration_ms": 283315,
+      "name": "Llevarte All\u00ed",
+      "url": "https://open.spotify.com/track/1SNEzBEXudD7IOSFE5MpV6"
     },
     {
       "added_at": null,
@@ -303,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/52NO2mK3NAWxWbDzYicN9L"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
       },
       "artists": [
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 283315,
-      "name": "Llevarte All\u00ed",
-      "url": "https://open.spotify.com/track/1SNEzBEXudD7IOSFE5MpV6"
+      "duration_ms": 229150,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN"
     },
     {
       "added_at": null,

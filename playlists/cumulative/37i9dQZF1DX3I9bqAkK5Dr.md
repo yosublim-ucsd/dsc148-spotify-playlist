@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-320 songs - 19 hr 22 min
+321 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Befikr Maama](https://open.spotify.com/track/4BkVCo1tvqkr9Px00GISlZ) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Befikr Maama](https://open.spotify.com/album/5Gn4r9bX0z3jYM1oY6B7h5) | 2:58 | 2023-05-16 | 2024-06-22 |
 | [Bhoo Bandham](https://open.spotify.com/track/4UXkFdFmKnkZP6gcF3rb3a) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Bhoo Bandham](https://open.spotify.com/album/1BpORTZsYI1axbf7yr5DBM) | 5:38 | 2023-11-07 | 2023-12-02 |
 | [Boys in the house](https://open.spotify.com/track/71bnrJcJTmnagiUXwT2ufb) | [YAAGAA](https://open.spotify.com/artist/6KgBYhkCXJeXGNvjftgWli), [Chemical](https://open.spotify.com/artist/1ngYHrtbQo3JoFB41CoBEw), [Mrcury](https://open.spotify.com/artist/4gH70hduZlrIulKZrPlTFJ), [Rival Mob](https://open.spotify.com/artist/5D7JVa2CPpdbKz8Rq2BBXJ), [SOLAR SYSTEM](https://open.spotify.com/artist/4F3rOcOsFEINrkekhLfIwc) | [Boys in the house](https://open.spotify.com/album/5tIy1PWU6UwB1hMLTM1U7S) | 3:27 | 2024-01-22 | 2024-02-27 |
+| [BREAKUP ANTHEM \(Telugu\)](https://open.spotify.com/track/5CxU3JekhthyBQ31EhO5b3) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Kadali](https://open.spotify.com/artist/5xmlr03MWTYQSflITsHmpk), [Dongli Jumbo](https://open.spotify.com/artist/474cZcWdUhqXJzZUgCFgL9) | [BREAKUP ANTHEM \(Telugu\)](https://open.spotify.com/album/48Cc9ZangOt3U0mCducIMS) | 2:43 | 2025-01-08 |  |
 | [Bujji Pilla](https://open.spotify.com/track/0Ot37vSbeGkAVQi1mGqvou) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Bujji Pilla](https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ) | 4:35 | 2024-04-29 |  |
 | [Bullettu Bandi](https://open.spotify.com/track/4oBhE31sIakxf8bSPHuRT1) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Bullettu Bandi](https://open.spotify.com/album/6sapVBhAdDDnyElCsUwEwn) | 4:42 | 2022-07-18 | 2024-01-23 |
 | [Bulugu Sokkaa Pilagadu](https://open.spotify.com/track/7uZDuC1sW3YJ3iv7PVBGWX) | [Uma Neha](https://open.spotify.com/artist/2sRYoKkvb2apFZ58rb5717) | [Bulugu Sokkaa Pilagadu](https://open.spotify.com/album/0UftZb5FmjKiinWVIq79Nn) | 3:30 | 2023-07-03 | 2023-07-25 |

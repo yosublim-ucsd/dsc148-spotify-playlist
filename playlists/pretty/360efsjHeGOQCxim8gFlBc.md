@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 486 likes - 344 songs - 14 hr 37 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 487 likes - 344 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -419,6 +419,32 @@
     },
     {
       "album": {
+        "name": "BREAKUP ANTHEM (Telugu)",
+        "url": "https://open.spotify.com/album/48Cc9ZangOt3U0mCducIMS"
+      },
+      "artists": [
+        {
+          "name": "Anivee",
+          "url": "https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy"
+        },
+        {
+          "name": "Kadali",
+          "url": "https://open.spotify.com/artist/5xmlr03MWTYQSflITsHmpk"
+        },
+        {
+          "name": "Dongli Jumbo",
+          "url": "https://open.spotify.com/artist/474cZcWdUhqXJzZUgCFgL9"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163031,
+      "name": "BREAKUP ANTHEM (Telugu)",
+      "url": "https://open.spotify.com/track/5CxU3JekhthyBQ31EhO5b3"
+    },
+    {
+      "album": {
         "name": "Bujji Pilla",
         "url": "https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ"
       },

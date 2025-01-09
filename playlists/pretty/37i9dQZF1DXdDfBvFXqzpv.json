@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 107021,
+  "num_followers": 107080,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Hook Me Up",
         "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 255360,
       "name": "Untouched",
       "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "This Is Happening",
-        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 352003,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Black & Gold",
         "url": "https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 274426,
       "name": "Black & Gold",
       "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "This Is Happening",
+        "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 352003,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Stop This Flame",
-        "url": "https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 209407,
-      "name": "Stop This Flame",
-      "url": "https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Don't You Worry, Honey",
         "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 226587,
       "name": "&Run",
       "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Stop This Flame",
+        "url": "https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 209407,
+      "name": "Stop This Flame",
+      "url": "https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 220040,
       "name": "papi bones (feat. shygirl)",
       "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 350893,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 350893,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 266813,
       "name": "Goodbye Mr A",
       "url": "https://open.spotify.com/track/4spfRBAAdrMKR35lZWrgYF"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Postpone",
+      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "CTRL + ALT + DEL",
         "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+        "name": "Ticket To Ride",
+        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "KAWALA",
+          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
         }
       ],
-      "duration_ms": 245533,
-      "name": "Postpone",
-      "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
+      "duration_ms": 182066,
+      "name": "Ticket To Ride",
+      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 213000,
       "name": "We Got That Cool (feat. Afrojack & Icona Pop)",
       "url": "https://open.spotify.com/track/2cFK03sObtI6AK3QKeOT5g"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Ticket To Ride",
-        "url": "https://open.spotify.com/album/12uAbTxdZt1fKkHZVx5iCq"
-      },
-      "artists": [
-        {
-          "name": "KAWALA",
-          "url": "https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Ticket To Ride",
-      "url": "https://open.spotify.com/track/4AGjD3R8ch6JmvDLAwFw7P"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "A Little Deeper",
-        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
-      },
-      "artists": [
-        {
-          "name": "Ms. Dynamite",
-          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Dy-Na-Mi-Tee",
-      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Happy to You",
         "url": "https://open.spotify.com/album/6YeV0JWW7g8dDf78jFIe1e"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 223053,
       "name": "Paddling Out",
       "url": "https://open.spotify.com/track/0rfXn2iUwqQXzNvJgmcG6p"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "A Little Deeper",
+        "url": "https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn"
+      },
+      "artists": [
+        {
+          "name": "Ms. Dynamite",
+          "url": "https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Dy-Na-Mi-Tee",
+      "url": "https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI"
     },
     {
       "added_at": "2022-11-02 14:00:00",

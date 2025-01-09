@@ -1,6 +1,6 @@
 {
   "description": "The newest r&b drops, every week. Cover: Sasha Keable",
-  "num_followers": 1059753,
+  "num_followers": 1059862,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2024-12-20 05:52:07",
       "album": {
-        "name": "WHY (Remix)",
+        "name": "WHY (WhoJiggi Remix)",
         "url": "https://open.spotify.com/album/5idxlo4gWfsekThzevmGYW"
       },
       "artists": [
@@ -22,10 +22,14 @@
         {
           "name": "P90pope",
           "url": "https://open.spotify.com/artist/49lvi7sX6PjJVzxc7wkfsG"
+        },
+        {
+          "name": "WhoJiggi",
+          "url": "https://open.spotify.com/artist/65ouxpwU5hVjZ4dJQycQeY"
         }
       ],
       "duration_ms": 205925,
-      "name": "WHY - Remix",
+      "name": "WHY - WhoJiggi Remix",
       "url": "https://open.spotify.com/track/2ins2Q1ZLqwzSFjsygUaPV"
     },
     {

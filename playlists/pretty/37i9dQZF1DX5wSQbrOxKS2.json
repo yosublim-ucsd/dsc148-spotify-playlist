@@ -1,6 +1,6 @@
 {
   "description": "La discoth\u00e8que id\u00e9ale.",
-  "num_followers": 395223,
+  "num_followers": 395244,
   "original_name": "Quand la musique est bonne !",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-11-13 13:57:31",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
-      "added_at": "2024-11-13 13:57:31",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 237146,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
+    },
+    {
+      "added_at": "2024-11-13 13:57:31",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
       "added_at": "2024-11-13 13:57:31",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-11-13 13:57:31",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "Hey Ya!",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
-    },
-    {
-      "added_at": "2024-11-13 13:57:31",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 241688,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
+    },
+    {
+      "added_at": "2024-11-13 13:57:31",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Hey Ya!",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
     },
     {
       "added_at": "2024-11-13 13:57:31",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-11-13 13:57:31",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
-    },
-    {
-      "added_at": "2024-11-13 13:57:31",
-      "album": {
         "name": "Bigger, Better, Faster, More !",
         "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 295533,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "added_at": "2024-11-13 13:57:31",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
     },
     {
       "added_at": "2024-11-13 13:57:31",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-11-13 13:57:31",
       "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
-    },
-    {
-      "added_at": "2024-11-13 13:57:31",
-      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": "2024-11-13 13:57:31",
+      "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "added_at": "2024-11-13 13:57:31",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-11-13 13:57:31",
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 155973,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
-    },
-    {
-      "added_at": "2024-11-13 13:57:31",
-      "album": {
         "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
+    },
+    {
+      "added_at": "2024-11-13 13:57:31",
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 155973,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
     },
     {
       "added_at": "2024-11-13 13:57:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-11-13 13:57:31",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2024-11-13 13:57:31",
-      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2024-11-13 13:57:31",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2024-11-13 13:57:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-11-13 13:57:31",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Friday I'm In Love",
-      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
-    },
-    {
-      "added_at": "2024-11-13 13:57:31",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 271093,
       "name": "I Will Always Love You",
       "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "added_at": "2024-11-13 13:57:31",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Friday I'm In Love",
+      "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
     },
     {
       "added_at": "2024-11-13 13:57:31",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-11-13 13:57:31",
       "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
+    },
+    {
+      "added_at": "2024-11-13 13:57:31",
+      "album": {
         "name": "New Eyes",
         "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 193120,
       "name": "Baby Can I Hold You",
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
-    },
-    {
-      "added_at": "2024-11-13 13:57:31",
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
     },
     {
       "added_at": "2024-11-13 13:57:31",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-11-13 13:57:31",
       "album": {
-        "name": "The Wonderful World Of Sam Cooke",
-        "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 128786,
-      "name": "(What A) Wonderful World - Mono",
-      "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
-    },
-    {
-      "added_at": "2024-11-13 13:57:31",
-      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 284160,
       "name": "They Don't Care About Us",
       "url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv"
+    },
+    {
+      "added_at": "2024-11-13 13:57:31",
+      "album": {
+        "name": "The Wonderful World Of Sam Cooke",
+        "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 128786,
+      "name": "(What A) Wonderful World - Mono",
+      "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
     },
     {
       "added_at": "2024-11-13 13:57:31",

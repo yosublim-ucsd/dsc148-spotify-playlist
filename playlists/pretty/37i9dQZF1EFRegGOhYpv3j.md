@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 54 | [The Hard Way](https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 4:00 |
 | 55 | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y) | 2:49 |
 | 56 | [Lone Star](https://open.spotify.com/track/3SZ94PA3dLogWLvBEPD2dv) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:19 |
-| 57 | [love in the living room](https://open.spotify.com/track/2kZINzKJ48m68G97jlDm89) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 3:10 |
-| 58 | [good to be back](https://open.spotify.com/track/3Lv5kxgINqLLGM3ZoIHgRL) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:06 |
+| 57 | [good to be back](https://open.spotify.com/track/3Lv5kxgINqLLGM3ZoIHgRL) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:06 |
+| 58 | [love in the living room](https://open.spotify.com/track/2kZINzKJ48m68G97jlDm89) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 3:10 |
 | 59 | [Graveyard](https://open.spotify.com/track/59RcFW6SeIdpBU5ajKYaXa) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Graveyard](https://open.spotify.com/album/4KjljdBInnhpjCIXDHk4Jq) | 2:20 |
 | 60 | [That's Why \(You Love Me\)](https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 2:38 |
 | 61 | [mandela effect](https://open.spotify.com/track/6mvZMZaPix0TNCRYObsLI0) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz) | [less than three](https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX) | 2:52 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 65 | [Come Here Cowboy](https://open.spotify.com/track/2hBzDI176FXjOyCiNuvifG) | [Bunnie Xo](https://open.spotify.com/artist/56Dw1CLlqjQuQkBLm25hHP) | [Come Here Cowboy](https://open.spotify.com/album/4xeFm14IBvxCjYdOZutcAA) | 2:04 |
 | 66 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 
-Snapshot ID: `AbmQlgAAAABspIRNSZ6rIBstUz1agr/n`
+Snapshot ID: `AbmWcgAAAAA8T2rSjCil2cBISOb3PRQp`

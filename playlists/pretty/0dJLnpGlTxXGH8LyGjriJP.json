@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "AAAD466Kn/IFZDwlFZbqRI5oiFjXy75u",
+  "snapshot_id": "AAAD5eVpHwP1RMglVwfS3CpwZ7jaQQFZ",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -15467,6 +15467,50 @@
       "duration_ms": 190893,
       "name": "I Serve the Base",
       "url": "https://open.spotify.com/track/1Rq4GtIucW9CAcF8B6PAbW"
+    },
+    {
+      "added_at": "2025-01-08 07:00:03",
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
+      "url": "https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1"
+    },
+    {
+      "added_at": "2025-01-08 17:59:06",
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Outfit (with 21 Savage)",
+      "url": "https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,198 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,208 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 18 | [HEETS \(feat\. Geolier\)](https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [CON I MIEI OCCHI](https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR) | 2:57 |
 | 19 | [IO T’O GIUR’ \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 3:20 |
 | 20 | [PENTOTHAL](https://open.spotify.com/track/3WS0TcakSQfE0t1fFTQwDW) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:47 |
-| 21 | [Stanza](https://open.spotify.com/track/2EBlqIr8yZLUqTiWtB9Tgo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:18 |
-| 22 | [Donna](https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 2:59 |
+| 21 | [Donna](https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 2:59 |
+| 22 | [Stanza](https://open.spotify.com/track/2EBlqIr8yZLUqTiWtB9Tgo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:18 |
 | 23 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
 | 24 | [Perdere ‘a capa \(feat\. Geolier\)](https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:40 |
 | 25 | [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Status \(Inediti, Rarità & Live\)](https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq) | 3:46 |

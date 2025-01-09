@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 874938,
+  "num_followers": 875004,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABkvQ4/QPSqPmL4Q1D1c+jY",
+  "snapshot_id": "Z3xugAAAAACaxcoHoDPamLHUoKgjBPN0",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 279306,
+      "name": "Moment 4 Life",
+      "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Moment 4 Life",
-      "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Woman Like Me (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Gang (Deluxe Version)",
         "url": "https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 284586,
       "name": "Tapout",
       "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Woman Like Me (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
     },
     {
       "added_at": null,
@@ -1091,22 +1091,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (Tenth Anniversary Edition)",
-        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
         },
         {
-          "name": "Parker Ighile",
-          "url": "https://open.spotify.com/artist/3cjyqM4lb0grqM0j4opTXM"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Remember Me (feat. Parker Ighile)",
-      "url": "https://open.spotify.com/track/0fQXczzdQSuaDhzSZ6SITV"
+      "duration_ms": 221971,
+      "name": "Touchin, Lovin (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/4bkhs6spQvVnVJAlXuKR6a"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8251,
+  "num_followers": 8253,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAC1/da6eB71SwxJt5UwVExt",
+  "snapshot_id": "Z3xugAAAAACfNNoErveBiF8+mQz3AFQ5",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cosmic Intoxication",
+        "url": "https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 212811,
       "name": "Get Me Some",
       "url": "https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosmic Intoxication",
-        "url": "https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Smoke & Mirrors",
-      "url": "https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 216726,
-      "name": "Sweet Day",
-      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOVERE",
         "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 183333,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 216726,
+      "name": "Sweet Day",
+      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
     },
     {
       "added_at": null,
@@ -639,30 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
-      },
-      "artists": [
-        {
-          "name": "Analogue Monsta",
-          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Suzi Analogue",
-          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
-        }
-      ],
-      "duration_ms": 182001,
-      "name": "Time To",
-      "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO WAY",
         "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
       },
@@ -743,18 +719,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
       },
       "artists": [
         {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
         }
       ],
-      "duration_ms": 230261,
-      "name": "Bright Shadows",
-      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
+      "duration_ms": 182001,
+      "name": "Time To",
+      "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
       "duration_ms": 182467,
       "name": "Lune",
       "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 230261,
+      "name": "Bright Shadows",
+      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Tell Me",
-        "url": "https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 241750,
-      "name": "Say Tell Me",
-      "url": "https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Squid Game (Let's Play)",
         "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 220391,
       "name": "The Flower Blooms",
       "url": "https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say Tell Me",
+        "url": "https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 241750,
+      "name": "Say Tell Me",
+      "url": "https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd"
     },
     {
       "added_at": null,

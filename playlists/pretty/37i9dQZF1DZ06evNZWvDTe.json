@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 11869,
+  "num_followers": 11875,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAC61G5bmqG4g1bf+GdjGkwq",
+  "snapshot_id": "Z3xugAAAAABYL+Niwnq4my2u3JxpdvMn",
   "tracks": [
     {
       "added_at": null,
@@ -171,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO SIR",
-        "url": "https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr"
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
         }
       ],
-      "duration_ms": 141428,
-      "name": "NO SIR",
-      "url": "https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6"
+      "duration_ms": 164000,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
     },
     {
       "added_at": null,
@@ -207,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Messiah",
-        "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
+        "name": "NO SIR",
+        "url": "https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
+      "duration_ms": 141428,
+      "name": "NO SIR",
+      "url": "https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6"
     },
     {
       "added_at": null,
@@ -455,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
+        "name": "June July + Pharasee",
+        "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         },
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
+      "duration_ms": 220000,
+      "name": "June July",
+      "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
     },
     {
       "added_at": null,
@@ -495,22 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "June July + Pharasee",
-        "url": "https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG"
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
       },
       "artists": [
         {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        },
-        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 220000,
-      "name": "June July",
-      "url": "https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP"
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Akwaboah",
-          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
-        }
-      ],
-      "duration_ms": 205578,
-      "name": "Mewu (feat. Akwaboah)",
-      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonga",
         "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
       },
@@ -827,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oofeets",
-        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
       "artists": [
         {
@@ -836,13 +816,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Prince Bright",
-          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Oofeets",
-      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
+      "duration_ms": 205578,
+      "name": "Mewu (feat. Akwaboah)",
+      "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
       "duration_ms": 166800,
       "name": "Illuminati",
       "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oofeets",
+        "url": "https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Prince Bright",
+          "url": "https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Oofeets",
+      "url": "https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 248713,
-      "name": "Saa Okodie No (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sarkology",
         "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 258964,
       "name": "Special Sumone (feat. Burna Boy n Aka)",
       "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 248713,
+      "name": "Saa Okodie No (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chingam (feat. Bisa Kdei)",
+        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Chingam (feat. Bisa Kdei)",
+      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Undress You",
         "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chingam (feat. Bisa Kdei)",
-        "url": "https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Chingam (feat. Bisa Kdei)",
-      "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
     }
   ],
   "unique_name": "This Is Sarkodie",

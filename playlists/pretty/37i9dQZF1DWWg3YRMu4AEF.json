@@ -1,6 +1,6 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 70s.",
-  "num_followers": 144828,
+  "num_followers": 144877,
   "original_name": "Good Feeling 70s",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 288293,
       "name": "Boogie Wonderland",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2022-06-08 06:26:41",
@@ -339,26 +339,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Hooked On A Feeling",
-        "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
-      },
-      "artists": [
-        {
-          "name": "Blue Swede",
-          "url": "https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp"
-        },
-        {
-          "name": "Bj\u00f6rn Skifs",
-          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Hooked On A Feeling",
-      "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 211680,
       "name": "Ventura Highway",
       "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "Hooked On A Feeling",
+        "url": "https://open.spotify.com/album/6fBMaH0IiymemwFKmn18Ze"
+      },
+      "artists": [
+        {
+          "name": "Blue Swede",
+          "url": "https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp"
+        },
+        {
+          "name": "Bj\u00f6rn Skifs",
+          "url": "https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Hooked On A Feeling",
+      "url": "https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd"
     },
     {
       "added_at": "2022-06-08 06:26:41",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "YMCA",
-        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "YMCA - Original Version 1978",
-      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "52nd Street",
         "url": "https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 284000,
       "name": "My Life",
       "url": "https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "YMCA",
+        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 286800,
+      "name": "YMCA - Original Version 1978",
+      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
     },
     {
       "added_at": "2022-06-08 06:26:41",

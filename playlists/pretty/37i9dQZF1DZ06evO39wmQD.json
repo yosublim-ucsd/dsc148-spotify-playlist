@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 2860,
+  "num_followers": 2864,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABQln5IttDlmQvBXte0dLDn",
+  "snapshot_id": "Z3xugAAAAACjfMpxni6Ya1jI83mU8ryf",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Future's in My Hands (Theme from \"Hailey's On It!\")",
+        "url": "https://open.spotify.com/album/1zQH2ZPY82Mul0Ki3tYRKj"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mama Who Bore Me (Rise Cast Version)",
         "url": "https://open.spotify.com/album/5htkwqMEyeNMvHdAKGcwm5"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 120960,
       "name": "Mama Who Bore Me - Rise Cast Version",
       "url": "https://open.spotify.com/track/4AxvU1vUh19aQk9aA7QGCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Future's in My Hands (Theme from \"Hailey's On It!\")",
-        "url": "https://open.spotify.com/album/1zQH2ZPY82Mul0Ki3tYRKj"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 178166,
-      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
-      "url": "https://open.spotify.com/track/4Fn5xfalnbwbxv0Km0Vhhh"
     },
     {
       "added_at": null,
@@ -619,34 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
-        "url": "https://open.spotify.com/album/5VY1W3g3rveouscdB7FqDy"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Burt Bacharach",
-          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
-        },
-        {
-          "name": "Graham Phillips",
-          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
-        },
-        {
-          "name": "Steven Sater",
-          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/17FXdKgMlXaRey3MPkLhN2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise Season 1: The Album (Music from the TV Series)",
         "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
       },
@@ -671,6 +643,34 @@
       "duration_ms": 111160,
       "name": "Those You've Known - Rise Cast Version",
       "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/5VY1W3g3rveouscdB7FqDy"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Burt Bacharach",
+          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+        },
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        },
+        {
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/17FXdKgMlXaRey3MPkLhN2"
     },
     {
       "added_at": null,

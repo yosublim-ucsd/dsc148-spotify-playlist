@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 951006,
+  "num_followers": 951052,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-12-13 03:03:17",
       "album": {
-        "name": "Tem Moda Pra Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 161597,
-      "name": "M\u00e1gica - Live",
-      "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
-    },
-    {
-      "added_at": "2024-12-13 03:03:17",
-      "album": {
         "name": "Live-M\u00f3vel (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 181512,
       "name": "Vingan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
+    },
+    {
+      "added_at": "2024-12-13 03:03:17",
+      "album": {
+        "name": "Tem Moda Pra Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 161597,
+      "name": "M\u00e1gica - Live",
+      "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
     },
     {
       "added_at": "2024-12-13 03:03:17",

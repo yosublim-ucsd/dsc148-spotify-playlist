@@ -1,13 +1,49 @@
 {
   "description": "The playlist made for furries, by furries. | Request songs @ Furrest.Online",
-  "num_followers": 428,
+  "num_followers": 433,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADEUAzwi7P/AjBQ6HZaG+v7dUGy934",
+  "snapshot_id": "AAADEwegA/QINRQ9KtGd9h2SWsOed8mI",
   "tracks": [
+    {
+      "added_at": "2025-01-08 21:57:50",
+      "album": {
+        "name": "broken bottles",
+        "url": "https://open.spotify.com/album/5ol4vdyNW2TTu299hJZ1xL"
+      },
+      "artists": [
+        {
+          "name": "TWYLIGHT",
+          "url": "https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO"
+        }
+      ],
+      "duration_ms": 284447,
+      "name": "broken bottles",
+      "url": "https://open.spotify.com/track/3BSoT0FpJcehfxxGZIdxxM"
+    },
+    {
+      "added_at": "2025-01-08 21:56:22",
+      "album": {
+        "name": "Back On Top",
+        "url": "https://open.spotify.com/album/6NYYBa0pcmhh6yrD9iYo5V"
+      },
+      "artists": [
+        {
+          "name": "ZephyrInTheWind",
+          "url": "https://open.spotify.com/artist/2lqQ3jGN37e45ZjxAvRT1E"
+        },
+        {
+          "name": "Zenny",
+          "url": "https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM"
+        }
+      ],
+      "duration_ms": 232977,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/3LbpWLzCv8FycJaAqHthdi"
+    },
     {
       "added_at": "2025-01-07 19:23:23",
       "album": {

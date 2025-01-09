@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Thursday
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,498 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,543 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 38 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 |
 | 39 | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9) | 3:04 |
 | 40 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
-| 41 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
-| 42 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
+| 41 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 |
+| 42 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
 | 43 | [Perfect Timing](https://open.spotify.com/track/7wXQGcvxWxRNudVjWYAs9t) | [Kerosene Heights](https://open.spotify.com/artist/0D4NkuZAkjfdm5clMtYYrz) | [Southeast of Somewhere](https://open.spotify.com/album/37BQtdBN3a84zmgvepx64v) | 3:10 |
 | 44 | [World Apart](https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [World Apart](https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd) | 3:00 |
 | 45 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 59 | [Won't You Fade](https://open.spotify.com/track/2ORXMAC5DctNtC3LfhIsQF) | [Wither Away](https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM) | [Won't You Fade](https://open.spotify.com/album/0JzKDW5zcrzql9gz0UDEI3) | 4:33 |
 | 60 | [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 |
 | 61 | [Auguries of Guilt](https://open.spotify.com/track/1lWuzJReshkbjDKjElnmeA) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Auguries of Guilt](https://open.spotify.com/album/1kPoDuvNX6536cx1ZWpUAN) | 5:37 |
-| 62 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
-| 63 | [Leviathan](https://open.spotify.com/track/5Q7EvbPIC4ipRVlduRrnMn) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Children Of The Moon](https://open.spotify.com/album/7tqqBxs66oVjVvz7a9Isg7) | 4:10 |
-| 64 | [goin' for the garbage plate](https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [goin' for the garbage plate](https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J) | 4:02 |
-| 65 | [KO](https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Better Luck Next Time](https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb) | 3:22 |
-| 66 | [My Fault](https://open.spotify.com/track/50FpCfseTjaMAWQ9q1Krfl) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Ferried Away](https://open.spotify.com/album/2GAlwex2k6grIDP3ieQf6c) | 2:27 |
+| 62 | [Leviathan](https://open.spotify.com/track/5Q7EvbPIC4ipRVlduRrnMn) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Children Of The Moon](https://open.spotify.com/album/7tqqBxs66oVjVvz7a9Isg7) | 4:10 |
+| 63 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
+| 64 | [My Fault](https://open.spotify.com/track/50FpCfseTjaMAWQ9q1Krfl) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Ferried Away](https://open.spotify.com/album/2GAlwex2k6grIDP3ieQf6c) | 2:27 |
+| 65 | [goin' for the garbage plate](https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [goin' for the garbage plate](https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J) | 4:02 |
+| 66 | [KO](https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Better Luck Next Time](https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb) | 3:22 |
 | 67 | [Passing Through The Hourglass](https://open.spotify.com/track/5ZU9XFpImuMvbwkTxnefFu) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [Passing Through The Hourglass](https://open.spotify.com/album/6ywlr4h3z5yPWAgMxQOTgA) | 3:58 |
 | 68 | [Fluff My Pillow](https://open.spotify.com/track/4SBD0bAYfLzq3ggGwRMqaR) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Fluff My Pillow](https://open.spotify.com/album/3nO2YsXGByVe5c5Sf78skN) | 2:37 |
-| 69 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 |
-| 70 | [Totally Cool](https://open.spotify.com/track/3SftY180mtXw6xQmAcmdU7) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Constant Springtime](https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb) | 2:39 |
+| 69 | [Totally Cool](https://open.spotify.com/track/3SftY180mtXw6xQmAcmdU7) | [Magazine Beach](https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio) | [Constant Springtime](https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb) | 2:39 |
+| 70 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 |
 | 71 | [Cactus Song](https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs) | [Raccoon Tour](https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R) | [Cactus Song](https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W) | 3:02 |
 | 72 | [Wind\-Up Toy](https://open.spotify.com/track/4Dc80Dqs8DZFHnL67hwypo) | [Hey, Ily](https://open.spotify.com/artist/73XtH9MpvvvcUxQxYEAX15) | [Hey, I Loathe You!](https://open.spotify.com/album/1vzhHMqzTPZVX7We3rrua1) | 3:32 |
 | 73 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |

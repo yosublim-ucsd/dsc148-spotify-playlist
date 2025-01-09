@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 42506,
+  "num_followers": 42511,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAC1iOsLfOoOKOQObJa3dHTA",
+  "snapshot_id": "Z3xugAAAAAB9YdD30fnuGW9LYaN2GNMT",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yee",
-        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168753,
-      "name": "Yee",
-      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mu\u00f1equita Linda",
         "url": "https://open.spotify.com/album/2ndIHUzRvnc6rLoSxFVfd3"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 210524,
       "name": "Mu\u00f1equita Linda",
       "url": "https://open.spotify.com/track/3EFzexdYFIzbM2dusddMVk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yee",
+        "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168753,
+      "name": "Yee",
+      "url": "https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando",
-        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
-        }
-      ],
-      "duration_ms": 170189,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 154513,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando",
+        "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 170189,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bootie in Your Face (No Rock Drop)",
+        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 221236,
+      "name": "Bootie in Your Face - No Rock Drop",
+      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PINK",
         "url": "https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo"
       },
@@ -655,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bootie in Your Face (No Rock Drop)",
-        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
+        "name": "Reflect",
+        "url": "https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Dear Sara",
+          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
         }
       ],
-      "duration_ms": 221236,
-      "name": "Bootie in Your Face - No Rock Drop",
-      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
+      "duration_ms": 189797,
+      "name": "You Are Not Alone (feat. Dear Sara)",
+      "url": "https://open.spotify.com/track/310TW3iypnMo8laEWughHb"
     },
     {
       "added_at": null,
@@ -691,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflect",
-        "url": "https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx"
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Dear Sara",
-          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
         }
       ],
-      "duration_ms": 189797,
-      "name": "You Are Not Alone (feat. Dear Sara)",
-      "url": "https://open.spotify.com/track/310TW3iypnMo8laEWughHb"
+      "duration_ms": 225159,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 172115,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 225159,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
-      },
-      "artists": [
-        {
-          "name": "El Abelito",
-          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Like This F\u2019n Song",
         "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
       },
@@ -919,30 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakalaka (feat. Max Styler)",
-        "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/0XKw3J3n6t0l2rpvkyIR1J"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "El Abelito",
+          "url": "https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Shakalaka (feat. Max Styler)",
-      "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
+      "duration_ms": 154761,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
     },
     {
       "added_at": null,
@@ -971,6 +943,34 @@
       "duration_ms": 281250,
       "name": "Freak (feat. Steve Bays)",
       "url": "https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakalaka (feat. Max Styler)",
+        "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Shakalaka (feat. Max Styler)",
+      "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
     },
     {
       "added_at": null,

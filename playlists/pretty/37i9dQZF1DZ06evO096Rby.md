@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,528 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,539 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 30 | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn) | 2:51 |
 | 31 | [Me Cambio la Suerte](https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Me Cambio la Suerte](https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV) | 2:51 |
 | 32 | [El Humo De Mi Gallo](https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El Humo De Mi Gallo](https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN) | 2:24 |
-| 33 | [Botecitos](https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Botecitos](https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk) | 3:08 |
-| 34 | [El De La 31](https://open.spotify.com/track/3HqbCSQ8soSfTLdPeYTs1Q) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 3:11 |
+| 33 | [El De La 31](https://open.spotify.com/track/3HqbCSQ8soSfTLdPeYTs1Q) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 3:11 |
+| 34 | [Botecitos](https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Botecitos](https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk) | 3:08 |
 | 35 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 |
 | 36 | [Los 5 Pesos](https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Adrian Chaparro](https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 4:05 |
 | 37 | [Mirame \(feat\. Blessd\) \- Remix](https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mirame \(feat\. Blessd\) \[Remix\]](https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR) | 3:13 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 50 | [No Me Trates De Engañar](https://open.spotify.com/track/0pRJCBVqyG4osceQwJYl3S) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 2:37 |
 | 51 | [Ebrio De Amor](https://open.spotify.com/track/2RLhyFesIfIj1I6oNVBqc2) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:31 |
 
-Snapshot ID: `Z3sdAAAAAAD+q7vbvOBxKAARnpYVW+zl`
+Snapshot ID: `Z3xugAAAAADZrxve4FKinhIIzDQdFlHZ`

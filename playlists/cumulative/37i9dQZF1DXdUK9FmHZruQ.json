@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "24/7, 365",
       "url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 242493,
       "name": "ashes & rust",
       "url": "https://open.spotify.com/track/0ynwM8MdgPqbSfII51PP3e"
@@ -444,7 +444,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 162802,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU"
@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133113,
+      "name": "drinks or coffee",
+      "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -790,7 +808,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
@@ -898,7 +916,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 183466,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2Nwu826BsgMFtMbd1ZR3fH"
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 207520,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 170895,
       "name": "Hoodie (feat. Alisson Shore)",
       "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 193573,
       "name": "I Think They Call This Love",
       "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
@@ -2046,7 +2064,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 209000,
       "name": "Pretty Eyes",
       "url": "https://open.spotify.com/track/5V2buzGktAWyMe1ldrIvmd"
@@ -2378,7 +2396,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know",
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 217241,
       "name": "someday, someone",
       "url": "https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX"
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-23",
+      "date_removed": null,
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"

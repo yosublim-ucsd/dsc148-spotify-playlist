@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 99156,
+  "num_followers": 99229,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Call Me King",
-        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
-      },
-      "artists": [
-        {
-          "name": "Son Of Dave",
-          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Call Me King",
-      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Philadelphia Mississippi",
         "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 185640,
       "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
       "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Call Me King",
+        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
+      },
+      "artists": [
+        {
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Call Me King",
+      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Forever On My Mind",
-        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 351960,
-      "name": "Death Letter",
-      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Make Myself Me Again",
         "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 169826,
       "name": "Small Town Nashville Blues",
       "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Forever On My Mind",
+        "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 351960,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Yellow Peril",
-        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Yellow Peril",
-      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
+      "duration_ms": 156465,
+      "name": "The Sun is Shining",
+      "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+        "name": "Yellow Peril",
+        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
       },
       "artists": [
         {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
         }
       ],
-      "duration_ms": 156465,
-      "name": "The Sun is Shining",
-      "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
+      "duration_ms": 204986,
+      "name": "Yellow Peril",
+      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
+        "name": "Guitar Blues 101",
+        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy & Junior Wells",
+          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Rollin' and Tumblin'",
+      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
         "name": "Lone Star Blues",
         "url": "https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 237096,
       "name": "Lone Star Blues",
       "url": "https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
-        "name": "Guitar Blues 101",
-        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy & Junior Wells",
-          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Rollin' and Tumblin'",
-      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Good Morning Mr. Blues",
-        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "Good Morning Mr. Blues",
-      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "The Road to Liberty, Pt. 1",
         "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 204600,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Good Morning Mr. Blues",
+        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "Good Morning Mr. Blues",
+      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
     },
     {
       "added_at": "2024-05-28 18:42:18",

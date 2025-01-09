@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 906126,
+  "num_followers": 906204,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAACxfAz4NDmadCybF3DL66lU",
+  "snapshot_id": "Z3xugAAAAADzj6LcgBl4p56AkYtvhYGO",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 295920,
-      "name": "All I Want Is You (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 218801,
       "name": "m y . l i f e (with 21 Savage & Morray)",
       "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 192065,
-      "name": "Free Fall (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cole World: The Sideline Story",
         "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 225960,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3mTpegrOwRn0oJjv4TSbEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 192065,
+      "name": "Free Fall (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 218210,
+      "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
+      "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 414893,
       "name": "Red Leather",
       "url": "https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 218210,
-      "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
-      "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 148421,
+      "name": "a m a r i",
+      "url": "https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blow for Blow (feat. J. Cole)",
         "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 210285,
       "name": "Blow for Blow (feat. J. Cole)",
       "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "a m a r i",
-      "url": "https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX"
     },
     {
       "added_at": null,

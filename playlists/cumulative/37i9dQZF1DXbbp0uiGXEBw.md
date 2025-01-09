@@ -2,9 +2,9 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng thưởng thức và tôn vinh những nữ nghệ sĩ Việt \. Ảnh bìa: Orange
+> Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Ái Phương
 
-290 songs - 18 hr 39 min
+292 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,11 @@
 | [24H](https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx), [Magazine](https://open.spotify.com/artist/6sMgWEav2BrXWMRmP56oRS) | [24H](https://open.spotify.com/album/21hmaZuO1aUc7PZCfRJ7cN) | 4:16 | 2024-12-04 |  |
 | [906090](https://open.spotify.com/track/0HH3DAz5feqJmDA50yQ52M) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Mew Amazing](https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI) | [906090](https://open.spotify.com/album/20sB19q1UohCToeyAcUNwQ) | 3:28 | 2022-11-01 | 2022-12-01 |
 | [Ai Cho Tôi Lương Thiện](https://open.spotify.com/track/6JsFdyK1kJKeaUpQS6ybvD) | [Trang Pháp](https://open.spotify.com/artist/3Ovt66opVihLuIvPhlceI6), [Thu Phương](https://open.spotify.com/artist/3LsIDqxwDjcEKbK3D1IrDk), [Ninh Dương Lan Ngọc](https://open.spotify.com/artist/1XO2u0sx6W0yNLUYZmPPmq) | [Ai Cho Tôi Lương Thiện](https://open.spotify.com/album/0mSqq1Px3bsylq5cPqPP0e) | 3:39 | 2024-02-06 | 2024-05-21 |
-| [Ai Lau Đôi Mi Hoen](https://open.spotify.com/track/19bgct6U5djwkDhAttMUlb) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Ai Lau Đôi Mi Hoen](https://open.spotify.com/album/1dSX1ojYBuexp6ZaIaXJ9g) | 3:35 | 2023-10-26 |  |
+| [Ai Lau Đôi Mi Hoen](https://open.spotify.com/track/19bgct6U5djwkDhAttMUlb) | [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Ai Lau Đôi Mi Hoen](https://open.spotify.com/album/1dSX1ojYBuexp6ZaIaXJ9g) | 3:35 | 2023-10-26 | 2025-01-09 |
 | [Alive](https://open.spotify.com/track/1U2ookTehUocHpeCyVciDq) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Thảo Trang](https://open.spotify.com/artist/2maFpa4M8FWKvytGzgLhyl) | [Alive](https://open.spotify.com/album/6ewUD9mQR3PusKaeKmTJQF) | 3:40 | 2023-09-07 | 2023-10-03 |
 | [Anh \- Uyên Linh Version](https://open.spotify.com/track/1EaROPDCbTXXbThq7uMpPC) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Anh](https://open.spotify.com/album/0P91wcAcNdrsYUJnWYXggD) | 3:02 | 2024-12-04 |  |
 | [Anh \- Uyên Linh Version](https://open.spotify.com/track/2YF6BpVt9vvmrCSdYYLGpq) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Anh](https://open.spotify.com/album/4tHoCOKrPBg3QZwQeDaywT) | 3:02 | 2024-01-16 | 2024-12-05 |
-| [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 | 2023-01-14 |  |
+| [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 | 2023-01-14 | 2025-01-09 |
 | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2) | 3:08 | 2023-10-18 |  |
 | [Anh Ơi Ở Lại](https://open.spotify.com/track/0VBv6oyMgeEBOIysaSV9aE) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Đạt G](https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg) | [Anh Ơi Ở Lại](https://open.spotify.com/album/0AvJduRQsFMQojtnsE2SfS) | 4:52 | 2022-09-22 | 2024-12-05 |
 | [Black Hickey \- Con Dấu Chủ Quyền](https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Black Hickey \(Con Dấu Chủ Quyền\)](https://open.spotify.com/album/7zSOESWQXSqQeV2ptNXArL) | 3:53 | 2022-09-06 | 2022-09-23 |
@@ -68,6 +68,7 @@
 | [Cứ Để Cho Em](https://open.spotify.com/track/0WTuWbQb1TGNClJ56KUe4Z) | [Hồ Quỳnh Hương](https://open.spotify.com/artist/3EP4RX5LSuwDVy4mDeF1rl) | [Cứ Để Cho Em](https://open.spotify.com/album/7GJ8C1rs7sXzs9R15uNwKR) | 3:48 | 2024-04-02 | 2024-08-02 |
 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 | 2021-12-07 | 2022-05-20 |
 | [Do You?](https://open.spotify.com/track/03m9ySk1by3w5w5sqhthiJ) | [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Do You?](https://open.spotify.com/album/58oksYYTlFF652wUrMQpwE) | 2:39 | 2021-12-07 | 2022-01-01 |
+| [DON’T WANNA SAY GOODBYE \- Special Version](https://open.spotify.com/track/6yyE3VL3OhqgTwSeAfXjkQ) | [Ái Phương](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [DON’T WANNA SAY GOODBYE \(Special Version\)](https://open.spotify.com/album/5zlGdwz8UeUqstB2NhyV5u) | 3:25 | 2025-01-08 |  |
 | [Duyên Âm](https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 2:59 | 2021-12-07 | 2024-12-05 |
 | [Dâu Thiên Hạ](https://open.spotify.com/track/0rfQw4NcOrsjkJUK1rsZ01) | [Suboi](https://open.spotify.com/artist/2Fc5cGXai8xzLhGyltp4tT) | [Dâu Thiên Hạ](https://open.spotify.com/album/5Sk4xzKCcD1eehwjTIgwft) | 2:48 | 2024-06-07 | 2024-09-06 |
 | [dưới ánh đèn sân khấu \(feat\. Orange\)](https://open.spotify.com/track/7J9kDGkBf5BiWUCELfZdql) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 4:03 | 2022-06-01 | 2022-07-07 |
@@ -197,6 +198,7 @@
 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 | 2022-08-18 | 2022-09-28 |
 | [OK Anh Đúng](https://open.spotify.com/track/50Dh4QeAljOaFDRYcedzNW) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [OK Anh Đúng](https://open.spotify.com/album/48C9W0epgpJf0yMecK2FHP) | 3:48 | 2021-12-07 | 2023-06-07 |
 | [One Second \- Unplugged](https://open.spotify.com/track/5RMLXxdOgDGd7dpNieYlZh) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Trạm Không Gian Số 0 \(Unplugged\)](https://open.spotify.com/album/5ScazWOt0AHFU5tiJCtcuA) | 4:01 | 2021-12-07 | 2022-01-05 |
+| [Ong và Hoa](https://open.spotify.com/track/4yTX72F2LjGpYq9g7HXLz7) | [Charmy Pham](https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO) | [Gifts4Seasons](https://open.spotify.com/album/4wIk6l6oQZ1tS2SYhf3TWP) | 2:51 | 2025-01-08 |  |
 | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/track/0ibp5h8QATkvC6P5cO5TUV) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/album/2miKCUKYhXGekJDx4ZsxiI) | 3:32 | 2022-05-19 | 2024-08-02 |
 | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/track/3i02vLHwlt14hNJtdXmeM7) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/album/6oLvir8rZVaQRF3z2mp0rG) | 3:10 | 2021-12-07 |  |
 | [Phải Lòng Anh](https://open.spotify.com/track/0MIg7hUu4Pa90AX7lGO9ei) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:47 | 2024-07-03 | 2024-08-01 |

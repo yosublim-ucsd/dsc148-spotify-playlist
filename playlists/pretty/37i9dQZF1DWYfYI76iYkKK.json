@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 127937,
+  "num_followers": 127947,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,18 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
-        "name": "Say You\u2019re Sorry",
-        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
+        "name": "If Only...",
+        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
       "artists": [
         {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
         }
       ],
-      "duration_ms": 136400,
-      "name": "Say You\u2019re Sorry",
-      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
+      "duration_ms": 187369,
+      "name": "If Only...",
+      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
     },
     {
       "added_at": "2025-01-02 16:00:20",
@@ -439,18 +439,18 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
-        "name": "If Only...",
-        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
+        "name": "Say You\u2019re Sorry",
+        "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
       "artists": [
         {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
         }
       ],
-      "duration_ms": 187369,
-      "name": "If Only...",
-      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
+      "duration_ms": 136400,
+      "name": "Say You\u2019re Sorry",
+      "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
     },
     {
       "added_at": "2025-01-02 16:00:20",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
-        "name": "\u96d9\u751f\u706b\u7130",
-        "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
-      },
-      "artists": [
-        {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
-        }
-      ],
-      "duration_ms": 305013,
-      "name": "\u6c89\u9ed8",
-      "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
-    },
-    {
-      "added_at": "2025-01-02 16:00:20",
-      "album": {
         "name": "T.I.A.",
         "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 234828,
       "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
       "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
+    },
+    {
+      "added_at": "2025-01-02 16:00:20",
+      "album": {
+        "name": "\u96d9\u751f\u706b\u7130",
+        "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "duration_ms": 305013,
+      "name": "\u6c89\u9ed8",
+      "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
     },
     {
       "added_at": "2025-01-02 16:00:20",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
-        "name": "\u300a\u4e00\u95ea\u4e00\u95ea\u4eae\u661f\u661f\u300b\u7535\u5f71\u539f\u58f0\u5e26",
-        "url": "https://open.spotify.com/album/1X1LA4lupIt483Gge0fvLm"
-      },
-      "artists": [
-        {
-          "name": "\u55ae\u4f9d\u7d14",
-          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
-        }
-      ],
-      "duration_ms": 196125,
-      "name": "\u85cf\u5728\u4f60\u7684\u540d\u5b57\u91cc",
-      "url": "https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi"
-    },
-    {
-      "added_at": "2025-01-02 16:00:20",
-      "album": {
         "name": "\u539f\u4f86\u6211\u5f88\u611b\u4f60 (\u96fb\u8996\u5287\u300a\u539f\u4f86\u6211\u5f88\u611b\u4f60\u300b\u540c\u540d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq"
       },
@@ -795,22 +779,6 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
-        "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
-        "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
-      },
-      "artists": [
-        {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
-        }
-      ],
-      "duration_ms": 235743,
-      "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
-      "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
-    },
-    {
-      "added_at": "2025-01-02 16:00:20",
-      "album": {
         "name": "\u8327Jian",
         "url": "https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 199282,
       "name": "\u8327Jian",
       "url": "https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX"
+    },
+    {
+      "added_at": "2025-01-02 16:00:20",
+      "album": {
+        "name": "\u300a\u4e00\u95ea\u4e00\u95ea\u4eae\u661f\u661f\u300b\u7535\u5f71\u539f\u58f0\u5e26",
+        "url": "https://open.spotify.com/album/1X1LA4lupIt483Gge0fvLm"
+      },
+      "artists": [
+        {
+          "name": "\u55ae\u4f9d\u7d14",
+          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
+        }
+      ],
+      "duration_ms": 196125,
+      "name": "\u85cf\u5728\u4f60\u7684\u540d\u5b57\u91cc",
+      "url": "https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi"
+    },
+    {
+      "added_at": "2025-01-02 16:00:20",
+      "album": {
+        "name": "\u4f60\u8981\u7684\u611b (\u5fc3\u52d5\u7248)",
+        "url": "https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a"
+      },
+      "artists": [
+        {
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+        }
+      ],
+      "duration_ms": 235743,
+      "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
+      "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

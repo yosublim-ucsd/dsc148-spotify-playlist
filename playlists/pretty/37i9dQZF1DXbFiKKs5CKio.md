@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,915 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,947 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 13 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 |
 | 14 | [Jam \#01 \- Fim de Semana](https://open.spotify.com/track/5F58WyW1eT00i22beFEsZ3) | [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Jam \#1](https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR) | 1:22 |
 | 15 | [Paisagem](https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Paisagem](https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu) | 3:32 |
-| 16 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 |
-| 17 | [De Boa](https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:32 |
+| 16 | [De Boa](https://open.spotify.com/track/4Qe590zrB5DAak08SuSk6X) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [O Amor e Suas Variáveis](https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn) | 2:32 |
+| 17 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 |
 | 18 | [me chama de sua](https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [BRUNÊ](https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf), [DeVito Cxrleone](https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k) | [Love Songs, Vol\. I](https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON) | 2:19 |
 | 19 | [Candeia](https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Candeia](https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9) | 3:19 |
 | 20 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 24 | [Não para Não](https://open.spotify.com/track/1NRL7Gz31YsIufsa3zhYed) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Não para Não](https://open.spotify.com/album/5YsDkffdcFwbbmWZqW1kwS) | 2:34 |
 | 25 | [Vai dar Bom \(Ao Vivo\)](https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Neverlândia Sessions \(Ao Vivo\)](https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT) | 3:26 |
 | 26 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 |
-| 27 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
-| 28 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
+| 27 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
+| 28 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
 | 29 | [ESCOLHAS](https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [ESCOLHAS](https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot) | 3:41 |
 | 30 | [Pânico](https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Pânico](https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5) | 3:03 |
 | 31 | [Meia Luz](https://open.spotify.com/track/1lGzIH7kcbOpn5AH00dg4a) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [Meia Luz](https://open.spotify.com/album/3SgdPPSgAiIJ4LmRmDyvtZ) | 3:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 45 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
 | 46 | [SEM SER AMOR](https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 4:21 |
 | 47 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |
-| 48 | [Índigo \(Te Venero\)](https://open.spotify.com/track/73Yn2f5eGn3iG4bzTB98tl) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Índigo \(Te Venero\)](https://open.spotify.com/album/0w0NCCZiMTaLmPYXZRtBqT) | 3:14 |
-| 49 | [Eu Tava Em Casa](https://open.spotify.com/track/2h7DmQXeYqAXG9cMtqdiLy) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/5A6E29QwhDcINDIEBSbYPR) | 4:09 |
+| 48 | [Eu Tava Em Casa](https://open.spotify.com/track/2h7DmQXeYqAXG9cMtqdiLy) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/5A6E29QwhDcINDIEBSbYPR) | 4:09 |
+| 49 | [Índigo \(Te Venero\)](https://open.spotify.com/track/73Yn2f5eGn3iG4bzTB98tl) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Índigo \(Te Venero\)](https://open.spotify.com/album/0w0NCCZiMTaLmPYXZRtBqT) | 3:14 |
 | 50 | [SHAWTY](https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF) | 2:53 |
 
 Snapshot ID: `Z1xlOAAAAAC500zlDstNDjE0JxlmkYlL`

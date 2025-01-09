@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : קותימאן ,תומר יוסף
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,152 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,156 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 43 | [בסוף אני מגן דוד](https://open.spotify.com/track/4lEwPTDFFyewoL6bVO5Qaf) | [Avihu Pinhasov Rhythm Club](https://open.spotify.com/artist/4saB5ta3MrhGC4aYV0zF2r) | [בסוף אני מגן דוד](https://open.spotify.com/album/3503vgMkt8EHCaRbIwGCBW) | 3:54 |
 | 44 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
 | 45 | [שלושת הקופים](https://open.spotify.com/track/5XInMHM9wtgELT7TrFecwe) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שלושת הקופים](https://open.spotify.com/album/2fIXRjTLxp7tdgon5ZARD4) | 2:39 |
-| 46 | [פאסון](https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8) | [Shir Hadas Meir](https://open.spotify.com/artist/5mJI5zeyvCvk0h2OysNRAn), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [פאסון](https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP) | 3:29 |
-| 47 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
+| 46 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
+| 47 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 |
 | 48 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
-| 49 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 |
+| 49 | [פאסון](https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8) | [Shir Hadas Meir](https://open.spotify.com/artist/5mJI5zeyvCvk0h2OysNRAn), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [פאסון](https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP) | 3:29 |
 | 50 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:34 |
 | 51 | [שיר ורוד \- גרסת סתיו](https://open.spotify.com/track/0jU9g9jIAzzhxnFcDqGJvv) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [שיר ורוד](https://open.spotify.com/album/31j4tjDTrlyRYEXaSQiCTE) | 3:04 |
 | 52 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 54 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
 | 55 | [לחזור הביתה](https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [לחסד וגאולה המשך ישר](https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8) | 4:17 |
 | 56 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
-| 57 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 |
-| 58 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
+| 57 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
+| 58 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 |
 | 59 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
-| 60 | [בבוקר](https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj), [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [בבוקר](https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12) | 2:54 |
+| 60 | [מה שלא יהיה](https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6) | [Zizi Trippo](https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [31](https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7) | 3:17 |
 
 Snapshot ID: `Z3cMpgAAAABDSPAoKCP0ouI3ZE2np2dD`

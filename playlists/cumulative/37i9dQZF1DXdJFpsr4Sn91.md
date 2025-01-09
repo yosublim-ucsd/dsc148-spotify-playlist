@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Sara Bee.
 
-438 songs - 21 hr 53 min
+439 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-27 | 2024-10-18 |
 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 | 2024-09-05 | 2024-10-18 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-07-02 | 2024-07-05 |
+| [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 | 2025-01-08 |  |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-09-05 | 2024-09-27 |
 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 | 2024-11-21 | 2025-01-03 |
 | [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2024-09-05 | 2024-09-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,619 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,650 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 36 | [JABO](https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [JABO](https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv) | 3:17 |
 | 37 | [Pier 46](https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:38 |
 | 38 | [Temptress](https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Temptress](https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG) | 2:56 |
-| 39 | [Shooting Star \(feat\. Oxlade\)](https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [It'll All Make Sense Later](https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje) | 3:14 |
-| 40 | [Milli \(feat\. Victony\)](https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Tayo](https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85) | 2:42 |
+| 39 | [Milli \(feat\. Victony\)](https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Tayo](https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85) | 2:42 |
+| 40 | [Shooting Star \(feat\. Oxlade\)](https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [It'll All Make Sense Later](https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje) | 3:14 |
 | 41 | [Pinterest](https://open.spotify.com/track/3tBWJXPBzqYGkE8I4K7suN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:50 |
 | 42 | [Timing](https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Timing](https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8) | 2:58 |
 | 43 | [Fire on Me](https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Fire on Me](https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT) | 2:14 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 57 | [Instantly](https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Instantly](https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh) | 3:08 |
 | 58 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 |
 | 59 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 |
-| 60 | [FOCUS](https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Clouds](https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB) | 2:09 |
-| 61 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 |
+| 60 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 |
+| 61 | [FOCUS](https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Clouds](https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB) | 2:09 |
 | 62 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 |
 | 63 | [Best Interest](https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Best Interest](https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2) | 3:18 |
 | 64 | [California](https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [California / Rollercoaster](https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga) | 2:20 |

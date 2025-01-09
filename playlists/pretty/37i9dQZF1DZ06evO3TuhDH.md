@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,223 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,226 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 30 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
 | 31 | [Get Loud](https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:50 |
 | 32 | [TWINNEM \(Remix\) \(feat\. DaBaby\)](https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TWINNEM \(Remix\)](https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd) | 2:40 |
-| 33 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 |
-| 34 | [Push Start \(with Coi Leray feat\. 42 Dugg\)](https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:05 |
-| 35 | [Woman Of The Year \(with Stefflon Don, Chlöe & Coi Leray\)](https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:26 |
+| 33 | [Push Start \(with Coi Leray feat\. 42 Dugg\)](https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:05 |
+| 34 | [Woman Of The Year \(with Stefflon Don, Chlöe & Coi Leray\)](https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:26 |
+| 35 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 |
 | 36 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 |
 | 37 | [Everything BoZ \(feat\. Coi Leray\) \- Slowed Down](https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r) | [10X](https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Everything BoZ \(feat\. Coi Leray\) \[Slowed Down\]](https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre) | 3:51 |
 | 38 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Hate Me \(feat\. Coi Leray\)](https://open.spotify.com/track/5xYprjqVnOkXDxjuGuqL6V) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:15 |
 | 50 | [Lemon Cars](https://open.spotify.com/track/4kf5AnIriTBgyLdSykT5s8) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/1wZO0rgyD5zGCmzzrXkpo6) | 2:53 |
 
-Snapshot ID: `Z3sdAAAAAACE4TM5BVfC1/go95gBQVgb`
+Snapshot ID: `Z3xugAAAAAAe6dxfVuZ0P5F+crIXGhml`

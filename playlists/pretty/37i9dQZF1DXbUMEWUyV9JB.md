@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Oscar Ortiz y Los Primos del Este
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,824 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,831 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 75 | [La Indicada](https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 3:43 |
 | 76 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
 | 77 | [Princesa Talibana](https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:16 |
-| 78 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs) | 4:55 |
-| 79 | [No Hay Vida Sin Ti](https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Hay Vida Sin Ti](https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ) | 4:07 |
+| 78 | [No Hay Vida Sin Ti](https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Hay Vida Sin Ti](https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ) | 4:07 |
+| 79 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs) | 4:55 |
 | 80 | [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 |
 | 81 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
 | 82 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |

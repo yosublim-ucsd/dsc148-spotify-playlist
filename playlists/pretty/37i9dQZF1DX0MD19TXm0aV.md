@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,253 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,270 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 35 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 36 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 37 | [Rumba \(feat\. Bausa\)](https://open.spotify.com/track/44YUIwl4laOQvUSMVeiyQJ) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [DHURATA](https://open.spotify.com/album/1BaQKcXBkeFVnyo6W2tWY2) | 2:15 |
-| 38 | [it girl \(feat\. Sampagne\)](https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [it girl \(feat\. Sampagne\)](https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko) | 2:23 |
+| 38 | [it girl \(feat\. sampagne\)](https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [it girl \(feat\. sampagne\)](https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko) | 2:23 |
 | 39 | [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 |
 | 40 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
 | 41 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |

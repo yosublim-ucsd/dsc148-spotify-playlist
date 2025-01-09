@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 775891,
+  "num_followers": 776204,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAqQtsUV54GSM3edNgI2u5J",
+  "snapshot_id": "Z3xugAAAAAA8M2X6+mDDF6mHT+PmcpXf",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/1kr2ajwgiK7Evj83Q6WLyB"
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 288367,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2hu7EGMBif7scYUT4zu5wG"
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/1kr2ajwgiK7Evj83Q6WLyB"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+      "duration_ms": 288367,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2hu7EGMBif7scYUT4zu5wG"
     },
     {
       "added_at": null,

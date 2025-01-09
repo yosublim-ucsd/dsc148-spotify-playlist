@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Aquilina. The essential tracks, all in one playlist.",
-  "num_followers": 521,
+  "num_followers": 520,
   "original_name": "This Is Lauren Aquilina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABwXh5vxiJpZBxs8n8hUPhl",
+  "snapshot_id": "Z3xugAAAAAB6xJ3kSu1cb+aV75GsNRUW",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+        "name": "Ghost World (Piano Versions)",
+        "url": "https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 234173,
-      "name": "Lovers Or Liars",
-      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
+      "duration_ms": 171438,
+      "name": "Latest Ghost - Piano Version",
+      "url": "https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World (Piano Versions)",
-        "url": "https://open.spotify.com/album/5rU6PM80YSF6JOOz4Nw92T"
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 171438,
-      "name": "Latest Ghost - Piano Version",
-      "url": "https://open.spotify.com/track/2loDDNNlOt33AQqRDIZOtJ"
+      "duration_ms": 234173,
+      "name": "Lovers Or Liars",
+      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
+      "duration_ms": 176626,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midnight Mouths (filous Remix)",
         "url": "https://open.spotify.com/album/316VVViBiKIcbTSamsojmG"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 245624,
       "name": "Midnight Mouths - filous Remix",
       "url": "https://open.spotify.com/track/4AbHAaspsLIQNwGzWR4bqe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Knife",
-        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
     },
     {
       "added_at": null,

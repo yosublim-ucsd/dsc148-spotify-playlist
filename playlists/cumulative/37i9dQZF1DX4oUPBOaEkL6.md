@@ -2,9 +2,9 @@
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Tito Double P
+> The hottest Latin hits in the US! Cover: Bad Bunny
 
-598 songs - 1 day 8 hr 46 min
+599 songs - 1 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,7 +309,7 @@
 | [Los Cachos](https://open.spotify.com/track/3eUR4NZa2hc8ZulyFYdCv8) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:32 | 2022-12-09 | 2023-02-04 |
 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 | 2021-12-09 | 2022-01-19 |
 | [Los del Espacio](https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Los del Espacio](https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU) | 5:38 | 2023-06-21 | 2023-07-08 |
-| [Los Fin De](https://open.spotify.com/track/0DfkS7yqoFniOUDOcpPVCR) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Los Fin De](https://open.spotify.com/album/2mKKlq0CCG1EbSCDpwFc84) | 2:42 | 2024-11-22 |  |
+| [Los Fin De](https://open.spotify.com/track/0DfkS7yqoFniOUDOcpPVCR) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Los Fin De](https://open.spotify.com/album/2mKKlq0CCG1EbSCDpwFc84) | 2:42 | 2024-11-22 | 2025-01-09 |
 | [Lost](https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx) | 3:54 | 2022-02-10 | 2022-02-25 |
 | [LOU LOU](https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [LOU LOU](https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn) | 3:08 | 2023-11-03 | 2024-01-13 |
 | [Luces De Neón](https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Luces De Neón](https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS) | 3:39 | 2022-09-20 | 2022-12-10 |
@@ -391,6 +391,7 @@
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-12-09 | 2022-12-10 |
 | [Nueva Era](https://open.spotify.com/track/03IpZ9yqJlo3EIgDQUgBSF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:37 | 2024-11-08 | 2024-11-23 |
 | [NUEVA VIDA](https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:10 | 2023-09-15 | 2023-11-03 |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-08 |  |
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-19 | 2024-09-21 |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-08-02 | 2024-12-07 |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2022-10-22 | 2023-03-18 |

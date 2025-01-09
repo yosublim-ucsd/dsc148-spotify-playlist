@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,310 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,295 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 45 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |
 | 46 | [Christmas in Your Arms](https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4) | [Bad Temper Joe](https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6) | [Christmas in Your Arms](https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A) | 2:43 |
 | 47 | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/track/6qIgoZQDoFP0r6jsHglJfQ) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [All I'm Gettin' for Christmas is the Blues](https://open.spotify.com/album/4sy6uFKLkqjMJIHe36LGwQ) | 3:27 |
-| 48 | [Christmas Blues](https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC) | [Washboard Pete](https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:37 |
-| 49 | [Christmas Date Blues](https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:34 |
+| 48 | [Christmas Date Blues](https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:34 |
+| 49 | [Christmas Blues](https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC) | [Washboard Pete](https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:37 |
 | 50 | [Blue Christmas](https://open.spotify.com/track/28MhtGG2jdxTUYHngKi2vi) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Red or Green](https://open.spotify.com/album/6URfYXX8miYx4BZv9KpAiZ) | 2:22 |
 | 51 | [Christmas Rocks!](https://open.spotify.com/track/2D6MeS0FupmqOPRDchT9j9) | [Smokestack Blues Band](https://open.spotify.com/artist/0ImMr2pKH8DaYvhB6gtV5s) | [Christmas Rocks!](https://open.spotify.com/album/2ipVMM2f0j79rDkFywlEaK) | 3:37 |
 | 52 | [Christmas Time Blues](https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [The Very Best of Roy Milton](https://open.spotify.com/album/47FXnQf2Q3UL2tIP82nMSv) | 3:05 |

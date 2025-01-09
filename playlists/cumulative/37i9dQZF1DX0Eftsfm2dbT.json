@@ -8805,6 +8805,32 @@
     },
     {
       "album": {
+        "name": "VIIH",
+        "url": "https://open.spotify.com/album/5Jj21CdmxRk0bO1lGcFtmY"
+      },
+      "artists": [
+        {
+          "name": "Hezron",
+          "url": "https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq"
+        },
+        {
+          "name": "VLOT",
+          "url": "https://open.spotify.com/artist/5I9DSyEXlMP12Qw59gshyk"
+        },
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "GASOLINA (feat. Young Coco)",
+      "url": "https://open.spotify.com/track/6BS7LoFuRdIImmeh2S8708"
+    },
+    {
+      "album": {
         "name": "SUN NO KUNI",
         "url": "https://open.spotify.com/album/64svoq5jDGIA3PshBnkeQA"
       },
@@ -13018,7 +13044,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 237633,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/2IkishLgusfYXkBnXJMOR0"

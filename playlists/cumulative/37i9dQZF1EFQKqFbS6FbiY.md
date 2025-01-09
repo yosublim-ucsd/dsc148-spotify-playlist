@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-577 songs - 1 day 4 hr 5 min
+578 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Amor De Cana \- Ao Vivo](https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Buteco Raiz \(Só As Derramadas\) \[Ao Vivo\]](https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai) | 2:43 | 2023-12-30 |  |
 | [Amor dos Amores \- Ao Vivo](https://open.spotify.com/track/2ULzGCy0Mn7HC122SHhLTN) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Ao Vivo em Campo Grande, Completo](https://open.spotify.com/album/2gyOMoXejMwZ034I9qF9mE) | 3:16 | 2023-12-30 |  |
 | [Amor Rima Com Dor \- Ao Vivo](https://open.spotify.com/track/1A2j6q4QwunJDfa8VmexNv) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Por Inteiro \(Ao Vivo\)](https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O) | 2:44 | 2023-12-30 |  |
+| [Amorzinho Meia Boca](https://open.spotify.com/track/64qDlct5yxqcZQkfSm7F8Q) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Ao Vivo em Goiânia](https://open.spotify.com/album/0OFyjM0idm1n0AmVRaw9q6) | 2:43 | 2025-01-08 |  |
 | [Ap do Amor](https://open.spotify.com/track/5IHuMN2Vx0n3iCAQIAmKIe) | [Hugo Matta](https://open.spotify.com/artist/6Olch7A7o6ihZVv5BgGJGj) | [Trenzão](https://open.spotify.com/album/0nsEcXARPqLOHNYFY3oyx7) | 2:26 | 2023-12-30 |  |
 | [Apenas Seu](https://open.spotify.com/track/7vR4xrkvzd0TmXnqYmEuNk) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05) | [Just Thoughts](https://open.spotify.com/album/1ouSd3opEdxdhvJd8tVEUa) | 3:48 | 2023-12-30 |  |
 | [Aplicativo \- Ao Vivo](https://open.spotify.com/track/0lOaiQcWCrlDnZHATJaadD) | [Kadim e Leo](https://open.spotify.com/artist/6x2roFsjZU1YqUJq58sMaC) | [Aplicativo \(Ao Vivo\)](https://open.spotify.com/album/5EAWChD6u9d3f1eEye6JpL) | 2:55 | 2023-12-30 | 2024-01-27 |

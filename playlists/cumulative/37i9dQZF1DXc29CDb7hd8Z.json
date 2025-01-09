@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Jay",
+        "url": "https://open.spotify.com/album/4UyiqHjDhTdMs4onWlNLMk"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Jay",
+      "url": "https://open.spotify.com/track/4APoqrhYmINORxY4O2neDg"
+    },
+    {
+      "album": {
         "name": "Jeremy and Maureen",
         "url": "https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf"
       },

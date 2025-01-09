@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Quest Pistols
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,760 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,762 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 43 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
 | 44 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 |
 | 45 | [Температура](https://open.spotify.com/track/4jv6YqdzJSlDfCbvW3F6o6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Температура](https://open.spotify.com/album/2lCyQUHZvCZeL1kfGOoqTT) | 2:56 |
-| 46 | [Білі ночі](https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Білі ночі](https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas) | 2:50 |
-| 47 | [Мистецтво](https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD) | 2:22 |
+| 46 | [Мистецтво](https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD) | 2:22 |
+| 47 | [Білі ночі](https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Білі ночі](https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas) | 2:50 |
 | 48 | [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 |
 | 49 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 50 | [Нижча зростом](https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Під гітару](https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J) | 2:59 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 60 | [Зима \- «Потяг у 31 грудня»](https://open.spotify.com/track/58M5bYBbLxGpml3HpdsGH5) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Зима \(«Потяг у 31 грудня»\)](https://open.spotify.com/album/09OuvRekvzbPkZPI9dBD6v) | 2:32 |
 | 61 | [Руда вода](https://open.spotify.com/track/3LOxBkDFWUUxk0EP8BgRQe) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Руда вода](https://open.spotify.com/album/3GIuVfp98SSJkPGFbHD4dk) | 2:17 |
 | 62 | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/track/0OO0cxW5gSaL1EggeW1Bj0) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/album/0ZAHrT36fotzrEuhClUXhG) | 2:58 |
-| 63 | [ЖАЛІ](https://open.spotify.com/track/1Dv2mryPZodUxYKUua5Q6o) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [ЖАЛІ](https://open.spotify.com/album/0x7CE5PgEBn7Br8x8eOvWv) | 2:14 |
-| 64 | [Тихий дощ](https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Тихий дощ](https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci) | 2:26 |
+| 63 | [Тихий дощ](https://open.spotify.com/track/4O6ZrjsRsloeEmjCfVCPeZ) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Тихий дощ](https://open.spotify.com/album/6oe5IqZMIR9oxwCXAHPBci) | 2:26 |
+| 64 | [ЖАЛІ](https://open.spotify.com/track/1Dv2mryPZodUxYKUua5Q6o) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [ЖАЛІ](https://open.spotify.com/album/0x7CE5PgEBn7Br8x8eOvWv) | 2:14 |
 | 65 | [Золото](https://open.spotify.com/track/7hfy7FKJ4YukP5QHWa8rPG) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Золото](https://open.spotify.com/album/2Sj5shmODB688jVan9pQMq) | 2:45 |
 | 66 | [Лілії](https://open.spotify.com/track/7u7rNKlamHbQtheoIWHaHx) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Лілії](https://open.spotify.com/album/7iPyDgnEhfCliTHyIsaOwW) | 2:41 |
 | 67 | [Титанік](https://open.spotify.com/track/4BhZHhEHOPBebQiUoqJrzl) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Титанік](https://open.spotify.com/album/1PWaSmD6dd7MXU5s2DXKG2) | 2:36 |

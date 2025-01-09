@@ -13249,6 +13249,24 @@
     },
     {
       "album": {
+        "name": "Rubix Cube",
+        "url": "https://open.spotify.com/album/0PktwDBITGLMcZYG1uK6VQ"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rubix Cube",
+      "url": "https://open.spotify.com/track/6o12D6Pk42lsb6m2aYtqJr"
+    },
+    {
+      "album": {
         "name": "Ruin U",
         "url": "https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg"
       },

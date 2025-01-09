@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 215901,
+  "num_followers": 215960,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "Heaven's Well (Live)",
         "url": "https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 253756,
       "name": "Heaven's Well - Live",
       "url": "https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "The Darker The Night / The Brighter The Morning",
-        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "The Cross Has The Final Word",
-      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
     },
     {
       "added_at": "2024-08-03 08:12:04",

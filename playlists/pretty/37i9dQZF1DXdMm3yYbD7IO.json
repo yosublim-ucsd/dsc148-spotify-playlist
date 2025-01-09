@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 410422,
+  "num_followers": 410809,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Mr. Vain Recall",
-        "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Mr. Vain Recall - Radio Edit",
-      "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 252306,
       "name": "I Wish - Radio Edit",
       "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "Mr. Vain Recall",
+        "url": "https://open.spotify.com/album/2MbfEf37mAAu6LM5emtIIO"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Mr. Vain Recall - Radio Edit",
+      "url": "https://open.spotify.com/track/2JjDgorBAd8Er6IS5Weyok"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "All In The Mind",
-        "url": "https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj"
-      },
-      "artists": [
-        {
-          "name": "The Bucketheads",
-          "url": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
-        }
-      ],
-      "duration_ms": 202934,
-      "name": "The Bomb (These Sounds Fall Into My Mind)",
-      "url": "https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Peaceful Journey",
         "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "All In The Mind",
+        "url": "https://open.spotify.com/album/7AvNbRsfa2B0Hwf4bfcABj"
+      },
+      "artists": [
+        {
+          "name": "The Bucketheads",
+          "url": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
+        }
+      ],
+      "duration_ms": 202934,
+      "name": "The Bomb (These Sounds Fall Into My Mind)",
+      "url": "https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "(You Drive Me) Crazy [The Stop Remix!] - Remastered",
-      "url": "https://open.spotify.com/track/5G4w4RECwnPdUjz0L0xmNi"
-    },
-    {
-      "added_at": "2024-07-12 19:59:45",
-      "album": {
         "name": "Too Blind To See It",
         "url": "https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 211200,
       "name": "Too Blind to See It",
       "url": "https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG"
+    },
+    {
+      "added_at": "2024-07-12 19:59:45",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "(You Drive Me) Crazy [The Stop Remix!] - Remastered",
+      "url": "https://open.spotify.com/track/5G4w4RECwnPdUjz0L0xmNi"
     },
     {
       "added_at": "2024-07-12 19:59:45",

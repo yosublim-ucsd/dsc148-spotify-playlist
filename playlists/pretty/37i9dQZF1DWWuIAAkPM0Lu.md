@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ...så blev det nye år skudt af med private party 💦 <a href="spotify:artist:3pJK3CUpbnyX7ogDfAwa9J">Tessa</a> / <a href="spotify:artist:3zuy1LOMq0y8aHZn4Ogax0">Rune Rask</a> / <a href="spotify:artist:1pPNZapO1Qthbd90B1LlOS">Klamfyr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,910 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,909 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 30 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
 | 31 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 |
 | 32 | [Spiller](https://open.spotify.com/track/6jvR8z6ueIKraqHMFF9rJ4) | [Selecta](https://open.spotify.com/artist/7t5M9qMpEPj4oXboArlPa3) | [Spiller](https://open.spotify.com/album/41XJE6qXp5dLzwK6s3mk1s) | 2:33 |
-| 33 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
+| 33 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
 | 34 | [start all over](https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [start all over](https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW) | 3:25 |
 | 35 | [Voices In My Head](https://open.spotify.com/track/1hwjsnf6pG8q20oLH5ihSI) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [i just want next year to be better](https://open.spotify.com/album/0kRjwojrO13TouynamNnac) | 3:15 |
 | 36 | [Souvenirs](https://open.spotify.com/track/61gTjqzNXQ1U0MbKk0y36H) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Still Living With My Parents](https://open.spotify.com/album/2O5eUmi2KeXNYqghiw4XBj) | 4:16 |

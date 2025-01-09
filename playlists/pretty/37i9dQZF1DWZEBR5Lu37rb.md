@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,197 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,287 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 39 | [Ibhanoyi](https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:09 |
 | 40 | [Nakufa](https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Amlyoto](https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP) | [Nakufa](https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH) | 4:55 |
 | 41 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 |
-| 42 | [Nomvula](https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1) | 4:37 |
-| 43 | [If Love Is A Crime](https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:29 |
+| 42 | [If Love Is A Crime](https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:29 |
+| 43 | [Nomvula](https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1) | 4:37 |
 | 44 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
 | 45 | [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 |
 | 46 | [Mthande](https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Mr Serious](https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN) | 4:53 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 60 | [Ubuhle Bakho](https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Imali](https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy) | 3:18 |
 | 61 | [Isabella](https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:32 |
 | 62 | [Iinkomo](https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [The Soil](https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ) | 4:06 |
-| 63 | [Mansa](https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Break Through](https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL) | 4:06 |
-| 64 | [Sweet Sensation](https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Sweet Sensation](https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM) | 3:30 |
+| 63 | [Sweet Sensation](https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Sweet Sensation](https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM) | 3:30 |
+| 64 | [Mansa](https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Break Through](https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL) | 4:06 |
 | 65 | [Sondela \(feat\. Yumbs, Raspy, Blxckie, Riky Rick & Tshego\)](https://open.spotify.com/track/0Fts0ctd6WoZPjffe6VlCD) | [Venom](https://open.spotify.com/artist/6fTEwufIDYGyAZjMJqxaW2), [Shishiliza](https://open.spotify.com/artist/1bcMyQ4E06YJPmJIZC1IZj), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Raspy](https://open.spotify.com/artist/0bhq4kdUAhOte4WPNYhhTk), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY) | [Sondela \(feat\. Yumbs, Raspy, Blxckie, Riky Rick & Tshego\)](https://open.spotify.com/album/7JpIFYw3A6DlTK8PsoZ8PA) | 4:06 |
 | 66 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
 | 67 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |

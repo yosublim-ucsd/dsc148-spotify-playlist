@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb">salv the dog</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-126 songs - 6 hr 45 min
+128 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Circuit Bent](https://open.spotify.com/track/314vr3XssUuliX2QAb5GvY) | [STOMACH BOOK](https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN) | [Circuit Bent](https://open.spotify.com/album/6T2tskWsZCC8KK5np7e5mK) | 3:55 | 2024-10-10 |  |
 | [Colorblind](https://open.spotify.com/track/77KJzN42xWRix9N3LQOLrA) | [Shïbae](https://open.spotify.com/artist/687jABLqMnxvaLEdUiRl6d) | [Colorblind](https://open.spotify.com/album/4lOxLrNMNxAnbusLkDJwMi) | 2:59 | 2024-04-19 |  |
 | [Daily](https://open.spotify.com/track/0GEWuY45tW39x9HrkDh39O) | [EJECTDISK](https://open.spotify.com/artist/2IlshD0SdZs0HJppuv2YrO) | [Catastrophe](https://open.spotify.com/album/4BTVGr9BU83d1mObIvbaRw) | 2:27 | 2024-11-16 |  |
-| [Dead internet theory](https://open.spotify.com/track/0rnm3k4dDHWwlN8WNLCekV) | [delle](https://open.spotify.com/artist/7BE9ycKGxDTdID7BN4oPcF) | [Dead internet theory](https://open.spotify.com/album/6PfRGxxjZZ6RKcDqatGUyQ) | 2:30 | 2024-08-01 |  |
+| [Dead internet theory](https://open.spotify.com/track/0rnm3k4dDHWwlN8WNLCekV) | [delle](https://open.spotify.com/artist/7BE9ycKGxDTdID7BN4oPcF) | [Dead internet theory](https://open.spotify.com/album/6PfRGxxjZZ6RKcDqatGUyQ) | 2:30 | 2024-08-01 | 2025-01-09 |
 | [diaries of a small town](https://open.spotify.com/track/6maCQUoO6Ld9GwK1fN0NYQ) | [RUDEDOG](https://open.spotify.com/artist/67Mz6SeKa3JJo65q9zGK2P) | [diaries of a small town](https://open.spotify.com/album/1VQNdZ6m27lRsuPXJyiwX7) | 4:03 | 2024-11-12 |  |
 | [Dog Ears](https://open.spotify.com/track/0e6I94eva07huDA7Fplb01) | [scuttlefuzz](https://open.spotify.com/artist/4ll5RlLT3paku0bQDJCqlu) | [Keychain](https://open.spotify.com/album/0YTa3pfGMUMjqtlfC3tp8I) | 3:24 | 2024-08-09 |  |
 | [Dopesick](https://open.spotify.com/track/0DoLl8JJWmPHSRycONamMW) | [emogen33](https://open.spotify.com/artist/0Edca08DHBA2rZhuYmgl5g) | [Guard Dog Graveyard](https://open.spotify.com/album/6ISIvx7h8qAVz2T6d5jE7J) | 2:08 | 2024-08-06 |  |
@@ -105,6 +105,7 @@
 | [Prodigal](https://open.spotify.com/track/0hPZAF9NiQ8Efnu7ycC8Ux) | [DJ Re:Code](https://open.spotify.com/artist/04r9MV32OBMdMv1eJ9I1CP), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Prodigal](https://open.spotify.com/album/1PMbIr4XHJGQvafXcB1gwd) | 2:29 | 2024-03-07 |  |
 | [propaganda](https://open.spotify.com/track/4c2U7P58Y95NhISigaUPiv) | [noelleallowed](https://open.spotify.com/artist/41VQFslNLf6YwiRlez03wN) | [Flyhighangel](https://open.spotify.com/album/5KGbbfiuvgqMkEFWyMHeR4) | 1:29 | 2024-07-10 |  |
 | [Pull Me Under](https://open.spotify.com/track/5CMiWTOiynz1I93Hg1HdgE) | [Webster](https://open.spotify.com/artist/1Ff9IqbNBya8pbwBV88QMJ) | [Pull Me Under](https://open.spotify.com/album/5BWuKtMIPOTW3tINqeY3Ql) | 3:42 | 2024-08-04 |  |
+| [PUNCTURE WOUND](https://open.spotify.com/track/7j9CLBCltNLLWSkRkCnFm0) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [PUNCTURE WOUND](https://open.spotify.com/album/6UB47krwdiR2eKER9X0e5j) | 3:11 | 2025-01-08 |  |
 | [puppy](https://open.spotify.com/track/2IW0SnE3J30bEKVsImGpxl) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [plastic death](https://open.spotify.com/album/4LKhRqqNlRlWwt4d9GG3QW) | 3:17 | 2024-02-23 |  |
 | [Questions](https://open.spotify.com/track/2ICBfmgjV8zLsj3CaQVkUR) | [lazypines](https://open.spotify.com/artist/3eeZZKtGxkMXFEismB4MFa) | [Daisies](https://open.spotify.com/album/09hJQ90xAGtD8h3aeVWJT6) | 2:28 | 2024-08-31 |  |
 | [Reading Week](https://open.spotify.com/track/4O3PXnWinVC4lVnAUd8xbL) | [MSpaintboi](https://open.spotify.com/artist/7xJ1I1sH56umBzMDpZeHbB), [wizardpem](https://open.spotify.com/artist/2JFUagsbf0C14r43G7LWtA), [Jarhead the Nobody](https://open.spotify.com/artist/3HbWv64NokgOoph89rFxwS) | [Only One To Blame](https://open.spotify.com/album/7tqDBYGfsX9g3FKrYsgIaV) | 2:27 | 2024-07-10 |  |
@@ -118,7 +119,8 @@
 | [SLOWDANCE](https://open.spotify.com/track/1uMf1CtoOAetmkoDe5uRXP) | [Shinemachine](https://open.spotify.com/artist/54UmANd8X3X3hrK78sdGaD) | [Shinemachine](https://open.spotify.com/album/4MvnA2bRmpUxwzsgpaUrlA) | 4:01 | 2024-10-07 |  |
 | [Snow](https://open.spotify.com/track/0511sFKHLfWzdwcfMhbDIJ) | [Bałtyk](https://open.spotify.com/artist/6DvaD5SDKpAtta09armsv9) | [Hope You Can Hear Me Now](https://open.spotify.com/album/4eHctZOtL6X6DixAKYvGfM) | 4:36 | 2024-06-21 |  |
 | [soldier](https://open.spotify.com/track/6SiCWN504BjsrltC65gCyL) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [mutt county](https://open.spotify.com/album/4Jc4ExxRw4sMNLJWfgRzZr) | 1:30 | 2024-09-27 |  |
-| [SOLO SO LONG!](https://open.spotify.com/track/1Z8ZEL5VBsrv3isNOiGVXu) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [SOLO SO LONG!](https://open.spotify.com/album/53bry5BJ4ftArb1VROy0fu) | 2:23 | 2024-10-25 |  |
+| [SOLO SO LONG!](https://open.spotify.com/track/1Z8ZEL5VBsrv3isNOiGVXu) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [SOLO SO LONG!](https://open.spotify.com/album/53bry5BJ4ftArb1VROy0fu) | 2:23 | 2024-10-25 | 2025-01-09 |
+| [Space Force](https://open.spotify.com/track/3lKvqZrmWAZVnlvOcSkMOJ) | [Dima Foxpaws](https://open.spotify.com/artist/5D5oKhFLPRajnQq6vNSvzj) | [Orchid, or "How to Bloom in Total Darkness"](https://open.spotify.com/album/3INGs4Bvk2Sr2G7clpljU0) | 4:20 | 2025-01-08 |  |
 | [special sound](https://open.spotify.com/track/57WDA29oy9hqSK65YoA6SG) | [Łucid dreamer](https://open.spotify.com/artist/7udJA2pap6ZNCw9JH5LcES), [Ima](https://open.spotify.com/artist/24E1bMe5hd2ZbhWjCZasWT) | [HORNS AND FEATHERS](https://open.spotify.com/album/0aeHhC2E1ZoW0DzxU1LOOG) | 2:31 | 2024-04-21 |  |
 | [STAR](https://open.spotify.com/track/3o7Qe6M4XktBcWi5Q3heL7) | [Madi Serket](https://open.spotify.com/artist/1wInKYJHL1RIfHVvXwyy6l), [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [Roxby](https://open.spotify.com/artist/5Ox1oMML9aBKYdLuuhM1v5), [Prime48](https://open.spotify.com/artist/4hy6CcKZDryzhfNihV42JY) | [madithemovie 2: direct2dvd](https://open.spotify.com/album/53H5UBwBqtjWRiVntElLax) | 5:46 | 2024-10-23 |  |
 | [Streetlight By Streetlight](https://open.spotify.com/track/7nns2Zg9w0wuFbnYZiFEHC) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [867](https://open.spotify.com/album/58Llb22QYZsh84c79agEnc) | 5:36 | 2024-11-14 |  |

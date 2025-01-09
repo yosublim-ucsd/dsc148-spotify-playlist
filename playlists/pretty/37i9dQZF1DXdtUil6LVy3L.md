@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,704 likes - 94 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,693 likes - 94 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 50 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
 | 51 | [Angels We Have Heard on High](https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Angels We Have Heard on High](https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF) | 2:40 |
 | 52 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
-| 53 | [Jingle Bell Rock](https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 2:18 |
-| 54 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
+| 53 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
+| 54 | [Jingle Bell Rock](https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 2:18 |
 | 55 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
 | 56 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 |
 | 57 | [A Wishful Night](https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [A Wishful Night](https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA) | 2:27 |

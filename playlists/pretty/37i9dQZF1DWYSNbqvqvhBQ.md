@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 ### [Blijf Luisteren](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> De mooiste liedjes van het moment\. Cover: Lenny Kravitz
+> De mooiste liedjes van het moment\. Cover: Robbie Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,206 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,162 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 |
-| 2 | [New Year's Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
-| 3 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 |
-| 4 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
-| 5 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
-| 6 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 |
-| 7 | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 |
+| 1 | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 |
+| 2 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 |
+| 3 | [New Year's Resolution](https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a) | 4:58 |
+| 4 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 |
+| 5 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
+| 6 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
+| 7 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 |
 | 8 | [Kayo](https://open.spotify.com/track/4lfjBWQ0tE9hvejQ0LtT4k) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Kayo](https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq) | 2:57 |
 | 9 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
 | 10 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 59 | [Let's Take A Shower](https://open.spotify.com/track/6H6XCGMF9e4IDOfG582u4f) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:50 |
 | 60 | [Brotherhood](https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Brotherhood](https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT) | 3:56 |
 
-Snapshot ID: `Z3vXowAAAAA/fglJYhVEBJzKU/pkjLdt`
+Snapshot ID: `Z35L3wAAAADULP6YwuH6NS0b/rtn9InO`

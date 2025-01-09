@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 252491,
+  "num_followers": 252580,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Rap Latino",
-        "url": "https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz"
-      },
-      "artists": [
-        {
-          "name": "Sociedad Caf\u00e9",
-          "url": "https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Neza No. 1",
-      "url": "https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 269680,
       "name": "Latino",
       "url": "https://open.spotify.com/track/7t4rIjeixySolatxQ336g9"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Rap Latino",
+        "url": "https://open.spotify.com/album/3BoZH8XQ34zLmEtrtnggFz"
+      },
+      "artists": [
+        {
+          "name": "Sociedad Caf\u00e9",
+          "url": "https://open.spotify.com/artist/7FJZ5oy5kdpkqWYL2RGvRR"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Neza No. 1",
+      "url": "https://open.spotify.com/track/1IhQVNCnyu52lH1kR89Vt0"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -883,26 +883,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Activados y Prendidos",
-        "url": "https://open.spotify.com/album/38aLvR344hV3HWZoe29Lpp"
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2"
       },
       "artists": [
         {
-          "name": "Santa Estilo",
-          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Pesao (feat. Cartel de Santa & Millonario)",
-      "url": "https://open.spotify.com/track/6yly6C4QeDi4N1CpnFrJc7"
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu"
     }
   ],
   "unique_name": "Hip-Hop Mexicano: Cl\u00e1sicos",

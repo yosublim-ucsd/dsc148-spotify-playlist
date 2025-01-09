@@ -1,12 +1,12 @@
 {
   "description": "Everything will look beautiful if you're inspired by the simplicity of instrumental music.",
-  "num_followers": 76590,
+  "num_followers": 76587,
   "original_name": "Music for Drawing & Painting",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3xtKAAAAAC492I4n+ygQDbl7u8kmQsF",
+  "snapshot_id": "Z37qugAAAAANolLAGQx4eduxrGJ6aIG2",
   "tracks": [
     {
       "added_at": "2021-09-10 01:04:27",
@@ -251,6 +251,22 @@
       "duration_ms": 239656,
       "name": "A Host for All Kinds of Life",
       "url": "https://open.spotify.com/track/557lM1DeqevRyI3PQm1rI2"
+    },
+    {
+      "added_at": "2025-01-08 21:14:34",
+      "album": {
+        "name": "Jay",
+        "url": "https://open.spotify.com/album/4UyiqHjDhTdMs4onWlNLMk"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Jay",
+      "url": "https://open.spotify.com/track/4APoqrhYmINORxY4O2neDg"
     },
     {
       "added_at": "2024-01-23 19:43:02",

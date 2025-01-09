@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Haley Heynderickx",
-  "num_followers": 1398882,
+  "num_followers": 1398937,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Square One",
         "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Vampire Empire / Born For Loving You",
-        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 214073,
-      "name": "Born For Loving You",
-      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "My Light, My Destroyer",
         "url": "https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 189093,
       "name": "Only One",
       "url": "https://open.spotify.com/track/0Bq9VjpPqkP3Mbq4Ui2mbo"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -731,6 +731,34 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 215689,
+      "name": "Ketchum, ID",
+      "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -783,34 +811,6 @@
       "duration_ms": 203235,
       "name": "Lonely Cowboy - Radio Edit",
       "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 215689,
-      "name": "Ketchum, ID",
-      "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "All For Something",
-        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 256245,
-      "name": "People Always Change",
-      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 211517,
       "name": "With You",
       "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 256245,
+      "name": "People Always Change",
+      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Stay cool",
-        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 207982,
-      "name": "Stay cool",
-      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Townie",
         "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 253733,
       "name": "Smoke On the Highway",
       "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Stay cool",
+        "url": "https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 207982,
+      "name": "Stay cool",
+      "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "The Yellow Mile",
+        "url": "https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "The Yellow Mile",
+      "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "The Yellow Mile",
-        "url": "https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "The Yellow Mile",
-      "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1279,6 +1279,38 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Pelican Canyon",
         "url": "https://open.spotify.com/album/6x9fbiMJmJKBqM3Pz94yiR"
       },
@@ -1315,38 +1347,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "This Was A Gift",
         "url": "https://open.spotify.com/album/2tzMAYElf5FKo1AL5Rrcxw"
       },
@@ -1379,42 +1379,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Feel (with Kyson)",
-        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
-      },
-      "artists": [
-        {
-          "name": "YUUL",
-          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Feel - with Kyson",
-      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/55M9iNIkBo7cCYe17KcPD7"
       },
@@ -1435,18 +1399,38 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
         }
       ],
-      "duration_ms": 174539,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Feel (with Kyson)",
+        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
+      },
+      "artists": [
+        {
+          "name": "YUUL",
+          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Feel - with Kyson",
+      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 371976,
       "name": "Sold My Soul",
       "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Younger & Dumber",
+        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Younger & Dumber",
+      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Somewhere in Chicago",
-        "url": "https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 185901,
-      "name": "Somewhere in Chicago",
-      "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "I Imagine You Are Happy",
         "url": "https://open.spotify.com/album/3aEZw35iy4byUNEc6vcK25"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 217570,
       "name": "I Imagine You Are Happy",
       "url": "https://open.spotify.com/track/6xoNSCZMDFOgLSFsOz1YjL"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Somewhere in Chicago",
+        "url": "https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 185901,
+      "name": "Somewhere in Chicago",
+      "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1843,8 +1843,8 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Fourth of July",
-        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
       },
       "artists": [
         {
@@ -1852,9 +1852,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 223201,
-      "name": "Fourth of July - April Base Version",
-      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/41vjTx4EVtMQnTFtGF1mk9"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 345291,
-      "name": "Wide As Heaven",
-      "url": "https://open.spotify.com/track/03Qi8RSv6ndk9jLQU7VEFx"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Redwoods",
         "url": "https://open.spotify.com/album/4b9qOXsdeuAWheQ9tZ8KIb"
       },
@@ -1963,8 +1947,24 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/41vjTx4EVtMQnTFtGF1mk9"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 345291,
+      "name": "Wide As Heaven",
+      "url": "https://open.spotify.com/track/03Qi8RSv6ndk9jLQU7VEFx"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Fourth of July",
+        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
       },
       "artists": [
         {
@@ -1972,9 +1972,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+      "duration_ms": 223201,
+      "name": "Fourth of July - April Base Version",
+      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Satan / Jacob Rose",
-        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 196264,
-      "name": "Satan",
-      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Satan / Jacob Rose",
+        "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 196264,
+      "name": "Satan",
+      "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Alabama Haint",
-        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 182601,
-      "name": "Alabama Haint",
-      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "happy accident",
         "url": "https://open.spotify.com/album/6TF05xh9TbmpbQBwxAKbHA"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 345096,
       "name": "happy accident",
       "url": "https://open.spotify.com/track/4CIoVUlxgd0nlSIEhJb4of"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Alabama Haint",
+        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Alabama Haint",
+      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
     },
     {
       "added_at": "2024-10-18 04:00:00",

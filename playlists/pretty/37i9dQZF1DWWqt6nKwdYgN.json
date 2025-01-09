@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Ad\u00e1n Cruz en portada. ",
-  "num_followers": 16813,
+  "num_followers": 16822,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
+        "name": "Corazon Blanco",
+        "url": "https://open.spotify.com/album/13gsMrmQcEwbKnVUpTUeJF"
+      },
+      "artists": [
+        {
+          "name": "Big Stan",
+          "url": "https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd"
+        },
+        {
+          "name": "Logetmay",
+          "url": "https://open.spotify.com/artist/1Q52IrHBmdN3ioy3XNIAeI"
+        }
+      ],
+      "duration_ms": 168710,
+      "name": "Corazon Blanco",
+      "url": "https://open.spotify.com/track/1ijISWzGtdSyMZOCZ2FR13"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
         "name": "Temor A Dios",
         "url": "https://open.spotify.com/album/3nFRuUPTvmg3v5xU0iuntc"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 170755,
       "name": "Temor A Dios",
       "url": "https://open.spotify.com/track/76aGL0QwyG1Wq1AQX9JsfI"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "Corazon Blanco",
-        "url": "https://open.spotify.com/album/13gsMrmQcEwbKnVUpTUeJF"
-      },
-      "artists": [
-        {
-          "name": "Big Stan",
-          "url": "https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd"
-        },
-        {
-          "name": "Logetmay",
-          "url": "https://open.spotify.com/artist/1Q52IrHBmdN3ioy3XNIAeI"
-        }
-      ],
-      "duration_ms": 168710,
-      "name": "Corazon Blanco",
-      "url": "https://open.spotify.com/track/1ijISWzGtdSyMZOCZ2FR13"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/4dBPygLWe6vYp6GSiAWDz3"
-      },
-      "artists": [
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 195519,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0akXdaUMmf9RIxFa0TopzG"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
         "name": "Tatequieto",
         "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 152210,
       "name": "Tatequieto",
       "url": "https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/4dBPygLWe6vYp6GSiAWDz3"
+      },
+      "artists": [
+        {
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 195519,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0akXdaUMmf9RIxFa0TopzG"
     },
     {
       "added_at": "2024-12-20 06:00:09",
@@ -803,6 +803,30 @@
     {
       "added_at": "2024-12-20 06:00:09",
       "album": {
+        "name": "NADA QUE TEMER",
+        "url": "https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ"
+      },
+      "artists": [
+        {
+          "name": "MC Ari",
+          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        },
+        {
+          "name": "L'Xuasma",
+          "url": "https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "NADA QUE TEMER",
+      "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
+    },
+    {
+      "added_at": "2024-12-20 06:00:09",
+      "album": {
         "name": "Con la Frente en Alto",
         "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
       },
@@ -835,30 +859,6 @@
       "duration_ms": 124705,
       "name": "ICONIC PERRA",
       "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
-    },
-    {
-      "added_at": "2024-12-20 06:00:09",
-      "album": {
-        "name": "NADA QUE TEMER",
-        "url": "https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ"
-      },
-      "artists": [
-        {
-          "name": "MC Ari",
-          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
-        },
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
-        },
-        {
-          "name": "L'Xuasma",
-          "url": "https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "NADA QUE TEMER",
-      "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
     },
     {
       "added_at": "2024-12-20 06:00:09",

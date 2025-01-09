@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52077,
+  "num_followers": 52080,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Z2WXtAAAAADYrPfS6PO0nIlLXkq3uVmP",
   "tracks": [
+    {
+      "added_at": "2024-12-20 16:13:40",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
-    },
-    {
-      "added_at": "2024-12-20 16:13:40",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2024-12-20 16:13:40",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 223546,
       "name": "Ms. Fat Booty",
       "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
+    },
+    {
+      "added_at": "2024-12-20 16:13:40",
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
-        "name": "BOA",
-        "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 154732,
-      "name": "BOA",
-      "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
-    },
-    {
-      "added_at": "2024-12-20 16:13:40",
-      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -407,26 +391,18 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
-        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
+        "name": "BOA",
+        "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 176034,
-      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
+      "duration_ms": 154732,
+      "name": "BOA",
+      "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -447,6 +423,30 @@
       "duration_ms": 225000,
       "name": "Johnny P's Caddy",
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
+    },
+    {
+      "added_at": "2024-12-20 16:13:40",
+      "album": {
+        "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 176034,
+      "name": "Gorgeous (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
-        "name": "FAN",
-        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
+        "name": "Nothing Changed",
+        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
         }
       ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
+      "duration_ms": 199111,
+      "name": "Nothing Changed",
+      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -855,22 +859,18 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
-        "name": "Nothing Changed",
-        "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 199111,
-      "name": "Nothing Changed",
-      "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
+        "name": "Let It Breathe",
+        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Let It Breathe",
+      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
+    },
+    {
+      "added_at": "2024-12-20 16:13:40",
+      "album": {
         "name": "$oul $old $eparately",
         "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 157639,
       "name": "Pain & Strife (feat. Offset)",
       "url": "https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1"
-    },
-    {
-      "added_at": "2024-12-20 16:13:40",
-      "album": {
-        "name": "Let It Breathe",
-        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Let It Breathe",
-      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
-        "name": "Dark Hearted",
-        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 205851,
-      "name": "Dark Hearted",
-      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
-    },
-    {
-      "added_at": "2024-12-20 16:13:40",
-      "album": {
         "name": "Survivors Guilt",
         "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 352613,
       "name": "Survivors Guilt",
       "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
+    },
+    {
+      "added_at": "2024-12-20 16:13:40",
+      "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
+        "name": "Torpedo",
+        "url": "https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "duration_ms": 240967,
+      "name": "Torpedo",
+      "url": "https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw"
+    },
+    {
+      "added_at": "2024-12-20 16:13:40",
+      "album": {
         "name": "Back In Traffic (feat. KIRBY)",
         "url": "https://open.spotify.com/album/7iTi1Vio2z7cT0ZvQiIWFN"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 184986,
       "name": "Back In Traffic (feat. KIRBY)",
       "url": "https://open.spotify.com/track/569BY50TiwaEnAQYI4F6r0"
-    },
-    {
-      "added_at": "2024-12-20 16:13:40",
-      "album": {
-        "name": "Torpedo",
-        "url": "https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        }
-      ],
-      "duration_ms": 240967,
-      "name": "Torpedo",
-      "url": "https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -2283,26 +2283,18 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
-        "name": "THE HUSTLE CONTINUES",
-        "url": "https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO"
+        "name": "Super",
+        "url": "https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo"
       },
       "artists": [
         {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         }
       ],
-      "duration_ms": 198274,
-      "name": "SPEND IT",
-      "url": "https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62"
+      "duration_ms": 177553,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz"
     },
     {
       "added_at": "2024-12-20 16:13:40",
@@ -2327,22 +2319,6 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
-        "name": "Super",
-        "url": "https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 177553,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz"
-    },
-    {
-      "added_at": "2024-12-20 16:13:40",
-      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk"
       },
@@ -2359,8 +2335,32 @@
     {
       "added_at": "2024-12-20 16:13:40",
       "album": {
-        "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
-        "url": "https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr"
+        "name": "THE HUSTLE CONTINUES",
+        "url": "https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 198274,
+      "name": "SPEND IT",
+      "url": "https://open.spotify.com/track/15CaM867TKXMlgiU1wHH62"
+    },
+    {
+      "added_at": "2024-12-20 16:13:40",
+      "album": {
+        "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
+        "url": "https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8"
       },
       "artists": [
         {
@@ -2372,21 +2372,17 @@
           "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
         },
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         },
         {
-          "name": "Dylan Cartlidge",
-          "url": "https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
         }
       ],
-      "duration_ms": 281360,
-      "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
-      "url": "https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV"
+      "duration_ms": 248000,
+      "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
+      "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
     }
   ],
   "unique_name": "no corre",

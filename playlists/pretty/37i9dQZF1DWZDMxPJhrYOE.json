@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105073,
+  "num_followers": 105063,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-01-02 00:28:44",
       "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
-    },
-    {
-      "added_at": "2025-01-02 00:28:44",
-      "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2025-01-02 00:28:44",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "added_at": "2025-01-02 00:28:44",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-01-02 00:28:44",
       "album": {
-        "name": "number one girl",
-        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
-    },
-    {
-      "added_at": "2025-01-02 00:28:44",
-      "album": {
         "name": "Dancing In The Flames",
         "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2025-01-02 00:28:44",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "added_at": "2025-01-02 00:28:44",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-01-02 00:28:44",
       "album": {
-        "name": "Tantalizing",
-        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Soaky Siren",
-          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Tantalizing",
-      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
-    },
-    {
-      "added_at": "2025-01-02 00:28:44",
-      "album": {
         "name": "AFTERCARE",
         "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
       },
@@ -883,18 +863,22 @@
     {
       "added_at": "2025-01-02 00:28:44",
       "album": {
-        "name": "last night's mascara",
-        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
+        "name": "Tantalizing",
+        "url": "https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
         }
       ],
-      "duration_ms": 177350,
-      "name": "last night's mascara",
-      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+      "duration_ms": 146341,
+      "name": "Tantalizing",
+      "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
     },
     {
       "added_at": "2025-01-02 00:28:44",
@@ -919,22 +903,18 @@
     {
       "added_at": "2025-01-02 00:28:44",
       "album": {
-        "name": "Looking For Love",
-        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
+        "name": "last night's mascara",
+        "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 173193,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
+      "duration_ms": 177350,
+      "name": "last night's mascara",
+      "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
     },
     {
       "added_at": "2025-01-02 00:28:44",
@@ -951,6 +931,26 @@
       "duration_ms": 158936,
       "name": "OK",
       "url": "https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U"
+    },
+    {
+      "added_at": "2025-01-02 00:28:44",
+      "album": {
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173193,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS"
     },
     {
       "added_at": "2025-01-02 00:28:44",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-01-02 00:28:44",
       "album": {
+        "name": "IYKYK",
+        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
+    },
+    {
+      "added_at": "2025-01-02 00:28:44",
+      "album": {
         "name": "Body Talk (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2025-01-02 00:28:44",
       "album": {
-        "name": "IYKYK",
-        "url": "https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL"
+        "name": "Luk Mig Ind",
+        "url": "https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
         }
       ],
-      "duration_ms": 180000,
-      "name": "IYKYK",
-      "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
+      "duration_ms": 197706,
+      "name": "Luk Mig Ind",
+      "url": "https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu"
     },
     {
       "added_at": "2025-01-02 00:28:44",
@@ -1099,22 +1115,6 @@
       "duration_ms": 198461,
       "name": "I'M HIS, HE'S MINE (feat. Doechii)",
       "url": "https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL"
-    },
-    {
-      "added_at": "2025-01-02 00:28:44",
-      "album": {
-        "name": "Luk Mig Ind",
-        "url": "https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Luk Mig Ind",
-      "url": "https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu"
     },
     {
       "added_at": "2025-01-02 00:28:44",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-01-02 00:28:44",
       "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2025-01-02 00:28:44",
-      "album": {
         "name": "SOMEONE TO YOU",
         "url": "https://open.spotify.com/album/24A93xPSOf7aLOVRNtF5Be"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 179854,
       "name": "SOMEONE TO YOU",
       "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
+    },
+    {
+      "added_at": "2025-01-02 00:28:44",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
     },
     {
       "added_at": "2025-01-02 00:28:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 一起來欣賞 2024 RADAR 新勢力藝人本年度最精采的表現！Cover: PIZALLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,784 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,787 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

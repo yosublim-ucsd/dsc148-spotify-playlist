@@ -4389,6 +4389,24 @@
     },
     {
       "album": {
+        "name": "Can\u00edbal",
+        "url": "https://open.spotify.com/album/4jQ8K2tKpHNAGq2XxWvWlL"
+      },
+      "artists": [
+        {
+          "name": "Azuleja",
+          "url": "https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226445,
+      "name": "Can\u00edbal",
+      "url": "https://open.spotify.com/track/5Q3lY0FTjpfz5hHvmOK3sA"
+    },
+    {
+      "album": {
         "name": "CAP TROSSET DE MI",
         "url": "https://open.spotify.com/album/4RiffpmN4imayB7T3N6gSt"
       },
@@ -9732,7 +9750,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 107088,
       "name": "ESA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/4ryU3TUun2yZ3VbDBVjibj"
@@ -10646,6 +10664,24 @@
       "duration_ms": 194704,
       "name": "FOR\u00c7A",
       "url": "https://open.spotify.com/track/3qEV8xqxiGeQUNNM1wA4S7"
+    },
+    {
+      "album": {
+        "name": "FOTOMAT\u00d3N",
+        "url": "https://open.spotify.com/album/5mJTu2hHXeFE8tBNxIuZVA"
+      },
+      "artists": [
+        {
+          "name": "Luna Zuazu",
+          "url": "https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "FOTOMAT\u00d3N",
+      "url": "https://open.spotify.com/track/4nOYt1P3xyq9LhC8DYCC8T"
     },
     {
       "album": {
@@ -20264,7 +20300,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 228071,
       "name": "No temas nada",
       "url": "https://open.spotify.com/track/3OjwzmBukDkON9CFBzsBU2"

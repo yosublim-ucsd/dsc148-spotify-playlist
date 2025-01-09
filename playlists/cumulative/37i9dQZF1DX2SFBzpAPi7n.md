@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Redoor\(리도어\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-835 songs - 2 day 2 hr 54 min
+836 songs - 2 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [Wi Ing Wi Ing 위잉위잉](https://open.spotify.com/track/5NnNl71fwVkuB1M45CXvdb) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6rvPr27TMi5v6EJkHeInR4) | 3:14 | 2022-05-24 | 2022-07-27 |
 | [Wind Blows](https://open.spotify.com/track/3xml6p9dSyY4hVPF6UGtdc) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:17 | 2022-05-03 | 2022-06-22 |
 | [WINDFALL](https://open.spotify.com/track/4vDQif49Q72QYDvv6wY3Jm) | [Batu](https://open.spotify.com/artist/46KDmhUlDVGGuku0s3n06t) | [EMOTION AND HARMONY](https://open.spotify.com/album/03ikfIg0GxnNMlFl6wlKLi) | 4:43 | 2022-10-02 | 2022-10-19 |
+| [Winner](https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [CONNECTION](https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH) | 3:03 | 2025-01-08 |  |
 | [winter dance](https://open.spotify.com/track/2Mx0neWJtuAfBy830NavHa) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [winter dance](https://open.spotify.com/album/6rUp3SNTFjtPD9dRtwreYJ) | 3:22 | 2024-12-02 |  |
 | [WINTER FLOWER\(Feat.RM\)](https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [UNSTABLE MINDSET](https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s) | 3:41 | 2022-04-12 | 2024-11-07 |
 | [Wishlist](https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:11 | 2022-04-12 | 2024-11-07 |

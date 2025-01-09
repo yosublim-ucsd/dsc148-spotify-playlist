@@ -1,12 +1,12 @@
 {
   "description": "The songs with the biggest throwback moments. Cover: Bruno Mars",
-  "num_followers": 949633,
+  "num_followers": 951374,
   "original_name": "Top Viral Throwbacks ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3dKcQAAAAA06cnqKA7CTxngYhE8N+o/",
+  "snapshot_id": "Z384rwAAAADI4W98Uv1JKwZSXQOi2CR4",
   "tracks": [
     {
       "added_at": "2024-11-27 04:44:09",
@@ -23,6 +23,22 @@
       "duration_ms": 206693,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "added_at": "2025-01-09 02:47:11",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
     },
     {
       "added_at": "2024-11-27 04:44:09",
@@ -219,38 +235,6 @@
       "duration_ms": 330200,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7hyFKrPZo1Zv4D35MpTBdr"
-    },
-    {
-      "added_at": "2024-11-27 04:44:09",
-      "album": {
-        "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1woCvthHJakakroP6dXNxs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Schwartz",
-          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
-        },
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Stephen Oremus",
-          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
-        },
-        {
-          "name": "Alex Lacamoire",
-          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
-        }
-      ],
-      "duration_ms": 353920,
-      "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
-      "url": "https://open.spotify.com/track/184HGdGIscUiPbDuqbvHuN"
     },
     {
       "added_at": "2024-12-19 20:42:41",

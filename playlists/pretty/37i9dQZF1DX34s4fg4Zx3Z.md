@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những bài hát Fresh Finds Vietnam hay nhất năm 2024\. Ảnh bìa: Sweet Liquor
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,117 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,120 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 46 | [CHẠY](https://open.spotify.com/track/2vjRADyu4oPQqTjFoaZPh3) | [Trúc](https://open.spotify.com/artist/6NhIqmbIYCMpWp7CWkV0uA), [Ngô Hoàng Hạ](https://open.spotify.com/artist/0cjucqNf0C41ynv9qqMcR9) | [CHẠY](https://open.spotify.com/album/68BSUF2DkYA8CIOlaqmJtd) | 3:24 |
 | 47 | [Vệt Nắng Nhạt Phai](https://open.spotify.com/track/4mZzqlaG67gUD0lAQIEVMs) | [Kai](https://open.spotify.com/artist/7Arxev7cDH8LukhCCSBMgp), [Xưa Lâm](https://open.spotify.com/artist/48paF1vGoA5tuyve0fmN8a), [Dylann.](https://open.spotify.com/artist/3I2zyKkfEGyPtkrVqNC3Dz), [The Felixetine](https://open.spotify.com/artist/7bfBdJSn0HbXJ7kYWjRqHf) | [Vệt Nắng Nhạt Phai](https://open.spotify.com/album/3sOlwcyicTG93aslsJ01E8) | 4:21 |
 | 48 | [Kissing You In The Moonlight](https://open.spotify.com/track/1dWzF9U7fDioZ02wGXjC1a) | [DUCCI](https://open.spotify.com/artist/6dTVAhB03h53w5MHSUXhtY), [Huông](https://open.spotify.com/artist/30JCoaqvbonz0DY1x5qTuA) | [Kissing You In The Moonlight](https://open.spotify.com/album/0ospNwcHIuf7MKbw8uGGZT) | 3:32 |
-| 49 | [Luôn Vui Tươi](https://open.spotify.com/track/5SXNRM0Y5kOayJ9i89PRVK) | [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q) | [Luôn Vui Tươi](https://open.spotify.com/album/7y3Ir3HkyTQvXUQ3mjqsMt) | 3:33 |
+| 49 | [Luôn Vui Tươi](https://open.spotify.com/track/5SXNRM0Y5kOayJ9i89PRVK) | [REMI](https://open.spotify.com/artist/6igkzM7zpO8fefhXMRYapb) | [Luôn Vui Tươi](https://open.spotify.com/album/7y3Ir3HkyTQvXUQ3mjqsMt) | 3:33 |
 | 50 | [Tâm Trí Em](https://open.spotify.com/track/2a9VFIWrZB5J2BY8LPUKsU) | [Linh Ka](https://open.spotify.com/artist/6gXUsziOuoRCgmtm62Nrny), [Mason Nguyen](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31) | [Tâm Trí Em](https://open.spotify.com/album/2O8sI6M3mYH9whdrw6OPwX) | 3:25 |
 
 Snapshot ID: `Z1BHxAAAAAC8VcKvdJIJmNNiigZMkWKk`

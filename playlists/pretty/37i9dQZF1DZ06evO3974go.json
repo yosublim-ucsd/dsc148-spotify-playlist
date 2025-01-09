@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19692,
+  "num_followers": 19696,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAFwI3WFozwf3H/Zd+j8Lh6",
+  "snapshot_id": "Z3xugAAAAABM5Yqjne+LNOw8Lh9Cu9hd",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Cry",
-        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 169880,
-      "name": "Song Cry",
-      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich As In Spirit",
         "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 195908,
       "name": "Never Fold",
       "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Cry",
+        "url": "https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 169880,
+      "name": "Song Cry",
+      "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
       "duration_ms": 267586,
       "name": "Like a Man (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/27PtszzqiR0o7rLyOOiVNZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luca Brasi 2: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 191532,
+      "name": "Word Around Town (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
     },
     {
       "added_at": null,
@@ -515,26 +535,6 @@
       "duration_ms": 240133,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luca Brasi 2: Gangsta Grillz",
-        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
-      },
-      "artists": [
-        {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 191532,
-      "name": "Word Around Town (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/3FvVE0YTeiCFkThIT1nmTL"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 114385,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
+      "duration_ms": 210409,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
     },
     {
       "added_at": null,
@@ -640,6 +640,38 @@
       "added_at": null,
       "album": {
         "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 287085,
+      "name": "Imma Ride",
+      "url": "https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 114385,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
       "artists": [
@@ -655,38 +687,6 @@
       "duration_ms": 222720,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 210409,
-      "name": "Stressed",
-      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 287085,
-      "name": "Imma Ride",
-      "url": "https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 141586,
+      "name": "Unlimited Budget",
+      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 350563,
       "name": "Flava",
       "url": "https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 141586,
-      "name": "Unlimited Budget",
-      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daily Bread",
-        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Daily Bread",
-      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever Goin In",
         "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 202000,
       "name": "Wyb Quan",
       "url": "https://open.spotify.com/track/1aqBIKr0HZXaCFLGxj2RwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 115586,
+      "name": "Suffocating",
+      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Authentic (feat. Clever)",
         "url": "https://open.spotify.com/album/1uAmD5f6sOUFpPnPDaR7ns"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 192266,
       "name": "Authentic (feat. Clever)",
       "url": "https://open.spotify.com/track/3476C9I5Qad2eqlGnrRspF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 115586,
-      "name": "Suffocating",
-      "url": "https://open.spotify.com/track/3VCWEq0O2sacNcPeIqWbnX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground 💎 💎 at the heart of club culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,546 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,566 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 35 | [Down](https://open.spotify.com/track/1j2cPDv0paMbsUwipMxnFb) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [Down](https://open.spotify.com/album/78iS9OzrtwtXva8Hx9dwUI) | 4:11 |
 | 36 | [C.R.U.S.H.](https://open.spotify.com/track/36lrFRfMH2SWBag141DLkB) | [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [C.R.U.S.H.](https://open.spotify.com/album/2GDuHM5p9ZtlsUFJhzrQoB) | 5:41 |
 | 37 | [Pulse XIII](https://open.spotify.com/track/2nJGylEwkddd4j7EAG4WH5) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Pulse Echo EP](https://open.spotify.com/album/65s546D9JTDUOLzgJ4o8BN) | 5:32 |
-| 38 | [Ibis \(feat\. Caravan\)](https://open.spotify.com/track/1Fu2ySdDwZ2t5NmzBkSRXP) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh), [Caravan](https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s) | [Acid Latino](https://open.spotify.com/album/5ixX6g6MeenyE1LlAjjdBL) | 3:32 |
+| 38 | [Ibis \(feat\. Caravan\)](https://open.spotify.com/track/1Fu2ySdDwZ2t5NmzBkSRXP) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh), [Caravan](https://open.spotify.com/artist/7ghZCxT8Kwwbd0AsRXrrgh) | [Acid Latino](https://open.spotify.com/album/5ixX6g6MeenyE1LlAjjdBL) | 3:32 |
 | 39 | [Denim](https://open.spotify.com/track/487NVtfK2dPBKfPcNNm6sV) | [Monaco](https://open.spotify.com/artist/02V1n6R9YCKCWCPW0RchfB), [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC), [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG) | [Denim](https://open.spotify.com/album/0uJnkVwRg2k1VJowdNxEpq) | 3:23 |
 | 40 | [Twin Cities \- Edit](https://open.spotify.com/track/3bMhLbLk1iB77Z8wmv1ZNW) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk), [Twin Cities](https://open.spotify.com/artist/4uD6y1wAjWtg9bigs0UoPH) | [Twin Cities](https://open.spotify.com/album/1oenhC9FiwWSHgughIZBce) | 3:03 |
 | 41 | [Echo Chamber](https://open.spotify.com/track/6OPEYy0VgT0shfgH5VclGE) | [Stefan Ringer](https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV) | [Echo Chamber](https://open.spotify.com/album/3bg86xrdNM0N9oEm9ThO8p) | 5:45 |

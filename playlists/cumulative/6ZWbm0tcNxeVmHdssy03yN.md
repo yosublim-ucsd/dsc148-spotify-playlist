@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-4,762 songs - 10 day 12 hr 22 min
+4,763 songs - 10 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1408,6 +1408,7 @@
 | [FANBOY](https://open.spotify.com/track/5KJbyFw7OmqGeuLGIa5up4) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [FANBOY](https://open.spotify.com/album/4Hu2YOAU6qB3d4BShBK7pH) | 3:01 | 2022-10-07 | 2022-11-05 |
 | [Fangs](https://open.spotify.com/track/6VdShKh57ahXNk3i9EGODJ) | [Austin Plaine](https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN) | [Fangs](https://open.spotify.com/album/2V2t1cJNidFt3UGwUuViAa) | 3:54 | 2020-11-07 | 2021-01-23 |
 | [Fantasma](https://open.spotify.com/track/5lHTn6FuRalBBQZMUJt1xH) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [CARIBE 4 LIFE](https://open.spotify.com/album/30kNCcBRLO4ju5EOx41OJK) | 3:26 | 2021-11-13 | 2021-12-11 |
+| [FANTASMA \(versão GORDÃO DO PC\)](https://open.spotify.com/track/6x6EA3N9xXgptSakS7VZUg) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Mc Menor DN](https://open.spotify.com/artist/2FJjf1qmmogfQyqLKjbPML), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [FANTASMA \(versão GORDÃO DO PC\)](https://open.spotify.com/album/7JbiJkrVXvo1num2mfA33v) | 2:51 | 2025-01-08 |  |
 | [Far Away](https://open.spotify.com/track/4IxX3PGMYUtJVf1065uba6) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Far Away](https://open.spotify.com/album/2ge6TECyNNu5GDWiwhFZIO) | 2:58 | 2022-10-14 | 2022-11-05 |
 | [Far Away](https://open.spotify.com/track/0HKzYLiNdTdGFfgStbfpQV) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP) | [Far Away](https://open.spotify.com/album/6ebG7C6aLeVRnhWfFxdZHi) | 2:11 | 2021-03-14 | 2021-06-05 |
 | [Far Away](https://open.spotify.com/track/2yMdv5UHtPR1nIPz4WZPhB) | [Walden](https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF), [audrey.](https://open.spotify.com/artist/5vDmL6Nr1oJABEM18UJ3Dw) | [Waiting for the Moment](https://open.spotify.com/album/6GhkVqYhStbM3ZjeghnNtX) | 3:37 | 2022-07-22 | 2022-08-27 |

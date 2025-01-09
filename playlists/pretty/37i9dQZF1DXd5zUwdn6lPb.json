@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 346077,
+  "num_followers": 346299,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Confesi\u00f3n (From \"A Cielo Abierto\" Soundtrack)",
-        "url": "https://open.spotify.com/album/4Ao1IzLNfYnh9so8pC8jQ1"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 94586,
-      "name": "Confesi\u00f3n - From \"A Cielo Abierto\" Soundtrack",
-      "url": "https://open.spotify.com/track/04NpG3JzX18W94sxDMAt7L"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
         "name": "Bach, J.S. / Purcell / Handel: Stokowski Transcriptions",
         "url": "https://open.spotify.com/album/7yTPt5MG7Rh9mST50YtQDQ"
       },
@@ -419,26 +403,18 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
-        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
+        "name": "Confesi\u00f3n (From \"A Cielo Abierto\" Soundtrack)",
+        "url": "https://open.spotify.com/album/4Ao1IzLNfYnh9so8pC8jQ1"
       },
       "artists": [
         {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Michael Rische",
-          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
-        },
-        {
-          "name": "Kammersymphonie Leipzig",
-          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
-      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
+      "duration_ms": 94586,
+      "name": "Confesi\u00f3n - From \"A Cielo Abierto\" Soundtrack",
+      "url": "https://open.spotify.com/track/04NpG3JzX18W94sxDMAt7L"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -467,22 +443,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Bewitched (Rework)",
-        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
+        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
+        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
         },
         {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "Michael Rische",
+          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
+        },
+        {
+          "name": "Kammersymphonie Leipzig",
+          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
         }
       ],
-      "duration_ms": 262876,
-      "name": "Bewitched - Rework",
-      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
+      "duration_ms": 198333,
+      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
+      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -503,6 +483,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
+        "name": "Bewitched (Rework)",
+        "url": "https://open.spotify.com/album/4gC9HHS8VYAlVUw1gqxUQB"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 262876,
+      "name": "Bewitched - Rework",
+      "url": "https://open.spotify.com/track/5pdc3oeoqidUv0pem5xenZ"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
         "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
         "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
@@ -515,6 +515,26 @@
       "duration_ms": 101375,
       "name": "G\u00e9n\u00e9rique de fin",
       "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -603,26 +623,6 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
         "name": "Solon Islandus (Complete Works)",
         "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
       },
@@ -679,30 +679,6 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Glass: Tissue No. 7 (Musical Moments)",
-        "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Camille Thomas",
-          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
-        },
-        {
-          "name": "Julien Brocal",
-          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
-        }
-      ],
-      "duration_ms": 195712,
-      "name": "Tissue No. 7",
-      "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/0q6TkS6KL7l6gjeyoDHtQQ"
       },
@@ -747,22 +723,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
-        "url": "https://open.spotify.com/album/06qLCT2VJCWRbxkJV7YvC8"
+        "name": "Glass: Tissue No. 7 (Musical Moments)",
+        "url": "https://open.spotify.com/album/6NLMY1DYWgGhKq0c1pjlZs"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Julien Brocal",
+          "url": "https://open.spotify.com/artist/5xFAEWAcB0A5e7qk3UO2pc"
         }
       ],
-      "duration_ms": 268461,
-      "name": "Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
-      "url": "https://open.spotify.com/track/14MG8dXMuUjylGn350RKtT"
+      "duration_ms": 195712,
+      "name": "Tissue No. 7",
+      "url": "https://open.spotify.com/track/5PIijxAWbWAOvJ3TKhejPA"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -791,6 +771,26 @@
       "duration_ms": 159010,
       "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
       "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
+        "name": "J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
+        "url": "https://open.spotify.com/album/06qLCT2VJCWRbxkJV7YvC8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 268461,
+      "name": "Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
+      "url": "https://open.spotify.com/track/14MG8dXMuUjylGn350RKtT"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
+        "name": "Movement 5 - Pt. 2",
+        "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Scottish Ensemble",
+          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
+        }
+      ],
+      "duration_ms": 252920,
+      "name": "Movement 5 - Pt. 2 - Instrumental",
+      "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
-        "name": "Movement 5 - Pt. 2",
-        "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Scottish Ensemble",
-          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Movement 5 - Pt. 2 - Instrumental",
-      "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 242333,
       "name": "Try",
       "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1759,22 +1759,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+        "name": "W.F. Bach: Sinfonias",
+        "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
       "artists": [
         {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
         },
         {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+          "name": "Carl Philipp Emanuel Bach Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2KRJoMGVDxlkykGLqvZqRy"
+        },
+        {
+          "name": "Hartmut Haenchen",
+          "url": "https://open.spotify.com/artist/3XKpIwa3KEaO1VE3YrKlL1"
         }
       ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+      "duration_ms": 153800,
+      "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
+      "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1799,26 +1803,22 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "W.F. Bach: Sinfonias",
-        "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
       },
       "artists": [
         {
-          "name": "Wilhelm Friedemann Bach",
-          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
         },
         {
-          "name": "Carl Philipp Emanuel Bach Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2KRJoMGVDxlkykGLqvZqRy"
-        },
-        {
-          "name": "Hartmut Haenchen",
-          "url": "https://open.spotify.com/artist/3XKpIwa3KEaO1VE3YrKlL1"
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
-      "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1971,22 +1971,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
         }
       ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
+      "duration_ms": 230426,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
+      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -2015,26 +2019,22 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
       "artists": [
         {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 230426,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
-      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
     },
     {
       "added_at": "2025-01-07 09:54:00",

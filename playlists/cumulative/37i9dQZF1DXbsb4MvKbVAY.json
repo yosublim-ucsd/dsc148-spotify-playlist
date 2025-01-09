@@ -8307,6 +8307,24 @@
     },
     {
       "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF"
+      },
+      "artists": [
+        {
+          "name": "NEEA RIVER",
+          "url": "https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178040,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln"
+    },
+    {
+      "album": {
         "name": "Niin kuin s\u00e4",
         "url": "https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1"
       },
@@ -8580,7 +8598,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 181308,
       "name": "Odota Remix",
       "url": "https://open.spotify.com/track/2aWWSkiJxApWZoQolFb9kq"

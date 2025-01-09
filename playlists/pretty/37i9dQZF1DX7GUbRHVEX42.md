@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\. Welcome To Jamrock Reggae Cruise\. Cover: H.E.R & Lila Ike
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,537 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,589 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 67 | [Message Of Love](https://open.spotify.com/track/3Vr6JTctfPeDOVAEc6TJbj) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Message Of Love](https://open.spotify.com/album/1lLiwJF55HL5rfIZLD09Ve) | 3:08 |
 | 68 | [1865 \(96 Degrees In The Shade\) \[Re\-Recorded\]](https://open.spotify.com/track/4tI7IW2L7UfI052FOwgS5N) | [Third World](https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ) | [1865 \(96 Degrees In The Shade\) \[Re\-Recorded\] \[Acapella\] \- Single](https://open.spotify.com/album/7MU0ZWUVRON6MvGzA3sHMb) | 4:18 |
 | 69 | [Mama's Prayer](https://open.spotify.com/track/12zOHhw84rjzStFU9EJDgs) | [Zagga](https://open.spotify.com/artist/7kxhAigiReN4qjtyOZPeg5) | [Mama's Prayer](https://open.spotify.com/album/1VG17Zkbog3ddUDLcu5P43) | 3:14 |
-| 70 | [Moonage Daydream](https://open.spotify.com/track/01jTcKw2oL7Ho0J3wvkR7e) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Naomi Cowan](https://open.spotify.com/artist/129TLJBvb1WfwaaBsSIH1m) | [Moonage Daydream](https://open.spotify.com/album/7B4rzkIjVtGyxPEGYUgizu) | 4:33 |
+| 70 | [How Could You](https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Six Miles Riddim](https://open.spotify.com/album/26F2DJwryT3drRoc3EVuby) | 3:47 |
 
 Snapshot ID: `ZnFvPQAAAABDbqwjwRc1z9pUi69UTwqL`

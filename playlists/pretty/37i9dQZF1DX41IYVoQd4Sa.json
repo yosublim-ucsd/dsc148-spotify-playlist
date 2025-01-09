@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e7\u05d5\u05ea\u05d9\u05de\u05d0\u05df ,\u05ea\u05d5\u05de\u05e8 \u05d9\u05d5\u05e1\u05e3 ",
-  "num_followers": 31152,
+  "num_followers": 31156,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-01-02 22:01:10",
       "album": {
-        "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
-        "url": "https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP"
-      },
-      "artists": [
-        {
-          "name": "Shir Hadas Meir",
-          "url": "https://open.spotify.com/artist/5mJI5zeyvCvk0h2OysNRAn"
-        },
-        {
-          "name": "Alon Eder",
-          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
-        }
-      ],
-      "duration_ms": 209651,
-      "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
-      "url": "https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8"
-    },
-    {
-      "added_at": "2025-01-02 22:01:10",
-      "album": {
         "name": "Water on Water",
         "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
       },
@@ -839,6 +819,22 @@
       "duration_ms": 308093,
       "name": "Carry me home",
       "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
+    },
+    {
+      "added_at": "2025-01-02 22:01:10",
+      "album": {
+        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
+      },
+      "artists": [
+        {
+          "name": "Aya Zahavi Feiglin",
+          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
     },
     {
       "added_at": "2025-01-02 22:01:10",
@@ -863,18 +859,22 @@
     {
       "added_at": "2025-01-02 22:01:10",
       "album": {
-        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
+        "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
+        "url": "https://open.spotify.com/album/0ymPFQmwvWlwOTHJT2NGqP"
       },
       "artists": [
         {
-          "name": "Aya Zahavi Feiglin",
-          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
+          "name": "Shir Hadas Meir",
+          "url": "https://open.spotify.com/artist/5mJI5zeyvCvk0h2OysNRAn"
+        },
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
         }
       ],
-      "duration_ms": 229000,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
+      "duration_ms": 209651,
+      "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
+      "url": "https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8"
     },
     {
       "added_at": "2025-01-02 22:01:10",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-01-02 22:01:10",
       "album": {
-        "name": "\u05dc\u05d9\u05df",
-        "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\u05dc\u05d9\u05df",
-      "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
-    },
-    {
-      "added_at": "2025-01-02 22:01:10",
-      "album": {
         "name": "Goodbye Mary",
         "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 183331,
       "name": "Goodbye Mary",
       "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
+    },
+    {
+      "added_at": "2025-01-02 22:01:10",
+      "album": {
+        "name": "\u05dc\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\u05dc\u05d9\u05df",
+      "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
     },
     {
       "added_at": "2025-01-02 22:01:10",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2025-01-02 22:01:10",
       "album": {
-        "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
-        "url": "https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12"
+        "name": "31",
+        "url": "https://open.spotify.com/album/0qolI1GEXgRGmRZEhTbaU7"
       },
       "artists": [
         {
-          "name": "Yehudit Ravitz",
-          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
+          "name": "Zizi Trippo",
+          "url": "https://open.spotify.com/artist/3kkdQvmidzhAvqMGsob3ci"
         },
         {
-          "name": "Geva Alon",
-          "url": "https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz"
+          "name": "\u05d2\u05d9\u05d0\u05d2\u05d9\u05d0",
+          "url": "https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ"
         }
       ],
-      "duration_ms": 174585,
-      "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
-      "url": "https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ"
+      "duration_ms": 197866,
+      "name": "\u05de\u05d4 \u05e9\u05dc\u05d0 \u05d9\u05d4\u05d9\u05d4",
+      "url": "https://open.spotify.com/track/7JHBkNrXPRUsc1iIvHqQp6"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

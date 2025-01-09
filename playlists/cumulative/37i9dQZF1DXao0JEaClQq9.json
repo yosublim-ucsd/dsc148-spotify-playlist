@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Perverts",
+        "url": "https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692000,
+      "name": "Amber Waves",
+      "url": "https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9"
+    },
+    {
+      "album": {
         "name": "american jesus (demo)",
         "url": "https://open.spotify.com/album/5mgca9De5L6IA3uawjWDR5"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 352178,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
@@ -3513,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2024-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "Dust beam",
+      "url": "https://open.spotify.com/track/2R6VAECQgZYy4Zn8tIXGi6"
+    },
+    {
+      "album": {
         "name": "Jonny",
         "url": "https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0"
       },
@@ -4010,7 +4046,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"

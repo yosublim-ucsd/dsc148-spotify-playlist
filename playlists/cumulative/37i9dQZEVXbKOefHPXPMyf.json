@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 114053,
       "name": "01 dE ENEro",
       "url": "https://open.spotify.com/track/78TdaRmo17p8J6BPvA8cGt"
@@ -11120,7 +11120,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 164880,
       "name": "Cobro",
       "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
@@ -20714,7 +20714,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 236251,
       "name": "Gente Luminosa",
       "url": "https://open.spotify.com/track/5mVPLLoGUH4c3D22Gp7gDR"
@@ -23150,7 +23150,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 88615,
       "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
       "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
@@ -36318,7 +36318,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 178909,
       "name": "Ninguno Pudo Con el",
       "url": "https://open.spotify.com/track/7edZ3x2Q9Imx5cxq3xPCGm"
@@ -51148,7 +51148,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 147451,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T"
@@ -53686,7 +53686,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
@@ -53708,7 +53708,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
@@ -54736,6 +54736,28 @@
       "duration_ms": 171958,
       "name": "ultravioleta",
       "url": "https://open.spotify.com/track/46NLD3Ob73bKRZoCh2xmEz"
+    },
+    {
+      "album": {
+        "name": "Aviso De Despido",
+        "url": "https://open.spotify.com/album/6rs6EKlQu5tYC1vtrqVjOq"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178796,
+      "name": "Un Blues",
+      "url": "https://open.spotify.com/track/5QrWetGJiShrW7dJXVNN0r"
     },
     {
       "album": {
@@ -56122,6 +56144,24 @@
       "duration_ms": 147096,
       "name": "Vehemencia",
       "url": "https://open.spotify.com/track/72LEkYl9mRqHgVzX9S0i3c"
+    },
+    {
+      "album": {
+        "name": "Aguinaldo",
+        "url": "https://open.spotify.com/album/1NIulGAguTLJxREWCVe3QH"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366514,
+      "name": "VEN DEVORAME OTRA VEZ",
+      "url": "https://open.spotify.com/track/0cdKJgwwt2HeVJkiTX8wpl"
     },
     {
       "album": {

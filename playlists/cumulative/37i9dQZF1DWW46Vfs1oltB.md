@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: <br/>가오가이 \(kaogaii\), 키츠요지 \(kitsyojii\)\)
 
-1,429 songs - 3 day 5 hr 45 min
+1,431 songs - 3 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Bmf](https://open.spotify.com/track/1AvQ2z67p1VbsoaRZuDoDe) | [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x) | [Bmf](https://open.spotify.com/album/48jDWeLCIKsj4jkkSlxI2l) | 2:34 | 2024-10-30 | 2024-12-06 |
 | [BMX](https://open.spotify.com/track/2DcTED1q1ZVAIHNquDXTIG) | [Kim Addict](https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7), [Inho Cho](https://open.spotify.com/artist/0qJNreQWAffirTysXKEDJx), [Osshun Gum](https://open.spotify.com/artist/4F4rHRjTw15zhEFKvnLs7q) | [BMX](https://open.spotify.com/album/5LJJ9NGeemiXmDEqut5jKM) | 3:07 | 2022-01-15 | 2022-06-17 |
 | [BODY](https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk) | 2:03 | 2024-11-20 | 2024-11-23 |
+| [BOLO \(feat\. YDG\)](https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Organic](https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ) | 2:51 | 2025-01-08 |  |
 | [Bomb Head \(feat\. GV\)](https://open.spotify.com/track/71VtKUtYrDBK3orC4ircF4) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [GV](https://open.spotify.com/artist/4DUksJmuVcqb3qc8dAQj3a) | [Bomb Head](https://open.spotify.com/album/1X5VNhYZGqq4p0dxr30kB1) | 3:03 | 2022-03-26 | 2022-04-13 |
 | [Boomerang](https://open.spotify.com/track/2JERm3zG4IvVKssRIozjb9) | [J.Yung](https://open.spotify.com/artist/5vYYWbIoATxAIrCoLoVIkC), [YOUNG SKI](https://open.spotify.com/artist/3yXrtr9vxymFgEEeBvRYg0) | [NATURE MEN](https://open.spotify.com/album/7M6sO1bRsx3CR2bMdNVgT6) | 2:56 | 2022-11-07 | 2022-11-17 |
 | [BORA](https://open.spotify.com/track/2lDsw51m3CdsfOiy0aKYt3) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BORA](https://open.spotify.com/album/6F3E4jtt1wniAurHex5U45) | 2:46 | 2023-04-18 | 2023-06-13 |
@@ -885,6 +886,7 @@
 | [No.1](https://open.spotify.com/track/4ECmXULvaVPvrAPdpZT1uv) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [No.1](https://open.spotify.com/album/1qCQPYHxn2hB7fzD5Jk8WU) | 2:26 | 2022-03-03 | 2022-06-17 |
 | [Nonsense](https://open.spotify.com/track/4F9lsEUqiJlpW1SE3DQMBX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [EDDY](https://open.spotify.com/artist/2I5WCuHrCLEemr7N04T9KN) | [LovebrûléeADVISORY](https://open.spotify.com/album/1VVGCxNDKpsU7ya1oOM6dI) | 2:40 | 2023-02-24 | 2023-09-03 |
 | [NORI](https://open.spotify.com/track/5vAmgWcxiq0MdyhYT44ich) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [Lucifer's Therapy](https://open.spotify.com/album/1JDuTu31tWRKplO8wsBqsM) | 3:24 | 2024-11-07 |  |
+| [NORI \(Feat\. SINCE, Ash\-B, Polodared\) \- Remix](https://open.spotify.com/track/0fNcxzErmEUnQ1ROjG0FCg) | [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [NORI \(Remix\)](https://open.spotify.com/album/3c7kFKFgs8otYp0i3Y6t8j) | 4:09 | 2025-01-08 |  |
 | [NOSAE NOSAE](https://open.spotify.com/track/2SBnYX6QFYotZEeVgxr0nv) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [YAINS](https://open.spotify.com/album/2sdAsii9EScLqXidDLmMg5) | 2:48 | 2024-03-21 | 2024-06-29 |
 | [Not Like You \(HANLIM GYM X Han Yo Han, JUSTHIS\)](https://open.spotify.com/track/2biXCIH1zggdbOSB3NnOs8) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Not Like You \(HANLIM GYM X Han Yo Han, JUSTHIS\)](https://open.spotify.com/album/76DEAfuQVYHq8iFbtY8hZS) | 3:07 | 2021-12-21 | 2022-05-16 |
 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 | 2022-12-19 | 2023-06-14 |

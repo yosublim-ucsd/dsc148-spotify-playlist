@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 
 > The south got something to say\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,237 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,323 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 | 14 | [I'm Sprung](https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:51 |
 | 15 | [Can't Be Touched \(feat\. Mr\. Magic & Trouble\)](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) | [Roy Jones Jr.](https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B), [Mr Magic](https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF), [Trouble](https://open.spotify.com/artist/3OMd4I5GX8Hz51SLS0C2Fm) | [Body Head Bangerz, Vol\. 1](https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe) | 3:34 |
 | 16 | [Freek\-A\-Leek](https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci) | [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Still Writing In My Diary: 2nd Entry](https://open.spotify.com/album/2R7G5Z0RWWZU1V731JZG68) | 3:55 |
-| 17 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 |
-| 18 | [Ridin'](https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9) | [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [The Sound of Revenge](https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8) | 5:03 |
+| 17 | [Ridin'](https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9) | [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [The Sound of Revenge](https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8) | 5:03 |
+| 18 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 |
 | 19 | [What's Your Fantasy \(Featuring Shawna\)](https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Back For The First Time](https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV) | 4:35 |
 | 20 | [Wasted \(feat\. Plies\)](https://open.spotify.com/track/11hQvcLydGTyXS3Wo6AkmW) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [The State vs\. Radric Davis \(Deluxe\)](https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq) | 4:09 |
 | 21 | [So Fresh, So Clean](https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:00 |

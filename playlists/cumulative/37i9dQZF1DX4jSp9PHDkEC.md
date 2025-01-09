@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-594 songs - 1 day 16 hr 7 min
+595 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Pass The Hours](https://open.spotify.com/track/1uLfBlfAwUV7SwBTK1ayTQ) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/2kYRMnwB5ieAs6OV9pZ1YT) | 3:43 | 2023-01-17 | 2024-04-19 |
 | [Pass The Hours](https://open.spotify.com/track/4EVpdoFt3L6sAa4hivmWz9) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/68oS2XnHyYFPwOeknwOabE) | 3:43 | 2023-01-17 | 2024-12-19 |
 | [Persephone](https://open.spotify.com/track/4106SA5Wyw8fRTyh8pFDHc) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Willowbank](https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03) | 4:33 | 2023-01-17 | 2024-04-19 |
+| [Persephone](https://open.spotify.com/track/6jllVwFK3NSdjw5dg8KK5b) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Persephone](https://open.spotify.com/album/1gh8cvhBlw4zmAmjFHxxr8) | 4:33 | 2023-01-17 |  |
 | [Pistol](https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5) | 3:54 | 2023-01-17 | 2024-04-19 |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2023-01-17 |  |
 | [Play Ground](https://open.spotify.com/track/7AIvnpLTRg1ldJf6SE8veE) | [Zoon](https://open.spotify.com/artist/1kGt1OwoeqO8aaTBB3TfiC) | [A Sterling Murmuration](https://open.spotify.com/album/2Ajni9p1ggjOeJr9QM1tP4) | 4:53 | 2023-01-17 |  |
@@ -582,7 +583,7 @@
 | [Wolf](https://open.spotify.com/track/0gI6KFnLCbneSdaayPBwiI) | [Darkstar](https://open.spotify.com/artist/45ALMSzoLNFkaYxyhS4QZ1) | [Civic Jams](https://open.spotify.com/album/4Ls6xTsUYpgpYap10m6gVi) | 5:29 | 2023-01-17 | 2024-04-19 |
 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 | 2023-01-17 |  |
 | [Would You Rather](https://open.spotify.com/track/0ulpimSr7njRd2UFadBAPv) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:19 | 2023-01-17 | 2024-04-19 |
-| [Would You Rather](https://open.spotify.com/track/4ctEt5qumxA8RuzdeQagkk) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:19 | 2023-01-17 |  |
+| [Would You Rather](https://open.spotify.com/track/4ctEt5qumxA8RuzdeQagkk) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:19 | 2023-01-17 | 2025-01-09 |
 | [Yam Yam](https://open.spotify.com/track/1j56M8iOGH48yuKqj64qGK) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/6WwtoUvd1fayGM5JZIq4LS) | 3:36 | 2023-01-17 | 2024-12-29 |
 | [Yam Yam](https://open.spotify.com/track/26iu1k7U1NT2i8Sz7mDPGa) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/127WZmGnH2ui60lIJVSEZi) | 3:36 | 2023-01-17 | 2024-04-19 |
 | [Year of Love](https://open.spotify.com/track/2xMf6kbsGhfmrzLxC5HRLw) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 4:13 | 2023-01-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > 🎀 Laufey stuns on the cover of teen beats 🎀
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,135,503 likes - 104 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,135,366 likes - 104 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

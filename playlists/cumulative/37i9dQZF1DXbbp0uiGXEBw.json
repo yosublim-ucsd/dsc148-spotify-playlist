@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: Orange",
+  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: \u00c1i Ph\u01b0\u01a1ng",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 215217,
       "name": "Ai Lau \u0110\u00f4i Mi Hoen",
       "url": "https://open.spotify.com/track/19bgct6U5djwkDhAttMUlb"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 270643,
       "name": "Anh Ch\u01b0a Th\u01b0\u01a1ng Em \u0110\u1ebfn V\u1eady \u0110\u00e2u",
       "url": "https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7"
@@ -1178,6 +1178,24 @@
       "duration_ms": 159205,
       "name": "Do You?",
       "url": "https://open.spotify.com/track/03m9ySk1by3w5w5sqhthiJ"
+    },
+    {
+      "album": {
+        "name": "DON\u2019T WANNA SAY GOODBYE (Special Version)",
+        "url": "https://open.spotify.com/album/5zlGdwz8UeUqstB2NhyV5u"
+      },
+      "artists": [
+        {
+          "name": "\u00c1i Ph\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205287,
+      "name": "DON\u2019T WANNA SAY GOODBYE - Special Version",
+      "url": "https://open.spotify.com/track/6yyE3VL3OhqgTwSeAfXjkQ"
     },
     {
       "album": {
@@ -3720,6 +3738,24 @@
       "duration_ms": 241734,
       "name": "One Second - Unplugged",
       "url": "https://open.spotify.com/track/5RMLXxdOgDGd7dpNieYlZh"
+    },
+    {
+      "album": {
+        "name": "Gifts4Seasons",
+        "url": "https://open.spotify.com/album/4wIk6l6oQZ1tS2SYhf3TWP"
+      },
+      "artists": [
+        {
+          "name": "Charmy Pham",
+          "url": "https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Ong v\u00e0 Hoa",
+      "url": "https://open.spotify.com/track/4yTX72F2LjGpYq9g7HXLz7"
     },
     {
       "album": {

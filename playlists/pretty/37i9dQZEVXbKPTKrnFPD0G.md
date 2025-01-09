@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,316 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,376 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 35 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |
 | 36 | [UN SIGLO SIN TI](https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [UN SIGLO SIN TI](https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz) | 2:34 |
 | 37 | [A200](https://open.spotify.com/track/6hLsMjw00j3HGrkUjKwmgo) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs) | [A200](https://open.spotify.com/album/67gbFVIhGgdMabCROgjbcV) | 3:26 |
-| 38 | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/3uLPhd9X8kY1JU13bPRG9W) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 |
+| 38 | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [ROZE \| DJ TAO Turreo Sessions \#22](https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP) | 2:35 |
 | 39 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 |
 | 40 | [Khé?](https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:26 |
 | 41 | [Pégate](https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Pégate](https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [FLECHAZO EN EL CENTRO](https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [TU DUO FAVORITO](https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ) | 3:05 |
 | 50 | [No Va a Venir](https://open.spotify.com/track/7khla88C1xwKeI6qzwcOuH) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!](https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE) | 1:08 |
 
-Snapshot ID: `LxCWSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LxHu0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

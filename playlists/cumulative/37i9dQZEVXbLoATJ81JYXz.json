@@ -11726,6 +11726,10 @@
         {
           "name": "ADAAM",
           "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Sweyway",
+          "url": "https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C"
         }
       ],
       "date_added": "2025-01-04",
@@ -16720,7 +16724,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/3CTgRPxyTh2w7wBjVFH88e"
@@ -21815,6 +21819,24 @@
     },
     {
       "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
+    },
+    {
+      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/16WbLPydnmtI3gQJ4MHZ9J"
       },
@@ -23422,7 +23444,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -39446,7 +39468,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 152000,
       "name": "VEM FAN E DU?",
       "url": "https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK"
@@ -39728,7 +39750,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 138947,
       "name": "Vila med mig",
       "url": "https://open.spotify.com/track/5JxKpEkR3Gqvf4OA8VLrBR"
@@ -41538,6 +41560,28 @@
       "duration_ms": 161384,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA"
+    },
+    {
+      "album": {
+        "name": "AV\u012aCI (01)",
+        "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181672,
+      "name": "Without You (feat. Sandro Cavazza)",
+      "url": "https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"
     },
     {
       "album": {

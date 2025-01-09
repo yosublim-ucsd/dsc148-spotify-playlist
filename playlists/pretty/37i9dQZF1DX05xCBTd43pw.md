@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Grüezi! This is 100% made in Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,937 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,942 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,24 +24,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 14 | [Love Me Better](https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Me Better](https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H) | 2:13 |
 | 15 | [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 |
 | 16 | [cry no more](https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [cry no more](https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh) | 3:16 |
-| 17 | [The Right to Cry](https://open.spotify.com/track/5YzUTY6zW8TFGfGsknq9vQ) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [The Right to Cry](https://open.spotify.com/album/7rLRzdGMjn0kRQo6TRnMqc) | 3:09 |
-| 18 | [Fcuk!](https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A) | 3:34 |
+| 17 | [Fcuk!](https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Enough](https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A) | 3:34 |
+| 18 | [The Right to Cry](https://open.spotify.com/track/5YzUTY6zW8TFGfGsknq9vQ) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [The Right to Cry](https://open.spotify.com/album/7rLRzdGMjn0kRQo6TRnMqc) | 3:09 |
 | 19 | [For You](https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [For You](https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV) | 2:47 |
 | 20 | [Don't Go](https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Don't Go](https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ) | 2:21 |
 | 21 | [Playlist](https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Playlist](https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK) | 2:31 |
 | 22 | [Russian Blue](https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [Russian Blue](https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL) | 3:29 |
 | 23 | [No Time to Cry](https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [No Time to Cry](https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC) | 3:02 |
-| 24 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 |
-| 25 | [How Much Can a Heart Break](https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [How Much Can a Heart Break](https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx) | 3:15 |
+| 24 | [How Much Can a Heart Break](https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [How Much Can a Heart Break](https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx) | 3:15 |
+| 25 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 |
 | 26 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 |
 | 27 | [fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 |
 | 28 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 |
-| 29 | [Heaven or Hell](https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Heaven or Hell](https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9) | 3:07 |
+| 29 | [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 |
 | 30 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 |
 | 31 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 |
-| 32 | [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 |
-| 33 | [No Good For Me](https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [No Good For Me](https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W) | 3:13 |
-| 34 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
+| 32 | [No Good For Me](https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71) | [Roxane](https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD) | [No Good For Me](https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W) | 3:13 |
+| 33 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 |
+| 34 | [Heaven or Hell](https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Heaven or Hell](https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9) | 3:07 |
 | 35 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 |
 | 36 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 |
 | 37 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 65 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 |
 | 66 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 |
 | 67 | [Floating](https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC) | [Damian Lynn](https://open.spotify.com/artist/4ST7R4xWexBdeBD5u6OP2U) | [Floating](https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5) | 2:50 |
-| 68 | [Sorry](https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Sorry](https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3) | 2:47 |
-| 69 | [Coastline](https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV) | [Shem Thomas](https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw) | [Coastline](https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn) | 2:44 |
-| 70 | [Snooze](https://open.spotify.com/track/5aC4WmADiTLODiVefda591) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Snooze](https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ) | 3:02 |
+| 68 | [Beautiful Day](https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Beautiful Day](https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy) | 3:05 |
+| 69 | [Sorry](https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Sorry](https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3) | 2:47 |
+| 70 | [Coastline](https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV) | [Shem Thomas](https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw) | [Coastline](https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn) | 2:44 |
 
 Snapshot ID: `Z3cacgAAAAAWJQZMsp46EACzcDaNovxg`

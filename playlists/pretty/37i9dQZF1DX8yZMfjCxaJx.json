@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Los Tucanes de Tijuana, Luis R Conriquez en portada.",
-  "num_followers": 239988,
+  "num_followers": 240066,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "Clave 18",
+        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 235663,
+      "name": "Clave 18",
+      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "Fresas de la Capital (Remix)",
         "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 194240,
       "name": "Fresas de la Capital - Remix",
       "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "Clave 18",
-        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 235663,
-      "name": "Clave 18",
-      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "Eddiecho Adios",
+        "url": "https://open.spotify.com/album/5DipiPCwT96aQYga2nwn81"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 240331,
+      "name": "Eddiecho Adios",
+      "url": "https://open.spotify.com/track/6I04t8qV2O8hFqBvoFoj3B"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "Por Clave P1",
         "url": "https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 187063,
       "name": "Por Clave P1",
       "url": "https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "Eddiecho Adios",
-        "url": "https://open.spotify.com/album/5DipiPCwT96aQYga2nwn81"
-      },
-      "artists": [
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 240331,
-      "name": "Eddiecho Adios",
-      "url": "https://open.spotify.com/track/6I04t8qV2O8hFqBvoFoj3B"
     },
     {
       "added_at": "2025-01-03 17:44:39",

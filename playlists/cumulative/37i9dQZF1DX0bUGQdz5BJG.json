@@ -8850,7 +8850,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 165265,
       "name": "Craving You",
       "url": "https://open.spotify.com/track/1XunthJTG5Wg1BqXONGN5Y"
@@ -24366,6 +24366,24 @@
       "duration_ms": 242932,
       "name": "Lightning in July (Prairie Fire)",
       "url": "https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK"
+    },
+    {
+      "album": {
+        "name": "Devils & Angels",
+        "url": "https://open.spotify.com/album/53cV2vEr77UVOI2PwQNo0u"
+      },
+      "artists": [
+        {
+          "name": "Timmy McKeever",
+          "url": "https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249984,
+      "name": "Lightning Speed",
+      "url": "https://open.spotify.com/track/793pyZGXnMMaEh0keDx3YC"
     },
     {
       "album": {

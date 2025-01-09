@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: MOIO",
-  "num_followers": 178701,
+  "num_followers": 178728,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-12-13 00:00:33",
       "album": {
+        "name": "We Got Food At Home",
+        "url": "https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M"
+      },
+      "artists": [
+        {
+          "name": "Cap1talA",
+          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
+        }
+      ],
+      "duration_ms": 120409,
+      "name": "Won!",
+      "url": "https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt"
+    },
+    {
+      "added_at": "2024-12-13 00:00:33",
+      "album": {
         "name": "ALL THE GIRLS",
         "url": "https://open.spotify.com/album/2WHnp1HHVNtnPBRRy24oTa"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 109411,
       "name": "ALL THE GIRLS",
       "url": "https://open.spotify.com/track/43pMdjwekH6xVSwSO9MmJT"
-    },
-    {
-      "added_at": "2024-12-13 00:00:33",
-      "album": {
-        "name": "We Got Food At Home",
-        "url": "https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M"
-      },
-      "artists": [
-        {
-          "name": "Cap1talA",
-          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
-        }
-      ],
-      "duration_ms": 120409,
-      "name": "Won!",
-      "url": "https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt"
     },
     {
       "added_at": "2024-12-13 00:00:33",
@@ -995,6 +995,42 @@
     {
       "added_at": "2024-12-13 00:00:33",
       "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Xadi",
+          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF"
+    },
+    {
+      "added_at": "2024-12-13 00:00:33",
+      "album": {
+        "name": "Wagashi",
+        "url": "https://open.spotify.com/album/3Izy2Hdi68EcgQScKajavq"
+      },
+      "artists": [
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        }
+      ],
+      "duration_ms": 116879,
+      "name": "Wagashi",
+      "url": "https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB"
+    },
+    {
+      "added_at": "2024-12-13 00:00:33",
+      "album": {
         "name": "falling or flying (Reimagined)",
         "url": "https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM"
       },
@@ -1027,54 +1063,34 @@
     {
       "added_at": "2024-12-13 00:00:33",
       "album": {
-        "name": "Wagashi",
-        "url": "https://open.spotify.com/album/3Izy2Hdi68EcgQScKajavq"
+        "name": "LEECHES",
+        "url": "https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT"
       },
       "artists": [
         {
-          "name": "BXKS",
-          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
         }
       ],
-      "duration_ms": 116879,
-      "name": "Wagashi",
-      "url": "https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB"
+      "duration_ms": 151384,
+      "name": "LEECHES",
+      "url": "https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx"
     },
     {
       "added_at": "2024-12-13 00:00:33",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T"
+        "name": "Get Me",
+        "url": "https://open.spotify.com/album/0uATdxFoiP0PRKVDqJ6O7F"
       },
       "artists": [
         {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "Xadi",
-          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
+          "name": "Nate Brazier",
+          "url": "https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF"
-    },
-    {
-      "added_at": "2024-12-13 00:00:33",
-      "album": {
-        "name": "Bring Me Up",
-        "url": "https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz"
-      },
-      "artists": [
-        {
-          "name": "KAM-BU",
-          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
-        }
-      ],
-      "duration_ms": 142299,
-      "name": "Bring Me Up",
-      "url": "https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR"
+      "duration_ms": 167684,
+      "name": "Get Me",
+      "url": "https://open.spotify.com/track/2QYHEIBi1SlaIQbzDOHC5g"
     },
     {
       "added_at": "2024-12-13 00:00:33",
@@ -1095,22 +1111,6 @@
       "duration_ms": 125468,
       "name": "ROBOSHOTTA (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq"
-    },
-    {
-      "added_at": "2024-12-13 00:00:33",
-      "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/6i72V24SOOku076TNzxShq"
-      },
-      "artists": [
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        }
-      ],
-      "duration_ms": 195242,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/1WPku57CbhXyWxkOSy4oWK"
     }
   ],
   "unique_name": "Free Form",

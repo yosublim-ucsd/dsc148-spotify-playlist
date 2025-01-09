@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,661 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,668 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 22 | [羊皮先生](https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [浮世擊](https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J) | 3:32 |
 | 23 | [Unknown guy](https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:07 |
 | 24 | [Color \(Feat\. youra\)](https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:39 |
-| 25 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 |
-| 26 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 |
+| 25 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 |
+| 26 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 |
 | 27 | [YESMAN \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 3:09 |
 | 28 | [Fake Flower \(feat\. Nucksal\)](https://open.spotify.com/track/4neR5Hz4WBcC2WN3anYvZx) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [THE SOLOEST](https://open.spotify.com/album/7ytuR23cmbdxlFFBtmRd5T) | 2:59 |
 | 29 | [Party Forever](https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Party Forever](https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h) | 3:22 |

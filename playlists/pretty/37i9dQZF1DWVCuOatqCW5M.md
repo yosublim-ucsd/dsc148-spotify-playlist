@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover \- Armaan Malik
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,759 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,780 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 26 | [Tum Kya Ho](https://open.spotify.com/track/3uspYgFcd8JXFmoLW4AlmH) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Abhendra Upadhyay](https://open.spotify.com/artist/13GaXQjl1RJHCqVYL6DCBi) | [UNDERRATED](https://open.spotify.com/album/34P3QSxPc1tApEf6yIWT9m) | 3:42 |
 | 27 | [ADIOS](https://open.spotify.com/track/277DYLvqfm9WsMXuaA1czv) | [PRIYANSHU](https://open.spotify.com/artist/7eEvdqIc3p9CqKs7EbmQl9), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [ADIOS](https://open.spotify.com/album/1I82PNicCXZCgkpDbxmcg0) | 2:20 |
 | 28 | [Pyaar Karo](https://open.spotify.com/track/3m7hIQB8kQmNWdE86cnVGY) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Abhendra Upadhyay](https://open.spotify.com/artist/13GaXQjl1RJHCqVYL6DCBi) | [UNDERRATED](https://open.spotify.com/album/34P3QSxPc1tApEf6yIWT9m) | 3:25 |
-| 29 | [Breakup Ki Party](https://open.spotify.com/track/58tMK8IDoxYNJhD9MEwwrG) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Abhinav Swynenberg](https://open.spotify.com/artist/6qEuZWyPGu6Pzqu1Qvy9D1), [Nitesh Srivastava](https://open.spotify.com/artist/2iPKbSLGM64tZvxtXit6as) | [Breakup Ki Party](https://open.spotify.com/album/5Ais12jlflcWny997IfSuX) | 3:16 |
+| 29 | [Breakup Ki Party](https://open.spotify.com/track/58tMK8IDoxYNJhD9MEwwrG) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Abhinav Swynenberg](https://open.spotify.com/artist/6qEuZWyPGu6Pzqu1Qvy9D1), [Nitesh Srivastava](https://open.spotify.com/artist/2iPKbSLGM64tZvxtXit6as), [Big Bat Music](https://open.spotify.com/artist/1qdkjvezv6kU0Cci6dRqrj) | [Breakup Ki Party](https://open.spotify.com/album/5Ais12jlflcWny997IfSuX) | 3:16 |
 | 30 | [Noorie \(Two Sides\)](https://open.spotify.com/track/6anbGnPg1pnNRMlnNPMRa7) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Khayyam](https://open.spotify.com/artist/4T2mXoFdZeElsR7yoeKUbi), [Jan Nisar Akhtar](https://open.spotify.com/artist/6caDRdsPQP2fU1tpgrsQfi) | [Noorie \(Two Sides\)](https://open.spotify.com/album/7Hfnkeqs2bRNUWchMhlyq7) | 3:32 |
 | 31 | [Theek Hi Hoya](https://open.spotify.com/track/38trEEPqopci3VHpM90Pch) | [Rish](https://open.spotify.com/artist/0KzR1TCZ13KSIabw8xUaMK), [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16) | [Theek Hi Hoya](https://open.spotify.com/album/5iEobznDZ0mwId6h8jVysF) | 3:10 |
 | 32 | [Heera](https://open.spotify.com/track/0q5EZaawpTjQfWMa31txgT) | [Shai](https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Heera](https://open.spotify.com/album/13fXX0DrH3uIfrjWfCtZ10) | 2:31 |

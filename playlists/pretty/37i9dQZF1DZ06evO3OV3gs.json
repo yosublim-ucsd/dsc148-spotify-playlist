@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 675383,
+  "num_followers": 675434,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAD7MlcxrLmEmQUFmiru4oMI",
+  "snapshot_id": "Z3xugAAAAABG+rw+dHLBbuBBLx+dRg0Y",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 281880,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+      "duration_ms": 281880,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 280973,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
+      "duration_ms": 273533,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 273533,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
+      "duration_ms": 280973,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
     },
     {
       "added_at": null,

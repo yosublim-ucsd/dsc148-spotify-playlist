@@ -4,12 +4,12 @@
 
 > Тепла музика в прохолодні дні ☕ ❄️🫂
 
-154 songs - 8 hr 4 min
+155 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-14 | 2024-09-02 |
-| [Backslide](https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Backslide](https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX) | 3:11 | 2024-10-07 |  |
+| [Backslide](https://open.spotify.com/track/5SVUKYj1FEycD7nir3l53g) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Backslide](https://open.spotify.com/album/1E4ofhf5sCPg0Lm6gsvZTX) | 3:11 | 2024-10-07 | 2025-01-09 |
 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 | 2024-06-14 | 2024-09-02 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-14 |  |
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-06-14 | 2024-09-02 |
@@ -126,6 +126,7 @@
 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 | 2024-09-01 |  |
 | [Осінь](https://open.spotify.com/track/1E5EqKZKqG8H7J8sawXmt5) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q) | [Осінь](https://open.spotify.com/album/4nZKzOG7XO24r5spCqXAvQ) | 2:38 | 2024-09-01 | 2024-12-01 |
 | [Очі дівочі](https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy) | [ALISA](https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc) | [Очі дівочі](https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm) | 2:34 | 2024-09-01 |  |
+| [По різні сторони](https://open.spotify.com/track/4wovZCOeyPaG7loE5m7yAb) | [Olivan](https://open.spotify.com/artist/6hye43sxuu3EbV0zIrIV2O) | [По різні сторони](https://open.spotify.com/album/0j1W8hQyfiQJ5QcLUqBmhH) | 3:00 | 2024-12-20 |  |
 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 | 2024-09-01 |  |
 | [Про тебе мені](https://open.spotify.com/track/4nVWcr7boHgs9cpobSXosG) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Про тебе мені](https://open.spotify.com/album/6zMuDbuE3HS7RAtqAM1amr) | 3:02 | 2024-06-14 | 2024-09-02 |
 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 | 2024-10-07 |  |

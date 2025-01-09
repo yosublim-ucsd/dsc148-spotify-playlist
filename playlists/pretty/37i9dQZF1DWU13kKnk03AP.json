@@ -1,6 +1,6 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2163126,
+  "num_followers": 2163271,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Thick Of It (feat. Trippie Redd) / Low",
-        "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 160842,
-      "name": "Thick Of It (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Thick Of It (feat. Trippie Redd) / Low",
+        "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
+      },
+      "artists": [
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 160842,
+      "name": "Thick Of It (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Pretty Slowly",
-        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 261420,
-      "name": "Pretty Slowly",
-      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "added_at": "2025-01-07 17:42:41",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Burning Down",
         "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 179437,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 159208,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1073,20 +1089,20 @@
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2025-01-07 17:42:41",
       "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
         }
       ],
-      "duration_ms": 159208,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1195,6 +1211,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Before You Leave Me",
+        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 176178,
+      "name": "Before You Leave Me",
+      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -1211,22 +1243,6 @@
       "duration_ms": 141050,
       "name": "Cover Me In Sunshine",
       "url": "https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Before You Leave Me",
-        "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 176178,
-      "name": "Before You Leave Me",
-      "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1291,6 +1307,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 163228,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
@@ -1311,34 +1343,18 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 163228,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
-    },
-    {
-      "added_at": "2025-01-07 17:42:41",
-      "album": {
-        "name": "Tweaker",
-        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
-      },
-      "artists": [
-        {
-          "name": "G3 GELO",
-          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Tweaker",
-      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1359,38 +1375,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 213116,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Broken Memories",
         "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 125746,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2024-11-18 00:42:13",

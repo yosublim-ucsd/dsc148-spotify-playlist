@@ -4,7 +4,7 @@
 
 > Escucha a mujeres a todo volumen\. Foto: Samuraï.
 
-1,713 songs - 3 day 14 hr 6 min
+1,715 songs - 3 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Canto sin noche](https://open.spotify.com/track/0cwSrl7C32c7mkkCnPocct) | [Cándida](https://open.spotify.com/artist/2eqaJZlbDdbkmo2uibHf85) | [Canto sin noche](https://open.spotify.com/album/7GLKCoj05yGVM6Cnwm2FEC) | 2:48 | 2022-02-01 | 2022-03-08 |
 | [cançons amb títols llargs](https://open.spotify.com/track/5nKyDaaKONnjz4isqPtEvH) | [Júlia Blum](https://open.spotify.com/artist/4B6t52mhiUhrnMWR19T9ei) | [cançons amb títols llargs](https://open.spotify.com/album/11RwIIDFXJPK5E5HWrhww5) | 2:27 | 2023-04-04 | 2023-05-03 |
 | [Cançó de Nadal](https://open.spotify.com/track/1XheQm7y912AOlnGEdEZBO) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Cançó de Nadal](https://open.spotify.com/album/0UakZEMLJxs9SZ9HZSE8IJ) | 2:49 | 2023-11-07 | 2023-11-30 |
+| [Caníbal](https://open.spotify.com/track/5Q3lY0FTjpfz5hHvmOK3sA) | [Azuleja](https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX) | [Caníbal](https://open.spotify.com/album/4jQ8K2tKpHNAGq2XxWvWlL) | 3:46 | 2025-01-08 |  |
 | [CAP TROSSET DE MI](https://open.spotify.com/track/3ZFoDS2OGhAjwicPHTmb70) | [Ven'nus](https://open.spotify.com/artist/37sDYqqodoEv0XbJxCSLSK) | [CAP TROSSET DE MI](https://open.spotify.com/album/4RiffpmN4imayB7T3N6gSt) | 2:49 | 2024-01-09 | 2024-02-08 |
 | [Capitana](https://open.spotify.com/track/76TSlE0RFkF6hiO1jVwFUz) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Capitana](https://open.spotify.com/album/23yZOe2sG4VGvobqauJha7) | 4:33 | 2024-11-05 | 2024-12-05 |
 | [Capri\-Sun](https://open.spotify.com/track/02YFtXMpEezxqmvfX1Mzpg) | [Mariana També](https://open.spotify.com/artist/0ug4Nxh6JXe7BQEL6eVvSR) | [Capri\-Sun](https://open.spotify.com/album/0OQhHe0gzFcIZLIwRuFTKa) | 2:38 | 2024-08-06 | 2024-09-04 |
@@ -522,7 +523,7 @@
 | [Eres para Mí](https://open.spotify.com/track/6HL8Z8I1k9aZbaj9KPGiHC) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [Eres para Mí](https://open.spotify.com/album/7kdPZT7HdoY4mSS3lYeoJJ) | 2:53 | 2022-05-31 | 2022-08-03 |
 | [es combate?](https://open.spotify.com/track/6DgvIzxw3uOV07RMpTPS1w) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [es combate?](https://open.spotify.com/album/4FeZdlK9iTFZXYzOTRwsCT) | 4:01 | 2024-03-05 | 2024-04-03 |
 | [Es Como Es](https://open.spotify.com/track/3GzjLT3j2Gc25rmZdOkCQq) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Es Como Es](https://open.spotify.com/album/2ehkQXMfkkkg2rWMrevNyF) | 3:55 | 2024-01-09 | 2024-02-08 |
-| [ESA CANCIÓN](https://open.spotify.com/track/4ryU3TUun2yZ3VbDBVjibj) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [ESA CANCIÓN](https://open.spotify.com/album/0FhJK3OPZngkU5Uw2WEYAT) | 1:47 | 2025-01-07 |  |
+| [ESA CANCIÓN](https://open.spotify.com/track/4ryU3TUun2yZ3VbDBVjibj) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [ESA CANCIÓN](https://open.spotify.com/album/0FhJK3OPZngkU5Uw2WEYAT) | 1:47 | 2025-01-07 | 2025-01-09 |
 | [Esa Diva](https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva](https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ) | 2:57 | 2025-01-07 |  |
 | [ESA NO ERES TÚ](https://open.spotify.com/track/3bzIamV5ZshdOHcSsrq5eN) | [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [ESA NO ERES TÚ](https://open.spotify.com/album/2drDvEpuRZYTh2Gjd9n9UU) | 2:34 | 2023-09-05 | 2023-10-04 |
 | [esa también fui yo \(quiero acordarme\)](https://open.spotify.com/track/1Bk4ysybrMJr9K2mTckbr9) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [esa también fui yo \(quiero acordarme\)](https://open.spotify.com/album/0QeEUOXDihRJEHYzlCRVvv) | 3:42 | 2022-05-31 | 2022-07-06 |
@@ -572,6 +573,7 @@
 | [Formas de Hablar](https://open.spotify.com/track/6B1ZJ9cQBvSsW2zOUBREkt) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Formas de Hablar](https://open.spotify.com/album/5QQUlAUdX8NM4wbedrVTgX) | 2:52 | 2024-03-05 | 2024-04-03 |
 | [Formentera](https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Formentera](https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH) | 3:27 | 2022-01-04 | 2022-02-02 |
 | [FORÇA](https://open.spotify.com/track/3qEV8xqxiGeQUNNM1wA4S7) | [Bikôkô](https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [FORÇA](https://open.spotify.com/album/2fsqUeGDraiYTG8TPgIJqe) | 3:14 | 2024-09-03 | 2024-10-02 |
+| [FOTOMATÓN](https://open.spotify.com/track/4nOYt1P3xyq9LhC8DYCC8T) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [FOTOMATÓN](https://open.spotify.com/album/5mJTu2hHXeFE8tBNxIuZVA) | 2:43 | 2025-01-08 |  |
 | [Fresas & Champán](https://open.spotify.com/track/0gYbgQMU1TUdtm2DnQILx1) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Fresas & Champán](https://open.spotify.com/album/1HkXOF6fMXiqNTItpB3jbs) | 2:58 | 2023-04-04 | 2023-05-03 |
 | [FRESH](https://open.spotify.com/track/73Q8I5wBGnUFXY9rjWXPzy) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FRESH](https://open.spotify.com/album/3395RngNLyEQ2jR6iChmqz) | 2:31 | 2022-05-03 | 2022-06-01 |
 | [Fuck me](https://open.spotify.com/track/7sk20YnweYZikH2NLDOYxp) | [Eva Puc](https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO) | [Fuck me](https://open.spotify.com/album/4alHNRfadfzJjUtiU0A1Rd) | 2:20 | 2024-09-03 | 2024-10-02 |
@@ -1080,7 +1082,7 @@
 | [No te necesito](https://open.spotify.com/track/6HQU1cxritNI4w2uYUqLwi) | [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I) | [No te necesito](https://open.spotify.com/album/0IoI3fK3rm781jAHUTV6Zc) | 2:29 | 2023-11-07 | 2023-11-30 |
 | [No te vas](https://open.spotify.com/track/0IC5VkbJRCkZih4r92shyy) | [Indara](https://open.spotify.com/artist/41HE2dQNySxOJNb2TorVBr) | [No te vas](https://open.spotify.com/album/3dnPg6x3fPlB6LqiIB69Bc) | 2:29 | 2024-10-01 | 2024-11-06 |
 | [No te voy a besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No te voy a besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-02-07 | 2024-03-06 |
-| [No temas nada](https://open.spotify.com/track/3OjwzmBukDkON9CFBzsBU2) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu), [Kiki Morente](https://open.spotify.com/artist/2cyGMEu14p4ITUF98O6ooR) | [Mar en calma](https://open.spotify.com/album/7zGSsmvjbrI6RgGSz1a4HT) | 3:48 | 2025-01-07 |  |
+| [No temas nada](https://open.spotify.com/track/3OjwzmBukDkON9CFBzsBU2) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu), [Kiki Morente](https://open.spotify.com/artist/2cyGMEu14p4ITUF98O6ooR) | [Mar en calma](https://open.spotify.com/album/7zGSsmvjbrI6RgGSz1a4HT) | 3:48 | 2025-01-07 | 2025-01-09 |
 | [No tengo amigos](https://open.spotify.com/track/4SQVyLEBfxFm81hPPTCBzx) | [Tus Novias Indie](https://open.spotify.com/artist/0BQVp2t7lt53icmZAagYXl) | [En Riesgo de Exclusión Social](https://open.spotify.com/album/3eSfLUtWbAyQ7QLRVS3fJd) | 2:48 | 2024-03-05 | 2024-04-03 |
 | [NO TODO VALE](https://open.spotify.com/track/4YvGHyaWdHa8liRpwH9uP6) | [Karlisha](https://open.spotify.com/artist/4MJnVJ6UeJY0WcULSDdu18) | [NO TODO VALE](https://open.spotify.com/album/4RADUDYJ6X2YIWeawRzG0R) | 3:03 | 2022-11-08 | 2022-12-01 |
 | [No vale hacer daño](https://open.spotify.com/track/0ZFfjJ6K4WGVH3pNF2JayM) | [Eva B](https://open.spotify.com/artist/7C6WKCefGMAg2hbx7BNCIq) | [No vale hacer daño](https://open.spotify.com/album/6LSTC787pjObDIlLFIrMbk) | 2:54 | 2022-04-06 | 2022-05-04 |

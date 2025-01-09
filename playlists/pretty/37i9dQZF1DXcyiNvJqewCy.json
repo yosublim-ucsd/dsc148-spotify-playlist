@@ -1,6 +1,6 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 196181,
+  "num_followers": 196243,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-08-26 07:08:00",
       "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
-    },
-    {
-      "added_at": "2024-08-26 07:08:00",
-      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
+      "added_at": "2024-08-26 07:08:00",
+      "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "added_at": "2024-08-26 07:08:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-08-26 07:08:00",
       "album": {
-        "name": "The Wonderful World Of Sam Cooke",
-        "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 128786,
-      "name": "(What A) Wonderful World - Mono",
-      "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
-    },
-    {
-      "added_at": "2024-08-26 07:08:00",
-      "album": {
         "name": "Inseparable",
         "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 171960,
       "name": "This Will Be (An Everlasting Love)",
       "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
+    },
+    {
+      "added_at": "2024-08-26 07:08:00",
+      "album": {
+        "name": "The Wonderful World Of Sam Cooke",
+        "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 128786,
+      "name": "(What A) Wonderful World - Mono",
+      "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
     },
     {
       "added_at": "2024-08-26 07:08:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-08-26 07:08:00",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
-    },
-    {
-      "added_at": "2024-08-26 07:08:00",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 198600,
       "name": "You\u2019re here that\u2019s the thing",
       "url": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe"
+    },
+    {
+      "added_at": "2024-08-26 07:08:00",
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
     },
     {
       "added_at": "2024-08-26 07:08:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-26 07:08:00",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
-      "added_at": "2024-08-26 07:08:00",
-      "album": {
         "name": "you missed the best part",
         "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 240147,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/4Q66chx9WzqWcLItXoZ5r4"
+    },
+    {
+      "added_at": "2024-08-26 07:08:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2024-08-26 07:08:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-26 07:08:00",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2024-08-26 07:08:00",
-      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 234160,
       "name": "Nancy From Now On",
       "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
+    },
+    {
+      "added_at": "2024-08-26 07:08:00",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2024-08-26 07:08:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-26 07:08:00",
       "album": {
-        "name": "Even Now",
-        "url": "https://open.spotify.com/album/1ILknbSc8Ll0TqA8oJKkNV"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "Can't Smile Without You",
-      "url": "https://open.spotify.com/track/7qUTZEf6bgiApJEXpMAH5y"
-    },
-    {
-      "added_at": "2024-08-26 07:08:00",
-      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "added_at": "2024-08-26 07:08:00",
+      "album": {
+        "name": "Even Now",
+        "url": "https://open.spotify.com/album/1ILknbSc8Ll0TqA8oJKkNV"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "Can't Smile Without You",
+      "url": "https://open.spotify.com/track/7qUTZEf6bgiApJEXpMAH5y"
     },
     {
       "added_at": "2024-08-26 07:08:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-08-26 07:08:00",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 340560,
-      "name": "So Long, Marianne",
-      "url": "https://open.spotify.com/track/14CsqOaDkOkrZ49UJLtuOJ"
-    },
-    {
-      "added_at": "2024-08-26 07:08:00",
-      "album": {
         "name": "Hallucinogenics (feat. Lana Del Rey)",
         "url": "https://open.spotify.com/album/41tUnMTVSyImoq1Dyr5UhX"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 186626,
       "name": "Hallucinogenics (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/4A8pBxx0of2Y8r56dT0atf"
+    },
+    {
+      "added_at": "2024-08-26 07:08:00",
+      "album": {
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 340560,
+      "name": "So Long, Marianne",
+      "url": "https://open.spotify.com/track/14CsqOaDkOkrZ49UJLtuOJ"
     },
     {
       "added_at": "2024-08-26 07:08:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,908 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,910 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 14 | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG) | 5:04 |
 | 15 | [Deus Proverá](https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Proverá](https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm) | 5:35 |
 | 16 | [Fala Comigo](https://open.spotify.com/track/1IBWMbYSBLYX36tuMkqcKY) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:12 |
-| 17 | [Posso Clamar](https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Collection ao Vivo 10 Anos](https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6) | 5:34 |
-| 18 | [Quanto Amor \(feat\. Eyshila\)](https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:26 |
+| 17 | [Quanto Amor \(feat\. Eyshila\)](https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:26 |
+| 18 | [Posso Clamar](https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Collection ao Vivo 10 Anos](https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6) | 5:34 |
 | 19 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
 | 20 | [O Nome Santo de Jesus / Jesus \(Ao Vivo\)](https://open.spotify.com/track/2mqBuUEOPI9dq3jkhPJbvk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [O Nome Santo de Jesus / Jesus \(Ao Vivo\)](https://open.spotify.com/album/44SugMMq21GWWpPkgP7c60) | 5:30 |
 | 21 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [Com o Teu Fogo](https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:13 |
 | 50 | [Vem Encher\-me](https://open.spotify.com/track/1SOMsn0oLw8hccpgwJckj8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Tira\-me do Vale](https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G) | 4:53 |
 
-Snapshot ID: `Z3sdAAAAAACMU5G2RPOwiUYZikKHAxG1`
+Snapshot ID: `Z3xugAAAAABa3QVSokMNvZ6vvebZBZvK`

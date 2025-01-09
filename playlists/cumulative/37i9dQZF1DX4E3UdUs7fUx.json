@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 184931,
       "name": "On the Frame (Acoustic)",
       "url": "https://open.spotify.com/track/5TjAhRtHiLjCrzuOhgk50U"
@@ -2712,6 +2712,24 @@
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "album": {
+        "name": "Not Nearly Dark",
+        "url": "https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251960,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/66zVzafJU6HTogOQeeNv5y"
     },
     {
       "album": {

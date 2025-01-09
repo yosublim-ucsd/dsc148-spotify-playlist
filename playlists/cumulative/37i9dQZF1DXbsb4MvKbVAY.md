@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa Pihlaja.
 
-704 songs - 1 day 10 hr 59 min
+705 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Next to me](https://open.spotify.com/track/5LmgGRxwqzNlPZ16Lwpc5a) | [Lemonade Kenny](https://open.spotify.com/artist/7DQG94f9TSjhpIDm4JVqwP) | [Next to me](https://open.spotify.com/album/2W4xEDeTc6x1erPH47cbeJ) | 3:04 | 2024-07-18 | 2024-07-27 |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-07-02 | 2024-08-15 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-07 |  |
+| [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 | 2025-01-08 |  |
 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 | 2024-11-21 | 2025-01-03 |
 | [Niinkö se on](https://open.spotify.com/track/4nd6e9YvUEeuR0mtP5fNJu) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC), [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Niinkö se on](https://open.spotify.com/album/33THwx65YG8Y7ulkpod0Xg) | 3:31 | 2024-11-21 | 2024-11-29 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-08-29 | 2024-09-06 |
@@ -444,7 +445,7 @@
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 | 2024-08-23 |
 | [Nyt tai ei koskaan](https://open.spotify.com/track/78VmGhwDuQ3QVa2egBjmvB) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Nyt tai ei koskaan](https://open.spotify.com/album/4yiKtKmif9MeZPspSxAjsc) | 2:52 | 2024-08-08 | 2024-08-16 |
 | [Näihin hommiin ei synnytä](https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Näihin hommiin ei synnytä](https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL) | 2:45 | 2024-12-26 |  |
-| [Odota Remix](https://open.spotify.com/track/2aWWSkiJxApWZoQolFb9kq) | [Aikakone](https://open.spotify.com/artist/0NAdOnNnbIceBrlIVgNSxv), [niinja](https://open.spotify.com/artist/1WU701LQ9Ox2byHTHa1aM7) | [Odota Remix](https://open.spotify.com/album/5ozoM9n1NSTZk6IPHwtnYe) | 3:01 | 2024-12-26 |  |
+| [Odota Remix](https://open.spotify.com/track/2aWWSkiJxApWZoQolFb9kq) | [Aikakone](https://open.spotify.com/artist/0NAdOnNnbIceBrlIVgNSxv), [niinja](https://open.spotify.com/artist/1WU701LQ9Ox2byHTHa1aM7) | [Odota Remix](https://open.spotify.com/album/5ozoM9n1NSTZk6IPHwtnYe) | 3:01 | 2024-12-26 | 2025-01-09 |
 | [oh my](https://open.spotify.com/track/19YAER1hIyQPFngZ3feF9D) | [sane](https://open.spotify.com/artist/4NcPJzVZA5NDH8LeHOt5Ax) | [oh my](https://open.spotify.com/album/7Fe5vgIQdAkOJNgwxHzv40) | 3:07 | 2024-09-05 | 2024-09-13 |
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-25 | 2024-08-08 |
 | [Oisitpa sä mun kaa tääl](https://open.spotify.com/track/4b0vPLPba3LCeFYx73TvM4) | [Joonatan](https://open.spotify.com/artist/27ddiSC5Zm4SifSaMvYEE2), [Andrei](https://open.spotify.com/artist/0lIcMDl3l4xlsCCF3o4LWR) | [Oisitpa sä mun kaa tääl](https://open.spotify.com/album/0WYswWaHmrqa3NVyAeQcer) | 2:46 | 2024-11-15 | 2024-11-22 |

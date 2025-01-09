@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,349 likes - 52 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,364 likes - 52 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 35 | [Dance, Dance, Dance \- Remastered](https://open.spotify.com/track/2qtFkMvkD5R7kKYCNIh5MR) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Today! \(Remastered\)](https://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF) | 2:01 |
 | 36 | [Little Honda \(Stereo\)](https://open.spotify.com/track/1QL2yb3tD2zF5I1NAYH3mD) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 1:54 |
 | 37 | [I'm The Pied Piper \- A Cappella Section](https://open.spotify.com/track/21cBdopm6fSgfLnplL7qVT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sail On Sailor – 1972 \(Super Deluxe\)](https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k) | 0:31 |
-| 38 | [Ding Dang \- Remastered 2000](https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Love You \(Remastered\)](https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi) | 0:58 |
-| 39 | [Catch A Wave \- Stereo/Remastered 2001](https://open.spotify.com/track/6huvhTE5Z5gXnduG3G3nHh) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:10 |
+| 38 | [Catch A Wave \- Stereo/Remastered 2001](https://open.spotify.com/track/6huvhTE5Z5gXnduG3G3nHh) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:10 |
+| 39 | [Shut Down \- Remastered 2001](https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 1:51 |
 | 40 | [All Summer Long \(Stereo\)](https://open.spotify.com/track/7Dq4DIHxstJPuoZAkP4885) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:08 |
 | 41 | [Be True To Your School \- Remastered](https://open.spotify.com/track/0Tc7E6YsVc87M2op6fmFwI) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:11 |
-| 42 | [Shut Down \- Remastered 2001](https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 1:51 |
+| 42 | [Ding Dang \- Remastered 2000](https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Love You \(Remastered\)](https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi) | 0:58 |
 | 43 | [Whistle In \- Remastered 2001](https://open.spotify.com/track/35zgxz18meGLAaQ7pdUlsU) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 1:07 |
 | 44 | [Christmas Eve \- Instrumental Mix](https://open.spotify.com/track/4unPoTl8WZeUouTgSjTMmj) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Keep An Eye On Summer \- The Beach Boys Sessions 1964](https://open.spotify.com/album/47Hlcbv77B0Oljb3NlPMFG) | 3:09 |
 | 45 | [Rock And Roll Music \- Remastered 2012](https://open.spotify.com/track/0nmfRjxDxOhs2CggxvGPHS) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Greatest Hits](https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ) | 2:29 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 51 | [Please Let Me Wonder \- Remastered](https://open.spotify.com/track/0rttThNJX5cZLtQUASghA7) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys Today! \(Remastered\)](https://open.spotify.com/album/1xPtXzS5yCbDAqC7pxRCaF) | 2:47 |
 | 52 | [Lady Lynda \- Remastered 2000](https://open.spotify.com/track/4wObUmV0gM20Rnahfo2FJ4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [L.A\. \(Light Album\) \[Remastered\]](https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz) | 3:59 |
 
-Snapshot ID: `Z3sdAAAAAAAdYe9NZMUja0Q/1I4Xb9nq`
+Snapshot ID: `Z3xugAAAAAAZoInoP4Z7KsvEPCPaYY3z`

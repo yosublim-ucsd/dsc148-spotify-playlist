@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 36019,
+  "num_followers": 36046,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAB29ZuxPa2UAjJ6kSatJDIc",
+  "snapshot_id": "Z3xugAAAAAC3H1IMxRX017TvNDnViBfp",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over-the-Ocean Call",
-        "url": "https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 244402,
-      "name": "Over-the-Ocean Call",
-      "url": "https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 227488,
       "name": "In Agreement",
       "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Over-the-Ocean Call",
+        "url": "https://open.spotify.com/album/3ZRKmyXa55zoOuiToUzzfg"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 244402,
+      "name": "Over-the-Ocean Call",
+      "url": "https://open.spotify.com/track/7I8qPfmUT4kofEFX0FlkLS"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "...What Are We?",
+      "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "...What Are We?",
-      "url": "https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi"
     },
     {
       "added_at": null,

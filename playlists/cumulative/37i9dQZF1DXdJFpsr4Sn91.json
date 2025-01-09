@@ -5153,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF"
+      },
+      "artists": [
+        {
+          "name": "NEEA RIVER",
+          "url": "https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178040,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln"
+    },
+    {
+      "album": {
         "name": "THE FIRST TIME",
         "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },

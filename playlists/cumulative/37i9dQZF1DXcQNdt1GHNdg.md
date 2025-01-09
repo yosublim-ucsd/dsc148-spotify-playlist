@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-144 songs - 7 hr 4 min
+145 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Kikli](https://open.spotify.com/track/752ZVuWP4QcOQNgxWaV4b4) | [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ), [Ghxst](https://open.spotify.com/artist/2Q1wU3JGmsqdM5xevEC5qj) | [Kikli](https://open.spotify.com/album/4WCsDUqNWHK33Y6A9MvGUK) | 2:53 | 2023-11-18 | 2024-04-19 |
 | [King Shit](https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 3:46 | 2024-02-02 |  |
 | [Laagdaat](https://open.spotify.com/track/0xuOmIFVzGGNBl4VoAphrC) | [Sheera Jasvir](https://open.spotify.com/artist/7kcl4Cs88q6BfB0Qx5Vkil) | [Laagdaat](https://open.spotify.com/album/6i93yHBtrvxyxU6pzCZie8) | 3:48 | 2024-11-04 | 2024-11-16 |
+| [LALA LALA](https://open.spotify.com/track/4Szt63J5j1ieCImAvn6EPv) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [LALA LALA](https://open.spotify.com/album/6SXtMDIW4GxsSP0AIK6O1B) | 3:38 | 2025-01-08 |  |
 | [Lalkaare](https://open.spotify.com/track/5XU7ULgTkEdOV0sXvO6Jj1) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15), [Jaini Sandhu](https://open.spotify.com/artist/55UKeoOT4cL1vSmfdLlG4Q) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:30 | 2024-11-26 |  |
 | [Majhail](https://open.spotify.com/track/4U9gsMBTcBwMosyBxJC9Al) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Majhail](https://open.spotify.com/album/51nwNRYw6uBFk7n4GVanoB) | 2:44 | 2024-12-22 |  |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2023-07-18 |  |
@@ -126,7 +127,7 @@
 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-02-02 |  |
 | [Saheli](https://open.spotify.com/track/0KyUsQ0oRP26V2ifUO5fYd) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Summer Daze](https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg) | 2:39 | 2024-08-30 | 2024-10-02 |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 | 2024-11-05 |
-| [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Audiocrakerr](https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 |  |
+| [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Audiocrakerr](https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 | 2025-01-09 |
 | [Sher Hood](https://open.spotify.com/track/3KEO9vGYipfIVHN6IPF2UX) | [Sukshinder Shinda](https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18) | [Sher Hood](https://open.spotify.com/album/1jJipeQJ7SSUlyqA84karV) | 2:51 | 2024-10-21 | 2024-11-07 |
 | [Sifar Safar](https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sifar Safar](https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2) | 3:00 | 2024-10-18 |  |
 | [Sit Down Son](https://open.spotify.com/track/5ToiBU3fTszZBrLOEHY9aB) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1) | [Sit Down Son](https://open.spotify.com/album/7u6ZStyLBmlQlPV3rM6XY7) | 3:24 | 2024-11-29 |  |

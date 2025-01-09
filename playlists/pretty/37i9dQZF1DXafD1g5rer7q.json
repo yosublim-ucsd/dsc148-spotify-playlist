@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 422810,
+  "num_followers": 422956,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 157202,
+      "name": "SOS (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5"
+    },
+    {
+      "added_at": "2025-01-02 16:00:20",
+      "album": {
         "name": "Born To Love Ya",
         "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
-    },
-    {
-      "added_at": "2025-01-02 16:00:20",
-      "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 157202,
-      "name": "SOS (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/2x0RZdkZcD8QRI53XT4GI5"
     },
     {
       "added_at": "2025-01-02 16:00:20",
@@ -787,30 +787,6 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
-        "name": "Dientes",
-        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Dientes",
-      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
-    },
-    {
-      "added_at": "2025-01-02 16:00:20",
-      "album": {
         "name": "The Mack",
         "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 167038,
       "name": "The Mack",
       "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
+    },
+    {
+      "added_at": "2025-01-02 16:00:20",
+      "album": {
+        "name": "Dientes",
+        "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Dientes",
+      "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
     },
     {
       "added_at": "2025-01-02 16:00:20",
@@ -995,8 +995,8 @@
     {
       "added_at": "2025-01-02 16:00:20",
       "album": {
-        "name": "Sex",
-        "url": "https://open.spotify.com/album/0H0me9GzGlSENBNZNvSmTM"
+        "name": "Let Me Hold You (Turn Me On)",
+        "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
       },
       "artists": [
         {
@@ -1004,13 +1004,13 @@
           "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+          "name": "Dante Klein",
+          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
         }
       ],
-      "duration_ms": 228360,
-      "name": "Sex",
-      "url": "https://open.spotify.com/track/1MyWtH2yavuP1AHUi1X7ur"
+      "duration_ms": 162425,
+      "name": "Let Me Hold You (Turn Me On)",
+      "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
     },
     {
       "added_at": "2025-01-02 16:00:20",

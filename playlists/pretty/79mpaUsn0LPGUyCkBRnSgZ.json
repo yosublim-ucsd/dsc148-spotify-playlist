@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAG2TGH5wjKqOTFyWU5H/dc8xuBfXqD",
+  "snapshot_id": "AAAG20k6lqrK4axocPZDSIhhUt+GJMpO",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8061,26 +8061,6 @@
       "url": "https://open.spotify.com/track/62MSbv3IJNlQdN2NMfOGny"
     },
     {
-      "added_at": "2024-08-01 20:47:03",
-      "album": {
-        "name": "Lucky For You",
-        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
-    },
-    {
       "added_at": "2024-08-02 19:35:57",
       "album": {
         "name": "...I Care Because You Do",
@@ -8823,6 +8803,22 @@
       "duration_ms": 215005,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6vjyZVLkjfENDguX2WHrLB"
+    },
+    {
+      "added_at": "2025-01-08 13:06:46",
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/2diNeeePw7kIT2K4DYCdJx"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "On Your Wings",
+      "url": "https://open.spotify.com/track/5WElqOGrOB9b2p30RQdpRh"
     }
   ],
   "unique_name": "Zacklog",

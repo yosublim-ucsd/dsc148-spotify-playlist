@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,411 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,464 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 33 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 |
 | 34 | [HKAYA](https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HKAYA](https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw) | 3:18 |
 | 35 | [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 |
-| 36 | [Si tu savais](https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW) | [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Si tu savais](https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC) | 3:12 |
-| 37 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
-| 38 | [Galess Fdar](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 |
-| 39 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 |
-| 40 | [Liyam](https://open.spotify.com/track/21vUj5SOzOdtGTgRRPBGoA) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:25 |
-| 41 | [Sebri Tal](https://open.spotify.com/track/7ajOcxZsSSXcKQZQaHYCB0) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Sebri Tal](https://open.spotify.com/album/35sxD1bkcP4NG8jJZhBpLD) | 3:43 |
-| 42 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 |
-| 43 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 |
-| 44 | [Yak Adnya](https://open.spotify.com/track/2hN2qEJBO7jEnPTPx6EyMB) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [Tflow \#3](https://open.spotify.com/album/0hgYh8LXX79nMbqStev8o7) | 3:42 |
-| 45 | [3AYM](https://open.spotify.com/track/6IUI26Z6MzLJZTUA3qAz4O) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [3AYM](https://open.spotify.com/album/64uxz01ZKoZ5qgmRbWqQ52) | 4:40 |
-| 46 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 |
-| 47 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 |
-| 48 | [A7lam](https://open.spotify.com/track/3Mky2VMSMszIMiF6pUmoGc) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [A7lam](https://open.spotify.com/album/3R3nNEURz2TVsOUREHwia5) | 4:08 |
-| 49 | [Solide](https://open.spotify.com/track/26u1XtMQA1rffurOgalEzM) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Solide](https://open.spotify.com/album/0ts4fLucFKcEN4EohHtUwo) | 2:59 |
-| 50 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
+| 36 | [Nfss Lhala](https://open.spotify.com/track/4Sf0D2p1XLbfnVAAFFLl0E) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Nfss Lhala](https://open.spotify.com/album/4UPtx2VWPSsMIVPThB2cW7) | 3:20 |
+| 37 | [Galess Fdar](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 |
+| 38 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 |
+| 39 | [Liyam](https://open.spotify.com/track/21vUj5SOzOdtGTgRRPBGoA) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:25 |
+| 40 | [Sebri Tal](https://open.spotify.com/track/7ajOcxZsSSXcKQZQaHYCB0) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Sebri Tal](https://open.spotify.com/album/35sxD1bkcP4NG8jJZhBpLD) | 3:43 |
+| 41 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 |
+| 42 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 |
+| 43 | [Yak Adnya](https://open.spotify.com/track/2hN2qEJBO7jEnPTPx6EyMB) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [Tflow \#3](https://open.spotify.com/album/0hgYh8LXX79nMbqStev8o7) | 3:42 |
+| 44 | [3AYM](https://open.spotify.com/track/6IUI26Z6MzLJZTUA3qAz4O) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [3AYM](https://open.spotify.com/album/64uxz01ZKoZ5qgmRbWqQ52) | 4:40 |
+| 45 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 |
+| 46 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 |
+| 47 | [A7lam](https://open.spotify.com/track/3Mky2VMSMszIMiF6pUmoGc) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [A7lam](https://open.spotify.com/album/3R3nNEURz2TVsOUREHwia5) | 4:08 |
+| 48 | [Solide](https://open.spotify.com/track/26u1XtMQA1rffurOgalEzM) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Solide](https://open.spotify.com/album/0ts4fLucFKcEN4EohHtUwo) | 2:59 |
+| 49 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
 
-Snapshot ID: `Z3U01wAAAAArnkokRyK+DspOugcZ7H+e`
+Snapshot ID: `Z38fowAAAADYiupqs8eSRueck0AR82BM`

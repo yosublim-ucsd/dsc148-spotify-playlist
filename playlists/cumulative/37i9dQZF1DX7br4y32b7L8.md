@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-640 songs - 1 day 8 hr 29 min
+641 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-02-23 | 2023-05-10 |
 | [Please Don't Go](https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [31 Minutes to Takeoff](https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl) | 3:16 | 2024-09-17 | 2024-11-01 |
 | [Pony](https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:11 | 2023-07-13 | 2023-11-30 |
+| [PORNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-08 |  |
 | [POV](https://open.spotify.com/track/3gUyWMxsnhrEwPhQjL2W0L) | [Smitmeister](https://open.spotify.com/artist/6kVigSLG1yYraRqimn7EJY), [La June](https://open.spotify.com/artist/3hHBl5FjVlul5vOJ8cj72f), [SK Ontspannen](https://open.spotify.com/artist/0YSfcFH1WHuxlThNLippr0), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [POV](https://open.spotify.com/album/6h9E9C3gGVt3kumf0YH2G1) | 1:52 | 2023-02-23 | 2023-03-04 |
 | [Practice](https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:57 | 2024-01-03 | 2024-03-14 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-10 | 2024-01-26 |

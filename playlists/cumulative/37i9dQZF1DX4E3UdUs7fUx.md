@@ -4,7 +4,7 @@
 
 > Unwind and let the afternoon unfold.
 
-215 songs - 13 hr 39 min
+216 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Nothing Else](https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:24 | 2021-09-02 | 2024-04-19 |
 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 | 2021-09-02 |  |
 | [On the Frame \(Acoustic\)](https://open.spotify.com/track/2UyZLb4rxCgXaFI9wsxsGs) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of B\-Sides](https://open.spotify.com/album/4uENKN2umJ1TGfOZ4NIEVs) | 3:04 | 2021-09-02 | 2024-04-19 |
-| [On the Frame \(Acoustic\)](https://open.spotify.com/track/5TjAhRtHiLjCrzuOhgk50U) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [On the Frame \(Acoustic\)](https://open.spotify.com/album/5B0B3PhAdKYQohgwvVJEOs) | 3:04 | 2021-09-02 |  |
+| [On the Frame \(Acoustic\)](https://open.spotify.com/track/5TjAhRtHiLjCrzuOhgk50U) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [On the Frame \(Acoustic\)](https://open.spotify.com/album/5B0B3PhAdKYQohgwvVJEOs) | 3:04 | 2021-09-02 | 2025-01-09 |
 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 | 2021-09-02 |  |
 | [Overland](https://open.spotify.com/track/6NVOjINdpsyC0Kx7mtRqy8) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Overland](https://open.spotify.com/album/6EqrL2TFwdDz32yNSVRtvz) | 3:25 | 2021-09-02 | 2022-07-29 |
 | [Overland](https://open.spotify.com/track/4k5R36pR5HA3SHlabSQX56) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:25 | 2021-09-02 | 2024-04-19 |
@@ -155,6 +155,7 @@
 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 | 2021-09-02 |  |
 | [Seeds \(feat\. Carsen Gray\) \- Acoustic Version](https://open.spotify.com/track/3PT90fscllcTN8qiY2gsO0) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Seeds \(Acoustic Version\)](https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy) | 4:34 | 2023-06-30 |  |
 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 | 2021-09-02 | 2024-04-19 |
+| [Shame](https://open.spotify.com/track/66zVzafJU6HTogOQeeNv5y) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM) | 4:11 | 2024-08-23 |  |
 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 | 2021-09-02 |  |
 | [Sitting Room](https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 4:09 | 2021-09-02 |  |
 | [Song For Luke](https://open.spotify.com/track/2eSrKcAM6NwbEfJxwY5NfO) | [KJ Apa](https://open.spotify.com/artist/28SYkto7A2ToO29KnMaUcr) | [Clocks](https://open.spotify.com/album/1AcCa9sbuK1rxiZzXptOMZ) | 2:44 | 2021-12-09 |  |

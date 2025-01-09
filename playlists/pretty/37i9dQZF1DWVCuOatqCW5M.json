@@ -1,6 +1,6 @@
 {
   "description": "Latest music from your fav I-Pop artists. Cover - Armaan Malik",
-  "num_followers": 64759,
+  "num_followers": 64780,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
@@ -650,6 +650,10 @@
         {
           "name": "Nitesh Srivastava",
           "url": "https://open.spotify.com/artist/2iPKbSLGM64tZvxtXit6as"
+        },
+        {
+          "name": "Big Bat Music",
+          "url": "https://open.spotify.com/artist/1qdkjvezv6kU0Cci6dRqrj"
         }
       ],
       "duration_ms": 196000,

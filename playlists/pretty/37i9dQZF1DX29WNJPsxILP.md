@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Hindi hip hop hits, fiery bars, and killer beats\. Cover: Paradox
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,161 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,244 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 59 | [KR L$DA SIGN](https://open.spotify.com/track/0usNFsDDoVMYVE732zM3QI) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [KR L$DA SIGN](https://open.spotify.com/album/0bskp8YuVeh7ZgV7Orq9cz) | 8:12 |
 | 60 | [Mumbai Rap](https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Mumbai Rap](https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT) | 2:38 |
 | 61 | [Mastikhor](https://open.spotify.com/track/05s9rHSjYuhM5jWL7OWMro) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:10 |
-| 62 | [STILL THE SAME](https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [STILL THE SAME](https://open.spotify.com/album/3Plp851iYv9SGH6Fjp6xV9) | 2:45 |
-| 63 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 |
+| 62 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 |
+| 63 | [STILL THE SAME](https://open.spotify.com/track/7GcCYw4d5Z8akmEOBj4876) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [STILL THE SAME](https://open.spotify.com/album/3Plp851iYv9SGH6Fjp6xV9) | 2:45 |
 | 64 | [Santa Claws](https://open.spotify.com/track/0TY80GStM6cxDDyLSYswni) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [Santa Claws](https://open.spotify.com/album/57wRsBWhc28pMp72Dew1dt) | 2:30 |
 | 65 | [Chamdi Chaaley](https://open.spotify.com/track/1CsyTxRwc2rxkpKb40pX36) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Loka Kaha Hai \(Side A\)](https://open.spotify.com/album/1RTiXgD0zfpa32wqRFVNRe) | 3:44 |
 | 66 | [Chhod Bhai](https://open.spotify.com/track/4KRZ47E9wDiCyRAxmBxOAQ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:57 |

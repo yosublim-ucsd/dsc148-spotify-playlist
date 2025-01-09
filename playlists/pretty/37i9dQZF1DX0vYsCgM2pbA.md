@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,959 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,981 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 27 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 | 28 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [goodlife](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 |
 | 29 | [Rainfall \(Praise You\) \- Nathan Dawe Remix](https://open.spotify.com/track/36VkLBq245WRvM9pVjpQNY) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Rainfall \(Praise You\) \[Nathan Dawe Remix\]](https://open.spotify.com/album/65ZiJDx9OpOKOYI8R8sa7K) | 2:17 |
-| 30 | [Ripples In The Timeline](https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [Ripples In The Timeline](https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB) | 3:36 |
+| 30 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 31 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 |
 | 32 | [Alive](https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Alive](https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc) | 5:34 |
-| 33 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
+| 33 | [Ripples In The Timeline](https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [Ripples In The Timeline](https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB) | 3:36 |
 | 34 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
 | 35 | [MACHINE](https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MACHINE](https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA) | 3:17 |
 | 36 | [I Want You \(feat\. Darren Hayes\)](https://open.spotify.com/track/08C8eHg9dK6m3846bm3100) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Darren Hayes](https://open.spotify.com/artist/0ihJnGEjNnbM6uuTn3RHMo) | [I Want You \(feat\. Darren Hayes\)](https://open.spotify.com/album/1d2QuGwi7Rt8LgBVu7krvW) | 2:52 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 56 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ) | 3:22 |
 | 57 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
 | 58 | [Medium](https://open.spotify.com/track/6MLh79MhMrzh25OoF4o4hA) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Medium](https://open.spotify.com/album/2NcT8DWACI7PjmoOufep5G) | 3:58 |
-| 59 | [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 |
-| 60 | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA) | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt) | 3:15 |
+| 59 | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA) | [Alone Again \(feat\. PEPTALK\)](https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt) | 3:15 |
+| 60 | [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 |
 
 Snapshot ID: `Z2F2GgAAAAC/jNJ7heI04Ow7R3TtRUc2`

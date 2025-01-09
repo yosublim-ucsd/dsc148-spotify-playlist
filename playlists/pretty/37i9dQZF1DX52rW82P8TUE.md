@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,855 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,879 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 22 | [Hit da Formiguinha](https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Brincando de Escolinha](https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja) | 3:06 |
 | 23 | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Smilingüido](https://open.spotify.com/artist/3gXyPd0CCJNIlkRptryM5U) | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/album/2DvpowMnSsDrZYdBaNivPI) | 2:51 |
 | 24 | [Minha Pequena Luz](https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Minha Pequena Luz](https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9) | 2:02 |
-| 25 | [Cristo Fez os Peixes](https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Cristo Fez os Peixes](https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv) | 1:52 |
+| 25 | [Família Perfeita](https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Família Perfeita](https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V) | 3:16 |
 | 26 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 |
 | 27 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
 | 28 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 |
 | 29 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 |
-| 30 | [Família Perfeita](https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Família Perfeita](https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V) | 3:16 |
+| 30 | [Cristo Fez os Peixes](https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Cristo Fez os Peixes](https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv) | 1:52 |
 | 31 | [Medley das Crianças](https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl), [Galo Jacó](https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L) | [Medley das Crianças](https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH) | 4:12 |
 | 32 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 | 33 | [A, E, I, O, U](https://open.spotify.com/track/3ECu0Ipd7bspFhrJTuYwoA) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [A,E,I,O,U](https://open.spotify.com/album/5xWQKN7mnHZ9b2WxW5JrF9) | 2:26 |

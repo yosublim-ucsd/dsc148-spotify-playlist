@@ -4,7 +4,7 @@
 
 > Snowy days, cozy nights\. Soak up the spirit of the season with lush, intricate acoustics.
 
-752 songs - 1 day 23 hr 8 min
+753 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2023-12-15 | 2024-03-16 |
 | [Astral Plane](https://open.spotify.com/track/2qFwtxXZXej7jejj8Dldf0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Astral Plane](https://open.spotify.com/album/4SdDQ7IiJMqrbrzQfHTI1s) | 3:38 | 2024-12-17 |  |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2022-12-21 | 2023-03-16 |
+| [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2025-01-08 |  |
 | [Atlas Hands](https://open.spotify.com/track/3mmfvZSZTTMSE8GTuS7rGH) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm \(Deluxe Version\)](https://open.spotify.com/album/1eS5FLI6q24t4wONeOzrj5) | 2:53 | 2023-09-29 | 2023-11-09 |
 | [Atlas Hands](https://open.spotify.com/track/4C9kCkhaZcbgk5IyZoPFjC) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2llC1TaaFaKVDEveEq9hXW) | 2:53 | 2024-12-17 |  |
 | [Atlas Hands](https://open.spotify.com/track/4gSYPXqENGdaJiwm6W0hkQ) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before the Snowstorm](https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0) | 2:53 | 2022-09-06 | 2023-11-05 |

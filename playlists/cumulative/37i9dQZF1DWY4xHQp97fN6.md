@@ -4,7 +4,7 @@
 
 > Mood: Turnt Cover: Kendrick Lamar
 
-927 songs - 1 day 20 hr 37 min
+928 songs - 1 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,7 @@
 | [Law & Order](https://open.spotify.com/track/1u6C9Afnnc0KSrsIXKcRP3) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:41 | 2024-11-15 |  |
 | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Lay Wit Ya \(feat\. Duke Deuce\)](https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9) | 3:22 | 2021-09-03 | 2022-05-14 |
 | [Leave the Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/track/1CJ8e0zc8uvAmkqdeXrq4u) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Leave The Club \(feat\. Lil Durk & GloRilla\)](https://open.spotify.com/album/1O90Qra7WiVZIaT4oHKSTU) | 3:42 | 2023-02-18 | 2023-06-17 |
-| [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-10 |  |
+| [Lemme See](https://open.spotify.com/track/24yqhl33zaZf84naREO04L) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead \(Original Version\)](https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc) | 2:45 | 2023-11-10 | 2025-01-09 |
 | [Lemme See](https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:45 | 2023-11-10 | 2024-04-19 |
 | [Let The Smokers Shine The Coupes](https://open.spotify.com/track/3XyNi4ARXWBgzeDFKoJPqy) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:30 | 2022-04-29 | 2022-08-20 |
 | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/track/2g2Lp3kUkZ4HqtxBrDu5Tt) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It \(feat\. NLE Choppa & Dee Play4Keeps\)](https://open.spotify.com/album/1NVFkrt34Preo5Xv7MQMJW) | 2:35 | 2023-06-16 | 2023-09-09 |
@@ -844,6 +844,7 @@
 | [Tuxedo](https://open.spotify.com/track/7imWwrAiyfIgLk9HVYrhLB) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Tadoe](https://open.spotify.com/artist/7AO1qih2zQeI7WYTQxC5fQ) | [4NEM](https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV) | 3:34 | 2021-12-17 | 2022-02-19 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-23 |  |
 | [Tweak \(with Kyle Richh, Jenn Carter & TaTa\)](https://open.spotify.com/track/7H29Nxj2XqsUNGkO6vH2MZ) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Tweak](https://open.spotify.com/album/2A5sxDsXqXaqQ9whtIJpol) | 2:58 | 2024-05-03 | 2024-06-29 |
+| [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 | 2025-01-08 |  |
 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 | 2021-11-03\* | 2021-11-27 |
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-18 | 2023-07-01 |
 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 | 2021-11-03\* | 2021-11-13 |

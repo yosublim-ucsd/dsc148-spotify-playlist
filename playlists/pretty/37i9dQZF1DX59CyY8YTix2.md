@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: SHISHAMO
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,440 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,457 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 29 | [RE RESCUE](https://open.spotify.com/track/1i5u28LuH3TddcRfOC7Y8U) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [RE RESCUE](https://open.spotify.com/album/09trgNdBYNAfi6bKzqLFbP) | 3:53 |
 | 30 | [GG](https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [GG](https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ) | 3:16 |
 | 31 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 |
-| 32 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 |
-| 33 | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/track/5wpOZzvsXpZyM6yblEMRv9) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx), [くるま](https://open.spotify.com/artist/2A9KcnzAkVOiKKCE4VJJEf) | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/album/6b6lvud6lpyUkay9YreLIq) | 3:09 |
+| 32 | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/track/5wpOZzvsXpZyM6yblEMRv9) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx), [くるま](https://open.spotify.com/artist/2A9KcnzAkVOiKKCE4VJJEf) | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/album/6b6lvud6lpyUkay9YreLIq) | 3:09 |
+| 33 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 |
 | 34 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 |
 | 35 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 |
 | 36 | [おとずれ](https://open.spotify.com/track/6Fp4d4Rey4Pon8r4UxOKJ5) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [おとずれ](https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5) | 3:48 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 47 | [ドッペルゲンガー](https://open.spotify.com/track/3lG2lpAVirM0df8pMMUP1P) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Re:結束バンド](https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h) | 3:39 |
 | 48 | [Sunshade](https://open.spotify.com/track/5ydosGKz5mN41OGweXrMx9) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Sunshade](https://open.spotify.com/album/6yfodvXv3ObrBqR1vXZe2y) | 3:17 |
 | 49 | [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 |
-| 50 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
+| 50 | [求世主](https://open.spotify.com/track/4pepZPoJKPADagQMy69JA6) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [求世主](https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr) | 2:57 |
 | 51 | [ハイエースナンバー](https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [ハイエースナンバー](https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e) | 3:08 |
 | 52 | [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 |
-| 53 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
-| 54 | [求世主](https://open.spotify.com/track/4pepZPoJKPADagQMy69JA6) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [求世主](https://open.spotify.com/album/1Z4xjX90L8CstAWrwkk1Mr) | 2:57 |
+| 53 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
+| 54 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
 | 55 | [Tap Tap Dance](https://open.spotify.com/track/68Zr9ftLbJdjs0dLXMbvWT) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Party!!](https://open.spotify.com/album/3sg0BgfaXzY0QNNngxZG0J) | 3:32 |
 | 56 | [ドラ１独走](https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ドラ１独走](https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE) | 3:03 |
 | 57 | [ラブリーベイビー](https://open.spotify.com/track/4vxdk93S9U0gfSLg1GYxQC) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [意地と光](https://open.spotify.com/album/5bGkOLzV6DxWEBYtnqAOLH) | 3:57 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 60 | [nevermind](https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [nevermind](https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw) | 2:38 |
 | 61 | [ひとりぼっちと廊下の窓](https://open.spotify.com/track/5tDnrXI3oowmppw6Zl6FTy) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 3:19 |
 | 62 | [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 |
-| 63 | [ヘントウタイ](https://open.spotify.com/track/5acubt3tZ9wsDNM2wSM89d) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [ヘントウタイ](https://open.spotify.com/album/6fCwhpkS7SjeOtfEZRFhQQ) | 3:48 |
-| 64 | [あいっ！](https://open.spotify.com/track/51VQ67Vil17hljDo2VgopE) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [あいっ！](https://open.spotify.com/album/5Ba1suGdWD1IFXx6DEq9Um) | 1:59 |
+| 63 | [あいっ！](https://open.spotify.com/track/51VQ67Vil17hljDo2VgopE) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [あいっ！](https://open.spotify.com/album/5Ba1suGdWD1IFXx6DEq9Um) | 1:59 |
+| 64 | [ヘントウタイ](https://open.spotify.com/track/5acubt3tZ9wsDNM2wSM89d) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [ヘントウタイ](https://open.spotify.com/album/6fCwhpkS7SjeOtfEZRFhQQ) | 3:48 |
 | 65 | [悪夢のような](https://open.spotify.com/track/2Y2h2TYOEaNvSQVlhKUU5C) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような](https://open.spotify.com/album/4b2jXJvgmg5uVJggomGnFk) | 4:19 |
 | 66 | [JO\-DEKI](https://open.spotify.com/track/1fu67FayCYkKtlxBgXE74w) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [JO\-DEKI](https://open.spotify.com/album/1kNoIaapMgPL7ztHDAQ7ru) | 3:25 |
 | 67 | [シナモン](https://open.spotify.com/track/5EykrIDBVN1JdcM6BwBFsg) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [シナモン](https://open.spotify.com/album/1elcAkVQ1N96cWUVhl4HOA) | 3:53 |

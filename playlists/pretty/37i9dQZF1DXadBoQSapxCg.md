@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,725 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,747 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 12 | [Flamingos](https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Bluesman](https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I) | 3:57 |
 | 13 | [Na Sua Rua](https://open.spotify.com/track/22X7ZHpJOkAE60DkAclHQa) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Na Sua Rua](https://open.spotify.com/album/5S2ASVd2equrcB5chU1nzn) | 3:28 |
 | 14 | [Me Negaram Amor](https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Me Negaram Amor](https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7) | 4:48 |
-| 15 | [Do jeito que tu gosta](https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ImPKvel](https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS) | 2:23 |
-| 16 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
+| 15 | [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 |
+| 16 | [Do jeito que tu gosta](https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ImPKvel](https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS) | 2:23 |
 | 17 | [Bonita](https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH) | [Me Espera](https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof) | 3:14 |
-| 18 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 |
-| 19 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
+| 18 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
+| 19 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 |
 | 20 | [Lingerie](https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66) | [Lingerie](https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx) | 3:29 |
 | 21 | [Grupo bom](https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Grupo bom](https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD) | 3:00 |
 | 22 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 56 | [Só um Cadin](https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj) | [Cadiin](https://open.spotify.com/artist/1PM5aGRr6Nz8iQFTD0vd4L) | [Só um Cadin](https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl) | 2:55 |
 | 57 | [Faz A Posição](https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Faz A Posição](https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG) | 2:59 |
 | 58 | [Cupido](https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Cupido](https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw) | 2:45 |
-| 59 | [Slow Motion](https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Slow Motion](https://open.spotify.com/album/2R6pUKYNA3c2ph5dTkaa06) | 3:26 |
-| 60 | [Toque Na Pele](https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Toque Na Pele](https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H) | 2:41 |
+| 59 | [Toque Na Pele](https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Toque Na Pele](https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H) | 2:41 |
+| 60 | [Slow Motion](https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Slow Motion](https://open.spotify.com/album/2R6pUKYNA3c2ph5dTkaa06) | 3:26 |
 
 Snapshot ID: `Z1xlQgAAAABg1h3uGDoZwfRyU5ciKudL`

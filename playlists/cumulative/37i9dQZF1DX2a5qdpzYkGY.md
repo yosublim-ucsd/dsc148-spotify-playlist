@@ -4,7 +4,7 @@
 
 > a journey through ephemeral moments
 
-288 songs - 1 day 0 hr 12 min
+290 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [five](https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt) | [Black Decelerant](https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo), [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF), [Omari Jazz](https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT) | [three](https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO) | 3:30 | 2024-06-19 | 2024-10-24 |
 | [Flight](https://open.spotify.com/track/2rgf48jupb8QsIBLC50J4Z) | [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Fight / Flight](https://open.spotify.com/album/58d5bd7ZjFMidKY1PZnWNi) | 1:08 | 2024-07-05 |  |
 | [Flos Potentia \(Sugar, Cotton, Tabacco\)](https://open.spotify.com/track/2kBonSflRzcJY7Xndvvtl3) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Flos Potentia \(Sugar, Cotton, Tabacco\)](https://open.spotify.com/album/0uKPzV8X3Q8qztJLgmz0dW) | 5:34 | 2022-05-08 | 2023-04-13 |
-| [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 | 2024-03-21 |  |
+| [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 | 2024-03-21 | 2025-01-09 |
 | [Francis K.](https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP) | [A\. M.](https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa) | [Origen](https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8) | 5:13 | 2023-02-27 | 2024-06-01 |
 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 | 2022-05-17 |  |
 | [Get Sun](https://open.spotify.com/track/4WdUMgVMYdn1xeu3X2z9Ai) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Get Sun](https://open.spotify.com/album/4voG9BTFD0GrLyKpEKdBSX) | 5:37 | 2021-10-06 | 2023-04-13 |
@@ -137,7 +137,8 @@
 | [Innumerabilia](https://open.spotify.com/track/2Ps9LDSSSdXcnNX7cLpMXK) | [Theo Alexander](https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [Sunbathing Through A Glass Screen](https://open.spotify.com/album/73m26m4c0E7EH40WKUdPNz) | 4:56 | 2021-10-06 | 2022-07-29 |
 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 | 2024-06-20 |
 | [Interstellar](https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 4:37 | 2024-08-29 |  |
-| [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 | 2021-10-06 |  |
+| [January 25th](https://open.spotify.com/track/0xLHax5yY9RdTZL0AkAWrl) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Everything Changes, Nothing Ends](https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO) | 7:16 | 2025-01-09 |  |
+| [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 | 2021-10-06 | 2025-01-09 |
 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 | 2023-01-03 |  |
 | [Just Wrong](https://open.spotify.com/track/20B96sgEcofUFcwtvWxXfK) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Just Wrong](https://open.spotify.com/album/17YsrMtHDv5KmqLWeqcAVd) | 4:44 | 2021-10-06 | 2022-09-19 |
 | [Kandaiki](https://open.spotify.com/track/1jsnIb8rHk5GgsN3oUNB6O) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Animalia](https://open.spotify.com/album/5yelbd379vJVsYZH2A9yYF) | 5:15 | 2021-10-06 | 2024-04-19 |
@@ -209,6 +210,7 @@
 | [Pulse Of Life](https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido) | [Laurent Dury](https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj) | [Modern Chamber Music](https://open.spotify.com/album/2Exl05xJe1sljXUxT1s7Wl) | 1:44 | 2024-04-12 |  |
 | [Ready To Ball](https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Ready To Ball](https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp) | 3:27 | 2023-03-23 | 2023-12-13 |
 | [Refractions](https://open.spotify.com/track/0aMlFZh0kcbGDknlQTRCE3) | [Kit Parker](https://open.spotify.com/artist/2AQQUJNOwq1J4Tf3bouBRv) | [Refractions](https://open.spotify.com/album/5Jm7Ec7ifGTpyBguxiQsPw) | 3:44 | 2022-03-30 | 2022-07-29 |
+| [Regret on Both Sides](https://open.spotify.com/track/77eyLm5F3v4b2voQxdhVmd) | [Dylan Fujioka](https://open.spotify.com/artist/3jxJaw5o7AOx4u41MQn8L5) | [Koko](https://open.spotify.com/album/1DhVkstf5WtrXFajFVCCqB) | 3:40 | 2025-01-09 |  |
 | [Roads Must Roll](https://open.spotify.com/track/3nORBPzCUOY1DL66yb5NtO) | [Boom Bip](https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx) | [Seed to Sun](https://open.spotify.com/album/5xeyvXTL476vBEPWpwY2N2) | 3:58 | 2021-10-06 | 2022-07-29 |
 | [Roads Must Roll](https://open.spotify.com/track/3nm4xjJMrrJWzmmorzFRIm) | [Boom Bip](https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx) | [Seed to Sun](https://open.spotify.com/album/2AQWNeyrgoKcfn2uzYSWBX) | 3:58 | 2021-10-06 | 2024-04-19 |
 | [Ruins](https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Portico Quartet](https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j) | 5:34 | 2021-10-06 |  |

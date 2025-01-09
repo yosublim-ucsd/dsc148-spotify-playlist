@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1358561,
+  "num_followers": 1358515,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "He's My Man",
-        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 232985,
-      "name": "He's My Man",
-      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Keep Me Honest",
         "url": "https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 190890,
       "name": "Keep Me Honest",
       "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Our Way",
         "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 185552,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 206218,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "I Broke Me First",
-        "url": "https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi"
+        "name": "December",
+        "url": "https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW"
       },
       "artists": [
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
         }
       ],
-      "duration_ms": 166144,
-      "name": "I Broke Me First",
-      "url": "https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W"
+      "duration_ms": 148597,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
+        "name": "I Broke Me First",
+        "url": "https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 166144,
+      "name": "I Broke Me First",
+      "url": "https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 148597,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
     },
     {
       "added_at": "2024-12-20 14:37:29",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-12-20 14:37:29",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
-    },
-    {
-      "added_at": "2024-12-20 14:37:29",
-      "album": {
         "name": "Someone That's Better",
         "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 133059,
       "name": "Someone That's Better",
       "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+    },
+    {
+      "added_at": "2024-12-20 14:37:29",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "added_at": "2024-12-20 14:37:29",

@@ -4,7 +4,7 @@
 
 > 
 
-2,053 songs - 4 day 14 hr 11 min
+2,059 songs - 4 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2021-08-05 |  |
 | [Cross My Heart And Hope To Die](https://open.spotify.com/track/28Htz40ff0WaT4gfc8CL7k) | [Harmful Logic](https://open.spotify.com/artist/2bJhXmBzIW5xTAL2LGc6iw) | [Cross My Heart And Hope To Die](https://open.spotify.com/album/4mxayRTM5hG34hcaIFWMxX) | 3:40 | 2022-02-04 |  |
 | [Crown](https://open.spotify.com/track/3U5JNUbwycdHKJniU0Drgw) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Crown](https://open.spotify.com/album/3PVqimvxXsyD50YeBVHghV) | 1:32 | 2021-08-05 |  |
+| [crush](https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [boy](https://open.spotify.com/album/0JfgfkFvNYiZIt5mS3skmZ) | 2:26 | 2025-01-08 |  |
 | [Cry Out](https://open.spotify.com/track/5Sbf1ONFdUHbb88m9VUqDN) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [35xxxv \(Deluxe Edition\)](https://open.spotify.com/album/5yyxuxoqWqmYIJcORvvnpL) | 3:47 | 2021-08-05 |  |
 | [Crybaby](https://open.spotify.com/track/2BLRn0W2QEbNUHHKDqZv8B) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Crybaby/Vixen](https://open.spotify.com/album/1rmsDH96u6Un1zcqIleNq8) | 3:10 | 2021-08-05 |  |
 | [Crystal Clear](https://open.spotify.com/track/06suFc0VLlAItrJx5qQ0Bp) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [haha](https://open.spotify.com/album/2tH1S9Q2RUcLrOizMy9I1K) | 2:19 | 2023-03-06 |  |
@@ -726,6 +727,7 @@
 | [God Damn Liar](https://open.spotify.com/track/1iPX2XfYH0zx6bGmMzHGOs) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Everyone's Out To Get Me](https://open.spotify.com/album/5CPpHqMwhnMHHhTlf6bfiN) | 3:08 | 2022-10-04 |  |
 | [God is a woman](https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:17 | 2021-08-05 |  |
 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 | 2021-08-05 |  |
+| [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 | 2025-01-08 |  |
 | [Gold Dust](https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:05 | 2022-04-03 |  |
 | [Gold Guns Girls](https://open.spotify.com/track/5WH2HL7ZrVu9n51viwbdJw) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 4:05 | 2021-08-05 |  |
 | [Gold Medal](https://open.spotify.com/track/5FRf5P3N1UGySx78MAnpXD) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 3:32 | 2021-08-24 |  |
@@ -860,6 +862,7 @@
 | [I Depend on You](https://open.spotify.com/track/65JKXsHOkGDELAa5j17rio) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Why Don't We Just](https://open.spotify.com/album/7ehrhLf5mBp7eYQgfhZHMn) | 3:25 | 2021-08-05 |  |
 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 | 2021-11-30 |  |
 | [I Disagree](https://open.spotify.com/track/5E09pgezFesGrk4ZL9T2cc) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:13 | 2022-02-04 |  |
+| [i do](https://open.spotify.com/track/3LpzX6SBNbQmPpvRoBCpUX) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [White Tiger](https://open.spotify.com/album/2ij1JaqxLVOKTOsSUZKMji) | 2:56 | 2025-01-08 |  |
 | [i don't](https://open.spotify.com/track/76ZJwiPhDzobKGSuzuWvH9) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [kuroneko](https://open.spotify.com/album/1a9GKdu2sPv7bvGg1efnx4) | 3:54 | 2022-02-04 |  |
 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 | 2021-08-05 |  |
 | [I Don't Love](https://open.spotify.com/track/1AOisyOwLgQ7EveVBCo0GG) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 6:06 | 2022-04-03 |  |
@@ -980,6 +983,7 @@
 | [Japan](https://open.spotify.com/track/6LwYUSaVJLdTwrziHEUSxM) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Japan](https://open.spotify.com/album/3UFmxeMjw1aX5kby38JvsY) | 2:54 | 2022-06-27 |  |
 | [Japan\-Japan](https://open.spotify.com/track/6sQ5hFVgGhORpU1o9HUhF6) | [Loverboyrando](https://open.spotify.com/artist/4mnSgKEkGtu1IBN2r2bM77) | [Japan\-Japan](https://open.spotify.com/album/0flcve8NYXoIQfzfiJe85A) | 3:33 | 2022-02-04 |  |
 | [Jealous](https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/2HgcXoqKJbuPX2clDpwxA5) | 2:02 | 2021-08-05 |  |
+| [jeans](https://open.spotify.com/track/6C2nVSSeXNqfoY8t6tliZ4) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [jeans](https://open.spotify.com/album/7ANu2uI0FVnoQnQsrSiVcO) | 3:01 | 2025-01-08 |  |
 | [Jennifer's Body](https://open.spotify.com/track/6wAdJF85cna96BwQn2Pg8c) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:40 | 2022-11-23 |  |
 | [Jesus Christ \- Live](https://open.spotify.com/track/7JFVGWjXRkeYElYIPXBtC5) | [Jeff Mangum](https://open.spotify.com/artist/38xTceqQAKg4Q2TwFCm902) | [Live at Jittery Joe's](https://open.spotify.com/album/3KU66KeI7myOixMqkAIVIE) | 1:25 | 2021-08-05 |  |
 | [Jesus Forgive Me, I Am A Thot](https://open.spotify.com/track/4odoLyHnSx2jIcXs16IvsV) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [All My Heroes Are Cornballs](https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o) | 2:36 | 2022-02-18 |  |
@@ -1330,6 +1334,7 @@
 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 | 2021-08-24 |  |
 | [Orbitron](https://open.spotify.com/track/2O1fWJD4M38spxqK6ly8qZ) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Transmission, Flux](https://open.spotify.com/album/1MKrXmYKkTv9foXroXTDbo) | 2:18 | 2022-07-18 |  |
 | [ordinary](https://open.spotify.com/track/15ZJyIXyoCARHV60eprsoE) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [yes & no](https://open.spotify.com/album/7oq0WKmeG97JxVBn3ggwp4) | 3:17 | 2021-08-05 |  |
+| [Oublie moi](https://open.spotify.com/track/4TEOLEkZldUJ0XgTqwOMIF) | [Sexy Sushi](https://open.spotify.com/artist/6yNXUzxIakMVY5LoVgZGHG), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4), [Mitch Silver](https://open.spotify.com/artist/585FeCXfQKceH2hCHn5SKO) | [Cyril](https://open.spotify.com/album/3iv0nsEihjNhq2HL63jA2H) | 2:34 | 2025-01-08 |  |
 | [Oulala](https://open.spotify.com/track/499SvLeXfMRLhi6BSrPU3Y) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 4:24 | 2021-12-30 |  |
 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 | 2021-08-05 |  |
 | [Out of My Mood](https://open.spotify.com/track/63qSlpq5oOEl2OdAopqpRh) | [gate 문](https://open.spotify.com/artist/2RjaudCh2POfwdtuezLOlf), [brian mantra](https://open.spotify.com/artist/6HxsYKIz2g6hdn3gfdQRjt) | [Out of My Mood](https://open.spotify.com/album/4ljnVdgaHEuGxwsdjEtgLj) | 4:22 | 2021-08-05 |  |
@@ -1863,6 +1868,7 @@
 | [Training Wheels](https://open.spotify.com/track/3EGW6TGGbdk6Ys1Y3HU3lj) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:25 | 2021-08-05 |  |
 | [Trampoline](https://open.spotify.com/track/3LuLUNgRmmgcr14dTIWH2S) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 4:03 | 2022-06-08 |  |
 | [Transgender](https://open.spotify.com/track/26ZzSLUJMmYp5u1hDELEWH) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:04 | 2021-12-30 |  |
+| [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 | 2025-01-08 |  |
 | [Treacherous Doctor](https://open.spotify.com/track/40WWDaK7arn7ilmufbHmdo) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:43 | 2021-08-05 |  |
 | [Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs), [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Treehouse](https://open.spotify.com/album/6bkxg2HCORFlB0akEfqJvY) | 2:38 | 2022-06-22 |  |
 | [Trench Coat](https://open.spotify.com/track/67lnnsYIuwF3cFmweH0DgS) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 2:42 | 2021-08-05 |  |

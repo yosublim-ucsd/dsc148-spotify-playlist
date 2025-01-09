@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,477 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,482 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 24 | [Iberibe](https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:19 |
 | 25 | [Man on Duty](https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Man on Duty](https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx) | 3:35 |
 | 26 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
-| 27 | [Chop Life](https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chop Life](https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM) | 2:25 |
-| 28 | [Dem Mama Anthem](https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Solo](https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte), [Recoba](https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 4:32 |
+| 27 | [Dem Mama Anthem](https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [2Solo](https://open.spotify.com/artist/1VEt0NXNZxUhoEZLL0kVte), [Recoba](https://open.spotify.com/artist/2AFc4oxDKb1Jk0uSt8OS0U) | [Gift And Grace](https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb) | 4:32 |
+| 28 | [Chop Life](https://open.spotify.com/track/1HJpHUpDF2G8RBp2AKN5kD) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chop Life](https://open.spotify.com/album/6CIyLA00C8T0imbV5HjHpM) | 2:25 |
 | 29 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 |
 | 30 | [True Story](https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [True Story](https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB) | 4:25 |
 | 31 | [Bam Bam](https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Bam Bam](https://open.spotify.com/album/1wpspq0ag31exULhDaG16S) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 49 | [FREE](https://open.spotify.com/track/1kT4kSXCoejVHAZ3nEnqdA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:46 |
 | 50 | [Something Must to Kill a Man](https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:06 |
 
-Snapshot ID: `Z3sdAAAAAAAcao1JdYnMzVkbOh7NXV+t`
+Snapshot ID: `Z3xugAAAAADk02auv/ALc7XjI6BHG0om`

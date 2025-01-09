@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,116 likes - 93 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,124 likes - 93 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 48 | [Se Acabó](https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 3:41 |
 | 49 | [La Tormenta](https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [La Tormenta](https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w) | 2:26 |
 | 50 | [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 |
-| 51 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 |
-| 52 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 |
-| 53 | [All Inclusive](https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:35 |
+| 51 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 |
+| 52 | [All Inclusive](https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:35 |
+| 53 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 |
 | 54 | [Pa' que lo bailen \- Radio Edit](https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Pa' que lo bailen \(Radio Edit\)](https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb) | 3:14 |
 | 55 | [Sun a Shine](https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv) | [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Sun a Shine](https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3) | 2:52 |
 | 56 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 74 | [Pasatiempo](https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV) | [Tim Mara](https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR) | [Pasatiempo](https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39) | 3:22 |
 | 75 | [El Boton del Pantalon](https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [La Revancha del Burro](https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt) | 5:11 |
 | 76 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
-| 77 | [Aguaepanela Fantástica](https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Aguaepanela Fantástica](https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j) | 4:15 |
-| 78 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 |
+| 77 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 |
+| 78 | [Aguaepanela Fantástica](https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Aguaepanela Fantástica](https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j) | 4:15 |
 | 79 | [Dale Melón](https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:20 |
 | 80 | [Tumbamurallas](https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tierra](https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK) | 3:32 |
 | 81 | [Quién Lo Diría?](https://open.spotify.com/track/1ck0WwtC0CEBf4FG4wok2H) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Quién Lo Diría?](https://open.spotify.com/album/5hDocz1GdZqJweE11SUXLD) | 3:38 |

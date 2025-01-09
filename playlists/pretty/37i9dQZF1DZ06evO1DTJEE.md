@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,117 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,148 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 18 | [Pick A Place](https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:59 |
 | 19 | [That's A Mistake](https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 4:17 |
 | 20 | [I Hope She's Drinkin' Tonight](https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [I Hope She’s Drinkin' Tonight / Get Back Home](https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl) | 3:08 |
-| 21 | [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 |
+| 21 | [Hard To Leave](https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:35 |
 | 22 | [Atlantic City](https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:15 |
-| 23 | [Hard To Leave](https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:35 |
+| 23 | [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 |
 | 24 | [They Don’t Make 'Em Like That No More](https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:15 |
 | 25 | [Bury Me In Dixie](https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Bury Me In Dixie](https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8) | 3:08 |
 | 26 | [Way Out Here](https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:41 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 46 | [Rub A Little Dirt On It \(feat\. Riley Green\)](https://open.spotify.com/track/6pnAkWB4997saPywsPSMha) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rub A Little Dirt On It \(feat\. Riley Green\)](https://open.spotify.com/album/0QKrhZJZJ5hUmM37OBZyXU) | 2:45 |
 | 47 | [Behind The Bar](https://open.spotify.com/track/5Tlb8IJOAfpKF1yKujzO1w) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:02 |
 | 48 | [Miles On Main](https://open.spotify.com/track/3f8UChU4rRcFLMP4r8Fhi6) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Miles On Main / Wild Woman](https://open.spotify.com/album/1wwjlUmksFWlxgMiQrc4Gp) | 3:22 |
-| 49 | [Runnin' With An Angel](https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Runnin' With An Angel](https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9) | 3:55 |
-| 50 | [If I Didn’t Wear Boots](https://open.spotify.com/track/2imQgpXrOacGLfgx9nevja) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:00 |
+| 49 | [If I Didn’t Wear Boots](https://open.spotify.com/track/2imQgpXrOacGLfgx9nevja) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [If It Wasn't For Trucks](https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH) | 3:00 |
+| 50 | [Runnin' With An Angel](https://open.spotify.com/track/1BWq6vqgF679jaHo3Hb0se) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Runnin' With An Angel](https://open.spotify.com/album/6DcADv65NToCF9uNEQKLN9) | 3:55 |
 
-Snapshot ID: `Z3sdAAAAAABuSB1MS7Kny+XWv0pOrvWX`
+Snapshot ID: `Z3xugAAAAADwcdUUBcnRpX5eHK6phnDl`

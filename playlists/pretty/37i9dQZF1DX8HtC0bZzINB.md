@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,554 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,555 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 39 | [Imdat](https://open.spotify.com/track/7nJBXYIjC16eCzC4jw8Wiw) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat](https://open.spotify.com/album/1ttu3fHUGU3idSzSNSGlXw) | 3:14 |
 | 40 | [Sen Başkasın](https://open.spotify.com/track/3n7ep2pxWrVPAwlxslJqCX) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Sen Başkasın](https://open.spotify.com/album/0obg4FfubIvPbCeWKPIOyB) | 2:05 |
 | 41 | [Taştan](https://open.spotify.com/track/53IJ9i9i6Y96lJyrFKzYV7) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Taştan](https://open.spotify.com/album/37r3WudqX3UQofAS2fYpug) | 2:56 |
-| 42 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
-| 43 | [Kayboldum](https://open.spotify.com/track/403N2V31Tk7gmD7K5PW6Xb) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Kayboldum](https://open.spotify.com/album/1Ke68puz6YDWgTVRLA2DTM) | 2:06 |
+| 42 | [Kayboldum](https://open.spotify.com/track/403N2V31Tk7gmD7K5PW6Xb) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Kayboldum](https://open.spotify.com/album/1Ke68puz6YDWgTVRLA2DTM) | 2:06 |
+| 43 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
 | 44 | [madem](https://open.spotify.com/track/19vwY9lOzPwNFHnHtXmCiU) | [Revart](https://open.spotify.com/artist/0ZzNn3WVteLb8XGqqkAKs9) | [madem](https://open.spotify.com/album/4x3Dh4nslFQiRhaXLk7RwU) | 2:22 |
 | 45 | [118 80](https://open.spotify.com/track/3cFZAMrb0ME7AvZ71UDG9P) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY) | [118 80](https://open.spotify.com/album/1yOPqZrLwWHZcJeaeB30DJ) | 1:52 |
 | 46 | [Kimse bilmiyor](https://open.spotify.com/track/3Hkia1c1vf930mO4SZ3ZnA) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz) | [Kimse bilmiyor](https://open.spotify.com/album/36w2dxLUwvWx0XwnHVePyK) | 2:54 |

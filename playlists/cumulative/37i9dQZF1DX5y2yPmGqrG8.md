@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-584 songs - 2 day 7 hr 35 min
+585 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Realise](https://open.spotify.com/track/2YDbBo1LiVoLLYAaqoxy0h) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Shadows](https://open.spotify.com/album/5kxdPzutcONxecJmXUIj2c) | 5:26 | 2021-10-06 | 2022-04-07 |
 | [Recat](https://open.spotify.com/track/2nnyGzARamtmV4SnCf7sTT) | [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4), [Max Loderbauer](https://open.spotify.com/artist/66xtPavg2eAxglfIKmPWHP) | [RE: ECM](https://open.spotify.com/album/5vQAHGgPlCgFHdNa4sjZqk) | 7:15 | 2021-10-06 | 2022-04-09 |
 | [Refugees \- Frieder Nagel Rework](https://open.spotify.com/track/4nBJVZUj5NrVt4NI8xzw8f) | [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd), [Roger Goula](https://open.spotify.com/artist/582fGXk0UFFLexo6wQ8jAy), [Frieder Nagel](https://open.spotify.com/artist/48OvGoIuRRFKlccuXbW9JU) | [Refugees \(Frieder Nagel Rework\)](https://open.spotify.com/album/2L66JYq2XuswcmeddKwo7n) | 4:11 | 2022-01-13 | 2022-07-18 |
+| [Regret on Both Sides](https://open.spotify.com/track/77eyLm5F3v4b2voQxdhVmd) | [Dylan Fujioka](https://open.spotify.com/artist/3jxJaw5o7AOx4u41MQn8L5) | [Koko](https://open.spotify.com/album/1DhVkstf5WtrXFajFVCCqB) | 3:40 | 2025-01-09 |  |
 | [Requiem for CS70 and Strings](https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 2:23 | 2021-10-06 |  |
 | [Resta Qui](https://open.spotify.com/track/3RbYNnTGydL55K42h9bvoq) | [Arieti Rilassati](https://open.spotify.com/artist/6TWgi8oIy1OFh9P7EglVUt), [Elia Pastori](https://open.spotify.com/artist/7EdRkmvwTPmduzrNEhkyZI) | [Radio Relax](https://open.spotify.com/album/4G7BAssCjaENDRbzTFy1Uk) | 6:53 | 2022-11-25 | 2023-02-15 |
 | [Revenge](https://open.spotify.com/track/3oq0aWZCAdIfc4ERvILzxm) | [Jogging House](https://open.spotify.com/artist/250gyZr9YqxIpI3UNi9yka) | [Fiber](https://open.spotify.com/album/7eggXuPYfGd9STXvugMAHj) | 7:14 | 2022-08-31 | 2022-10-15 |
@@ -562,7 +563,7 @@
 | [Voicen](https://open.spotify.com/track/0FFOJsHgE6Egh6MEm2QnPu) | [tristan](https://open.spotify.com/artist/76wCQLbhdV3sr1eRfhSZhU), [Yearling](https://open.spotify.com/artist/2lZ8Jshc8PibJ2UNC7RwNc) | [Exchange](https://open.spotify.com/album/6Ytk3moNRtMnRSa75vrPvA) | 3:54 | 2022-03-30 | 2022-04-20 |
 | [Void](https://open.spotify.com/track/3LqmhN26CGJwMn7uroPGxZ) | [NYX](https://open.spotify.com/artist/4vghvskxE7yNmrXWimHrmo) | [Void](https://open.spotify.com/album/5wLxAmBaLwyiUeGVPOFLeB) | 6:13 | 2022-03-30 | 2022-06-30 |
 | [Volver \- Oboe Remix](https://open.spotify.com/track/0LB9eAqowGmeZlML4nbzuh) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Volver](https://open.spotify.com/album/0fkdChNifpc3QI6UyXCDpo) | 3:41 | 2025-01-06 |  |
-| [Waende](https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Daniel Selke](https://open.spotify.com/artist/7HfbFJrI38nyPRiSh0ZcMf), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Waende](https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc) | 3:52 | 2021-10-06 |  |
+| [Waende](https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Daniel Selke](https://open.spotify.com/artist/7HfbFJrI38nyPRiSh0ZcMf), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Waende](https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc) | 3:52 | 2021-10-06 | 2025-01-09 |
 | [Wake](https://open.spotify.com/track/771mBxFYjfjwWLEheT6pwn) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Wake](https://open.spotify.com/album/6OW21ogEx6FTnMbQpQbz7R) | 2:18 | 2022-03-30 | 2022-07-26 |
 | [Warmth in the Dark](https://open.spotify.com/track/5jMSxkwkdVCGeTxtIGlbyr) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Warmth in the Dark](https://open.spotify.com/album/0ohAn4f6Pv9lk179Exs5F6) | 3:29 | 2023-03-03 | 2023-05-18 |
 | [Watersynth](https://open.spotify.com/track/05e2T423zwHe7557aNewF4) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:20 | 2022-10-14 | 2022-10-28 |

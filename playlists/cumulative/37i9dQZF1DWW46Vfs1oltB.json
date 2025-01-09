@@ -4089,6 +4089,28 @@
     },
     {
       "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171520,
+      "name": "BOLO (feat. YDG)",
+      "url": "https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk"
+    },
+    {
+      "album": {
         "name": "Bomb Head",
         "url": "https://open.spotify.com/album/1X5VNhYZGqq4p0dxr30kB1"
       },
@@ -20052,6 +20074,36 @@
       "duration_ms": 204000,
       "name": "NORI",
       "url": "https://open.spotify.com/track/5vAmgWcxiq0MdyhYT44ich"
+    },
+    {
+      "album": {
+        "name": "NORI (Remix)",
+        "url": "https://open.spotify.com/album/3c7kFKFgs8otYp0i3Y6t8j"
+      },
+      "artists": [
+        {
+          "name": "Luci Gang",
+          "url": "https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S"
+        },
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Ash-B",
+          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
+        },
+        {
+          "name": "Polodared",
+          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249214,
+      "name": "NORI (Feat. SINCE, Ash-B, Polodared) - Remix",
+      "url": "https://open.spotify.com/track/0fNcxzErmEUnQ1ROjG0FCg"
     },
     {
       "album": {

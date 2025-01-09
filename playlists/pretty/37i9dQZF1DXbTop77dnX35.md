@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Burna Boy and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,654 likes - 43 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,758 likes - 43 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 30472,
+  "num_followers": 30475,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live At Montreux",
-        "url": "https://open.spotify.com/album/1ZBGw6F1EdH5U6PfPpLaJj"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 598533,
-      "name": "Woman Of The Ghetto - Live From The Montreux Jazz Festival,Switzerland/1973",
-      "url": "https://open.spotify.com/track/65G7H4iqy4wwugOdfM04rn"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 205800,
       "name": "Save Room - Live from Spotify Milan",
       "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live At Montreux",
+        "url": "https://open.spotify.com/album/1ZBGw6F1EdH5U6PfPpLaJj"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 598533,
+      "name": "Woman Of The Ghetto - Live From The Montreux Jazz Festival,Switzerland/1973",
+      "url": "https://open.spotify.com/track/65G7H4iqy4wwugOdfM04rn"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -755,18 +755,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Know You Better (Live from Brooklyn Paramount)",
-        "url": "https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV"
       },
       "artists": [
         {
           "name": "Black Pumas",
           "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        },
+        {
+          "name": "Hypnotic Brass Ensemble",
+          "url": "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
         }
       ],
-      "duration_ms": 475293,
-      "name": "Know You Better - Live from Brooklyn Paramount",
-      "url": "https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj"
+      "duration_ms": 269300,
+      "name": "Colors - Spotify Singles",
+      "url": "https://open.spotify.com/track/7mzocQrHwKd19aLrjT3isS"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -919,22 +923,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV"
+        "name": "Know You Better (Live from Brooklyn Paramount)",
+        "url": "https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN"
       },
       "artists": [
         {
           "name": "Black Pumas",
           "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        },
-        {
-          "name": "Hypnotic Brass Ensemble",
-          "url": "https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH"
         }
       ],
-      "duration_ms": 269300,
-      "name": "Colors - Spotify Singles",
-      "url": "https://open.spotify.com/track/7mzocQrHwKd19aLrjT3isS"
+      "duration_ms": 475293,
+      "name": "Know You Better - Live from Brooklyn Paramount",
+      "url": "https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Tokyo... Live",
-        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Let's Stay Together - Live",
-      "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
         "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 345163,
       "name": "Fallin' (Live From Allianz Parque Sao Paulo Brazil)",
       "url": "https://open.spotify.com/track/5vURZwuyDYghDT37phhUME"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Tokyo... Live",
+        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Let's Stay Together - Live",
+      "url": "https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1187,38 +1187,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
-        "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "(Sitting On) The Dock Of The Bay - Live",
-      "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "Add To Me - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live at Metropolis Studios",
         "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
       },
@@ -1235,6 +1203,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
+        "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "(Sitting On) The Dock Of The Bay - Live",
+      "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 296809,
       "name": "Nakamarra - Live from Spotify Sydney",
       "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "Add To Me - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
+        "name": "Alive (Live At the Jazz Cafe, London)",
+        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 413413,
+      "name": "You're Gonna Miss Your Candy Man - Live",
+      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
         "name": "Curtis in Chicago - Recorded Live!",
         "url": "https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Alive (Live At the Jazz Cafe, London)",
-        "url": "https://open.spotify.com/album/4uF0UXKgm2kqBUlN4NHcie"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
       },
       "artists": [
         {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 413413,
-      "name": "You're Gonna Miss Your Candy Man - Live",
-      "url": "https://open.spotify.com/track/4lHfktTRWq6a3pjq2Km8Xb"
+      "duration_ms": 192600,
+      "name": "At Last - Live",
+      "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1475,22 +1491,6 @@
       "duration_ms": 165533,
       "name": "Baby, I Love You - Live at the Olympia Theatre, Paris, May 7, 1968",
       "url": "https://open.spotify.com/track/4rOJaClBVXUIEbOxKxSJ2y"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "At Last - Live",
-      "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Aretha In Paris (Live)",
-        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "Chain of Fools - Live at the Olympia Theatre, Paris, May 7, 1968",
-      "url": "https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live: 1989 Memphis Music & Heritage Festival",
         "url": "https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 696666,
       "name": "Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song - Live",
       "url": "https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Tokyo... Live",
+        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 376040,
+      "name": "Love & Happiness - Live",
+      "url": "https://open.spotify.com/track/0MBkQKu5au3kGJ5LykLWok"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1623,34 +1623,34 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
-        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
+        "name": "The Stax/Volt Revue: Live In London, Vol. 1",
+        "url": "https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 255573,
-      "name": "Good To Me - Live",
-      "url": "https://open.spotify.com/track/527RsqHwq8ueWrE67xHgYC"
+      "duration_ms": 235786,
+      "name": "Hold On, I'm Comin' - Live in London",
+      "url": "https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS"
     },
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Tokyo... Live",
-        "url": "https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ"
+        "name": "Aretha In Paris (Live)",
+        "url": "https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 376040,
-      "name": "Love & Happiness - Live",
-      "url": "https://open.spotify.com/track/0MBkQKu5au3kGJ5LykLWok"
+      "duration_ms": 172066,
+      "name": "Chain of Fools - Live at the Olympia Theatre, Paris, May 7, 1968",
+      "url": "https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt"
     }
   ],
   "unique_name": "Soul Live",

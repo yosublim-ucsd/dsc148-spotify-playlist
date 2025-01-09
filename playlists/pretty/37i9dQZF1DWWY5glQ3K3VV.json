@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0acanzoni rap da pomparti fino all'alba! \ud83d\udd0aCover: Capo Plaza",
-  "num_followers": 101372,
+  "num_followers": 101387,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-01-02 15:21:54",
       "album": {
+        "name": "CAFF\u00c8 AMARO",
+        "url": "https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "duration_ms": 119850,
+      "name": "CAFF\u00c8 AMARO",
+      "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
+    },
+    {
+      "added_at": "2025-01-02 15:21:54",
+      "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 155493,
       "name": "EL PIBE DE ORO",
       "url": "https://open.spotify.com/track/69VAE3LA7jn5rGAsdflMOS"
-    },
-    {
-      "added_at": "2025-01-02 15:21:54",
-      "album": {
-        "name": "CAFF\u00c8 AMARO",
-        "url": "https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV"
-      },
-      "artists": [
-        {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
-        }
-      ],
-      "duration_ms": 119850,
-      "name": "CAFF\u00c8 AMARO",
-      "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
     },
     {
       "added_at": "2025-01-02 15:21:54",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-01-02 15:21:54",
       "album": {
-        "name": "Quarto di Bue",
-        "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
-      },
-      "artists": [
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        },
-        {
-          "name": "Night Skinny",
-          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
-        }
-      ],
-      "duration_ms": 152800,
-      "name": "Massafghanistan",
-      "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
-    },
-    {
-      "added_at": "2025-01-02 15:21:54",
-      "album": {
         "name": "WE 2FLY",
         "url": "https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 139888,
       "name": "MOLLY ROSA",
       "url": "https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG"
+    },
+    {
+      "added_at": "2025-01-02 15:21:54",
+      "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 152800,
+      "name": "Massafghanistan",
+      "url": "https://open.spotify.com/track/2z8mWFWbz1dyBqbLWbmPWi"
     },
     {
       "added_at": "2025-01-02 15:21:54",
@@ -907,22 +907,22 @@
     {
       "added_at": "2025-01-02 15:21:54",
       "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
+        "name": "Trench Code (feat. Faneto)",
+        "url": "https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
         },
         {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
         }
       ],
-      "duration_ms": 157168,
-      "name": "Fino All'Alba",
-      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
+      "duration_ms": 188842,
+      "name": "Trench Code (feat. Faneto)",
+      "url": "https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok"
     },
     {
       "added_at": "2025-01-02 15:21:54",
@@ -951,22 +951,22 @@
     {
       "added_at": "2025-01-02 15:21:54",
       "album": {
-        "name": "Trench Code (feat. Faneto)",
-        "url": "https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA"
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
       },
       "artists": [
         {
-          "name": "Melons",
-          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         },
         {
-          "name": "Faneto",
-          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 188842,
-      "name": "Trench Code (feat. Faneto)",
-      "url": "https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok"
+      "duration_ms": 157168,
+      "name": "Fino All'Alba",
+      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
     },
     {
       "added_at": "2025-01-02 15:21:54",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-01-02 15:21:54",
       "album": {
-        "name": "Bisous",
-        "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "Timon",
-          "url": "https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Bisous",
-      "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
-    },
-    {
-      "added_at": "2025-01-02 15:21:54",
-      "album": {
         "name": "Il Doc 4 (feat. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker)",
         "url": "https://open.spotify.com/album/0PpCPIFyZetazW76gCA1x8"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 216685,
       "name": "Il Doc 4 (feat. Ernia, Emis Killa, Niky Savage & Andry The Hitmaker)",
       "url": "https://open.spotify.com/track/03eFDbrmDPnbIHXbgXbfP3"
+    },
+    {
+      "added_at": "2025-01-02 15:21:54",
+      "album": {
+        "name": "Bisous",
+        "url": "https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Timon",
+          "url": "https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Bisous",
+      "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
     },
     {
       "added_at": "2025-01-02 15:21:54",

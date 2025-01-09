@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,408 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,406 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 66 | [Moth Love](https://open.spotify.com/track/0lP6dtgyfTtVcxJ1GVmIyA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Moth Love](https://open.spotify.com/album/3TmRBALTpwplqDDM4ZRPMr) | 3:22 |
 | 67 | [Endit \(feat\. Rromarin\)](https://open.spotify.com/track/3L2Lpa6cIeJEnr81n1TbUs) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit \(feat\. Rromarin\)](https://open.spotify.com/album/0vslTcnIU2dvfgOsP4tlJR) | 4:51 |
 | 68 | [On The Eve Of The Rush](https://open.spotify.com/track/4RZfv0PuRnLmbVJZhaGqTz) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Cleave](https://open.spotify.com/album/195Un6jYy1ckMxggNTUsgV) | 4:31 |
-| 69 | [Self To Blame](https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Kayla Blackmon](https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W) | [Self To Blame](https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY) | 4:05 |
-| 70 | [Territory Day](https://open.spotify.com/track/48e8TRm8xNuvCvGH9nQ6WM) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 5:26 |
+| 69 | [Territory Day](https://open.spotify.com/track/48e8TRm8xNuvCvGH9nQ6WM) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/7yo3NsVZi39N0JWEnPhDA9) | 5:26 |
+| 70 | [Self To Blame](https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Kayla Blackmon](https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W) | [Self To Blame](https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY) | 4:05 |
 | 71 | [Need U](https://open.spotify.com/track/6OAlog0TfLYgmT1LVXPOQU) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Need U](https://open.spotify.com/album/06RiNKQaHus4Q0GD4aN2xT) | 3:22 |
 | 72 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
 | 73 | [Those Tears](https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [Those Tears](https://open.spotify.com/album/6ZXS1NJdKgSnmspaQ69v8v) | 3:42 |

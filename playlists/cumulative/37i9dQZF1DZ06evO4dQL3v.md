@@ -4,7 +4,7 @@
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-115 songs - 5 hr 32 min
+116 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [La Mafafa](https://open.spotify.com/track/3Kisqq9Mr4DzHmffQsiY4Q) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:31 | 2022-06-01 | 2024-04-07 |
 | [La Mafafa](https://open.spotify.com/track/4hR7rAesIXv5yv1XJVkija) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 2:31 | 2024-04-07 |  |
 | [La Misma](https://open.spotify.com/track/0Mvx3TJjdU40Y0h08kwfKB) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:56 | 2024-01-06 | 2024-12-17 |
+| [La Morenita Corrido a Zacatecas](https://open.spotify.com/track/18YWFM0IEaaKNQY9r7LGIh) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Morenita Corrido a Zacatecas](https://open.spotify.com/album/52ZYbF5pWUFFISLm0OQOE6) | 3:54 | 2025-01-09 |  |
 | [La Muerta](https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:35 | 2022-06-01 |  |
 | [La Noche Que Chicago Se Murió](https://open.spotify.com/track/2EqtWXQ6kX9VsjB91Sf944) | [Los Estrafalarios](https://open.spotify.com/artist/59h5QRZ8x3gk5oF8dr2UJf), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Chicago Se Murió](https://open.spotify.com/album/01Mr1tBBemO3LOKu8BJOHK) | 2:42 | 2023-05-02 | 2023-05-04 |
 | [La Noche Que Murio Chicago](https://open.spotify.com/track/2ykpZL5SZaefPAyUolKayB) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 2:41 | 2024-04-30 |  |
@@ -110,7 +111,7 @@
 | [Que Se Largue Pa La Porra](https://open.spotify.com/track/4ieJTm4eOlPhhjQ0vO2yVO) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 2:25 | 2024-06-19 | 2024-11-15 |
 | [Rios de Babilonia](https://open.spotify.com/track/23yFtKPA217x9g6iyPHDeK) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:06 | 2023-12-18 |  |
 | [Rios de Babilonia \- Estilo Tierra Caliente](https://open.spotify.com/track/4A0VKEol3raESTNxVT6CyU) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:01 | 2022-06-01 | 2023-12-19 |
-| [Ritmo Que Jala](https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mucho Ritmo](https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp) | 3:04 | 2024-08-23 |  |
+| [Ritmo Que Jala](https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mucho Ritmo](https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp) | 3:04 | 2024-08-23 | 2025-01-09 |
 | [Ritmo Sabroson](https://open.spotify.com/track/1scnMYXYTgyP0MqdBAUDwb) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:36 | 2022-06-01 | 2022-10-11 |
 | [Rumbo al Sur](https://open.spotify.com/track/1UobfNlX7O6d15idejLEBj) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Tamborazo Zacatecano Del cañon De Juchipila](https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX) | [Ni en Defensa Propia, Vol\. 3](https://open.spotify.com/album/7CsBGFFt21lKALK1IStoHB) | 2:00 | 2024-01-01 | 2024-09-14 |
 | [Sabor Amargo](https://open.spotify.com/track/4JqkInLAr7jko2QPTMqA0H) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 3:04 | 2024-09-23 |  |

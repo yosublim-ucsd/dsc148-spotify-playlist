@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "EROZ",
+        "url": "https://open.spotify.com/album/3c44ghd24WoMZVB5N4SfjE"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190178,
+      "name": "AIRE",
+      "url": "https://open.spotify.com/track/3AO2yiueYmT0YBa4ZNP7JM"
+    },
+    {
+      "album": {
         "name": "Aka Entre el Humo",
         "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
       },
@@ -4810,10 +4828,28 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221173,
+      "name": "BANG BANG BANG - KR Ver.",
+      "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
     },
     {
       "album": {
@@ -10402,7 +10438,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
@@ -25118,10 +25154,28 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 354333,
       "name": "Living on Video",
       "url": "https://open.spotify.com/track/4pQOIxRikEmSOISk5SdH5V"
+    },
+    {
+      "album": {
+        "name": "Trans-X: Original 1983 Recordings",
+        "url": "https://open.spotify.com/album/5B0JLIDzl65C4tuMZ7FxqO"
+      },
+      "artists": [
+        {
+          "name": "Trans-X",
+          "url": "https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356440,
+      "name": "Living On Video",
+      "url": "https://open.spotify.com/track/3OmOMVe0dg9EufUASZACal"
     },
     {
       "album": {
@@ -25492,7 +25546,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 186720,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34"
@@ -26616,7 +26670,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -26646,7 +26700,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -31140,7 +31194,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 235466,
       "name": "New Year\u2019s Day",
       "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
@@ -31770,7 +31824,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 284466,
       "name": "No One Noticed (Extended Spanish)",
       "url": "https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze"
@@ -38488,7 +38542,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 376533,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/0tgGImAv6TUhWaInUovxlw"
@@ -41944,10 +41998,28 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 496066,
       "name": "So Many Men, So Little Time",
       "url": "https://open.spotify.com/track/3UQr5ymFHrfcWwwvetw767"
+    },
+    {
+      "album": {
+        "name": "So Many Men, So Little Time",
+        "url": "https://open.spotify.com/album/6MlanfYQPY9ckhJsR3tagu"
+      },
+      "artists": [
+        {
+          "name": "Miquel Brown",
+          "url": "https://open.spotify.com/artist/0y6KR72CWZyrsYZr8iAq4G"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496066,
+      "name": "So Many Men, So Little Time",
+      "url": "https://open.spotify.com/track/5lqVu5N6BjRGaAPwBRKY58"
     },
     {
       "album": {
@@ -47372,7 +47444,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 269826,
       "name": "Un A\u00f1o Mas",
       "url": "https://open.spotify.com/track/1seCZJ3pEVjghbzZ2mV4Xl"
@@ -48488,7 +48560,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 183315,
       "name": "Vibra Perfecta",
       "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"

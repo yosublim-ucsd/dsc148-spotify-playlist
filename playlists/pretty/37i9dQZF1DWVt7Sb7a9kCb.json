@@ -1,6 +1,6 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 185654,
+  "num_followers": 185713,
   "original_name": "Flow Tranqui",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "HABLAME CLARO",
-        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "HABLAME CLARO",
-      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "HABLAME CLARO",
+        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "HABLAME CLARO",
+      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Tengo Un Plan",
-        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        }
-      ],
-      "duration_ms": 189282,
-      "name": "Tengo Un Plan",
-      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Tengo Un Plan",
+        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "Tengo Un Plan",
+      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
         "name": "Tranki, Todo Pasa",
         "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
       },
@@ -1071,38 +1087,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "YOTULOKO",
         "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1491,30 +1491,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Thal\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 230857,
-      "name": "Thal\u00eda - Remix",
-      "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Tu Boca",
         "url": "https://open.spotify.com/album/5tvGfWbjX9JknJp9ig1CXt"
       },
@@ -1535,30 +1511,26 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Razones",
-        "url": "https://open.spotify.com/album/4WfHOJYS5nbp2bY4crOJUY"
+        "name": "Thal\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         },
         {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         }
       ],
-      "duration_ms": 222727,
-      "name": "Razones",
-      "url": "https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ"
+      "duration_ms": 230857,
+      "name": "Thal\u00eda - Remix",
+      "url": "https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1623,6 +1595,34 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
+        "name": "Razones",
+        "url": "https://open.spotify.com/album/4WfHOJYS5nbp2bY4crOJUY"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "duration_ms": 222727,
+      "name": "Razones",
+      "url": "https://open.spotify.com/track/6ioloNq3bBHgoIJh3rC8BQ"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
         "name": "Si Te La Encuentras Por Ah\u00ed",
         "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
       },
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 182496,
+      "name": "AM",
+      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
         "name": "A POCA LUZ",
         "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 182496,
-      "name": "AM",
-      "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/2pOw80D9yX5nKBrGTuJhQg"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 195529,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/4iWuRqKMXizGoUmLJeG4i7"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 202594,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/2pOw80D9yX5nKBrGTuJhQg"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 195529,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/4iWuRqKMXizGoUmLJeG4i7"
     },
     {
       "added_at": "2024-12-20 06:00:07",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2024-12-20 06:00:07",
       "album": {
-        "name": "PERFUME",
-        "url": "https://open.spotify.com/album/2WmyzZpgVIo0DFMQRq4Qkb"
-      },
-      "artists": [
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "PERFUME",
-      "url": "https://open.spotify.com/track/04wRhNvu27f04JlvZnazWx"
-    },
-    {
-      "added_at": "2024-12-20 06:00:07",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
+    },
+    {
+      "added_at": "2024-12-20 06:00:07",
+      "album": {
+        "name": "PERFUME",
+        "url": "https://open.spotify.com/album/2WmyzZpgVIo0DFMQRq4Qkb"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "PERFUME",
+      "url": "https://open.spotify.com/track/04wRhNvu27f04JlvZnazWx"
     },
     {
       "added_at": "2024-12-20 06:00:07",

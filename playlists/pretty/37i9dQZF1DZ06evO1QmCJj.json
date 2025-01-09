@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 42228,
+  "num_followers": 42245,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAADy5uO1e2yM5j5OGxrtaZgO",
+  "snapshot_id": "Z3xugAAAAABQVXIoU0D5abQ46hhb/g0K",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trendy",
+        "url": "https://open.spotify.com/album/7tSdas1MzZuLc0qdygQfm2"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 183564,
+      "name": "Trendy",
+      "url": "https://open.spotify.com/track/6KS9MjBx9PnEetb0XUqGv6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4 besos",
         "url": "https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 232526,
       "name": "4 besos",
       "url": "https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trendy",
-        "url": "https://open.spotify.com/album/7tSdas1MzZuLc0qdygQfm2"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 183564,
-      "name": "Trendy",
-      "url": "https://open.spotify.com/track/6KS9MjBx9PnEetb0XUqGv6"
     },
     {
       "added_at": null,

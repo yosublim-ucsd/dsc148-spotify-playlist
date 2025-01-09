@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 182958,
+  "num_followers": 182974,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAVskZZ99mRBewS8EB6anuk",
+  "snapshot_id": "Z3xugAAAAACZHDbiKhkH6RSuq6iE+DE9",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Box Of Pearls",
+        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Dear Landlord",
+      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Brother & The Holding Company",
         "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 143360,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Box Of Pearls",
-        "url": "https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Dear Landlord",
-      "url": "https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18480,
+  "num_followers": 18489,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 170315,
       "name": "Pierrot",
       "url": "https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "To Anyone",
-        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
       "artists": [
         {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 219453,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R"
+      "duration_ms": 156354,
+      "name": "Good Parts (when the quality is bad but I am)",
+      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 156354,
-      "name": "Good Parts (when the quality is bad but I am)",
-      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
+      "duration_ms": 219453,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
+        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Drink it, Girls!",
+      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
         "name": "LUCKY MAN",
         "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 217595,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
-        "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Drink it, Girls!",
-      "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
     },
     {
       "added_at": "2024-10-08 11:00:53",

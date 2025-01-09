@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 423869,
+  "num_followers": 423922,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
-        "name": "A Roar Of Southern Clouds",
-        "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
-      },
-      "artists": [
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "A Primera Vista",
-      "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
+        "name": "A Roar Of Southern Clouds",
+        "url": "https://open.spotify.com/album/2deE5hHK0ijX8KNVobCmfz"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "A Primera Vista",
+      "url": "https://open.spotify.com/track/4Xunts6NLofGZCFEICTDTg"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
+        "name": "Bailar Contigo",
+        "url": "https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Bailar Contigo",
+      "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
         "name": "Ahyre",
         "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
       },
@@ -603,18 +619,22 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
-        "name": "Bailar Contigo",
-        "url": "https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf"
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 220720,
-      "name": "Bailar Contigo",
-      "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -635,26 +655,6 @@
       "duration_ms": 260523,
       "name": "La Luna de Neuqu\u00e9n",
       "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
-        "name": "Timidez (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
         "name": "BOLERo LIBRA",
         "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 172687,
       "name": "BOLERo LIBRA",
       "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 182764,
-      "name": "D\u00cdA DEL AMOR",
-      "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
         "name": "Diecinueve",
         "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 213105,
       "name": "Fuimos",
       "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 182764,
+      "name": "D\u00cdA DEL AMOR",
+      "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
-        "name": "OTRX",
-        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        },
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
       },
@@ -1431,18 +1411,22 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        },
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
         }
       ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+      "duration_ms": 175412,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -1507,6 +1491,22 @@
       "duration_ms": 125156,
       "name": "El Mundo Siempre Estuvo Dividido en Dos",
       "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     },
     {
       "added_at": "2024-11-05 12:55:46",

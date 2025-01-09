@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 776695,
+  "num_followers": 776698,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABXFLPGQJUT6i1ovBXA6Y0s",
+  "snapshot_id": "Z3xugAAAAAAINtAxiG/ZvEsUwbni0Tnk",
   "tracks": [
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 174866,
-      "name": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
-      "url": "https://open.spotify.com/track/4WdopfTdSd0nCLropjhsgH"
+      "duration_ms": 191560,
+      "name": "Nine in the Afternoon - Single Mix",
+      "url": "https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Nine in the Afternoon - Single Mix",
-      "url": "https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41"
+      "duration_ms": 174866,
+      "name": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
+      "url": "https://open.spotify.com/track/4WdopfTdSd0nCLropjhsgH"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 205752,
-      "name": "But It's Better If You Do",
-      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Weird to Live, Too Rare to Die!",
         "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 186600,
       "name": "Nicotine",
       "url": "https://open.spotify.com/track/5Q4H1XkVHxQjnrHCUpS61d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 205752,
+      "name": "But It's Better If You Do",
+      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 196653,
-      "name": "There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet",
-      "url": "https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Weird to Live, Too Rare to Die!",
         "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 197466,
       "name": "Far Too Young to Die",
       "url": "https://open.spotify.com/track/4NTL7fT4eqfPao94lmqth2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 196653,
+      "name": "There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet",
+      "url": "https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "Northern Downpour",
-      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Weird to Live, Too Rare to Die!",
         "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 189106,
       "name": "Vegas Lights",
       "url": "https://open.spotify.com/track/0zewUY3RSh8yaV7q66Okem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "Northern Downpour",
+      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 198946,
-      "name": "One of the Drunks",
-      "url": "https://open.spotify.com/track/5trCWbYtza0QUxdmF9HAPX"
+      "duration_ms": 195013,
+      "name": "That Green Gentleman (Things Have Changed)",
+      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "One of the Drunks",
+      "url": "https://open.spotify.com/track/5trCWbYtza0QUxdmF9HAPX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty. Odd.",
         "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
@@ -644,25 +660,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 195013,
-      "name": "That Green Gentleman (Things Have Changed)",
-      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suicide Squad: The Album",
-        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 363114,
-      "name": "Bohemian Rhapsody",
-      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
+      "duration_ms": 227240,
+      "name": "She Had the World",
+      "url": "https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+        "name": "Suicide Squad: The Album",
+        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 227240,
-      "name": "She Had the World",
-      "url": "https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk"
+      "duration_ms": 363114,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2YSbHu9XF4bNYWt3MnIhgE"
     },
     {
       "added_at": null,

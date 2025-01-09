@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 644227,
+  "num_followers": 644272,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAEhpeRP40kPGMPWyK/S65q",
+  "snapshot_id": "Z3xugAAAAABhAS1bqrycqdp0qH5yWd/y",
   "tracks": [
     {
       "added_at": null,
@@ -943,30 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock Value",
-        "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
+        "name": "Turtleneck & Chain (Explicit Version)",
+        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
       },
       "artists": [
         {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         }
       ],
-      "duration_ms": 244293,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/4ymByZAPRqTlyJASAoJ921"
+      "duration_ms": 169506,
+      "name": "Motherlover",
+      "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
     },
     {
       "added_at": null,
@@ -1011,22 +1003,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turtleneck & Chain (Explicit Version)",
-        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
       "artists": [
         {
-          "name": "The Lonely Island",
-          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
         }
       ],
-      "duration_ms": 169506,
-      "name": "Motherlover",
-      "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
+      "duration_ms": 244293,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/4ymByZAPRqTlyJASAoJ921"
     },
     {
       "added_at": null,

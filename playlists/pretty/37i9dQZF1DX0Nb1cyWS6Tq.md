@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,480 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,796 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 76 | [Ekpyrosis](https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB) | [Lathe of Heaven](https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr) | [Bound By Naked Skies](https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1) | 2:52 |
 | 77 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 |
 | 78 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 |
-| 79 | [Hex](https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV) | [Crone Visions](https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J) | [Hex](https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l) | 3:24 |
-| 80 | [Shining Road](https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Loved](https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0) | 3:51 |
+| 79 | [Shining Road](https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Loved](https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0) | 3:51 |
+| 80 | [Hex](https://open.spotify.com/track/0ly1XWGeXQLaZM8Cng8PJV) | [Crone Visions](https://open.spotify.com/artist/12MHSwdVzUugwDgfhf3p0J) | [Hex](https://open.spotify.com/album/36FcnufhmxEwHxSPPZIH9l) | 3:24 |
 
 Snapshot ID: `ZzOGsQAAAADd6KLuRfcy4vN2TXNsTmfQ`

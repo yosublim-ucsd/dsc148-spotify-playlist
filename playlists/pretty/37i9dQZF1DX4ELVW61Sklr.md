@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,929 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,883 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 43 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 |
 | 44 | [Hark the Herald Angels Sing](https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:35 |
 | 45 | [What Christmas Means to Me \- from "The Best Man Holiday Original Motion Picture Soundtrack"](https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 2:24 |
-| 46 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 |
-| 47 | [The First Noel](https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The First Noel](https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX) | 2:32 |
+| 46 | [The First Noel](https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The First Noel](https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX) | 2:32 |
+| 47 | [Angels We Have Heard On High](https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 4:27 |
 | 48 | [Santa Is Me](https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Coco By The Fireplace](https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL) | 2:41 |
 | 49 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
 | 50 | [Under The Tree](https://open.spotify.com/track/7uWtrIBRUQOQ3cpLLzwBEk) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Under The Tree](https://open.spotify.com/album/4fXm0qcZCmHLfYjfINMhWF) | 3:24 |

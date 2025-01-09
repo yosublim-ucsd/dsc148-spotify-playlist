@@ -1,15 +1,31 @@
 {
-  "description": "Find out the hottest tracks in the UAE. Cover: The Weeknd",
-  "num_followers": 4867,
+  "description": "Find out the hottest tracks in the UAE. Cover: Coldplay",
+  "num_followers": 4872,
   "original_name": "Hot Hits UAE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0JhMgAAAAC2eQTZ8i/m9rhZgTzRg5Tg",
+  "snapshot_id": "Z36I/wAAAAB26EYwDhzh+O1KYlOIa/MR",
   "tracks": [
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 236230,
+      "name": "feelslikeimfallinginlove",
+      "url": "https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6"
+    },
+    {
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Awl Mara",
         "url": "https://open.spotify.com/album/4c4nUlrFDII4QZMq8Qw0vl"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/2EGX48NpiPOYswzI7srylN"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Hey Minnale (From \"Amaran\")",
         "url": "https://open.spotify.com/album/7h4PYTWfaFUfPQLZVo71YP"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/0hs52k0bAXIBQ2SzGx5mzI"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "KEHLANI",
         "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "BAND4BAND",
         "url": "https://open.spotify.com/album/3wZawwqgPM0P4SAyyWdn2S"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/0oZ1hEmIpbO3PzREe2HZeL"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Vaazha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx"
@@ -417,35 +433,7 @@
       "url": "https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
-      "album": {
-        "name": "Aaj Ki Raat (From \"Stree 2\")",
-        "url": "https://open.spotify.com/album/3UFJUJXBdfDRd2qRZ9ijyn"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        }
-      ],
-      "duration_ms": 228620,
-      "name": "Aaj Ki Raat (From \"Stree 2\")",
-      "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
-    },
-    {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -461,23 +449,7 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
-      "album": {
-        "name": "WOLEDTO",
-        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 177119,
-      "name": "Ganeni",
-      "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
-    },
-    {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Thick Of It (feat. Trippie Redd) / Low",
         "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
@@ -497,7 +469,7 @@
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -517,7 +489,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -537,7 +509,7 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Tauba Tauba (From \"Bad Newz\")",
         "url": "https://open.spotify.com/album/0MUqt34IuJsdFAuQM57jKp"
@@ -553,7 +525,7 @@
       "url": "https://open.spotify.com/track/1WaqQIJ0iENGWZ1QmYvYNK"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
@@ -569,7 +541,23 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Jo Tum Mere Ho",
         "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
@@ -585,7 +573,7 @@
       "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
@@ -601,7 +589,7 @@
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -617,7 +605,7 @@
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
@@ -633,7 +621,7 @@
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
@@ -649,7 +637,7 @@
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -681,7 +669,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -697,7 +685,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -713,7 +701,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "The Highlights (Deluxe)",
         "url": "https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC"
@@ -737,7 +725,7 @@
       "url": "https://open.spotify.com/track/7GUhiAHLoVy1V8ucQuZ3CB"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Aasa Kooda (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
@@ -757,7 +745,7 @@
       "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -773,7 +761,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "\u0646\u0633\u0627\u0649",
         "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
@@ -789,7 +777,7 @@
       "url": "https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Sajni (From \"Laapataa Ladies\")",
         "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
@@ -813,7 +801,7 @@
       "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "( Saudi ) \u062d\u0632\u064a\u0646 \u0627\u0644\u0648\u0642\u062a",
         "url": "https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn"
@@ -833,7 +821,7 @@
       "url": "https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Wahad",
         "url": "https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV"
@@ -849,7 +837,7 @@
       "url": "https://open.spotify.com/track/1R69Raqo1YOHxk2fOpk9xS"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -873,7 +861,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Aayi Aayi",
         "url": "https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ"
@@ -897,7 +885,7 @@
       "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Katchi Sera (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/1kqsloJJsGKKKiWhinel6F"
@@ -913,7 +901,7 @@
       "url": "https://open.spotify.com/track/1zzejMGRYKP5XOa3FmzXfa"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Illuminati (From \"Aavesham\")",
         "url": "https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE"
@@ -937,7 +925,7 @@
       "url": "https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I"
     },
     {
-      "added_at": "2024-11-18 08:07:32",
+      "added_at": "2025-01-08 14:17:35",
       "album": {
         "name": "Chaleya (From \"Jawan\")",
         "url": "https://open.spotify.com/album/7zAITOBN6eG4UBm4IapAik"

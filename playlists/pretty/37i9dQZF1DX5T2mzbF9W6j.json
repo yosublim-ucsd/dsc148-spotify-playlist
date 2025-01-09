@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 110437,
+  "num_followers": 110440,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-12-09 10:33:00",
       "album": {
-        "name": "Somebody New",
-        "url": "https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Somebody New",
-      "url": "https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
         "name": "Jab\u0142onie",
         "url": "https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL"
       },
@@ -907,6 +891,38 @@
       "duration_ms": 192162,
       "name": "Jab\u0142onie",
       "url": "https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb"
+    },
+    {
+      "added_at": "2024-12-09 10:33:00",
+      "album": {
+        "name": "Lepiej ni\u017c teraz",
+        "url": "https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF"
+      },
+      "artists": [
+        {
+          "name": "Sandra Reizer",
+          "url": "https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Lepiej ni\u017c teraz",
+      "url": "https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM"
     },
     {
       "added_at": "2024-12-09 10:33:00",
@@ -935,22 +951,6 @@
       "duration_ms": 154687,
       "name": "KONFETTI",
       "url": "https://open.spotify.com/track/4EvCYXjPweKzMgTCRYgmp2"
-    },
-    {
-      "added_at": "2024-12-09 10:33:00",
-      "album": {
-        "name": "Lepiej ni\u017c teraz",
-        "url": "https://open.spotify.com/album/0F55nx14rUP7qMQAYz1ziF"
-      },
-      "artists": [
-        {
-          "name": "Sandra Reizer",
-          "url": "https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Lepiej ni\u017c teraz",
-      "url": "https://open.spotify.com/track/3re5Wb1alK6rJxTqOFKHWM"
     },
     {
       "added_at": "2024-12-09 10:33:00",

@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udea9\ud83e\udea9\ud83e\udea9\ud83e\udea9",
-  "num_followers": 214439,
+  "num_followers": 214424,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-01-02 23:00:10",
       "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Heatstroke",
+      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
+    },
+    {
+      "added_at": "2025-01-02 23:00:10",
+      "album": {
         "name": "Sees Igjen",
         "url": "https://open.spotify.com/album/2ZbDIWIGCKtpK26NRTUw6s"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 163142,
       "name": "Sees Igjen",
       "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
-    },
-    {
-      "added_at": "2025-01-02 23:00:10",
-      "album": {
-        "name": "Sincere",
-        "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Heatstroke",
-      "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
       "added_at": "2025-01-02 23:00:10",

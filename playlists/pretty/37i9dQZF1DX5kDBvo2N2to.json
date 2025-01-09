@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59133,
+  "num_followers": 59125,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "What Happens Now? (Deluxe)",
-        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 251979,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "What Happens Now? (Deluxe)",
+        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -587,18 +587,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
-        "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW"
       },
       "artists": [
         {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
         }
       ],
-      "duration_ms": 188800,
-      "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
-      "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
+      "duration_ms": 164628,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -615,6 +619,54 @@
       "duration_ms": 159773,
       "name": "Fortfarande du",
       "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+        "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
+      "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Headache",
+        "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 240826,
+      "name": "I'm So Sorry",
+      "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -655,58 +707,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 164628,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
-      },
-      "artists": [
-        {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Headache",
-        "url": "https://open.spotify.com/album/6baKpbxBMBisqqThtQ1TyZ"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 240826,
-      "name": "I'm So Sorry",
-      "url": "https://open.spotify.com/track/66UdYj3MIsMI8WryDpRZwb"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "I natt \u00e9 hela staden v\u00e5r",
         "url": "https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 200698,
       "name": "I natt \u00e9 hela staden v\u00e5r",
       "url": "https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Stj\u00e4rnorna inatt",
+        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
+      },
+      "artists": [
+        {
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Stj\u00e4rnorna inatt",
+      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -751,22 +767,6 @@
       "duration_ms": 130391,
       "name": "8 Days",
       "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "Stj\u00e4rnorna inatt",
-        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
-      },
-      "artists": [
-        {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Stj\u00e4rnorna inatt",
-      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Goat",
-        "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 328582,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Maskinen \u00e4r tillbaka",
         "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 139836,
       "name": "Maskinen \u00e4r tillbaka",
       "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Goat",
+        "url": "https://open.spotify.com/album/0aHeKXZpdQlfZRYYJlYlcj"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 328582,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/68FnxCqRL1YJ2SrJ1qSsl7"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Passa dig",
-        "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
-      },
-      "artists": [
-        {
-          "name": "NOVELLEN",
-          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
-        }
-      ],
-      "duration_ms": 148853,
-      "name": "Passa dig",
-      "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Dina \u00d6gon \u00c4r Nakna",
         "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 200346,
       "name": "Dina \u00d6gon \u00c4r Nakna",
       "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Passa dig",
+        "url": "https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG"
+      },
+      "artists": [
+        {
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
+        }
+      ],
+      "duration_ms": 148853,
+      "name": "Passa dig",
+      "url": "https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l"
     },
     {
       "added_at": "2024-11-08 09:13:14",

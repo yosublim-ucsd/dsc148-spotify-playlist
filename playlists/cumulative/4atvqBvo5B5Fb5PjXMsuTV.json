@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Jan 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Jan 19:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -4078,7 +4078,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 135001,
       "name": "Apple",
       "url": "https://open.spotify.com/track/2qVxkSW21r1r6aXRbCA3Q6"
@@ -8395,6 +8395,28 @@
     },
     {
       "album": {
+        "name": "Bologna",
+        "url": "https://open.spotify.com/album/3PR12ArZ8CbnuMrFWFGNz3"
+      },
+      "artists": [
+        {
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        },
+        {
+          "name": "Fiver",
+          "url": "https://open.spotify.com/artist/1nvq3vakg2j1A0wTpV0AkO"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264120,
+      "name": "Bologna",
+      "url": "https://open.spotify.com/track/1lUeZctPxbFJWysc8w9aha"
+    },
+    {
+      "album": {
         "name": "BOMBAY",
         "url": "https://open.spotify.com/album/5hADwq3k0Uz3ss55RTgabE"
       },
@@ -9646,6 +9668,24 @@
       "duration_ms": 118000,
       "name": "BRUV",
       "url": "https://open.spotify.com/track/5cs4km2N4KB865tIb59PHZ"
+    },
+    {
+      "album": {
+        "name": "Building 650",
+        "url": "https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231677,
+      "name": "Building 650",
+      "url": "https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr"
     },
     {
       "album": {
@@ -11241,6 +11281,36 @@
     },
     {
       "album": {
+        "name": "Change the Channel",
+        "url": "https://open.spotify.com/album/2PKmzNJPfctS1oXMkrVfG7"
+      },
+      "artists": [
+        {
+          "name": "clipping.",
+          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Jonathan Snipes",
+          "url": "https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M"
+        },
+        {
+          "name": "William Hutson",
+          "url": "https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135654,
+      "name": "Change the Channel",
+      "url": "https://open.spotify.com/track/2AY9O7SaYWCWrJ92qTWcng"
+    },
+    {
+      "album": {
         "name": "changes",
         "url": "https://open.spotify.com/album/468LXHWKG6Vl1ZBhyg1s5K"
       },
@@ -12214,7 +12284,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 144362,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/62aON6Cryxp0VFjQALuUcK"
@@ -40840,7 +40910,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 388366,
       "name": "Mental Health",
       "url": "https://open.spotify.com/track/2gCVUZhdojdcuCZlhjaLmp"
@@ -40992,7 +41062,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 134812,
       "name": "MF Mosh Pit",
       "url": "https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF"
@@ -49934,6 +50004,24 @@
       "duration_ms": 241240,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/0ZE2MRjR1eGoV9iO1Z1DpT"
+    },
+    {
+      "album": {
+        "name": "Portrait of My Heart",
+        "url": "https://open.spotify.com/album/4jAkrzJD6q10Xu97025aAC"
+      },
+      "artists": [
+        {
+          "name": "SPELLLING",
+          "url": "https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282850,
+      "name": "Portrait of My Heart",
+      "url": "https://open.spotify.com/track/7GlExXS4otYR7sntsPMcMd"
     },
     {
       "album": {
@@ -67912,7 +68000,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 166838,
       "name": "Underground",
       "url": "https://open.spotify.com/track/3S0aN2k0WlUrHgDoiUkcxA"
@@ -72770,6 +72858,24 @@
       "duration_ms": 111311,
       "name": "Yes Freestyle (feat. Sheff G)",
       "url": "https://open.spotify.com/track/7j2rcM90Df70Jyv96LBbjw"
+    },
+    {
+      "album": {
+        "name": "Yes I Can",
+        "url": "https://open.spotify.com/album/6xnu5R7xVEm6ThD1wAAEjM"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Yes I Can",
+      "url": "https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6"
     },
     {
       "album": {

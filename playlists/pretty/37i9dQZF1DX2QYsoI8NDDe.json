@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: NXNNI",
-  "num_followers": 489368,
+  "num_followers": 489366,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/5Op1x1Hx8j3vYjnEBLGS6v"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 178364,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/6sdyIPisM0l6okphIRIdjU"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
         "name": "Blank Space (Hoja en Blanco)",
         "url": "https://open.spotify.com/album/3Rz0gBoMnPXqDDZNSEXZpK"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "No Te Vas",
-        "url": "https://open.spotify.com/album/0MJ8NfcM3aZg6H1ILrsxNv"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/5Op1x1Hx8j3vYjnEBLGS6v"
       },
       "artists": [
         {
-          "name": "MAR",
-          "url": "https://open.spotify.com/artist/07z2rbjbFEmLhSxD1ZD7wu"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 174524,
-      "name": "No Te Vas",
-      "url": "https://open.spotify.com/track/2phShCIgHpwSsUaW4btIQn"
+      "duration_ms": 178364,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/6sdyIPisM0l6okphIRIdjU"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -871,6 +855,22 @@
       "duration_ms": 199368,
       "name": "Coraz\u00f3n Tatuado",
       "url": "https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
+        "name": "No Te Vas",
+        "url": "https://open.spotify.com/album/0MJ8NfcM3aZg6H1ILrsxNv"
+      },
+      "artists": [
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/07z2rbjbFEmLhSxD1ZD7wu"
+        }
+      ],
+      "duration_ms": 174524,
+      "name": "No Te Vas",
+      "url": "https://open.spotify.com/track/2phShCIgHpwSsUaW4btIQn"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Pa Donde Sea",
-        "url": "https://open.spotify.com/album/73mXUPl4AI4WSSiYOpnded"
+        "name": "A Mi Me Respetas",
+        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 126412,
-      "name": "Pa Donde Sea",
-      "url": "https://open.spotify.com/track/3saOhEuvUlZLkcrxyu8kyM"
+      "duration_ms": 150148,
+      "name": "A Mi Me Respetas",
+      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1075,22 +1079,34 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "A Mi Me Respetas",
-        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
+        "name": "Pa Donde Sea",
+        "url": "https://open.spotify.com/album/73mXUPl4AI4WSSiYOpnded"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
         }
       ],
-      "duration_ms": 150148,
-      "name": "A Mi Me Respetas",
-      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+      "duration_ms": 126412,
+      "name": "Pa Donde Sea",
+      "url": "https://open.spotify.com/track/3saOhEuvUlZLkcrxyu8kyM"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
+        "name": "Deja Que Salga la Luna (En Vivo)",
+        "url": "https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 197525,
+      "name": "Deja Que Salga la Luna - En Vivo",
+      "url": "https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Deja Que Salga la Luna (En Vivo)",
-        "url": "https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY"
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 197525,
-      "name": "Deja Que Salga la Luna - En Vivo",
-      "url": "https://open.spotify.com/track/5d4rgvM3J5aV9mY2OweosG"
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1143,22 +1159,6 @@
       "duration_ms": 219411,
       "name": "El Cigarrillo",
       "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "T\u00fa, Solamente T\u00fa",
-        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
+        "name": "Ovarios (Banda)",
+        "url": "https://open.spotify.com/album/2rIxXW7RpXHgZwUxkvRicu"
       },
       "artists": [
         {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 202219,
-      "name": "T\u00fa, Solamente T\u00fa",
-      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
+      "duration_ms": 193076,
+      "name": "Ovarios - Banda",
+      "url": "https://open.spotify.com/track/456cTYG9AxNpqpodK4qozJ"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
+        "name": "La Chacalosa",
+        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 213713,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
         "name": "Beyonce",
         "url": "https://open.spotify.com/album/3NI6t8o1YTwIDdPMx3yGfR"
       },
@@ -1263,34 +1279,18 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Ovarios (Banda)",
-        "url": "https://open.spotify.com/album/2rIxXW7RpXHgZwUxkvRicu"
+        "name": "T\u00fa, Solamente T\u00fa",
+        "url": "https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 193076,
-      "name": "Ovarios - Banda",
-      "url": "https://open.spotify.com/track/456cTYG9AxNpqpodK4qozJ"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
-        "name": "La Chacalosa",
-        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 213713,
-      "name": "La Chacalosa",
-      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
+      "duration_ms": 202219,
+      "name": "T\u00fa, Solamente T\u00fa",
+      "url": "https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
+        "name": "Antes De Mi",
+        "url": "https://open.spotify.com/album/44PEN86Db27cBNQKIuOlyN"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Antes De Mi",
+      "url": "https://open.spotify.com/track/5SUde8GG9nVe3TAMXYOoGV"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
         "name": "CHIQUIS - BEE SIDE",
         "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 204453,
       "name": "Compa\u00f1era Presidenta",
       "url": "https://open.spotify.com/track/0p8TaudvyXLcM67ORslaSH"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
-        "name": "Antes De Mi",
-        "url": "https://open.spotify.com/album/44PEN86Db27cBNQKIuOlyN"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Antes De Mi",
-      "url": "https://open.spotify.com/track/5SUde8GG9nVe3TAMXYOoGV"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Hasta el D\u00eda de Hoy (En Vivo)",
-        "url": "https://open.spotify.com/album/3umeMyrmqLqsdxwllKSZ2I"
-      },
-      "artists": [
-        {
-          "name": "Designo Celestial",
-          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
-        },
-        {
-          "name": "Neto Becerra",
-          "url": "https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ"
-        }
-      ],
-      "duration_ms": 220754,
-      "name": "Hasta el D\u00eda de Hoy - En Vivo",
-      "url": "https://open.spotify.com/track/6SY9q7gtAo0XJnD6soFujd"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
         "name": "Dos Balas",
         "url": "https://open.spotify.com/album/76v60AQbzVgs6YyKUtOVgb"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 155409,
       "name": "Dos Balas",
       "url": "https://open.spotify.com/track/0nFrXmyVlEN34M29mN1xiv"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
+        "name": "Hasta el D\u00eda de Hoy (En Vivo)",
+        "url": "https://open.spotify.com/album/3umeMyrmqLqsdxwllKSZ2I"
+      },
+      "artists": [
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        },
+        {
+          "name": "Neto Becerra",
+          "url": "https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ"
+        }
+      ],
+      "duration_ms": 220754,
+      "name": "Hasta el D\u00eda de Hoy - En Vivo",
+      "url": "https://open.spotify.com/track/6SY9q7gtAo0XJnD6soFujd"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1727,38 +1727,6 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "En Vivo Con DC",
-        "url": "https://open.spotify.com/album/0WoAtQOZEwpwFCMCZXsdwu"
-      },
-      "artists": [
-        {
-          "name": "Designo Celestial",
-          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
-        }
-      ],
-      "duration_ms": 151901,
-      "name": "When I was your Man - En Vivo",
-      "url": "https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
-        "name": "En Mil Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL"
-      },
-      "artists": [
-        {
-          "name": "Lili Zetina",
-          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
-        }
-      ],
-      "duration_ms": 194034,
-      "name": "En Mil Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
         "name": "Tres Mundos",
         "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
       },
@@ -1779,6 +1747,22 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
+        "name": "En Mil Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL"
+      },
+      "artists": [
+        {
+          "name": "Lili Zetina",
+          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
+        }
+      ],
+      "duration_ms": 194034,
+      "name": "En Mil Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
         "name": "Yo Ni Te Topo",
         "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 158210,
       "name": "Yo Ni Te Topo",
       "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
+        "name": "En Vivo Con DC",
+        "url": "https://open.spotify.com/album/0WoAtQOZEwpwFCMCZXsdwu"
+      },
+      "artists": [
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "duration_ms": 151901,
+      "name": "When I was your Man - En Vivo",
+      "url": "https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -1995,26 +1995,18 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
-        "url": "https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9"
+        "name": "El Bato Gacho",
+        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
         }
       ],
-      "duration_ms": 244800,
-      "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
-      "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"
+      "duration_ms": 145518,
+      "name": "El Bato Gacho",
+      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -2035,18 +2027,26 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "El Bato Gacho",
-        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
+        "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
+        "url": "https://open.spotify.com/album/4iJ94Gg6xVt1GDaCWSI6z9"
       },
       "artists": [
         {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
         }
       ],
-      "duration_ms": 145518,
-      "name": "El Bato Gacho",
-      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
+      "duration_ms": 244800,
+      "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
+      "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
+        "name": "Podemos (No Volver a la Ciudad)",
+        "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Podemos (No Volver a la Ciudad)",
+      "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
         "name": "Empoderada",
         "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 275064,
       "name": "Quiz\u00e1s Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
-        "name": "Podemos (No Volver a la Ciudad)",
-        "url": "https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Podemos (No Volver a la Ciudad)",
-      "url": "https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Te Deseo Mala Suerte",
-        "url": "https://open.spotify.com/album/06W9BdP1Ak2N2PljqJwppJ"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 211011,
-      "name": "Te Deseo Mala Suerte",
-      "url": "https://open.spotify.com/track/2f2BWdmWveUL1xenbDWnBS"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 213711,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
+        "name": "Te Deseo Mala Suerte",
+        "url": "https://open.spotify.com/album/06W9BdP1Ak2N2PljqJwppJ"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 211011,
+      "name": "Te Deseo Mala Suerte",
+      "url": "https://open.spotify.com/track/2f2BWdmWveUL1xenbDWnBS"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "M\u00e1s Que Un Rolex",
-        "url": "https://open.spotify.com/album/15Zw9lOyNpsVMAuujnLKRh"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 209610,
-      "name": "M\u00e1s Que Un Rolex",
-      "url": "https://open.spotify.com/track/6MMncjTGNQewjmTPEHATtO"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
         "name": "El Jessy (En Vivo)",
         "url": "https://open.spotify.com/album/3Ngx7p0l05OfeGYru824iz"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 179256,
       "name": "El Jessy (En Vivo)",
       "url": "https://open.spotify.com/track/5HMqqH3biqgksrHFmOTuci"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
+        "name": "M\u00e1s Que Un Rolex",
+        "url": "https://open.spotify.com/album/15Zw9lOyNpsVMAuujnLKRh"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 209610,
+      "name": "M\u00e1s Que Un Rolex",
+      "url": "https://open.spotify.com/track/6MMncjTGNQewjmTPEHATtO"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -2599,18 +2599,18 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/7vsZ1eLcc5cuB5RYHbtvAj"
+        "name": "As\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
       },
       "artists": [
         {
-          "name": "Beatriz Gonzalez",
-          "url": "https://open.spotify.com/artist/63xIVHz3HtaoAYSUhk9cWZ"
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/3uwZWvCoFKldnlCiTBn5vi"
+      "duration_ms": 191028,
+      "name": "As\u00ed Nom\u00e1s",
+      "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -2631,54 +2631,18 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "As\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy"
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/7vsZ1eLcc5cuB5RYHbtvAj"
       },
       "artists": [
         {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+          "name": "Beatriz Gonzalez",
+          "url": "https://open.spotify.com/artist/63xIVHz3HtaoAYSUhk9cWZ"
         }
       ],
-      "duration_ms": 191028,
-      "name": "As\u00ed Nom\u00e1s",
-      "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
-        "name": "Le Gusta",
-        "url": "https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf"
-      },
-      "artists": [
-        {
-          "name": "Michelle BI",
-          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
-        }
-      ],
-      "duration_ms": 155374,
-      "name": "Le Gusta",
-      "url": "https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
-        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
+      "duration_ms": 203093,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/3uwZWvCoFKldnlCiTBn5vi"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -2699,6 +2663,22 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
+        "name": "Le Gusta",
+        "url": "https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf"
+      },
+      "artists": [
+        {
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+        }
+      ],
+      "duration_ms": 155374,
+      "name": "Le Gusta",
+      "url": "https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
         "name": "Besarte As\u00ed",
         "url": "https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw"
       },
@@ -2711,6 +2691,26 @@
       "duration_ms": 234864,
       "name": "Besarte As\u00ed",
       "url": "https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
+        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -2763,22 +2763,6 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Diosas en Texas",
-        "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
-      },
-      "artists": [
-        {
-          "name": "Las Fenix",
-          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "No Regreses",
-      "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
         "name": "No Gracias",
         "url": "https://open.spotify.com/album/4e1LQVKvL4ZXhU9buBQuXI"
       },
@@ -2791,6 +2775,22 @@
       "duration_ms": 170804,
       "name": "No Gracias",
       "url": "https://open.spotify.com/track/7wFQBSmm08y2kVkqtoWO9m"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
+        "name": "Diosas en Texas",
+        "url": "https://open.spotify.com/album/5x1bnHtL5zNcukQDnV7Kpk"
+      },
+      "artists": [
+        {
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/7FL0je0WadxJ8uPrY7UaR4"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -3095,18 +3095,18 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6BlVAhCDf00WIGzOJhYqOw"
+        "name": "La Atrevida",
+        "url": "https://open.spotify.com/album/1hBuK0wcd0dXlG9fJaLZfv"
       },
       "artists": [
         {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 233360,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/6RO01uGuxwCoJnGwrZqbRN"
+      "duration_ms": 164276,
+      "name": "La Atrevida",
+      "url": "https://open.spotify.com/track/6Z31cRAUoYyKP41rtpbA8K"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -3127,18 +3127,18 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "La Atrevida",
-        "url": "https://open.spotify.com/album/1hBuK0wcd0dXlG9fJaLZfv"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6BlVAhCDf00WIGzOJhYqOw"
       },
       "artists": [
         {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
         }
       ],
-      "duration_ms": 164276,
-      "name": "La Atrevida",
-      "url": "https://open.spotify.com/track/6Z31cRAUoYyKP41rtpbA8K"
+      "duration_ms": 233360,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/6RO01uGuxwCoJnGwrZqbRN"
     },
     {
       "added_at": "2024-12-13 21:38:48",
@@ -3207,22 +3207,6 @@
     {
       "added_at": "2024-12-13 21:38:48",
       "album": {
-        "name": "Renac\u00ed",
-        "url": "https://open.spotify.com/album/4bYc4IzQRNqxzlL32IT3Cq"
-      },
-      "artists": [
-        {
-          "name": "Michelle BI",
-          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
-        }
-      ],
-      "duration_ms": 192584,
-      "name": "Renac\u00ed",
-      "url": "https://open.spotify.com/track/1Pi4A8aS5dAHYIPg0fnX5Z"
-    },
-    {
-      "added_at": "2024-12-13 21:38:48",
-      "album": {
         "name": "Invertir Los Papeles",
         "url": "https://open.spotify.com/album/4LOOXXNx0XxlKHA6sgoZzj"
       },
@@ -3235,6 +3219,22 @@
       "duration_ms": 169000,
       "name": "Invertir Los Papeles",
       "url": "https://open.spotify.com/track/6zsDgKuv1qoTk5eOQ72zfc"
+    },
+    {
+      "added_at": "2024-12-13 21:38:48",
+      "album": {
+        "name": "Renac\u00ed",
+        "url": "https://open.spotify.com/album/4bYc4IzQRNqxzlL32IT3Cq"
+      },
+      "artists": [
+        {
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+        }
+      ],
+      "duration_ms": 192584,
+      "name": "Renac\u00ed",
+      "url": "https://open.spotify.com/track/1Pi4A8aS5dAHYIPg0fnX5Z"
     },
     {
       "added_at": "2024-12-13 21:38:48",

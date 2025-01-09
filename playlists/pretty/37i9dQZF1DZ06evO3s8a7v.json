@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 42826,
+  "num_followers": 42831,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAACZRak7DVRsU139TjmOdlCr",
+  "snapshot_id": "Z3xugAAAAAA19n52OZ7ATdKX81RBce9c",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIKINI",
-        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 182380,
-      "name": "BIKINI",
-      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legendaria",
         "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 179349,
       "name": "Legendaria",
       "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIKINI",
+        "url": "https://open.spotify.com/album/5tEiAxgDVpRsvWPNbq3l4E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 182380,
+      "name": "BIKINI",
+      "url": "https://open.spotify.com/track/5Qen3RTlj645TBqllrLXLh"
     },
     {
       "added_at": null,

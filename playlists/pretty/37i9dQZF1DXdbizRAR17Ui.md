@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,938 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,966 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 40 | [+1](https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [+1](https://open.spotify.com/album/4FvSyKog587pT37wscO9L5) | 3:23 |
 | 41 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
 | 42 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
-| 43 | [Dance With Me](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [Dance With Me](https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0) | 3:21 |
-| 44 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
+| 43 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
+| 44 | [Dance With Me](https://open.spotify.com/track/0Z9STl1kCx91DY69p5i1m3) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [Dance With Me](https://open.spotify.com/album/31J1iNzKkTy0ENGnxBx5l0) | 3:21 |
 | 45 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
 | 46 | [Calling](https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Calling / Like A Train](https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p) | 3:12 |
 | 47 | [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 |
 | 48 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
 | 49 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
-| 50 | [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 |
+| 50 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 
 Snapshot ID: `Z1t5IwAAAAD1zHOEFDkv7lQyzJ3gjn3h`

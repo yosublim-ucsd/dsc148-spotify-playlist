@@ -4,7 +4,7 @@
 
 > New music from Lil Baby.
 
-2,267 songs - 4 day 21 hr 29 min
+2,268 songs - 4 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,7 +783,7 @@
 | [Guitar In My Room \(with Lil Durk & Kid Cudi\)](https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Guitar In My Room](https://open.spotify.com/album/2BgCZFN0tmSrb2deTawr5h) | 3:47 | 2023-09-29 | 2024-02-03 |
 | [Gun](https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:56 | 2023-09-22 | 2023-10-21 |
 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-05-26 | 2023-06-24 |
-| [Gunz N Smoke \(feat\. 50 Cent & Eminem\)](https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:33 | 2024-12-13 |  |
+| [Gunz N Smoke \(feat\. 50 Cent & Eminem\)](https://open.spotify.com/track/2GiJpAxK7T6JddAmEVreKT) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:33 | 2024-12-13 | 2025-01-09 |
 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 | 2021-08-17 | 2021-10-16 |
 | [Gët Busy](https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:37 | 2021-10-02 | 2021-10-09 |
 | [H.O.E\. \(Heaven On Earth\)](https://open.spotify.com/track/5uwf43E8QHEcDONhf8EI27) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [H.O.E\. \(Heaven On Earth\)](https://open.spotify.com/album/664LHITy99rxLZaSjE6y4t) | 3:11 | 2020-01-24 | 2020-01-31 |
@@ -2070,6 +2070,7 @@
 | [Turn Yo Cap Back \(Cap Backwards\) \(feat\. Swae Lee\)](https://open.spotify.com/track/6TYtBk4v0NClXRrTKHy42N) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [The Pinkprint \(Tenth Anniversary Edition\)](https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa) | 3:01 | 2024-11-22 |  |
 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 | 2023-07-14 | 2024-01-13 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-25 |  |
+| [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 | 2025-01-08 |  |
 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 | 2021-05-22 | 2021-07-24 |
 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-18 | 2023-02-25 |
 | [Twin Flame](https://open.spotify.com/track/4jrty1wv4nGiD1XXejKnix) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 3:17 | 2020-11-06 | 2020-11-13 |

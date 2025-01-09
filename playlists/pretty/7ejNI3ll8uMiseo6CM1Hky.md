@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 2,278 likes - 163 songs - 9 hr 13 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 2,288 likes - 160 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,10 +166,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 156 | [BUBIBU](https://open.spotify.com/track/08Az8oHUOLj2TjMSYtWCd5) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [UNE ANNEE](https://open.spotify.com/album/5vR2VgZoh5ONYUABC9xdtF) | 3:39 |
 | 157 | [I Stink](https://open.spotify.com/track/2y5Pg9yWLSI5CS7RldBgau) | [AI Gems](https://open.spotify.com/artist/5NwnFlLnUf1PehOfgiFONc) | [I Stink](https://open.spotify.com/album/2zQvD7H4UcyoMTM34qFgAy) | 2:20 |
 | 158 | [I'm Something Else](https://open.spotify.com/track/3zRgdfwiFzHeDq4VYOpYpk) | [SomeThingElseyt](https://open.spotify.com/artist/1lVDBUHFHFGNogAAqnmYDN) | [I'm Something Else](https://open.spotify.com/album/3Ha6PNJ8OeBT8DSdzWTlsO) | 2:24 |
-| 159 | [FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [PLAY](https://open.spotify.com/album/69k3PIjF6T9POAX0WCRpNC) | 3:07 |
-| 160 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 |
-| 161 | [Cotton Candy](https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Cotton Candy](https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE) | 2:51 |
-| 162 | [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 |
-| 163 | [Mr\. Please](https://open.spotify.com/track/2CmbRvQvLiNoYb7MCNwnUb) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [The Human Animal](https://open.spotify.com/album/25o0yLGRjV45PhksQjxvAD) | 2:33 |
+| 159 | [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 |
+| 160 | [Mr\. Please](https://open.spotify.com/track/2CmbRvQvLiNoYb7MCNwnUb) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [The Human Animal](https://open.spotify.com/album/25o0yLGRjV45PhksQjxvAD) | 2:33 |
 
-Snapshot ID: `AAAB2nQRIqqpuCwlCA0Ii4s4saKb9B7S`
+Snapshot ID: `AAAB3XCTLTuLio2cGgIxaqeI+nVinqec`

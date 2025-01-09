@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Arab women, at full volume. Cover: Elyanna\n\n\n\n",
+  "description": "Listen to Arab women, at full volume. Cover: Haneen Hussain \n\n\n\n",
   "name": "EQUAL Arabia",
   "tracks": [
     {
@@ -1624,6 +1624,24 @@
       "duration_ms": 162794,
       "name": "Atoul",
       "url": "https://open.spotify.com/track/2nxNsJ9Lve8edydwY8oL5b"
+    },
+    {
+      "album": {
+        "name": "Awal Wahid",
+        "url": "https://open.spotify.com/album/44xlGgmWCZ8WAJihy39K0c"
+      },
+      "artists": [
+        {
+          "name": "Haneen Hussain",
+          "url": "https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177336,
+      "name": "Awal Wahid",
+      "url": "https://open.spotify.com/track/3IXtbaSAsaIETueni4EZd7"
     },
     {
       "album": {
@@ -8708,7 +8726,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 216709,
       "name": "Ta3ala Wefrah",
       "url": "https://open.spotify.com/track/6qAzmWlNTpJAzw2nwNdO2t"

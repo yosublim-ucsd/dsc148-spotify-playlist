@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,274 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,235 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 15 | [Al Mundo Paz](https://open.spotify.com/track/77E7lXHMVXgQmvpo5l4pLX) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 2:47 |
 | 16 | [Dime Navidad](https://open.spotify.com/track/3pvbBrh49UPDa4UENRVT9f) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Dime Navidad](https://open.spotify.com/album/3c11HITsZe2IyDyb4tUg8K) | 2:39 |
 | 17 | [5 pa las 12](https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [5 pa las 12](https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300) | 2:53 |
-| 18 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 |
-| 19 | [Navidad Sin Ti](https://open.spotify.com/track/54xXNECMC5RPXOGYYfYyTS) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Navidad Sin Ti](https://open.spotify.com/album/0vfbRwJqaEy1RT063cvsYq) | 2:43 |
+| 18 | [Navidad Sin Ti](https://open.spotify.com/track/54xXNECMC5RPXOGYYfYyTS) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Navidad Sin Ti](https://open.spotify.com/album/0vfbRwJqaEy1RT063cvsYq) | 2:43 |
+| 19 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 |
 | 20 | [Hallelujah](https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [El Mix\-Tape De Santa](https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a) | 3:22 |
 | 21 | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 |
 | 22 | [Doy Gracias Por Ti](https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Emily Estefan](https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya), [Sasha Estefan\-Coppola](https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN) | [Estefan Family Christmas](https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk) | 4:03 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 67 | [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 |
 | 68 | [Otra Navidad :\(](https://open.spotify.com/track/0stGjckaqF832pf74QJT0l) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:07 |
 | 69 | [WISHLIST](https://open.spotify.com/track/6BWThf1mJv1Q7OzdlxqDaV) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [WISHLIST](https://open.spotify.com/album/1ENeIp4Z0IO1EEx1Zh01n5) | 2:51 |
-| 70 | [A La Nanita Nana](https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Es Navidad](https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf) | 2:18 |
-| 71 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 |
+| 70 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 |
+| 71 | [A La Nanita Nana](https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Es Navidad](https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf) | 2:18 |
 | 72 | [Adornemos los Salones](https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Caribe Wonderland](https://open.spotify.com/artist/4CBkIh7uqfe3wKKywz1H0j) | [Adornemos los Salones](https://open.spotify.com/album/2mKwTr6J2IKyioMh2vNlfE) | 3:10 |
 | 73 | [Human Nature \- En Español](https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 4:15 |
 | 74 | [Llegué a Navidad](https://open.spotify.com/track/4e4wrhbqdj6CKxHEgWjPfw) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Llegué a Navidad](https://open.spotify.com/album/0IHUZrmVQfFWNkZUnWF4c6) | 2:41 |

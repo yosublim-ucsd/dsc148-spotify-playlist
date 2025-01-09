@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 568722,
+  "num_followers": 568932,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABbPVZxIiUR0x4hbrtBTmlg",
+  "snapshot_id": "Z3xugAAAAABLEdJEagqvSNgHSGd42Kxn",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE"
+      "duration_ms": 298880,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 298880,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+      "duration_ms": 206546,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE"
     },
     {
       "added_at": null,

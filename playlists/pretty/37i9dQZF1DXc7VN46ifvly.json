@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec. (Push yourself to your limits with powerful Korean music.)",
-  "num_followers": 9948,
+  "num_followers": 9968,
   "original_name": "3\ub300 1000 (K-Hardcore Workout)",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-12 05:41:07",
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 229186,
-      "name": "Crocodile Tearz",
-      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
-    },
-    {
-      "added_at": "2024-08-12 05:41:07",
-      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 165800,
       "name": "Kernkraft 400 (A Better Day)",
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
+    },
+    {
+      "added_at": "2024-08-12 05:41:07",
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
       "added_at": "2024-08-12 05:41:07",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-08-12 05:41:07",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
-    },
-    {
-      "added_at": "2024-08-12 05:41:07",
-      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 165066,
       "name": "Bubbly (with Drake & Travis Scott)",
       "url": "https://open.spotify.com/track/4KDNRh9Oor80z3XIxdWlui"
+    },
+    {
+      "added_at": "2024-08-12 05:41:07",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2024-08-12 05:41:07",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2024-08-12 05:41:07",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+      "duration_ms": 163453,
+      "name": "Not Finished",
+      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
     },
     {
       "added_at": "2024-08-12 05:41:07",
@@ -1483,8 +1483,8 @@
     {
       "added_at": "2024-08-12 05:41:07",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
       },
       "artists": [
         {
@@ -1492,9 +1492,9 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 163453,
-      "name": "Not Finished",
-      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2024-08-12 05:41:07",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2024-08-12 05:41:07",
       "album": {
+        "name": "Street Woman Fighter2 (SWF2) Class Mission",
+        "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Smoke (Prod. Dynamicduo, Padi)",
+      "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
+    },
+    {
+      "added_at": "2024-08-12 05:41:07",
+      "album": {
         "name": "FTCU (SLEEZEMIX)",
         "url": "https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 239667,
       "name": "FTCU (feat. Travis Scott, Chris Brown & Sexyy Red) - SLEEZEMIX",
       "url": "https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN"
-    },
-    {
-      "added_at": "2024-08-12 05:41:07",
-      "album": {
-        "name": "Street Woman Fighter2 (SWF2) Class Mission",
-        "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Smoke (Prod. Dynamicduo, Padi)",
-      "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
     },
     {
       "added_at": "2024-08-12 05:41:07",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-08-12 05:41:07",
       "album": {
-        "name": "SHALALA - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
-      },
-      "artists": [
-        {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "SHALALA",
-      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
-    },
-    {
-      "added_at": "2024-08-12 05:41:07",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2024-08-12 05:41:07",
       "album": {
+        "name": "SHALALA - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "SHALALA",
+      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
+    },
+    {
+      "added_at": "2024-08-12 05:41:07",
+      "album": {
         "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
         "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
       },
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-08-12 05:41:07",
       "album": {
-        "name": "XXL EP",
-        "url": "https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl"
-      },
-      "artists": [
-        {
-          "name": "YOUNG POSSE",
-          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
-        }
-      ],
-      "duration_ms": 152865,
-      "name": "XXL",
-      "url": "https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV"
-    },
-    {
-      "added_at": "2024-08-12 05:41:07",
-      "album": {
         "name": "THE REV3NGE",
         "url": "https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 147213,
       "name": "THE REV3NGE",
       "url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1"
+    },
+    {
+      "added_at": "2024-08-12 05:41:07",
+      "album": {
+        "name": "XXL EP",
+        "url": "https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "duration_ms": 152865,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV"
     },
     {
       "added_at": "2024-08-12 05:41:07",

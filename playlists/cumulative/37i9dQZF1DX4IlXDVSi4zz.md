@@ -4,7 +4,7 @@
 
 > Dance the night away and just blame it on Tulum!
 
-241 songs - 15 hr 33 min
+242 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 | 2022-08-02 | 2022-08-17 |
 | [Amore](https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Amore](https://open.spotify.com/album/1RJyJUZKnRR5NUgMC8d6k6) | 6:23 | 2023-03-17 | 2023-07-22 |
 | [Andalucia](https://open.spotify.com/track/1FUUe1VbjWakX9nFfd0Qki) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt) | [Andalucia](https://open.spotify.com/album/3vgLVhmZFjiDpX52BxHFOl) | 3:49 | 2024-09-20 | 2024-12-14 |
+| [Angel In The Dark](https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Angel In The Dark](https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm) | 3:19 | 2025-01-08 |  |
 | [Atlante](https://open.spotify.com/track/0hKutS8fEyReGiXhkxhuNY) | [Celestial Inside](https://open.spotify.com/artist/0BTXnRCQgfV0mlIPftKTSQ), [Aris](https://open.spotify.com/artist/4K7NHFVYtbiSfPN6KOMuXN) | [Between Seas And Galaxies](https://open.spotify.com/album/6yhK1Vc3duTgu23uxPWP09) | 6:27 | 2023-01-04 | 2023-02-10 |
 | [Ay Que Sera Del Sol \- Original](https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Summer Sol](https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn) | 6:30 | 2022-10-12 | 2023-12-07 |
 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2022-10-12 | 2024-04-19 |
@@ -215,7 +216,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 | 2022-03-29 | 2024-08-10 |
 | [Sweet Potato](https://open.spotify.com/track/6E09140FnSWgjdUJJosGfx) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Sweet Potato](https://open.spotify.com/album/3jMgo1MoBGBoAHfy3cgEeV) | 2:46 | 2022-06-27 | 2022-07-27 |
 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 | 2024-04-19 | 2024-11-10 |
-| [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2023-12-07 |  |
+| [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2023-12-07 | 2025-01-09 |
 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-08-09 |  |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2022-03-29 | 2024-11-30 |
 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-03-29 | 2024-07-27 |

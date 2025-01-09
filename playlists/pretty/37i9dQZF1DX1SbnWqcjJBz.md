@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,625 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,659 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 17 | [Alejandro](https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:34 |
 | 18 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
 | 19 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 |
-| 20 | [Good Girls Go Bad \(feat\. Leighton Meester\)](https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY), [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 3:16 |
-| 21 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 |
+| 20 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 |
+| 21 | [Good Girls Go Bad \(feat\. Leighton Meester\)](https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY), [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 3:16 |
 | 22 | [I Wanna Go](https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:30 |
 | 23 | [U + Ur Hand](https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:34 |
 | 24 | [Moi..\. Lolita](https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8) | [Alizée](https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4) | [Gourmandises](https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy) | 4:24 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 57 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 |
 | 58 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 59 | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Cherry \(feat\. Hayley Kiyoko\)](https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf) | 2:32 |
-| 60 | [Battlefield](https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Battlefield](https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt) | 4:01 |
-| 61 | [Dirty Talk](https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:17 |
+| 60 | [Dirty Talk](https://open.spotify.com/track/0MX8RxbgtZWRGZRE0Z6zNS) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:17 |
+| 61 | [Battlefield](https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Battlefield](https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt) | 4:01 |
 | 62 | [Holler](https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:15 |
 | 63 | [Move in the Right Direction](https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [A Joyful Noise](https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd) | 3:31 |
 | 64 | [Lowlife](https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bubblebath](https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s) | 3:25 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 95 | [A Public Affair](https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:21 |
 | 96 | [Let Go for Tonight](https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Glorious \(Deluxe\)](https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru) | 3:58 |
 | 97 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |
-| 98 | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz) | 3:35 |
-| 99 | [Physical](https://open.spotify.com/track/44fXOB2eBG8uaQJGwh26Bk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6) | 3:13 |
-| 100 | [Work \- Freemasons Radio Edit](https://open.spotify.com/track/1foEfzZaWdicH22pCxx52P) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Playlist: The Very Best Of Kelly Rowland](https://open.spotify.com/album/25h3hmV7iot9lZlhjsmmHz) | 3:11 |
+| 98 | [Somebody To Love](https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe) | [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Somebody To Love](https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9) | 3:32 |
+| 99 | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz) | 3:35 |
+| 100 | [Physical](https://open.spotify.com/track/44fXOB2eBG8uaQJGwh26Bk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6) | 3:13 |
 
 Snapshot ID: `Zm8IZAAAAAAH0weyNVvd9ngcsHUuaJiF`

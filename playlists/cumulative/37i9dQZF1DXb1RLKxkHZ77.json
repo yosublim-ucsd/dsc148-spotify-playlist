@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Angkat",
+        "url": "https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y"
+      },
+      "artists": [
+        {
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/2T8TMZQUb7ZnI7Hd8nNmlR"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119750,
+      "name": "Angkat",
+      "url": "https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC"
+    },
+    {
+      "album": {
         "name": "Cinta & Doa",
         "url": "https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro"
       },
@@ -4075,6 +4093,24 @@
     },
     {
       "album": {
+        "name": "Hijab Rindu",
+        "url": "https://open.spotify.com/album/5Id1pVSdoY2giuqJuhVyXj"
+      },
+      "artists": [
+        {
+          "name": "Black Hanifah",
+          "url": "https://open.spotify.com/artist/0PDGnVNduk5dCW4m47ls3d"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257409,
+      "name": "Hijab Rindu",
+      "url": "https://open.spotify.com/track/1rb3QqlRtKqLOecqhnfyj8"
+    },
+    {
+      "album": {
         "name": "HILANG",
         "url": "https://open.spotify.com/album/3L6fgQBNCRTWP41evyX0Xl"
       },
@@ -4162,7 +4198,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 269548,
       "name": "Hilangmu Tak Terganti",
       "url": "https://open.spotify.com/track/2ROLZ2y3dKMvQzZJ47ByMQ"
@@ -5528,6 +5564,24 @@
       "duration_ms": 214268,
       "name": "Kenapa Kembali",
       "url": "https://open.spotify.com/track/47mBOcgbPcABWlskgMbvhn"
+    },
+    {
+      "album": {
+        "name": "Kerana Ego",
+        "url": "https://open.spotify.com/album/64jsj2gcltLb3ubjEd151U"
+      },
+      "artists": [
+        {
+          "name": "Khai Bahar",
+          "url": "https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251971,
+      "name": "Kerana Ego",
+      "url": "https://open.spotify.com/track/6IaQwtREHqCzGueZ5nmyCG"
     },
     {
       "album": {
@@ -7336,7 +7390,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 239073,
       "name": "Musnah",
       "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
@@ -10382,7 +10436,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 202721,
       "name": "Tak Ada Ujungnya",
       "url": "https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C"

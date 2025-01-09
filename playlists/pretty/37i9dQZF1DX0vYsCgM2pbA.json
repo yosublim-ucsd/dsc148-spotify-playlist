@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 140959,
+  "num_followers": 140981,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,18 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Ripples In The Timeline",
-        "url": "https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB"
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Real Lies",
-          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
         }
       ],
-      "duration_ms": 216868,
-      "name": "Ripples In The Timeline",
-      "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -643,18 +639,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+        "name": "Ripples In The Timeline",
+        "url": "https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB"
       },
       "artists": [
         {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Real Lies",
+          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
         }
       ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+      "duration_ms": 216868,
+      "name": "Ripples In The Timeline",
+      "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "Sunny Day",
-        "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
-      },
-      "artists": [
-        {
-          "name": "Niicap",
-          "url": "https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW"
-        },
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 128100,
-      "name": "Sunny Day",
-      "url": "https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
         "name": "Alone Again (feat. PEPTALK)",
         "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 195522,
       "name": "Alone Again (feat. PEPTALK)",
       "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
+        "name": "Sunny Day",
+        "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
+      },
+      "artists": [
+        {
+          "name": "Niicap",
+          "url": "https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW"
+        },
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 128100,
+      "name": "Sunny Day",
+      "url": "https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT"
     }
   ],
   "unique_name": "Sunday Sessions",

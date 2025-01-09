@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 554380,
+  "num_followers": 554566,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 185733,
       "name": "Here Comes The Sun - Remastered 2009",
       "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Over My Head (Cable Car)",
         "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
       },
@@ -883,22 +867,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "The Temple EP",
-        "url": "https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9"
-      },
-      "artists": [
-        {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/2qLCoKtnmGCzV8fqG6HeR6"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -911,6 +879,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "The Temple EP",
+        "url": "https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/2qLCoKtnmGCzV8fqG6HeR6"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -939,6 +923,22 @@
       "duration_ms": 253360,
       "name": "Electricity - Acoustic",
       "url": "https://open.spotify.com/track/79QsAQKkk3hlOC6yV1uKdg"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Forgive Me Friend (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Forgive Me Friend - Acoustic Version",
-      "url": "https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "SUGAR EP.",
         "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 369105,
       "name": "Dove",
       "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Forgive Me Friend (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Forgive Me Friend - Acoustic Version",
+      "url": "https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Nothing Matters (Acoustic)",
-        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Nothing Matters - Acoustic",
-      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/0rGSRypl3i16bk9X5f2nDQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 190960,
       "name": "Under The Sun - Acoustic",
       "url": "https://open.spotify.com/track/1YPx23eaxwbbQc8Ne6zSQq"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Nothing Matters (Acoustic)",
+        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Nothing Matters - Acoustic",
+      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Hands All Over (Deluxe)",
-        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "Misery - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Look Away (Acoustic)",
         "url": "https://open.spotify.com/album/2DcbeYyXKzu4C5kgKn0IRb"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 184900,
       "name": "Look Away - Acoustic",
       "url": "https://open.spotify.com/track/5haEwf9UsvjWq0aovDAofJ"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "Hands All Over (Deluxe)",
+        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "Misery - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Front Porch",
+      "url": "https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "The Covers, Vol. 4",
         "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
       },
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5"
+        "name": "Solo Dance (From Morning Till Midnight)",
+        "url": "https://open.spotify.com/album/4V1rw5qBzsBQriGLwql8vU"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
         }
       ],
-      "duration_ms": 231813,
-      "name": "Front Porch",
-      "url": "https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU"
+      "duration_ms": 192574,
+      "name": "Solo Dance - Acoustic Mix",
+      "url": "https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Solo Dance (From Morning Till Midnight)",
-        "url": "https://open.spotify.com/album/4V1rw5qBzsBQriGLwql8vU"
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2"
       },
       "artists": [
         {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 192574,
-      "name": "Solo Dance - Acoustic Mix",
-      "url": "https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw"
+      "duration_ms": 266906,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "Spotify Session",
         "url": "https://open.spotify.com/album/5feWfhvdBhDbolLTe4myfu"
       },
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "T-Shirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "T-Shirts - Acoustic",
-      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
         "name": "1.22.03 Acoustic",
         "url": "https://open.spotify.com/album/3toVRkWzjEYU9U51GDqllW"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 255293,
       "name": "This Love - Acoustic",
       "url": "https://open.spotify.com/track/3uYzfyifC7J1j1IEjN1xz6"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
+        "name": "T-Shirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "T-Shirts - Acoustic",
+      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
     },
     {
       "added_at": "2024-07-01 15:02:12",

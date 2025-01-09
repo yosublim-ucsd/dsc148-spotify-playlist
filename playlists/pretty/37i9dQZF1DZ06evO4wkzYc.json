@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 146093,
+  "num_followers": 146201,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAGhOfW4Qu2ZCHqeDqWhn0i",
+  "snapshot_id": "Z3xugAAAAABP/kD25IQzhIIi7+KOG+p1",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pocho 43",
+        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227860,
+      "name": "El Pocho 43",
+      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3lo T\u00fa (En Vivo)",
         "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
       },
@@ -251,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pocho 43",
-        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
       },
       "artists": [
         {
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 227860,
-      "name": "El Pocho 43",
-      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
+      "duration_ms": 338511,
+      "name": "Promesa Cumplida",
+      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Posada Especial",
-        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 338511,
-      "name": "Promesa Cumplida",
-      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Joven Bragado",
+      "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
       "duration_ms": 245098,
       "name": "El Chavo - En Vivo",
       "url": "https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Posada Especial",
-        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Joven Bragado",
-      "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 265899,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Posada Especial",
         "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 226283,
       "name": "Jose Rocha Avenda\u00f1o",
       "url": "https://open.spotify.com/track/4D29C1f6S2g6BjL2Ra13PH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 265899,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG"
     },
     {
       "added_at": null,

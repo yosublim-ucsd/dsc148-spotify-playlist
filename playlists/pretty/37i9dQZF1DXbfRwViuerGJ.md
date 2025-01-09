@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 
 > Our picks for the best kids songs of 2024\. Cover: John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,669 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,682 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [My Favorite Dream](https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW) | 2:32 |
+| 1 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg) | [My Favorite Dream](https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW) | 2:32 |
 | 2 | [Family](https://open.spotify.com/track/0Eb6GBmMRrBmn3FBBECfTq) | [Ronnie Boy Kids](https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Ronnie Boy Land](https://open.spotify.com/album/14EJX9YJFz1nsGnGrEko48) | 3:15 |
 | 3 | [Harmony](https://open.spotify.com/track/3KIQbhimKhUdiychQWegda) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [Harmony](https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9) | 3:28 |
 | 4 | [Why Do We Sing?](https://open.spotify.com/track/5rLyfu4AnRcGoL4N6BM4hx) | [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Casey Breves](https://open.spotify.com/artist/5Mbw0q0VWmUbNrqqmQrSN0) | [Why Do We Sing? \(The Official Soundtrack\)](https://open.spotify.com/album/3W2eSspksMacyMqKOc1lTS) | 3:15 |

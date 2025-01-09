@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 37489,
+  "num_followers": 37501,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -403,34 +403,6 @@
     {
       "added_at": "2024-10-25 09:23:29",
       "album": {
-        "name": "Rossini: Guillaume Tell",
-        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra/Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/0uHWdrpNqWIXfD4XYhgZPH"
-        },
-        {
-          "name": "Lamberto Gardelli",
-          "url": "https://open.spotify.com/artist/7mKucHEx6w0l0ZVmZTIE5q"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 91506,
-      "name": "Rossini: Guillaume Tell, Act 3 Scene 2: Danse (Pas de trois. Allegro)",
-      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
-    },
-    {
-      "added_at": "2024-10-25 09:23:29",
-      "album": {
         "name": "Mendelssohn, Rossini and Bruch: Works for Clarinet and Orchestra",
         "url": "https://open.spotify.com/album/60FU2wGKY059HcMOQa4ugc"
       },
@@ -455,6 +427,34 @@
       "duration_ms": 499626,
       "name": "Variazzioni di clarinetto in C Major",
       "url": "https://open.spotify.com/track/1UERWmNIaSWiGKfElxFqgj"
+    },
+    {
+      "added_at": "2024-10-25 09:23:29",
+      "album": {
+        "name": "Rossini: Guillaume Tell",
+        "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra/Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/0uHWdrpNqWIXfD4XYhgZPH"
+        },
+        {
+          "name": "Lamberto Gardelli",
+          "url": "https://open.spotify.com/artist/7mKucHEx6w0l0ZVmZTIE5q"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 91506,
+      "name": "Rossini: Guillaume Tell, Act 3 Scene 2: Danse (Pas de trois. Allegro)",
+      "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
     },
     {
       "added_at": "2024-10-25 09:23:29",
@@ -775,62 +775,6 @@
     {
       "added_at": "2024-10-25 09:23:29",
       "album": {
-        "name": "Rossini: String Sonatas, etc.",
-        "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 429160,
-      "name": "Serenata in E flat",
-      "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
-    },
-    {
-      "added_at": "2024-10-25 09:23:29",
-      "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        },
-        {
-          "name": "Rosa Feola",
-          "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
-        },
-        {
-          "name": "Gerhild Romberger",
-          "url": "https://open.spotify.com/artist/0mb9VsFi4Q02ZyCeI5VJfr"
-        },
-        {
-          "name": "Munich Radio Orchestra",
-          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
-        }
-      ],
-      "duration_ms": 356653,
-      "name": "Stabat Mater: III. Quis est homo (Duet)",
-      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
-    },
-    {
-      "added_at": "2024-10-25 09:23:29",
-      "album": {
         "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
         "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
       },
@@ -879,6 +823,62 @@
       "duration_ms": 137200,
       "name": "Il barbiere di Siviglia, Act II: No. 19, Finale. Di s\u00ec felice innesto",
       "url": "https://open.spotify.com/track/75uhrNhZp5HrnCdB1foDUW"
+    },
+    {
+      "added_at": "2024-10-25 09:23:29",
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        },
+        {
+          "name": "Rosa Feola",
+          "url": "https://open.spotify.com/artist/45TDHhSjYdkp1bSHmBL4SE"
+        },
+        {
+          "name": "Gerhild Romberger",
+          "url": "https://open.spotify.com/artist/0mb9VsFi4Q02ZyCeI5VJfr"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        }
+      ],
+      "duration_ms": 356653,
+      "name": "Stabat Mater: III. Quis est homo (Duet)",
+      "url": "https://open.spotify.com/track/7oQ2RKPy1v3kkOz8CM6Auf"
+    },
+    {
+      "added_at": "2024-10-25 09:23:29",
+      "album": {
+        "name": "Rossini: String Sonatas, etc.",
+        "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 429160,
+      "name": "Serenata in E flat",
+      "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
     },
     {
       "added_at": "2024-10-25 09:23:29",
@@ -967,38 +967,6 @@
     {
       "added_at": "2024-10-25 09:23:29",
       "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        },
-        {
-          "name": "Mika Kares",
-          "url": "https://open.spotify.com/artist/03SOIWOi1dP0ZCtzyi8T6h"
-        },
-        {
-          "name": "Bavarian Radio Chorus",
-          "url": "https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m"
-        },
-        {
-          "name": "Munich Radio Orchestra",
-          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
-      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
-    },
-    {
-      "added_at": "2024-10-25 09:23:29",
-      "album": {
         "name": "Rossini: Stabat Mater & Petite messe solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -1035,6 +1003,38 @@
       "duration_ms": 273200,
       "name": "Rossini: Stabat Mater: IX. Quando corpus morietur",
       "url": "https://open.spotify.com/track/1OtTF78hnHqx0NDhPvtL5p"
+    },
+    {
+      "added_at": "2024-10-25 09:23:29",
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        },
+        {
+          "name": "Mika Kares",
+          "url": "https://open.spotify.com/artist/03SOIWOi1dP0ZCtzyi8T6h"
+        },
+        {
+          "name": "Bavarian Radio Chorus",
+          "url": "https://open.spotify.com/artist/536pGG9V0mbcKOSgw37g4m"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Stabat Mater: V. Eia, mater (Recitativo and Chorus)",
+      "url": "https://open.spotify.com/track/4Vi8wbc8tu3HDfbjmZqNFk"
     },
     {
       "added_at": "2024-10-25 09:23:29",

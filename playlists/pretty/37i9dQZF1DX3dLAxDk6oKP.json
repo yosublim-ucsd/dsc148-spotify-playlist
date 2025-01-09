@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 412926,
+  "num_followers": 413174,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-12-26 19:18:12",
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
-    },
-    {
-      "added_at": "2024-12-26 19:18:12",
-      "album": {
         "name": "Skin de Bandida",
         "url": "https://open.spotify.com/album/0NiGTgtWqXzGSRsfcBoFnw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 176134,
       "name": "Skin de Bandida",
       "url": "https://open.spotify.com/track/5SHXikmjPwChjvpVIeYkMf"
+    },
+    {
+      "added_at": "2024-12-26 19:18:12",
+      "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": "2024-12-26 19:18:12",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-12-26 19:18:12",
       "album": {
-        "name": "La Suma",
-        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
-      },
-      "artists": [
-        {
-          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
-        },
-        {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
-        }
-      ],
-      "duration_ms": 198976,
-      "name": "La Suma",
-      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
-    },
-    {
-      "added_at": "2024-12-26 19:18:12",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 235061,
       "name": "Pixelados",
       "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+    },
+    {
+      "added_at": "2024-12-26 19:18:12",
+      "album": {
+        "name": "La Suma",
+        "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 198976,
+      "name": "La Suma",
+      "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
     },
     {
       "added_at": "2024-12-26 19:18:12",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-12-26 19:18:12",
       "album": {
-        "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/3g4yazlUAzhkxuCVe1x5hB"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "Que Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/7ix8mj4GsqJBjx7ndn8hBC"
-    },
-    {
-      "added_at": "2024-12-26 19:18:12",
-      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 175271,
       "name": "Se Volvieron Locos",
       "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
+    },
+    {
+      "added_at": "2024-12-26 19:18:12",
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/3g4yazlUAzhkxuCVe1x5hB"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "Que Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/7ix8mj4GsqJBjx7ndn8hBC"
     },
     {
       "added_at": "2024-12-26 19:18:12",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-12-26 19:18:12",
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "7x7",
-      "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
-    },
-    {
-      "added_at": "2024-12-26 19:18:12",
-      "album": {
         "name": "El Guty",
         "url": "https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2024-12-26 19:18:12",
       "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "7x7",
+      "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
+    },
+    {
+      "added_at": "2024-12-26 19:18:12",
+      "album": {
         "name": "Jalense la Gre\u00f1a",
         "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 195775,
       "name": "El Erick",
       "url": "https://open.spotify.com/track/5KuE0I4dhhBEMapolRc6Ef"
+    },
+    {
+      "added_at": "2024-12-26 19:18:12",
+      "album": {
+        "name": "Porte de Scarface",
+        "url": "https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Porte de Scarface",
+      "url": "https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin"
     },
     {
       "added_at": "2024-12-26 19:18:12",
@@ -1339,22 +1355,6 @@
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
-    },
-    {
-      "added_at": "2024-12-26 19:18:12",
-      "album": {
-        "name": "Porte de Scarface",
-        "url": "https://open.spotify.com/album/6l4XTVc1ZD9DidTb7GsUtX"
-      },
-      "artists": [
-        {
-          "name": "Chuy Montana",
-          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Porte de Scarface",
-      "url": "https://open.spotify.com/track/4racXk6nohLnSR3KtBtUin"
     },
     {
       "added_at": "2024-12-26 19:18:12",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-12-26 19:18:12",
       "album": {
+        "name": "Hoy Todo Cambio",
+        "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 203885,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
+    },
+    {
+      "added_at": "2024-12-26 19:18:12",
+      "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael",
         "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 186624,
       "name": "Tambi\u00e9n Me Llamo Ismael",
       "url": "https://open.spotify.com/track/7Jm3djY1b8YnK4foD6J2oD"
-    },
-    {
-      "added_at": "2024-12-26 19:18:12",
-      "album": {
-        "name": "Hoy Todo Cambio",
-        "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203885,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
     },
     {
       "added_at": "2024-12-26 19:18:12",

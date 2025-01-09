@@ -1,6 +1,6 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10649,
+  "num_followers": 10659,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 241626,
       "name": "Hasta la Piel",
       "url": "https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Me Pregunto",
-      "url": "https://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Lejos De La Ciudad",
         "url": "https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 188680,
       "name": "Lejos De La Ciudad",
       "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Me Pregunto",
+      "url": "https://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby"
     },
     {
       "added_at": "2024-06-07 12:38:26",

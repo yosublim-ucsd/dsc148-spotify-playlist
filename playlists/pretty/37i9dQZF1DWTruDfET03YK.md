@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,640 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,684 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 27 | [El Tío McDonald Tenía una Granja](https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 3:10 |
 | 28 | [Patitos Cuacuacua](https://open.spotify.com/track/35FQXso1fGAtmpJA0skQZt) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:49 |
 | 29 | [El baile del sapito \- Remasterizado 2016](https://open.spotify.com/track/6N8lbqrViGQ5v4Xe1MZe1C) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 3:04 |
-| 30 | [El Caballo Comisario](https://open.spotify.com/track/2WblKc2kdC9h3IaRpoyNqr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Canta Baila Juega](https://open.spotify.com/album/2pE7DwjBDzEiugaQ7iIKDv) | 1:51 |
-| 31 | [Piquito pajarito](https://open.spotify.com/track/14eG0RZsk1rp7dCOYkLbWK) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 0:49 |
+| 30 | [Piquito pajarito](https://open.spotify.com/track/14eG0RZsk1rp7dCOYkLbWK) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [La fiesta de cumpleaños](https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a) | 0:49 |
+| 31 | [El Caballo Comisario](https://open.spotify.com/track/2WblKc2kdC9h3IaRpoyNqr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Canta Baila Juega](https://open.spotify.com/album/2pE7DwjBDzEiugaQ7iIKDv) | 1:51 |
 | 32 | [Papá Elefante \- Remasterizado](https://open.spotify.com/track/6sYVMo726IFEkeMyv1Xh6Q) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:03 |
 | 33 | [Animal Song](https://open.spotify.com/track/1MbACfYbcxgxJXDcNZqaE7) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 6:19 |
 | 34 | [La Lechuza](https://open.spotify.com/track/1jx3RF8TADXBcnHLhI45SM) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF) | 1:08 |

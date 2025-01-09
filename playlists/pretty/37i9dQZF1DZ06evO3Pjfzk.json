@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 80763,
+  "num_followers": 80840,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAC3961h8vo8ZXY5P+rQ9ryu",
+  "snapshot_id": "Z3xugAAAAABvrbkHekyf0NRcaR7p17t2",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 192459,
-      "name": "Nosedive (Feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
+      "duration_ms": 277659,
+      "name": "wait in the truck",
+      "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
     },
     {
       "added_at": null,
@@ -167,22 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 277659,
-      "name": "wait in the truck",
-      "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
+      "duration_ms": 192459,
+      "name": "Nosedive (Feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 228323,
-      "name": "Play Something Country (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 237773,
       "name": "Good Horses - feat. Miranda Lambert",
       "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 228323,
+      "name": "Play Something Country (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/1Lvj1RFU2bF24KIi0c3Kku"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Middle Of It",
+      "url": "https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -379,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+        "name": "Lainey Wilson - EP",
+        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
       "artists": [
         {
@@ -388,29 +404,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Middle Of It",
-      "url": "https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GO HOME W U (WITH LAINEY WILSON)",
-        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "GO HOME W U (WITH LAINEY WILSON)",
-      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
+      "duration_ms": 175675,
+      "name": "Waste of Good Whiskey",
+      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
     },
     {
       "added_at": null,
@@ -431,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lainey Wilson - EP",
-        "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 175675,
-      "name": "Waste of Good Whiskey",
-      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 227266,
       "name": "Call A Cowboy",
       "url": "https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GO HOME W U (WITH LAINEY WILSON)",
+        "url": "https://open.spotify.com/album/6HrLeF1HRgLPdWshT9BM5P"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "GO HOME W U (WITH LAINEY WILSON)",
+      "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country's Cool Again",
-        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 218280,
-      "name": "Country's Cool Again",
-      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind",
         "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 168386,
       "name": "Broken Hearts Still Beat",
       "url": "https://open.spotify.com/track/6nM3c64Gvk5LlOmcRhNbdh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country's Cool Again",
+        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 218280,
+      "name": "Country's Cool Again",
+      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
     },
     {
       "added_at": null,

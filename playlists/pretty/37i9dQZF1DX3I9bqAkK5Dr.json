@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra",
-  "num_followers": 39910,
+  "num_followers": 39915,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3zwJQAAAABgrZFiDIpQ8cHZVnAlA5M9",
+  "snapshot_id": "Z34oOAAAAACTqeTqDD4ZwHo7Pyo9n+g9",
   "tracks": [
     {
       "added_at": "2024-10-03 06:15:54",
@@ -43,6 +43,30 @@
       "duration_ms": 223500,
       "name": "Hi Laila",
       "url": "https://open.spotify.com/track/4GLuMIgV7UosM4zePMtlQu"
+    },
+    {
+      "added_at": "2025-01-08 07:24:40",
+      "album": {
+        "name": "BREAKUP ANTHEM (Telugu)",
+        "url": "https://open.spotify.com/album/48Cc9ZangOt3U0mCducIMS"
+      },
+      "artists": [
+        {
+          "name": "Anivee",
+          "url": "https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy"
+        },
+        {
+          "name": "Kadali",
+          "url": "https://open.spotify.com/artist/5xmlr03MWTYQSflITsHmpk"
+        },
+        {
+          "name": "Dongli Jumbo",
+          "url": "https://open.spotify.com/artist/474cZcWdUhqXJzZUgCFgL9"
+        }
+      ],
+      "duration_ms": 163031,
+      "name": "BREAKUP ANTHEM (Telugu)",
+      "url": "https://open.spotify.com/track/5CxU3JekhthyBQ31EhO5b3"
     },
     {
       "added_at": "2025-01-07 09:13:09",

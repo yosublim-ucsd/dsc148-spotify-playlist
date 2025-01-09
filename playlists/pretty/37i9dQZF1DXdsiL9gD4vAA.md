@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,797 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,858 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 24 | [Aaghaz\-E\-Ishq](https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo) | [Satyajeet Jena](https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7), [Mrityunjay Pandey](https://open.spotify.com/artist/3oWgKfqTjiy5zDRX5dL5ps) | [Aaghaz\-E\-Ishq](https://open.spotify.com/album/4uq2U5N93OI2poB5vN4urI) | 4:21 |
 | 25 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 |
 | 26 | [Bohot Bechain](https://open.spotify.com/track/3GtNTPRVYv86zXqrnLctlo) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Bohot Bechain](https://open.spotify.com/album/43GiOUSgHdwyo9PD6Bh6ZI) | 3:51 |
-| 27 | [Mehsoos \- From "Jashn \-E\- Ghazal"](https://open.spotify.com/track/4SjQXhdYTX6jca8YVzWn7O) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Mehsoos \(From "Jashn \-E\- Ghazal"\)](https://open.spotify.com/album/6H2TfegbAjHwzxmGz0WFqX) | 5:06 |
-| 28 | [Rooh](https://open.spotify.com/track/7zCpzTtENhE68RFR6IqMEK) | [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Qafilah](https://open.spotify.com/artist/0Vla5cpeRPCjHktZzvsnOd) | [Rooh](https://open.spotify.com/album/7p6PpWdahXJb6XQaR8ly2e) | 5:17 |
+| 27 | [Rooh](https://open.spotify.com/track/7zCpzTtENhE68RFR6IqMEK) | [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Qafilah](https://open.spotify.com/artist/0Vla5cpeRPCjHktZzvsnOd) | [Rooh](https://open.spotify.com/album/7p6PpWdahXJb6XQaR8ly2e) | 5:17 |
+| 28 | [Mehsoos \- From "Jashn \-E\- Ghazal"](https://open.spotify.com/track/4SjQXhdYTX6jca8YVzWn7O) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Mehsoos \(From "Jashn \-E\- Ghazal"\)](https://open.spotify.com/album/6H2TfegbAjHwzxmGz0WFqX) | 5:06 |
 | 29 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 |
 | 30 | [Mohabbat Karne Wale](https://open.spotify.com/track/1hrOKfpOy15uIaP71XUfZp) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [The Definitive Collection, Vol\. 1](https://open.spotify.com/album/6rIuO7Gg2iynYy7urWgOhy) | 14:06 |
 | 31 | [Rangrasiya](https://open.spotify.com/track/4yEkt1sfM6qziBykSESn7W) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Hopun Saikia](https://open.spotify.com/artist/427lOJJUkRWgIZYpcUKKwN) | [Rangrasiya](https://open.spotify.com/album/4EM5UkaNoCKB0seUaorGgq) | 4:21 |

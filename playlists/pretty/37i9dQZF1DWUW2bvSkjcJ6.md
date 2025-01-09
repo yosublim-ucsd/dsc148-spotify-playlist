@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Die besten Neuerscheinungen der letzten beiden Wochen in einer Playlist\. Cover: Zerb, Ty Dolla $ign, Wiz Khalifa
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,541 likes - 47 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,543 likes - 47 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

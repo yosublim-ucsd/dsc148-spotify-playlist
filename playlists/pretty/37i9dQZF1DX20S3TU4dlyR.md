@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dancing Mood
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,509 likes - 89 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,515 likes - 89 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 43 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
 | 44 | [El Próximo Viernes](https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [El Próximo Viernes](https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA) | 4:19 |
 | 45 | [Te Tenía Al Lado](https://open.spotify.com/track/5eRm3Ga3wYFqKwx7Zh5akk) | [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Te Tenía Al Lado](https://open.spotify.com/album/0q7PxAckGzubpud6qjX8v1) | 3:36 |
-| 46 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |
-| 47 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
+| 46 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
+| 47 | [Soy débil Sr.](https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn) | [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj), [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Soy débil Sr.](https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7) | 3:45 |
 | 48 | [Ángel Del Pasado](https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Ángel Del Pasado](https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo) | 4:06 |
 | 49 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 |
 | 50 | [Si no Regreso](https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Si no Regreso](https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY) | 2:58 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 71 | [Todo Es Así](https://open.spotify.com/track/0KXw3dbbDFx75viq9HtMT4) | [DOMA](https://open.spotify.com/artist/4aD9Ax5YSotHSD60pph8yU) | [Todo Es Así](https://open.spotify.com/album/3BzrCi7FL52ULRUI154X6K) | 3:50 |
 | 72 | [El Pescador](https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Rey Mago de las Nubes](https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78) | 3:05 |
 | 73 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
-| 74 | [Young Veterans](https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Natty Congo Crew](https://open.spotify.com/artist/0eDwZ8EuFO0B8yMNmHHfkw) | [Young Veterans](https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K) | 4:06 |
+| 74 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
 | 75 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
-| 76 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
+| 76 | [Young Veterans](https://open.spotify.com/track/0dh5zUeRSss5dpKWzqhLAd) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Natty Congo Crew](https://open.spotify.com/artist/0eDwZ8EuFO0B8yMNmHHfkw) | [Young Veterans](https://open.spotify.com/album/6Xe8li7kMQZFZmeeeCSc9K) | 4:06 |
 | 77 | [Pensando En Ti](https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 5:25 |
 | 78 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 |
 | 79 | [Ruta](https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Dalasio](https://open.spotify.com/artist/2C1xJBfgKnVe1xMyUD6yAb) | [Ruta](https://open.spotify.com/album/6KFXfBh3diyG1luKZyVpji) | 3:45 |

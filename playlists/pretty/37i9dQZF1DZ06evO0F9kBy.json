@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26577,
+  "num_followers": 26575,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAACUVLTlSSoqrX1VWEn2tc9W",
+  "snapshot_id": "Z3xugAAAAACXCVTRgD8eMndSzbI9j2Bn",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/3fUDl6gGOYO988EtcQmwdi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 200120,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/1kQRahBqpKWMAhsoqfEETp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Go Tell It (Gloria)",
         "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 199836,
       "name": "Go Tell It (Gloria)",
       "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/3fUDl6gGOYO988EtcQmwdi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/1kQRahBqpKWMAhsoqfEETp"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leaning (feat. Lizzie Morgan)",
-        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Leaning (feat. Lizzie Morgan)",
-      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House Of Miracles (Live)",
         "url": "https://open.spotify.com/album/4rPYrJInxyCcYiUHC8P0qD"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 931610,
       "name": "Son Of Heaven",
       "url": "https://open.spotify.com/track/25UM2D9QR9PeRgDvKPSISW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leaning (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "Leaning (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Creation",
         "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 233080,
       "name": "Baptized",
       "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
     },
     {
       "added_at": null,
@@ -983,22 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "Burning Heart of God",
-      "url": "https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship EP",
         "url": "https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 221280,
       "name": "How Great (Single Mix)",
       "url": "https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Burning Heart of God",
+      "url": "https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII"
     }
   ],
   "unique_name": "This Is Matt Maher",

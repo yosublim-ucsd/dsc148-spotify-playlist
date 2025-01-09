@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 222839,
+  "num_followers": 222833,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/0vPKkAQAh4L7wpNmAemr5E"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
         "name": "18 dias / 13 cm",
         "url": "https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 188976,
       "name": "Mal\u00edcia",
       "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/0vPKkAQAh4L7wpNmAemr5E"
     },
     {
       "added_at": "2024-10-08 13:46:40",

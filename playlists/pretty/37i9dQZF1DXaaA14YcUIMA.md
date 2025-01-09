@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,240 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,637 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 57 | [Te Amo](https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [21 Black Jack](https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms) | 2:57 |
 | 58 | [Tú Me Quieres Lastimar](https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c) | [Ladron](https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1) | [Tú Me Quieres Lastimar](https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE) | 3:35 |
 | 59 | [Títere](https://open.spotify.com/track/6PrExPgJLYAX9mH5p41gOm) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Pero No Me Dejes](https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ) | 3:06 |
-| 60 | [Una Carta](https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:24 |
-| 61 | [Enamorado De Tus Ojos](https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:38 |
+| 60 | [Enamorado De Tus Ojos](https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:38 |
+| 61 | [Una Carta](https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:24 |
 | 62 | [Actos De Un Tonto](https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [35 Aniversario](https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh) | 3:47 |
 | 63 | [Un Día Sin Ti](https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Un Día Sin Ti](https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8) | 3:34 |
 | 64 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 94 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 |
 | 95 | [La Vi Llorar](https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b) | [Grupo Pegasso Del Pollo Esteban](https://open.spotify.com/artist/0niB6NrGI4xxvwDtEmVnhM) | [El Pollo No Falla](https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP) | 3:27 |
 | 96 | [Hablemos](https://open.spotify.com/track/3ArvAQ4N8f2Keehg0RPIhN) | [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm) | [Colección De Oro, Vol\. 3](https://open.spotify.com/album/0Co4H1xWEZmKYczwFsSYr4) | 3:13 |
-| 97 | [Tu Tienes Que Vivir Conmigo](https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [25 Años De Fama](https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw) | 2:55 |
-| 98 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 |
+| 97 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 |
+| 98 | [Tu Tienes Que Vivir Conmigo](https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl) | [Los Humildes](https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm) | [25 Años De Fama](https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw) | 2:55 |
 | 99 | [Pobre Gato](https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Sin Límites](https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7) | 2:27 |
 | 100 | [Mi loca pasión](https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:43 |
 | 101 | [Ves Que No Es Igual](https://open.spotify.com/track/1hrzBjDejPytQ81qzQk4kD) | [Los Rodarte](https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj) | [Solo Recuerdos](https://open.spotify.com/album/1lgoq6hR2YzfGrNoQ86ucQ) | 3:17 |

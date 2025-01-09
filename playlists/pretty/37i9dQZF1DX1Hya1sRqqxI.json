@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 510725,
+  "num_followers": 511122,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -809,6 +809,22 @@
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Machine Head (Remastered)",
@@ -839,22 +855,6 @@
       "duration_ms": 331333,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Tom Jones Sings She's A Lady",
-        "url": "https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "She's A Lady",
-      "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
@@ -1063,6 +1047,22 @@
       "duration_ms": 295466,
       "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
       "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Tom Jones Sings She's A Lady",
+        "url": "https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "She's A Lady",
+      "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Brown Sugar - Remastered 2009",
-      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "ABC",
@@ -1159,6 +1143,22 @@
       "duration_ms": 174866,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Brown Sugar - Remastered 2009",
+      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1289,20 +1289,20 @@
       "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "The Collection & Tracklisting",
-        "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
       },
       "artists": [
         {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 273866,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
+      "duration_ms": 295106,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 295106,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
+      "duration_ms": 165789,
+      "name": "Move on Up - Single Edit",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1353,20 +1353,20 @@
       "url": "https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
+        "name": "The Collection & Tracklisting",
+        "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
         }
       ],
-      "duration_ms": 165789,
-      "name": "Move on Up - Single Edit",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
+      "duration_ms": 273866,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "4 Hits: Eruption",
-        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
-      },
-      "artists": [
-        {
-          "name": "Eruption",
-          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
-        }
-      ],
-      "duration_ms": 213200,
-      "name": "One Way Ticket",
-      "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Right Back Where We Started From",
         "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 192266,
       "name": "Right Back Where We Started From",
       "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "4 Hits: Eruption",
+        "url": "https://open.spotify.com/album/26BHqKni1MTqwIcdSUFLRm"
+      },
+      "artists": [
+        {
+          "name": "Eruption",
+          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
+        }
+      ],
+      "duration_ms": 213200,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "The Singles 1974 - 76",
-        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
       "artists": [
         {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
+      "duration_ms": 346133,
+      "name": "Shake Your Groove Thing",
+      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+        "name": "The Singles 1974 - 76",
+        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
       },
       "artists": [
         {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
         }
       ],
-      "duration_ms": 346133,
-      "name": "Shake Your Groove Thing",
-      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Go West In the Navy",
-        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 339946,
-      "name": "In the Navy - Original Version 1979",
-      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "The Kids & Me",
         "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 156200,
       "name": "Nothing From Nothing",
       "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Go West In the Navy",
+        "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 339946,
+      "name": "In the Navy - Original Version 1979",
+      "url": "https://open.spotify.com/track/4mjFMScEvHeM72791mXRCW"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2353,22 +2353,6 @@
       "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Vehicle",
-        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
-      },
-      "artists": [
-        {
-          "name": "The Ides Of March",
-          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Vehicle",
-      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "A Taste Of Honey",
@@ -2383,6 +2367,22 @@
       "duration_ms": 338320,
       "name": "Boogie Oogie Oogie - Remastered 2004",
       "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Vehicle",
+        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
+      },
+      "artists": [
+        {
+          "name": "The Ides Of March",
+          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Vehicle",
+      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
     },
     {
       "added_at": "2021-09-08 13:31:49",

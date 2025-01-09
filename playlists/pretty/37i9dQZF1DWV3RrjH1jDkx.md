@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,435 likes - 99 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,440 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 14 | [Dum, Dumb, and Dumber \(with Young Thug & Future\)](https://open.spotify.com/track/3E9IzxNXsk7yFfc1SHpiG1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:47 |
 | 15 | [Call My Mama](https://open.spotify.com/track/3jThUxnKbRQb1dLityUrGi) | [Naomi Vaughn](https://open.spotify.com/artist/1SCpIF2L2jzSfIcdgGtPE8) | [Call My Mama](https://open.spotify.com/album/7lduRhXlMD8aFVUeT5bPXR) | 3:41 |
 | 16 | [Hannah Montana \(with NLE Choppa & DaBaby\)](https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:17 |
-| 17 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
+| 17 | [FIESTA](https://open.spotify.com/track/4dWjrsyd2eUK04Iho6SW0M) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [FIESTA](https://open.spotify.com/album/7uHRbgqvex9BqH4GUkxZog) | 2:07 |
 | 18 | [TEN](https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/0iIC693yA29mHcT8j08osB) | 2:09 |
 | 19 | [We're All Gonna Die](https://open.spotify.com/track/0cO9d6BRSLjETagiTQ9HXv) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [We're All Gonna Die](https://open.spotify.com/album/7xQq5fpb1TV8b5Rg9XEjI7) | 3:08 |
 | 20 | [Paracet](https://open.spotify.com/track/5YBHSdtxnWtSequElwqDAz) | [KARLA](https://open.spotify.com/artist/23QaxTC9xXcLtYoJEFxhlZ) | [Paracet](https://open.spotify.com/album/1HqpneeaN3FjJDuxOWfLFE) | 2:37 |

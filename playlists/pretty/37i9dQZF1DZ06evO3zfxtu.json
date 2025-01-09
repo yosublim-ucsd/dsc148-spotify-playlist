@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAADjHYi0he0SFoeGNtnhIx4H",
+  "snapshot_id": "Z3xugAAAAAAIWhm9nyucpMDzffNoFgT3",
   "tracks": [
     {
       "added_at": null,
@@ -147,30 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulda Known Betta",
-        "url": "https://open.spotify.com/album/6vAkGSd1VbOSLGXHOZQbcB"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Francci",
-          "url": "https://open.spotify.com/artist/4Pnxscq7WqulU7dMANL5SK"
-        },
-        {
-          "name": "City Fidelia",
-          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
-        }
-      ],
-      "duration_ms": 174953,
-      "name": "Shoulda Known Betta",
-      "url": "https://open.spotify.com/track/3l8SSXtZHF9exnbLgyCqkr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise N Shine (feat. Poo Bear) [Justice Skolnik Remix]",
         "url": "https://open.spotify.com/album/6MxcAkHetEdAyUotamFHKL"
       },
@@ -215,6 +191,30 @@
       "duration_ms": 163679,
       "name": "The Weekend (feat. Eva Shaw)",
       "url": "https://open.spotify.com/track/68OH3MoN4j2HuJsuco6oZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulda Known Betta",
+        "url": "https://open.spotify.com/album/6vAkGSd1VbOSLGXHOZQbcB"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Francci",
+          "url": "https://open.spotify.com/artist/4Pnxscq7WqulU7dMANL5SK"
+        },
+        {
+          "name": "City Fidelia",
+          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+        }
+      ],
+      "duration_ms": 174953,
+      "name": "Shoulda Known Betta",
+      "url": "https://open.spotify.com/track/3l8SSXtZHF9exnbLgyCqkr"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Songs To Drive To",
-        "url": "https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 153614,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIG DRIP",
         "url": "https://open.spotify.com/album/4x7Yo7b9NKZmto1hsfUOTz"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 124200,
       "name": "BIG DRIP",
       "url": "https://open.spotify.com/track/6yOnCtqG95CzhjeTeI9uOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Songs To Drive To",
+        "url": "https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 153614,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR"
     },
     {
       "added_at": null,
@@ -515,30 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do it Again",
-        "url": "https://open.spotify.com/album/0uzuO11KDcIEz7Hub5J9SC"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Roney",
-          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
-        },
-        {
-          "name": "Jayy Brown",
-          "url": "https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE"
-        }
-      ],
-      "duration_ms": 142806,
-      "name": "Do it Again",
-      "url": "https://open.spotify.com/track/2DyvuLqjixD2t6ZH9lAF0w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIG MON",
         "url": "https://open.spotify.com/album/3y6LMh8HdDj0FjhQuS6UTw"
       },
@@ -555,54 +531,6 @@
       "duration_ms": 140204,
       "name": "BIG MON",
       "url": "https://open.spotify.com/track/5gCq2MdyTBUiNjDmEYk3tI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "U (feat. Mally Mall & Sonny Wilson)",
-        "url": "https://open.spotify.com/album/1Vp2y5edO73InFx4jeXGRV"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Mally Mall",
-          "url": "https://open.spotify.com/artist/2F4vlQrJakgfJhEW93DFcZ"
-        },
-        {
-          "name": "Sonny Wilson",
-          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "U (feat. Mally Mall & Sonny Wilson)",
-      "url": "https://open.spotify.com/track/0DCBpDmAyJRRKupCAJzjRj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        },
-        {
-          "name": "Ching",
-          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
-        }
-      ],
-      "duration_ms": 155452,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/0ctqYvUAVUWg7ldZf8QZDA"
     },
     {
       "added_at": null,
@@ -631,6 +559,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do it Again",
+        "url": "https://open.spotify.com/album/0uzuO11KDcIEz7Hub5J9SC"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Roney",
+          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
+        },
+        {
+          "name": "Jayy Brown",
+          "url": "https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE"
+        }
+      ],
+      "duration_ms": 142806,
+      "name": "Do it Again",
+      "url": "https://open.spotify.com/track/2DyvuLqjixD2t6ZH9lAF0w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
       },
@@ -647,6 +599,54 @@
       "duration_ms": 345000,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        },
+        {
+          "name": "Ching",
+          "url": "https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/0ctqYvUAVUWg7ldZf8QZDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "U (feat. Mally Mall & Sonny Wilson)",
+        "url": "https://open.spotify.com/album/1Vp2y5edO73InFx4jeXGRV"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Mally Mall",
+          "url": "https://open.spotify.com/artist/2F4vlQrJakgfJhEW93DFcZ"
+        },
+        {
+          "name": "Sonny Wilson",
+          "url": "https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "U (feat. Mally Mall & Sonny Wilson)",
+      "url": "https://open.spotify.com/track/0DCBpDmAyJRRKupCAJzjRj"
     },
     {
       "added_at": null,
@@ -703,30 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "BAINS.",
-          "url": "https://open.spotify.com/artist/1k1UhxIjS2zMahE8gK3a0g"
-        },
-        {
-          "name": "RIZ",
-          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
-        }
-      ],
-      "duration_ms": 160132,
-      "name": "GANG",
-      "url": "https://open.spotify.com/track/7kR9xrw56D3GpHKsF585fE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ba Da Da Ding",
         "url": "https://open.spotify.com/album/69AGVh9lmNbBmK3FbILz2z"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 175132,
       "name": "Ba Da Da Ding",
       "url": "https://open.spotify.com/track/738Lq96Lgoy6oiZx2itjyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "BAINS.",
+          "url": "https://open.spotify.com/artist/1k1UhxIjS2zMahE8gK3a0g"
+        },
+        {
+          "name": "RIZ",
+          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
+        }
+      ],
+      "duration_ms": 160132,
+      "name": "GANG",
+      "url": "https://open.spotify.com/track/7kR9xrw56D3GpHKsF585fE"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "REDLIGHT",
+        "url": "https://open.spotify.com/album/1VsO5oDfoIVmjKEvAre0VP"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "duration_ms": 227295,
+      "name": "REDLIGHT",
+      "url": "https://open.spotify.com/track/65aJP5egHEcF0nkTpe2jMD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RVPTVRE",
         "url": "https://open.spotify.com/album/6vmTh32xwBBWDsD43eWSYq"
       },
@@ -843,22 +863,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "REDLIGHT",
-        "url": "https://open.spotify.com/album/1VsO5oDfoIVmjKEvAre0VP"
+        "name": "Vitamin D (Eva Shaw Remix)",
+        "url": "https://open.spotify.com/album/7dgIG0ZI4arq3aV94fSJPW"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 160565,
+      "name": "Vitamin D - Eva Shaw Remix",
+      "url": "https://open.spotify.com/track/5dLSBxsw8pZ0CTg3ld2Zkk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
       },
       "artists": [
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Friyie",
-          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
         }
       ],
-      "duration_ms": 227295,
-      "name": "REDLIGHT",
-      "url": "https://open.spotify.com/track/65aJP5egHEcF0nkTpe2jMD"
+      "duration_ms": 177133,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
     },
     {
       "added_at": null,
@@ -891,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100GANG",
         "url": "https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3"
       },
@@ -927,30 +951,6 @@
       "duration_ms": 147096,
       "name": "100GANG",
       "url": "https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vitamin D (Eva Shaw Remix)",
-        "url": "https://open.spotify.com/album/7dgIG0ZI4arq3aV94fSJPW"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 160565,
-      "name": "Vitamin D - Eva Shaw Remix",
-      "url": "https://open.spotify.com/track/5dLSBxsw8pZ0CTg3ld2Zkk"
     },
     {
       "added_at": null,
@@ -1047,22 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moxie",
-        "url": "https://open.spotify.com/album/1tcGZwS0aQuFGi0CACukPj"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 182416,
-      "name": "Moxie - Radio Edit",
-      "url": "https://open.spotify.com/track/2kmXVuR054xt71Zyqu6R6G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EASTERISLAND",
         "url": "https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 209268,
       "name": "EASTERISLAND",
       "url": "https://open.spotify.com/track/52ZmVF8HmzkRNOWNthIbTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moxie",
+        "url": "https://open.spotify.com/album/1tcGZwS0aQuFGi0CACukPj"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 182416,
+      "name": "Moxie - Radio Edit",
+      "url": "https://open.spotify.com/track/2kmXVuR054xt71Zyqu6R6G"
     },
     {
       "added_at": null,

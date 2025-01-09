@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 91445,
+  "num_followers": 91509,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
     },
     {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "She Keeps Calling",
+        "url": "https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "She Keeps Calling",
+      "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
+    },
+    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Ben L'Oncle Soul",
@@ -511,22 +527,6 @@
       "duration_ms": 236546,
       "name": "Stay Together",
       "url": "https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf"
-    },
-    {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "She Keeps Calling",
-        "url": "https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "She Keeps Calling",
-      "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Soul Power",
-        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 270306,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 290422,
       "name": "GotItBad",
       "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Soul Power",
+        "url": "https://open.spotify.com/album/7BlqkOOBcVqUwLEhC0Rxq6"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 270306,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "True to Myself",
-        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
-      },
-      "artists": [
-        {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Spiritual Thang",
-      "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
-    },
-    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Beautiful Pain",
@@ -699,6 +683,22 @@
       "duration_ms": 311038,
       "name": "Bedroom Bully",
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "True to Myself",
+        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Spiritual Thang",
+      "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
     },
     {
       "added_at": "2024-09-27 17:49:29",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/3es6erjJ2cDVAQaNnLaFmb"
     },
     {
-      "added_at": "2024-10-25 08:08:52",
-      "album": {
-        "name": "Suite Escape",
-        "url": "https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i"
-      },
-      "artists": [
-        {
-          "name": "Gareth Donkin",
-          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
-        }
-      ],
-      "duration_ms": 240394,
-      "name": "Nobody\u2019s Perfect",
-      "url": "https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "The Way I Feel",
@@ -873,20 +857,20 @@
       "url": "https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
+      "added_at": "2024-10-25 08:08:52",
       "album": {
-        "name": "A Weird Kinda Wonderful",
-        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+        "name": "Suite Escape",
+        "url": "https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i"
       },
       "artists": [
         {
-          "name": "N'Dambi",
-          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
         }
       ],
-      "duration_ms": 311453,
-      "name": "Can't Change Me",
-      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+      "duration_ms": 240394,
+      "name": "Nobody\u2019s Perfect",
+      "url": "https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -907,6 +891,22 @@
       "duration_ms": 212116,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -945,20 +945,20 @@
       "url": "https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
+      "added_at": "2024-08-30 05:32:52",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
+        "name": "Walk With the Father",
+        "url": "https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7"
       },
       "artists": [
         {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
         }
       ],
-      "duration_ms": 238906,
-      "name": "I've Got A Right",
-      "url": "https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS"
+      "duration_ms": 226153,
+      "name": "Walk With the Father",
+      "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -977,20 +977,20 @@
       "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
     },
     {
-      "added_at": "2024-08-30 05:32:52",
+      "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Walk With the Father",
-        "url": "https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7"
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
       },
       "artists": [
         {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 226153,
-      "name": "Walk With the Father",
-      "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
+      "duration_ms": 238906,
+      "name": "I've Got A Right",
+      "url": "https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Gold Mine",
-        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 151350,
-      "name": "Gold Mine",
-      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "The Woman I Am",
-        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
+        "name": "Gold Mine",
+        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
       },
       "artists": [
         {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
         }
       ],
-      "duration_ms": 284840,
-      "name": "Love You All My Lifetime",
-      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
+      "duration_ms": 151350,
+      "name": "Gold Mine",
+      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1131,6 +1115,22 @@
       "duration_ms": 187924,
       "name": "(Your Love Keeps Lifting Me) Higher and Higher",
       "url": "https://open.spotify.com/track/0qbg3HFwPSMmN0BlrdW5qW"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "The Woman I Am",
+        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Love You All My Lifetime",
+      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "O-O-H Child",
-      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Glimmer",
         "url": "https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 191594,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "O-O-H Child",
+      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
     },
     {
       "added_at": "2024-03-08 13:51:25",

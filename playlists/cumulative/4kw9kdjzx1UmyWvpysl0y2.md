@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-887 songs - 2 day 2 hr 24 min
+888 songs - 2 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Rocka](https://open.spotify.com/track/1C0PPfiAjOukLff0ucmzsn) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [No Etiquette](https://open.spotify.com/artist/6HXY7iEakhbnG63OH20oeh), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Rocka](https://open.spotify.com/album/2yzOSjguTqnEt0SbVMC5aJ) | 3:13 | 2024-09-11 | 2024-12-04 |
 | [Roots](https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots](https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF) | 3:32 | 2023-08-15 | 2023-12-14 |
 | [Royalty](https://open.spotify.com/track/6tHBSeIAH5l9o9MjZLl9MJ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Royalty](https://open.spotify.com/album/0CEQ62V2Ip0bXpVhhNYiPQ) | 2:57 | 2022-09-01 | 2022-11-05 |
+| [Rubix Cube](https://open.spotify.com/track/6o12D6Pk42lsb6m2aYtqJr) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Rubix Cube](https://open.spotify.com/album/0PktwDBITGLMcZYG1uK6VQ) | 2:40 | 2025-01-08 |  |
 | [Ruin U](https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Ruin U](https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg) | 3:15 | 2023-10-20 | 2024-02-03 |
 | [Run Alone](https://open.spotify.com/track/7IJYK8h8z2NxYfjUjAzJTy) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R), [MARIELE](https://open.spotify.com/artist/7BD5vJssWIjaDmb5Pszagd) | [Run Alone](https://open.spotify.com/album/1QpvGcvfiU6uiQMIy08fMn) | 3:16 | 2024-06-27 | 2024-09-20 |
 | [Run Right Back](https://open.spotify.com/track/2sSn4HVYNcaegvazLKG0dz) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Run Right Back](https://open.spotify.com/album/6HR3uI5fIW1a9gq2Aa44Uw) | 4:04 | 2024-04-30 | 2024-07-20 |

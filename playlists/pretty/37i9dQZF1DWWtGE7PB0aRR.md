@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,433 likes - 65 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,497 likes - 65 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 55 | [My Baby's Good to Me](https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:50 |
 | 56 | [Blues Deluxe](https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 7:30 |
 | 57 | [Scaramouche](https://open.spotify.com/track/2F74eGsMRbLJ8dAsZMrMRH) | [The Hoax](https://open.spotify.com/artist/0Q6tMUatndpU8U0ZpFkfqO) | [Sound Like This](https://open.spotify.com/album/1Ld7ppVi6X2z6mjtA35Zt3) | 4:44 |
-| 58 | [12 Gauge](https://open.spotify.com/track/60oxeLK5l66VXKfruuj6zX) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [12 Gauge](https://open.spotify.com/album/0tM7YbnVjiIa2ACqeZB3hg) | 2:20 |
-| 59 | [Sittin' And Thinkin' \- Mono Version](https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Their First LP \(Mono Version\)](https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT) | 2:57 |
+| 58 | [Sittin' And Thinkin' \- Mono Version](https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Their First LP \(Mono Version\)](https://open.spotify.com/album/3S64E4pbZbfsB7gJWxrRDT) | 2:57 |
+| 59 | [12 Gauge](https://open.spotify.com/track/60oxeLK5l66VXKfruuj6zX) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [12 Gauge](https://open.spotify.com/album/0tM7YbnVjiIa2ACqeZB3hg) | 2:20 |
 | 60 | [So Tired of Living](https://open.spotify.com/track/5NzKWVIBmPJ0xp7VP0c2rn) | [Malone Sibun](https://open.spotify.com/artist/0m2ru7d9GvCPhRMV9Pf1yH), [Innes Sibun](https://open.spotify.com/artist/0mn36s1sBsCtzNXvxwZ7qj), [Marcus Malone](https://open.spotify.com/artist/1N3tM9SkDC5lYIDRVBBuiR) | [Come Together](https://open.spotify.com/album/5J9IEJ8AfBEuFKzNHaV7aF) | 6:29 |
 | 61 | [I'm Alright](https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [I'm Alright](https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv) | 3:09 |
 | 62 | [God Loves A Loser](https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO) | [Todd Sharpville](https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE) | [Medication Time](https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns) | 5:47 |
 | 63 | [Telegram](https://open.spotify.com/track/0kY1WQ375QtoFP75dLgRgy) | [Mick Clarke](https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt) | [Telegram](https://open.spotify.com/album/3Rb0WoIosAvat8zyJkiIzP) | 4:12 |
 | 64 | [Can't Keep from Loving You](https://open.spotify.com/track/1lM4AreOWHdLZV5YmPs3G4) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Can't Keep From Loving You](https://open.spotify.com/album/6tIe49swz5w7eBuCAFCOWQ) | 3:05 |
-| 65 | [Too Rolling Stoned \- 2007 Remaster](https://open.spotify.com/track/0GuID7WlXesl3ITZwJZbLE) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [Bridge Of Sighs \(2007 Remaster\)](https://open.spotify.com/album/1CCERowpj4xqJw4DuCVjHl) | 7:31 |
+| 65 | [In the Skies](https://open.spotify.com/track/526nHQfF4e5fqr6I2WwyVE) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 3:49 |
 
 Snapshot ID: `ZowtpAAAAAD4LrAPaxrGnk6TvVgG/q4P`

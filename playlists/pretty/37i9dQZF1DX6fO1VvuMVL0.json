@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 94098,
+  "num_followers": 94207,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 210533,
       "name": "Walkin' Shoes",
       "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Fontessa",
-        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Willow Weep for Me",
-      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "West Coast Jazz (Expanded Edition)",
         "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 203826,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Fontessa",
+        "url": "https://open.spotify.com/album/4ceTTa0JKnKsppT43oe8dc"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Willow Weep for Me",
+      "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
-      },
-      "artists": [
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Quintessence - Remastered",
-      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "The Wonderful World Of Jazz",
         "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 598026,
       "name": "Afternoon in Paris",
       "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Quintessence - Remastered",
+      "url": "https://open.spotify.com/track/2CMmZJwUiiQXVro8lDB7ZE"
     },
     {
       "added_at": "2024-07-08 07:01:17",

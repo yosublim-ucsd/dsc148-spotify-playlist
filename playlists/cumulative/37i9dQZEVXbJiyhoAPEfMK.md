@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-2,871 songs - 6 day 5 hr 20 min
+2,872 songs - 6 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,7 +824,7 @@
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2024-10-05 | 2024-10-07 |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-07-01 | 2023-07-09 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2024-02-26 | 2024-09-20 |
-| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2024-02-08 |  |
+| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2024-02-08 | 2025-01-09 |
 | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/track/20bTkdvyWZjO4ORHmzXQR4) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [EVERYDAY \(feat\. Shiva, ANNA, Geolier\)](https://open.spotify.com/album/7qm8bQi1fUSQoo1jUjjLIs) | 3:10 | 2023-10-17 | 2023-10-29 |
 | [Everywhere \(feat\. Sophie Hunger\)](https://open.spotify.com/track/3tclrcMq55RBexbs0hg77O) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:09 | 2022-10-01 | 2022-10-03 |
 | [Evil](https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-13 | 2024-07-16 |
@@ -2646,6 +2646,7 @@
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-09-10 |
 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 | 2023-03-25 | 2023-03-27 |
 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 | 2023-11-18 | 2023-11-24 |
+| [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 | 2025-01-08 |  |
 | [Vem Dancar Kuduro](https://open.spotify.com/track/6ku3i5WNrsY3qhOq6ua9TL) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Big Ali](https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls) | [Emigrante Del Mundo \(Remastered\)](https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ) | 3:19 | 2024-08-17 | 2025-01-04 |
 | [VEMPA](https://open.spotify.com/track/3pPMgoouYtezLiBTEeL9be) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [VEMPA](https://open.spotify.com/album/0AXShQulBiviUJkpaVR4EH) | 2:14 | 2024-04-27 | 2024-07-05 |
 | [VENDI IM](https://open.spotify.com/track/3ZeNIrID8gTsqn5gynb4Vc) | [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M), [Laura](https://open.spotify.com/artist/6QJHNy1YTjcFC3wSu9Mv2r) | [VENDI IM](https://open.spotify.com/album/4hvfTQE1m6JEk2papAtYio) | 2:52 | 2023-02-18 | 2023-02-21 |

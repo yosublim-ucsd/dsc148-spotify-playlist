@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-717 songs - 2 day 7 hr 34 min
+718 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Call For Winter II](https://open.spotify.com/track/3NkPGvXhZLgia4crLVNSuW) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Hope](https://open.spotify.com/album/7s5eowxjxvNsyob3EuiHUM) | 5:26 | 2024-12-10 |  |
 | [Call Me](https://open.spotify.com/track/3YmZ8V92nqVKx6u1lohFCC) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Wind](https://open.spotify.com/album/0WarGVGAHMzf6DgCfz3pbC) | 4:28 | 2024-02-08 | 2024-12-15 |
 | [Can You Hear a New World](https://open.spotify.com/track/5aokmmaTYynuYr1yNHealA) | [UNKNOWN ME](https://open.spotify.com/artist/5tmYdSKm3f4o6oOFCuxgtR) | [Bishintai](https://open.spotify.com/album/00lHRf4ZxhpGzxtSguayFX) | 3:36 | 2022-03-31 | 2022-06-26 |
+| [Car Alarm, Turn Signal](https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Ka Baird](https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6) | [Car Alarm, Turn Signal](https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z) | 4:47 | 2024-12-16 |  |
 | [CASTALIA](https://open.spotify.com/track/0QY4l4L04NX1SRfq1QxPzS) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 3:31 | 2024-06-15 | 2024-07-13 |
 | [Cat and Bird](https://open.spotify.com/track/1GroeXQf6heoXynUqOK6oM) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/5VukdAoxbJX1hVb8Jp1VMU) | 4:19 | 2022-10-13 | 2022-10-15 |
 | [Cat and Bird](https://open.spotify.com/track/4xdBmpPggvdUMgxhoDIwDU) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Cat and Bird](https://open.spotify.com/album/7EPXZAQmlagFelPn83wYWV) | 4:19 | 2022-10-13 | 2022-11-28 |
@@ -716,7 +717,7 @@
 | [花が咲いたら](https://open.spotify.com/track/5QUnY0LrqAIEQZKOdkAhXF) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Seventh Garden](https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi) | 6:06 | 2022-03-31 | 2022-07-26 |
 | [軌道](https://open.spotify.com/track/18jPRpOQn3Owm7R4abFTQl) | [Fugenn & The White Elephants](https://open.spotify.com/artist/1hoI4UH9YcvetPkYlMIZiH) | [軌道](https://open.spotify.com/album/5IxwQdioGkcmU1Bsx5shTb) | 5:34 | 2022-03-31 | 2022-04-19 |
 | [道](https://open.spotify.com/track/2i9WlTQCT3Zta3NSnbYUhT) | [gocko](https://open.spotify.com/artist/3Cm2OPDC19a0tkfmHHizpG) | [道](https://open.spotify.com/album/4bixYubj3Rk5QOlRKaam6C) | 4:11 | 2022-03-31 | 2022-07-20 |
-| [金継ぎ](https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [古風](https://open.spotify.com/album/6up103j3F99vuOxqx9ye83) | 1:06 | 2024-03-07 |  |
+| [金継ぎ](https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [古風](https://open.spotify.com/album/6up103j3F99vuOxqx9ye83) | 1:06 | 2024-03-07 | 2025-01-09 |
 | [雑踏のためのクワイア・ミュージック](https://open.spotify.com/track/6uLeAoik3KpcV8iKCJa8lw) | [Hello1103](https://open.spotify.com/artist/2QasRMCj1LQRCKIuqY4soK) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:53 | 2022-03-30 | 2022-07-18 |
 | [雪'](https://open.spotify.com/track/4woQoUdx9lDnRK51rRSI7Y) | [Yusuke Kuwahara](https://open.spotify.com/artist/1ZATldh6PN1y032x214J05) | [雪'](https://open.spotify.com/album/1OeeKVcoMg32lSGImOSfAz) | 7:45 | 2022-03-31 | 2022-07-24 |
 | [雪の上の足跡](https://open.spotify.com/track/2OKFk7hSBsjdcfmfEq1eoc) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [月の光 \(Ultimate Edition\)](https://open.spotify.com/album/3uahEjE95POX11CnbVjBA6) | 4:41 | 2022-03-31 | 2022-05-22 |

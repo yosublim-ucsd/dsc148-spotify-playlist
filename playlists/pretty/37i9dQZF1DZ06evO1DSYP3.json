@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5515,
+  "num_followers": 5513,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAADic/vto6Cq9hHDhl88XZ8q",
+  "snapshot_id": "Z3xugAAAAADLSjYkmSGWlR32dJy8PFmd",
   "tracks": [
     {
       "added_at": null,
@@ -477,7 +477,7 @@
         }
       ],
       "duration_ms": 135163,
-      "name": "MARDI GRAS",
+      "name": "MARDI GRAS (GO CRAZY)",
       "url": "https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y"
     },
     {
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BONA FIDE",
+        "url": "https://open.spotify.com/album/1wHjsPMfZOAPdIVejEjmxF"
+      },
+      "artists": [
+        {
+          "name": "Rob $tone",
+          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 199819,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/6fzADIXo9q8wnHoIMWKqUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -903,46 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BONA FIDE",
-        "url": "https://open.spotify.com/album/1wHjsPMfZOAPdIVejEjmxF"
-      },
-      "artists": [
-        {
-          "name": "Rob $tone",
-          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 199819,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/6fzADIXo9q8wnHoIMWKqUl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEMONADE FREESTYLE REMIX",
-        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
-      },
-      "artists": [
-        {
-          "name": "Darrell Medellin",
-          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 142654,
-      "name": "LEMONADE FREESTYLE REMIX",
-      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Connected And Respected",
         "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
       },
@@ -967,22 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+        "name": "LEMONADE FREESTYLE REMIX",
+        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
       },
       "artists": [
         {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "Darrell Medellin",
+          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
         },
         {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 182926,
-      "name": "Luh U",
-      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
+      "duration_ms": 142654,
+      "name": "LEMONADE FREESTYLE REMIX",
+      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
     },
     {
       "added_at": null,
@@ -999,6 +979,26 @@
       "duration_ms": 140811,
       "name": "Walked In",
       "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Luh U",
+      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
     },
     {
       "added_at": null,
@@ -1087,6 +1087,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Lightswitch",
+      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caught In The Funk",
         "url": "https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 120153,
       "name": "Hotel Lobby",
       "url": "https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Lightswitch",
-      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,

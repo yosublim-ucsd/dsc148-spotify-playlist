@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9KJJbsGEwfj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9KJJbsGEwfj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9KJJbsGEwfj)
 
-### [Fiesta! Fiesta! Feliz 2025! ](https://open.spotify.com/playlist/37i9dQZF1DX9KJJbsGEwfj)
+### [Fiesta! Fiesta! ](https://open.spotify.com/playlist/37i9dQZF1DX9KJJbsGEwfj)
 
 > ¡Únete al party con estos hits! Baila y canta hasta el amanecer
 

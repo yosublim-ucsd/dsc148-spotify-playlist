@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "JMSN",
+        "url": "https://open.spotify.com/album/58m6IYSjq3O58kayn1XoJF"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394400,
+      "name": "'Bout It",
+      "url": "https://open.spotify.com/track/6UuqotWnq3jkjWqOn6aEkC"
+    },
+    {
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -22075,6 +22093,28 @@
     },
     {
       "album": {
+        "name": "Champions League",
+        "url": "https://open.spotify.com/album/6h2mS6rKmq3UbZn3RLyRuG"
+      },
+      "artists": [
+        {
+          "name": "Smack",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189227,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/1cwmYGgvAKvaAn0bZn6lVl"
+    },
+    {
+      "album": {
         "name": "Ich k\u00fcndige",
         "url": "https://open.spotify.com/album/4OXaSqahlMnJIHubGCNwVu"
       },
@@ -27990,7 +28030,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -31078,7 +31118,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 185177,
       "name": "Montagem Lunar Diamante - Slowed",
       "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
@@ -33658,7 +33698,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 110005,
       "name": "New Jeans - Jersey Club - Slowed Down",
       "url": "https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5"
@@ -37914,7 +37954,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 38487,
       "name": "Pink Soldiers",
       "url": "https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59"
@@ -41900,7 +41940,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -48740,7 +48780,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -51684,6 +51724,24 @@
       "duration_ms": 144696,
       "name": "ve\u013eryby",
       "url": "https://open.spotify.com/track/4p8f8DUwVIr3UrsTZPDTG3"
+    },
+    {
+      "album": {
+        "name": "vianoce s pellem",
+        "url": "https://open.spotify.com/album/5xb6gko1zcsMFQHQsTxO1z"
+      },
+      "artists": [
+        {
+          "name": "zltunke_",
+          "url": "https://open.spotify.com/artist/3MTlJ2HYuWmYd9I6ZJEAaJ"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76046,
+      "name": "vianoce s pellem",
+      "url": "https://open.spotify.com/track/6rdnKMPbsB4cvV6YiTK9WJ"
     },
     {
       "album": {
@@ -56268,7 +56326,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 190213,
       "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"

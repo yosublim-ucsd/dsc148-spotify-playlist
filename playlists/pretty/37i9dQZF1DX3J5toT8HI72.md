@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,069 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,195 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 18 | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Deixa \(feat\. Ana Gabriela\)](https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM) | 2:56 |
 | 19 | [Ouvi Dizer](https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:30 |
 | 20 | [Eu Amo Você](https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1970](https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66) | 4:03 |
-| 21 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
-| 22 | [Quero Ser Feliz Também](https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Nossa Missão](https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE) | 4:14 |
+| 21 | [Quero Ser Feliz Também](https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Nossa Missão](https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE) | 4:14 |
+| 22 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
 | 23 | [De Janeiro a Janeiro](https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua \(Deluxe Edition\)](https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ) | 3:10 |
 | 24 | [Felicidade](https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 2](https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3) | 4:27 |
 | 25 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 75 | [Multicolorida](https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm) | [Multicolorida](https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy) | 4:16 |
 | 76 | [Anjo Protetor](https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Outono](https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y) | 3:39 |
 | 77 | [acende essa ponta](https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Entre o Nada e o Infinito](https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H) | 2:55 |
-| 78 | [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 |
-| 79 | [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 |
+| 78 | [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 |
+| 79 | [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 |
 | 80 | [Como É Leve Amar](https://open.spotify.com/track/6Qnqto498au89xGlouAq6q) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Como É Leve Amar](https://open.spotify.com/album/4KDljFb5Ee6L7AxorjRh9l) | 3:48 |
 | 81 | [Sou Assim Até Mudar](https://open.spotify.com/track/3WvSwNtssCbdCJxzMNIbyp) | [Tom Karabachian](https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW) | [Barato Abstrato](https://open.spotify.com/album/3qB6QdDqzXxpsLuGgWFRSv) | 4:04 |
 | 82 | [É o Amor](https://open.spotify.com/track/6sOAzbz63kOlnlSuV5AZNE) | [Aline Wirley](https://open.spotify.com/artist/5QJMxfSyCyewbvI9FM7p1q), [Igor Rickli](https://open.spotify.com/artist/2WlLEP7mmf9pJPd7khUFAn) | [É o Amor](https://open.spotify.com/album/14YIXNRRfmIXMmFzl91x3W) | 2:11 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 86 | [Anel de Coco \- Acústico \| Ao Vivo](https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Anel de Coco Acústico \(Ao Vivo\)](https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8) | 3:02 |
 | 87 | [Visível](https://open.spotify.com/track/107P9rvJfIKEVVHl1hlCM4) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Visível](https://open.spotify.com/album/1mt5L5AkXXOcSx7OzniwUO) | 2:25 |
 | 88 | [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 |
-| 89 | [Amor I Love You / Citação: Trecho Da Obra Intitulada "Primo Basilio" De Eça De Queiroz Declamado Por Arnaldo Antunes](https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memorias Cronicas E Declaracoes De Amor "Textos, Provas E Desmentidos"](https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn) | 3:11 |
-| 90 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 |
+| 89 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 |
+| 90 | [Amor I Love You / Citação: Trecho Da Obra Intitulada "Primo Basilio" De Eça De Queiroz Declamado Por Arnaldo Antunes](https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memorias Cronicas E Declaracoes De Amor "Textos, Provas E Desmentidos"](https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn) | 3:11 |
 | 91 | [Medo Bobo](https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV) | 3:18 |
 | 92 | [Singular](https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:26 |
 | 93 | [Deusa do Amor](https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Moreno Veloso Solo in Tokyo](https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB) | 5:09 |
 | 94 | [O Amor É o Segredo](https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor É o Segredo](https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR) | 3:03 |
 | 95 | [Eu Me Lembro \(feat\. Silva\)](https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99) | 3:37 |
 | 96 | [Minha Flor Meu Bebê](https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [A Arte De Cazuza](https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi) | 3:06 |
-| 97 | [Totalmente Seu](https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 2:12 |
-| 98 | [Voce E Linda](https://open.spotify.com/track/23ztZ0wgb5cNLZsziJWoRB) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/2mlC3iABmrrpPDqzdBzEJr) | 4:59 |
-| 99 | [Ouro](https://open.spotify.com/track/6QcHZSh7EV7EvhUnovI1Bw) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/3crtjM7DJVNSvXfn2v65Lq) | 2:58 |
+| 97 | [Voce E Linda](https://open.spotify.com/track/23ztZ0wgb5cNLZsziJWoRB) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/2mlC3iABmrrpPDqzdBzEJr) | 4:59 |
+| 98 | [Ouro](https://open.spotify.com/track/6QcHZSh7EV7EvhUnovI1Bw) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/3crtjM7DJVNSvXfn2v65Lq) | 2:58 |
+| 99 | [Totalmente Seu](https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 2:12 |
 | 100 | [Que Seja pra Ficar](https://open.spotify.com/track/4voUXakolytCg27412L3Ur) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Que Seja pra Ficar](https://open.spotify.com/album/05wUV6CRluelafa4uC3ete) | 3:42 |
 
 Snapshot ID: `Z2m9lQAAAABkEqxle0p7ly/DmRKIwXTf`

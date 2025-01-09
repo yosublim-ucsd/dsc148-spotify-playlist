@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,041 songs - 4 day 13 hr 28 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,047 songs - 4 day 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2049,5 +2049,11 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2039 | [sweet rally](https://open.spotify.com/track/5nzqZiPOg9jWn5jz8KRwJJ) | [ilysam](https://open.spotify.com/artist/3rmIPOsNb2ngQAQEK8Fow8), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [sweet rally](https://open.spotify.com/album/11vUnFryU2pTqfBGaAU7kc) | 1:09 |
 | 2040 | [Nostalgia](https://open.spotify.com/track/3kdxURFWsMaY9Hw34Nk5zU) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Pt\. One](https://open.spotify.com/album/7xNgPrxoV7XX4mNRsoLp0c) | 3:31 |
 | 2041 | [A.D.T.O.Y.](https://open.spotify.com/track/2wTwhiAm1via7YfhzWgoGZ) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Grown](https://open.spotify.com/album/6zm3gZOXElHAUBS53FyYHs) | 4:08 |
+| 2042 | [Oublie moi](https://open.spotify.com/track/4TEOLEkZldUJ0XgTqwOMIF) | [Sexy Sushi](https://open.spotify.com/artist/6yNXUzxIakMVY5LoVgZGHG), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4), [Mitch Silver](https://open.spotify.com/artist/585FeCXfQKceH2hCHn5SKO) | [Cyril](https://open.spotify.com/album/3iv0nsEihjNhq2HL63jA2H) | 2:34 |
+| 2043 | [i do](https://open.spotify.com/track/3LpzX6SBNbQmPpvRoBCpUX) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [White Tiger](https://open.spotify.com/album/2ij1JaqxLVOKTOsSUZKMji) | 2:56 |
+| 2044 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 |
+| 2045 | [crush](https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [boy](https://open.spotify.com/album/0JfgfkFvNYiZIt5mS3skmZ) | 2:26 |
+| 2046 | [jeans](https://open.spotify.com/track/6C2nVSSeXNqfoY8t6tliZ4) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [jeans](https://open.spotify.com/album/7ANu2uI0FVnoQnQsrSiVcO) | 3:01 |
+| 2047 | [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 |
 
-Snapshot ID: `AAADtrgQKhl1Uhh7QmYi85CcFlViHc6f`
+Snapshot ID: `AAADvELyqqV8rLyxelMqae7gF4T2TysL`

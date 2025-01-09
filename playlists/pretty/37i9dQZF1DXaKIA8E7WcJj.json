@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Bob Dylan",
-  "num_followers": 3163059,
+  "num_followers": 3163285,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 161960,
       "name": "Under the Boardwalk",
       "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "Dock of the Bay Sessions",
         "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 141000,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 197093,
       "name": "Lay, Lady, Lay",
       "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
         "name": "Songs Of Leonard Cohen",
         "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 229293,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
-      "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
+      "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 145533,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "San Francisco",
         "url": "https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 178506,
       "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
       "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 148013,
-      "name": "Big Girls Don't Cry",
-      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "Runaway with Del Shannon",
         "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
       },
@@ -1555,6 +1523,38 @@
       "duration_ms": 146973,
       "name": "Land of 1000 Dances",
       "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 148013,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
+        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
+        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Come A Little Bit Closer",
+      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -1831,18 +1847,18 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
+        "name": "Wichita Lineman (Remastered)",
+        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
       "artists": [
         {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Come A Little Bit Closer",
-      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+      "duration_ms": 186200,
+      "name": "Wichita Lineman - Remastered 2001",
+      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -1879,22 +1895,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "Wichita Lineman (Remastered)",
-        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Wichita Lineman - Remastered 2001",
-      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "Mr. Tambourine Man",
         "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
       },
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "The Best Of Canned Heat",
-        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Going Up The Country",
-      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 260666,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "The Best Of Canned Heat",
+        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Going Up The Country",
+      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
+        "name": "Sam Cooke: Portrait Of A Legend 1951-1964",
+        "url": "https://open.spotify.com/album/6QGm9AGR7l5YYQPb66FGdc"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/5UrDFY2cYc7NMoheN4syct"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -2071,18 +2087,18 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "Sam Cooke: Portrait Of A Legend 1951-1964",
-        "url": "https://open.spotify.com/album/6QGm9AGR7l5YYQPb66FGdc"
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
         }
       ],
-      "duration_ms": 158613,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/5UrDFY2cYc7NMoheN4syct"
+      "duration_ms": 143200,
+      "name": "Travelin' Man - Remastered",
+      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -2099,22 +2115,6 @@
       "duration_ms": 167160,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 143200,
-      "name": "Travelin' Man - Remastered",
-      "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "Spanish Harlem",
-        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "In Dreams",
         "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 170626,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "Crying",
         "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 166466,
       "name": "Crying",
       "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2024-12-27 18:31:19",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2024-12-27 18:31:19",
       "album": {
-        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
-        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
-      },
-      "artists": [
-        {
-          "name": "Erma Franklin",
-          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
-    },
-    {
-      "added_at": "2024-12-27 18:31:19",
-      "album": {
         "name": "The Wicked Pickett",
         "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 187760,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
+    },
+    {
+      "added_at": "2024-12-27 18:31:19",
+      "album": {
+        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
+        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
+      },
+      "artists": [
+        {
+          "name": "Erma Franklin",
+          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
     },
     {
       "added_at": "2024-12-27 18:31:19",

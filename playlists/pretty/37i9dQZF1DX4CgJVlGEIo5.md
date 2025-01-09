@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,481 likes - 82 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,563 likes - 82 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 63 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 |
 | 64 | [Feels Like Lightning](https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Gathering](https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi) | 3:02 |
 | 65 | [Lost in a Love Song](https://open.spotify.com/track/5o985l6Hc9GzkOx3gyF0Me) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Down and Out in the Garden of Earthly Delights](https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY) | 2:21 |
-| 66 | [Instinct](https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F) | [Josh Cashman](https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m) | [Instinct](https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW) | 4:44 |
-| 67 | [One](https://open.spotify.com/track/6y6EFX5MsSaRYrQpOOOVTW) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0YAlCsMw5XUBLugLwlg654) | 3:59 |
+| 66 | [One](https://open.spotify.com/track/6y6EFX5MsSaRYrQpOOOVTW) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [One](https://open.spotify.com/album/0YAlCsMw5XUBLugLwlg654) | 3:59 |
+| 67 | [Instinct](https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F) | [Josh Cashman](https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m) | [Instinct](https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW) | 4:44 |
 | 68 | [Moment in Time](https://open.spotify.com/track/2HajMMSxvXSFDUPbFy0GuR) | [The Blessing Business](https://open.spotify.com/artist/2EZCT6ZL6Gb4pCiXQCkeet) | [Heavy Metal Heart](https://open.spotify.com/album/5MNqC4Po5g4wdCxYmY1Flx) | 2:47 |
 | 69 | [Low \(Acoustic\)](https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0) | 3:26 |
 | 70 | [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 |
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 73 | [Migration of Souls](https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Migration Stories](https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy) | 3:28 |
 | 74 | [Plain Letters \- Reimagined](https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Plain Letters \(Reimagined\)](https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O) | 4:33 |
 | 75 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 |
-| 76 | [Famous](https://open.spotify.com/track/3tE7QWHK8fCsSBMtSUQK1B) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Famous](https://open.spotify.com/album/66jxEpRg72cH9574G9L49e) | 3:42 |
-| 77 | [Is It Ever Gonna Be Easy](https://open.spotify.com/track/6K1MklYCOtE3ydMrG0Pv1N) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk into a Storm](https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ) | 3:11 |
+| 76 | [Is It Ever Gonna Be Easy](https://open.spotify.com/track/6K1MklYCOtE3ydMrG0Pv1N) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk into a Storm](https://open.spotify.com/album/74FJWhrNj4yi9NoXzIioUZ) | 3:11 |
+| 77 | [Famous](https://open.spotify.com/track/3tE7QWHK8fCsSBMtSUQK1B) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Famous](https://open.spotify.com/album/66jxEpRg72cH9574G9L49e) | 3:42 |
 | 78 | [How Many Times](https://open.spotify.com/track/4KI5cdn58QtiqXovqU3B53) | [Rod Ladgrove](https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H) | [How Many Times](https://open.spotify.com/album/7fV0N8X3lHnKNxqphjPVjn) | 2:39 |
 | 79 | [Disposable](https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Disposable](https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH) | 3:37 |
 | 80 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 |
 | 81 | [Mary Oliver \- Acoustic](https://open.spotify.com/track/3Y48M1emb8uhEagDFBCkei) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mary Oliver \(Acoustic\)](https://open.spotify.com/album/3MTZ3ITMfQulojB2EbGRcO) | 3:11 |
-| 82 | [Michael Keaton](https://open.spotify.com/track/3OWMwp7sYhbZYQZ4XOtIOV) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Michael Keaton](https://open.spotify.com/album/34je96nHBKTrelQMtwGwww) | 3:19 |
+| 82 | [Tell Him](https://open.spotify.com/track/6OppWYEnISV3uSc1qjnoqt) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Wyvern Lingo](https://open.spotify.com/album/3jIJLo5ZnlZx2QrmkvvGYY) | 4:31 |
 
 Snapshot ID: `ZohmxwAAAABSHdUxxcw5SRF45L70ogDn`

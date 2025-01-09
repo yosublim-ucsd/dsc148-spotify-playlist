@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,906 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,909 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 14 | [La Fortaleza](https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 3:55 |
 | 15 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
 | 16 | [Báilalo Mujer](https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Báilalo Mujer](https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5) | 2:52 |
-| 17 | [La Cumbia Feminazi](https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [La Cumbia Feminazi](https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p) | 3:49 |
-| 18 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
+| 17 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
+| 18 | [La Cumbia Feminazi](https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [La Cumbia Feminazi](https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p) | 3:49 |
 | 19 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 |
 | 20 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 |
 | 21 | [No Estamos Solas \- Tema Central de la Serie "La Jauría"](https://open.spotify.com/track/4LxtkdudLT8Bhgm9xwRyn5) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [No Estamos Solas \(Tema Central de la Serie "La Jauría"\)](https://open.spotify.com/album/4N2jf1sqfVuOFlmGLBDvi1) | 2:53 |

@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-161 songs - 10 hr 56 min
+162 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [BLIZZARD](https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [NO SIDE](https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK) | 4:33 | 2023-12-12 |  |
 | [Bubble \(feat\. Aile The Shota\)](https://open.spotify.com/track/2pS0uXME0iY4gMDf1WULpQ) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Bubble \(feat\. Aile The Shota\)](https://open.spotify.com/album/0L0DZdZY2GP059hnQBQtAq) | 3:34 | 2023-12-19 |  |
 | [CHRISTMAS SPIRIT](https://open.spotify.com/track/2JXTOSVdTmQYI3I3BaNAte) | [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [CHRISTMAS SPIRIT &SWEET HARMONY](https://open.spotify.com/album/5pT2fiPF2gwfge0CSmS3xn) | 5:07 | 2023-12-12 | 2024-01-12 |
+| [City Love City Love City Love](https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [City Love City Love City Love](https://open.spotify.com/album/4ilkK1WGXup1RfvD01flUe) | 3:24 | 2025-01-08 |  |
 | [continue](https://open.spotify.com/track/5WMDdUyxL2U1T9qrPINFiS) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [continue](https://open.spotify.com/album/6vKfyG0Mr5QOIZc4TZ8oqw) | 2:36 | 2023-12-12 |  |
 | [COSMO](https://open.spotify.com/track/6pk58j7S7BpXiiFQuGkhuG) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [COSMO](https://open.spotify.com/album/0TVWzPRXIqvlxNnT3U0TXQ) | 2:21 | 2023-12-19 | 2024-12-06 |
 | [Crystals \- English ver.](https://open.spotify.com/track/3VqTAZ3bPHOLAJTNQiwARF) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Crystals \(English ver.\)](https://open.spotify.com/album/5sYa4gew2XidgHr9M9N18S) | 3:39 | 2023-12-12 | 2024-12-12 |
@@ -91,7 +92,7 @@
 | [Sundays in Winter](https://open.spotify.com/track/3y3h9Z5iMLjElAS8SHPBr4) | [MIRAIJI](https://open.spotify.com/artist/2P8zv3Deu5AFOkPped9qro) | [Sundays in Winter](https://open.spotify.com/album/1Rf4k3LGmOwifJBCJOCZHt) | 3:25 | 2024-12-10 | 2024-12-18 |
 | [Swans](https://open.spotify.com/track/5ke1JQCX4lPNTtorQJjdpm) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Swans](https://open.spotify.com/album/49PMC05GRlAApjxy2BhE4g) | 3:05 | 2023-12-12 | 2024-01-24 |
 | [Tampopo](https://open.spotify.com/track/0ykZ3mzjgdnrTEzj2Q09L3) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/73wIJr5w62OjFZhctd8lfh) | 4:13 | 2023-12-12 | 2024-04-19 |
-| [The Christmas Song](https://open.spotify.com/track/7tljcwqdMTAHDVZ86vLE2m) | [ISSA](https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx) | [The Christmas Song](https://open.spotify.com/album/7xva8uQYcEF2ASVNdqtcha) | 5:27 | 2024-12-03 |  |
+| [The Christmas Song](https://open.spotify.com/track/7tljcwqdMTAHDVZ86vLE2m) | [ISSA](https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx) | [The Christmas Song](https://open.spotify.com/album/7xva8uQYcEF2ASVNdqtcha) | 5:27 | 2024-12-03 | 2025-01-09 |
 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 | 2024-01-11 |  |
 | [Tomorrow](https://open.spotify.com/track/5nQ6kRjN3AwFL1DYrqHQQ5) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Tomorrow](https://open.spotify.com/album/11CTLBOXlw8eXoZ3xerLxv) | 2:41 | 2024-12-17 |  |
 | [Tomorrow!](https://open.spotify.com/track/1c6g0m9UCX9IHPLSy20MEF) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [Tomorrow!](https://open.spotify.com/album/73aLbNZmva7CV9Q2yDTmWU) | 3:17 | 2024-01-11 | 2024-12-20 |

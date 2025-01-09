@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1049655,
+  "num_followers": 1049853,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAACfrg6351X/V0535YTttpj",
+  "snapshot_id": "Z3xugAAAAAA3DyaFfwgwdNi83rIViVT7",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 196253,
       "name": "La Derrota",
       "url": "https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Mexicano en la M\u00e9xico",
-        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "La Ley del Monte",
-      "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 172560,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Mexicano en la M\u00e9xico",
+        "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "La Ley del Monte",
+      "url": "https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "Le Pese a Quien Le Pese",
-      "url": "https://open.spotify.com/track/3mf2WfT8APUuwEGBh7w1ht"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 171000,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 191533,
+      "name": "Le Pese a Quien Le Pese",
+      "url": "https://open.spotify.com/track/3mf2WfT8APUuwEGBh7w1ht"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pesar De Todo",
-        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Los Mandados",
-      "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 182746,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
     },
     {
       "added_at": null,

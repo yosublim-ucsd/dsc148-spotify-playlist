@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 77503,
+  "num_followers": 77631,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-12-16 09:22:57",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "OZEBA",
-      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
-    },
-    {
-      "added_at": "2024-12-16 09:22:57",
-      "album": {
         "name": "Toma Toma",
         "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 168000,
       "name": "Toma Toma",
       "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+    },
+    {
+      "added_at": "2024-12-16 09:22:57",
+      "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "OZEBA",
+      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
     },
     {
       "added_at": "2024-12-16 09:55:45",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-12-16 09:22:57",
       "album": {
-        "name": "FIND MONEY (feat. Zerrydl)",
-        "url": "https://open.spotify.com/album/0wAmdWotmWdjoU0NQ6F2RQ"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 149896,
-      "name": "FIND MONEY (feat. Zerrydl)",
-      "url": "https://open.spotify.com/track/19FyHGQSvrg8H88eaKvUQI"
-    },
-    {
-      "added_at": "2024-12-16 09:22:57",
-      "album": {
         "name": "For Where?",
         "url": "https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 113454,
       "name": "For Where?",
       "url": "https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX"
+    },
+    {
+      "added_at": "2024-12-16 09:22:57",
+      "album": {
+        "name": "FIND MONEY (feat. Zerrydl)",
+        "url": "https://open.spotify.com/album/0wAmdWotmWdjoU0NQ6F2RQ"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 149896,
+      "name": "FIND MONEY (feat. Zerrydl)",
+      "url": "https://open.spotify.com/track/19FyHGQSvrg8H88eaKvUQI"
     },
     {
       "added_at": "2024-12-16 09:22:57",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-12-16 09:22:57",
       "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
-    },
-    {
-      "added_at": "2024-12-16 09:22:57",
-      "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 179478,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"
+    },
+    {
+      "added_at": "2024-12-16 09:22:57",
+      "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
       "added_at": "2024-12-16 09:22:57",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-12-16 09:22:57",
       "album": {
-        "name": "Pano Tona",
-        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Pano Tona",
-      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
-    },
-    {
-      "added_at": "2024-12-16 09:22:57",
-      "album": {
         "name": "everyday",
         "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 152133,
       "name": "Ogechi",
       "url": "https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun"
+    },
+    {
+      "added_at": "2024-12-16 09:22:57",
+      "album": {
+        "name": "Pano Tona",
+        "url": "https://open.spotify.com/album/2hX8GO8bs6ttvyhNN9qvot"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Pano Tona",
+      "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
     },
     {
       "added_at": "2024-12-16 09:22:57",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-12-16 09:22:57",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
-    },
-    {
-      "added_at": "2024-12-16 09:22:57",
-      "album": {
         "name": "Loseyi Professor",
         "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 151282,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
+    },
+    {
+      "added_at": "2024-12-16 09:22:57",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2024-12-16 09:22:57",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-12-16 09:22:57",
       "album": {
-        "name": "Innocent (feat. Fireboy DML)",
-        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Innocent (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
-    },
-    {
-      "added_at": "2024-12-16 09:22:57",
-      "album": {
         "name": "Stubborn (with Asake)",
         "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 176333,
       "name": "Stubborn (with Asake)",
       "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
+    },
+    {
+      "added_at": "2024-12-16 09:22:57",
+      "album": {
+        "name": "Innocent (feat. Fireboy DML)",
+        "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Innocent (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
     },
     {
       "added_at": "2024-12-16 09:22:57",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-12-16 09:22:57",
       "album": {
-        "name": "Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 149743,
-      "name": "Till Thy Kingdom Come",
-      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
-    },
-    {
-      "added_at": "2024-12-16 09:22:57",
-      "album": {
         "name": "Fuji Garbage",
         "url": "https://open.spotify.com/album/1pXLDgBGgSmlKz9l1KQV5T"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 161415,
       "name": "Fuji Garbage",
       "url": "https://open.spotify.com/track/7g31Io2YE8QGPPHIx14WHS"
+    },
+    {
+      "added_at": "2024-12-16 09:22:57",
+      "album": {
+        "name": "Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "Till Thy Kingdom Come",
+      "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
     },
     {
       "added_at": "2024-12-16 09:22:57",

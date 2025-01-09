@@ -1,12 +1,12 @@
 {
   "description": "This is The Delfonics. The essential tracks, all in one playlist.",
-  "num_followers": 12044,
+  "num_followers": 12046,
   "original_name": "This Is The Delfonics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAABlXhNmajJnZffQs27p7pu2",
+  "snapshot_id": "Z3xugAAAAAAUwTelQ6cofxwa3hKZk+rG",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 277780,
-      "name": "Think It Over",
-      "url": "https://open.spotify.com/track/797UL4Ow6fsk5sEvwxwjZw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 124733,
       "name": "Hurt so Bad",
       "url": "https://open.spotify.com/track/5FGSizyi9HyfIVzNivq2IY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 277780,
+      "name": "Think It Over",
+      "url": "https://open.spotify.com/track/797UL4Ow6fsk5sEvwxwjZw"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 260295,
-      "name": "Start All Over Again",
-      "url": "https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La La Means I Love You",
         "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 170000,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 260295,
+      "name": "Start All Over Again",
+      "url": "https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 144093,
-      "name": "He Don't Really Love You",
-      "url": "https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz"
+      "duration_ms": 162693,
+      "name": "You've Been Untrue",
+      "url": "https://open.spotify.com/track/4CbNwQ6eB1Zokn6c2JWLBB"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 162693,
-      "name": "You've Been Untrue",
-      "url": "https://open.spotify.com/track/4CbNwQ6eB1Zokn6c2JWLBB"
+      "duration_ms": 144093,
+      "name": "He Don't Really Love You",
+      "url": "https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz"
     },
     {
       "added_at": null,
@@ -560,9 +560,25 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 186466,
-      "name": "I'm a Man",
-      "url": "https://open.spotify.com/track/1Z2Grc4FUpayjdq0hgJVvs"
+      "duration_ms": 191733,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 261456,
+      "name": "Seventeen (And In Love)",
+      "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 261456,
-      "name": "Seventeen (And In Love)",
-      "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me This Is a Dream (Expanded Version)",
         "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
       },
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Round & Round",
-      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
+      "duration_ms": 186466,
+      "name": "I'm a Man",
+      "url": "https://open.spotify.com/track/1Z2Grc4FUpayjdq0hgJVvs"
     },
     {
       "added_at": null,

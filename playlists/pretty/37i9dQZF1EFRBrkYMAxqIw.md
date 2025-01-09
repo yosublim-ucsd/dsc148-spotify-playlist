@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 48 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 |
 | 49 | [Magic Still Exists](https://open.spotify.com/track/0udYwuCYpStSlVouEDS7EW) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:22 |
 | 50 | [Bounce](https://open.spotify.com/track/6uipQY1DKk611P3uOOePUb) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:17 |
-| 51 | [Selling Me Love](https://open.spotify.com/track/1V1ufE4DPOcPgv7HHHiCOj) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [One Of Us \- EP](https://open.spotify.com/album/4ndZBPZvC36mvk7aGUlxKS) | 2:40 |
-| 52 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 |
+| 51 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 |
+| 52 | [Selling Me Love](https://open.spotify.com/track/1V1ufE4DPOcPgv7HHHiCOj) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [One Of Us \- EP](https://open.spotify.com/album/4ndZBPZvC36mvk7aGUlxKS) | 2:40 |
 | 53 | [Conversations With Strangers](https://open.spotify.com/track/4vDKWs9yLXTJz7SBSO0jsP) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:35 |
 | 54 | [Snake Dance](https://open.spotify.com/track/1Vdz8Ye8jfw6Hb1n9fGRQD) | [Forever Kids](https://open.spotify.com/artist/2J2Z7pqlBnq0B2BDDpje6u), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF) | [Snake Dance](https://open.spotify.com/album/6lbGCSWEy4fuUxsPkTG1EF) | 2:39 |
 | 55 | [When I Say So](https://open.spotify.com/track/28XJPXfzBRT1PxHxHkuB8b) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [When I Say So](https://open.spotify.com/album/63j2ptfGmKCBdR0gx4llJj) | 2:52 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 110 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 111 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AbmQqgAAAACbHTPcXLT8QqSSd4+pFpyo`
+Snapshot ID: `AbmWSgAAAADFSWDvddNjUIE0i4o6r80A`

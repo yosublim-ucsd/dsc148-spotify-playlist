@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,016 likes - 330 songs - 20 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,015 likes - 330 songs - 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 141 | [Battlefield](https://open.spotify.com/track/1zV93NN3k0QWSi4EmvDmAa) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 4:18 |
 | 142 | [Santa Visits Everyone](https://open.spotify.com/track/42NDZG3B5hGoU6YIrJB8dK) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 3:08 |
 | 143 | [Sing for My Life](https://open.spotify.com/track/3msZWSvVMIybnhN29nK2KM) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:44 |
-| 144 | [Who Am I?](https://open.spotify.com/track/732QOzrBUFi0gGWNU9gB7d) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Cameron Diaz](https://open.spotify.com/artist/1lrL3Lwyoyij9dFwSayDsV), [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:20 |
-| 145 | [MTG \- ELASTIC HEART](https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG \- ELASTIC HEART](https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd) | 1:20 |
+| 144 | [MTG \- ELASTIC HEART](https://open.spotify.com/track/1G7Tfx1FN0atFBWlsg2EPw) | [Lucas Hits](https://open.spotify.com/artist/6Yb29hzKvATIPHZYn4Qk5H) | [MTG \- ELASTIC HEART](https://open.spotify.com/album/7qKgwyMMABXE0gsBBrhaKd) | 1:20 |
+| 145 | [Who Am I?](https://open.spotify.com/track/732QOzrBUFi0gGWNU9gB7d) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Cameron Diaz](https://open.spotify.com/artist/1lrL3Lwyoyij9dFwSayDsV), [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:20 |
 | 146 | [Bring Night](https://open.spotify.com/track/1gni0TfcnJB5Wn3VZnTuet) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 2:57 |
 | 147 | [Oblivion \(feat\. Sia\)](https://open.spotify.com/track/1xywEdOKhIfnxqthSYZR8W) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 4:13 |
 | 148 | [Telepathy \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5vY0eZdiJSgEkIJN96y4MN) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 3:11 |
@@ -276,8 +276,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 266 | [Der Meister grillt](https://open.spotify.com/track/2Q1kubblCZ0uWJyAfBLN23) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [SpongeBob \- Der Meister grillt](https://open.spotify.com/album/51qkp1oYlVbW1XwFseNrYf) | 3:38 |
 | 267 | [One Candle](https://open.spotify.com/track/6tUkav0vClfyCbucb0mUmJ) | [J\. Ralph](https://open.spotify.com/artist/2GPriNLwjGv7sjsgIex8Wv), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Racing Extinction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tbo6edRmkeeST0qK7lsvb) | 4:03 |
 | 268 | [Green Card](https://open.spotify.com/track/6J7vprT8CB5vy5KA1KIwgY) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Wish Bone](https://open.spotify.com/album/0ohYHaVFBYh7qYI5zXbvD6) | 4:08 |
-| 269 | [Godzillionaire](https://open.spotify.com/track/2OQXPBsZcPpmyoyTkFFf6p) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:55 |
-| 270 | [Judge Me](https://open.spotify.com/track/66fhJHov6sAsZz7qCEJxDw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:15 |
+| 269 | [Judge Me](https://open.spotify.com/track/66fhJHov6sAsZz7qCEJxDw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:15 |
+| 270 | [Godzillionaire](https://open.spotify.com/track/2OQXPBsZcPpmyoyTkFFf6p) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Opulence EP](https://open.spotify.com/album/15KPwLkZDUQAhBGJdCxowa) | 2:55 |
 | 271 | [Treasure \- Acoustic Version](https://open.spotify.com/track/2cXjZJGfTGZLPFFKLpbSgo) | [Veer Glider](https://open.spotify.com/artist/0OoEBdaKrgKobR4BLBzNyR) | [Stripped & Acoustic Radio Songs, Vol.1](https://open.spotify.com/album/7f8XKrpjldzXBpnkkzmFyY) | 3:24 |
 | 272 | [Luckie](https://open.spotify.com/track/1c0HMSYtaT5LGLBEUKpHxR) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV) | [Eli And The Thirteenth Confession](https://open.spotify.com/album/533zqKatpy90jse2K5IaiQ) | 3:00 |
 | 273 | [Insidiously](https://open.spotify.com/track/5TG35p7Ns9LJYa7Wkfcujf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 8:50 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 329 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 330 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbmQlgAAAAAquW8hJ4KGHXn0nNhsU3pg`
+Snapshot ID: `AbmWcgAAAABaIpqqS8u/+s4ODmHgtsja`

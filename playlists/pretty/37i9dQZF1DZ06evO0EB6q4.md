@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,454 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,541 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 23 | [Verte Cerquita](https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Verte Cerquita](https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv) | 3:52 |
 | 24 | [Caballero](https://open.spotify.com/track/0uVVQdgUSUPNYXhcmwBOv4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:29 |
 | 25 | [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 |
-| 26 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 |
-| 27 | [Una Loca Como Tú](https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Una Loca Como Tú](https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT) | 3:55 |
+| 26 | [Una Loca Como Tú](https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Una Loca Como Tú](https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT) | 3:55 |
+| 27 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 |
 | 28 | [Me Dañas Por Deporte](https://open.spotify.com/track/4uSVVolWZ9VtprCYJSgVmG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:40 |
 | 29 | [Rebelde](https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc) | [Elena Vargas](https://open.spotify.com/artist/60FnATm9TT7JG58EHFKs5O), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Rebelde](https://open.spotify.com/album/6ZAh6f0M9XDCQY49y4h6fJ) | 2:49 |
 | 30 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL) | 3:23 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 41 | [Arreglándome y Dañándome](https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6) | 4:04 |
 | 42 | [Como Tú Ninguna](https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Tú Ninguna](https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn) | 3:56 |
 | 43 | [Camina Sola](https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:33 |
-| 44 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
-| 45 | [Desde el Fondo](https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/4xDD54XJqrbcLH8FtGjylv) | 3:39 |
+| 44 | [Desde el Fondo](https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/4xDD54XJqrbcLH8FtGjylv) | 3:39 |
+| 45 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
 | 46 | [Como Bolero](https://open.spotify.com/track/5sBFBv0WHFp6n7IkHPZjMM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/5XDYqdmYZykDK3uFHF9Mz3) | 3:14 |
 | 47 | [Te Hice Llorar](https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:34 |
 | 48 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 50 | [Mía](https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Compilado, Vol\. 1](https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG) | 3:10 |
 | 51 | [Lejos de Ti](https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:40 |
 
-Snapshot ID: `Z3sdAAAAAAAPZZrPruMgzHkzUNWhd8fn`
+Snapshot ID: `Z3xugAAAAABezoP8WiKhuyDQSvL24tCY`

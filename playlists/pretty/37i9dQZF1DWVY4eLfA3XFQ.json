@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Chris Lorenzo \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 642172,
+  "num_followers": 642225,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Ready 2 Go",
-        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Ready 2 Go",
-      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "I Like Dancing",
@@ -1343,46 +1327,6 @@
       "duration_ms": 202972,
       "name": "I Like Dancing",
       "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
-    },
-    {
-      "added_at": "2024-11-01 05:19:33",
-      "album": {
-        "name": "Percolator (Chris Lake & Bontan Remixes)",
-        "url": "https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 199714,
-      "name": "Percolator - Chris Lake Remix",
-      "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "See You Sweat",
-        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "See You Sweat",
-      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1409,6 +1353,78 @@
       "url": "https://open.spotify.com/track/3cgOIThWrE4g3WjNtOByOL"
     },
     {
+      "added_at": "2024-11-01 05:19:33",
+      "album": {
+        "name": "Percolator (Chris Lake & Bontan Remixes)",
+        "url": "https://open.spotify.com/album/1IYBF4Hu5rdCbAZgikWs1I"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 199714,
+      "name": "Percolator - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/058p8THgGRjrxMo3QQrIZg"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ready 2 Go",
+        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Ready 2 Go",
+      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "See You Sweat",
+        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "See You Sweat",
+      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA"
+    },
+    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Saving Up (Odd Mob Remix)",
@@ -1427,22 +1443,6 @@
       "duration_ms": 193432,
       "name": "Saving Up - Odd Mob Remix",
       "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Time To Go",
-        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 202380,
-      "name": "Time To Go",
-      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "All Night",
@@ -1643,6 +1627,22 @@
       "duration_ms": 177096,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3vUcG8qu1KgThYYEYHWIti"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Time To Go",
+        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 202380,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1813,24 +1813,24 @@
       "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Break The House Down",
-        "url": "https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq"
+        "name": "Run From Me",
+        "url": "https://open.spotify.com/album/1XRhepAROO6tDpFgsi39zx"
       },
       "artists": [
         {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
         }
       ],
-      "duration_ms": 208730,
-      "name": "Break The House Down",
-      "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
+      "duration_ms": 180100,
+      "name": "Run From Me",
+      "url": "https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1869,24 +1869,24 @@
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
+      "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Run From Me",
-        "url": "https://open.spotify.com/album/1XRhepAROO6tDpFgsi39zx"
+        "name": "Break The House Down",
+        "url": "https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq"
       },
       "artists": [
         {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
         },
         {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 180100,
-      "name": "Run From Me",
-      "url": "https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG"
+      "duration_ms": 208730,
+      "name": "Break The House Down",
+      "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2281,6 +2281,26 @@
       "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "That's the Spot",
+        "url": "https://open.spotify.com/album/2d3Y8KwRfNbfj96Low2s4H"
+      },
+      "artists": [
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Sven Lochenhoer",
+          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "That's the Spot",
+      "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Ready For Your Love (Odd Mob Remix)",
@@ -2305,26 +2325,6 @@
       "url": "https://open.spotify.com/track/35Xp4gxNJljB9m2mSLLMvv"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "That's the Spot",
-        "url": "https://open.spotify.com/album/2d3Y8KwRfNbfj96Low2s4H"
-      },
-      "artists": [
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "Sven Lochenhoer",
-          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "That's the Spot",
-      "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "No Long Talk",
@@ -2339,26 +2339,6 @@
       "duration_ms": 202149,
       "name": "No Long Talk",
       "url": "https://open.spotify.com/track/3Q6FkKIJgwwldSIccSe1PW"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Control It",
-        "url": "https://open.spotify.com/album/2Q7iqxF7OISCmS6WR2AQca"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Winnie Ama",
-          "url": "https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "Control It",
-      "url": "https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN"
     },
     {
       "added_at": "2024-12-13 05:00:15",
@@ -2379,6 +2359,26 @@
       "duration_ms": 182343,
       "name": "Girl In The Club",
       "url": "https://open.spotify.com/track/2X0I1Ky8BOxJ6a4ZC9x8QX"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Control It",
+        "url": "https://open.spotify.com/album/2Q7iqxF7OISCmS6WR2AQca"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Winnie Ama",
+          "url": "https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "Control It",
+      "url": "https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN"
     },
     {
       "added_at": "2024-09-27 04:00:00",

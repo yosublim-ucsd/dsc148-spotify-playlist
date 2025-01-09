@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,947 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,954 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 4 | [Light of the Seven](https://open.spotify.com/track/6iLzFJhs4ATwJn7P1utZIJ) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones \(Music from the HBO® Series \- Season 6\)](https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL) | 9:49 |
 | 5 | [Mhysa](https://open.spotify.com/track/4wxaEgPlUbEUwiAnThBUkw) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 3:54 |
 | 6 | [Goodbye Brother](https://open.spotify.com/track/5n44Y1e8exufbm9mmAvopf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 3:07 |
-| 7 | [The Rains of Castamere](https://open.spotify.com/track/0CHvs1UmxA90B2apIpbWCC) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 3:44 |
-| 8 | [Pacific Rim \(feat\. Tom Morello\)](https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Pacific Rim \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gJWChOVkVRgZCK09irLOk) | 4:55 |
-| 9 | [Winter Is Here](https://open.spotify.com/track/3fYO6sRqHy1BdF8EiLGyop) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:54 |
+| 7 | [Jenny of Oldstones](https://open.spotify.com/track/2YmIcPF20FEaQd8qwTK8zm) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 2:30 |
+| 8 | [Winter Is Here](https://open.spotify.com/track/3fYO6sRqHy1BdF8EiLGyop) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:54 |
+| 9 | [Pacific Rim \(feat\. Tom Morello\)](https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Pacific Rim \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gJWChOVkVRgZCK09irLOk) | 4:55 |
 | 10 | [The North Remembers](https://open.spotify.com/track/4ASe4ZKyRZi7PTfarkYGww) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:33 |
-| 11 | [Jenny of Oldstones](https://open.spotify.com/track/2YmIcPF20FEaQd8qwTK8zm) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 2:30 |
-| 12 | [All Must Choose](https://open.spotify.com/track/71g5Rk5G0FAj0Y1hcfjaXq) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 4:44 |
-| 13 | [Home](https://open.spotify.com/track/0PmH79CmZR3HCvTukh4Nge) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:30 |
+| 11 | [The Rains of Castamere](https://open.spotify.com/track/0CHvs1UmxA90B2apIpbWCC) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 3:44 |
+| 12 | [Home](https://open.spotify.com/track/0PmH79CmZR3HCvTukh4Nge) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:30 |
+| 13 | [All Must Choose](https://open.spotify.com/track/71g5Rk5G0FAj0Y1hcfjaXq) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 4:44 |
 | 14 | [Kill Them All](https://open.spotify.com/track/4m3Irk2mc25kcmJC2uqGlL) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 2:35 |
 | 15 | [The Night King](https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 8:50 |
 | 16 | [The Power of Prophecy](https://open.spotify.com/track/3EkwCXyPeH6xGs23tVnJJy) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 49 | [Remembering Those Who Came Before](https://open.spotify.com/track/1QDrtD1BVsiNKRKz82Yj2W) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 3:22 |
 | 50 | [Shall We Begin?](https://open.spotify.com/track/6Rlybp1JsE3GUjYp5rC0mo) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 1:24 |
 
-Snapshot ID: `Z3sdAAAAAACDNt+ycWipuum447do4l4j`
+Snapshot ID: `Z3xugAAAAACoUOAzU7yZEljuDyhSoDsC`

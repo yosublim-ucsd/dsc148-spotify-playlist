@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。Cover: tuki.
+> 今週も話題の新曲を最速で。 Cover: tuki\. \*👉 <a href="https://spice.eplus.jp/articles/334643">SPICE連動記事</a>をSPICEでチェック!
 
-9,092 songs - 23 day 11 hr 46 min
+9,096 songs - 23 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [2024/6/19 tuki.が初カバー！KroiのニューアルバムにYENTOWNのPETZの約3年ぶりのニューアルバム、TAIKINGと荒谷翔大のコラボ新曲、Mega Shinnosukeの新曲も！注目のアーティスト紫 今の新曲や、IS:SUE、RIIZE、ノーマニのソロ1stアルバムもピックアップ！](https://open.spotify.com/episode/7wPHAoeghA8O7fcehZpY7h) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 32:44 | 2024-06-19 | 2024-06-26 |
 | [2024/6/5 水曜日のカンパネラがニューEPをリリースしてカバーに！幾田りらやAdoの新曲も！A.G.OとSkaaiの新曲、MONO NO AWAREのニューアルバム、Dos Monosのニューアルバムなど強力な新作も多数リリースに。注目のニューカマー北村蕗やレトロリロンもピックアップ！海外からはエミネムの新曲を深堀り！](https://open.spotify.com/episode/1SIhCzdM3qayU4lBBDNtW9) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 34:27 | 2024-06-05 | 2024-06-12 |
 | [2025](https://open.spotify.com/track/1r5KFMAbthTgyOzLQDFIT6) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [2025](https://open.spotify.com/album/2zZ1oMaAGfORxYkiOXpoSG) | 3:28 | 2024-06-18 | 2024-06-26 |
+| [2025/1/8 tuki.がファーストアルバムをリリースしてカバーに！あっこゴリラの6年ぶりのアルバムも！マカロニえんぴつ、Awich、OKAMOTO’Sの新曲もピックアップ！Kvi Babaからメッセージも到着！](https://open.spotify.com/episode/37m1RyRlEnXWirNyg8SPSr) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:22 | 2025-01-08 |  |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
 | [21 century boys](https://open.spotify.com/track/7kc8nCrpr6DsKSlwGgTSFW) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [21 century boys](https://open.spotify.com/album/4gnKy7HSkQtk8kxs6FR50j) | 3:09 | 2024-11-13 | 2024-11-20 |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/0t6GDvannAPMhpYV9KQvhd) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4NQWLV27zjKf450cF0HtGp) | 5:12 | 2023-09-12 | 2023-09-14 |
@@ -838,6 +839,7 @@
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-13 | 2023-06-21 |
 | [bug](https://open.spotify.com/track/5fehnt7xDsn8CIeKMrL1oF) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [inside = RED](https://open.spotify.com/album/4WhI9tKAQBCnMl5V9vocVY) | 2:46 | 2024-11-13 | 2024-11-20 |
 | [bugs](https://open.spotify.com/track/7dWR8gcf2kS2iQJB0NNV7v) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [bugs](https://open.spotify.com/album/4ARUfp2z7XyXChD9fUVdR7) | 3:59 | 2024-01-30 | 2024-02-07 |
+| [Building 650](https://open.spotify.com/track/2JOreCTFKLM5c67J4nneKr) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Building 650](https://open.spotify.com/album/1H58kI6UqlnmxQTS5rmBSK) | 3:51 | 2025-01-08 |  |
 | [BULLDOZER](https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Eastern Margins](https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut) | [BULLDOZER](https://open.spotify.com/album/1qIdi4vFmO79C90DhUk7yK) | 2:41 | 2024-09-04 | 2024-09-11 |
 | [Bundle By Bundle](https://open.spotify.com/track/2gtg4jTNUqC4akFqWZZXcV) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Bundle By Bundle](https://open.spotify.com/album/3ViLRtCLd9pxkZ2w25hFwK) | 2:56 | 2024-12-17 | 2024-12-25 |
 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 | 2024-10-01 | 2024-10-09 |
@@ -932,6 +934,7 @@
 | [CATCH UP](https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [DLEN](https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [CATCH UP](https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp) | 3:01 | 2024-02-20 | 2024-02-28 |
 | [Catch Ya In The Lie](https://open.spotify.com/track/6b7zE30oR2mhX985kZ4ZEZ) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Le'Asha](https://open.spotify.com/artist/4IJLRIaMO0OcXa4mCjHVfT) | [Catch Ya In The Lie](https://open.spotify.com/album/2CKBLg73Zbk3EHl7x2ipTx) | 2:10 | 2024-08-27 | 2024-09-04 |
 | [Caution To The Wind](https://open.spotify.com/track/1nTp6IaQyU2FCbe1KZipRI) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Caution To The Wind](https://open.spotify.com/album/2oIbVI3dL2BIXVFxfqNpKR) | 4:06 | 2023-02-21 | 2023-03-01 |
+| [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 | 2025-01-08 |  |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-13 | 2024-11-20 |
 | [CELLYPHONE](https://open.spotify.com/track/1jFqJHNf8DhFW7SWcjQqzR) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys) | [PERSPECTIVE SHIFT](https://open.spotify.com/album/6WM4eb9sopE0BGNdrtLjZT) | 2:53 | 2024-12-11 | 2024-12-18 |
 | [CH4NGE](https://open.spotify.com/track/0tZNBm62R9dr5xCHONe4r0) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [CH4NGE](https://open.spotify.com/album/01RDfYld8bmfLUyxx2nqm4) | 2:13 | 2023-10-03 | 2023-10-11 |
@@ -2360,6 +2363,7 @@
 | [Howlin' collective](https://open.spotify.com/track/4WHnPGqTUL3N6cZUnlpFs3) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [Howlin' collective](https://open.spotify.com/album/6z2oEKSbhMUf69NsF8NFOj) | 3:53 | 2024-09-17 | 2024-09-25 |
 | [HOWLING](https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 3:08 | 2024-11-13 | 2024-11-20 |
 | [hug](https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [hug](https://open.spotify.com/album/0boGoIknbk1cBA76Icgov7) | 3:49 | 2024-01-23 | 2024-01-31 |
+| [Hug](https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Hug](https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2) | 3:54 | 2025-01-08 |  |
 | [hug.](https://open.spotify.com/track/7MhElI8fkwK5W4w5o8KMQw) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [Crop](https://open.spotify.com/album/1TV3g1CcsSAQcqAtkLp7Dm) | 3:54 | 2023-09-19 | 2023-09-27 |
 | [humor](https://open.spotify.com/track/594hQgJXtxeKMQmmynW7v7) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [humor](https://open.spotify.com/album/2gh8V8l5FV3UKrV69AfI6x) | 3:07 | 2023-09-19 | 2023-09-27 |
 | [Hunger for Blood](https://open.spotify.com/track/4XWtoH8HAjk3IHb86SIPqF) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Hunger for Blood](https://open.spotify.com/album/3mgNcr1KZEYsmQngQW7s9H) | 3:31 | 2023-04-11 | 2023-04-19 |

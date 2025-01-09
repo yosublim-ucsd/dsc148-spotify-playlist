@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 518877,
+  "num_followers": 519064,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "soso (JOSEPH Remix)",
+        "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "JOSEPH (CH)",
+          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "soso - JOSEPH Remix",
+      "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "Perreo",
         "url": "https://open.spotify.com/album/6sx32X0E7IXfWLH3ldmNd4"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 252000,
       "name": "Perreo",
       "url": "https://open.spotify.com/track/2FXVpbS6z7ctOV55h9ozCZ"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "soso (JOSEPH Remix)",
-        "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "JOSEPH (CH)",
-          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "soso - JOSEPH Remix",
-      "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Endlessly",
-        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
-        }
-      ],
-      "duration_ms": 217377,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Moving (Francis Mercier Remix)",
         "url": "https://open.spotify.com/album/2lZikxXCTlfUBRdT5LUukG"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 214000,
       "name": "Moving - Francis Mercier Remix",
       "url": "https://open.spotify.com/track/65IyK1KiAsXlG2eUCrRbCX"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        }
+      ],
+      "duration_ms": 217377,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Born In Blue",
-        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
-      },
-      "artists": [
-        {
-          "name": "Chambord",
-          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
-        },
-        {
-          "name": "Jaguar Jaguar",
-          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
-        }
-      ],
-      "duration_ms": 290737,
-      "name": "Born In Blue",
-      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 176528,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Born In Blue",
+        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
+      },
+      "artists": [
+        {
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
+        }
+      ],
+      "duration_ms": 290737,
+      "name": "Born In Blue",
+      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "Kidz",
+        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Kidz",
+      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "W4U (feat. Jen)",
         "url": "https://open.spotify.com/album/39syP387YYwH46TnrvcpbP"
       },
@@ -1715,42 +1731,22 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Kidz",
-        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1"
       },
       "artists": [
         {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Kidz",
-      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "If I Live Forever (Arodes Remix)",
-        "url": "https://open.spotify.com/album/4zdiSlhmtrvSSqSB8WUDsk"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         },
         {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        },
-        {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
         }
       ],
-      "duration_ms": 401951,
-      "name": "If I Live Forever - Arodes Remix",
-      "url": "https://open.spotify.com/track/7bRYAHnP7t9zkB0ZE8k4zb"
+      "duration_ms": 202741,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1775,22 +1771,26 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1"
+        "name": "If I Live Forever (Arodes Remix)",
+        "url": "https://open.spotify.com/album/4zdiSlhmtrvSSqSB8WUDsk"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
         }
       ],
-      "duration_ms": 202741,
-      "name": "Flora",
-      "url": "https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As"
+      "duration_ms": 401951,
+      "name": "If I Live Forever - Arodes Remix",
+      "url": "https://open.spotify.com/track/7bRYAHnP7t9zkB0ZE8k4zb"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Darling (with Aloe Blacc)",
-        "url": "https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 272542,
-      "name": "Darling (with Aloe Blacc)",
-      "url": "https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "Dakar",
         "url": "https://open.spotify.com/album/2PRUftf1n9Bu1Om6xMBQH2"
       },
@@ -1891,6 +1871,26 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
+        "name": "Darling (with Aloe Blacc)",
+        "url": "https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 272542,
+      "name": "Darling (with Aloe Blacc)",
+      "url": "https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
         "name": "More Than You Know (Mont Rouge Remix)",
         "url": "https://open.spotify.com/album/2xcHnccKBW1goMln303boT"
       },
@@ -1907,6 +1907,22 @@
       "duration_ms": 405853,
       "name": "More Than You Know - Mont Rouge Remix",
       "url": "https://open.spotify.com/track/2F8eiUxSGMbRYr62P27XI9"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Longlivedad",
+        "url": "https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 215322,
+      "name": "Longlivedad",
+      "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -1951,22 +1967,6 @@
       "duration_ms": 212231,
       "name": "Yara",
       "url": "https://open.spotify.com/track/0ahreZE7HlAcG4UguRmjnV"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
-        "name": "Longlivedad",
-        "url": "https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 215322,
-      "name": "Longlivedad",
-      "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
     },
     {
       "added_at": "2025-01-04 02:16:35",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2025-01-04 02:16:35",
       "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
-      },
-      "artists": [
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
-    },
-    {
-      "added_at": "2025-01-04 02:16:35",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 263250,
       "name": "You Are",
       "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2025-01-04 02:16:35",
+      "album": {
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
     },
     {
       "added_at": "2025-01-04 02:16:35",

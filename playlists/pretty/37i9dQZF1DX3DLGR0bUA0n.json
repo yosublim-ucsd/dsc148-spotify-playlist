@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 70875,
+  "num_followers": 70931,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Estoy Aqu\u00ed",
-        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Que Viva Tierra Caliente",
-      "url": "https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Solo para Ti",
         "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 157573,
       "name": "Me Va a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Estoy Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Que Viva Tierra Caliente",
+      "url": "https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
-      },
-      "artists": [
-        {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
         "url": "https://open.spotify.com/album/4j3MTUsDymuLJGsJpuOXMK"
       },
@@ -1059,6 +1043,38 @@
       "duration_ms": 183160,
       "name": "La Luz de Tus Ojos / Cuesti\u00f3n Olvidada",
       "url": "https://open.spotify.com/track/2vLPZ5KsckjEa4EuYyHy5t"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Camionero",
+        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
+      },
+      "artists": [
+        {
+          "name": "Los Kapsi",
+          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "El Camionero",
+      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Camionero",
-        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
-      },
-      "artists": [
-        {
-          "name": "Los Kapsi",
-          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "El Camionero",
-      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Rolonononas Pa la Raza",
         "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
-      },
-      "artists": [
-        {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Preso Me Llevan",
-      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Puras Pa' bailar (Primera Tanda)",
         "url": "https://open.spotify.com/album/4ZFZZDIKWdrTYA2dn7Z94j"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
+        "name": "El Amor de Tu Vida",
+        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
         "name": "Los Huaches Vip 2015",
         "url": "https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 188397,
       "name": "Conchita Del Mar",
       "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
+      },
+      "artists": [
+        {
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Preso Me Llevan",
+      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "El Amor de Tu Vida",
-        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+        "name": "Somos Mas Americanos",
+        "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
       },
       "artists": [
         {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
         }
       ],
-      "duration_ms": 278866,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
+      "duration_ms": 210092,
+      "name": "Se Termino Lo Nuestro",
+      "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1251,22 +1267,6 @@
       "duration_ms": 145124,
       "name": "Con Cartitas y Palabras",
       "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Somos Mas Americanos",
-        "url": "https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 210092,
-      "name": "Se Termino Lo Nuestro",
-      "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
+        "name": "Cuando Los Hombres Lloran",
+        "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
+      },
+      "artists": [
+        {
+          "name": "Josecito Leon y Su Internacional Banda Roja",
+          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
+        }
+      ],
+      "duration_ms": 156288,
+      "name": "Cuando Los Hombres Lloran",
+      "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
         "name": "Casita de Adobe",
         "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
       },
@@ -1315,6 +1331,38 @@
       "duration_ms": 239737,
       "name": "Casita de Adobe",
       "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Puros Corridos Y No Cochadas (En Vivo)",
+        "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
+      },
+      "artists": [
+        {
+          "name": "Banda Primos de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
+        }
+      ],
+      "duration_ms": 179221,
+      "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+      "url": "https://open.spotify.com/track/2KL6g6m4az5JaqsA4XCWtE"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Made in Michoacan",
+        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
+      },
+      "artists": [
+        {
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1351,54 +1399,6 @@
       "duration_ms": 174706,
       "name": "Vida de Rancho (Zapateado)",
       "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Cuando Los Hombres Lloran",
-        "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
-      },
-      "artists": [
-        {
-          "name": "Josecito Leon y Su Internacional Banda Roja",
-          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
-        }
-      ],
-      "duration_ms": 156288,
-      "name": "Cuando Los Hombres Lloran",
-      "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Puros Corridos Y No Cochadas (En Vivo)",
-        "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
-      },
-      "artists": [
-        {
-          "name": "Banda Primos de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/1uUzlMy4Pkmsl3irBrKUWQ"
-        }
-      ],
-      "duration_ms": 179221,
-      "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-      "url": "https://open.spotify.com/track/2KL6g6m4az5JaqsA4XCWtE"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Made in Michoacan",
-        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
-      },
-      "artists": [
-        {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1487,34 +1487,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
+        "name": "Guerra De Corridos",
+        "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
       },
       "artists": [
         {
-          "name": "Severo Benito y Su Banda Cachas de Oro",
-          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
         }
       ],
-      "duration_ms": 170733,
-      "name": "La Grapa",
-      "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Inspirados por Ti",
-        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 256671,
-      "name": "La Ultima Copa",
-      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
+      "duration_ms": 152466,
+      "name": "Mis Errores Pagando",
+      "url": "https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Guerra De Corridos",
-        "url": "https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG"
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
       },
       "artists": [
         {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+          "name": "Severo Benito y Su Banda Cachas de Oro",
+          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
         }
       ],
-      "duration_ms": 152466,
-      "name": "Mis Errores Pagando",
-      "url": "https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS"
+      "duration_ms": 170733,
+      "name": "La Grapa",
+      "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1563,6 +1547,22 @@
       "duration_ms": 168120,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Inspirados por Ti",
+        "url": "https://open.spotify.com/album/2ry1zWDPSGTlIXUavbiDSb"
+      },
+      "artists": [
+        {
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+        }
+      ],
+      "duration_ms": 256671,
+      "name": "La Ultima Copa",
+      "url": "https://open.spotify.com/track/1ayYCul1JRvWG1AhUzFFGU"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Como Diablos Te Olvido",
-        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
-      },
-      "artists": [
-        {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
-        }
-      ],
-      "duration_ms": 141870,
-      "name": "Mujer, Mujer",
-      "url": "https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Puros Corridos Y No Cochadas (En Vivo)",
         "url": "https://open.spotify.com/album/407lhjUhLBjWKwJK4UXXI3"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 169226,
       "name": "Yo Ya Sab\u00eda Pa'D\u00f3nde Iba (En Vivo)",
       "url": "https://open.spotify.com/track/6UvzYxfJeEd1cKdYI9w7Gm"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Como Diablos Te Olvido",
+        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
+      },
+      "artists": [
+        {
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+        }
+      ],
+      "duration_ms": 141870,
+      "name": "Mujer, Mujer",
+      "url": "https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "\u00bfComo Le Hiciste?",
-        "url": "https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6"
-      },
-      "artists": [
-        {
-          "name": "Banda los Coste\u00f1os",
-          "url": "https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ"
-        }
-      ],
-      "duration_ms": 207925,
-      "name": "\u00bfComo Le Hiciste?",
-      "url": "https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Para el Amor de Mi Vida",
         "url": "https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 240248,
       "name": "Para El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "\u00bfComo Le Hiciste?",
+        "url": "https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6"
+      },
+      "artists": [
+        {
+          "name": "Banda los Coste\u00f1os",
+          "url": "https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ"
+        }
+      ],
+      "duration_ms": 207925,
+      "name": "\u00bfComo Le Hiciste?",
+      "url": "https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
+        "name": "Ojos Negros Nunca Enganan",
+        "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rebeldia",
+          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
+        }
+      ],
+      "duration_ms": 192104,
+      "name": "Ojos Negros Nunca Enga\u00f1an",
+      "url": "https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
         "name": "No Traigo 45",
         "url": "https://open.spotify.com/album/1k5H0rnSdBvZ5RhqsfcmB1"
       },
@@ -1975,6 +1991,22 @@
       "duration_ms": 196220,
       "name": "Bonito Tierra Caliente",
       "url": "https://open.spotify.com/track/1KoRFIQxCMEnzqlFQB2jmA"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Extendiendo Territorio",
+        "url": "https://open.spotify.com/album/5cw2jkYrpKjGZYNRt7d0Zc"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 245690,
+      "name": "El Americano",
+      "url": "https://open.spotify.com/track/1iGDwwOVyMQJhF58cV36U0"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1999,22 +2031,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Extendiendo Territorio",
-        "url": "https://open.spotify.com/album/5cw2jkYrpKjGZYNRt7d0Zc"
-      },
-      "artists": [
-        {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        }
-      ],
-      "duration_ms": 245690,
-      "name": "El Americano",
-      "url": "https://open.spotify.com/track/1iGDwwOVyMQJhF58cV36U0"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Somos Rancheros",
         "url": "https://open.spotify.com/album/7tuvZu1XI5i4Sy4tdRsPGl"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 171875,
       "name": "El Huerfanito",
       "url": "https://open.spotify.com/track/36fe7FKYbtQ4eAhgTWK5Kr"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Ojos Negros Nunca Enganan",
-        "url": "https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ"
-      },
-      "artists": [
-        {
-          "name": "Banda Rebeldia",
-          "url": "https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH"
-        }
-      ],
-      "duration_ms": 192104,
-      "name": "Ojos Negros Nunca Enga\u00f1an",
-      "url": "https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX"
     },
     {
       "added_at": "2024-12-20 06:00:10",

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: あっこゴリラ
 
-2,064 songs - 5 day 8 hr 41 min
+2,065 songs - 5 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1421,7 +1421,7 @@
 | [なんでもいいよ](https://open.spotify.com/track/4FXWTJcXPOQl37zFvJmsnu) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [なんでもいいよ \- Single](https://open.spotify.com/album/7yeW0A4CI1te45gQg3QvZZ) | 4:06 | 2023-12-12 | 2024-01-10 |
 | [なんとなく春](https://open.spotify.com/track/7hf7GFoyVHIavtkfXTywO3) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [なんとなく春](https://open.spotify.com/album/4Dqx9HZFfEJnfBJkrJoJkR) | 4:49 | 2023-03-21 | 2023-03-23 |
 | [ぬくもりはたしかに](https://open.spotify.com/track/5qrpYQOcdXx5R4BVAf76If) | [スーパーノア](https://open.spotify.com/artist/54Eb2c0kXE5lvyL3W1LmZ7) | [ぬくもりはたしかに](https://open.spotify.com/album/5HZHsN1e731jgWEFzfBzXI) | 6:27 | 2023-01-12 | 2023-02-03 |
-| [ぬけがらの海](https://open.spotify.com/track/3I8kQW6EOVEbmODNbv5Mbh) | [Jacob Tanaka](https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG) | [ただようだけ \(Side A\)](https://open.spotify.com/album/3c6q1M9lq78uOPZSx1ua0G) | 3:40 | 2024-11-13 |  |
+| [ぬけがらの海](https://open.spotify.com/track/3I8kQW6EOVEbmODNbv5Mbh) | [Jacob Tanaka](https://open.spotify.com/artist/1DxNEhiV9wnWn1ZcAjjOMG) | [ただようだけ \(Side A\)](https://open.spotify.com/album/3c6q1M9lq78uOPZSx1ua0G) | 3:40 | 2024-11-13 | 2025-01-09 |
 | [ねがいごと](https://open.spotify.com/track/38AYKLW593mK4eDD7JMrd2) | [toronto](https://open.spotify.com/artist/6WNSwXtvWiQfX8585ExQNR) | [こころとあたまをつなぐ](https://open.spotify.com/album/5835qjBe2RDQdJjvQU5sS3) | 5:18 | 2023-02-21 | 2023-03-08 |
 | [ねむれよ、ねむれ](https://open.spotify.com/track/3RBUmq6QZ4Zq9pdLFgz36M) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [異\(上\)](https://open.spotify.com/album/0HwI44aaeZf4RXcCuvL3oW) | 2:37 | 2024-01-30 | 2024-03-21 |
 | [のと鉄道の夜](https://open.spotify.com/track/3bRfgBhGopZaKecWHl24wy) | [よく吠えるいぬ](https://open.spotify.com/artist/0SEaqIEsWB1SCO7wwvlZft) | [のと鉄道の夜](https://open.spotify.com/album/7Ekba53NraRBD6FnTSeh1X) | 2:17 | 2025-01-07 |  |
@@ -1749,6 +1749,7 @@
 | [夕陽](https://open.spotify.com/track/50LOQDfaIwCDXWor7PkyS3) | [sawamay](https://open.spotify.com/artist/0pXaWX4t0zSi9TzhoKBd55) | [夕陽](https://open.spotify.com/album/5R5PTG0i4VEoeOE3YXMHKM) | 3:24 | 2023-12-12 | 2023-12-20 |
 | [多摩ナンバー](https://open.spotify.com/track/5d0pbo32LMqR2iQQQRf7Ea) | [有元キイチ](https://open.spotify.com/artist/4mXPdNMeJL46dJWUEdYwW8) | [Tama,Tokyo](https://open.spotify.com/album/4aXMpRhKLcI3OEUDD0mp6m) | 4:16 | 2024-01-23 | 2024-01-31 |
 | [夜が明けたら私たち](https://open.spotify.com/track/7g7aXtGi28jYS7sEvjGIp7) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [いい気分さ](https://open.spotify.com/album/2XPA0PXFm2YHiweBeNphCe) | 4:47 | 2023-07-18 | 2023-07-20 |
+| [夜だけが知っている](https://open.spotify.com/track/2oBiYXYJLcUWhTG5obSKY7) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [夜だけが知っている](https://open.spotify.com/album/6C6NRCjaSzC2zBj2KQnR7B) | 4:47 | 2025-01-07 |  |
 | [夜のららら](https://open.spotify.com/track/6IltMqjzbV2jgcIbhvKwp1) | [東京センチメンタル馬鹿野郎](https://open.spotify.com/artist/5nCYpkieNwNDzzxKnuSqbI) | [夜のららら](https://open.spotify.com/album/6ic6zXC7FmvmKZ7yi8Ezth) | 4:02 | 2024-04-16 | 2024-04-24 |
 | [夜のドライブ](https://open.spotify.com/track/0ll580m9IDvoBQhNW0R9Ey) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [夜のドライブ](https://open.spotify.com/album/4JzdbI9bXhsBYvPBg59m2G) | 3:17 | 2023-08-15 | 2023-08-23 |
 | [夜の流れ](https://open.spotify.com/track/4QL8gzhgrPMsEjnSO76Yfp) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 4:36 | 2023-04-27 | 2023-05-23 |

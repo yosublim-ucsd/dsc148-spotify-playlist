@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 102804,
+  "num_followers": 102855,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Ele Pode Fazer",
+        "url": "https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V"
+      },
+      "artists": [
+        {
+          "name": "Lorhann",
+          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+        }
+      ],
+      "duration_ms": 150510,
+      "name": "Ele Pode Fazer",
+      "url": "https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Aqui Vou Eu",
         "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 260400,
       "name": "Aqui Vou Eu",
       "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Ele Pode Fazer",
-        "url": "https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V"
-      },
-      "artists": [
-        {
-          "name": "Lorhann",
-          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
-        }
-      ],
-      "duration_ms": 150510,
-      "name": "Ele Pode Fazer",
-      "url": "https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Teu Esconderijo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 349928,
-      "name": "Teu Esconderijo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Esque\u00e7o At\u00e9 o Tempo",
         "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 159825,
       "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Teu Esconderijo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 349928,
+      "name": "Teu Esconderijo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "SOCORRO",
-        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 245744,
-      "name": "SOCORRO",
-      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "A Melhor Hist\u00f3ria",
         "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "SOCORRO",
+        "url": "https://open.spotify.com/album/0SlvlaBGd8P2dZ9hcKmHyU"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 245744,
+      "name": "SOCORRO",
+      "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "YESHUA",
-        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 160663,
-      "name": "YESHUA",
-      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Nossa Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 245019,
       "name": "Escrevi (Legado)",
       "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "YESHUA",
+        "url": "https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 160663,
+      "name": "YESHUA",
+      "url": "https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Testemunho",
-        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
-      },
-      "artists": [
-        {
-          "name": "Avipa",
-          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Testemunho",
-      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
+      },
+      "artists": [
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Testemunho",
+      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
-      },
-      "artists": [
-        {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Enganoso Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 190023,
       "name": "Enganoso Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+      },
+      "artists": [
+        {
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2024-11-29 03:01:00",

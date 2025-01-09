@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,632 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,660 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 12 | [我對你的愛沒有盡頭](https://open.spotify.com/track/5oNjVkldR2SIT8L4icZttY) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [我對你的愛沒有盡頭](https://open.spotify.com/album/6kT2gk9ImzVsmamdZdh12p) | 4:02 |
 | 13 | [淚橋](https://open.spotify.com/track/0NAcDn6U2GB2Arhspmh38S) | [Wu Bai](https://open.spotify.com/artist/5H8TJITZE1sPjVR2ACzXNS) | [淚橋](https://open.spotify.com/album/1fftoYj9WigATga9iinkqr) | 3:45 |
 | 14 | [她是誰](https://open.spotify.com/track/1GOM2I6F2ulhxO4oabuvhh) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [她是誰](https://open.spotify.com/album/2RsjjlLJTXnv2NLv62Fybu) | 3:08 |
-| 15 | [想了不只幾百次](https://open.spotify.com/track/13lny4YhijJonRvDN7Doy5) | [PPlin](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw), [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [想了不只幾百次](https://open.spotify.com/album/5qQ0LIJcEyi45TplPdpAU0) | 3:10 |
+| 15 | [想了不只幾百次](https://open.spotify.com/track/13lny4YhijJonRvDN7Doy5) | [PPlin 林芃逸](https://open.spotify.com/artist/3Uyoh0bVOm6AkGEt8YI8u8), [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [想了不只幾百次](https://open.spotify.com/album/5qQ0LIJcEyi45TplPdpAU0) | 3:10 |
 | 16 | [要錢不要命](https://open.spotify.com/track/7gwN7t0Nr1zCvWq0JN2bUh) | [彫柏](https://open.spotify.com/artist/209UlIcvG9uht6oSd5s0IN), [Young Henry](https://open.spotify.com/artist/3YY8Pj4F5sJCUcCfiR1aq7) | [要錢不要命](https://open.spotify.com/album/60VMAdK4VhB1TdUYdRDVH9) | 3:23 |
 | 17 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 |
 | 18 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 23 | [愛不愛我](https://open.spotify.com/track/5Mxrr2d5V0f5btmaxm1w3X) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [情歌手](https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5) | 4:43 |
 | 24 | [你的酒馆对我打了烊](https://open.spotify.com/track/6i2lPTXmSUsJ2x7NMzsLeG) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [你的酒馆对我打了烊](https://open.spotify.com/album/6uThctRZuQETrI6qyPl2Ck) | 4:11 |
 | 25 | [Woody](https://open.spotify.com/track/6S1JhalUapj0WoE8fKsaZ2) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 3:18 |
-| 26 | [最後一班車](https://open.spotify.com/track/2Xe9BalAo8ryezvsp2yPAs) | [PPlin](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [最後一班車](https://open.spotify.com/album/4lcbQskGqnjH39FFs05huV) | 3:33 |
+| 26 | [最後一班車](https://open.spotify.com/track/2Xe9BalAo8ryezvsp2yPAs) | [PPlin 林芃逸](https://open.spotify.com/artist/3Uyoh0bVOm6AkGEt8YI8u8) | [最後一班車](https://open.spotify.com/album/4lcbQskGqnjH39FFs05huV) | 3:33 |
 | 27 | [天后](https://open.spotify.com/track/4D0KlK4Fl8lotvsoys1bYQ) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [再愛一遍‧天后陳勢安](https://open.spotify.com/album/7EYP32Kr9V27MBMdmBkUo0) | 4:49 |
 | 28 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
 | 29 | [Love Me More](https://open.spotify.com/track/2KcPdKlWtySA7XjxgTUKKW) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [kiki](https://open.spotify.com/album/7cA3NJk0tCecRbhEfWg6Pw) | 3:04 |

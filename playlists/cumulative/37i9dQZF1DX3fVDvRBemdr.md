@@ -2,7 +2,7 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollandse hits\. Cover: Manuel
+> De nieuwste Hollandse hits\. Cover: Django Wagner & Nelis Leeman
 
 196 songs - 9 hr 34 min
 

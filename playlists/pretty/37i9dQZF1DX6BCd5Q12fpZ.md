@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,554 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,547 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 12 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 |
 | 13 | [Dum Tek Tek](https://open.spotify.com/track/1l9jCFXKfkw33BwkGytqkO) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fast Life](https://open.spotify.com/album/6SeSSJmjBeh2Yxadm9sfnT) | 3:01 |
 | 14 | [Making Your Mind Up](https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc) | [Bucks Fizz](https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX) | [Bucks Fizz](https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb) | 2:38 |
-| 15 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 |
-| 16 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
+| 15 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
+| 16 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 |
 | 17 | [Only Teardrops](https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp) | 3:03 |
 | 18 | [Rise Like A Phoenix](https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Rise Like A Phoenix](https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p) | 3:01 |
 | 19 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 40 | [Lipstick \- Radio Edit](https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Lipstick](https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA) | 2:55 |
 | 41 | [Monsters](https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b) | [Saara Aalto](https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn) | [Monsters](https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429) | 3:00 |
 | 42 | [La det swinge](https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [Bobbysocks / Let It Swing \- The Best Of Bobbysocks](https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T) | 2:56 |
-| 43 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
+| 43 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
 | 44 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
-| 45 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
+| 45 | [\(I Would\) Die For You](https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL) | [Antique](https://open.spotify.com/artist/1rxRotylejS3RfFQa2Wd1G) | [Pärlor \- Antique](https://open.spotify.com/album/2HThN1swgwLlrnB3DCHNdU) | 2:58 |
 | 46 | [Say It Again](https://open.spotify.com/track/04JxhBP7tjz5tWrcUKisdY) | [Precious](https://open.spotify.com/artist/0ZhPS80sMbmVgzOkMPKNpn) | [Precious](https://open.spotify.com/album/6OeH9eSf6GOu9sreWGDwlo) | 2:58 |
 | 47 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
 | 48 | [Waterline](https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Young Love](https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx) | 3:03 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 55 | [No Goodbyes \- Radio Edit](https://open.spotify.com/track/4OxAOffBcJqxGFn9R5KxYV) | [Linda Wagenmakers](https://open.spotify.com/artist/17VNqIp4uNwTgubkmWEQAS) | [Laat Me Vrij Om Te Gaan](https://open.spotify.com/album/7jN5yj0qzlddxWGQYjacUV) | 3:07 |
 | 56 | [Echo \(You and I\)](https://open.spotify.com/track/1iqnkBWge47Yhboceuceas) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Echoes \(International Special Edition\)](https://open.spotify.com/album/3JZcY2zAtYBDP0B2Gq7lnU) | 3:03 |
 | 57 | [Ding\-A\-Dong](https://open.spotify.com/track/1UrZB49sPYlTuNA7fdC0cb) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Guitar Heroes From Holland](https://open.spotify.com/album/05cPprskuDLgpnV7GPFCLf) | 2:29 |
-| 58 | [We Are the Winners \- Original Version](https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02) | [LT United](https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4) | [We Are the Winners](https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9) | 2:31 |
-| 59 | [Where Are You](https://open.spotify.com/track/1GrTNrHkL2WlK1rNp7OBs8) | [Imaani](https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi) | [Classic Dance Essentials](https://open.spotify.com/album/0Accg6wst7dQsa1nT4fxvf) | 3:14 |
+| 58 | [Where Are You](https://open.spotify.com/track/1GrTNrHkL2WlK1rNp7OBs8) | [Imaani](https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi) | [Classic Dance Essentials](https://open.spotify.com/album/0Accg6wst7dQsa1nT4fxvf) | 3:14 |
+| 59 | [We Are the Winners \- Original Version](https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02) | [LT United](https://open.spotify.com/artist/0J5IwFSGSb8BaJAFATnlg4) | [We Are the Winners](https://open.spotify.com/album/3cnlnaHwgCq4iZaywK9tG9) | 2:31 |
 | 60 | [Is It True?](https://open.spotify.com/track/4uaMcAjtOhaYYpd36DmxbI) | [Yohanna](https://open.spotify.com/artist/1aGU3AHmLXWR7JcAXiG3t3) | [Is It True?](https://open.spotify.com/album/04BCoECaXxVHpWxJRb3qqt) | 3:00 |
 | 61 | [A\-Ba\-Ni\-Bi \- 1978, Israel](https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm) | [The Eurosingers](https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb) | [Grand Prix \- Greatest Hits](https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa) | 3:01 |
 | 62 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |

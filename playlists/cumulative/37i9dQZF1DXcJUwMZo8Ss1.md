@@ -2,15 +2,15 @@
 
 ### [Hot Hits UAE](https://open.spotify.com/playlist/37i9dQZF1DXcJUwMZo8Ss1)
 
-> Find out the hottest tracks in the UAE\. Cover: The Weeknd
+> Find out the hottest tracks in the UAE\. Cover: Coldplay
 
-86 songs - 4 hr 43 min
+88 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\( Saudi \) حزين الوقت](https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf) | [Rap Shar3](https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M), [Djmubarak](https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ) | [\( Saudi \) حزين الوقت](https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn) | 3:30 | 2024-07-10 |  |
 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 | 2024-07-08 | 2024-10-26 |
-| [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/album/3UFJUJXBdfDRd2qRZ9ijyn) | 3:48 | 2024-08-07 |  |
+| [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/album/3UFJUJXBdfDRd2qRZ9ijyn) | 3:48 | 2024-08-07 | 2025-01-09 |
 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 | 2024-07-16 |  |
 | [Aayi Aayi](https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK) | [Noman Ali Rajper](https://open.spotify.com/artist/0C5woxKQWlOaYpJc1X7FXF), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [Aayi Aayi](https://open.spotify.com/album/0PKYVXoodEp9XOtXdjt8QQ) | 4:49 | 2024-06-27 |  |
 | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr) | 2:51 | 2024-06-27 | 2024-08-08 |
@@ -36,7 +36,8 @@
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-06-27 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 |  |
 | [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 | 2024-10-25 |  |
-| [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2024-08-07 |  |
+| [feelslikeimfallinginlove](https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:56 | 2025-01-08 |  |
+| [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2024-08-07 | 2025-01-09 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-08-07 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-08-07 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-06-27 | 2024-08-08 |
@@ -84,6 +85,7 @@
 | [Thick Of It \(feat\. Trippie Redd\)](https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Thick Of It \(feat\. Trippie Redd\) / Low](https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH) | 2:40 | 2024-10-25 |  |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-25 |  |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-06-27 |  |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2025-01-08 |  |
 | [Wainek Min Zaman](https://open.spotify.com/track/1R69Raqo1YOHxk2fOpk9xS) | [Yazan Haifawi](https://open.spotify.com/artist/1XNUjQOaJHx64HU5plUCdO) | [Wahad](https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV) | 3:13 | 2024-06-27 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-06-27 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-06-27 |  |

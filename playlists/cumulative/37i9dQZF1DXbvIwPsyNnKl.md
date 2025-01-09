@@ -2,9 +2,9 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Zae & Hev Abi
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: O SIDE MAFIA, BRGR
 
-217 songs - 12 hr 16 min
+218 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 | 2024-02-21 |  |
 | [Inggit](https://open.spotify.com/track/2dH0lzbyKIuVTGyDHFtumv) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Trifecta](https://open.spotify.com/album/5NAUTZ43wAdqA346UPOEza) | 4:10 | 2024-03-20 | 2024-08-22 |
 | [Isang Beses](https://open.spotify.com/track/7FmrSekyn3m6UN7h8FJvaU) | [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Jasmine](https://open.spotify.com/artist/0nnQ5HwvceNi7bIVUGLvPy) | [Isang Beses](https://open.spotify.com/album/3klZsdnmdLM5aPOrjtI7qs) | 2:30 | 2024-01-31 | 2024-03-07 |
-| [julie pakipot](https://open.spotify.com/track/0mAzGN40qLHmKL5uMKV8Ht) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [bahay namin maliit lamang](https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt) | 2:15 | 2024-08-29 |  |
+| [julie pakipot](https://open.spotify.com/track/0mAzGN40qLHmKL5uMKV8Ht) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [bahay namin maliit lamang](https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt) | 2:15 | 2024-08-29 | 2025-01-09 |
 | [Kagome](https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Kagome](https://open.spotify.com/album/4CIT1BsHQams5FP5RUSydD) | 3:58 | 2023-09-20 | 2024-04-19 |
 | [Kaibigan](https://open.spotify.com/track/24fB3JRFXxNVYEzW5mZnDj) | [1096 Gang](https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH) | [Kaibigan](https://open.spotify.com/album/3Wh4hOkO7kaNzmvuYuji6Z) | 4:37 | 2023-09-20 | 2023-11-02 |
 | [Kalangitan](https://open.spotify.com/track/1rLqFcM9X3pCnepVYuaObV) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL) | [Kalangitan](https://open.spotify.com/album/7wo9rPlSJ6j31Ayu31Co50) | 2:48 | 2024-02-07 | 2024-03-07 |
@@ -199,6 +199,7 @@
 | [SUBOMOTO \- Hev Abi Remix](https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [SUBOMOTO \(Hev Abi Remix\)](https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl) | 2:58 | 2024-11-06 |  |
 | [Summer Madness](https://open.spotify.com/track/6z6qqKOLvJd4YDZk3sTEo7) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT), [Buddhabeads](https://open.spotify.com/artist/4QJs0LNC1QSCOqhwi6BjSG), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Summer Madness](https://open.spotify.com/album/1UeObA1xLnOYTIw7WJVQAj) | 3:56 | 2023-11-08 | 2023-12-21 |
 | [Sumugal](https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc), [LK](https://open.spotify.com/artist/659T8eNSfEb4bPBKiTn4ww) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:01 | 2024-03-13 |  |
+| [Swanton Bomb](https://open.spotify.com/track/2RrTeVhmNxAZmAEVhkUtL1) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Swanton Bomb](https://open.spotify.com/album/41GDUh1cgsYr2kv3lAm6lT) | 2:24 | 2025-01-08 |  |
 | [talunan \(b4twenty freestyle\)](https://open.spotify.com/track/2Pu9B3qjWpAyjqWMFf4quE) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [talunan \(b4twenty freestyle\)](https://open.spotify.com/album/5VOxYu4iqFLZVvINIylola) | 2:45 | 2024-05-08 | 2024-07-02 |
 | [tama + mali](https://open.spotify.com/track/133dS5ZbtUVkaRdjJ9RJnI) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf), [Teys](https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun) | [tama + mali](https://open.spotify.com/album/5S3A8CskLxn28BprfXVDYs) | 3:25 | 2024-01-24 | 2024-07-25 |
 | [TATAWAG ULIT](https://open.spotify.com/track/3gXwmX6ieWdqEpTNiXOXnH) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [TATAWAG ULIT](https://open.spotify.com/album/0kYMgBAgt4Qba0tEAdxA9w) | 2:48 | 2024-04-10 | 2024-06-06 |

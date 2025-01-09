@@ -2391,6 +2391,28 @@
     },
     {
       "album": {
+        "name": "Luj",
+        "url": "https://open.spotify.com/album/4w3SEFhcR99G9xUVsgitxy"
+      },
+      "artists": [
+        {
+          "name": "Butrint Imeri",
+          "url": "https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "LUJ",
+      "url": "https://open.spotify.com/track/4KyW8q0wRd4OSznGrGOiYX"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6UBnhnwPBXn96Nc7B58csV"
       },
@@ -3054,7 +3076,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 142508,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/1udtNC01aJJqdFkfUZ3HnQ"

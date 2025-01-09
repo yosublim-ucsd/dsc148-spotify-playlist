@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Ed Sheeran",
-  "num_followers": 70585,
+  "num_followers": 70600,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Rehab - Live On Jools Holland",
-      "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "The Man (Live From Paris)",
         "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 219385,
       "name": "The Man - Live From Paris",
       "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Rehab - Live On Jools Holland",
+      "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "You Need To Calm Down (Live From Paris)",
-        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 203960,
-      "name": "You Need To Calm Down - Live From Paris",
-      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
+      "duration_ms": 230800,
+      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+        "name": "You Need To Calm Down (Live From Paris)",
+        "url": "https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 230800,
-      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
+      "duration_ms": 203960,
+      "name": "You Need To Calm Down - Live From Paris",
+      "url": "https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "ME! (Live From Paris)",
-        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "ME! - Live From Paris",
-      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Ego Talking (Live)",
@@ -655,6 +639,22 @@
       "duration_ms": 312800,
       "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
       "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "ME! (Live From Paris)",
+        "url": "https://open.spotify.com/album/1jIp7CChnwdj9zUCvPxzQ7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "ME! - Live From Paris",
+      "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
-        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 312138,
-      "name": "betty - Live from the 2020 Academy of Country Music Awards",
-      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "BLACKPINK 2021 'THE SHOW' LIVE",
         "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "betty (Live from the 2020 Academy of Country Music Awards)",
+        "url": "https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 312138,
+      "name": "betty - Live from the 2020 Academy of Country Music Awards",
+      "url": "https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "The Confessions Tour (Live)",
         "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Best Song Ever (From THIS IS US)",
-        "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
-      "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "In The Stars (Live Version)",
         "url": "https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 255139,
       "name": "In The Stars - Live Version",
       "url": "https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Best Song Ever (From THIS IS US)",
+        "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
+      "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Stark Naked and Absolutely Live",
-        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Live Friday The 13th",
         "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 379013,
       "name": "She Will Be Loved - Live",
       "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Stark Naked and Absolutely Live",
+        "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 256740,
-      "name": "Treat You Better - Live",
-      "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 267263,
       "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
       "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 256740,
+      "name": "Treat You Better - Live",
+      "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Warwick Avenue (Live)",
-        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Warwick Avenue - Live",
-      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 396565,
       "name": "Stitches - Live",
       "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Warwick Avenue (Live)",
+        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Warwick Avenue - Live",
+      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
     },
     {
       "added_at": "2024-10-18 19:54:54",

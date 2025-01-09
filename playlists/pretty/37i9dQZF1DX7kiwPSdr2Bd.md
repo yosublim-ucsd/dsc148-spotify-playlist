@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,050 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,129 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 41 | [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 |
 | 42 | [Me Atraiu \(Reimagined\)](https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Reimagined\)](https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR) | 4:24 |
 | 43 | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC) | 4:29 |
-| 44 | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d) | 5:20 |
+| 44 | [Tudo Que Eu Mais Quero \- Ao Vivo](https://open.spotify.com/track/5VB7JfCSoz3RMa8GEEvHci) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Tudo Que Eu Mais Quero \(Ao Vivo\)](https://open.spotify.com/album/6W8Ch6uLZ9ockPgmPJpBlu) | 4:15 |
 | 45 | [Um Milhão de Vezes \- Ao Vivo](https://open.spotify.com/track/3ozxp7Jde9AAbBycLmyetV) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Um Milhão de Vezes \(Ao Vivo\)](https://open.spotify.com/album/7IMuWFyccEHVI2qJocfD9I) | 4:18 |
-| 46 | [Tudo Que Eu Mais Quero \- Ao Vivo](https://open.spotify.com/track/5VB7JfCSoz3RMa8GEEvHci) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Tudo Que Eu Mais Quero \(Ao Vivo\)](https://open.spotify.com/album/6W8Ch6uLZ9ockPgmPJpBlu) | 4:15 |
+| 46 | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d) | 5:20 |
 | 47 | [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 |
 | 48 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 |
 | 49 | [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 |

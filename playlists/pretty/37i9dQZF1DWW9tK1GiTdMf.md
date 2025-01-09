@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica che ti fa stare così ༼ ༎ຶ ෴ ༎ຶ༽ lola young in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,856 likes - 91 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,847 likes - 91 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
+| 1 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 |
 | 2 | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/track/4glV7yEkQD2QhP1xZiavsX) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/album/2guF4dj1vcCmcLLZ1L3MuM) | 3:06 |
 | 3 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
-| 4 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 |
-| 5 | [Piccolo](https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL) | 3:03 |
-| 6 | [x te che mi conosci così bene](https://open.spotify.com/track/2r8Aj7dh7AJ9FLN2fXsiFZ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:07 |
+| 4 | [Piccolo](https://open.spotify.com/track/6t0RyE0bH5OkYY2aCt1S8z) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/4O76YSMlGicdTD00XQSrxL) | 3:03 |
+| 5 | [x te che mi conosci così bene](https://open.spotify.com/track/2r8Aj7dh7AJ9FLN2fXsiFZ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:07 |
+| 6 | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/track/5zFRzVwX8mRofUGZ65u4ML) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [DAMMI UN SENSO ALLA FINE \(feat\. Rose Villain\)](https://open.spotify.com/album/3S22xabBnIoCaVxZOIqUtz) | 2:57 |
 | 7 | [un'altra idea di merda](https://open.spotify.com/track/1Py2OeeVKpZ151KedQHUYg) | [Ottobre](https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp) | [GOMME DA MASTICARE](https://open.spotify.com/album/6f7mUTeasKOwBBiWE5eAES) | 2:52 |
 | 8 | [Botte](https://open.spotify.com/track/0CTRjNW6rxOvxiLLKKSVSN) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Botte](https://open.spotify.com/album/45aAVeEMh2fHoc1vC5c4mh) | 2:19 |
 | 9 | [MUSiC](https://open.spotify.com/track/2akwlYigBedMJ18SCiM10R) | [JUCK](https://open.spotify.com/artist/76TFkKyjZt64sNPdTqJwqS) | [MUSiC](https://open.spotify.com/album/7EV6H3oWjPc1Rttmgq7nXZ) | 2:10 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 90 | [PILLS](https://open.spotify.com/track/2L95Nk8SGXzP26qBqhVJ5F) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [LA PARTE DEL MONDO CHE NON MI PIACE](https://open.spotify.com/album/1SdYzkHgjy3yFa8gGRU70G) | 2:37 |
 | 91 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 |
 
-Snapshot ID: `Z3cawAAAAADDQDhH/0TwunoES3ua7ds/`
+Snapshot ID: `Z35C3QAAAAB8ncZTprHxsNYyfnZs4SzQ`

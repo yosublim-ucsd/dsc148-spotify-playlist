@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 94729,
+  "num_followers": 94773,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
-    },
-    {
-      "added_at": "2024-07-13 01:13:49",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 227480,
       "name": "Amigos Con Derechos",
       "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
+    },
+    {
+      "added_at": "2024-07-13 01:13:49",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
     },
     {
       "added_at": "2024-07-13 01:13:49",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
-    },
-    {
-      "added_at": "2024-07-13 01:13:49",
-      "album": {
         "name": "X (feat. Maluma & Ozuna) [Remix]",
         "url": "https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 235746,
       "name": "X (feat. Maluma & Ozuna) - Remix",
       "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
+    },
+    {
+      "added_at": "2024-07-13 01:13:49",
+      "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf"
     },
     {
       "added_at": "2024-07-13 01:13:49",

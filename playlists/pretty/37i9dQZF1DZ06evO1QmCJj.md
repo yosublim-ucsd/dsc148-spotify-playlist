@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,228 likes - 52 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,245 likes - 52 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 27 | [MALA SUERTE](https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [MALA SUERTE](https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS) | 3:35 |
 | 28 | [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 |
 | 29 | [YO TENGO UN NOVIO](https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:24 |
-| 30 | [4 besos](https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [4 besos](https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC) | 3:52 |
-| 31 | [Trendy](https://open.spotify.com/track/6KS9MjBx9PnEetb0XUqGv6) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Trendy](https://open.spotify.com/album/7tSdas1MzZuLc0qdygQfm2) | 3:03 |
+| 30 | [Trendy](https://open.spotify.com/track/6KS9MjBx9PnEetb0XUqGv6) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Trendy](https://open.spotify.com/album/7tSdas1MzZuLc0qdygQfm2) | 3:03 |
+| 31 | [4 besos](https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [4 besos](https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC) | 3:52 |
 | 32 | [Mujer Bruja](https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:22 |
 | 33 | [SI TE VAS](https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mimi](https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:35 |
 | 34 | [Me Quedo](https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 2:54 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 51 | [Fuerte](https://open.spotify.com/track/3uXGLqSmVher9OpP23ao0G) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:03 |
 | 52 | [Nada A Nadie](https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:02 |
 
-Snapshot ID: `Z3sdAAAAAADy5uO1e2yM5j5OGxrtaZgO`
+Snapshot ID: `Z3xugAAAAABQVXIoU0D5abQ46hhb/g0K`

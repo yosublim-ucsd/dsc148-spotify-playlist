@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-708 songs - 1 day 12 hr 43 min
+709 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [A Little Thing Called Love](https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb) | [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [A Little Thing Called Love](https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q) | 2:50 | 2023-01-13 | 2023-02-17 |
 | [A Million Things](https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [A Million Things](https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv) | 3:07 | 2024-06-14 | 2024-09-10 |
 | [Abeke](https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Abeke](https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv) | 4:07 | 2024-07-05 | 2024-11-30 |
-| [act iv: fckin u again \(18+\)](https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [act iv: fckin u again \(18+\)](https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK) | 3:15 | 2024-07-19 |  |
+| [act iv: fckin u again \(18+\)](https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [act iv: fckin u again \(18+\)](https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK) | 3:15 | 2024-07-19 | 2025-01-09 |
 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 | 2023-06-02 | 2024-04-01 |
 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 | 2024-03-15 | 2024-05-09 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-04-05 | 2024-10-26 |
@@ -642,6 +642,7 @@
 | [Thoughts](https://open.spotify.com/track/5ITebkKgXkVWeGMzx9wiCs) | [Garey Godson](https://open.spotify.com/artist/1aUSlNPvVz5IYg9sSsEDPK), [Bruder](https://open.spotify.com/artist/6yFOu87T55YZcwqRH4MQSV), [Gustav Anders](https://open.spotify.com/artist/2XxerMANX0agr5C83zwgfy) | [Thoughts](https://open.spotify.com/album/7mRqHWPSn8WwhKSJmEAL7G) | 3:24 | 2024-02-16 | 2024-03-22 |
 | [Time N Affection](https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2022-06-24 | 2023-02-11 |
 | [Time Out](https://open.spotify.com/track/3EyKj3YyiJoyb4rnYfSfcD) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [PANIC](https://open.spotify.com/album/3kuA7IDrIq2FqIJXDoFeSZ) | 3:41 | 2023-10-13 | 2023-10-18 |
+| [Timeless](https://open.spotify.com/track/3EkBW1RjjYnjDl1DJKTT7m) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Timeless](https://open.spotify.com/album/4805JZGMvu1ZqzmPnbOl2R) | 3:25 | 2024-12-21 |  |
 | [Tiny Apartment](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 | 2024-06-21 |  |
 | [To You \(ft\. Ogranya\)](https://open.spotify.com/track/6MSMIDVpizkkdMMhKU082Y) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [To You](https://open.spotify.com/album/3pStwpL31q7JJaeQJH6VFZ) | 2:58 | 2023-07-20 | 2023-07-29 |
 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 | 2024-05-08 | 2024-08-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Ioulia Kalimani
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,326 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,330 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 27 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 |
 | 28 | [Savvato Vrady](https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Savvato Vrady](https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk) | 3:08 |
 | 29 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 |
-| 30 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 |
+| 30 | [De Mas Xorizei Tipota](https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv), [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [De Mas Xorizei Tipota](https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE) | 3:23 |
 | 31 | [Floga](https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Efhi](https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB) | 3:00 |
 | 32 | [7/7](https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [7/7](https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv) | 2:51 |
-| 33 | [De Mas Xorizei Tipota](https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv), [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [De Mas Xorizei Tipota](https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE) | 3:23 |
+| 33 | [Giati S' Emena](https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Giati S' Emena](https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw) | 3:18 |
 | 34 | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT) | 3:10 |
 | 35 | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS) | 3:28 |
 | 36 | [24 Ores](https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [24 Ores](https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844) | 3:17 |

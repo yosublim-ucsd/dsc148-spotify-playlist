@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,890 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,887 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 39 | [Ghostbusters](https://open.spotify.com/track/1VNB8G2Rq3RcQgo74OCHzp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:20 |
 | 40 | [Please Please Please](https://open.spotify.com/track/4KegIoLXt4cv3MgU4G0GYe) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Please Please Please](https://open.spotify.com/album/2CmK9RwQuLkYSkMFz4vzGC) | 3:03 |
 
-Snapshot ID: `Z3sdAAAAAADIglCxkgmnSXONoRoZ9IKL`
+Snapshot ID: `Z3xugAAAAADB4trgBt0Z7qQ9GyeK1T1o`

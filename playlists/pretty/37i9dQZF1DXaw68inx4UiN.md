@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,498 likes - 95 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,611 likes - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 36 | [Tropical Forest \- Rain and Birds](https://open.spotify.com/track/5MtCZdGKspLCFrnh0Gp2oB) | [Epic Nature Sounds](https://open.spotify.com/artist/3KCBnJE0Ww7kT7Z7CXlS7h) | [Rain Forest Birds](https://open.spotify.com/album/5JXFMCZS0auQFVWOrM1RIu) | 2:39 |
 | 37 | [Deep in the Rainforest](https://open.spotify.com/track/4bNwBIT6kPgxnhw16XF5mb) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |
 | 38 | [Birds & Passing Thunder](https://open.spotify.com/track/3ZrnxOOmcv1uHEmSM9b7vw) | [Solis Occasum](https://open.spotify.com/artist/6bKBTQOaODtyaHOJCnXMSd) | [Birds & Passing Thunder](https://open.spotify.com/album/7fZE4tCvRCTrqQHn8fvySj) | 3:38 |
-| 39 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
-| 40 | [Relaxing Afternoon Rain](https://open.spotify.com/track/6gfzHvzslUJYs1dVMMhyaF) | [The Earth Song](https://open.spotify.com/artist/03MbnQnCTCSiRWUbmEgo2r) | [Hawaiian Rainforest](https://open.spotify.com/album/7pIUkWpdvBoW5iMipGnmy1) | 2:30 |
+| 39 | [Relaxing Afternoon Rain](https://open.spotify.com/track/6gfzHvzslUJYs1dVMMhyaF) | [The Earth Song](https://open.spotify.com/artist/03MbnQnCTCSiRWUbmEgo2r) | [Hawaiian Rainforest](https://open.spotify.com/album/7pIUkWpdvBoW5iMipGnmy1) | 2:30 |
+| 40 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
 | 41 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
 | 42 | [Rain Forest Bird Sounds](https://open.spotify.com/track/05lsppV4srCvaDYOh7XeOB) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 2:48 |
 | 43 | [Relaxing Jungle Sounds](https://open.spotify.com/track/17kqaq39xg9nP1j6goQW5A) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:23 |
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 63 | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/track/26MpviERp5F3eLwotmejx7) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [White Noise \(Peaceful Jungle\)](https://open.spotify.com/album/6WNnFWfsilmn4th5FDhBU2) | 8:52 |
 | 64 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 |
 | 65 | [Sleep Under The Leaves](https://open.spotify.com/track/1PsGLGg9ohMYigEsqoQrqQ) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Wild life](https://open.spotify.com/album/4EcVNjlDHEfNuS8OsnbQ4z) | 3:28 |
-| 66 | [Late Night In The Rainforest](https://open.spotify.com/track/6neg4vRWipQEtwmvVyzqaY) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 |
-| 67 | [Jungle Bird Sound](https://open.spotify.com/track/0CX24Ttg9UwIguSMA0zuyl) | [Streams of Dreams](https://open.spotify.com/artist/2MjkAKmAqlHhYHUISO8lli) | [Jungle Bird Sound](https://open.spotify.com/album/5m2Db8rEj86IQOJ94T2FIa) | 2:40 |
+| 66 | [Jungle Bird Sound](https://open.spotify.com/track/0CX24Ttg9UwIguSMA0zuyl) | [Streams of Dreams](https://open.spotify.com/artist/2MjkAKmAqlHhYHUISO8lli) | [Jungle Bird Sound](https://open.spotify.com/album/5m2Db8rEj86IQOJ94T2FIa) | 2:40 |
+| 67 | [Late Night In The Rainforest](https://open.spotify.com/track/6neg4vRWipQEtwmvVyzqaY) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Sounds of Burma](https://open.spotify.com/album/66dgbk5BAbZ7TCR3cp9D5h) | 3:32 |
 | 68 | [Evening Drizzle](https://open.spotify.com/track/6cT7dRMHzgURq44rPtFHUB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 |
 | 69 | [Pouring River & Forest Sounds](https://open.spotify.com/track/7pecvxazasdLJwT4IQbmUa) | [Reikini](https://open.spotify.com/artist/41EYcaGVBz9149nNS89YYJ) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 4:33 |
 | 70 | [Morning in the Wet Tropical Forest](https://open.spotify.com/track/1UhDET2ZIaRs15fb3DHbOT) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Morning in the Wet Tropical Forest](https://open.spotify.com/album/1yljOnXzPodIsHlICJp0ec) | 2:06 |
 | 71 | [Rainforest](https://open.spotify.com/track/1nsiddORSPYmnx7wYdlFHa) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:55 |
-| 72 | [In The Wild](https://open.spotify.com/track/402u8vEl017GWUpTxYwbxT) | [Zebric](https://open.spotify.com/artist/1I4n7zzunfZwuEo8bPB7VZ) | [In The Wild](https://open.spotify.com/album/6VjivM6ZIYQcZbVQ3hjtsP) | 2:04 |
-| 73 | [Jungle Birds](https://open.spotify.com/track/6MWoe4PamKz2nP0K9XDbrO) | [Conscious Sound](https://open.spotify.com/artist/0LtbBHxYaBnZeog8DsQjJ1) | [Exotic Highways](https://open.spotify.com/album/6wzUe5UfP5QzS9eiFgOQzr) | 5:29 |
+| 72 | [Jungle Birds](https://open.spotify.com/track/6MWoe4PamKz2nP0K9XDbrO) | [Conscious Sound](https://open.spotify.com/artist/0LtbBHxYaBnZeog8DsQjJ1) | [Exotic Highways](https://open.spotify.com/album/6wzUe5UfP5QzS9eiFgOQzr) | 5:29 |
+| 73 | [In The Wild](https://open.spotify.com/track/402u8vEl017GWUpTxYwbxT) | [Zebric](https://open.spotify.com/artist/1I4n7zzunfZwuEo8bPB7VZ) | [In The Wild](https://open.spotify.com/album/6VjivM6ZIYQcZbVQ3hjtsP) | 2:04 |
 | 74 | [Distant ocean, birds and insects in the forest](https://open.spotify.com/track/6VtOLJbtuy3bBULJvnd8pQ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Distant ocean, birds and insects in the forest](https://open.spotify.com/album/2x2JL6cGSi0wtg9y6bmav1) | 4:34 |
 | 75 | [Forest for rest](https://open.spotify.com/track/09ivEmCidtMHce7mS2XInL) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Forest Rain Sounds](https://open.spotify.com/album/0u5LVWFnf1IB2fXEhg2WkO) | 2:44 |
 | 76 | [Rain Forest Birds](https://open.spotify.com/track/2yX5Adexq0JukUGJvqlkYA) | [Himalaya Nature](https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8) | [Himalaya Bird Sounds](https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x) | 2:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,965 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,016 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 4 | [Try Again](https://open.spotify.com/track/6dp3XPQJuC7qP7TaEFVgL5) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s) | 4:44 |
 | 5 | [Let Me Go \- Remastered 2006](https://open.spotify.com/track/2VpWQNy9Ywa6rIPX4l54A2) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [The Luxury Gap \(Deluxe Version\)](https://open.spotify.com/album/7uiDwjlTNmG6chyrlVITf6) | 4:22 |
 | 6 | [At Night \- Peggy Gou's Acid Journey Remix](https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [At Night \(Remixes\)](https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8) | 7:11 |
-| 7 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
-| 8 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
+| 7 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
+| 8 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
 | 9 | [Problèmes d'Amour \- Original](https://open.spotify.com/track/4xeQXFdKrNPQcGyze66bIx) | [Alexander Robotnick](https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq) | [Problèmes D'amour \(All Versions\)](https://open.spotify.com/album/3WV1F6sgTj0Dw5UISLb5HB) | 7:00 |
 | 10 | [Do I Do \- Extended Mix](https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C) | 7:14 |
 | 11 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |

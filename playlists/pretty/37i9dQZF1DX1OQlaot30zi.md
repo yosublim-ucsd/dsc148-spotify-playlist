@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sick Luke e Izi, Simba e Tony Boy e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,028 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,032 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 5 | [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 |
 | 6 | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX) | 3:14 |
 | 7 | [CRASH](https://open.spotify.com/track/0Op5iGBVLyY0G1lDDRfEnf) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 4:07 |
-| 8 | [MILLY](https://open.spotify.com/track/6zzcr5civMj9cKQDiTFE3l) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [MILLY](https://open.spotify.com/album/1kVpGWPrFHLWXogTepm0fr) | 3:37 |
+| 8 | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/track/6zzcr5civMj9cKQDiTFE3l) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/album/1kVpGWPrFHLWXogTepm0fr) | 3:37 |
 | 9 | [Ride or Die](https://open.spotify.com/track/1juCtQiq8Q87sNIq6O3m4C) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Angels & Demons](https://open.spotify.com/album/4xsXRhVYeGFS5RpTM5nroP) | 3:13 |
 | 10 | [SOLTANTO SE](https://open.spotify.com/track/6Szjif4uGa4pPhIyFVfHVJ) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [SOLTANTO SE](https://open.spotify.com/album/59p0X0Ig5TsELzz4VvsDbn) | 2:47 |
 | 11 | [BLESS SU BLESS](https://open.spotify.com/track/2D70Rxq21tVlTJwtugZ4CA) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CASA GOSPEL](https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh) | 2:40 |

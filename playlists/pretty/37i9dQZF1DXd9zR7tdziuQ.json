@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 941788,
+  "num_followers": 941860,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Perfect (Acoustic)",
-        "url": "https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Perfect - Acoustic",
-      "url": "https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "James Bay Spotify Session 2015",
         "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Perfect (Acoustic)",
+        "url": "https://open.spotify.com/album/4uJ318DIOMiA4y9vg2dRwv"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Perfect - Acoustic",
+      "url": "https://open.spotify.com/track/5T6bJp3XgwT0IaCfKMxmAu"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Why Worry: A Collection of Covers",
         "url": "https://open.spotify.com/album/2XB49bxOGV2L6tz6vkwRjT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 245906,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/2AhqPhQ4E1r9v2i2TfJHR0"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Pretty Girl (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "Pretty Girl - Acoustic Version",
-      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Rhythm Inside (Acoustic)",
         "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 212171,
       "name": "Rhythm Inside - Acoustic",
       "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Pretty Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "Pretty Girl - Acoustic Version",
+      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "City of Stars",
-        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City of Stars",
-      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "City of Stars",
+        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 154858,
+      "name": "City of Stars",
+      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
+        "name": "Brandy (You're a Fine Girl)",
+        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Catey Shaw",
+          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
         }
       ],
-      "duration_ms": 277894,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
+      "duration_ms": 208198,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1159,50 +1159,18 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Brandy (You're a Fine Girl)",
-        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
       },
       "artists": [
         {
-          "name": "Catey Shaw",
-          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 208198,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "2U (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 208102,
-      "name": "2U - Acoustic Version",
-      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Umbrella (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 178319,
-      "name": "Umbrella - Acoustic Version",
-      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
+      "duration_ms": 277894,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1223,6 +1191,38 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Umbrella (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 178319,
+      "name": "Umbrella - Acoustic Version",
+      "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "2U (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 208102,
+      "name": "2U - Acoustic Version",
+      "url": "https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/0SHdoaGuQV2EjhQ6HEX9K2"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Francesco Yates",
-        "url": "https://open.spotify.com/album/0fZ2df3UU6G0nY27hD7Oc1"
-      },
-      "artists": [
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "Sugar - Acoustic",
-      "url": "https://open.spotify.com/track/34hxvwFw9OmXVg3DO27V80"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Shallow",
         "url": "https://open.spotify.com/album/6JlWkUQJQu2Py6G2zL1sLA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 221712,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/4q0v24VXobXe0kTLb46Xa9"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Francesco Yates",
+        "url": "https://open.spotify.com/album/0fZ2df3UU6G0nY27hD7Oc1"
+      },
+      "artists": [
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "Sugar - Acoustic",
+      "url": "https://open.spotify.com/track/34hxvwFw9OmXVg3DO27V80"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 202684,
-      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Stolen Dance",
         "url": "https://open.spotify.com/album/0Qt0bpaJqOxRqDy3eiGXAO"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 235466,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/6tXrb9kJTmgGOZqpq1powO"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 202684,
+      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
     },
     {
       "added_at": "2024-07-10 07:20:21",

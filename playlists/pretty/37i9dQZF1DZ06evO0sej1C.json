@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 42333,
+  "num_followers": 42346,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3sdAAAAAAAmJal/wcgh+PqBVkREUUzv",
+  "snapshot_id": "Z3xugAAAAABWHnO1wWp0KOKyvm9jRyeJ",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Dijeron",
-        "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187768,
-      "name": "No Me Dijeron",
-      "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Me Dijeron",
+        "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 187768,
+      "name": "No Me Dijeron",
+      "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Quiero Verte",
-        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Ya No Quiero Verte",
-      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
     },
     {
       "added_at": null,

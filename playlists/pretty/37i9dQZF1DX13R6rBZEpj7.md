@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,085 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,208 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 51 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
 | 52 | [Dapper](https://open.spotify.com/track/3OzAvvApHy9PT6oHcYMRYG) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Cleva Thoughts](https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs) | [Dapper](https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj) | 2:52 |
 | 53 | [DIY \- Old Skool Mix](https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 3:09 |
-| 54 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
-| 55 | [Boom](https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Boom](https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA) | 3:02 |
-| 56 | [Anytime](https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Anytime](https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943) | 2:03 |
+| 54 | [Anytime](https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Anytime](https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943) | 2:03 |
+| 55 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
+| 56 | [Boom](https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Boom](https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA) | 3:02 |
 | 57 | [Wavelord Bizniz](https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray), [Napes](https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5) | [Wavelord Bizniz](https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK) | 4:40 |
 | 58 | [Passion](https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [What About The DJ?](https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV) | 4:40 |
 | 59 | [Haters](https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Haters](https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk) | 2:58 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 66 | [Affiliation](https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0) | [Bermal](https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt) | [Affiliation](https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU) | 3:10 |
 | 67 | [The Grind](https://open.spotify.com/track/67Uex8KnYkPmE5lamgKNR7) | [Duckworthsound](https://open.spotify.com/artist/3swJXxJ2hVoZoHZVj855A0), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Duckplates](https://open.spotify.com/artist/579dZYX6XzHaxmk2oGdUwu) | [The Grind](https://open.spotify.com/album/3RgbT5ZV3F1lhCPfiOuPo2) | 3:45 |
 | 68 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
-| 69 | [Rude Boyz](https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Rude Boyz](https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB) | 3:25 |
-| 70 | [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 |
+| 69 | [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 |
+| 70 | [Rude Boyz](https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Rude Boyz](https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB) | 3:25 |
 
 Snapshot ID: `Z0kEAAAAAAD88xVG1g92VLcMKubFnKIC`

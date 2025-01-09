@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 294546,
+  "num_followers": 294746,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -159,26 +159,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "leavemealone",
-        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Won't Back Down",
+        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Won't Back Down",
+      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "079",
         "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Won't Back Down",
-        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
-      },
-      "artists": [
-        {
-          "name": "PRINSH",
-          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Won't Back Down",
-      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
     },
     {
       "added_at": "2024-11-15 03:00:00",

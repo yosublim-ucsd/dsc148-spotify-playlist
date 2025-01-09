@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "album": {
         "name": "PEEKABOO",
         "url": "https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi"
       },
@@ -1568,7 +1586,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -3482,7 +3500,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -3994,7 +4012,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 84149,
       "name": "Suka",
       "url": "https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M"
@@ -5118,7 +5136,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 129756,
       "name": "\u0411\u043e\u0431\u0440",
       "url": "https://open.spotify.com/track/3M7TcCC5bdrgLZeYms1x3Y"
@@ -6240,7 +6258,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-09",
       "duration_ms": 130274,
       "name": "\u043a\u043e\u043d\u0447\u0438\u043b",
       "url": "https://open.spotify.com/track/4Q6eUXtjd9sbzP2orZY6x0"
